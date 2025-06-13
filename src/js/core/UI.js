@@ -161,14 +161,20 @@ class GameUI {
                 ospedaleHtml = ` <span style='margin-left:12px;'></span><span style='font-size:13px;'>Destinazione: <b>${mezzoConOspedale.ospedale.nome}</b></span> <span style='display:inline-block;width:5px;height:5px;margin-left:6px;vertical-align:middle;background:${getColoreCodice(mezzoConOspedale.codice_trasporto)};background-size:cover;'></span>`;
             }
         }
-          // Ottieni le tipologie dei mezzi per mostrarle nell'intestazione
-        const tipiMezziHeader = [];
-        if (call.mezziAssegnati && call.mezziAssegnati.length > 0 && window.game && window.game.mezzi) {
-            const mezziInMissione = window.game.mezzi.filter(m => (call.mezziAssegnati||[]).includes(m.nome_radio));
-            // Estrai le tipologie uniche dei mezzi
-            tipiMezziHeader.push(...new Set(mezziInMissione.map(m => m.tipo_mezzo)));
-        }
-        
+          // Calcola fasce operative basate sul nome_radio assegnati e orario simulato
+        const assignedUnique = Array.from(new Set((call.mezziAssegnati||[]).map(n=>n.trim())));
+        // Build current time string
+        const secEC = window.simTime || 0;
+        const hhEC = Math.floor(secEC/3600) % 24;
+        const mmEC = Math.floor((secEC % 3600)/60);
+        const oraEC = `${String(hhEC).padStart(2,'0')}:${String(mmEC).padStart(2,'0')}`;
+        let mezziInMissioneEC = (window.game.mezzi||[]).filter(m => assignedUnique.includes(m.nome_radio.trim()));
+        // Preferisci solo i mezzi operativi al momento
+        const operativiEC = typeof isMezzoOperativo === 'function'
+            ? mezziInMissioneEC.filter(m => isMezzoOperativo(m, oraEC))
+            : mezziInMissioneEC;
+        if (operativiEC.length) mezziInMissioneEC = operativiEC;
+        const tipiMezziHeader = Array.from(new Set(mezziInMissioneEC.map(m => m.tipo_mezzo)));
         const tipiMezziText = tipiMezziHeader.length > 0 
             ? `<span style="color:#1565C0;font-size:12px;margin-left:6px;">[${tipiMezziHeader.join(', ')}]</span>` 
             : '';
@@ -220,17 +226,33 @@ class GameUI {
         // Forza sempre call.indirizzo valorizzato
         if (!call.indirizzo && call.location) call.indirizzo = call.location;
         if (!call.location && call.indirizzo) call.location = call.indirizzo;
+        // Build list of current assigned vehicle records (only operational, non-returned)
+        // Build assignedRecords: vehicles on mission (exclude returned state 7)
+        const assignedUnique = Array.from(new Set((call.mezziAssegnati||[]).map(n => n.trim())));
+        const allAssigned = (this.game.mezzi||[]).filter(m => assignedUnique.includes(m.nome_radio.trim()) && m.stato !== 7);
+        // Determine current simulated time for schedule filter
+        const secT = window.simTime || 0;
+        const hhT = Math.floor(secT/3600)%24;
+        const mmT = Math.floor((secT%3600)/60);
+        const oraT = `${String(hhT).padStart(2,'0')}:${String(mmT).padStart(2,'0')}`;
+        // Prefer vehicles operational now, else use any non-returned
+        const operativi = typeof isMezzoOperativo === 'function'
+            ? allAssigned.filter(m => isMezzoOperativo(m, oraT))
+            : allAssigned;
+        const selected = operativi.length ? operativi : allAssigned;
+        // Deduplicate by nome_radio
+        const assignedRecords = Array.from(new Map(selected.map(m=>[m.nome_radio.trim(), m])).values());
         const div = document.getElementById(`evento-${call.missioneId}`);
         if (!div) return;
-        
         // Estrai via e comune senza CAP
         let indirizzo = call.indirizzo || call.location || 'Indirizzo sconosciuto';
         let via = '', comune = '';
         const viaMatch = indirizzo.match(/((Via|Viale|Piazza|Corso|Largo|Vicolo|Contrada|Borgo|Strada) [^,]+)/i);
         if(viaMatch) via = viaMatch[1];
+        // Regex: cerca la parte dopo la virgola, elimina CAP e prende solo il nome del comune
+        // Esempio: "Via Decò e Canetta, 24068 Seriate BG" => comune = "Seriate"
         const comuneMatch = indirizzo.match(/,\s*(?:\d{5}\s*)?([\w' ]+?)\s+[A-Z]{2}/);
-        if(comuneMatch) comune = comuneMatch[1].replace(/\d+/g, '').trim();
-        let indirizzoSintetico = via;
+        if(comuneMatch) comune = comuneMatch[1].replace(/\d+/g, '').trim();        let indirizzoSintetico = via;
         if(comune) indirizzoSintetico += ' - ' + comune;
         indirizzoSintetico = indirizzoSintetico.trim() || indirizzo;
         
@@ -240,13 +262,14 @@ class GameUI {
         let missioneStatusText = '';
         
         // Verifica se ci sono mezzi assegnati
-        const hasMezziAssegnati = call.mezziAssegnati && call.mezziAssegnati.length > 0;
-          if (!hasMezziAssegnati) {
+        const hasMezziAssegnati = assignedRecords.length > 0;
+        if (!hasMezziAssegnati) {
             // Stile per missioni senza mezzi: bordo tratteggiato grigio
             missioneStyle = 'border: 2px dashed #999; border-radius: 5px;';
             missioneStatusText = '<span style="color:#999;font-size:12px;margin-left:10px;">■ Nessun mezzo</span>';
         } else if (this.game && this.game.mezzi) {
-            const mezzi = this.game.mezzi.filter(m => (call.mezziAssegnati||[]).includes(m.nome_radio));
+            // Use assignedRecords (vehicles on mission) for status logic
+            const mezzi = assignedRecords;
             
             // Verifica se c'è almeno un mezzo con report pronto
             const hasReportPronto = mezzi.some(m => (m.comunicazioni||[]).some(c => c.toLowerCase().includes('report pronto')));
@@ -289,12 +312,20 @@ class GameUI {
         }        // Aggiorna header e dettagli
         const header = div.querySelector('.missione-header');
         if(header) {
-            // Ottieni le tipologie dei mezzi per mostrarle nell'intestazione
-            const tipiMezziHeader = [];
+            // Ottieni solo i mezzi assegnati, filtra per operatività oraria e deduplica tipi
+            let tipiMezziHeader = [];
             if (call.mezziAssegnati && call.mezziAssegnati.length > 0 && this.game && this.game.mezzi) {
-                const mezziInMissione = this.game.mezzi.filter(m => (call.mezziAssegnati||[]).includes(m.nome_radio));
-                // Estrai le tipologie uniche dei mezzi
-                tipiMezziHeader.push(...new Set(mezziInMissione.map(m => m.tipo_mezzo)));
+                // Calcola orario simulato nel formato HH:mm
+                const secUI = window.simTime || 0;
+                const hhUI = Math.floor(secUI/3600) % 24;
+                const mmUI = Math.floor((secUI % 3600)/60);
+                const oraUI = `${String(hhUI).padStart(2,'0')}:${String(mmUI).padStart(2,'0')}`;
+                const assigned = Array.from(new Set(call.mezziAssegnati.map(n=>n.trim())));
+                let mezziInMissione = this.game.mezzi.filter(m => assigned.includes(m.nome_radio.trim()));
+                // Preferisci i mezzi attualmente operativi
+                const operativi = mezziInMissione.filter(m => typeof isMezzoOperativo === 'function' && isMezzoOperativo(m, oraUI));
+                if (operativi.length) mezziInMissione = operativi;
+                tipiMezziHeader = Array.from(new Set(mezziInMissione.map(m => m.tipo_mezzo)));
             }
             
             const tipiMezziText = tipiMezziHeader.length > 0 
@@ -329,11 +360,9 @@ class GameUI {
             }
 
             let html = '';
-            const mezziAssegnati = (call.mezziAssegnati||[]);
-            // Exclude vehicles that have returned to base (state 7)
-            const mezzi = (this.game.mezzi||[])
-                .filter(m => mezziAssegnati.includes(m.nome_radio) && m.stato !== 7);
-            const ospedali = (window.game && window.game.hospitals) ? window.game.hospitals : (this.game.hospitals||[]);
+            // Use deduplicated assignedRecords for listing vehicles
+            const mezzi = assignedRecords;
+             const ospedali = (window.game && window.game.hospitals) ? window.game.hospitals : (this.game.hospitals||[]);
 
             // Se non ci sono ospedali, mostra messaggio di caricamento
             if (!ospedali.length) {
@@ -552,10 +581,13 @@ class GameUI {
                 }                html += '</div>';
             });
 
-            // Ottieni i tipi di mezzi unici per questa missione
-            const tipiMezziUnici = Array.from(new Set(mezzi.map(m => m.tipo_mezzo)));
+            // Ottieni le tipologie dei mezzi assegnati sul campo (stato !=7)
+            const tipiMezziHeader = Array.from(new Set(assignedRecords.map(m => m.tipo_mezzo)));
+            const tipiMezziText = tipiMezziHeader.length > 0 
+                ? `<span style="color:#1565C0;font-size:12px;margin-left:6px;">[${tipiMezziHeader.join(', ')}]</span>` 
+                : '';
             
-            dettagli.innerHTML = `<div><b>Tipologia Mezzi:</b> ${tipiMezziUnici.join(', ') || 'Nessuno'}</div>${html}<div class='report-section'></div>`;
+            dettagli.innerHTML = `<div><b>Tipologia Mezzi:</b> ${tipiMezziHeader.join(', ') || 'Nessuno'}</div>${html}<div class='report-section'></div>`;
             
             // Mostra i dettagli se almeno un mezzo ha inviato report pronto
             if(almenoUnMezzoReportPronto) {

@@ -1432,8 +1432,16 @@ class EmergencyDispatchGame {
 
         // Funzione per aggiornare la tabella dei mezzi nel popup missione
         this.updateMissionPopupTable = function(call) {
-            // List all vehicles but disable those not in state 1,2,7
-            const mezziFiltrati = this.mezzi;
+            // Determine simulated time string for availability check
+            const sec = window.simTime || 0;
+            const hh = Math.floor(sec/3600) % 24;
+            const mm = Math.floor((sec % 3600) / 60);
+            const orario = `${String(hh).padStart(2,'0')}:${String(mm).padStart(2,'0')}`;
+            // Use local sorted `mezzi` (with distances), filter by state and operational schedule, then dedupe by nome_radio
+            const raw = mezzi.filter(m => [1,2].includes(m.stato) && isMezzoOperativo(m, orario));
+             const mezziFiltrati = Array.from(
+                new Map(raw.map(m => [m.nome_radio.trim(), m])).values()
+            );
              let html = `<table class='stato-mezzi-table' style='width:100%;margin-bottom:0;'>
                 <thead><tr>
                     <th style='width:40%;text-align:left; padding:1px 2px;'>Nome</th>
@@ -1591,8 +1599,13 @@ class EmergencyDispatchGame {
             ).join('');
         }
 
-        // Mostra mezzi in stato 1, 2, 6, 7 oppure già assegnati
-        const mezziFiltrati = mezzi.filter(m => [1,2,6,7].includes(m.stato) || (call.mezziAssegnati||[]).includes(m.nome_radio));
+        // Mostra mezzi in stato 1, 2, 6, 7 oppure già assegnati, quindi deduplica per nome_radio
+        const rawMezziFiltrati = mezzi.filter(m => [1,2,6,7].includes(m.stato) || (call.mezziAssegnati||[]).includes(m.nome_radio));
+        const mezziFiltrati = Array.from(
+            new Map(
+                rawMezziFiltrati.map(m => [m.nome_radio.trim(), m])
+            ).values()
+        );
         let html = `<table class='stato-mezzi-table' style='width:100%;margin-bottom:0;'>
             <thead><tr>
                 <th style='width:38%;text-align:left; padding:1px 2px;'>Nome</th>
@@ -1616,12 +1629,12 @@ class EmergencyDispatchGame {
             // Disable checkbox if vehicle is not in allowed states
             const disabledAttr = ![1,2,7].includes(m.stato) ? 'disabled' : '';
             // Compute displayName with prefix for vehicles from other centrals
-            const currentCentral2 = (window.selectedCentral||'').trim().toUpperCase();
-            const vehicleCentral2 = (m.central||'').trim().toUpperCase();
-            const prefixMap2 = { SRA:['SRL','SRP'], SRL:['SRA','SRM','SRP'], SRM:['SRL','SRP'], SRP:['SRA','SRL','SRM'] };
-            let displayName2 = m.nome_radio;
-            if (vehicleCentral2 && prefixMap2[currentCentral2]?.includes(vehicleCentral2)) {
-                displayName2 = `(${vehicleCentral2}) ${m.nome_radio}`;
+            const currentCentral = (window.selectedCentral||'').trim().toUpperCase();
+            const vehicleCentral = (m.central||'').trim().toUpperCase();
+            const prefixMap = { SRA:['SRL','SRP'], SRL:['SRA','SRM','SRP'], SRM:['SRL','SRP'], SRP:['SRA','SRL','SRM'] };
+            let displayName = m.nome_radio;
+            if (vehicleCentral && prefixMap[currentCentral]?.includes(vehicleCentral)) {
+                displayName = `(${vehicleCentral}) ${m.nome_radio}`;
             }
             // Compute distance display for each mezzo
             const distanza = (m._dist !== undefined && isFinite(m._dist))
@@ -1630,7 +1643,7 @@ class EmergencyDispatchGame {
             html += `<tr style='${evidenzia}'>`+
                 `<td style='white-space:nowrap;padding:1px 2px;text-align:left;'>`+
                 `<label style='display:flex;align-items:center;gap:1px;'>`+
-                `<input type='checkbox' name='mezzi' value='${m.nome_radio}' ${checked} ${disabledAttr} style='margin:0 2px 0 0;vertical-align:middle;'><span style='vertical-align:middle;'>${icon}${displayName2}</span>`+
+                `<input type='checkbox' name='mezzi' value='${m.nome_radio}' ${checked} ${disabledAttr} style='margin:0 2px 0 0;vertical-align:middle;'><span style='vertical-align:middle;'>${icon}${displayName}</span>`+
                 `</label></td>`+
                 `<td style='padding:1px 2px;text-align:left;'>${m.tipo_mezzo || ''}</td>`+
                 `<td style='padding:1px 2px;text-align:left;'>${m.convenzione || ''}</td>`+
