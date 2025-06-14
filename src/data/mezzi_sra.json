@@ -651,7 +651,7 @@
         "Nome Postazione": "Croce Rossa Italiana - Seriate",
         "Coordinate Postazione": "45.6783189,9.7302458",
         "Mezzo": "MSB",
-        "Nome radio": "CRISER_119.13A1",
+        "Nome radio": "CRISER_105.13A1",
         "Convenzione": "H24",
         "Orario di lavoro": "dalle 00:00 alle 00:00",
         "Giorni": "LUN-DOM"
@@ -869,8 +869,8 @@
         "Mezzo": "MSB",
         "Nome radio": "PEM_BG_106.05A2",
         "Convenzione": "H24",
-        "Orario di lavoro": "dalle 00:00 alle 00:00",
-        "Giorni": "LUN-DOM"
+        "Orario di lavoro": "dalle 07:00 alle 19:00",
+        "Giorni": "LUN-VEN"
     },
     {
         "Nome Postazione": "Padana Emergenza Bergamo",
@@ -1364,8 +1364,8 @@
         "Mezzo": "MSB",
         "Nome radio": "VOLBRE_115.04A1",
         "Convenzione": "H24",
-        "Orario di lavoro": "dalle 07:00 alle 07:00",
-        "Giorni": "SAB-DOM"
+        "Orario di lavoro": "VEN 19:00-24:00, SAB 00:00-24:00, DOM 00:00-07:00",
+        "Giorni": "VEN-DOM"
     },
     {
         "Nome Postazione": "Volontari Ambulanza Capriolo",
@@ -1580,7 +1580,7 @@
         "Mezzo": "MSB",
         "Nome radio": "PEM_BG_106.04A1",
         "Convenzione": "H24",
-        "Orario di lavoro": "dalle 07:00 alle 07:00",
+        "Orario di lavoro": "dalle 07:00 alle 19:00",
         "Giorni": "LUN-VEN"
     }
 ]

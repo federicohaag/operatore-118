@@ -860,7 +860,7 @@ class EmergencyDispatchGame {
                const pianuraList = await resPianura.json();
                (Array.isArray(pianuraList)? pianuraList : []).forEach(h=>{
                    const coords = (h.COORDINATE||'').split(',').map(s=>Number(s.trim()));
-                   const lat = coords[0], lon = coords[1];
+                   const lat=coords[0], lon=coords[1];
                    if(lat!=null&&lon!=null) hospitalsAll.push({ nome: `(SRP) ${h.OSPEDALE?.trim()||''}`, lat, lon, indirizzo: h.INDIRIZZO||'', raw: h });
                });
                // render markers
@@ -1126,7 +1126,7 @@ class EmergencyDispatchGame {
                 Math.abs(m.lon - postazione.lon) < 0.0001
             );
             // Se non ci sono proprio mezzi in questa postazione dopo il filtro, allora salta
-            if (tuttiMezziPostazione.length === 0) return;
+            // if (tuttiMezziPostazione.length === 0) return;  // keep station visible even if all vehicles left coordinates
             
             let mezziHtml = '';
             if (mezziPostazione.length > 0) {
@@ -1222,7 +1222,8 @@ class EmergencyDispatchGame {
             let iconUrl = 'src/assets/MSB.png'; // Default icon
             if (m.tipo_mezzo && m.tipo_mezzo.toUpperCase().includes('ELI')) {
                 iconUrl = 'src/assets/ELI.png';
-            } else if (m.tipo_mezzo && (m.tipo_mezzo.startsWith('MSA1') || m.tipo_mezzo.startsWith('MSA2'))) {
+            } else if (m.tipo_mezzo && (m.tipo_mezzo.startsWith('MSA1') || m.tipo_mezzo.startsWith('MSA2'))
+           && m.tipo_mezzo !== 'MSA1_A' && m.tipo_mezzo !== 'MSA2_A') {
                 iconUrl = 'src/assets/MSA.png';
             }
             
