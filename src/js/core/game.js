@@ -1663,7 +1663,8 @@ class EmergencyDispatchGame {
                     const tipo = btn.getAttribute('data-tipo');
                     // Seleziona solo il primo mezzo non ancora selezionato di quel tipo
                     const checkboxes = Array.from(document.querySelectorAll('#mezziAssegnatiScroll input[type=checkbox]'));
-                    const mezziTipo = mezziFiltrati.filter(m => m.tipo_mezzo && m.tipo_mezzo.startsWith(tipo));
+                    // Consider only vehicles in state 1, 2 or 7
+                    const mezziTipo = mezziFiltrati.filter(m => m.tipo_mezzo && m.tipo_mezzo.startsWith(tipo) && [1,7].includes(m.stato));
                     for (const m of mezziTipo) {
                         const cb = checkboxes.find(c => c.value === m.nome_radio);
                         if (cb && !cb.checked) {
