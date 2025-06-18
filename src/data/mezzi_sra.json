@@ -1582,5 +1582,14 @@
         "Convenzione": "H24",
         "Orario di lavoro": "dalle 07:00 alle 19:00",
         "Giorni": "LUN-VEN"
+    },
+    {
+        "Nome Postazione": "Volontari 3 Valli",
+        "Coordinate Postazione": "46.2399162,9.3970639",
+        "Mezzo": "MSB",
+        "Nome radio": "VTVPRA_302",
+        "Convenzione": "GET",
+        "Orario di lavoro": "dalle 07:00 alle 19:00",
+        "Giorni": "SAB-DOM, VEN 19:00-7:00,"
     }
 ]

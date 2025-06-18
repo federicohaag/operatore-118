@@ -1186,5 +1186,32 @@
         "Convenzione": "H24",
         "Orario di lavoro": "22:00-6:00",
         "Giorni": "LUN-DOM"
+    },
+    {
+        "Nome Postazione": "Croce Blu Milano",
+        "Coordinate Postazione": "45.5826908,9.1039545",
+        "Mezzo": "MSB",
+        "Nome radio": "BLU_MI_305",
+        "Convenzione": "GET",
+        "Orario di lavoro": "00:00-00:00",
+        "Giorni": "LUN-DOM"
+    },
+    {
+        "Nome Postazione": "Ambulanze Private Milano",
+        "Coordinate Postazione": "45.5753945,9.1535905",
+        "Mezzo": "MSB",
+        "Nome radio": "APMPAD_337",
+        "Convenzione": "GET",
+        "Orario di lavoro": "00:00-00:00",
+        "Giorni": "LUN-DOM"
+    },
+    {
+        "Nome Postazione": "Stazionamento Miani",
+        "Coordinate Postazione": "45.437498,9.155198",
+        "Mezzo": "MSB",
+        "Nome radio": "APMPAD_339",
+        "Convenzione": "AGG",
+        "Orario di lavoro": "8:00-20:00",
+        "Giorni": "LUN-GIO"
     }
 ]

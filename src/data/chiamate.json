@@ -828,7 +828,19 @@
       "MSA1": "Femmina, 80 anni, vertigine con nausea, GCS 15, PA 145/90 mmHg, FC 90 bpm, SpO₂ 97%, lieve difficoltà alla deambulazione, probabile sindrome vertiginosa da indagare in pronto soccorso. [PS]",
       "MSA2": "Femmina, 80 anni, vertigine con nausea, GCS 15, PA 145/90 mmHg, FC 90 bpm, SpO₂ 97%, lieve difficoltà alla deambulazione, probabile sindrome vertiginosa da indagare in pronto soccorso. [PS]"
     }
+  },
+    "chiamata_51": {
+    "testo_chiamata": "Pronto, chiamo da (indirizzo abitazione), mio figlio è caduto dalla bici nel cortile di casa, ha battuto il ginocchio, è sveglio ma ha tanto dolore! ",
+    "caso_stabile": {
+      "MSB": "Maschio, 12 anni, caduta accidentale da bici nel cortile di casa, lamenta dolore al ginocchio dx, escoriazione superficiale, nessuna deformità evidente, PA 115/75 mmHg, FC 85 bpm, SpO₂ 99%, anamesi muta, applicata steccobenda. [OTT]",
+      "MSA1": "Maschio, 12 anni, caduta accidentale da bici nel cortile di casa, dolore al ginocchio dx, escoriazione superficiale, PA 115/75 mmHg, FC 85 bpm, SpO₂ 99%, immobilizzazione con steccobenda, anamesi muta. [OTT]",
+      "MSA2": "Maschio, 12 anni, caduta accidentale da bici nel cortile di casa, dolore al ginocchio dx, escoriazione superficiale, PA 115/75 mmHg, FC 85 bpm, SpO₂ 99%, immobilizzazione con steccobenda, anamesi muta. [OTT]"
+    },
+    "poco_stabile": {
+      "MSB": "Maschio, 12 anni, caduta accidentale da bici nel cortile di casa, deformità e dolore ginocchio destro, PA 115/75 mmHg, FC 90 bpm, SpO₂ 99%, anamesi muta, applicata steccobenda. [OTT]",
+      "MSA1": "Maschio, 12 anni, caduta accidentale da bici, dolore intenso al ginocchio dx, sospetta lussazione di rotula, PA 115/75 mmHg, FC 90 bpm, SpO₂ 99%, applicata steccobenda. [OTT]",
+      "MSA2": "Maschio, 12 anni, caduta accidentale da bici, dolore intenso al ginocchio dx, sospetta lussazione di rotula, PA 115/75 mmHg, FC 90 bpm, SpO₂ 99%., applicata steccobenda, somministrato Fentanil per analgesia [OTT]"
+    }
   }
 }
-
 

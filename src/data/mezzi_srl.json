@@ -1420,5 +1420,41 @@
         "Convenzione": "H24",
         "Orario di lavoro": "20:00-8:00",
         "Giorni": "LUN-DOM"
+    },
+    {
+        "Nome Postazione": "Volontari Del Soccorso Veleso",
+        "Coordinate Postazione": "45.9081452,9.1822873",
+        "Mezzo": "MSB",
+        "Nome radio": "VOLVEL_301",
+        "Convenzione": "GET",
+        "Orario di lavoro": "19:00-00:00",
+        "Giorni": "LUN-VEN, SAB-DOM 8:00-16:00"
+    },
+      {
+        "Nome Postazione": "HighCare",
+        "Coordinate Postazione": "45.5720112,9.272325",
+        "Mezzo": "MSB",
+        "Nome radio": "HCR_MB_307",
+        "Convenzione": "GET",
+        "Orario di lavoro": "00:00-00:00",
+        "Giorni": "LUN-VEN"
+    },
+    {
+        "Nome Postazione": "La Varesina Emergenza",
+        "Coordinate Postazione": "45.7453756,8.7698675",
+        "Mezzo": "MSB",
+        "Nome radio": "VARMOR_329",
+        "Convenzione": "GET",
+        "Orario di lavoro": "8:00-18:00",
+        "Giorni": "LUN-VEN"
+    },
+    {
+        "Nome Postazione": "Due Stelle Soccorso",
+        "Coordinate Postazione": "45.7024456,9.1652485",
+        "Mezzo": "MSB",
+        "Nome radio": "SOCMAR_ 311",
+        "Convenzione": "GET",
+        "Orario di lavoro": "8:00-18:00",
+        "Giorni": "LUN-VEN"
     }
 ]
