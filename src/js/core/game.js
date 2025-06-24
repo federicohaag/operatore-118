@@ -852,7 +852,7 @@ class EmergencyDispatchGame {
                const metroList = await resMetro.json();
                (Array.isArray(metroList)? metroList : []).forEach(h=>{
                    const coords = (h.COORDINATE||'').split(',').map(s=>Number(s.trim()));
-                   const lat = coords[0], lon = coords[1];
+                   const lat=coords[0], lon=coords[1];
                    if(lat!=null&&lon!=null) hospitalsAll.push({ nome: `(SRM) ${h.OSPEDALE?.trim()||''}`, lat, lon, indirizzo: h.INDIRIZZO||'', raw: h });
                });
                // 4) PS SOREU Pianura (prefisso SRP)
@@ -1338,7 +1338,13 @@ class EmergencyDispatchGame {
         const indirizzo = sourceList[idx] || { indirizzo: 'Indirizzo sconosciuto', lat: 45.68, lon: 9.67 };
         // Sostituisci ogni placeholder con l'indirizzo selezionato
         testo_chiamata = (testo_chiamata || '').replace(/\(indirizzo [^)]+\)/gi, indirizzo.indirizzo);
-         
+        // Fallback testo chiamata se vuoto
+        if (!testo_chiamata.trim()) {
+            testo_chiamata = 'Paziente con sintomi da valutare...';
+        }
+        // Rimuove qualsiasi tag tra parentesi quadre (es. [OTT])
+        testo_chiamata = testo_chiamata.replace(/\[[^\]]*\]/g, '').trim();
+        
         // Randomly select case type (stabile/poco stabile/critico)
 
         const caseTypes = ['caso_stabile', 'caso_poco_stabile', 'caso_critico'];
@@ -1376,6 +1382,7 @@ class EmergencyDispatchGame {
         const progressivo = this.missionCounter[central].toString().padStart(6, '0');
         const missioneId = `${decina}${unita}${code}${progressivo}`;
         const id = 'C' + Date.now() + Math.floor(Math.random()*1000);
+
         const call = {
             id,
             missioneId,
@@ -1740,8 +1747,8 @@ class EmergencyDispatchGame {
                     }
                     
                     // Aggiungi una comunicazione
-                    aggiungiComunicazioneMezzo(mezzo, 'Rimosso dalla missione, rientro in sede');
-                               }
+                    aggiungiComunicazioneMezzo(mezzo, 'Libero in sede');
+               }
             }
         });
         
@@ -1936,7 +1943,7 @@ class EmergencyDispatchGame {
                     mezzo.codice_trasporto = null;
                     mezzo._trasportoConfermato = false;
                     mezzo._trasportoAvviato = false;
-                    mezzo.comunicazioni = (mezzo.comunicazioni || []).concat([`Rientrato in postazione`]);
+                    mezzo.comunicazioni = (mezzo.comunicazioni || []).concat([`Libero in sede`]);
                     this.ui.updateStatoMezzi(mezzo);
                     this.updateMezzoMarkers();
                     this.updatePostazioneMarkers();

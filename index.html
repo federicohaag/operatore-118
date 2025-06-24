@@ -214,7 +214,6 @@
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
       <!-- Load utilities first - NO defer to ensure they're available immediately -->
     <script src="src/js/utils/orariMezzi.js"></script>
-    <script src="src/data/indirizzi.js"></script>
     
     <!-- Then load core files -->
     <script src="src/js/core/UI.js"></script>
@@ -230,20 +229,19 @@
         const sel = document.getElementById('central-select');
         const hdr = document.querySelector('.header-title');
         if (hdr) hdr.textContent = sel.options[sel.selectedIndex].text;
-        // Load corresponding indirizzi if not default SRA
-        if (window.selectedCentral !== 'SRA') {
+        // Load corresponding indirizzi file for selected central
+        try {
             const path = `src/data/indirizzi ${window.selectedCentral}.json`;
-            try {
-                const resp = await fetch(path);
-                const data = await resp.json();
-                window.indirizziReali = data.map(item => ({
-                    indirizzo: item.indirizzo || item['indirizzo abitazione'],
-                    lat: item.lat,
-                    lon: item.lon
-                }));
-            } catch (e) {
-                console.error('Error loading indirizzi:', e);
-            }
+            const resp = await fetch(path);
+            const data = await resp.json();
+            window.indirizziReali = data.map(item => ({
+                indirizzo: item.indirizzo || item['indirizzo abitazione'],
+                lat: item.lat,
+                lon: item.lon
+            }));
+        } catch (e) {
+            console.error('Error loading indirizzi:', e);
+            window.indirizziReali = [];
         }
         // Initialize simulation day/time
         const now = new Date();

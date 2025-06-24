@@ -14,7 +14,7 @@
         "Mezzo": "MSB",
         "Nome radio": "ATATRE_356",
         "Convenzione": "GET",
-        "Orario di lavoro": "9:30- 18:30",
+        "Orario di lavoro": "00:00- 00:00",
         "Giorni": "LUN-SAB"
     },
     {
@@ -1010,19 +1010,10 @@
     {
         "Nome Postazione": "Postazione AREU - Esine",
         "Coordinate Postazione": "45.9293584,10.2495912",
-        "Mezzo": "MSA1",
-        "Nome radio": "BS_006",
-        "Convenzione": "H12",
-        "Orario di lavoro": "dalle 20:00 alle 8:00",
-        "Giorni": "LUN-DOM"
-    },
-    {
-        "Nome Postazione": "Postazione AREU - Esine",
-        "Coordinate Postazione": "45.9293584,10.2495912",
         "Mezzo": "MSA2",
         "Nome radio": "BS_006",
-        "Convenzione": "H12",
-        "Orario di lavoro": "Dalle 8:00 alle 20:00",
+        "Convenzione": "H24",
+        "Orario di lavoro": "Dalle 00:00 alle 00:00",
         "Giorni": "LUN-DOM"
     },
     {

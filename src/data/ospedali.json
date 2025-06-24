@@ -406,8 +406,22 @@
     "Psichiatria":"false "
   },
   {
-    "OSPEDALE":"H MORBEGNO",
+    "OSPEDALE":"PPI MORBEGNO",
     "COORDINATE":"46.133742, 9.573930",
+    "N° pazienti Max":10,
+    "CLASSE":"PS",
+    "PUNTO NASCITA":"false ",
+    "PEDIATRIA":"false ",
+    "TRAUMA":"OTT",
+    "EMODINAMICA":"false ",
+    "STROKE UNIT":"false ",
+    "NCH":"false ",
+    "Rianimazione":"false ",
+    "Psichiatria":"false "
+  },
+  {
+    "OSPEDALE":"PPI LIVIGNO",
+    "COORDINATE":"46.5177456,10.124462",
     "N° pazienti Max":10,
     "CLASSE":"PS",
     "PUNTO NASCITA":"false ",

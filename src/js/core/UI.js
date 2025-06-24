@@ -104,7 +104,16 @@ class GameUI {
         // Regex: cerca la parte dopo la virgola, elimina CAP e prende solo il nome del comune
         // Esempio: "Via Decò e Canetta, 24068 Seriate BG" => comune = "Seriate"
         const comuneMatch = indirizzo.match(/,\s*(?:\d{5}\s*)?([\w' ]+?)\s+[A-Z]{2}/);
-        if(comuneMatch) comune = comuneMatch[1].replace(/\d+/g, '').trim();        let indirizzoSintetico = via;
+        if(comuneMatch) comune = comuneMatch[1].replace(/\d+/g, '').trim();
+        // Fallback per indirizzi con formato "... – 25012 Comune BS"
+        if(!comune && indirizzo.includes('–')) {
+            const parts = indirizzo.split('–');
+            const tail = parts[parts.length-1] || '';
+            // Rimuovi CAP e sigla provincia
+            let cleaned = tail.replace(/^\s*\d{5}\s*/,'').replace(/\s+[A-Z]{2}\s*$/,'').trim();
+            if(cleaned) comune = cleaned;
+        }
+        let indirizzoSintetico = via;
         if(comune) indirizzoSintetico += ' - ' + comune;
         indirizzoSintetico = indirizzoSintetico.trim() || indirizzo;
         
@@ -257,7 +266,16 @@ class GameUI {
         // Regex: cerca la parte dopo la virgola, elimina CAP e prende solo il nome del comune
         // Esempio: "Via Decò e Canetta, 24068 Seriate BG" => comune = "Seriate"
         const comuneMatch = indirizzo.match(/,\s*(?:\d{5}\s*)?([\w' ]+?)\s+[A-Z]{2}/);
-        if(comuneMatch) comune = comuneMatch[1].replace(/\d+/g, '').trim();        let indirizzoSintetico = via;
+        if(comuneMatch) comune = comuneMatch[1].replace(/\d+/g, '').trim();
+        // Fallback per indirizzi con formato "... – 25012 Comune BS"
+        if(!comune && indirizzo.includes('–')) {
+            const parts = indirizzo.split('–');
+            const tail = parts[parts.length-1] || '';
+            // Rimuovi CAP e sigla provincia
+            let cleaned = tail.replace(/^\s*\d{5}\s*/,'').replace(/\s+[A-Z]{2}\s*$/,'').trim();
+            if(cleaned) comune = cleaned;
+        }
+        let indirizzoSintetico = via;
         if(comune) indirizzoSintetico += ' - ' + comune;
         indirizzoSintetico = indirizzoSintetico.trim() || indirizzo;
         
@@ -473,6 +491,8 @@ class GameUI {
                 const highlightStyle = m.stato === 6 ? 'background:#fff9c4;padding:4px;border-radius:4px;' : '';
                 html += `<div style='margin-bottom:6px;${highlightStyle}'><b>${m.nome_radio}</b>`;
                 if (testoScheda) {
+                    // Remove any text in square brackets from report text
+                    testoScheda = testoScheda.replace(/\[[^\]]*\]/g, '').trim();
                     html += `<br><span style='font-size:12px;color:#1976d2;white-space:pre-line;'>${testoScheda}</span>`;
                 }
 
@@ -802,6 +822,8 @@ class GameUI {
                     : '';
                 // Build row: Nome, Tipo/Convenzione, Stato, Comunicazioni
                 const hasReport = comunicazione.toLowerCase().includes('report pronto');
+                // differenzia report non letto (lampeggio) da report letto
+                const hasUnreadReport = hasReport && !m._reportLetto;
                 // Aggiungi prefisso e sfondo bianco ai mezzi di altre centrali
                 let displayName = m.nome_radio;
                 let extraStyle = '';
@@ -813,15 +835,31 @@ class GameUI {
                     displayName = `(${vehicleCentral}) ${m.nome_radio}`;
                     extraStyle = 'background-color:white;';
                 }
-                const rowStyle = `display:flex;align-items:center;border-bottom:1px solid #ddd;padding:4px 0;${hasReport ? 'animation: blink-report 1s infinite;' : ''}${extraStyle}`;
+                const rowStyle = `display:flex;align-items:center;border-bottom:1px solid #ddd;padding:4px 0;${hasUnreadReport ? 'animation: blink-report 1s infinite;' : ''}${extraStyle}`;
                 stateDiv.insertAdjacentHTML('beforeend', `
                     <div class="mezzo-row" data-mezzo-id="${m.nome_radio}" style="${rowStyle}">
                         <div class="mezzo-cell" style="flex:3;overflow:hidden;text-overflow:ellipsis;">${displayName}</div>
                         <div class="tipo-cell" style="flex:2;overflow:hidden;text-overflow:ellipsis;">${m.tipo_mezzo || ''}${m.convenzione ? ' - ' + m.convenzione : ''}</div>
                         <div class="stato-cell" style="flex:1;text-align:left;">${statoLabel}</div>
-                        <div class="comunicazione-cell" style="flex:2;overflow:hidden;text-overflow:ellipsis;color:${hasReport ? '#d32f2f' : '#555'};">${comunicazione}</div>
+                        <div class="comunicazione-cell" style="flex:2;overflow:hidden;text-overflow:ellipsis;color:${hasUnreadReport ? '#d32f2f' : '#555'};">${comunicazione}</div>
                     </div>
-                `);        });
+                `);
+                // Aggiungo click handler per marcare report come letto
+                if (comunicazione.toLowerCase().includes('report pronto')) {
+                   // Selezione robusta evitando caratteri invalidi nel selettore
+                   const rows = stateDiv.querySelectorAll('.mezzo-row');
+                   const rowEl = Array.from(rows).find(el => el.getAttribute('data-mezzo-id') === m.nome_radio);
+                   if (rowEl) {
+                       rowEl.addEventListener('click', () => {
+                           m._reportLetto = true;
+                           m._msgLampeggia = false;
+                           if (window.game && window.game.ui && typeof window.game.ui.updateStatoMezzi === 'function') {
+                               window.game.ui.updateStatoMezzi(m);
+                           }
+                       });
+                   }
+                }
+        });
         
         // Populate hospital list
         // Dynamic grouping per centrale operativa
@@ -907,6 +945,13 @@ class GameUI {
             if (cellComm) {
                 cellComm.addEventListener('click', e => {
                     e.stopPropagation();
+                    // Recupera il mezzo corrispondente e marca il report come letto
+                    const mezzo = window.game.mezzi.find(x => x.nome_radio === mezzoId);
+                    if (mezzo && mezzo._reportLetto !== true) {
+                        mezzo._reportLetto = true;
+                        this.updateStatoMezzi();
+                    }
+                    // Se presente report, espandi la missione e scrolla
                     if (cellComm.textContent.includes('Report pronto')) {
                         const calls = Array.from(window.game.calls.values())
                             .filter(call => (call.mezziAssegnati||[]).includes(mezzoId));
