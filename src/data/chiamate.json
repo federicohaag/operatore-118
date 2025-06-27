@@ -409,9 +409,9 @@
     "chiamata_25": {
         "testo_chiamata": "Aiuto! C'è stato un incidente stradale in (strada). Due auto coinvolte, una persona sembra incastrata e non risponde, altre persone sono ferite! Mandate subito soccorsi!",
         "caso_stabile": {
-            "MSB": "Maschio, 35 anni, vigile, lieve contusione in area frontale, dolore in area cervicale, FC 78 bpm, PA 120/80 mmHg, SpO₂ 98%. Nessuna lesione importante evidente. [OTT]",
-            "MSA1": "Maschio, 35 anni, GCS 15. Trauma frontale, riferisce lieve cervicalgia, parametri stabili, nessuna lesione importante da segnalare. [OTT]",
-            "MSA2": "Maschio, 35 anni, GCS 15. Trauma frontale, riferisce lieve cervicalgia, parametri stabili, nessuna lesione importante da segnalare. [OTT]"
+            "MSB": "Femmina, 50 anni,, vigile, lieve contusione in area frontale, dolore in area cervicale, FC 78 bpm, PA 120/80 mmHg, SpO₂ 98%. Nessuna lesione importante evidente. [OTT]",
+            "MSA1": "Femmina, 50 anni, GCS 15. Trauma frontale, riferisce lieve cervicalgia, parametri stabili, nessuna lesione importante da segnalare. [OTT]",
+            "MSA2": "Femmina, 50 anni, GCS 15. Trauma frontale, riferisce lieve cervicalgia, parametri stabili, nessuna lesione importante da segnalare. [OTT]"
         },
         "caso_poco_stabile": {
             "MSB": "Femmina, 50 anni, vigile e collaborante, trauma toracico ed addominale, dispnea moderata, FC 95 bpm, PA 105/70 mmHg, SpO₂ 92% somministrato Ossigeno 4 lt/min, immobilizzata con materasso a depressione. [PST]",
@@ -419,9 +419,9 @@
             "MSA2": "Femmina, 50 anni, GCS 15, trauma emitorace sx, sospetta frattura di bacino sx, FC 95 bpm, PA 105/70 mmHg, SpO₂ 92% somministrato Ossigeno 4 lt/min. Analgesia EV, posizionato cintura pelvica. [PST]"
         },
         "caso_critico": {
-            "MSB": "Femmina circa 30 anni, incosciente, incastrata, FC 150 bpm, PA non rilevabile. Richiesta MSA. [CTZ]",
-            "MSA1": "Femmina, circa 30 anni, GCS 3, politrauma grave, PNX decompresso, trauma addome e bacino, FC 150, PA 70/40, SpO₂ 82%, Bolo 250 di ringer + tranex 1mg Ev, posizionata cintura pelvica, necessario trasporto presso CTZ, richiesta MSA2. [CTZ]",
-                        "MSA2": "Femmina, circa 30 anni, GCS 3, politrauma grave, PNX decompresso, trauma addome e bacino, FC 150, PA 70/40, SpO₂ 82%, Bolo 250 di ringer + tranex 1mg Ev, posizionata cintura pelvica, necessario trasporto presso CTZ. [CTZ]"
+            "MSB": "Femmina circa 50 anni, incosciente, incastrata, FC 150 bpm, PA non rilevabile. Richiesta MSA. [CTZ]",
+            "MSA1": "Femmina, circa 50 anni, GCS 3, politrauma grave, PNX decompresso, trauma addome e bacino, FC 150, PA 70/40, SpO₂ 82%, Bolo 250 di ringer + tranex 1mg Ev, posizionata cintura pelvica, necessario trasporto presso CTZ, richiesta MSA2. [CTZ]",
+            "MSA2": "Femmina, circa 50 anni, GCS 3, politrauma grave, PNX decompresso, trauma addome e bacino, FC 150, PA 70/40, SpO₂ 82%, Bolo 250 di ringer + tranex 1mg Ev, posizionata cintura pelvica, necessario trasporto presso CTZ. [CTZ]"
                     }
      },
   "chiamata_26": {
@@ -602,19 +602,19 @@
     "chiamata_36": {
     "testo": "Salve chiamo da (indirizzo abitazione), ho un dolore molto forte nella parte destra dell’addome da qualche ora. È peggiorato da qualche minuto ed ho anche un po’ di nausea.",
     "caso_stabile": {
-        "MSB": "Maschio, 35 anni, vigile, dolore al fianco dx, PA 130/85 mmHg, FC 82 bpm, SpO₂ 99%. Pz noto per coliche renali. [PS]",
-        "MSA1": "Maschio, 35 anni, GCS 15, dolore al fianco dx, PA 130/85 mmHg, FC 82 bpm, SpO₂ 99%. Sospetta colica renale in pz noto per coliche renali, in corso Ketorolac EV. [PS]",
-        "MSA2": "Maschio, 35 anni, GCS 15, dolore in loggia renale dx, PA 130/85 mmHg, FC 82 bpm, SpO₂ 99%. Sospetta colica renale in pz noto per coliche renali, in corso Ketorolac EV. [PS]"
+        "MSB": "Maschio, 37 anni, vigile, dolore al fianco dx, PA 130/85 mmHg, FC 82 bpm, SpO₂ 99%. Pz noto per coliche renali. [PS]",
+        "MSA1": "Maschio, 37 anni, GCS 15, dolore al fianco dx, PA 130/85 mmHg, FC 82 bpm, SpO₂ 99%. Sospetta colica renale in pz noto per coliche renali, in corso Ketorolac EV. [PS]",
+        "MSA2": "Maschio, 37 anni, GCS 15, dolore in loggia renale dx, PA 130/85 mmHg, FC 82 bpm, SpO₂ 99%. Sospetta colica renale in pz noto per coliche renali, in corso Ketorolac EV. [PS]"
        },
     "caso_poco_stabile": {
-        "MSB": "Maschio, 35 anni, vigile e collaborante, SpO₂ 99%, PA 110/70 mmHg, FC 102 bpm, Tc 38.7°C. Dolore intenso al fianco dx irradiato in adome, riferisce nausea e febbre, pz noto per coliche renali. [PS]",
-        "MSA1": "Maschio, 35 anni, GCS 15, SpO₂ 99%, PA 110/70 mmHg, FC 102 bpm, Tc 38.7°C. Dolore intenso al fianco dx irradiato in adome, riferisce nausea e febbre, pz noto per coliche renali. In corso Ketorolac EV. [PS]",
-        "MSA2": "Maschio, 35 anni, GCS 15, SpO₂ 99%, PA 110/70 mmHg, FC 102 bpm, Tc 38.7°C. Dolore intenso al fianco dx irradiato in adome, riferisce nausea e febbre, pz noto per coliche renali. In corso Ketorolac EV. [PS]"
+        "MSB": "Maschio, 37 anni, vigile e collaborante, SpO₂ 99%, PA 110/70 mmHg, FC 102 bpm, Tc 38.7°C. Dolore intenso al fianco dx irradiato in adome, riferisce nausea e febbre, pz noto per coliche renali. [PS]",
+        "MSA1": "Maschio, 37 anni, GCS 15, SpO₂ 99%, PA 110/70 mmHg, FC 102 bpm, Tc 38.7°C. Dolore intenso al fianco dx irradiato in adome, riferisce nausea e febbre, pz noto per coliche renali. In corso Ketorolac EV. [PS]",
+        "MSA2": "Maschio, 37 anni, GCS 15, SpO₂ 99%, PA 110/70 mmHg, FC 102 bpm, Tc 38.7°C. Dolore intenso al fianco dx irradiato in adome, riferisce nausea e febbre, pz noto per coliche renali. In corso Ketorolac EV. [PS]"
       },
     "caso_critico": {
-        "MSB": "Maschio, 35 anni, sveglio, addome rigido, PA 85/60 mmHg, FC 128 bpm, SpO₂ 94%, Tc 39.8°c . riferisce dolore importante a tutto l'addome, nessuna patologia nota. [DEA]",
-        "MSA1": "Maschio, 35 anni, sveglio, addome teso, PA 85/60 mmHg, FC 128 bpm, SpO₂ 94%, Tc 39.8°c . riferisce dolore importante a tutto l'addome, nessuna patologia nota, sospetta peritonite, in corso ringer 500ml EV. [DEA]",
-        "MSA2": "Maschio, 35 anni, sveglio, addome teso, PA 85/60 mmHg, FC 128 bpm, SpO₂ 94%, Tc 39.8°c . riferisce dolore importante a tutto l'addome, nessuna patologia nota, sospetta peritonite, in corso ringer 500ml EV. [DEA]"
+        "MSB": "Maschio, 37 anni, sveglio, addome rigido, PA 85/60 mmHg, FC 128 bpm, SpO₂ 94%, Tc 39.8°c . riferisce dolore importante a tutto l'addome, nessuna patologia nota. [DEA]",
+        "MSA1": "Maschio, 37 anni, sveglio, addome teso, PA 85/60 mmHg, FC 128 bpm, SpO₂ 94%, Tc 39.8°c . riferisce dolore importante a tutto l'addome, nessuna patologia nota, sospetta peritonite, in corso ringer 500ml EV. [DEA]",
+        "MSA2": "Maschio, 37 anni, sveglio, addome teso, PA 85/60 mmHg, FC 128 bpm, SpO₂ 94%, Tc 39.8°c . riferisce dolore importante a tutto l'addome, nessuna patologia nota, sospetta peritonite, in corso ringer 500ml EV. [DEA]"
       }
     },
   "chiamata_37": {
