@@ -126,5 +126,13 @@
   { "indirizzo abitazione": "Via Dante Alighieri, 22070 Guanzate CO", "lat": 45.7330, "lon": 9.0330 },
   { "indirizzo abitazione": "Via Roma, 22071 Cadorago CO", "lat": 45.7330, "lon": 9.0330 },
   { "indirizzo abitazione": "Via Camillo Benso Cavour, 22070 Casnate con Bernate CO", "lat": 45.7830, "lon": 9.0830 },
-  { "indirizzo abitazione": "Via Vittorio Veneto, 22070 Montano Lucino CO", "lat": 45.8000, "lon": 9.0500 }
+  { "indirizzo abitazione": "Via Vittorio Veneto, 22070 Montano Lucino CO", "lat": 45.8000, "lon": 9.0500 },
+  { "RSA ": "RSA Como, Via Bignanico - 22100 Como CO", "lat": 45.8230492, "lon": 9.0660638 },
+  { "Impianto lavorativo ": "Lechler , Via Cecilio, 17 - 22100 Como CO", "lat": 45.7827766, "lon": 9.0628228 },
+  { "Scuola ": "ISS Borgovico , Viale Giuseppe Sinigaglia, 10 - 22100 Como CO", "lat": 45.8131543, "lon": 9.0704523 },
+  { "Strada ": "A9 Milano Laghi km 30 -  22070 Grandate CO", "lat": 45.7525611, "lon": 9.0406136 },
+  { "RSA ": "RSA Monza, Via Carlo Collodi, 6 - 20900 Monza MB", "lat": 45.5789636, "lon": 9.2913224 },
+  { "Impianto lavorativo ": "TENARIS , Via Achille Grandi, 100, 20862 Arcore MB", "lat": 45.6300426, "lon":9.3424982 },
+  { "Scuola ": "ISS Bellani , Viale Ugo Foscolo, 6 - 20900 Monza MB", "lat": 45.5769954, "lon": 9.2846074 },
+  { "Strada ": "A4 MI-VE km 141 - Brugherio 20861 MB", "lat": 45.5619425, "lon": 9.3081634 }
 ]

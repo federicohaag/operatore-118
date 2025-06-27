@@ -36,7 +36,7 @@
         }
     },
     "chiamata_3": {
-        "testo_chiamata": "Buongiorno, chiamo da (indirizzo abitazione/ scuola/ impianto sportivo) Un ragazzo di 16 anni sembra sia svenuto, è a terra ed è pallido. Dice che gli gira la testa e ha il cuore che batte fortissimo. È sveglio ma molto spaventato.",
+        "testo_chiamata": "Buongiorno, chiamo da (scuola) Un ragazzo di 16 anni sembra sia svenuto, è a terra ed è pallido. Dice che gli gira la testa e ha il cuore che batte fortissimo. È sveglio ma molto spaventato.",
         "caso_stabile": {
             "MSB": "Maschio, 16 anni, vigile all’arrivo, riferito episodio di vertigini e astenia. Parametri vitali normali: FC 85 bpm, PA 125/75 mmHg, SpO₂ 98%. Nessun trauma. Ansioso, monitorato e rassicurato. Sospetta lipotimia da sforzo. Nessuna patologia nota.[PS]",
             "MSA1": "Maschio, 16 anni, cosciente e collaborante. Parametri vitali: FC 90 bpm, PA 120/70 mmHg, SpO₂ 99%, GCS 15. Palpitazioni autolimitate, nessun trauma. Ringer Acetato 500ml EV. [PS]",
@@ -54,7 +54,7 @@
         }
     },
     "chiamata_4": {
-        "testo_chiamata": "Siamo presso (indirizzo RSA). Un ospite, anziano, ha cominciato a respirare male e poi ha iniziato a tossire sangue. È molto debole, non riesce a parlare e sembra confuso. È seduto, ma lo teniamo fermo.",
+        "testo_chiamata": "Siamo presso (RSA). Un ospite, anziano, ha cominciato a respirare male e poi ha iniziato a tossire sangue. È molto debole, non riesce a parlare e sembra confuso. È seduto, ma lo teniamo fermo.",
         "caso_stabile": {
             "MSB": "Maschio, 82 anni, vigile ma affaticato. Tosse ematica lieve, SpO₂ 95%, FC 92 bpm, PA 135/80 mmHg. Riferita bronchite cronica. Monitorato, somministrato O₂ 2 l/min. Nessun trauma. Anamnesi: BPCO.[PS]",
             "MSA1": "Maschio, 82 anni, vigile, dispnea moderata, GCS 15. Parametri: FC 94 bpm, PA 130/80 mmHg, SpO₂ 94%. Episodio emottisico autolimitato. O₂ 4 l/min, accesso EV posizionato. Sospetta: riacutizzazione BPCO.[PS]",
@@ -72,7 +72,7 @@
         }
     },
     "chiamata_5": {
-        "testo_chiamata": "Pronto, c'è stato un incidente a (indirizzo strada). Un'auto si è scontrata con un ragazzo in moto. È a terra, sembra dolorante, ha il casco ma non riesce a muoversi bene. Respira, ma grida dal dolore.",
+        "testo_chiamata": "Pronto, c'è stato un incidente a (indirizzo abitazione). Un'auto si è scontrata con un ragazzo in moto. È a terra, sembra dolorante, ha il casco ma non riesce a muoversi bene. Respira, ma grida dal dolore.",
         "caso_stabile": {
             "MSB": "Maschio, 25 anni, vigile e cosciente a terra. Trauma spalla e ginocchio dx, senza perdita di coscienza. Parametri: FC 82 bpm, PA 130/80 mmHg, SpO₂ 98%. Immobilizzazione spinale. Anamnesi muta. [OTT]",
             "MSA1": "Maschio, 25 anni, cosciente. Contusione spalla dx e dolore al ginocchio dx. Parametri: FC 85 bpm, PA 135/80 mmHg, SpO₂ 97%, GCS 15. Ketorolac 30mg EV, immobilizzazione spinale. Trauma minore. Nessuna patologia riferita. [OTT]",
@@ -108,7 +108,7 @@
         }
     },
     "chiamata_7": {
-        "testo_chiamata": "Salve, siamo al ristorante in (indirizzo esercizio pubblico). Un uomo ha iniziato a gonfiarsi in volto dopo aver mangiato qualcosa. Ora fa fatica a respirare, ha la pelle rossa e dice che sente la gola chiusa. Aiutateci subito!",
+        "testo_chiamata": "Salve, siamo al ristorante in (indirizzo abitazione). Un uomo ha iniziato a gonfiarsi in volto dopo aver mangiato qualcosa. Ora fa fatica a respirare, ha la pelle rossa e dice che sente la gola chiusa. Aiutateci subito!",
         "caso_stabile": {
             "MSB": "Maschio, 40 anni, cosciente. Orticaria diffusa, lieve difficoltà respiratoria. FC 92 bpm, PA 130/80 mmHg, SpO₂ 96%. Anamnesi: allergia nota a crostacei. [PS]",
             "MSA1": "Maschio, 40 anni, vigile, rush cutaneo e riferita dispnea. FC 95 bpm, PA 135/85 mmHg, SpO₂ 95%, GCS 15. Somministrato Idrocortisone 500mg e trimeton 1 fiala IM. Anamnesi: allergia nota a crostacei, reazione allergica moderata. [PS]",
@@ -144,7 +144,7 @@
         }
     },
     "chiamata_9": {
-        "testo_chiamata": "Buongiorno, chiamo da (indirizzo abitazione/ scuola/ esercizio pubblico/ impianto lavorativo). Un operaio è caduto da una scala, da circa tre metri. È finito a terra sul fianco. È cosciente, ma si lamenta molto e non riesce a muoversi. Abbiamo bisogno di aiuto!",
+        "testo_chiamata": "Buongiorno, chiamo da (indirizzo abitazione). Un operaio è caduto da una scala, da circa tre metri. È finito a terra sul fianco. È cosciente, ma si lamenta molto e non riesce a muoversi. Abbiamo bisogno di aiuto!",
         "caso_stabile": {
             "MSB": "Maschio, 45 anni, cosciente. Riferito dolore a bacino e arto inferiore. FC 88 bpm, PA 130/80 mmHg, SpO₂ 97%. Immobilizzazione su materassino a depressione. Anamnesi muta. [PST]",
             "MSA1": "Maschio, 45 anni, vigile, dolore intenso al bacino. FC 90 bpm, PA 135/85 mmHg, SpO₂ 96%, GCS 15. Immobilizzazione, somministrato Ketorolac 30 mg EV. [PST]",
@@ -162,21 +162,21 @@
         }
     },
     "chiamata_10": {
-        "testo_chiamata": "Salve, un ragazzo sta tremando a terra davanti a noi in (indirizzo abitazione/ esercizio pubblico/ impianto sportivo). Ha sbattuto la testa, perde bava e non risponde. È caduto di colpo e adesso non si muove più.",
+        "testo_chiamata": "Salve, un ragazzo sta tremando a terra davanti a noi a (scuola). Ha sbattuto la testa, perde bava e non risponde. È caduto di colpo e adesso non si muove più.",
         "caso_stabile": {
-            "MSB": "Maschio, 19 anni, confuso, riferita crisi epilettica attualmente non in atto. FC 85 bpm, PA 120/75 mmHg, SpO₂ 97%. Anamnesi: epilessia nota.[DEA]",
-            "MSA1": "Maschio, 19 anni, vigile, confuso in stato post-critico. FC 88 bpm, PA 125/80 mmHg, SpO₂ 98%. Nessuna lesione evidente. Monitoraggio. Epilettico noto.[DEA]",
-            "MSA2": "Maschio, 19 anni, cosciente. Parametri nella norma. Crisi epilettica autolimitata. Anamnesi nota.[DEA]"
+            "MSB": "Maschio, 18 anni, confuso, riferita crisi epilettica attualmente non in atto. FC 85 bpm, PA 120/75 mmHg, SpO₂ 97%. Anamnesi: epilessia nota.[DEA]",
+            "MSA1": "Maschio, 18 anni, vigile, confuso in stato post-critico. FC 88 bpm, PA 125/80 mmHg, SpO₂ 98%. Nessuna lesione evidente. Monitoraggio. Epilettico noto.[DEA]",
+            "MSA2": "Maschio, 18 anni, cosciente. Parametri nella norma. Crisi epilettica autolimitata. Anamnesi nota.[DEA]"
         },
         "caso_poco_stabile": {
-            "MSB": "Maschio, 19 anni, soporoso. FC 95 bpm, PA 110/70 mmHg, SpO₂ 94%. Anamnesi riferita: epilessia. Richiesta MSA.[DEA]",
-            "MSA1": "Maschio, 19 anni, GCS 10. Convulsioni recidivanti. Midazolam 5 mg EV, O₂ 6 l/min. Trauma al volto.[DEA]",
-            "MSA2": "Maschio, 19 anni, GCS 10. Stato post-critico prolungato. Parametri stabili. Somministrato Midazolam 10 mg EV.[DEA]"
+            "MSB": "Maschio, 18 anni, soporoso. FC 95 bpm, PA 110/70 mmHg, SpO₂ 94%. Anamnesi riferita: epilessia. Richiesta MSA.[DEA]",
+            "MSA1": "Maschio, 18 anni, GCS 10. Convulsioni recidivanti. Midazolam 5 mg EV, O₂ 6 l/min. Trauma al volto.[DEA]",
+            "MSA2": "Maschio, 18 anni, GCS 10. Stato post-critico prolungato. Parametri stabili. Somministrato Midazolam 10 mg EV.[DEA]"
         },
         "caso_critico": {
-            "MSB": "Maschio, 19 anni, incosciente. FC 120 bpm, PA 80/50 mmHg, SpO₂ 86%. Crisi prolungata, sospetto stato epilettico. Richiesta MSA.[Rianimazione]",
-            "MSA1": "Paziente in stato epilettico, non risponde a Midazolam. Necessita ventilazione assistita. Midazolam 10 mg EV, richiesta MSA2.[Rianimazione]",
-            "MSA2": "Maschio, 19 anni, in stato epilettico refrattario. GCS 3, intubato. Sedazione profonda, controllo vie aeree. Trasferimento urgente in Rianimazione. [Rianimazione]"
+            "MSB": "Maschio, 18 anni, incosciente. FC 120 bpm, PA 80/50 mmHg, SpO₂ 86%. Crisi prolungata, sospetto stato epilettico. Richiesta MSA.[Rianimazione]",
+            "MSA1": "Maschio, 18 anni, in stato epilettico, non risponde a Midazolam. Necessita ventilazione assistita. Midazolam 10 mg EV, richiesta MSA2.[Rianimazione]",
+            "MSA2": "Maschio, 18 anni, in stato epilettico refrattario. GCS 3, intubato. Sedazione profonda, controllo vie aeree. Trasferimento urgente in Rianimazione. [Rianimazione]"
         }
     },
     "chiamata_11": {
@@ -198,7 +198,7 @@
         }
     },
     "chiamata_12": {
-        "testo_chiamata": "Salve, in (indirizzo abitazione/scuola / eserciziopubblico) c’è una ragazza che urla, è agitata, ha gettato oggetti e sembra completamente fuori controllo. Ha cercato di lanciarsi in strada. È in pericolo e mette in pericolo gli altri!",
+        "testo_chiamata": "Salve, in (indirizzo abitazione) c’è una ragazza che urla, è agitata, ha gettato oggetti e sembra completamente fuori controllo. Ha cercato di lanciarsi in strada. È in pericolo e mette in pericolo gli altri!",
         "caso_stabile": {
             "MSB": "Femmina, 28 anni, agitazione psicomotoria. FC 95 bpm, PA 125/80 mmHg, SpO₂ 98%. Nessuna anamnesi riferita. [Psichiatria]",
             "MSA1": "Femmina, 28 anni, vigile, ansiosa, comportamento incongruente. FC 92 bpm, PA 130/85 mmHg, SpO₂ 97%. Anamnesi: disturbo bipolare noto. Necessita valutazione psichiatrica. [Psichiatria]",
@@ -234,21 +234,21 @@
         }
     },
     "chiamata_14": {
-        "testo_chiamata": "Buongiorno, chiamo da (indirizzo random). Una ragazza giovane si è accasciata al suolo, ansima e dice che le manca l’aria. Ha 24 anni, respira molto velocemente e ha mani e labbra intorpidite. È molto agitata.",
+        "testo_chiamata": "Buongiorno, chiamo da (scuola). Una ragazza giovane si è accasciata al suolo, ansima e dice che le manca l’aria. Ha 19 anni, respira molto velocemente e ha mani e labbra intorpidite. È molto agitata.",
         "caso_stabile": {
-            "MSB": "Femmina, 24 anni, vigile, tachipnoica, agitata. FC 98 bpm, PA 120/75 mmHg, SpO₂ 98%. Anamnesi: attacchi di panico. Rassicurata, ventilata con mascherina a circuito chiuso.[PS]",
-            "MSA1": "Femmina, 24 anni, GCS 15. Dispnea soggettiva, parestesie mani-labbra. Parametri vitali stabili. Riferita crisi d’ansia.[PS]",
-            "MSA2": "Femmina, 24 anni, vigile. Iperventilazione reattiva. FC 96 bpm, PA 125/80 mmHg, SpO₂ 99%. Respirazione guidata e controllo crisi.[PS]"
+            "MSB": "Femmina, 19 anni, vigile, tachipnoica, agitata. FC 98 bpm, PA 120/75 mmHg, SpO₂ 98%. Anamnesi: attacchi di panico. Rassicurata, ventilata con mascherina a circuito chiuso.[PS]",
+            "MSA1": "Femmina, 19 anni, GCS 15. Dispnea soggettiva, parestesie mani-labbra. Parametri vitali stabili. Riferita crisi d’ansia.[PS]",
+            "MSA2": "Femmina, 29 anni, vigile. Iperventilazione reattiva. FC 96 bpm, PA 125/80 mmHg, SpO₂ 99%. Respirazione guidata e controllo crisi.[PS]"
         },
         "caso_poco_stabile": {
-            "MSB": "Femmina, 24 anni, agitata, dispnea marcata. FC 110 bpm, PA 100/60 mmHg, SpO₂ 92%. Anamnesi: asma bronchiale. O₂ 4 l/min. [PS]",
-            "MSA1": "Femmina, 24 anni, GCS 14. Dispnea grave con sibilo in fase inspiratoria. FC 115 bpm, PA 95/55 mmHg, SpO₂ 90%. Somministrato salbutamolo + clenil aerosol + idrocortisone 500 mg EV. Anamnesi: asma bronchiale. [PS]",
-            "MSA2": "Femmina, 24 anni, affaticata, agitata. FC 118 bpm, PA 90/50 mmHg, SpO₂ 89%. Dispnea grave con sibilo in fase inspiratoria. FC 115 bpm, PA 95/55 mmHg, SpO₂ 90%. Somministrato salbutamolo + clenil aerosol + idrocortisone 500 mg EV. Anamnesi: asma bronchiale. [PS]"
+            "MSB": "Femmina, 19 anni, agitata, dispnea marcata. FC 110 bpm, PA 100/60 mmHg, SpO₂ 92%. Anamnesi: asma bronchiale. O₂ 4 l/min. [PS]",
+            "MSA1": "Femmina, 19 anni, GCS 14. Dispnea grave con sibilo in fase inspiratoria. FC 115 bpm, PA 95/55 mmHg, SpO₂ 90%. Somministrato salbutamolo + clenil aerosol + idrocortisone 500 mg EV. Anamnesi: asma bronchiale. [PS]",
+            "MSA2": "Femmina, 19 anni, affaticata, agitata. FC 118 bpm, PA 90/50 mmHg, SpO₂ 89%. Dispnea grave con sibilo in fase inspiratoria. FC 115 bpm, PA 95/55 mmHg, SpO₂ 90%. Somministrato salbutamolo + clenil aerosol + idrocortisone 500 mg EV. Anamnesi: asma bronchiale. [PS]"
         },
         "caso_critico": {
-            "MSB": "Femmina, 24 anni, incosciente, fortemente dispnoica. FC 40 bpm, PA 60/40 mmHg, SpO₂ 76%, ossigenoterapia a 15 lt/min. Grave crisi respiratoria, cianotica. Richiesta MSA.[Rianimazione]",
-            "MSA1": "Paziente in insufficienza respiratoria grave. GCS 8, FC 35 bpm, PA 55/30 mmHg, SpO₂ 72%. Ventilazione assistita, posizionata Cpap 50% FiO₂ 7 Peep, Necessaria MSA2. [Rianimazione]",
-            "MSA2": "Femmina, 24 anni, GCS 8, insufficienza respiratoria grave da crisi asmatica. Sedata ed Intubata in posto, ventilata. Trasferimento urgente in terapia intensiva. [Rianimazione]"
+            "MSB": "Femmina, 19 anni, incosciente, fortemente dispnoica. FC 40 bpm, PA 60/40 mmHg, SpO₂ 76%, ossigenoterapia a 15 lt/min. Grave crisi respiratoria, cianotica. Richiesta MSA.[Rianimazione]",
+            "MSA1": "Femmina, 19 anni, insufficienza respiratoria grave. GCS 8, FC 35 bpm, PA 55/30 mmHg, SpO₂ 72%. Ventilazione assistita, posizionata Cpap 50% FiO₂ 7 Peep, Necessaria MSA2. [Rianimazione]",
+            "MSA2": "Femmina, 19 anni, GCS 8, insufficienza respiratoria grave da crisi asmatica. Sedata ed Intubata in posto, ventilata. Trasferimento urgente in terapia intensiva. [Rianimazione]"
         }
     },
     "chiamata_15": {
@@ -286,7 +286,7 @@
         }
     },
     "chiamata_18": {
-        "testo_chiamata": "Ciao, chiamo da (indirizzo scuola/ abitazione). Una bambina di 6 anni ha iniziato a grattarsi tantissimo. Le sono comparse delle macchie rosse su tutto il corpo. Non ha febbre ma dice che prude moltissimo.",
+        "testo_chiamata": "Ciao, chiamo da (scuola). Una bambina di 6 anni ha iniziato a grattarsi tantissimo. Le sono comparse delle macchie rosse su tutto il corpo. Non ha febbre ma dice che prude moltissimo.",
         "caso_stabile": {
             "MSB": "Femmina, 6 anni, vigile. Prurito diffuso, esantema . FC 98 bpm, PA 100/65 mmHg, SpO₂ 99%. No febbre. Anamnesi: allergie non note. [PEDIATRIA]",
             "MSA1": "Femmina, 6 anni, cosciente, GCS 15. Urticaria diffusa, prurito importante. FC 95 bpm, PA 105/70 mmHg, SpO₂ 98% Anamnesi: allergie non note. [PEDIATRIA]",
@@ -335,7 +335,7 @@
         }
     },
      "chiamata_21": {
-        "testo_chiamata": "Ciao, siamo a (indirizzo scuola/ abitazione/ esercizio pubblico). Un bambino di 3 anni sta respirando male, ha il viso arrossato e fa fatica a parlare. Ha un respiro molto strano, come se fischiasse. Abbiamo chiamato i genitori ma serve aiuto subito!",
+        "testo_chiamata": "Ciao, siamo a (indirizzo abitazione). Un bambino di 3 anni sta respirando male, ha il viso arrossato e fa fatica a parlare. Ha un respiro molto strano, come se fischiasse. Abbiamo chiamato i genitori ma serve aiuto subito!",
         "caso_stabile": {
             "MSB": "Maschio, 3 anni, vigile. Respiro accelerato ma senza segni di fatica. FC 110 bpm, PA 95/60 mmHg, SpO₂ 98%. Anamnesi: bronchite recente. [PEDIATRIA]",
             "MSA1": "Maschio, 3 anni, GCS 15. SpO₂ 97%, FC 112 bpm. Riferito episodio simile in passato. Somministrato broncodilatatore aerosol. Anamnesi: bronchite recente. [PEDIATRIA]",
@@ -353,7 +353,7 @@
         }
     },
     "chiamata_22": {
-        "testo_chiamata": "Pronto? Siamo in (indirizzo abitazione / rsa ). Una signora di 85 anni ha iniziato a parlare in modo strano e non riconosce nessuno. Un minuto prima era tranquilla. Ora sembra completamente confusa e si muove a scatti. Serve aiuto immediato.",
+        "testo_chiamata": "Pronto? Siamo in (RSA). Una signora di 85 anni ha iniziato a parlare in modo strano e non riconosce nessuno. Un minuto prima era tranquilla. Ora sembra completamente confusa e si muove a scatti. Serve aiuto immediato.",
         "caso_stabile": {
             "MSB": "Femmina, 85 anni, vigile, disorientata nel tempo. Glicemia 112 mg/dL, PA 130/75 mmHg, FC 86 bpm, SpO₂ 97%. Episodio isolato, anamnesi: Morbo di Alzheimer. [PS]",
             "MSA1": "Femmina, 85 anni, GCS 15. Afasia lieve, no emiparesi. Glicemia 112 mg/dL, PA 130/75 mmHg, FC 86 bpm, SpO₂ 97%. Episodio isolato, anamnesi: Morbo di Alzheimer. [PS]",
@@ -407,7 +407,7 @@
         }
     },
     "chiamata_25": {
-        "testo_chiamata": "Aiuto! C'è stato un incidente stradale in (indirizzo strada). Due auto coinvolte, una persona sembra incastrata e non risponde, altre persone sono ferite! Mandate subito soccorsi!",
+        "testo_chiamata": "Aiuto! C'è stato un incidente stradale in (strada). Due auto coinvolte, una persona sembra incastrata e non risponde, altre persone sono ferite! Mandate subito soccorsi!",
         "caso_stabile": {
             "MSB": "Maschio, 35 anni, vigile, lieve contusione in area frontale, dolore in area cervicale, FC 78 bpm, PA 120/80 mmHg, SpO₂ 98%. Nessuna lesione importante evidente. [OTT]",
             "MSA1": "Maschio, 35 anni, GCS 15. Trauma frontale, riferisce lieve cervicalgia, parametri stabili, nessuna lesione importante da segnalare. [OTT]",
@@ -479,7 +479,7 @@
     }
   },
   "chiamata_29": {
-    "testo_chiamata": "Pronto? Siamo in (indirizzo esercizio pubblico/ indirizzo abitazione). Un signore ha iniziato a perdere sangue dal naso, abbondantemente. È cosciente ma molto agitato, dice che non gli era mai successo.",
+    "testo_chiamata": "Pronto? Siamo in ( indirizzo abitazione). Un signore ha iniziato a perdere sangue dal naso, abbondantemente. È cosciente ma molto agitato, dice che non gli era mai successo.",
     "caso_stabile": {
       "MSB": "Maschio, 55 anni, vigile. Epistassi lieve. FC 85 bpm, PA 130/85 mmHg, SpO₂ 98%. [PS]",
       "MSA1": "Maschio, 55 anni, GCS 15, FC 85 bpm, PA 130/85 mmHg, SpO₂ 98% epistassi anteriore. Compressione effettuata con beneficio. [PS]",
@@ -528,7 +528,7 @@
     }
   },
   "chiamata_32": {
-    "testo_chiamata": "Pronto? Sto chiamando da (indirizzo abitazione/ impianto lavorativo). Un collega stava usando una smerigliatrice e si è tagliato alla gamba. C’è parecchio sangue, l’abbiamo fatto sedere e stiamo cercando di tamponare, ma continua a perdere molto.",
+    "testo_chiamata": "Pronto? Sto chiamando da (impianto lavorativo). Un collega stava usando una smerigliatrice e si è tagliato alla gamba. C’è parecchio sangue, l’abbiamo fatto sedere e stiamo cercando di tamponare, ma continua a perdere molto.",
     "caso_stabile": {
       "MSB": "Maschio, 45 anni, vigile, ferita lacero-contusa al polpaccio dx. Sanguinamento moderato, trattata con tamponamento. FC 96 bpm, PA 130/80 mmHg, SpO₂ 98%. Nessun altro trauma. [OTT]",
       "MSA1": "Maschio, 45 anni, GCS 15, FC 96 bpm, PA 130/80 mmHg, SpO₂ 98%. Ferita lineare profonda, circa 4 cm, non pulsante. Controllo emorragia con bendaggio compressivo. [OTT]",
@@ -600,7 +600,7 @@
       }
      },
     "chiamata_36": {
-    "testo": "Salve chiamo da (indirizzo abitazione/ impianto lavorativo), ho un dolore molto forte nella parte destra dell’addome da qualche ora. È peggiorato da qualche minuto ed ho anche un po’ di nausea.",
+    "testo": "Salve chiamo da (indirizzo abitazione), ho un dolore molto forte nella parte destra dell’addome da qualche ora. È peggiorato da qualche minuto ed ho anche un po’ di nausea.",
     "caso_stabile": {
         "MSB": "Maschio, 35 anni, vigile, dolore al fianco dx, PA 130/85 mmHg, FC 82 bpm, SpO₂ 99%. Pz noto per coliche renali. [PS]",
         "MSA1": "Maschio, 35 anni, GCS 15, dolore al fianco dx, PA 130/85 mmHg, FC 82 bpm, SpO₂ 99%. Sospetta colica renale in pz noto per coliche renali, in corso Ketorolac EV. [PS]",
@@ -618,7 +618,7 @@
       }
     },
   "chiamata_37": {
-    "testo_chiamata": "Salve, chiamo da (indirizzo abitazione), una signora di 82 anni ha diarrea da due giorni e ora è molto debole e confusa.",
+    "testo_chiamata": "Salve, chiamo da (RSA), una signora di 82 anni ha diarrea da due giorni e ora è molto debole e confusa.",
     "caso_stabile": {
       "MSB": "Femmina, 82 anni, vigile ma confusa, riferita diarrea da 2 giorni, PA 130/75 mmHg, FC 88 bpm, SpO₂ 97%, nessun segno di disidratazione severa. [PS]",
       "MSA1": "Femmina, 82 anni, GCS 14, riferita diarrea da 2 giorni, PA 130/75 mmHg, FC 88 bpm, SpO₂ 97%, nessun segno di disidratazione severa. In corso Ringer EV. [PS]",
@@ -708,7 +708,7 @@
       }
     },
   "chiamata_42": {
-    "testo_chiamata":"Pronto, c'è stato un brutto incidente a (indirizzo abitazione) , un’auto si è scontrata con un camion. una persona sembra sia incastrata in auto, serve aiuto urgente!",
+    "testo_chiamata":"Pronto, c'è stato un brutto incidente a (strada) , un’auto si è scontrata con un camion. una persona sembra sia incastrata in auto, serve aiuto urgente!",
     "caso_stabile": {
         "MSB": "Maschio, 35 anni, incidente frontale auto vs camion, pz incarcerato estratto dai VVF, vigile, trauma toracico ed addominale, PA 130/80 mmHg, FC 95 bpm, SpO₂ 97%, Spinalizzato, anamesi muta. [CTZ]",
         "MSA1": "Maschio, 35 anni, incidente frontale auto vs camion, pz incarcerato estratto dai VVF, vigile, trauma toracico ed addominale, PA 130/80 mmHg, FC 95 bpm, SpO₂ 97%, Spinalizzato, Somministrato fentanil 50 mcg, anamesi muta. [CTZ]",
@@ -804,7 +804,7 @@
     }
   },
   "chiamata_49": {
-    "testo_chiamata": "Salve, chiamo da mia (indirizzo abitazione), mia sorella è diventata improvvisamente rossa su tutto il corpo da ieri, dice che ha prurito su tutto il corpo, non ha la febbre, nega di avere allergie",
+    "testo_chiamata": "Salve, chiamo da (indirizzo abitazione), mia sorella è diventata improvvisamente rossa su tutto il corpo da ieri, dice che ha prurito su tutto il corpo, non ha la febbre, nega di avere allergie",
     "caso_stabile": {
       "MSB": "Femmina, 30 anni, rash cutaneo diffuso e prurito da ieri, PA 120/75 mmHg, FC 72 bpm, SpO₂ 98%, nega allergie e patologie. [PS]",
       "MSA1": "Femmina, 30 anni, rash cutaneo e prurito da ieri. PA 120/75 mmHg, FC 72 bpm, SpO₂ 98%, nega allergie e patologie. Sospetta reazione allergica a sostanza non specificata. [PS]",
@@ -841,6 +841,23 @@
       "MSA1": "Maschio, 12 anni, caduta accidentale da bici, dolore intenso al ginocchio dx, sospetta lussazione di rotula, PA 115/75 mmHg, FC 90 bpm, SpO₂ 99%, applicata steccobenda. [OTT]",
       "MSA2": "Maschio, 12 anni, caduta accidentale da bici, dolore intenso al ginocchio dx, sospetta lussazione di rotula, PA 115/75 mmHg, FC 90 bpm, SpO₂ 99%., applicata steccobenda, somministrato Fentanil per analgesia [OTT]"
     }
+  },
+  "chiamata_52": {
+    "testo_chiamata": "Salve, chiamo da (impianto lavorativo), un collega si è sentito poco bene mentre era alla postazione, è pallido e ha avuto un capogiro, si è seduto ma dice di sentirsi male e che gli manca fiato.", 
+    "caso_stabile": {
+      "MSB": "Maschio, 52 anni, riferisce capogiro e senso di spossatezza insorti durante attività lavorativa, PA 130/80 mmHg, FC 88 bpm, SpO₂ 98%, Glicemia 64 mg/dL, orientato, riferisce digiuno prolungato, anamnesi muta. [PS]", 
+      "MSA1": "Maschio, 52 anni, capogiro e astenia durante attività lavorativa, PA 130/80 mmHg, FC 88 bpm, SpO₂ 98%, GCS 15, orientato, riferisce digiuno prolungato, eseguita glicemia 64 mg/dL, anamnesi muta . [PS]", 
+      "MSA2": "Maschio, 52 anni, capogiro e astenia durante attività lavorativa, PA 130/80 mmHg, FC 88 bpm, SpO₂ 98%, GCS 15, orientato, riferisce digiuno prolungato, eseguita glicemia 64 mg/dL, anamnesi muta. [PS]"
+    },
+    "poco_stabile": {
+      "MSB": "Maschio, 52 anni, riferisce capogiro improvviso e offuscamento visivo, PA 95/60 mmHg, FC 105 bpm, SpO₂ 97%, sudorazione fredda, glicemia 58 mg/dL, eseguito ECG. anamnesi muta. [PS]", 
+      "MSA1": "Maschio, 52 anni, lipotimia sul luogo di lavoro, PA 95/60 mmHg, FC 105 bpm, SpO₂ 97%, GCS 15, glicemia 58 mg/dL, ecg non significativo, paziente in miglioramento. [PS]", 
+      "MSA2": "Maschio, 52 anni, lipotimia sul luogo di lavoro, PA 95/60 mmHg, FC 105 bpm, SpO₂ 97%, GCS 15, glicemia 58 mg/dL, ecg non significativo, paziente in miglioramento. [PS]"
+    },
+    "critico": {
+      "MSB": "Maschio, 52 anni, trovato incosciente sul luogo di lavoro, GCS 3, respiro agonico, PA non rilevabile, FC 40 bpm, SpO₂ 78%, iniziate manovre rianimatorie, richiesta MSA urgente. [DEA]", 
+      "MSA1": "Maschio, 52 anni, ACC, inizio RCP da parte dei colleghi con 1 scarica consigliata. Ritmo presentazione FV, somministrata adrenalina 1mg+ amiodarone 300mg, posizionata maschera laringea, EtCo2 32, ACC probabilmente su base Ischemica, è possibile il supporto medico? . [EMODINAMICA]", 
+      "MSA2": "Maschio, 52 anni, ACC, inizio RCP da parte dei colleghi con 1 scarica consigliata. Ritmo presentazione FV, somministrata adrenalina 1mg+ amiodarone 300mg, paziente intubato EtCo2 32, ACC su probabile base ischemica. [EMODINAMICA]" 
+    }
   }
 }
-

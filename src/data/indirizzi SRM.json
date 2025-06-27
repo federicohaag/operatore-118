@@ -77,5 +77,13 @@
   { "indirizzo abitazione": "Corso Sempione, 20154 Milano MI", "lat": 45.4800, "lon": 9.1600 },
   { "indirizzo abitazione": "Via Ripamonti, 20141 Milano MI", "lat": 45.4400, "lon": 9.1800 },
   { "indirizzo abitazione": "Piazza Cinque Giornate, 20129 Milano MI", "lat": 45.4600, "lon": 9.1900 },
-  { "indirizzo abitazione": "Via Paolo Giovio, 20145 Milano MI", "lat": 45.4700, "lon": 9.1700 }
+  { "indirizzo abitazione": "Via Paolo Giovio, 20145 Milano MI", "lat": 45.4700, "lon": 9.1700 },
+  { "RSA ": "RSA Adriano, Via Elio Adriano, 109 - 20128 Milano MI", "lat": 45.5178837, "lon": 9.2420321 },
+  { "Impianto lavorativo ": "Nichelcrom , Via Trento, 96 - 20099 Sesto San Giovanni MI", "lat": 45.5461889, "lon": 9.2470286 },
+  { "Scuola ": "ISS J.C. Maxwell , Via Calabria Don Giovanni,20132 Milano MI", "lat": 45.497523, "lon":9.2399715 },
+  { "Strada ": "A51 Tangenziale Est km 11 -  20093 Cologno Monzese MI", "lat": 45.5208409, "lon": 9.2609591 },
+  { "RSA ": "Pio Albergo Trivulzio, Via Antonio Tolomeo Trivulzio, 15 - 20146 Milano MI", "lat": 45.4651799, "lon": 9.1450793 },
+  { "Impianto lavorativo ": "Verallia , Via Alzaia Trieste, 45 - 20094 Corsico MI", "lat": 45.4283263, "lon": 9.0934838 },
+  { "Scuola ": "ISS Carlo Tenca , Bastioni di Porta Volta, 16 - 20121 Milano MI", "lat": 45.4792801, "lon":9.1810081 },
+  { "Strada ": "A50 Tangenziale Ovest km 24 -  20142 Milano MI", "lat": 45.3912925, "lon": 9.1934451 }
   ]

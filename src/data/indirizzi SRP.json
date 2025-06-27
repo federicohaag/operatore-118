@@ -164,5 +164,13 @@
   { "indirizzo abitazione": "Via Dante Alighieri, 20010 San Vittore Olona MI", "lat": 45.5500, "lon": 8.9800 },
   { "indirizzo abitazione": "Via Vittorio Veneto, 20010 Cerro Maggiore MI", "lat": 45.5500, "lon": 8.9900 },
   { "indirizzo abitazione": "Via Roma, 20010 Villa Cortese MI", "lat": 45.5500, "lon": 9.0000 },
-  { "indirizzo abitazione": "Via Cavour, 20010 Dairago MI", "lat": 45.5500, "lon": 9.0100 }
-]
+  { "indirizzo abitazione": "Via Cavour, 20010 Dairago MI", "lat": 45.5500, "lon": 9.0100 },
+  { "RSA ": "RSA Inzago, Via Ferrario-Balconi, 25 - 20065 Inzago MI", "lat": 45.5388893, "lon": 9.4805518 },
+  { "Impianto lavorativo ": "Salumificio Fratelli Beretta , Via Fratelli Bandiera, 12 - 20056 Trezzo sull'Adda MI", "lat": 45.6009874, "lon": 9.5128915 },
+  { "Scuola ": "ISS Cassano d'adda , Via Papa Giovanni XXIII, 223 - 20062 Cassano d'Adda MI", "lat": 45.497523, "lon":9.2399715 },
+  { "Strada ": "A4 MI-VE km 156 -  20056 Trezzo sull'Adda MI", "lat": 45.5922719, "lon": 9.4845756 },
+  { "RSA ": "RSA San martino, Via degli Ontani, 2 - 27028 San Martino Siccomario PV", "lat":45.1536441, "lon": 9.1309629 },
+  { "Impianto lavorativo ": "Eni Sannazzaro , Via Enrico Mattei, 46 - 27039 Sannazzaro de' Burgondi PV", "lat": 45.0991289, "lon": 8.8921042 },
+  { "Scuola ": "ISS Pavia , Via S. Carlo, 2 - 27100 Pavia PV", "lat": 45.1808517, "lon":9.1655261 },
+  { "Strada ": "A7 MI-GE km 22 -  Bereguardo 27021 PV", "lat": 45.2409554, "lon": 9.0380853 }
+  ]

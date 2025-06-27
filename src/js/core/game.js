@@ -18,6 +18,8 @@ function getSimSpeed() {
 // Definizione variabili globali per i timer simulati (devono essere PRIMA di ogni uso)
 window._simIntervals = [];
 window._simTimeouts = [];
+// Disabilita debug e info logs
+console.log = function() {};
 
 // Variabili globali per ora simulata e stato running
 window.simTime = window.simTime || 0; // secondi simulati
@@ -61,14 +63,12 @@ function simTick() {
         
         // Gestisci il rollover giorno e orario
         if (nextSec >= 24*3600) {
-            console.log('[DEBUG] Day rollover - Midnight transition detected');
             sec = 0; // Reset a mezzanotte
             dayIdx = (dayIdx + 1) % 7;
             window.simDay = giorniSettimanaIT[dayIdx];
             
             // Force availability update at midnight rollover
             window._forceAvailabilityUpdate = true;
-            console.log('[DEBUG] Setting _forceAvailabilityUpdate=true due to midnight rollover');
         } else {
             sec = nextSec;
         }
@@ -276,7 +276,8 @@ function gestisciAvanzamentoAutomaticoStati(mezzo) {
         // Timer di report ridotto a 2-5 minuti simulati
         mezzo._timerReportPronto = simTimeout(() => {
             mezzo.comunicazioni = (mezzo.comunicazioni || []).concat([`Report pronto`]);
-            console.log('[DEBUG] Mezzo', mezzo.nome_radio, 'ha inviato REPORT PRONTO');
+            window.soundManager.play('report');
+            // console.log('[DEBUG] Mezzo', mezzo.nome_radio, 'ha inviato REPORT PRONTO');
             mezzo._reportProntoInviato = true;
         }, randomMinuti(2, 5) * 60);
     }
@@ -1326,18 +1327,25 @@ class EmergencyDispatchGame {
         }
         // Determina lista indirizzi in base al placeholder nel testo
         const rawText = testo_chiamata || '';
-        const match = rawText.match(/\(indirizzo ([^)]+)\)/i);
+        // Match any placeholder '(X)' and capture full content including 'indirizzo' if presente
+        const match = rawText.match(/\(\s*([^)]+?)\s*\)/i);
         let sourceList = window.indirizziReali || [];
+        const catMap = window.categorieIndirizzi || {};
         if (match) {
-            const key = match[1].toLowerCase().trim().replace(/\s+/g, '_');
-            if (this.categorieIndirizzi[key] && this.categorieIndirizzi[key].length) {
-                sourceList = this.categorieIndirizzi[key];
+            // Usa il contenuto completo del placeholder per formare la chiave
+            const keyRaw = match[1].toLowerCase().trim();
+            const key = keyRaw.replace(/\s+/g, '_');
+            if (catMap[key] && catMap[key].length) {
+                sourceList = catMap[key];
             }
         }
         const idx = Math.floor(Math.random() * sourceList.length);
         const indirizzo = sourceList[idx] || { indirizzo: 'Indirizzo sconosciuto', lat: 45.68, lon: 9.67 };
-        // Sostituisci ogni placeholder con l'indirizzo selezionato
-        testo_chiamata = (testo_chiamata || '').replace(/\(indirizzo [^)]+\)/gi, indirizzo.indirizzo);
+        // Sostituisci ogni placeholder con il label della categoria (solo parte prima della virgola)
+        const placeholderRegex = /\((?:indirizzo\s*)?[^)]+\)/gi;
+        // Label: parte prima della virgola (es. 'RSA Treviglio')
+        const categoryLabel = indirizzo.indirizzo.split(',')[0];
+        testo_chiamata = (testo_chiamata || '').replace(placeholderRegex, categoryLabel);
         // Fallback testo chiamata se vuoto
         if (!testo_chiamata.trim()) {
             testo_chiamata = 'Paziente con sintomi da valutare...';
@@ -1373,12 +1381,12 @@ class EmergencyDispatchGame {
         const year = now.getFullYear();
         const decina = Math.floor((year % 100) / 10);
         const unita = year % 10;
-        // per-central mission numbering: SRA=1, SRL=3, SRM=5, SRP=7
         const central = window.selectedCentral || 'SRA';
         const codeMap = { SRA: 1, SRL: 3, SRM: 5, SRP: 7 };
         const code = codeMap[central] || 1;
         // incrementa contatore progressivo per central
         this.missionCounter[central] = (this.missionCounter[central] || 0) + 1;
+        
         const progressivo = this.missionCounter[central].toString().padStart(6, '0');
         const missioneId = `${decina}${unita}${code}${progressivo}`;
         const id = 'C' + Date.now() + Math.floor(Math.random()*1000);
@@ -1417,13 +1425,19 @@ class EmergencyDispatchGame {
     openMissionPopup(call) {
         const popup = document.getElementById('popupMissione');
         if (!popup) return;
-        // Refresh availability so vehicles respect Giorni/Orario rules immediately
-        // Reset lastAvailabilityCheck to force update
-        if (window._lastAvailabilityCheck) {
-            window._lastAvailabilityCheck.ora = -1;
-            window._lastAvailabilityCheck.giorno = -1;
+        // Initialize VVF/FFO checkboxes from call state and add live synchronization
+        const vvfCheckbox = document.getElementById('check-vvf');
+        const ffoCheckbox = document.getElementById('check-ffo');
+        if (vvfCheckbox) {
+            // Pre-select saved value
+            vvfCheckbox.checked = !!call.vvfAllertati;
+            // Live update on change
+            vvfCheckbox.onchange = () => { call.vvfAllertati = vvfCheckbox.checked; };
         }
-        if (typeof aggiornaDisponibilitaMezzi === 'function') aggiornaDisponibilitaMezzi();
+        if (ffoCheckbox) {
+            ffoCheckbox.checked = !!call.ffoAllertate;
+            ffoCheckbox.onchange = () => { call.ffoAllertate = ffoCheckbox.checked; };
+        }
         // Centra il popup ogni volta che si apre
         popup.style.left = '50%';
         popup.style.top = '50%';
@@ -1694,6 +1708,13 @@ class EmergencyDispatchGame {
         // Recupera l'id della chiamata dal popup
         const callId = popup?.getAttribute('data-call-id');
         const call = callId ? this.calls.get(callId) : null;
+        // Lettura checkbox VVF e FFO
+        const vvf = document.getElementById('check-vvf')?.checked || false;
+        const ffo = document.getElementById('check-ffo')?.checked || false;
+        if (call) {
+            call.vvfAllertati = vvf;
+            call.ffoAllertate = ffo;
+        }
         if (!call) return;
         const luogo = document.getElementById('luogo')?.value || '';
         const patologia = document.getElementById('patologia')?.value || '';
@@ -1836,6 +1857,8 @@ class EmergencyDispatchGame {
         
         // Chiudi popup e aggiorna UI immediatamente
         popup?.classList.add('hidden');
+        // Play confirm sound
+        window.soundManager.play('confirm');
         const callDiv = document.getElementById(`call-${call.id}`);
         if (callDiv) callDiv.remove();
         // Aggiungi la missione al pannello "Eventi in corso"
@@ -1844,21 +1867,17 @@ class EmergencyDispatchGame {
         }
 
         // Esegui dopo che l'UI è stata aggiornata, per mantenere il sistema reattivo
-        // Avvia i movimenti dei mezzi verso la chiamata con un piccolo ritardo
-        setTimeout(() => {
+        // Avvia i movimenti dei mezzi verso la chiamata con un ritardo simulato di 1-4 minuti
+        simTimeout(() => {
             if (window.game && window.game.mezzi) {
-                // Utilizziamo un batch di processamento per non bloccare il thread UI
                 const mezziDaProcessare = window.game.mezzi.filter(m => 
                     aggiunti.includes(m.nome_radio) && 
                     m.stato === 2 && 
                     !m._inMovimentoMissione && 
                     m.chiamata === call
                 );
-                
-                // Funzione per processare i mezzi in piccoli batch
                 const processaBatchMezzi = (indice) => {
                     if (indice >= mezziDaProcessare.length) return;
-                    
                     const m = mezziDaProcessare[indice];
                     console.log('[INFO] Avvio movimento mezzo verso la nuova chiamata:', m.nome_radio);
                       // Calcola la distanza e il tempo necessario
@@ -1895,11 +1914,9 @@ class EmergencyDispatchGame {
                     // Passa al prossimo mezzo con un piccolo ritardo per evitare blocchi
                     setTimeout(() => processaBatchMezzi(indice + 1), 50);
                 };
-                
-                // Avvia il processamento batch
                 processaBatchMezzi(0);
             }
-        }, 100);
+        }, randomMinuti(1, 4) * 60);
     }
 
     gestisciStato7(mezzo) {
