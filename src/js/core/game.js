@@ -84,14 +84,23 @@ function simTick() {
 
 // Funzione per gestire intervalli simulati
 function simInterval(fn, sec) {
-    const id = setInterval(fn, sec * 1000 / getSimSpeed());
+    function wrapper() { if (window.simRunning) fn(); }
+    const id = setInterval(wrapper, sec * 1000 / getSimSpeed());
     window._simIntervals.push(id);
     return id;
 }
 
 // Funzione per gestire timeout simulati
 function simTimeout(fn, sec) {
-    const id = setTimeout(fn, sec * 1000 / getSimSpeed());
+    function wrapper() {
+        if (window.simRunning) {
+            fn();
+        } else {
+            // if paused, defer execution by 1 simulated second
+            simTimeout(fn, 1);
+        }
+    }
+    const id = setTimeout(wrapper, sec * 1000 / getSimSpeed());
     window._simTimeouts.push(id);
     return id;
 }
@@ -488,6 +497,31 @@ class EmergencyDispatchGame {
             this.ui = new GameUI(this);
         }
 
+        // --- Dynamic call scheduling based on time-of-day ---
+        const getRate = () => {
+            const sec = window.simTime || 0;
+            const hour = Math.floor(sec/3600) % 24;
+            const lambdaPeak = 1/60;       // peak: 1 call per 60s
+            const lambdaNightPeak = 1/90;  // night peak: 1 call per 90s
+            const lambdaDay = 1/120;       // daytime: 1 call per 120s
+            const lambdaNight = 1/300;     // night: 1 call per 300s
+            if ((hour >=8 && hour <10) || (hour >=18 && hour <20)) return lambdaPeak;
+            if (hour >=2 && hour <4) return lambdaNightPeak;
+            if (hour >=7 && hour <19) return lambdaDay;
+            return lambdaNight;
+        };
+        const scheduleDynamicCall = () => {
+            if (!window.simRunning) { simTimeout(scheduleDynamicCall, 1); return; }
+            const rate = getRate();
+            const dt = Math.max(1, Math.round(-Math.log(Math.random())/rate));
+            simTimeout(() => {
+                this.generateNewCall();
+                scheduleDynamicCall();
+            }, dt);
+        };
+        scheduleDynamicCall();
+
+        // Reinserimento cicli per movimentazione veicoli e aggiornamenti di stato
         simInterval(() => {
             aggiornaDisponibilitaMezzi();
             const now = window.simTime
@@ -511,7 +545,6 @@ class EmergencyDispatchGame {
                     }
                     vel = vel * (1 + riduzione);
                     const tempoArrivo = Math.round((dist / vel) * 60);
-                    // Limita il tempo di arrivo a un massimo di 30 minuti simulati
                     const arrivoMinuti = Math.min(Math.max(tempoArrivo, 2), 30);
                     this.moveMezzoGradualmente(m, m.lat, m.lon, call.lat, call.lon, arrivoMinuti, 3, () => {
                         this.ui.updateStatoMezzi(m);
@@ -533,13 +566,11 @@ class EmergencyDispatchGame {
                     }
                     vel = vel * (1 + riduzione);
                     const tempoArrivo = Math.round((dist / vel) * 60);
-                    // Limita il tempo di arrivo in ospedale a un massimo di 30 minuti simulati
                     const arrivoOspedaleMinuti = Math.min(Math.max(tempoArrivo, 2), 30);
                     this.moveMezzoGradualmente(m, m.lat, m.lon, m.ospedale.lat, m.ospedale.lon, arrivoOspedaleMinuti, 5, () => {
                         this.ui.updateStatoMezzi(m);
                         this.updateMezzoMarkers();
                         m._inMovimentoOspedale = false;
-                        // Sosta in ospedale breve: 1-2 minuti simulati
                         simTimeout(() => {
                             setStatoMezzo(m, 6);
                             aggiornaMissioniPerMezzo(m);

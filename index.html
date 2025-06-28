@@ -212,6 +212,7 @@
                 <option value='45'>45</option>
             </select>
         </div>
+        <div style="margin-bottom:12px;"><label><input type="checkbox" id="mute-sounds" style="margin-right:6px;">Silenzia suoni</label></div>
         <button id='sim-settings-save' style='margin-right:12px;'>Salva</button>
         <button id='sim-settings-cancel'>Annulla</button>
     </div>    <!-- Third party libraries -->
@@ -287,6 +288,8 @@
                 const m = Math.floor(((window.simTime||28800)%3600)/60).toString().padStart(2,'0');
                 document.getElementById('sim-hour-hour').value = h;
                 document.getElementById('sim-minute').value = m;
+                // Sync mute checkbox
+                document.getElementById('mute-sounds').checked = !!window.soundMuted;
                 document.getElementById('sim-settings-popup').style.display = 'block';
             };
             // Annulla
@@ -308,6 +311,8 @@
                     aggiornaDisponibilitaMezzi();
                 }
                 
+                // Save mute state
+                window.soundMuted = document.getElementById('mute-sounds')?.checked;
                 document.getElementById('sim-settings-popup').style.display = 'none';
             };            // Mostra giorno nella clock
             const origUpdateSimClock = window.updateSimClock;

@@ -114,6 +114,12 @@ class GameUI {
             let cleaned = tail.replace(/^\s*\d{5}\s*/,'').replace(/\s+[A-Z]{2}\s*$/,'').trim();
             if(cleaned) comune = cleaned;
         }
+        // Ulteriore fallback: se manca provincia/CAP ma c'è una virgola, usa il testo dopo l'ultima virgola
+        if(!comune && indirizzo.includes(',')) {
+            const partsComma = indirizzo.split(',');
+            const tailComma = partsComma[partsComma.length-1].trim();
+            if(tailComma) comune = tailComma;
+        }
         let indirizzoSintetico = via;
         if(comune) indirizzoSintetico += ' - ' + comune;
         indirizzoSintetico = indirizzoSintetico.trim() || indirizzo;
@@ -280,6 +286,12 @@ class GameUI {
             // Rimuovi CAP e sigla provincia
             let cleaned = tail.replace(/^\s*\d{5}\s*/,'').replace(/\s+[A-Z]{2}\s*$/,'').trim();
             if(cleaned) comune = cleaned;
+        }
+        // Ulteriore fallback: se manca provincia/CAP ma c'è una virgola, usa il testo dopo l'ultima virgola
+        if(!comune && indirizzo.includes(',')) {
+            const partsComma = indirizzo.split(',');
+            const tailComma = partsComma[partsComma.length-1].trim();
+            if(tailComma) comune = tailComma;
         }
         let indirizzoSintetico = via;
         if(comune) indirizzoSintetico += ' - ' + comune;

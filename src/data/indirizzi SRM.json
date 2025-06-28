@@ -85,5 +85,17 @@
   { "RSA ": "Pio Albergo Trivulzio, Via Antonio Tolomeo Trivulzio, 15 - 20146 Milano MI", "lat": 45.4651799, "lon": 9.1450793 },
   { "Impianto lavorativo ": "Verallia , Via Alzaia Trieste, 45 - 20094 Corsico MI", "lat": 45.4283263, "lon": 9.0934838 },
   { "Scuola ": "ISS Carlo Tenca , Bastioni di Porta Volta, 16 - 20121 Milano MI", "lat": 45.4792801, "lon":9.1810081 },
-  { "Strada ": "A50 Tangenziale Ovest km 24 -  20142 Milano MI", "lat": 45.3912925, "lon": 9.1934451 }
+  { "Strada ": "A50 Tangenziale Ovest km 24 -  20142 Milano MI", "lat": 45.3912925, "lon": 9.1934451 },
+  { "Impianto sportivo ": "Campo Sportivo Mario Giuriati - Via Giuseppe Ponzio, 20133 Milano MI", "lat": 45.4778524, "lon": 9.2326598 },
+  { "Impianto sportivo ": "Centro Sportivo Peppino Vismara - Via dei Missaglia, 117, 20142 Milano MI", "lat": 45.4107473, "lon": 9.1795232 },
+  { "Impianto sportivo ": "Centro Sportivo Arese - Piazza dello Sport, 20021 Arese MI", "lat": 45.5558407, "lon": 9.0809536 },
+  { "Impianto sportivo ": "Centro Sportivo Bresso - Via Grazia Deledda, 4, 20091 Bresso MI", "lat": 45.5351787, "lon": 9.180424 },
+  { "Strada ": "A50 Tangenziale Ovest km 9 -  20142 Milano MI", "lat": 45.4678028, "lon": 9.0776664 },
+  { "Strada ": "A4 MI-VE km 126 -  20142 Milano MI", "lat": 45.5202542, "lon": 9.1296648 },
+  { "Scuola ": "ISS San Giuliano , Via Trieste, 48, 20098 San Giuliano Milanese MI", "lat": 45.3949068, "lon":9.2879475 },
+  { "Scuola ": "ISS Garbagnate , Via Padre Vismara, 2, 20024 Garbagnate Milanese MI", "lat": 45.5744993, "lon":9.0770828 },
+  { "RSA ": "RSA Bollate Via Don Luigi Uboldi, 40/42, 20021 Bollate MI", "lat": 45.5373692, "lon": 9.1130233 },
+  { "RSA ": "RSA Noverasco, Via Paolo Borsellino, 6, 20090 Noverasco MI", "lat": 45.3942554, "lon": 9.2099584 },
+  { "Impianto lavorativo ": "Novelis ,Via B. Buozzi, 12, 20072 Pieve Emanuele MI", "lat": 45.3776705, "lon": 9.1841015 },
+  { "Impianto lavorativo ": "Vetrobalsamo  , Via Luigi Granelli, 115, 20099 Sesto San Giovanni MI", "lat": 45.5284734, "lon": 9.2219261 }
   ]

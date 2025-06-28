@@ -157,7 +157,18 @@
   { "Scuola ": "ISS Oberdan, Viale Merisio Michelangelo, 14 – 24047 Treviglio BG", "lat": 45.5182527, "lon": 9.6035471 },
   { "Scuola ": "ISS Mariano Fortuny, Via Luigi Apollonio, 21 - 25128 Brescia BS", "lat":45.5462629, "lon": 10.2242196 },
   { "Strada ": "A35 BREBEMI km 46- 24040 Casirate d'Adda BG", "lat": 45.5077508, "lon": 9.5565258 },
-  { "Strada ": "A4 MI-VE km 167- Dalmine 24044 BG", "lat": 45.6366058, "lon": 9.607145 }
+  { "Strada ": "A4 MI-VE km 167- Dalmine 24044 BG", "lat": 45.6366058, "lon": 9.607145 },
+  { "Impianto sportivo ": "Campo Coni - Circonvallazione delle Valli, 154, 24125 Bergamo BG", "lat": 45.6985059, "lon": 9.6968584 },
+  { "Impianto sportivo ": "Centro Sportivo Abba-Tartaglia - Via Milziade Tirandi, 3, 25128 Brescia BS", "lat": 45.5610519, "lon": 10.2173063 },
+  { "Impianto sportivo ": "Centro Sportivo Sondrio - Viale Stadio, 23100 Sondrio SO", "lat":46.1669841, "lon": 9.8520629 },
+  { "RSA ": "RSA Sondrio, Via Don Luigi Guanella, 36, 23100 Sondrio SO", "lat": 46.1632116, "lon": 9.864107 },
+  { "RSA ": "RSA Bergamo, via Don Luigi Orione, 6, 24124 Bergamo BG", "lat": 45.715178, "lon": 9.6935754 },
+  { "Scuola ": "ISS Bergamo, Via Santa Lucia, 14, 24128 Bergamo BG", "lat":45.6996114, "lon": 9.65671 },
+  { "Scuola ": "ISS Sondrio, Via D. Gianoli, 16, 23100 Sondrio SO", "lat":46.164973, "lon": 9.867038 },
+  { "Impianto lavorativo ": "Ghelfi , Via dei Lavoratori, 10, 23010 Buglio in Monte SO", "lat":46.1669761, "lon": 9.6872626 },
+  { "Impianto lavorativo ": "Brembo, Via Europa, 30, 24035 Curno BG", "lat":45.6841706, "lon": 9.5969972 },
+  { "Strada ": "SS38, 23010 Rogolo SO", "lat": 46.1451733, "lon": 9.4809781 },
+  { "Strada ": "A4 MI-VE km 256 - 25011 Calcinato BS", "lat": 45.465082, "lon": 10.4076615 }
 ]
 
 

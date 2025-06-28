@@ -1,5 +1,7 @@
 class SoundManager {
   constructor() {
+    // Initialize mute state
+    window.soundMuted = window.soundMuted || false;
     this.sounds = {
       phone_ring: new Howl({
         src: ['src/assets/sounds/phone_ring.mp3'],
@@ -32,6 +34,7 @@ class SoundManager {
     };
   }
   play(key) {
+    if (window.soundMuted) return;
     const s = this.sounds[key];
     if (!s) {
       console.error('[SoundManager] Sound not found:', key);
