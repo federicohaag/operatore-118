@@ -1118,15 +1118,6 @@
     {
         "Nome Postazione": "Postazione AREU - Pavia",
         "Coordinate Postazione": "45.201251,9.146601",
-        "Mezzo": "MSA1",
-        "Nome radio": "PV_002 ",
-        "Convenzione": "H12",
-        "Orario di lavoro": "8:00-20:00",
-        "Giorni": "LUN-DOM"
-    },
-    {
-        "Nome Postazione": "Postazione AREU - Pavia",
-        "Coordinate Postazione": "45.201251,9.146601",
         "Mezzo": "MSB",
         "Nome radio": "PV_900",
         "Convenzione": "H12",

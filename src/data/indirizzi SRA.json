@@ -30,7 +30,7 @@
   { "indirizzo abitazione": "Via Papa Giovanni XXIII, 40 – 24012 Val Brembilla BG", "lat": 45.82390, "lon": 9.63520 },
   { "indirizzo abitazione": "Via Donizetti, 3 – 24050 Ghisalba BG", "lat": 45.59250, "lon": 9.75480 },
   { "indirizzo abitazione": "Via Dante Alighieri, 14 – 24020 Clusone BG", "lat": 45.88950, "lon": 9.94860 },
-  { "indirizzo abitazione": "Via Provinciale, 8 – 24020 Rovetta BG", "lat": 45.89110, "lon": 9.96780 },
+  { "indirizzo abitazione": "Via Provinciale, 8 – 24020 Rovetta BG", "lat": 45.8907922, "lon": 9.9858346 },
   { "indirizzo abitazione": "Via Papa Giovanni XXIII, 5 – 24020 Castione della Presolana BG", "lat": 45.9192141, "lon": 10.0643634 },
   { "indirizzo abitazione": "Via Europa, 22 – 24020 Ardesio BG", "lat": 45.9379867, "lon": 9.9311886 },
   { "indirizzo abitazione": "Via Locatelli, 3 – 24020 Gromo BG", "lat": 45.9693444, "lon": 9.9290933 },
@@ -49,7 +49,7 @@
   { "indirizzo abitazione": "Via Cremona, 73 – 25124 Brescia BS", "lat": 45.52410, "lon": 10.22100 },
   { "indirizzo abitazione": "Via Crocifissa di Rosa, 92 – 25128 Brescia BS", "lat": 45.53980, "lon": 10.22270 },
   { "indirizzo abitazione": "Via Lamarmora, 249 – 25124 Brescia BS", "lat": 45.51900, "lon": 10.22860 },
-  { "indirizzo abitazione": "Via Vittorio Emanuele II, 50 – 25086 Rezzato BS", "lat": 45.52840, "lon": 10.32000 },
+  { "indirizzo abitazione": "Via Vittorio Emanuele II, 50 – 25086 Rezzato BS", "lat": 45.5145818, "lon": 10.317858 },
   { "indirizzo abitazione": "Via Guglielmo Marconi, 35 – 25030 Roncadelle BS", "lat": 45.52090, "lon": 10.15320 },
   { "indirizzo abitazione": "Via Roma, 45 – 25064 Gussago BS", "lat": 45.57740, "lon": 10.15300 },
   { "indirizzo abitazione": "Via Martiri della Libertà, 18 – 25068 Sarezzo BS", "lat": 45.63700, "lon": 10.19050 },
@@ -88,10 +88,11 @@
   { "indirizzo abitazione": "Via Caduti, 8 – 25070 Sabbio Chiese BS", "lat": 45.6580483, "lon": 10.417341 },
   { "indirizzo abitazione": "Via Zanardelli, 12 – 25074 Idro BS", "lat": 45.72600, "lon": 10.47290 },
   { "indirizzo abitazione": "Via Garibaldi, 5 – 25070 Bagolino BS", "lat": 45.8240802, "lon": 10.4616078 },
-  { "indirizzo abitazione": "Via della Libertà, 7 – 25070 Pertica Alta BS", "lat": 45.746768, "lon": 10.3376014 },
+  { "indirizzo abitazione": "Via della Libertà, 7 – 25070 Pertica Alta BS", "lat": 45.7417786, "lon": 10.3434066 },
   { "indirizzo abitazione": "Via Matteotti, 18 – 25063 Gardone Val Trompia BS", "lat": 45.6985678, "lon": 10.1875518 },
   { "indirizzo abitazione": "Via Roma, 45 – 25060 Marcheno BS", "lat": 45.68810, "lon": 10.22500 },
   { "indirizzo abitazione": "Via S. Giacomo, 4 – 25072 Ponte Caffaro BS", "lat": 45.8194398, "lon": 10.5233362 },
+  { "indirizzo abitazione": "Via S. Rocco, 28 – 25072 Bagolino BS", "lat": 45.8236992, "lon": 10.4622127 },
   { "indirizzo abitazione": "Via Vittorio Veneto, 2 – 25060 Sarezzo BS", "lat": 45.64170, "lon": 10.19030 },
   { "indirizzo abitazione": "Via San Rocco, 3 – 25060 Lodrino BS", "lat": 45.71650, "lon": 10.22460 },
   { "indirizzo abitazione": "Via XX Settembre, 6 – 25060 Polaveno BS", "lat": 45.6538889, "lon": 10.1407011 },
@@ -99,7 +100,7 @@
   { "indirizzo abitazione": "Via Giuseppe Mazzini, 25 – 25040 Esine BS", "lat":45.933386, "lon": 10.2814013 },
   { "indirizzo abitazione": "Via Dante Alighieri, 3 – 25040 Esine BS", "lat": 45.9243428, "lon": 10.2556632 },
   { "indirizzo abitazione": "Via Mazzini, 42 – 25047 Darfo Boario Terme BS", "lat": 45.89580, "lon": 10.17790 },
-  { "indirizzo abitazione": "Via Nazionale, 15 – 25050 Pisogne BS", "lat": 45.82390, "lon": 10.08130 },
+  { "indirizzo abitazione": "Via Nazionale, 15 – 25050 Pisogne BS", "lat": 45.8097345, "lon": 10.110807 },
   { "indirizzo abitazione": "Via Alessandro Volta, 6 – 25055 Pisogne BS", "lat": 45.82360, "lon": 10.08290 },
   { "indirizzo abitazione": "Via Roma, 31 – 25048 Edolo BS", "lat": 46.17010, "lon": 10.34560 },
   { "indirizzo abitazione": "Via Giuseppe Mazzini, 3 – 25044 Capo di Ponte BS", "lat": 46.02920, "lon": 10.34070 },
@@ -117,7 +118,7 @@
   { "indirizzo abitazione": "Via Valmalenco, 7 – 23023 Chiesa in Valmalenco SO", "lat": 46.2642542, "lon": 9.8489897},
   { "indirizzo abitazione": "Via Giuseppe Garibaldi, 12 – 23023 Chiesa in Valmalenco SO", "lat": 46.24380, "lon": 9.95240 },
   { "indirizzo abitazione": "Via Stelvio, 19 – 23100 Sondrio SO", "lat": 46.16590, "lon": 9.87580 },
-  { "indirizzo abitazione": "Via Dante, 10 – 23036 Teglio SO", "lat": 46.20400, "lon": 10.07450 },
+  { "indirizzo abitazione": "Via Dante, 10 – 23036 Teglio SO", "lat": 46.1653224, "lon": 10.0373659 },
   { "indirizzo abitazione": "Via Vanoni, 8 – 23100 Sondrio SO", "lat": 46.17040, "lon": 9.87720 },
   { "indirizzo abitazione": "Via Stelvio, 45 – 23100 Sondrio SO", "lat": 46.16450, "lon": 9.87780 },
   { "indirizzo abitazione": "Via Peredo, 12 – 23100 Sondrio SO", "lat": 46.17290, "lon": 9.86650 },
@@ -137,7 +138,7 @@
   { "indirizzo abitazione": "Via Risorgimento, 11 – 23032 Valfurva SO", "lat": 46.4117391, "lon": 10.4937225 },
   { "indirizzo abitazione": "Via Libertà, 9 – 23033 Bianzone SO", "lat": 46.1872556, "lon": 10.1077925 },
   { "indirizzo abitazione": "Via del Mercato, 4 – 23032 Valdisotto SO", "lat": 46.4849508, "lon": 10.3528229 },
-  { "indirizzo abitazione": "Via Giuseppe Verdi, 25 – 23020 Villa di Tirano SO", "lat": 46.22790, "lon": 10.15020 },
+  { "indirizzo abitazione": "Via Giuseppe Verdi, 25 – 23020 Villa di Tirano SO", "lat": 46.2022685, "lon": 10.130191 },
   { "indirizzo abitazione": "Via Roma, 12 – 24040 Treviglio BG", "lat": 45.5238646, "lon": 9.593494 },
   { "indirizzo abitazione": "Via Mazzini, 8 – 24040 Caravaggio BG", "lat": 45.4988536, "lon": 9.6398053 },
   { "indirizzo abitazione": "Via Garibaldi, 20 – 24045 Osio Sotto BG", "lat": 45.6145928, "lon": 9.591936 },
@@ -168,8 +169,6 @@
   { "Impianto lavorativo ": "Ghelfi , Via dei Lavoratori, 10, 23010 Buglio in Monte SO", "lat":46.1669761, "lon": 9.6872626 },
   { "Impianto lavorativo ": "Brembo, Via Europa, 30, 24035 Curno BG", "lat":45.6841706, "lon": 9.5969972 },
   { "Strada ": "SS38, 23010 Rogolo SO", "lat": 46.1451733, "lon": 9.4809781 },
-  { "Strada ": "A4 MI-VE km 256 - 25011 Calcinato BS", "lat": 45.465082, "lon": 10.4076615 }
+  { "Strada ": "A4 MI-VE km 256 - 25011 Calcinato BS", "lat": 45.465082, "lon": 10.4076615 },
+  { "RSA ": "RSA Ospitaletto , Via Monte Grappa, 101 - 25035 Ospitaletto BS", "lat": 45.560671, "lon": 10.0772033 }
 ]
-
-
-

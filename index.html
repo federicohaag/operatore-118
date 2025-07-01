@@ -127,36 +127,36 @@
     </div>
 
     <div id="popupMissione" class="popup hidden draggable-popup">
-        <div class="popup-header" id="popupMissioneHeader">
-            <span>Nuova missione</span>
-            <button type="button" onclick="game.chiudiPopup()" class="popup-close">&times;</button>
+        <div class="popup-header" id="popupMissioneHeader" style="background:#003366;color:white;border-top-left-radius:7px;border-top-right-radius:7px;">
+            <span><img src="src/assets/logo118.png" alt="Logo 118" style="height:22px;vertical-align:middle;margin-right:8px;">Nuova missione</span>
+            <button type="button" onclick="game.chiudiPopup()" class="popup-close" title="Chiudi">&times;</button>
         </div>
-        <form id="missionForm" class="popup-form" autocomplete="off">
+        <form id="missionForm" class="popup-form" autocomplete="off" style="background:#f9f9f9;">
             <div style="margin-bottom:6px;font-size:14px;"><b>Indirizzo:</b> <span id="missione-indirizzo"></span></div>
             <div style="display:grid;grid-template-columns:1fr 1fr;gap:6px 8px;align-items:center;">
-                <label for="codice" style="font-weight:bold;">Codice gravità:</label>
+                <label for="codice" style="font-weight:bold;color:#003366;">Codice gravità:</label>
                 <select id="codice" name="codice"></select>
-                <label for="luogo" style="font-weight:bold;">Luogo intervento:</label>
+                <label for="luogo" style="font-weight:bold;color:#003366;">Luogo intervento:</label>
                 <select id="luogo" name="luogo"></select>
-                <label for="patologia" style="font-weight:bold;">Motivo:</label>
+                <label for="patologia" style="font-weight:bold;color:#003366;">Motivo:</label>
                 <select id="patologia" name="patologia"></select>
-                <label for="note1" style="font-weight:bold;">Note sanitarie 1:</label>
+                <label for="note1" style="font-weight:bold;color:#003366;">Note sanitarie 1:</label>
                 <input id="note1" name="note1" type="text">
-                <label for="note2" style="font-weight:bold;">Note sanitarie 2:</label>
+                <label for="note2" style="font-weight:bold;color:#003366;">Note sanitarie 2:</label>
                 <input id="note2" name="note2" type="text">
             </div>
-            <div style="margin:4px 0; display:flex; align-items:center; gap:8px;">
-                <label style="margin:0;"><input type="checkbox" id="check-vvf"> VVF</label>
-                <label style="margin:0;"><input type="checkbox" id="check-ffo"> FFO</label>
+            <div style="margin:4px 0; display:flex; align-items:center; gap:12px;">
+                <label style="margin:0;font-weight:bold;color:#003366;"><input type="checkbox" id="check-vvf"> Vigili del Fuoco</label>
+                <label style="margin:0;font-weight:bold;color:#003366;"><input type="checkbox" id="check-ffo"> Forze Ordine</label>
             </div>
             <div style="margin:4px 0 2px 0;display:flex;align-items:center;justify-content:space-between;gap:8px;">
-                <b style="font-size:15px;">Mezzi disponibili:</b>
+                <b style="font-size:15px;color:#003366;">Mezzi disponibili:</b>
                 <div id="btnsRapidiMezzi" style="display:flex;gap:4px;"></div>
             </div>
             <div id="mezziAssegnatiScroll"></div>
-            <div style="display:flex;gap:6px;justify-content:flex-end;">
-                <button type="button" onclick="game.confirmCall()" style="background:#388e3c;color:#fff;font-weight:bold;border:none;">Conferma</button>
-                <button type="button" onclick="game.chiudiPopup()" style="background:#eee;color:#222;border:1px solid #bbb;">Annulla</button>
+            <div style="display:flex;gap:8px;justify-content:flex-end;margin-top:10px;">
+                <button type="button" onclick="game.confirmCall()" style="background:#388e3c;color:#fff;font-weight:bold;border:none;min-width:90px;">Conferma</button>
+                <button type="button" onclick="game.chiudiPopup()" style="background:#eee;color:#003366;border:1px solid #bbb;min-width:90px;">Annulla</button>
             </div>
             <div class="popup-resize-handle"></div>
         </form>

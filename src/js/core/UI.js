@@ -777,7 +777,7 @@ class GameUI {
             <div id="stateMezziList" style="flex:2;display:flex;flex-direction:column;overflow-y:auto;height:100%;">
             </div>
             <div id="hospitalList" style="flex:1;display:flex;flex-direction:column;overflow-y:auto;border-left:1px solid #005baa;padding:4px;">
-                <div style="font-weight:bold;margin-bottom:6px;">Elenco Ospedali</div>
+                <div class="ospedali-sticky-header" style="font-weight:bold;margin-bottom:6px;position:sticky;top:0;z-index:2;background:#f9f9f9;border-bottom:1px solid #bbb;padding:6px 0 6px 0;">Elenco Ospedali</div>
             </div>
         `);
         const stateDiv = container.querySelector('#stateMezziList');

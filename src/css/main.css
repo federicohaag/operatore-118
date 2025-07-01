@@ -337,6 +337,16 @@ label {
 .status-completed { background: #e8f5e9; color: #2e7d32; }
 .status-pending { background: #fff3e0; color: #f57c00; }
 
+/* Sticky header for Elenco Ospedali in Stato Mezzi */
+.ospedali-sticky-header {
+    position: sticky;
+    top: 0;
+    z-index: 2;
+    background: #f9f9f9;
+    border-bottom: 1px solid #bbb;
+    padding: 6px 0 6px 0;
+}
+
 /* Responsive */
 @media (max-width: 768px) {
     .griglia {
