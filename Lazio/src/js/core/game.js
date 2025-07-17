@@ -328,8 +328,8 @@ function gestisciStato3(mezzo, call) {
         } else if (mezzoType.startsWith('MSA2')) {
             reportKey = 'MSA2';
         } else if (mezzoType === 'ELI') {
-            // ELI uses MSA2 report
-            reportKey = 'MSA2';
+            // ELI uses ASM report
+            reportKey = 'ASM';
         }
 
         // Prima cerca nel caso selezionato
@@ -520,12 +520,17 @@ class EmergencyDispatchGame {
             if (hour >=7 && hour <19) return lambdaDay;
             return lambdaNight;
         };
+        // Variabile per controllare la generazione automatica delle chiamate
+        window.autoCallsEnabled = true;
+
         const scheduleDynamicCall = () => {
             if (!window.simRunning) { simTimeout(scheduleDynamicCall, 1); return; }
             const rate = getRate();
             const dt = Math.max(1, Math.round(-Math.log(Math.random())/rate));
             simTimeout(() => {
-                this.generateNewCall();
+                if (window.autoCallsEnabled) {
+                    this.generateNewCall();
+                }
                 scheduleDynamicCall();
             }, dt);
         };
@@ -686,8 +691,10 @@ class EmergencyDispatchGame {
                 // Schedule the first call within at most 15 seconds
                 const firstInterval = Math.floor(Math.random() * 16); // seconds (0–15)
                 simTimeout(() => {
-                    this.generateNewCall();
-                    this.scheduleNextCall();
+                    if (window.autoCallsEnabled) {
+                        this.generateNewCall();
+                        this.scheduleNextCall();
+                    }
                 }, firstInterval);
             }
          } catch (e) {
@@ -695,25 +702,70 @@ class EmergencyDispatchGame {
          }
     }
 
-    // Schedule automatic new calls at random intervals based on simulated time
+    // Sistema realistico di generazione chiamate basato su pattern reali del 118
     scheduleNextCall() {
-        // Determine current simulated hour
+        // Profilo orario realistico (0.0 - 1.0 moltiplicatore)
+        const hourlyProfile = {
+            0: 0.3, 1: 0.2, 2: 0.2, 3: 0.2, 4: 0.25, 5: 0.3,
+            6: 0.4, 7: 0.6, 8: 0.8, 9: 0.9, 10: 1.0, 11: 0.95,
+            12: 0.9, 13: 0.8, 14: 0.85, 15: 0.9, 16: 0.95, 17: 1.0,
+            18: 0.9, 19: 0.8, 20: 0.7, 21: 0.6, 22: 0.5, 23: 0.4
+        };
+
+        // Modificatori giornalieri
+        const dayModifiers = {
+            0: 0.7,  // Domenica
+            1: 1.0,  // Lunedì
+            2: 1.0,  // Martedì
+            3: 1.0,  // Mercoledì
+            4: 1.1,  // Giovedì
+            5: 1.2,  // Venerdì
+            6: 0.9   // Sabato
+        };
+
         const sec = window.simTime || 0;
-        const hour = Math.floor(sec / 3600);
-        // Daytime 7-19: shorter intervals, night: longer intervals
-        let minInterval = 45; // seconds
-        let maxInterval = 300; // seconds
-        if (hour >= 7 && hour < 19) {
-            minInterval = 45;
-            maxInterval = 180;
-        } else {
-            minInterval = 180;
-            maxInterval = 300;
+        const currentHour = Math.floor(sec / 3600) % 24;
+        const currentDay = new Date().getDay();
+
+        // Parametri base: 6-15 chiamate/ora, media 10
+        const baseLoad = 10;
+        const minLoad = 6;
+        const maxLoad = 15;
+
+        // Calcola chiamate target per quest'ora
+        const hourlyMultiplier = hourlyProfile[currentHour] || 0.5;
+        let callsThisHour = Math.round(baseLoad * hourlyMultiplier);
+        
+        // Applica modificatori giornalieri
+        callsThisHour = Math.round(callsThisHour * dayModifiers[currentDay]);
+        
+        // Applica moltiplicatore utente per frequenza chiamate
+        const userMultiplier = window.callFrequencyMultiplier || 1.0;
+        callsThisHour = Math.round(callsThisHour * userMultiplier);
+        
+        // Assicura che rimanga nei limiti (con range esteso per moltiplicatori alti)
+        const adjustedMin = Math.round(minLoad * userMultiplier);
+        const adjustedMax = Math.round(maxLoad * userMultiplier * 1.5); // Permette fino a 22 chiamate/ora
+        callsThisHour = Math.max(adjustedMin, Math.min(adjustedMax, callsThisHour));
+
+        // Controlla eventi speciali (5% probabilità ogni ora)
+        if (Math.random() < 0.05) {
+            callsThisHour = Math.round(callsThisHour * (1.5 + Math.random())); // 1.5x - 2.5x
         }
-        const interval = Math.floor(Math.random() * (maxInterval - minInterval + 1)) + minInterval;
+
+        // Calcola intervallo fino alla prossima chiamata
+        const baseInterval = (60 * 60) / callsThisHour; // secondi tra chiamate
+        const variation = 0.3; // ±30% variazione
+        const randomFactor = 1 + (Math.random() - 0.5) * 2 * variation;
+        const interval = Math.round(baseInterval * randomFactor);
+
         simTimeout(() => {
-            this.generateNewCall();
-            this.scheduleNextCall();
+            if (window.autoCallsEnabled) {
+                this.generateNewCall();
+                this.scheduleNextCall();
+            } else {
+                this.scheduleNextCall();
+            }
         }, interval);
     }
 
@@ -1010,8 +1062,22 @@ class EmergencyDispatchGame {
             if (vehicleCentral && prefixMap[currentCentral]?.includes(vehicleCentral)) {
                 markerName = `(${vehicleCentral}) ${m.nome_radio}`;
             }
+            
+            // Get stato description
+            const statiMezzi = {
+                1: "Libero in sede",
+                2: "Diretto intervento",
+                3: "In Posto", 
+                4: "Diretto ospedale",
+                5: "In ospedale",
+                6: "Libero in ospedale",
+                7: "Diretto in sede",
+                8: "Non disponibile"
+            };
+            const statoDescrizione = statiMezzi[m.stato] || `Stato ${m.stato}`;
+            
             m._marker = L.marker([m.lat, m.lon], { icon }).addTo(this.map)
-                .bindPopup(`<b>${markerName}</b><br>${m.postazione}<br>Stato: ${m.stato}`);
+                .bindPopup(`<b>Nome Radio:</b> ${markerName}<br><b>Tipo:</b> ${m.tipo_mezzo || 'N/D'}<br><b>Stato:</b> ${statoDescrizione}`);
         });
     }
 
@@ -1084,14 +1150,33 @@ class EmergencyDispatchGame {
     }
 
     generateNewCall() {
-        // Seleziona prima il template di chiamata casuale
+        // Inizializza array per tracciare chiamate recenti se non esiste
+        if (!this.recentChiamate) this.recentChiamate = [];
+        if (!this.recentIndirizzi) this.recentIndirizzi = [];
+        
+        // Seleziona template di chiamata evitando ripetizioni recenti
         let chiamataTemplate = null;
         let testo_chiamata = '';
         if (this.chiamateTemplate) {
             const keys = Object.keys(this.chiamateTemplate);
-            const sel = keys[Math.floor(Math.random() * keys.length)];
+            let availableKeys = keys.filter(key => !this.recentChiamate.includes(key));
+            
+            // Se tutti i template sono stati usati di recente, reset della lista
+            if (availableKeys.length === 0) {
+                this.recentChiamate = [];
+                availableKeys = keys;
+            }
+            
+            const sel = availableKeys[Math.floor(Math.random() * availableKeys.length)];
             chiamataTemplate = this.chiamateTemplate[sel];
             testo_chiamata = chiamataTemplate.testo_chiamata;
+            
+            // Aggiungi alla lista delle chiamate recenti
+            this.recentChiamate.push(sel);
+            // Mantieni solo le ultime 8 chiamate per evitare ripetizioni immediate
+            if (this.recentChiamate.length > 8) {
+                this.recentChiamate.shift();
+            }
         }
         // Determina lista indirizzi in base al placeholder nel testo
         const rawText = testo_chiamata || '';
@@ -1107,8 +1192,30 @@ class EmergencyDispatchGame {
                 sourceList = catMap[key];
             }
         }
-        const idx = Math.floor(Math.random() * sourceList.length);
+        // Seleziona indirizzo evitando ripetizioni recenti
+        let availableIndices = [];
+        for (let i = 0; i < sourceList.length; i++) {
+            const addr = sourceList[i].indirizzo;
+            if (!this.recentIndirizzi.includes(addr)) {
+                availableIndices.push(i);
+            }
+        }
+        
+        // Se tutti gli indirizzi sono stati usati di recente, reset della lista
+        if (availableIndices.length === 0) {
+            this.recentIndirizzi = [];
+            availableIndices = Array.from({length: sourceList.length}, (_, i) => i);
+        }
+        
+        const idx = availableIndices[Math.floor(Math.random() * availableIndices.length)];
         const indirizzo = sourceList[idx] || { indirizzo: 'Indirizzo sconosciuto', lat: 45.68, lon: 9.67 };
+        
+        // Aggiungi alla lista degli indirizzi recenti
+        this.recentIndirizzi.push(indirizzo.indirizzo);
+        // Mantieni solo gli ultimi 15 indirizzi per evitare ripetizioni immediate
+        if (this.recentIndirizzi.length > 15) {
+            this.recentIndirizzi.shift();
+        }
         // Sostituisci ogni placeholder con il label della categoria (solo parte prima della virgola)
         const placeholderRegex = /\((?:indirizzo\s*)?[^)]+\)/gi;
         // Label: parte prima della virgola (es. 'RSA Treviglio')

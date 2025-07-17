@@ -88,7 +88,6 @@
     <header>
         <div class="header-left">
             <span class="header-title">Simulatore Centrale Operativa</span>
-            <button onclick="game.generateNewCall()" class="header-button">Nuova chiamata</button>
         </div>
         <div class="header-controls" style="display:flex;align-items:center;gap:16px;margin-left:32px;">
             <label for="sim-speed" style="font-size:14px;">Velocità:</label>
@@ -152,8 +151,8 @@
                 <input id="note2" name="note2" type="text">
             </div>
             <div style="margin:4px 0; display:flex; align-items:center; gap:12px;">
-                <label style="margin:0;font-weight:bold;color:#003366;"><input type="checkbox" id="check-vvf"> Vigili del Fuoco</label>
-                <label style="margin:0;font-weight:bold;color:#003366;"><input type="checkbox" id="check-ffo"> Forze Ordine</label>
+                <label for="check-vvf" style="margin:0;font-weight:bold;color:#003366;"><input type="checkbox" id="check-vvf" name="check-vvf"> Vigili del Fuoco</label>
+                <label for="check-ffo" style="margin:0;font-weight:bold;color:#003366;"><input type="checkbox" id="check-ffo" name="check-ffo"> Forze Ordine</label>
             </div>
             <div style="margin:4px 0 2px 0;display:flex;align-items:center;justify-content:space-between;gap:8px;">
                 <b style="font-size:15px;color:#003366;">Mezzi disponibili:</b>
@@ -168,59 +167,89 @@
         </form>
     </div>
 
-    <div id="sim-settings-popup" style="display:none;position:fixed;top:50px;left:50%;transform:translateX(-50%);background:#fff;border:2px solid #888;padding:24px 32px;z-index:1000;box-shadow:0 4px 24px #0002;min-width:320px;">
-        <h3>Impostazioni Simulazione</h3>
-        <div style='margin-bottom:12px;'>
-            <label for='sim-day' style='font-weight:bold;'>Giorno della settimana:</label>
-            <select id='sim-day' style='margin-left:8px;'>
-                <option value='Lunedì'>Lunedì</option>
-                <option value='Martedì'>Martedì</option>
-                <option value='Mercoledì'>Mercoledì</option>
-                <option value='Giovedì'>Giovedì</option>
-                <option value='Venerdì'>Venerdì</option>
-                <option value='Sabato'>Sabato</option>
-                <option value='Domenica'>Domenica</option>
-            </select>
+    <div id="sim-settings-popup" style="display:none;position:fixed;top:50px;left:50%;transform:translateX(-50%);background:#fff;border:2px solid #ddd;border-radius:12px;padding:0;z-index:1000;box-shadow:0 8px 32px rgba(0,0,0,0.15);min-width:380px;font-family:system-ui,-apple-system,sans-serif;">
+        <div style="background:linear-gradient(135deg,#1976d2,#1565c0);color:white;padding:16px 24px;border-radius:10px 10px 0 0;font-size:18px;font-weight:600;">
+            ⚙️ Impostazioni Simulazione
         </div>
-        <div style='margin-bottom:12px; display:flex; align-items:center; gap:4px;'>
-            <label for='sim-hour-hour' style='font-weight:bold;'>Ora di gioco:</label>
-            <select id='sim-hour-hour'>
-                <option value='00'>00</option>
-                <option value='01'>01</option>
-                <option value='02'>02</option>
-                <option value='03'>03</option>
-                <option value='04'>04</option>
-                <option value='05'>05</option>
-                <option value='06'>06</option>
-                <option value='07'>07</option>
-                <option value='08'>08</option>
-                <option value='09'>09</option>
-                <option value='10'>10</option>
-                <option value='11'>11</option>
-                <option value='12'>12</option>
-                <option value='13'>13</option>
-                <option value='14'>14</option>
-                <option value='15'>15</option>
-                <option value='16'>16</option>
-                <option value='17'>17</option>
-                <option value='18'>18</option>
-                <option value='19'>19</option>
-                <option value='20'>20</option>
-                <option value='21'>21</option>
-                <option value='22'>22</option>
-                <option value='23'>23</option>
-            </select>
-            :
-            <select id='sim-minute'>
-                <option value='00'>00</option>
-                <option value='15'>15</option>
-                <option value='30'>30</option>
-                <option value='45'>45</option>
-            </select>
+        <div style="padding:24px;">
+            <div style='margin-bottom:20px;'>
+                <label for='sim-day' style='display:block;font-weight:600;color:#333;margin-bottom:8px;'>Giorno della settimana:</label>
+                <select id='sim-day' style='width:100%;padding:10px;border:2px solid #e0e0e0;border-radius:8px;font-size:14px;background:white;'>
+                    <option value='Lunedì'>Lunedì</option>
+                    <option value='Martedì'>Martedì</option>
+                    <option value='Mercoledì'>Mercoledì</option>
+                    <option value='Giovedì'>Giovedì</option>
+                    <option value='Venerdì'>Venerdì</option>
+                    <option value='Sabato'>Sabato</option>
+                    <option value='Domenica'>Domenica</option>
+                </select>
+            </div>
+            <div style='margin-bottom:20px;'>
+                <label style='display:block;font-weight:600;color:#333;margin-bottom:8px;'>Ora di gioco:</label>
+                <div style='display:flex;align-items:center;gap:8px;'>
+                    <select id='sim-hour-hour' style='flex:1;padding:10px;border:2px solid #e0e0e0;border-radius:8px;font-size:14px;background:white;'>
+                        <option value='00'>00</option>
+                        <option value='01'>01</option>
+                        <option value='02'>02</option>
+                        <option value='03'>03</option>
+                        <option value='04'>04</option>
+                        <option value='05'>05</option>
+                        <option value='06'>06</option>
+                        <option value='07'>07</option>
+                        <option value='08'>08</option>
+                        <option value='09'>09</option>
+                        <option value='10'>10</option>
+                        <option value='11'>11</option>
+                        <option value='12'>12</option>
+                        <option value='13'>13</option>
+                        <option value='14'>14</option>
+                        <option value='15'>15</option>
+                        <option value='16'>16</option>
+                        <option value='17'>17</option>
+                        <option value='18'>18</option>
+                        <option value='19'>19</option>
+                        <option value='20'>20</option>
+                        <option value='21'>21</option>
+                        <option value='22'>22</option>
+                        <option value='23'>23</option>
+                    </select>
+                    <span style='font-weight:bold;color:#666;'>:</span>
+                    <select id='sim-minute' style='flex:1;padding:10px;border:2px solid #e0e0e0;border-radius:8px;font-size:14px;background:white;'>
+                        <option value='00'>00</option>
+                        <option value='15'>15</option>
+                        <option value='30'>30</option>
+                        <option value='45'>45</option>
+                    </select>
+                </div>
+            </div>
+            <div style="margin-bottom:20px;">
+                <label for="call-frequency-slider" style='display:block;font-weight:600;color:#333;margin-bottom:8px;'>Frequenza chiamate/ora:</label>
+                <div style="display:flex;align-items:center;gap:12px;">
+                    <span style="color:#666;font-size:13px;">Meno</span>
+                    <input type="range" id="call-frequency-slider" name="call-frequency-slider" min="0.2" max="3" step="0.1" value="1" style="flex:1;height:6px;background:#ddd;border-radius:3px;outline:none;">
+                    <span style="color:#666;font-size:13px;">Più</span>
+                </div>
+                <div style="text-align:center;margin-top:6px;font-size:13px;color:#666;">
+                    Moltiplicatore: <span id="frequency-display">1.0x</span>
+                </div>
+            </div>
+            <div style="margin-bottom:20px;">
+                <label for="mute-sounds" style='display:flex;align-items:center;gap:8px;font-weight:600;color:#333;cursor:pointer;'>
+                    <input type="checkbox" id="mute-sounds" name="mute-sounds" style="width:18px;height:18px;accent-color:#1976d2;">
+                    Silenzia suoni
+                </label>
+            </div>
+            <div style="margin-bottom:20px;">
+                <label for="auto-calls" style='display:flex;align-items:center;gap:8px;font-weight:600;color:#333;cursor:pointer;'>
+                    <input type="checkbox" id="auto-calls" name="auto-calls" checked style="width:18px;height:18px;accent-color:#1976d2;">
+                    Generazione automatica chiamate
+                </label>
+            </div>
+            <div style="display:flex;gap:12px;justify-content:flex-end;">
+                <button id='sim-settings-cancel' style='padding:10px 20px;border:2px solid #ddd;background:white;color:#666;border-radius:8px;font-weight:600;cursor:pointer;'>Annulla</button>
+                <button id='sim-settings-save' style='padding:10px 20px;border:none;background:linear-gradient(135deg,#1976d2,#1565c0);color:white;border-radius:8px;font-weight:600;cursor:pointer;'>Salva</button>
+            </div>
         </div>
-        <div style="margin-bottom:12px;"><label><input type="checkbox" id="mute-sounds" style="margin-right:6px;">Silenzia suoni</label></div>
-        <button id='sim-settings-save' style='margin-right:12px;'>Salva</button>
-        <button id='sim-settings-cancel'>Annulla</button>
     </div>    <!-- Third party libraries -->
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.3/howler.min.js"></script>
@@ -291,6 +320,17 @@
     <!-- Initialize the game -->
     <script>
         (function(){
+            // Gestione slider frequenza chiamate
+            const slider = document.getElementById('call-frequency-slider');
+            const display = document.getElementById('frequency-display');
+            if (slider && display) {
+                slider.oninput = function() {
+                    display.textContent = parseFloat(this.value).toFixed(1) + 'x';
+                };
+                // Inizializza il display
+                display.textContent = parseFloat(slider.value).toFixed(1) + 'x';
+            }
+            
             // Mostra popup impostazioni
             document.getElementById('sim-settings').onclick = function() {
                 document.getElementById('sim-day').value = window.simDay || 'Lunedì';
@@ -300,18 +340,31 @@
                 document.getElementById('sim-minute').value = m;
                 // Sync mute checkbox
                 document.getElementById('mute-sounds').checked = !!window.soundMuted;
+                // Sync auto calls checkbox
+                document.getElementById('auto-calls').checked = window.autoCallsEnabled !== false; // default true
+                // Sync call frequency slider
+                const slider = document.getElementById('call-frequency-slider');
+                const display = document.getElementById('frequency-display');
+                if (slider && display) {
+                    slider.value = window.callFrequencyMultiplier || 1;
+                    display.textContent = parseFloat(slider.value).toFixed(1) + 'x';
+                }
                 document.getElementById('sim-settings-popup').style.display = 'block';
             };
+            
             // Annulla
             document.getElementById('sim-settings-cancel').onclick = function() {
                 document.getElementById('sim-settings-popup').style.display = 'none';
-            };            // Salva
+            };
+            
+            // Salva
             document.getElementById('sim-settings-save').onclick = function() {
                 window.simDay = document.getElementById('sim-day').value;
                 window._dayManuallySet = true; // Indica che il giorno è stato impostato manualmente
                 const h = document.getElementById('sim-hour-hour').value;
                 const m = document.getElementById('sim-minute').value;
                 window.simTime = (parseInt(h)||0)*3600 + (parseInt(m)||0)*60;
+                
                 if(typeof updateSimClock==='function') updateSimClock();
                 
                 // Force availability update after time change
@@ -323,8 +376,22 @@
                 
                 // Save mute state
                 window.soundMuted = document.getElementById('mute-sounds')?.checked;
+                
+                // Save auto calls state
+                window.autoCallsEnabled = document.getElementById('auto-calls')?.checked;
+                console.log(`[INFO] Auto calls enabled: ${window.autoCallsEnabled}`);
+                
+                // Save call frequency multiplier
+                const slider = document.getElementById('call-frequency-slider');
+                if (slider) {
+                    window.callFrequencyMultiplier = parseFloat(slider.value);
+                    console.log(`[INFO] Call frequency multiplier set to: ${window.callFrequencyMultiplier}x`);
+                }
+                
                 document.getElementById('sim-settings-popup').style.display = 'none';
-            };            // Mostra giorno nella clock
+            };
+            
+            // Mostra giorno nella clock
             const origUpdateSimClock = window.updateSimClock;
             window.updateSimClock = function() {
                 if(origUpdateSimClock) origUpdateSimClock();

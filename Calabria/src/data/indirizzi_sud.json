@@ -230,7 +230,14 @@
   { "Impianto sportivo": "Centro Sportivo Reggio Viale Messina, 54 - 89129 Reggio Calabria RC", "lat": 38.0911129, "lon": 15.6384109 },
   { "Impianto sportivo": "Centro Sportivo Vibo Via Piazza D'Armi - 89900 Vibo Valentia VV", "lat": 38.6836451, "lon": 16.1095435 },
   { "Impianto sportivo": "Centro Sportivo Lamezia Via Bruno Napoleone Ruberto, 33 - 88046 Lamezia Terme CZ", "lat": 38.9519937, "lon": 16.2884803 },
-  { "Impianto sportivo": "Centro Sportivo Catanzaro Lido Via Carlo Pisacane - 88100 Catanzaro CZ", "lat": 38.833508, "lon": 16.6404286 }
+  { "Impianto sportivo": "Centro Sportivo Catanzaro Lido Via Carlo Pisacane - 88100 Catanzaro CZ", "lat": 38.833508, "lon": 16.6404286 },
+  { "Pronto Soccorso ": "H Castrovillari, Castrovillari - 87012 Castrovillari CS", "lat": 38.9607302, "lon": 16.3017457 },
+  { "Pronto Soccorso ": "H Lamezia, Lamezia Terme - 88046 Lamezia Terme CZ", "lat": 39.5907811, "lon": 16.5209031 },
+  { "Pronto Soccorso ": "H Vibo, Vibo Valentia - 89900 VV", "lat": 38.6791766, "lon": 16.1035534 },
+  { "Pronto Soccorso ": "H Soverato, Soverato - 88068 CZ", "lat": 38.6906957, "lon": 16.54162 },
+  { "Pronto Soccorso ": "H Locri, Locri - 89044 RC", "lat": 38.2360856, "lon": 16.2454737 },
+  { "Pronto Soccorso ": "H Melito, 89063 - Melito di Porto Salvo RC", "lat": 37.9175046, "lon": 15.779991 },
+  { "Pronto Soccorso ": "H Gioia Tauro, Gioia Tauro - 89013 Gioia Tauro RC", "lat": 38.4247688, "lon": 15.9059115 }
   ]
 
 

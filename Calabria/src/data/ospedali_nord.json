@@ -92,7 +92,7 @@
         "PEDIATRIA": true,
         "TRAUMA": "PST",
         "EMODINAMICA": true,
-        "STROKE UNIT": false,
+        "STROKE UNIT": true,
         "NCH": false,
         "RIANIMAZIONE": true,
         "PSICHIATRIA": true

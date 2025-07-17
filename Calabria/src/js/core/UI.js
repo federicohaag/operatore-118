@@ -684,8 +684,9 @@ class GameUI {
                             mezzo.codice_trasporto = null;
                             mezzo._trasportoConfermato = false;
                             mezzo._trasportoAvviato = false;
-                            // mostra solo 'missione interrotta'
-                            mezzo.comunicazioni = ['missione interrotta'];
+                            // Distingue il messaggio in base allo stato di partenza
+                            const messaggioRientro = mezzo.stato === 3 ? 'Non trasporta' : 'Missione interrotta';
+                            mezzo.comunicazioni = [messaggioRientro];
                             setStatoMezzo(mezzo, 7);
                             aggiornaMissioniPerMezzo(mezzo);
                             if (window.game && window.game.postazioniMap && mezzo.postazione) {
@@ -856,10 +857,25 @@ class GameUI {
                 // Calcola missioneId se presente
                 const call = Array.from(window.game.calls.values()).find(c => (c.mezziAssegnati||[]).includes(m.nome_radio));
                 const missioneId = call ? call.missioneId : '';
-                const statoLabel = getStatoLabel(m.stato, m) || m.stato;
-                const comunicazione = Array.isArray(m.comunicazioni) && m.comunicazioni.length
-                    ? m.comunicazioni[m.comunicazioni.length - 1]
-                    : '';
+                // Stato sempre numerico
+                const statoLabel = m.stato;
+                
+                // Comunicazioni: per stato 7 usa messaggio specifico basato su stato precedente
+                let comunicazione = '';
+                if (m.stato === 7 && m.statoPrecedente) {
+                    if (m.statoPrecedente === 3) {
+                        comunicazione = 'Non trasporta';
+                    } else if (m.statoPrecedente === 2) {
+                        comunicazione = 'Missione interrotta';
+                    } else {
+                        comunicazione = 'Diretto in sede';
+                    }
+                } else {
+                    // Per altri stati, usa l'ultima comunicazione
+                    comunicazione = Array.isArray(m.comunicazioni) && m.comunicazioni.length
+                        ? m.comunicazioni[m.comunicazioni.length - 1]
+                        : '';
+                }
                 // Build row: Nome, Tipo/Convenzione, Stato, Comunicazioni
                 const hasReport = comunicazione.toLowerCase().includes('report pronto');
                 // differenzia report non letto (lampeggio) da report letto
