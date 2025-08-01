@@ -1414,26 +1414,26 @@ class EmergencyDispatchGame {
                 opzioni = ['RISSA','AGGRESSIONE','FERITA','FERITA ARMA BIANCA','FERITA ARMA DA FUOCO', 'ASSISTENZA FFO'];
                 break;
             case 'INC. STRADALE':
-                opzioni = ['INVESTIMENTO PEDONE','INVESTIMENTO CICLISTA','SCONTRO BICICLETTE','RIBALTAMENTO','SBALZATO/PROIETTATO','FUORI STRADA','CONTRO OSTACOLO','MOTO/MOTO','AUTO/AUTO','AUTO/MEZZO PESANTE','MEZZO PESANTE/MEZZO PESANTE', 'PIU VEICOLI','DINAMICA NON NOTA','INCASTRATO', 'INCARCERATO', 'ARROTAMENTO PERSONA','MICROMOB. ELETTRICA'];
+                opzioni = ['INVESTIMENTO PEDONE','INVESTIMENTO CICLISTA','SCONTRO BICICLETTE','RIBALTAMENTO','SBALZATO/PROIETTATO','FUORI STRADA','CONTRO OSTACOLO','MOTO/MOTO','MOTO/AUTO','AUTO/AUTO','MOTO/MEZZO PESANTE','AUTO/MEZZO PESANTE','MEZZO PESANTE/MEZZO PESANTE', 'PIU VEICOLI','INCASTRATO', 'INCARCERATO', 'ARROTAMENTO PERSONA','MICROMOB. ELETTRICA', 'DINAMICA NON NOTA'];
                 break;
             case 'INC. FERROVIA':
-                opzioni = ['ARROTAMENTO PERSONA'];
+                opzioni = ['ARROTAMENTO PERSONA', 'ALTRO INC. FERROVIARIO'];
                 break;
             case 'INC. ACQUA':
-                opzioni = ['IMBARCAZIONE', 'ANNEGAMENTO PERSONA'];
+                opzioni = ['IMBARCAZIONE', 'ANNEGAMENTO PERSONA', 'SOCCORSO A PERSONA'];
                 break;
             case 'INC. ARIA':
                 opzioni = ['AEROMOBILE'];
                 break;
             case 'INC. MONTANO':
             case 'INC. SPELEO/FORRA':
-                opzioni = ['INRODATO'];
+                opzioni = ['INCRODATO', 'SOCCORSO A PERSONA', 'RICERCA DISPERSO', 'ALTRO'];
                 break;
             case 'INTOSSICAZIONE':
-                opzioni = ['ALIMENTARE','FARMACI','SOSTANZE PERICOLOSE'];
+                opzioni = ['ALIMENTARE','FARMACI','SOSTANZE PERICOLOSE', 'ETILICA', 'ALTRA SOSTANZA PERICOLOSA'];
                 break;
             case 'ANIMALI':
-                opzioni = ['PUNTURA ANIMALE','MORSO ANIMALE'];
+                opzioni = ['PUNTURA ANIMALE','MORSO ANIMALE', 'MORSO DI VIPERA'];
                 break;
             case 'PREVENZIONE':
             case 'EVENTO DI MASSA':
@@ -1441,10 +1441,7 @@ class EmergencyDispatchGame {
                 opzioni = ['ESPLOSIONE','SCOPPIO','CROLLO','ESONDAZIONE','FRANA/VALANGA','NUBIFRAGIO','TERREMOTO','TROMBA D ARIA','FUGA GAS/ SOST. PERICOLOSE','INC. NUCLEARE','NUBE TOSSICA'];
                 break;
             case 'SOCCORSO SECONDARIO':
-                opzioni = ['SOCCORSO SECONDARIO', 'TRASPORTO INTRAOSPEDALIERO', 'TRASPORTO ORGANI','TRASPORTO EQUIPE ELI'];
-                break;
-            case 'TRASPORTO ORGANI':
-                opzioni = ['TRASPORTO ORGANI', 'TRASPORTO EQUIPE TRAPIANTI'];
+                opzioni = ['SOCCORSO SECONDARIO', 'TRASPORTO INTRAOSPEDALIERO', 'TRASPORTO EQUIPE ELI', 'TRASPORTO ORGANI', 'TRASPORTO EQUIPE TRAPIANTI'];
                 break;
             case 'ALTRO/NON NOTO':
                 opzioni = ['PZ GRANDE OBESO','ALTRO', 'NON INDENTIFICATO'];
@@ -1470,8 +1467,11 @@ class EmergencyDispatchGame {
             case 'CARDIOCIRCOLATORIO':
                 opzioni = ['ACC','RCP IN CORSO','CARDIOPALMO','CARDIOPATICO','IPERTESO','IPOTESO','CARDIOPATICO IPERTESO','PREGRESSO IMA'];
                 break;
+            case 'RESPIRATORIA':
+                opzioni = ['NORMALE','A FATICA','TOSSE', 'BPCO'];
+                break;
             case 'RESPIRA':
-                opzioni = ['NORMALE','A FATICA','TOSSE'];
+                opzioni = ['NORMALE','A FATICA','TOSSE', 'BPCO'];
                 break;
             case 'DOLORE':
                 opzioni = ['TESTA VOLTO','OCCHI','BOCCA','TORACE/EPIGASTRICO/MANDIBOLA','TORACE','ARTO SUP.SPALLA','MANO','ADDOME','BACINO','SCHIENA','APPARATO GENITALE','ARTO INF.','PIEDE'];
@@ -1961,12 +1961,18 @@ class EmergencyDispatchGame {
         const luogoSelect = document.getElementById('luogo');
         if (luogoSelect) {
             luogoSelect.innerHTML = '';
+            // Aggiungi opzione vuota come prima opzione
+            const emptyOption = document.createElement('option');
+            emptyOption.value = '';
+            emptyOption.textContent = '-- Seleziona luogo --';
+            emptyOption.selected = true;
+            luogoSelect.appendChild(emptyOption);
+            
             const opzioniLuogo = ['CASA','STRADA','UFFICI ED ES. PUBBL.','STR. SANITARIA','IMPIANTO SPORTIVO','IMPIANTO LAVORATIVO','SCUOLE','STAZIONE','FERROVIA','METROPOLITANA','AEREOPORTI','QUESTURA/CASERME','LUOGHI DI CULTO','IMPERVIO','ALTRO LUOGO'];
             opzioniLuogo.forEach(opt => {
                 const option = document.createElement('option');
                 option.value = opt;
                 option.textContent = opt;
-                if (call.luogo === opt) option.selected = true;
                 luogoSelect.appendChild(option);
             });
             
@@ -1976,18 +1982,23 @@ class EmergencyDispatchGame {
             });
         }
         
-        // Inizializza Dett. Luogo
-        this.updateDettLuogo(call.luogo || '');
+        // Lascia vuoto il campo Dett. Luogo inizialmente
         
         const motivoSelect = document.getElementById('motivo');
         if (motivoSelect) {
             motivoSelect.innerHTML = '';
+            // Aggiungi opzione vuota come prima opzione
+            const emptyOption = document.createElement('option');
+            emptyOption.value = '';
+            emptyOption.textContent = '-- Seleziona motivo --';
+            emptyOption.selected = true;
+            motivoSelect.appendChild(emptyOption);
+            
             const opzioniMotivo = ['MEDICO ACUTO','SOCCORSO PERSONA','EVENTO VIOLENTO','CADUTA','INCIDENTE/INFORTUNIO','INC. STRADALE','INC. FERROVIA','INC. ARIA','INC. ACQUA','INC. MONTANO','INC. SPELEO/FORRA','INTOSSICAZIONE','ANIMALI','PREVENZIONE','EVENTO DI MASSA','MAXI EMERGENZA','SOCCORSO SECONDARIO','ALTRO/NON NOTO'];
             opzioniMotivo.forEach(opt => {
                 const option = document.createElement('option');
                 option.value = opt;
                 option.textContent = opt;
-                if (call.motivo === opt) option.selected = true;
                 motivoSelect.appendChild(option);
             });
             
@@ -1997,18 +2008,23 @@ class EmergencyDispatchGame {
             });
         }
         
-        // Inizializza Dett. Motivo
-        this.updateDettMotivo(call.motivo || '');
+        // Lascia vuoto il campo Dett. Motivo inizialmente
         
         const coscienzaSelect = document.getElementById('coscienza');
         if (coscienzaSelect) {
             coscienzaSelect.innerHTML = '';
+            // Aggiungi opzione vuota come prima opzione
+            const emptyOption = document.createElement('option');
+            emptyOption.value = '';
+            emptyOption.textContent = '-- Seleziona coscienza --';
+            emptyOption.selected = true;
+            coscienzaSelect.appendChild(emptyOption);
+            
             const opzioniCoscienza = ['RISPONDE','ALTERATA','NON RISPONDE','NON RISPONDE NON RESPIRA','INCOSCIENTE','NON NOTO'];
             opzioniCoscienza.forEach(opt => {
                 const option = document.createElement('option');
                 option.value = opt;
                 option.textContent = opt;
-                if (call.coscienza === opt) option.selected = true;
                 coscienzaSelect.appendChild(option);
             });
         }
@@ -2016,12 +2032,18 @@ class EmergencyDispatchGame {
         const noteEventoSelect = document.getElementById('note-evento');
         if (noteEventoSelect) {
             noteEventoSelect.innerHTML = '';
+            // Aggiungi opzione vuota come prima opzione
+            const emptyOption = document.createElement('option');
+            emptyOption.value = '';
+            emptyOption.textContent = '-- Seleziona note evento --';
+            emptyOption.selected = true;
+            noteEventoSelect.appendChild(emptyOption);
+            
             const opzioniNoteEvento = ['RESPIRA','DOLORE','DEFORMITA','CARDIOCIRCOLATORIO','EDEMA','DISTRETTO TRAUMA','CONVULSIONI','CPSS','VERTIGINI','STATO CONFUSIONALE','ASTENIA','SEGNI','CUTE','SANGUINA','ABRASIONE/CONTUSIONE','DIABETICO','INSUFFICIENZA RENALE','PENETRANTE','PROIETTATO','SBALZATO','INCASTRATO','-2.5 MT','2.5 - 5 MT','+ 5 MT','TRAVAGLIO','CONTRAZIONI - 5 MIN','GRAVIDANZA','PARTO','INCENDIO','INCENDIO INDUSTRIALE','INCENDIO ABITAZIONE','SOSP INTOSSICAZIONE DA MONOSSIDO','AUTOLESIONISMO','PSICHIATRICO NOTO','NO/NON NOTO','ALTRI SEGNI','SEGUE'];
             opzioniNoteEvento.forEach(opt => {
                 const option = document.createElement('option');
                 option.value = opt;
                 option.textContent = opt;
-                if (call.noteEvento === opt) option.selected = true;
                 noteEventoSelect.appendChild(option);
             });
             
@@ -2031,22 +2053,24 @@ class EmergencyDispatchGame {
             });
         }
         
-        // Inizializza Note evento 2
-        this.updateNoteEvento2(call.noteEvento || '');
+        // Lascia vuoto il campo Note evento 2 inizialmente
         
         const noteEvento2Select = document.getElementById('note-evento2');
-        if (noteEvento2Select && call.noteEvento2) {
-            // Seleziona il valore salvato se esiste
-            noteEvento2Select.value = call.noteEvento2;
-        }
+        
         const codiceSelect = document.getElementById('codice');
         if (codiceSelect) {
             codiceSelect.innerHTML = '';
+            // Aggiungi opzione vuota come prima opzione
+            const emptyOption = document.createElement('option');
+            emptyOption.value = '';
+            emptyOption.textContent = '-- Seleziona codice --';
+            emptyOption.selected = true;
+            codiceSelect.appendChild(emptyOption);
+            
             ['Rosso','Giallo','Verde'].forEach(opt => {
                 const option = document.createElement('option');
                 option.value = opt;
                 option.textContent = opt;
-                if (call.codice === opt) option.selected = true;
                 codiceSelect.appendChild(option);
             });
         }
