@@ -1494,5 +1494,173 @@
       "ASI": "Maschio, 81 anni, sincope con paziente soporoso al recupero. Presente trauma cranico, paziente in terapia con FA in NAO. ECG: BAV III grado, GCS 12, FC 34 bpm, PA 85/55 mmHg, SpO₂ 91%. Accesso EV. Allertate il Pronto Soccorso. [DEA]", 
       "ASM": "Maschio, 81 anni, sincope con stato soporoso, trauma cranico evidente in paziente in NAO. ECG con BAV III grado, parametri compromessi, FC 34 bpm, PA 85/55 mmHg. Applicato Pacing esterno con Fc 70, 40 mA, Allertate il Pronto Soccorso. [DEA]" 
     }
+  },
+  "chiamata_84": {
+    "testo_chiamata": "Mio padre è caduto in casa. Ha 82 anni, è affetto da Parkinson e cammina con difficoltà. Siamo accorsi subito e l’abbiamo trovato a terra nel corridoio. Ha una ferita in fronte e sanguina molto. È cosciente, ma potete mandare qualcuno? Abitiamo a (indirizzo abitazione).", 
+
+    "caso_stabile": {
+      "MSB": "Maschio, 82 anni, affetto da malattia di Parkinson, riferita caduta accidentale in casa. FLC in regione frontale destra, sanguinante. Paziente vigile e orientato, PA 140/80 mmHg, FC 78 bpm, SpO₂ 98%. No altri traumi evidenti, dolore localizzato solo alla ferita. [OTT]", 
+      "ASI": "Maschio, 82 anni, caduta da posizione eretta, FLC in regione frontale, lieve sanguinamento, nessun segno neurologico acuto. GCS 15, PA 140/80 mmHg, FC 78 bpm, SpO₂ 98%. Paziente vigile, collaborante. [OTT]", 
+      "ASM": "Maschio, 82 anni, Parkinson noto, caduta accidentale in casa, FLC frontale non complicata. GCS 15, PA 140/80 mmHg, FC 78 bpm, SpO₂ 98%. Ferita disinfettata e medicata. No deficit neurologici, mobilizzazione assistita. [OTT]" 
+    },
+
+    "poco_stabile": {
+      "MSB": "Maschio, 82 anni, Parkinson noto, caduta accidentale in casa. FLC frontale destra, sanguinante. Paziente in NAO per FA, vigile e orientato, GCS 15. PA 135/80 mmHg, FC 72 bpm, SpO₂ 97%. Nessun deficit neurologico al momento. [OTT]", 
+      "ASI": "Maschio, 82 anni, caduta da posizione eretta, paziente in NAO, FLC frontale con sanguinamento modesto ma persistente. Parametri vitali stabili, GCS 15, monitoraggio in corso. Accesso EV, medicazione con compressione. [OTT]", 
+      "ASM": "Maschio, 82 anni, Parkinson e FA in NAO, riferita caduta accidentale. Ferita frontale sanguinante, rischio emorragico aumentato. GCS 15, PA 135/80 mmHg. Accesso EV, medicazione compressiva, valutazione ospedaliera consigliata. [OTT]" 
+    },
+
+    "critico": {
+      "MSB": "Maschio, 82 anni, caduta in casa. Paziente in NAO per FA, lamenta dolore intenso all’anca dx, evidente accorciamento e rotazione esterna. FLC frontale sanguinante. Vigile ma sofferente, PA 100/60 mmHg, FC 108 bpm, SpO₂ 95%. [PST]", 
+      "ASI": "Maschio, 82 anni, paziente Parkinsoniano, in NAO, caduta con trauma cranico, FLC frontale con sanguinamento attivo. Sospetta frattura femore dx con accorciamento e rotazione esterna. GCS 14, FC 110 bpm, PA 100/60 mmHg. Accesso EV, somministrato Paracetamolo 1 g EV. [PST]", 
+      "ASM": "Maschio, 82 anni, Parkinson, in NAO, trauma cranico con ferita sanguinante + sospetta frattura femore dx. GCS 14, PA 100/60 mmHg, FC 110 bpm. Accesso EV, analgesia in corso. [PST]" 
+    }
+  },
+  "chiamata_85": {
+    "testo_chiamata": "Salve, chiamo per me… ho un dolore forte alla bocca dello stomaco che va e viene. A volte mi brucia, a volte sembra una fitta. Non ho vomitato, ma mi dà molto fastidio. È iniziato ieri sera dopo cena, ma adesso è più forte. Ho 43 anni. Potete mandare qualcuno a controllare? L’indirizzo è (indirizzo abitazione).",
+
+    "caso_stabile": {
+      "MSB": "Femmina, 43 anni, lamenta dolore epigastrico urente comparso dopo cena, paziente nota per reflusso gastroesofageo riferisce dolore simile. Dolore non irradiato, assenza di nausea o vomito, nessuna dispnea o sintomi neurologici. PA 125/75 mmHg, FC 78 bpm, SpO₂ 99%. [PS]", 
+      "ASI": "Femmina, 43 anni, epigastralgia urente insorta ieri sera, aumentata dopo i pasti, alleviata da posizione eretta. Parametri vitali nella norma, GCS 15, PA 125/75 mmHg, FC 78 bpm, SpO₂ 99%, eseguito ECG non significativo. Paziente nota per reflusso gastroesofageo. [PS]", 
+      "ASM": "Femmina, 43 anni, dolore epigastrico ricorrente compatibile con reflusso. Parametri vitali stabili, GCS 15, PA 125/75 mmHg, FC 78 bpm, SpO₂ 99%. Nessun dolore irradiato nega nausea Somministrato Pantoprazolo 40 mg EV con beneficio. Non necessario il nostro supporto, si può affidare ad MSB? [PS]" 
+    },
+
+    "poco_stabile": {
+      "MSB": "Femmina, 43 anni, nota per calcoli alla colecisti, dolore epigastrico crampiforme irradiato al fianco e dorso, insorto improvvisamente. PA 135/80 mmHg, FC 92 bpm, SpO₂ 98%. Nausea presente, no vomito, addome trattabile ma dolente in ipocondrio dx. [PS]",
+      "ASI": "Femmina, 43 anni, sospetta colica biliare in pz nota per litiasi. Dolore epigastrico irradiato in ipocondrio dx, insorgenza acuta, nausea presente. GCS 15, PA 130/80 mmHg, FC 95 bpm. [PS]", 
+      "ASM": "Femmina, 43 anni, dolore epigastrico e in ipocondrio dx, nausea intensa. Pz nota per calcoli biliari, dolore ingravescente, parametri vitali lievemente alterati: PA 130/80 mmHg, FC 95 bpm. Eseguito accesso EV, analgesia con Ketorolac 30 mg. [PS]"
+    },
+
+    "critico": {
+      "MSB": "Femmina, 43 anni, dolore epigastrico costrittivo irradiato a mandibola e dorso da stamani riferisce inoltre nausea, sudorazione fredda. PA 130/60 mmHg, FC 64 bpm, SpO₂ 95%. Allertare MSA. [EMODINAMICA]", 
+      "ASI": "Femmina, 43 anni, dolore epigastrico atipico ma persistente, nausea, pallore. ECG con sopraslivellamento ST , FC 64 bpm, PA 130/60 mmHg. Accesso EV, ASA 250 mg masticabile, O₂ in occhialini, allertare emodinamica. [EMODINAMICA]", 
+      "ASM": "Femmina, 43 anni, dolore epigastrico irradiato a schiena e mandibola, nausea, sudorazione profusa. ECG: ST elevato in derivazioni inferiori. FC 64 bpm, PA 130/60 mmHg. Accesso EV, ASA 250 mg masticabile, Nitroglicerina spray 1 puff. Codice STEMI attivato. [EMODINAMICA]" 
+    }
+  },
+  "chiamata_86": {
+    "testo_chiamata": "Ciao, da stamattina sento un dolore al petto, più o meno al centro. A volte mi prende anche quando respiro più a fondo. Non è fortissimo, ma sono un po’ in ansia, potete mandare qualcuno a controllare? Abito a (indirizzo abitazione).",
+
+    "caso_stabile": {
+      "MSB": "Maschio, 22 anni, dolore toracico atipico non irradiato, esordio graduale, senza dispnea. PA 125/75 mmHg, FC 90 bpm, SpO₂ 99%, paziente ansioso, eupnoico. Paziente noto per sindrome ansiosa. [PS]", 
+      "ASI": "Maschio, 22 anni, dolore toracico in regione sternale, non irradiato, aumentato con lo stress. ECG negativo, parametri vitali nella norma: PA 125/75 mmHg, FC 90 bpm, SpO₂ 99%. Dopo averlo rassicurato riferisce dolore in lieve attenuazione, paziente noto per sindrome ansiosa. [PS]", 
+      "ASM": "Maschio, 22 anni, dolore toracico aspecifico, paziente con storia di ansia, tachipnea soggettiva. Parametri vitali stabili, GCS 15, ECG non significativo. Dopo rassicurazione e posizionamento in ambiente tranquillo, miglioramento riferito, non necessaria la nostra presenza, si può affidare ad MSB? [PS]" 
+    },
+
+    "poco_stabile": {
+      "MSB": "Maschio, 22 anni, dolore toracico anteriore non irradiato, insorto a riposo, non in relazione con lo sforzo. PA 130/80 mmHg, FC 105 bpm, SpO₂ 98%. No sintomi neurologici o gastrointestinali. [PS]", 
+      "ASI": "Maschio, 22 anni, dolore toracico aspecifico, parametri vitali stabili: PA 130/80 mmHg, FC 105 bpm, SpO₂ 98%. ECG nei limiti. Non dispnoico, respiro presente bilateralmente. Accesso EV, monitoraggio. [PS]", 
+      "ASM": "Maschio, 22 anni, dolore toracico non irradiato, parametri vitali stabili, ECG privo di alterazioni ischemiche. Paziente riferisce fastidio toracico persistente, valutazione ospedaliera consigliata per esclusione cause organiche. [PS]" 
+    },
+
+    "critico": {
+      "MSB": "Maschio, 22 anni, dolore toracico acuto insorto improvvisamente, associato a lieve dispnea. SpO₂ 94%, PA 110/70 mmHg, FC 108 bpm. Ridotta espansione emitorace sinistro. E' possibile inviare MSA?. [PST]", 
+      "ASI": "Maschio, 22 anni, dolore toracico sinistro acuto e dispnea lieve, MV ridotto in base sinistra, SpO₂ 94%, PA 110/70 mmHg, FC 108 bpm. ECG nei limiti. Accesso EV, Non escludo possibile pneumotorace spontaneo. [PST]", 
+      "ASM": "Maschio, 22 anni, sospetto pneumotorace spontaneo non iperteso. MV ridotto a sx, dolore trafittivo e dispnea lieve. Parametri vitali: PA 110/70 mmHg, FC 108 bpm, SpO₂ 94%. Accesso EV, O₂ in occhialini, monitoraggio continuo. [PST]" 
+    }
+  },
+  "chiamata_87": {
+    "testo_chiamata": "Salve, mia madre ha 91 anni e oggi parla un po’ strano… dice le parole male, come se avesse la lingua impastata. È successo verso le nove, poi sembrava andare meglio ma adesso di nuovo si capisce poco. È cosciente e si muove, però è diversa dal solito. Abitiamo a (indirizzo abitazione).", 
+
+    "caso_stabile": {
+      "MSB": "Femmina, 91 anni, episodio di disartria isolata, regredita spontaneamente. Paziente con decadimento cognitivo noto, oggi più confusa del solito secondo i familiari. Vigile, orientata parzialmente, mobilità invariata rispetto al solito. PA 135/80 mmHg, FC 78 bpm, SpO₂ 98%. [PS]", 
+      "ASI": "Femmina, 91 anni, decadimento cognitivo noto, disartria intermittente riferita dai familiari, attualmente non presente. Vigile, collaborante parzialmente, GCS 15, PA 135/80 mmHg, FC 78 bpm, SpO₂ 98%. ECG nei limiti, controllo glicemia: 105 mg/dl. [PS]",
+      "ASM": "Femmina, 91 anni, episodio transitorio di disartria in pz con demenza nota, ora vigile e in condizioni stabili. PA 135/80 mmHg, FC 78 bpm, SpO₂ 98%. Nessun altro deficit neurologico riscontrabile al momento. Non necessaria la nostra presenza, è possibile affidare ad MSB?. [PS]" 
+    },
+
+    "poco_stabile": {
+      "MSB": "Femmina, 91 anni, episodio di disartria insorto circa 1 ora fa, attualmente regredito. Vigile, orientata, PA 140/80 mmHg, FC 84 bpm, SpO₂ 97%. Nessun deficit motorio presente. Sospetto TIA. [DEA]", 
+      "ASI": "Femmina, 91 anni, disartria improvvisa insorta circa 60 minuti fa, attualmente in regressione. ECG nei limiti, glicemia 112 mg/dl, PA 140/80 mmHg, FC 84 bpm, SpO₂ 97%. Vigile, GCS 15, no deficit motori. Accesso EV, trasporto urgente per sospetto TIA. [DEA]", 
+      "ASM": "Femmina, 91 anni, episodio acuto di disartria senza altri segni neurologici, risolto al nostro arrivo. Sospetto TIA. GCS 15, PA 140/80 mmHg, FC 84 bpm, SpO₂ 97%. Accesso EV, ECG nella norma, inviata in PS per valutazione neurologica, non necessaria la nostra presenza, è possibile affidare ad MSB?. [DEA]" 
+    },
+
+    "critico": {
+      "MSB": "Femmina, 91 anni, disartria insorta circa 30 minuti fa, attualmente presente. CPSS positiva per segni di lato a dx e disartria. Paziente vigile ma disorientata. PA 160/90 mmHg, FC 98 bpm, SpO₂ 96%. [STROKE UNIT]", 
+      "ASI": "Femmina, 91 anni, disartria acuta + emiparesi dx, insorgenza riferita da circa 30 min. GCS 14, PA 160/90 mmHg, FC 98 bpm, SpO₂ 96%. ECG in corso, accesso EV, glicemia 98 mg/dl. Attivato codice stroke, trasporto in PS con urgenza. [STROKE UNIT]",
+      "ASM": "Femmina, 91 anni, disartria + deficit motorio a dx, insorgenza 30 minuti fa. GCS 14, PA 160/90 mmHg, FC 98 bpm, SpO₂ 96%. ECG nei limiti, glicemia 98 mg/dl. Accesso EV, attivato codice ictus, trasporto rapido in centro stroke. [STROKE UNIT]"
+    }
+},
+  "chiamata_88": {
+    "testo_chiamata": " Salve, Polizia stradale, avremmo bisogno del vostro supporto. Abbiamo notato un veicolo fermo da tempo in piazzola di sosta a (strada) non abbiamo nessuna notizia del conducente, una nostra pattuglia è già in strada.",
+
+    "caso_stabile": {
+      "MSB": "Maschio, circa 50 anni, trovato addormentato nel veicolo fermo. Si risveglia al nostro arrivo, cosciente e collaborante. Rifiuta trasporto. PA 130/80 mmHg, FC 80 bpm, SpO₂ 98%. [PS]",
+      "ASI": "Maschio, circa 50 anni, svegliato alla nostra presenza, cosciente e orientato. Riferisce lieve stanchezza ma non sintomi acuti. Parametri vitali stabili: PA 130/80 mmHg, FC 78 bpm, SpO₂ 98%. Rifiuta trasporto, consigliata osservazione domiciliare. [PS]",
+      "ASM": "Maschio, circa 50 anni, completamente sveglio e collaborante. Nessun segno di disagio o patologia acuta. Parametri vitali normali. Rifiuta trasporto, consigliato controllo medico ambulatoriale. [PS]"
+    },
+
+    "poco_stabile": {
+      "MSB": "Maschio, circa 50 anni, lamenta malessere generale durante la guida, ma stabile. PA 140/85 mmHg, FC 95 bpm, SpO₂ 97%. No segni neurologici o traumatici. [PS]",
+      "ASI": "Maschio, circa 50 anni, malessere persistente con sudorazione e nausea, PA 135/85 mmHg, FC 100 bpm, SpO₂ 96%. Accesso EV, monitoraggio continuo. ECG senza segni ischemici. Trasporto consigliato per approfondimenti. [PS]",
+      "ASM": "Maschio, circa 50 anni, malessere alla guida, stabile ma con lieve tachicardia e sudorazione. Parametri vitali: PA 135/85 mmHg, FC 100 bpm, SpO₂ 96%. Accesso EV, somministrata terapia sintomatica, trasporto in PS, non necessaria la nostra presenza, è possibile affidare ad MSB? [PS]" 
+    },
+
+    "critico": {
+      "MSB": "Maschio, circa 50 anni, investito mentre scendeva dall'auto, rinvenuto a metri di distanza dalla macchina. Trauma addome e bacino, PA 90/60 mmHg, FC 120 bpm, SpO₂ 90%. Paziente confuso e agitato, necessario supporto medico urgente. [CTZ]", 
+      "ASI": "Maschio, circa 50 anni, Trauma addome e bacino a seguito di investimento ad alta velocita, paziente rinvenuto a metri di distanza dall'auto. GCS 13, PA 90/60 mmHg, FC 120 bpm, SpO₂ 90%. Accesso EV somministrato tranex 1 gr, ossigeno ad alto flusso, immobilizzazione con spinale e T-Pod, trasporto urgente in centro trauma. [CTZ]", 
+      "ASM": "Maschio, circa 50 anni, trauma maggiore da investimento ad alta velocità, instabile emodinamicamente. Trauma addome e bacino possibile frattura di bacino, GCS 13, PA 85/55 mmHg, FC 130 bpm, SpO₂ 88%. Supporto ventilatorio, accesso EV somministrato  250 di fisiologica con tranex 1 gr, ossigeno ad alto flusso, immobilizzazione con materassino a depressione. [CTZ]" 
+    }
+  },
+  "chiamata_89": {
+    "testo_chiamata": "Buongiorno, mio marito si è ferito con la motosega mentre potava una pianta in giardino. È successo pochi minuti fa, ha una brutta ferita alla gamba, sta perdendo sangue. Siamo a (indirizzo abitazione).",
+
+    "caso_stabile": {
+      "MSB": "Maschio, 64 anni, ferita lacero-contusa superficiale alla caviglia sx causata da motosega. Emorragia minima già tamponata con garza. Dolorante ma stabile. PA 135/80 mmHg, FC 82 bpm, SpO₂ 98%. [PST]", 
+      "ASI": "Maschio, 64 anni, ferita lacero-contusa da motosega alla caviglia sx, superficiale, margini netti, sanguinamento minimo controllato. Vigile, collaborante, PA 135/80 mmHg, FC 80 bpm, SpO₂ 98%. Disinfettata la ferita, bendaggio compressivo. [PST]", 
+      "ASM": "Maschio, 64 anni, ferita lieve alla caviglia sx con segni vitali stabili. Emorragia minima. Fasciatura semplice in loco, trasporto per sutura. Parametri: PA 135/80 mmHg, FC 82 bpm, SpO₂ 98%. [PST]" 
+    },
+
+    "poco_stabile": {
+      "MSB": "Maschio, 64 anni, ferita profonda da motosega a livello della caviglia sx. Sanguinamento con importante perdita sangue probabilmente venoso. Dolorante, stabile. PA 125/75 mmHg, FC 95 bpm, SpO₂ 97%. Immobilizzato l’arto con steccobenda, bendaggio compressivo. [CTZ]", 
+      "ASI": "Maschio, 64 anni, ferita profonda alla caviglia sx con parziale esposizione tendinea. Assenza di lesioni vascolari maggiori. Controllato il sanguinamento con garza emostatica, immobilizzato l’arto con steccobenda. PA 125/75 mmHg, FC 98 bpm, SpO₂ 97%. Accesso EV [CTZ]", 
+      "ASM": "Maschio, 64 anni, ferita penetrante alla caviglia sx da motosega. Sanguinamento importante ma contenuto. No segni di compromissione vascolare. Bendaggio compressivo effettuato, accesso EV, Fentanil 100 mcg. PA 125/75 mmHg, FC 98 bpm, SpO₂ 97%. [CTZ]" 
+    },
+
+    "critico": {
+      "MSB": "Maschio, 64 anni, trauma da motosega con amputazione completa della gamba sx. Paziente cosciente, emorragia massiva controllata con medicazione compressiva. PA 80/50 mmHg, FC 135 bpm, SpO₂ 92%, ci serve supporto medico immediato!. [CTS]", 
+      "ASI": "Maschio, 64 anni, amputazione netta arto inferiore sx da trauma da motosega. Tourniquet posizionato al nostro arrivo. Emorragia massiva. GCS 15, PA 80/50 mmHg, FC 135 bpm, SpO₂ 92%. Accesso EV x2, somministrati 250 ml cristalloidi e Tranex 1 gr, ossigenoterapia. Arto conservato in contenitore sterile. Paziente da centralizzare. [CTS]", 
+      "ASM": "Maschio, 64 anni, amputazione traumatica della gamba sx, paziente in shock ipovolemico. Posizionato Tourniquet, sanguinamento controllato. PA 80/50 mmHg, FC 140 bpm, SpO₂ 91%. Doppio accesso EV, 250 ml cristalloidi Tranex 1 gr e Ketamina 100 mg, ossigeno alto flusso. Parte amputata conservata in sacchetto sterile + ghiaccio separato, paziente da centralizzare. [CTS]" 
+    }
+  },
+  "chiamata_90": {
+    "testo_chiamata": "Salve, ho combinato un pasticcio! Ho mescolato candeggina e ammoniaca per pulire il bagno e adesso faccio fatica a respirare. Mi gira la testa e ho nausea. Sono a casa, per favore venite subito! L'indirizzo è (indirizzo abitazione).",
+
+    "caso_stabile": {
+      "MSB": "Femmina, 27 anni, cefalea e nausea dopo esposizione a vapori tossici riferisce di aver mischiato candeggina ed ammoniaca durante pulizie domestiche. No dispnea, eupnoica. PA 120/75 mmHg, FC 85 bpm, SpO₂ 98%. Consigliata valutazione medica. [PS]", 
+      "ASI": "Femmina, 27 anni, inalazione di vapori tossici da miscela di candeggina e ammoniaca. Lieve cefalea, nausea, senso di fastidio toracico. Cosciente e collaborante, PA 120/75 mmHg, FC 85 bpm, SpO₂ 98%. Nessuna alterazione respiratoria, eupnoica in aria, trasporto in PS per accertamenti. [PS]", 
+      "ASM": "Femmina, 27 anni, contatto accidentale con vapori tossici da miscela di candeggina e ammoniaca. Riferisce nausea, cefalea, leggera irritazione faringea. Parametri vitali nella norma: PA 120/75 mmHg, FC 84 bpm, SpO₂ 98%. Nessuna alterazione respiratoria, trasporto in PS. [PST]" 
+    },
+
+    "poco_stabile": {
+      "MSB": "Femmina, 27 anni, riferisce dispnea e senso di costrizione toracica dopo inalazione di vapori tossici da miscela di candeggina e ammoniaca. Dispnoica con presenza di sibili, SpO₂ 96%, PA 115/70 mmHg, FC 100 bpm. Somministrato ossigeno, richiesta valutazione medica urgente. [PS]", 
+      "ASI": "Femmina, 27 anni, broncospasmo in corso da esposizione a vapori tossici da miscela di candeggina e ammoniaca. Dispnea moderata, respiro sibilante, SpO₂ 96%. PA 115/70 mmHg, FC 102 bpm. Ossigeno 4 L/min, accesso EV, somministrato Salbutamolo e cortisonico. [PS]", 
+      "ASM": "Femmina, 27 anni, broncospasmo moderato a seguito di esposizione a vapori tossici da miscela di candeggina e ammoniaca. Buona saturazione SpO₂ 96%, dispnea soggettiva, uso muscoli accessori. Accesso EV, O₂ 4 L/min, somministrato Salbutamolo 5 mg + Urbason 40 mg EV. [PS]" 
+    },
+
+    "critico": {
+      "MSB": "Femmina, 27 anni, grave crisi respiratoria dopo inalazione di vapori tossici da miscela di candeggina e ammoniaca . Dispnea severa, SpO₂ 85%, cianosi periferica. Tachipnoica, molto agitata. PA 90/60 mmHg, FC 130 bpm. Supporto medico urgente richiesto. [DEA]", 
+      "ASI": "Femmina, 27 anni, grave broncospasmo da inalazione di vapori tossici da miscela di candeggina e ammoniaca. Respiro sibilante marcato, SpO₂ 85%, PA 90/60 mmHg, FC 130 bpm. Accesso EV x2, O₂ alti flussi, somministrati: Salbutamolo 5 mg, Ipratropio 0.5 mg, Urbason 40 mg. Dopo terapia parziale miglioramento, necessaria osservazione in ospedale. [DEA]", 
+      "ASM": "Femmina, 27 anni, crisi respiratoria severa da inalazione di vapori chimici. Broncospasmo marcato a seguito di esposizione a vapori tossici da miscela di candeggina e ammoniaca, SpO₂ 84%, PA 88/55 mmHg, FC 132 bpm. Accesso EV x2, O₂ alti flussi, broncodilatatori nebulizzati, cortisonico EV, Ketamina 50 mg per agitazione. [DEA]" 
+    }
+  },
+  "chiamata_91": {
+    "testo_chiamata": " Ci serve il vostro aiuto, mio fratello ha provato a bere della candeggina, dice che vuole farla finita. È un paziente seguito per problemi psichiatrici ed ora è agitato ma non capiamo se l'ha davvero ingerita o no. Siamo a casa, vi prego venite subito! L'indirizzo è (indirizzo abitazione).", 
+
+    "caso_stabile": {
+      "MSB": "Maschio, 23 anni, minaccia di bere candeggina ma nessuna assunzione avvenuta. Riferisce intento suicidario, ammette di non aver ingerito nulla. PA 125/80 mmHg, FC 90 bpm, SpO₂ 99%. Paziente psichiatrico noto. Vigile, agitato, no segni di ingestione. [PSICHIATRIA]",  
+      "ASI": "Maschio, 23 anni, minaccia autolesiva simulata con candeggina, nessuna assunzione confermata. Attualmente agitato ma orientato. No alitosi tipica, no lesioni orofaringee. Parametri vitali stabili: PA 125/80 mmHg, FC 90 bpm, SpO₂ 99%. Paziente psichiatrico noto. [PSICHIATRIA]",  
+      "ASM": "Maschio, 23 anni, episodio autolesivo riferito ma senza ingestione confermata. Paziente seguito per disturbo borderline, agitato ma contattabile. Visita medica esclude segni da esposizione caustica. Parametri vitali normali. Richiesto trasporto protetto in psichiatria. [PSICHIATRIA]" 
+    },
+
+    "poco_stabile": {
+      "MSB": "Maschio, 23 anni, ingestione volontaria di piccola quantità di candeggina, riferisce bruciore alla gola e nausea. Paziente psichiatrico, cosciente e collaborante. PA 120/75 mmHg, FC 95 bpm, SpO₂ 98%. No vomito, no segni di compromissione vie aeree. [PSICHIATRIA]", 
+      "ASI": "Maschio, 23 anni, lieve ingestione di candeggina a scopo autolesivo. Riferisce bruciore orofaringeo, modesta irritazione mucose visibile. Paziente psichiatrico noto. PA 120/75 mmHg, FC 95 bpm, SpO₂ 98%. Accesso EV somministrato Pantoprazolo 40 mg, monitoraggio. [PSICHIATRIA]",  
+      "ASM": "Maschio, 23 anni, ingestione autolesiva di piccola quantità di candeggina. Irritazione del cavo orale, senso di fastidio retrosternale. No emesi, no segni di compromissione acuta. PA 120/75 mmHg, FC 94 bpm, SpO₂ 98%. EV posizionato, somministrato Pantoprazolo 40 mg trasporto monitorato in PS. [PSICHIATRIA]" 
+    },
+
+    "critico": {
+      "MSB": "Maschio, 23 anni, ingestione massiva di candeggina per intento suicidario. Bruciore intenso in bocca e gola, alitosi caustica evidente. Paziente agitato, mucose orali iperemiche, difficoltà a parlare. PA 90/60 mmHg, FC 120 bpm, SpO₂ 93%, necessario supporto medico immediato [EAS]",  
+      "ASI": "Maschio, 23 anni, grave ingestione volontaria di sostanza caustica (candeggina). Ustioni visibili a labbra e bocca, disfagia importante, ipersalivazione. PA 90/60 mmHg, FC 122 bpm, SpO₂ 93%. Accesso EV x2, O₂ 6 L/min, morfina 2 mg EV. Trasporto urgente, è possibile inviare supporto medico?. [EAS]",  
+      "ASM": "Maschio, 23 anni, tentato suicidio mediante ingestione di candeggina. Ustioni estese al cavo orale, segni di interessamento esofageo con dolore toracico e disfagia grave. GCS 14, PA 88/58 mmHg, FC 125 bpm, SpO₂ 91%. Accesso EV x2, O₂, analgesia con Ketamina 50 mg, Pantoprazolo 40 mg. Necessaria centralizzazione con urgenza. [EAS]" 
+    }
   }
 }
