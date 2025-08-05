@@ -1621,7 +1621,7 @@
       "MSA1": "Femmina, 27 anni, grave broncospasmo da inalazione di vapori tossici da miscela di candeggina e ammoniaca. Respiro sibilante marcato, SpO₂ 85%, PA 90/60 mmHg, FC 130 bpm. Accesso EV x2, O₂ alti flussi, somministrati: Salbutamolo 5 mg, Ipratropio 0.5 mg, Urbason 40 mg. Dopo terapia parziale miglioramento, necessaria osservazione in ospedale. [DEA]", 
       "MSA2": "Femmina, 27 anni, crisi respiratoria severa da inalazione di vapori chimici. Broncospasmo marcato a seguito di esposizione a vapori tossici da miscela di candeggina e ammoniaca, SpO₂ 84%, PA 88/55 mmHg, FC 132 bpm. Accesso EV x2, O₂ alti flussi, broncodilatatori nebulizzati, cortisonico EV, Ketamina 50 mg per agitazione. [DEA]" 
     }
-  },
+    },
   "chiamata_91": {
     "testo_chiamata": " Ci serve il vostro aiuto, mio fratello ha provato a bere della candeggina, dice che vuole farla finita. È un paziente seguito per problemi psichiatrici ed ora è agitato ma non capiamo se l'ha davvero ingerita o no. Siamo a casa, vi prego venite subito! L'indirizzo è (indirizzo abitazione).", 
 
@@ -1641,6 +1641,90 @@
       "MSB": "Maschio, 23 anni, ingestione massiva di candeggina per intento suicidario. Bruciore intenso in bocca e gola, alitosi caustica evidente. Paziente agitato, mucose orali iperemiche, difficoltà a parlare. PA 90/60 mmHg, FC 120 bpm, SpO₂ 93%, necessario supporto medico immediato [EAS]",  
       "MSA1": "Maschio, 23 anni, grave ingestione volontaria di sostanza caustica (candeggina). Ustioni visibili a labbra e bocca, disfagia importante, ipersalivazione. PA 90/60 mmHg, FC 122 bpm, SpO₂ 93%. Accesso EV x2, O₂ 6 L/min, morfina 2 mg EV. Trasporto urgente, è possibile inviare supporto medico?. [EAS]",  
       "MSA2": "Maschio, 23 anni, tentato suicidio mediante ingestione di candeggina. Ustioni estese al cavo orale, segni di interessamento esofageo con dolore toracico e disfagia grave. GCS 14, PA 88/58 mmHg, FC 125 bpm, SpO₂ 91%. Accesso EV x2, O₂, analgesia con Ketamina 50 mg, Pantoprazolo 40 mg. Necessaria centralizzazione con urgenza. [EAS]" 
+    }
+},
+  "chiamata_92": {
+    "testo_chiamata": " Chiamo da ( RSA ) sono l'infermiera di turno, abbiamo trovato un nostro ospite di 87 anni con Alzheimer riverso a terra nella sua stanza. Non abbiamo assistito alla caduta. Al momento è vigile ma riferisce dolore. Potete mandare qualcuno per favore?", 
+
+    "caso_stabile": {
+      "MSB": "Maschio, 87 anni, ospite in RSA, trovato a terra in stanza dal personale. Vigile, orientato parzialmente. Riferisce dolore lombare senza segni neurologici né lesioni evidenti. No ematomi, no escoriazioni. PA 130/80 mmHg, FC 78 bpm, SpO₂ 97%. Mobilizzazione dolente.  Anamnesi di Alzheimer [OTT]", 
+      "MSA1": "Maschio, 87 anni, caduta non assistita in RSA. Stato confusionale cronico da Alzheimer. Dolore lombare alla palpazione, no limitazione motoria, no alterazioni neurologiche evidenti. Parametri vitali stabili. Immobilizzato precauzionalmente su asse spinale rigido. [OTT]", 
+      "MSA2": "Maschio, 87 anni, trovato a terra in RSA. Lieve dolore lombare, non irradiato. No segni di trauma cranico, nessun segno di frattura. PA 130/85 mmHg, FC 76 bpm, SpO₂ 97%. Immobilizzato per trasporto in PS, in anamnesi Morbo di Alzheimer. [OTT]" 
+    },
+
+    "poco_stabile": {
+      "MSB": "Maschio, 87 anni, ospite RSA con Alzheimer, trovato a terra, lamenta dolore importante all’anca destra e impossibilità a mobilizzare arto inferiore. Arto accorciato e extraruotato. PA 125/80 mmHg, FC 90 bpm, SpO₂ 96%. Vigile, collaborante per quanto possibile. Immobilizzato con materassino a depressione. [PST]", 
+      "MSA1": "Maschio, 87 anni, sospetta frattura di femore dx post caduta in RSA. Arto accorciato ed extraruotato, dolore importante alla mobilizzazione. PA 125/80 mmHg, FC 92 bpm, SpO₂ 96%. Immobilizzazione con materassino a depressione, accesso EV. Noto per Alzheimer. [PST]", 
+      "MSA2": "Maschio, 87 anni, frattura sospetta del femore dx, da caduta non assistita. Lamenta dolore severo. Immobilizzazione con materassino a depressione, accesso EV, analgesia con Ketorolac 30 mg EV. PA 124/78 mmHg, FC 90 bpm, SpO₂ 95%. Noto per Alzheimer [PS]" 
+    },
+
+    "critico": {
+      "MSB": "Maschio, 87 anni in ACC,  trovato in stanza della RSA. Gli infermieri riferiscono che respirava ancora pochi minuti prima. Nessun testimone diretto della caduta. RCP in atto, prima analisi shock non indicato, richiesta MSA urgente. [PS]", 
+      "MSA1": "Maschio, 87 anni, arresto cardiocircolatorio in atto, ritmo di presentazione: asistolia. Paziente con Alzheimer, trovato in arresto dal personale RSA. Nessun segno di trauma evidente. Avviata RCP, accesso EV, adrenalina 1 mg ogni 3-5 min in corso. [PS]", 
+      "MSA2": "Maschio, 87 anni, arresto cardiaco improvviso in RSA, assistenza in corso da personale sanitario interno. Paziente con Alzheimer. RCP avanzata in atto, adrenalina 1 mg EV, monitor ECG conferma asistolia persistente. Propongo sospensione delle manovre. [PS]" 
+    }
+  },
+  "chiamata_93": {
+    "testo_chiamata": "Buongiorno, sono la coinquilina, la mia amica ha avuto delle perdite di sangue importanti, dice che le fa molto male la pancia e non è normale per lei. È sulla trentina, non è incinta. Ha anche avuto nausea e si è dovuta sdraiare. Potete mandare qualcuno? Siamo a casa, l'indirizzo è (indirizzo abitazione).",
+
+    "caso_stabile": {
+      "MSB": "Femmina, 31 anni, riferisce episodio di metrorragia autolimitato, attualmente nessun sanguinamento in atto. Dolore pelvico lieve, in anamnesi irregolarità mestruali. PA 120/75 mmHg, FC 85 bpm, SpO₂ 98%. Vigile, collaborante. Nessun segno di instabilità. [SALA PARTO]",
+      "MSA1": "Femmina, 31 anni, riferita metrorragia risolta spontaneamente, nessun sanguinamento attivo. Lieve dolore pelvico, stabile emodinamicamente. PA 122/76 mmHg, FC 86 bpm, SpO₂ 98%. Nessuna sincope o vomito. Contatti ginecologici pregressi riferiti. [SALA PARTO]",
+      "MSA2": "Femmina, 31 anni, metrorragia non attiva al momento, dolore pelvico riferito come cronico intermittente. Paziente lucida, stabile, non in trattamento ormonale. Parametri vitali nei limiti. Proposto trasporto non urgente per valutazione ginecologica. [SALA PARTO]"
+    },
+
+    "poco_stabile": {
+      "MSB": "Femmina, 31 anni, metrorragia moderata in atto, riferisce dolore pelvico e senso di spossatezza. PA 115/75 mmHg, FC 96 bpm, SpO₂ 97%. Ginecopatia nota, in attesa di controlli specialistici. Nessun segno di shock. [SALA PARTO]",
+      "MSA1": "Femmina, 31 anni, metrorragia lieve-moderata, dolore addominale basso, riferita nausea senza vomito. PA 112/70 mmHg, FC 100 bpm, SpO₂ 97%. Accesso EV posizionato, somministrata soluzione fisiologica. [SALA PARTO]",
+      "MSA2": "Femmina, 31 anni, sanguinamento vaginale lieve in corso, dolore pelvico e senso di malessere generale. In anamnesi irregolarità ormonali. PA 110/68 mmHg, FC 98 bpm, SpO₂ 96%. Accesso EV, analgesia con paracetamolo 1g EV. [SALA PARTO]"
+    },
+
+    "critico": {
+      "MSB": "Femmina, 31 anni, metrorragia importante con dolore pelvico acuto insorto improvvisamente. PA 95/60 mmHg, FC 120 bpm, SpO₂ 94%. Paziente pallida, sudata, agitata. [DEA]",
+      "MSA1": "Femmina, 31 anni, forte dolore pelvico e metrorragia in atto. Collasso circolatorio iniziale. PA 90/58 mmHg, FC 125 bpm, SpO₂ 93%. Sospetta emoperitoneo da rottura cisti ovarica. Accesso EV x2, O₂ 6 L/min, soluzione cristalloide in infusione. [DEA]",
+      "MSA2": "Femmina, 31 anni, emorragia vaginale abbondante, dolore pelvico severo. Addome dolente alla palpazione, segni di ipoperfusione periferica. PA 88/55 mmHg, FC 130 bpm, SpO₂ 92%. EV x2, fluidi in corso, analgesia con Ketorolac 30 mg EV. Centralizzazione urgente ginecologica. [DEA]"
+    }
+  },
+  "chiamata_94": {
+    "testo_chiamata": "Pronto? La mia compagna ha 27 anni e da stamattina lamenta forti dolori alla pancia. Si è svegliata che stava male, e ora è peggiorata. Ha anche un po' di nausea e fa fatica a stare in piedi dal dolore. Non ha febbre, ma dice che non è una cosa normale. Potete mandare qualcuno? Siamo a casa, l'indirizzo è (indirizzo abitazione).",
+
+    "caso_stabile": {
+      "MSB": "Femmina, 27 anni, addominalgia lieve, riferita come simile a coliche addominali avute in passato. No vomito, no diarrea, no febbre. PA 120/75 mmHg, FC 84 bpm, SpO₂ 99%. Dolorabilità alla palpazione superficiale. [PS]", 
+      "MSA1": "Femmina, 27 anni, dolori addominali diffusi di modesta intensità, insorti al risveglio. Nausea senza emesi, alvo regolare. PA 118/74 mmHg, FC 82 bpm, SpO₂ 99%. Addome trattabile, no Blumberg positivo, parametri nella norma. [PS]", 
+      "MSA2": "Femmina, 27 anni, dolore addominale basso, riferito come intermittente e di tipo crampiforme. Parametri vitali stabili: PA 119/75 mmHg, FC 80 bpm, SpO₂ 99%. Nessun segno di peritonismo. Richiesta valutazione medica per sospetta colica addominale. [PS]" 
+    },
+
+    "poco_stabile": {
+      "MSB": "Femmina, 27 anni, dolore addominale acuto in fossa iliaca dx, riferito peggioramento progressivo. Dolorabilità marcata, nausea presente. PA 110/70 mmHg, FC 98 bpm, SpO₂ 98%. Nega febbre,iu nega patologie. [PS]", 
+      "MSA1": "Femmina, 27 anni, addome dolente in fossa iliaca dx, nausea, astenia, dolore ingravescente da ore. PA 108/72 mmHg, FC 100 bpm, SpO₂ 97%. Blumberg positivo, no febbre, no vomito. [PS]",
+      "MSA2": "Femmina, 27 anni, addominalgia acuta in quadrante inferiore dx. Irritazione peritoneale sospetta, nausea intensa, no alvo da 24h. PA 106/70 mmHg, FC 102 bpm, SpO₂ 97%. Accesso EV, analgesia in corso. Sospetta appendicite acuta. [PS]"
+    },
+
+    "critico": {
+      "MSB": "Femmina, 27 anni, dolore addominale acuto insorto improvvisamente, localizzato in in basso a destra, con nausea e sensazione di svenimento. In anamnesi: cisti ovariche. PA 95/60 mmHg, FC 115 bpm, SpO₂ 95%. Pallida, sudata, è possibile inviare MSA per analgesia? [DEA]", 
+      "MSA1": "Femmina, 27 anni, dolore pelvico severo con ipotensione moderata. Episodio improvviso di dolore trafittivo. In anamnesi recente controllo ginecologico per cisti ovarica. PA 90/58 mmHg, FC 120 bpm, SpO₂ 94%. Necessaria valutazione specialisitca. [DEA]", 
+      "MSA2": "Femmina, 27 anni, rottura sospetta di cisti ovarica sx, addome dolente, contrattura addominale, ipoperfusione periferica. PA 88/55 mmHg, FC 122 bpm, SpO₂ 93%. EV x2, analgesia con Ketorolac 30 mg EV + cristalloidi in infusione rapida. Necessaria centralizzazione ginecologica. [DEA]" 
+    }
+  },
+  "chiamata_95": {
+    "testo_chiamata": " Salve, vorrei chiedere un aiuto per mia moglie, ha un forte mal di testa da stamattina. Dice che non le è mai successo così forte e ora sembra peggiorato. Siamo a casa. Potete venire a controllare per favore? L’indirizzo è (indirizzo abitazione).",
+
+    "caso_stabile": {
+      "MSB": "Femmina, 33 anni, lamenta dolore cervicale irradiato alla nuca da questa mattina. Dolore continuo, modesta rigidità muscolare, no nausea né fotofobia. PA 125/80 mmHg, FC 76 bpm, SpO₂ 98%. Vigile, orientata, no segni neurologici. [PS]", 
+      "MSA1": "Femmina, 33 anni, cervicalgia insorta al risveglio, peggiorata in giornata. No febbre, no segni di irritazione meningea. Dolore localizzato nucale, no irradiazione. Parametri vitali nella norma, nessun segno focale. Trattata con Paracetamolo 1g EV. [PS]", 
+      "MSA2": "Femmina, 33 anni, dolore nucale da contrattura muscolare. Mobilità del collo lievemente limitata. Parametri stabili: PA 125/80 mmHg, FC 74 bpm, SpO₂ 98%. Somministrato Paracetamolo 1g EV, consigliato controllo medico. [PS]" 
+    },
+
+    "poco_stabile": {
+      "MSB": "Femmina, 33 anni, cefalea fronto-temporale insorta spontaneamente da alcune ore. Dolore pulsante, nausea lieve, fotofobia. PA 130/85 mmHg, FC 84 bpm, SpO₂ 97%. Nessun deficit neurologico, vigile, collaborante. [PS]",
+      "MSA1": "Femmina, 33 anni, cefalea importante, nausea e fonofobia. No vomito, no deficit focali. Paziente lucida ma sofferente. PA 130/85 mmHg, FC 88 bpm. [PS]",
+      "MSA2": "Femmina, 33 anni, cefalea persistente, dolore 8/10, peggiorata nonostante terapia domiciliare. Paziente collaborante, parametri vitali nei limiti. PA 128/82 mmHg, FC 82 bpm, SpO₂ 98%. Accesso EV, analgesia in corso. [PS]"
+    },
+
+    "critico": {
+      "MSB": "Femmina, 33 anni, cefalea intensa insorta acutamente con nausea e vomito. PA 210/115 mmHg, FC 105 bpm, SpO₂ 96%. Vigile ma disorientata, dolore 10/10. Sospetto episodio ipertensivo acuto. [PS]",
+      "MSA1": "Femmina, 33 anni, cefalea severa con picco ipertensivo: PA 210/115 mmHg. Vomito, agitazione, dolore frontale diffuso. GCS 15 ma sofferente. [PS]",
+      "MSA2": "Femmina, 33 anni, cefalea esplosiva con PA 215/120 mmHg. Vomito attivo, dolore 10/10. Paziente vigile ma rallentata. Accesso EV x2, somministrato Urapidil 25 mg + Paracetamolo 1g. [PS]" 
     }
   }
 }
