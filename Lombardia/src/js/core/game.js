@@ -1331,6 +1331,9 @@ class EmergencyDispatchGame {
         const dettLuogoSelect = document.getElementById('dett-luogo');
         if (!dettLuogoSelect) return;
         
+        // Salva il valore corrente prima di cancellare
+        const currentValue = dettLuogoSelect.value;
+        
         dettLuogoSelect.innerHTML = '';
         let opzioni = [];
         
@@ -1382,12 +1385,26 @@ class EmergencyDispatchGame {
                 break;
         }
         
+        // Recupera il call object per gestire il salvataggio
+        const popup = document.getElementById('popupMissione');
+        const callId = popup?.getAttribute('data-call-id');
+        const call = callId ? this.calls.get(callId) : null;
+        
         opzioni.forEach(opt => {
             const option = document.createElement('option');
             option.value = opt;
             option.textContent = opt;
+            // Ripristina il valore salvato se corrisponde
+            option.selected = call && call.dettLuogo === opt;
             dettLuogoSelect.appendChild(option);
         });
+        
+        // Aggiungi listener per salvare automaticamente
+        dettLuogoSelect.onchange = () => {
+            if (call) {
+                call.dettLuogo = dettLuogoSelect.value; // Salva automaticamente
+            }
+        };
     }
 
     updateDettMotivo(motivo) {
@@ -1448,12 +1465,26 @@ class EmergencyDispatchGame {
                 break;
         }
         
+        // Recupera il call object per gestire il salvataggio
+        const popup = document.getElementById('popupMissione');
+        const callId = popup?.getAttribute('data-call-id');
+        const call = callId ? this.calls.get(callId) : null;
+        
         opzioni.forEach(opt => {
             const option = document.createElement('option');
             option.value = opt;
             option.textContent = opt;
+            // Ripristina il valore salvato se corrisponde
+            option.selected = call && call.dettMotivo === opt;
             dettMotivoSelect.appendChild(option);
         });
+        
+        // Aggiungi listener per salvare automaticamente
+        dettMotivoSelect.onchange = () => {
+            if (call) {
+                call.dettMotivo = dettMotivoSelect.value; // Salva automaticamente
+            }
+        };
     }
 
     updateNoteEvento2(noteEvento) {
@@ -1468,37 +1499,37 @@ class EmergencyDispatchGame {
                 opzioni = ['ACC','RCP IN CORSO','CARDIOPALMO','CARDIOPATICO','IPERTESO','IPOTESO','CARDIOPATICO IPERTESO','PREGRESSO IMA'];
                 break;
             case 'RESPIRATORIA':
-                opzioni = ['NORMALE','A FATICA','TOSSE', 'BPCO'];
+                opzioni = ['NORMALE','A FATICA','TOSSE', 'BPCO', 'NON NOTO'];
                 break;
             case 'RESPIRA':
-                opzioni = ['NORMALE','A FATICA','TOSSE', 'BPCO'];
+                opzioni = ['NORMALE','A FATICA','TOSSE', 'BPCO', 'NON NOTO'];
                 break;
             case 'DOLORE':
-                opzioni = ['TESTA VOLTO','OCCHI','BOCCA','TORACE/EPIGASTRICO/MANDIBOLA','TORACE','ARTO SUP.SPALLA','MANO','ADDOME','BACINO','SCHIENA','APPARATO GENITALE','ARTO INF.','PIEDE'];
+                opzioni = ['TESTA VOLTO','OCCHI','BOCCA','TORACE','TORACE/EPIGASTRICO/MANDIBOLA','ARTO SUP.','SPALLA','MANO','ADDOME','BACINO','SCHIENA','APPARATO GENITALE','ARTO INF.','PIEDE','SANGUINA','EPISTASSI'];
                 break;
             case 'DEFORMITA':
-                opzioni = ['TESTA VOLTO','OCCHI','BOCCA','TORACE/EPIGASTRICO/MANDIBOLA','TORACE','ARTO SUP.SPALLA','MANO','ADDOME','BACINO','SCHIENA','APPARATO GENITALE','ARTO INF.','PIEDE'];
+                opzioni = ['TESTA VOLTO','OCCHI','BOCCA','TORACE','ARTO SUP.','SPALLA','MANO','ADDOME','BACINO','SCHIENA','APPARATO GENITALE','ARTO INF.','PIEDE','SANGUINA','EPISTASSI'];
                 break;
             case 'DISTRETTO TRAUMA':
-                opzioni = ['TESTA VOLTO','OCCHI','BOCCA','TORACE/EPIGASTRICO/MANDIBOLA','TORACE','ARTO SUP.SPALLA','MANO','ADDOME','BACINO','SCHIENA','APPARATO GENITALE','ARTO INF.','PIEDE','SANGUINA','EPISTASSI'];
+                opzioni = ['TESTA VOLTO','OCCHI','BOCCA','TORACE','ARTO SUP.','SPALLA','MANO','ADDOME','BACINO','SCHIENA','APPARATO GENITALE','ARTO INF.','PIEDE','SANGUINA','EPISTASSI'];
                 break;
             case 'EDEMA':
-                opzioni = ['TESTA VOLTO','OCCHI','BOCCA','TORACE/EPIGASTRICO/MANDIBOLA','TORACE','ARTO SUP.SPALLA','MANO','ADDOME','BACINO','SCHIENA','APPARATO GENITALE','ARTO INF.','PIEDE'];
+                opzioni = ['TESTA VOLTO','OCCHI','BOCCA','TORACE','ARTO SUP.','SPALLA','MANO','ADDOME','BACINO','SCHIENA','APPARATO GENITALE','ARTO INF.','PIEDE'];
                 break;
             case 'SANGUINA':
-                opzioni = ['EPISTASSI','FERITA/LACERAZIONE','FERITA ARMA DA FUOCO','FERITA ARMA BIANCA', 'TESTA VOLTO','BOCCA','TORACE/EPIGASTRICO/MANDIBOLA','TORACE','ARTO SUP.SPALLA','MANO','ADDOME','BACINO','SCHIENA','APPARATO GENITALE','ARTO INF.','PIEDE'];
+                opzioni = ['EPISTASSI','FERITA/LACERAZIONE','FERITA ARMA DA FUOCO','FERITA ARMA BIANCA', 'TESTA VOLTO','BOCCA','TORACE/EPIGASTRICO/MANDIBOLA','TORACE','ARTO SUP.','SPALLA','MANO','ADDOME','BACINO','SCHIENA','APPARATO GENITALE','ARTO INF.','PIEDE'];
                 break;
             case 'CUTE':
                 opzioni = ['NORMALE','CIANOTICA','ARROSSATA','SUDATA','PALLIDO','PALLIDO + SUDATO','USTIONE'];
                 break;
             case 'CPSS':
-                opzioni = ['POSITIVA','NEGATIVA','PREGRESSO ICTUS'];
+                opzioni = ['POSITIVA','NEGATIVA','PREGRESSO ICTUS', 'NON NOTO'];
                 break;
             case 'CONVULSIONI':
-                opzioni = ['EPILETTICO NOTO','MORSUS','IPO/IPERGLICEMIA'];
+                opzioni = ['EPILETTICO NOTO','MORSUS','IPO/IPERGLICEMIA', 'NON NOTO'];
                 break;
             case 'DIABETICO':
-                opzioni = ['IPO/IPERGLICEMIA','INSULINO DIPENDENTE'];
+                opzioni = ['IPO/IPERGLICEMIA','INSULINO DIPENDENTE', 'NON NOTO'];
                 break;
             case 'ALTRI SEGNI':
                 opzioni = ['ASTENIA','FEBBRE','TOSSE + FEBBRE','VOMITA','DIARREA','DIARREA E VOMITO','SPOSIZIONAMENTO CATETERE','NO/NON NOTO'];
@@ -1507,18 +1538,32 @@ class EmergencyDispatchGame {
                 opzioni = ['CONTRAZIONI','ROTTURA DELLE ACQUE','ESPULSIONE','SECONDAMENTO'];
                 break;
             case 'PSICHIATRICO NOTO':
-                opzioni = ['ASO/TSO','AGITATO'];
+                opzioni = ['ASO/TSO','AGITATO', 'NON NOTO'];
                 break;
             default:
                 opzioni = ['NO/NON NOTO'];
         }
         
+        // Recupera il call object per gestire il salvataggio
+        const popup = document.getElementById('popupMissione');
+        const callId = popup?.getAttribute('data-call-id');
+        const call = callId ? this.calls.get(callId) : null;
+        
         opzioni.forEach(opt => {
             const option = document.createElement('option');
             option.value = opt;
             option.textContent = opt;
+            // Ripristina il valore salvato se corrisponde
+            option.selected = call && call.noteEvento2 === opt;
             noteEvento2Select.appendChild(option);
         });
+        
+        // Aggiungi listener per salvare automaticamente
+        noteEvento2Select.onchange = () => {
+            if (call) {
+                call.noteEvento2 = noteEvento2Select.value; // Salva automaticamente
+            }
+        };
     }
 
     updateMezzoMarkers() {
@@ -1965,7 +2010,7 @@ class EmergencyDispatchGame {
             const emptyOption = document.createElement('option');
             emptyOption.value = '';
             emptyOption.textContent = '-- Seleziona luogo --';
-            emptyOption.selected = true;
+            emptyOption.selected = !call.luogo; // Seleziona solo se non c'è valore salvato
             luogoSelect.appendChild(emptyOption);
             
             const opzioniLuogo = ['CASA','STRADA','UFFICI ED ES. PUBBL.','STR. SANITARIA','IMPIANTO SPORTIVO','IMPIANTO LAVORATIVO','SCUOLE','STAZIONE','FERROVIA','METROPOLITANA','AEREOPORTI','QUESTURA/CASERME','LUOGHI DI CULTO','IMPERVIO','ALTRO LUOGO'];
@@ -1973,11 +2018,13 @@ class EmergencyDispatchGame {
                 const option = document.createElement('option');
                 option.value = opt;
                 option.textContent = opt;
+                option.selected = call.luogo === opt; // Ripristina valore salvato
                 luogoSelect.appendChild(option);
             });
             
-            // Event listener per aggiornare Dett. Luogo
+            // Event listener per aggiornare Dett. Luogo e salvare automaticamente
             luogoSelect.addEventListener('change', () => {
+                call.luogo = luogoSelect.value; // Salva automaticamente
                 this.updateDettLuogo(luogoSelect.value);
             });
         }
@@ -1991,7 +2038,7 @@ class EmergencyDispatchGame {
             const emptyOption = document.createElement('option');
             emptyOption.value = '';
             emptyOption.textContent = '-- Seleziona motivo --';
-            emptyOption.selected = true;
+            emptyOption.selected = !call.motivo; // Seleziona solo se non c'è valore salvato
             motivoSelect.appendChild(emptyOption);
             
             const opzioniMotivo = ['MEDICO ACUTO','SOCCORSO PERSONA','EVENTO VIOLENTO','CADUTA','INCIDENTE/INFORTUNIO','INC. STRADALE','INC. FERROVIA','INC. ARIA','INC. ACQUA','INC. MONTANO','INC. SPELEO/FORRA','INTOSSICAZIONE','ANIMALI','PREVENZIONE','EVENTO DI MASSA','MAXI EMERGENZA','SOCCORSO SECONDARIO','ALTRO/NON NOTO'];
@@ -1999,11 +2046,13 @@ class EmergencyDispatchGame {
                 const option = document.createElement('option');
                 option.value = opt;
                 option.textContent = opt;
+                option.selected = call.motivo === opt; // Ripristina valore salvato
                 motivoSelect.appendChild(option);
             });
             
-            // Event listener per aggiornare Dett. Motivo
+            // Event listener per aggiornare Dett. Motivo e salvare automaticamente
             motivoSelect.addEventListener('change', () => {
+                call.motivo = motivoSelect.value; // Salva automaticamente
                 this.updateDettMotivo(motivoSelect.value);
             });
         }
@@ -2017,7 +2066,7 @@ class EmergencyDispatchGame {
             const emptyOption = document.createElement('option');
             emptyOption.value = '';
             emptyOption.textContent = '-- Seleziona coscienza --';
-            emptyOption.selected = true;
+            emptyOption.selected = !call.coscienza; // Seleziona solo se non c'è valore salvato
             coscienzaSelect.appendChild(emptyOption);
             
             const opzioniCoscienza = ['RISPONDE','ALTERATA','NON RISPONDE','NON RISPONDE NON RESPIRA','INCOSCIENTE','NON NOTO'];
@@ -2025,7 +2074,13 @@ class EmergencyDispatchGame {
                 const option = document.createElement('option');
                 option.value = opt;
                 option.textContent = opt;
+                option.selected = call.coscienza === opt; // Ripristina valore salvato
                 coscienzaSelect.appendChild(option);
+            });
+            
+            // Aggiungi listener per salvare automaticamente
+            coscienzaSelect.addEventListener('change', () => {
+                call.coscienza = coscienzaSelect.value; // Salva automaticamente
             });
         }
         
@@ -2036,7 +2091,7 @@ class EmergencyDispatchGame {
             const emptyOption = document.createElement('option');
             emptyOption.value = '';
             emptyOption.textContent = '-- Seleziona note evento --';
-            emptyOption.selected = true;
+            emptyOption.selected = !call.noteEvento; // Seleziona solo se non c'è valore salvato
             noteEventoSelect.appendChild(emptyOption);
             
             const opzioniNoteEvento = ['RESPIRA','DOLORE','DEFORMITA','CARDIOCIRCOLATORIO','EDEMA','DISTRETTO TRAUMA','CONVULSIONI','CPSS','VERTIGINI','STATO CONFUSIONALE','ASTENIA','SEGNI','CUTE','SANGUINA','ABRASIONE/CONTUSIONE','DIABETICO','INSUFFICIENZA RENALE','PENETRANTE','PROIETTATO','SBALZATO','INCASTRATO','-2.5 MT','2.5 - 5 MT','+ 5 MT','TRAVAGLIO','CONTRAZIONI - 5 MIN','GRAVIDANZA','PARTO','INCENDIO','INCENDIO INDUSTRIALE','INCENDIO ABITAZIONE','SOSP INTOSSICAZIONE DA MONOSSIDO','AUTOLESIONISMO','PSICHIATRICO NOTO','NO/NON NOTO','ALTRI SEGNI','SEGUE'];
@@ -2044,11 +2099,13 @@ class EmergencyDispatchGame {
                 const option = document.createElement('option');
                 option.value = opt;
                 option.textContent = opt;
+                option.selected = call.noteEvento === opt; // Ripristina valore salvato
                 noteEventoSelect.appendChild(option);
             });
             
-            // Event listener per aggiornare Note evento 2
+            // Event listener per aggiornare Note evento 2 e salvare automaticamente
             noteEventoSelect.addEventListener('change', () => {
+                call.noteEvento = noteEventoSelect.value; // Salva automaticamente
                 this.updateNoteEvento2(noteEventoSelect.value);
             });
         }
@@ -2064,20 +2121,49 @@ class EmergencyDispatchGame {
             const emptyOption = document.createElement('option');
             emptyOption.value = '';
             emptyOption.textContent = '-- Seleziona codice --';
-            emptyOption.selected = true;
+            emptyOption.selected = !call.codice; // Seleziona solo se non c'è valore salvato
             codiceSelect.appendChild(emptyOption);
             
             ['Rosso','Giallo','Verde'].forEach(opt => {
                 const option = document.createElement('option');
                 option.value = opt;
                 option.textContent = opt;
+                option.selected = call.codice === opt; // Ripristina valore salvato
                 codiceSelect.appendChild(option);
+            });
+            
+            // Aggiungi listener per salvare automaticamente
+            codiceSelect.addEventListener('change', () => {
+                call.codice = codiceSelect.value; // Salva automaticamente
             });
         }
         const note1 = document.getElementById('altro-evento');
-        if (note1) note1.value = call.altroEvento || '';
+        if (note1) {
+            note1.value = call.altroEvento || '';
+            // Aggiungi listener per salvare automaticamente
+            note1.addEventListener('input', () => {
+                call.altroEvento = note1.value; // Salva automaticamente
+            });
+        }
         const note2 = document.getElementById('note2');
-        if (note2) note2.value = call.note2 || '';
+        if (note2) {
+            note2.value = call.note2 || '';
+            // Aggiungi listener per salvare automaticamente
+            note2.addEventListener('input', () => {
+                call.note2 = note2.value; // Salva automaticamente
+            });
+        }
+
+        // Popola i campi dipendenti se ci sono valori salvati
+        if (call.luogo) {
+            this.updateDettLuogo(call.luogo);
+        }
+        if (call.motivo) {
+            this.updateDettMotivo(call.motivo);
+        }
+        if (call.noteEvento) {
+            this.updateNoteEvento2(call.noteEvento);
+        }
 
         const btnsRapidi = [
             {tipo:'MSB', label:'MSB'},
