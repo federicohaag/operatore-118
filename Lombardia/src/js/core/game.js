@@ -2124,7 +2124,7 @@ class EmergencyDispatchGame {
             emptyOption.selected = !call.codice; // Seleziona solo se non c'è valore salvato
             codiceSelect.appendChild(emptyOption);
             
-            ['Rosso','Giallo','Verde'].forEach(opt => {
+            ['ROSSO','GIALLO','VERDE'].forEach(opt => {
                 const option = document.createElement('option');
                 option.value = opt;
                 option.textContent = opt;
