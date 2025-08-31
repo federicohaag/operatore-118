@@ -161,6 +161,24 @@
         "Convenzione": "H12",
         "Orario di lavoro": "07:30-19:30",
         "Giorni": "LUN-DOM"
+    },
+      {
+        "Nome Postazione": "Elisoccorso Genova",
+        "Coordinate Postazione": "44.4141897,8.8445027",
+        "Mezzo": "ELI",
+        "Nome radio": "DRAGO 125",
+        "Convenzione": "H12",
+        "Orario di lavoro": "08:00-20:00",
+        "Giorni": "LUN-DOM"
+    },
+      {
+        "Nome Postazione": "Elisoccorso Genova",
+        "Coordinate Postazione": "44.4141897,8.8445027",
+        "Mezzo": "ELI",
+        "Nome radio": "GRIFO 01",
+        "Convenzione": "H24",
+        "Orario di lavoro": "20:00-08:00",
+        "Giorni": "LUN-DOM"
     }
   ]
 }
