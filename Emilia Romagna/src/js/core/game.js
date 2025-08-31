@@ -819,11 +819,11 @@ class EmergencyDispatchGame {
         // Definisce le centrali limitrofe per ogni centrale principale
         switch (centrale) {
             case 'OVEST':
-                return ['EST']; // Parma può richiedere supporto da Bologna
+                return ['Est']; // Parma può richiedere supporto da Bologna
             case 'EST':
-                return ['OVEST', 'ROMAGNA']; // Bologna può richiedere supporto da Parma e Ravenna
+                return ['Ovest', 'Romagna']; // Bologna può richiedere supporto da Parma e Ravenna
             case 'ROMAGNA':
-                return ['EST']; // Ravenna può richiedere supporto da Bologna
+                return ['Est']; // Ravenna può richiedere supporto da Bologna
             default:
                 return [];
         }
