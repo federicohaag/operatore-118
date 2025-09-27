@@ -600,7 +600,7 @@
       }
      },
     "chiamata_36": {
-    "testo": "Salve chiamo da (indirizzo abitazione), ho un dolore molto forte nella parte destra dell’addome da qualche ora. È peggiorato da qualche minuto ed ho anche un po’ di nausea.",
+    "testo": "Salve chiamo da (indirizzo abitazione), ho un dolore molto forte nella parte destra dell’addome da qualche ora. È peggiorato da qualche minuto ed ho anche un po di nausea.",
     "caso_stabile": {
         "MSB": "Maschio, 37 anni, vigile, dolore al fianco dx, PA 130/85 mmHg, FC 82 bpm, SpO₂ 99%. Pz noto per coliche renali. [PS]",
         "MSA1": "Maschio, 37 anni, GCS 15, dolore al fianco dx, PA 130/85 mmHg, FC 82 bpm, SpO₂ 99%. Sospetta colica renale in pz noto per coliche renali, in corso Ketorolac EV. [PS]",
