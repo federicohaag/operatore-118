@@ -1418,8 +1418,17 @@
   "Mezzo": "MSB",
   "Nome radio": "VOLBRE_115.04A1",
   "Convenzione": "H24",
-  "Orario di lavoro": "dalle 07:00 alle 07:00",
-  "Giorni": "SAB-DOM"
+  "Orario di lavoro": "19:00-19:00",
+  "Giorni": "VEN-DOM"
+ },
+ {
+  "Nome Postazione": "Volontari Ambulanza Brembilla",
+  "Coordinate Postazione": "45.821788,9.5941955",
+  "Mezzo": "MSB",
+  "Nome radio": "VOLBRE_315",
+  "Convenzione": "GET",
+  "Orario di lavoro": "18:00-00:00",
+  "Giorni": "LUN-GIO"
  },
  {
   "Nome Postazione": "Volontari Ambulanza Nuvolento",
@@ -1643,8 +1652,8 @@
   "Mezzo": "MSB",
   "Nome radio": "PEM_BG_106.04A1",
   "Convenzione": "H24",
-  "Orario di lavoro": "dalle 07:00 alle 07:00",
-  "Giorni": "LUN-VEN"
+  "Orario di lavoro": "19:00-19:00",
+  "Giorni": "LUN-GIO"
  },
  {
   "Nome Postazione": "Stazionamento Moniga",
