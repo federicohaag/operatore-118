@@ -39,7 +39,7 @@ export default function RegionSelector() {
     const handleDispatchCenterSelect = (dispatchCenter: string) => {
         if (selectedRegion) {
             // TBD
-            alert(`Selected dispatch center: ${dispatchCenter} in region: ${selectedRegion}`);
+            alert(`Selected dispatch center: ${dispatchCenter} in region: ${selectedRegion.label}`);
         }
     };
 

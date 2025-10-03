@@ -373,3 +373,5 @@ export const HOSPITALS: ReadonlyArray<Hospital> = [
         ]
     }
 ];
+
+export type HospitalId = typeof HOSPITALS[number]['id'];
