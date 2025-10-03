@@ -1,9 +1,11 @@
 
-import { useState, useEffect, useRef } from 'react';
+import { useEffect, useRef } from 'react';
 import styles from './RegionSelector.module.css';
 import DispatchCenterSelectionOverlay from './DispatchCenterSelectionOverlay';
 import { RegionStatus, type Region } from '../../model/types';
 import { REGIONS } from '../../configurations/regions';
+import { useAppDispatch, useAppSelector } from '../shared-state/hooks';
+import { setSelectedRegion, setSelectedDispatchCenter } from '../shared-state/sharedStateSlice';
 
 const StatusMessages: Record<RegionStatus, string> = {
     [RegionStatus.Available]: '',
@@ -12,13 +14,16 @@ const StatusMessages: Record<RegionStatus, string> = {
 };
 
 export default function RegionSelector() {
-    const [selectedRegion, setSelectedRegion] = useState<Region | null>(null);
+    const dispatch = useAppDispatch();
+    const selectedRegion = useAppSelector((state: { sharedState: { selectedRegion: string | null } }) => state.sharedState.selectedRegion);
     const overlayRef = useRef<HTMLDivElement>(null);
+    const currentRegionObj = REGIONS.find(r => r.id === selectedRegion) || null;
 
     useEffect(() => {
         function handleClickOutside(event: MouseEvent) {
             if (selectedRegion && overlayRef.current && !overlayRef.current.contains(event.target as Node)) {
-                setSelectedRegion(null);
+                dispatch(setSelectedRegion(null));
+                dispatch(setSelectedDispatchCenter(null));
             }
         }
 
@@ -26,25 +31,24 @@ export default function RegionSelector() {
         return () => {
             document.removeEventListener('mousedown', handleClickOutside);
         };
-    }, [selectedRegion]);
+    }, [selectedRegion, dispatch]);
 
     const handleRegionClick = (region: Region) => {
         if (region.status === RegionStatus.Available) {
-            setSelectedRegion(region);
+            dispatch(setSelectedRegion(region.id));
         } else {
             alert(StatusMessages[region.status]);
         }
     };
 
     const handleDispatchCenterSelect = (dispatchCenter: string) => {
-        if (selectedRegion) {
-            // TBD
-            alert(`Selected dispatch center: ${dispatchCenter} in region: ${selectedRegion.label}`);
+        if (currentRegionObj) {
+            dispatch(setSelectedDispatchCenter(dispatchCenter));
         }
     };
 
     return (
-        <div className={styles['dispatch-center-container']}>
+        <>
             <img src="logo118.png" alt="Logo Centrale Operativa 118" className={styles['logo-dispatch-center']} />
             <h1 className={styles.h1}>Selezionare la Regione</h1>
             <div className={styles['regioni-container']}>
@@ -82,15 +86,15 @@ export default function RegionSelector() {
                 </a>
             </div>
 
-            {selectedRegion && (
+            {currentRegionObj && (
                 <div ref={overlayRef}>
                     <DispatchCenterSelectionOverlay
-                        region={selectedRegion}
-                        onClose={() => setSelectedRegion(null)}
+                        region={currentRegionObj}
+                        onClose={() => dispatch(setSelectedRegion(null))}
                         onDispatchCenterSelect={handleDispatchCenterSelect}
                     />
                 </div>
             )}
-        </div>
+        </>
     );
 }

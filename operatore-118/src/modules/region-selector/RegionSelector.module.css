@@ -1,13 +1,3 @@
-.dispatch-center-container {
-    background: rgba(255,255,255,0.95);
-    border-radius: 24px;
-    box-shadow: 0 8px 32px rgba(30, 60, 120, 0.18);
-    padding: 48px 36px 36px 36px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    min-width: 340px;
-}
 .logo-dispatch-center {
     width: 120px;
     margin-bottom: 18px;
