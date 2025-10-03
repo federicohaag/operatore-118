@@ -1,5 +1,5 @@
 
-import { useState } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import styles from './RegionSelector.module.css';
 import DispatchCenterSelectionOverlay from './DispatchCenterSelectionOverlay';
 import { type RegionName, type RegionConfiguration, RegionStatus, StatusMessages } from './types';
@@ -7,6 +7,20 @@ import { regionsConfiguration } from './config';
 
 export default function RegionSelector() {
     const [selectedRegion, setSelectedRegion] = useState<RegionName | null>(null);
+    const overlayRef = useRef<HTMLDivElement>(null);
+
+    useEffect(() => {
+        function handleClickOutside(event: MouseEvent) {
+            if (selectedRegion && overlayRef.current && !overlayRef.current.contains(event.target as Node)) {
+                setSelectedRegion(null);
+            }
+        }
+
+        document.addEventListener('mousedown', handleClickOutside);
+        return () => {
+            document.removeEventListener('mousedown', handleClickOutside);
+        };
+    }, [selectedRegion]);
 
     const handleRegionClick = (regionConfiguration: RegionConfiguration) => {
         if (regionConfiguration.status === RegionStatus.Available) {
@@ -53,13 +67,15 @@ export default function RegionSelector() {
                     Discord
                 </a>
             </div>
-            
+
             {selectedRegion && (
-                <DispatchCenterSelectionOverlay
-                    region={selectedRegion}
-                    onClose={() => setSelectedRegion(null)}
-                    onDispatchCenterSelect={handleDispatchCenterSelect}
-                />
+                <div ref={overlayRef}>
+                    <DispatchCenterSelectionOverlay
+                        region={selectedRegion}
+                        onClose={() => setSelectedRegion(null)}
+                        onDispatchCenterSelect={handleDispatchCenterSelect}
+                    />
+                </div>
             )}
         </div>
     );

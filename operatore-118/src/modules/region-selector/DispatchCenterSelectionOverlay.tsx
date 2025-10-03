@@ -22,8 +22,14 @@ export default function DispatchCenterSelectionOverlay({ region, onClose, onDisp
         return null;
     }
 
+    const handleOverlayClick = (e: React.MouseEvent) => {
+        if (e.target === e.currentTarget) {
+            onClose();
+        }
+    };
+
     return (
-        <div className={styles['dispatch-center-selector-overlay']}>
+        <div className={styles['dispatch-center-selector-overlay']} onClick={handleOverlayClick}>
             <div className={styles['dispatch-center-selector-content']}>
                 <h1>{region}</h1>
                 <h2>Seleziona la Centrale 118</h2>
