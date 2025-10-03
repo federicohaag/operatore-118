@@ -20,16 +20,14 @@
     text-align: center;
 }
 
-.dispatch-center-logo {
-    margin-bottom: 1rem;
-}
-
-.dispatch-center-logo img {
-    height: 60px;
+.dispatch-center-selector-content h1 {
+    margin-bottom: 0.5rem;
+    color: black;
 }
 
 .dispatch-center-selector-content h2 {
     margin-bottom: 1rem;
+    color: black;
 }
 
 .dispatch-center-selector-content select {

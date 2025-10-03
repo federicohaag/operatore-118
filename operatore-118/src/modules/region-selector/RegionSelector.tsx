@@ -2,44 +2,17 @@
 import { useState } from 'react';
 import styles from './RegionSelector.module.css';
 import DispatchCenterSelectionOverlay from './DispatchCenterSelectionOverlay';
-
-interface Region {
-    name: string;
-    available: boolean;
-    unavailableMessage?: string;
-}
-
-const regions: Region[] = [
-    { name: 'Calabria', available: true },
-    { name: 'Emilia-Romagna', available: true },
-    { name: 'Lazio', available: true },
-    { name: 'Liguria', available: true },
-    { name: 'Lombardia', available: true },
-    { name: 'Puglia', available: true },
-    { name: 'Sardegna', available: true },
-    { name: 'Veneto', available: true },
-    { name: 'Abruzzo', available: false, unavailableMessage: 'In fase di costruzione, tempistiche non note al momento' },
-    { name: 'Basilicata', available: false, unavailableMessage: 'Non disponibile, scriveteci per info' },
-    { name: 'Campania', available: false, unavailableMessage: 'Non disponibile, scriveteci per info' },
-    { name: 'Friuli-Venezia Giulia', available: false, unavailableMessage: 'In fase di costruzione, tempistiche non note al momento' },
-    { name: 'Marche', available: false, unavailableMessage: 'In fase di costruzione, tempistiche non note al momento' },
-    { name: 'Molise', available: false, unavailableMessage: 'Non disponibile, scriveteci per info' },
-    { name: 'Piemonte', available: false, unavailableMessage: 'Non disponibile, scriveteci per info' },
-    { name: 'Sicilia', available: false, unavailableMessage: 'In fase di costruzione, tempistiche non note al momento' },
-    { name: 'Toscana', available: false, unavailableMessage: 'In fase di costruzione, tempistiche non note al momento' },
-    { name: 'Trentino-Alto Adige', available: false, unavailableMessage: 'In fase di costruzione, tempistiche non note al momento' },
-    { name: 'Umbria', available: false, unavailableMessage: 'Non disponibile, scriveteci per info' },
-    { name: "Valle d'Aosta", available: false, unavailableMessage: 'In fase di costruzione, tempistiche non note al momento' }
-];
+import { type RegionName, type RegionConfiguration, RegionStatus, StatusMessages } from './types';
+import { regionsConfiguration } from './config';
 
 export default function RegionSelector() {
-    const [selectedRegion, setSelectedRegion] = useState<string | null>(null);
+    const [selectedRegion, setSelectedRegion] = useState<RegionName | null>(null);
 
-    const handleRegionClick = (region: Region) => {
-        if (region.available) {
-            setSelectedRegion(region.name);
-        } else if (region.unavailableMessage) {
-            alert(region.unavailableMessage);
+    const handleRegionClick = (regionConfiguration: RegionConfiguration) => {
+        if (regionConfiguration.status === RegionStatus.Available) {
+            setSelectedRegion(regionConfiguration.region);
+        } else {
+            alert(StatusMessages[regionConfiguration.status]);
         }
     };
 
@@ -55,16 +28,17 @@ export default function RegionSelector() {
             <img src="logo118.png" alt="Logo Centrale Operativa 118" className={styles['logo-dispatch-center']} />
             <h1 className={styles.h1}>Selezionare la Regione</h1>
             <div className={styles['regioni-container']}>
-                {regions.map(region => (
+                {regionsConfiguration.map(regionConfiguration => (
                     <button
-                        key={region.name}
-                        className={`${styles['regione-btn']} ${!region.available ? styles['regione-prossimamente'] : ''}`}
-                        onClick={() => handleRegionClick(region)}
+                        key={regionConfiguration.region}
+                        className={`${styles['regione-btn']} ${regionConfiguration.status !== RegionStatus.Available ? styles['regione-prossimamente'] : ''}`}
+                        onClick={() => handleRegionClick(regionConfiguration)}
                     >
-                        {region.name}
+                        {regionConfiguration.region}
                     </button>
                 ))}
-            {/* Sezione supporto */}
+            </div>
+            
             <div className={styles['supporto-container']}>
                 <a href="https://www.facebook.com/people/Operatore-118/61576502672516/?locale=it_IT" target="_blank" className={styles['supporto-btn'] + ' ' + styles['facebook-btn']}>
                     <svg className={styles['social-icon']} viewBox="0 0 24 24">
@@ -79,6 +53,7 @@ export default function RegionSelector() {
                     Discord
                 </a>
             </div>
+            
             {selectedRegion && (
                 <DispatchCenterSelectionOverlay
                     region={selectedRegion}
@@ -87,7 +62,5 @@ export default function RegionSelector() {
                 />
             )}
         </div>
-    )
-        </div>
-    )
+    );
 }
