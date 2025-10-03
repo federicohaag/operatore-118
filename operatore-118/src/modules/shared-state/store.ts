@@ -1,9 +1,9 @@
 import { configureStore } from '@reduxjs/toolkit';
-import { createBroadcastMiddleware } from './broadcastMiddleware';
+import { createBroadcastMiddleware, loadInitialState } from './broadcastMiddleware';
 import sharedStateReducer from './sharedStateSlice';
 
 // Create and configure the store
-export const store = configureStore({
+const store = configureStore({
   reducer: {
     sharedState: sharedStateReducer,
   },
@@ -15,3 +15,8 @@ export const store = configureStore({
 export type RootState = ReturnType<typeof store.getState>;
 // Export dispatch type
 export type AppDispatch = typeof store.dispatch;
+
+// Initialize the state from localStorage after store creation
+loadInitialState(store);
+
+export { store };

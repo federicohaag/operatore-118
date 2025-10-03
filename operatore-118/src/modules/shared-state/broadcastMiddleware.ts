@@ -12,21 +12,24 @@ interface BroadcastAction {
 
 const STORAGE_STATE_KEY = 'operatore-118-state';
 
+// Function to load initial state after store creation
+export const loadInitialState = (store: any) => {
+  try {
+    const savedState = localStorage.getItem(STORAGE_STATE_KEY);
+    if (savedState) {
+      const parsedState = JSON.parse(savedState);
+      store.dispatch({
+        type: INIT_STATE_FROM_STORAGE,
+        payload: parsedState
+      });
+    }
+  } catch (error) {
+    console.error('Failed to load initial state from localStorage:', error);
+  }
+};
+
 export const createBroadcastMiddleware = (): Middleware => {
   return store => {
-    // Try to load initial state from localStorage
-    try {
-      const savedState = localStorage.getItem(STORAGE_STATE_KEY);
-      if (savedState) {
-        const parsedState = JSON.parse(savedState);
-        store.dispatch({
-          type: INIT_STATE_FROM_STORAGE,
-          payload: parsedState
-        });
-      }
-    } catch (error) {
-      console.error('Failed to load initial state from localStorage:', error);
-    }
 
     // Subscribe to broadcast messages from other windows
     broadcastService.addListener((message) => {
