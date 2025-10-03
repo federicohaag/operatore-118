@@ -2,11 +2,17 @@
 import { useState, useEffect, useRef } from 'react';
 import styles from './RegionSelector.module.css';
 import DispatchCenterSelectionOverlay from './DispatchCenterSelectionOverlay';
-import { type RegionName, type RegionConfiguration, RegionStatus, StatusMessages } from './types';
-import { regionsConfiguration } from './config';
+import { RegionStatus, type Region } from '../../model/types';
+import { REGIONS } from '../../configurations/regions';
+
+const StatusMessages: Record<RegionStatus, string> = {
+    [RegionStatus.Available]: '',
+    [RegionStatus.Unavailable]: 'Non disponibile, scriveteci per info',
+    [RegionStatus.WorkInProgress]: 'In fase di costruzione, tempistiche non note al momento'
+};
 
 export default function RegionSelector() {
-    const [selectedRegion, setSelectedRegion] = useState<RegionName | null>(null);
+    const [selectedRegion, setSelectedRegion] = useState<Region | null>(null);
     const overlayRef = useRef<HTMLDivElement>(null);
 
     useEffect(() => {
@@ -22,11 +28,11 @@ export default function RegionSelector() {
         };
     }, [selectedRegion]);
 
-    const handleRegionClick = (regionConfiguration: RegionConfiguration) => {
-        if (regionConfiguration.status === RegionStatus.Available) {
-            setSelectedRegion(regionConfiguration.region);
+    const handleRegionClick = (region: Region) => {
+        if (region.status === RegionStatus.Available) {
+            setSelectedRegion(region);
         } else {
-            alert(StatusMessages[regionConfiguration.status]);
+            alert(StatusMessages[region.status]);
         }
     };
 
@@ -42,13 +48,21 @@ export default function RegionSelector() {
             <img src="logo118.png" alt="Logo Centrale Operativa 118" className={styles['logo-dispatch-center']} />
             <h1 className={styles.h1}>Selezionare la Regione</h1>
             <div className={styles['regioni-container']}>
-                {regionsConfiguration.map(regionConfiguration => (
+                {[...REGIONS]
+                    .sort((a, b) => {
+                        // First sort by availability
+                        if (a.status === RegionStatus.Available && b.status !== RegionStatus.Available) return -1;
+                        if (a.status !== RegionStatus.Available && b.status === RegionStatus.Available) return 1;
+                        // Then sort alphabetically within each group
+                        return a.label.localeCompare(b.label);
+                    })
+                    .map(region => (
                     <button
-                        key={regionConfiguration.region}
-                        className={`${styles['regione-btn']} ${regionConfiguration.status !== RegionStatus.Available ? styles['regione-prossimamente'] : ''}`}
-                        onClick={() => handleRegionClick(regionConfiguration)}
+                        key={region.id}
+                        className={`${styles['regione-btn']} ${region.status !== RegionStatus.Available ? styles['regione-prossimamente'] : ''}`}
+                        onClick={() => handleRegionClick(region)}
                     >
-                        {regionConfiguration.region}
+                        {region.label}
                     </button>
                 ))}
             </div>
