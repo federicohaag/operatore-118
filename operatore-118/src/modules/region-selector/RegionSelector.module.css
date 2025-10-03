@@ -1,18 +1,4 @@
-body {
-    background: 
-        radial-gradient(ellipse at center, rgba(224, 234, 252, 0.7) 0%, rgba(182, 198, 230, 0.7) 100%),
-        url('./assets/background.png') center/cover no-repeat fixed;
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-family: 'Segoe UI', Arial, sans-serif;
-    margin: 0;
-    background-size: cover;
-    background-position: center center;
-    background-attachment: fixed;
-}
-.centrale-container {
+.dispatch-center-container {
     background: rgba(255,255,255,0.95);
     border-radius: 24px;
     box-shadow: 0 8px 32px rgba(30, 60, 120, 0.18);
@@ -22,7 +8,7 @@ body {
     align-items: center;
     min-width: 340px;
 }
-.logo-centrale {
+.logo-dispatch-center {
     width: 120px;
     margin-bottom: 18px;
     filter: drop-shadow(0 2px 8px #1976d2aa);
@@ -110,6 +96,43 @@ h1 {
         grid-template-columns: repeat(4, 1fr);
         max-width: 1000px;
     }
+}
+
+.supporto-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.supporto-btn {
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    font-weight: 600;
+    transition: opacity 0.2s ease;
+}
+
+.supporto-btn:hover {
+    opacity: 0.9;
+}
+
+.social-icon {
+    width: 24px;
+    height: 24px;
+    margin-right: 10px;
+    fill: currentColor;
+}
+
+.facebook-btn {
+    background-color: #1877f2;
+}
+
+.discord-btn {
+    background-color: #5865F2;
 }
 
 /* Pulsanti supporto */
