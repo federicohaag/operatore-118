@@ -20,7 +20,10 @@ export default function Game() {
             <h1>{selectedRegion?.label || 'Region not found'}</h1>
             <h2>{selectedDispatchCenter?.label || 'Dispatch center not found'}</h2>
             <div className={styles['buttons-container']}>
-                <button className={styles['button']} onClick={() => console.log('Opening hospitals view')}>
+                <button 
+                    className={styles['button']} 
+                    onClick={() => window.open('/hospitals', '_blank', 'width=800,height=600')}
+                >
                     Open Hospitals View
                 </button>
                 <button className={styles['button-reset']} onClick={handleReset}>
