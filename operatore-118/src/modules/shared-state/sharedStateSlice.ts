@@ -24,12 +24,15 @@ export const sharedStateSlice = createSlice({
     setSelectedDispatchCenter: (state: SharedStateSlice, action: PayloadAction<string | null>) => {
       state.selectedDispatchCenter = action.payload;
     },
-    // Add more reducers as needed
+    resetState: (state) => {
+      state.selectedRegion = null;
+      state.selectedDispatchCenter = null;
+    },
   },
 });
 
 // Export actions
-export const { setSelectedRegion, setSelectedDispatchCenter } = sharedStateSlice.actions;
+export const { setSelectedRegion, setSelectedDispatchCenter, resetState } = sharedStateSlice.actions;
 
 // Export selectors
 export const selectSelectedRegion = (state: RootState) => state.sharedState.selectedRegion;
