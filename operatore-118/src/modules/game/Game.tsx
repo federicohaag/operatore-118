@@ -1,6 +1,6 @@
 import styles from './Game.module.css';
 import { useAppSelector, useAppDispatch } from '../shared-state/hooks';
-import { REGIONS } from '../../configurations/regions';
+import { REGIONS } from '../../model/aggregates';
 import { resetState } from '../shared-state/sharedStateSlice';
 
 export default function Game() {

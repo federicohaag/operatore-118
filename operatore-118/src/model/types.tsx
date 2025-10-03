@@ -11,6 +11,7 @@ export type Region = {
     label: string;
     status: RegionStatus;
     dispatchCenters?: DispatchCenter[];
+    hospitals: Hospital[];
 }
 
 export type DispatchCenter = {

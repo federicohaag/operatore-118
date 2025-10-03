@@ -3,9 +3,9 @@ import { useEffect, useRef } from 'react';
 import styles from './RegionSelector.module.css';
 import DispatchCenterSelectionOverlay from './DispatchCenterSelectionOverlay';
 import { RegionStatus, type Region } from '../../model/types';
-import { REGIONS } from '../../configurations/regions';
 import { useAppDispatch, useAppSelector } from '../shared-state/hooks';
 import { setSelectedRegion, setSelectedDispatchCenter } from '../shared-state/sharedStateSlice';
+import { REGIONS } from '../../model/aggregates';
 
 const StatusMessages: Record<RegionStatus, string> = {
     [RegionStatus.Available]: '',
