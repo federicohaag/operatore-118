@@ -3,7 +3,6 @@ import ModalContainer from './modules/modal-container/ModalContainer';
 import Game from './modules/game/Game';
 import { useAppSelector, selectSelectedRegion, selectSelectedDispatchCenter } from './modules/shared-state';
 import './App.css'
-import HospitalsView from './modules/hospitals-view/HospitalsView';
 
 function App() {
   const selectedRegion = useAppSelector(selectSelectedRegion);
@@ -15,7 +14,7 @@ function App() {
         {!selectedRegion || !selectedDispatchCenter ? (
           <RegionSelector />
         ) : (
-          <><Game /><HospitalsView /></>
+          <Game />
         )}
       </ModalContainer>
     </>
