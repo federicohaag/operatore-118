@@ -1,6 +1,10 @@
-import { createSlice, type PayloadAction } from '@reduxjs/toolkit';
+import { createSlice, type PayloadAction, createAction } from '@reduxjs/toolkit';
 import type { RootState } from './store';
 import { initStateFromStorage } from './broadcastMiddleware';
+import { SYNC_STATE_FROM_OTHER_WINDOW } from './constants';
+
+// Create action for syncing state from other windows  
+export const syncStateFromOtherWindow = createAction<{ sharedState: SharedStateSlice }>(SYNC_STATE_FROM_OTHER_WINDOW);
 
 // Define the state type for this slice
 export interface SharedStateSlice {
@@ -35,6 +39,12 @@ export const sharedStateSlice = createSlice({
       // When loading from storage, replace the entire state
       state.selectedRegion = action.payload.selectedRegion;
       state.selectedDispatchCenter = action.payload.selectedDispatchCenter;
+    });
+    builder.addCase(syncStateFromOtherWindow, (state, action) => {
+      // When syncing from other windows, update the entire shared state
+      const newSharedState = action.payload.sharedState;
+      state.selectedRegion = newSharedState.selectedRegion;
+      state.selectedDispatchCenter = newSharedState.selectedDispatchCenter;
     });
   },
 });

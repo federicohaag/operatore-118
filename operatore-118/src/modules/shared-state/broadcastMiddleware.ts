@@ -1,7 +1,8 @@
-import type { Middleware, Action, Dispatch, UnknownAction, MiddlewareAPI } from 'redux';
+import type { Middleware, Action } from 'redux';
 import { createAction } from '@reduxjs/toolkit';
 import { broadcastService } from './broadcastService';
 import type { SharedStateSlice } from './sharedStateSlice';
+import { syncStateFromOtherWindow } from './sharedStateSlice';
 import { STORAGE_STATE_KEY, SYNC_STATE_FROM_OTHER_WINDOW, INIT_STATE_FROM_STORAGE } from './constants';
 
 // Custom action type for actions that should be broadcast
@@ -9,8 +10,6 @@ interface BroadcastAction extends Action {
   broadcast?: boolean;
   payload?: any;
 }
-
-type AppMiddleware = Middleware<{}, any, Dispatch<UnknownAction>>;
 
 export const initStateFromStorage = createAction<SharedStateSlice>(INIT_STATE_FROM_STORAGE);
 
@@ -33,17 +32,17 @@ export const loadInitialState = (store: any) => {
 export const createBroadcastMiddleware = (): Middleware => {
   let currentState: any = null;
 
-  return ({ getState, dispatch }) => {
+  return (store) => {
     // Set up broadcast listener when middleware is created
     broadcastService.addListener((message) => {
       if (message.type === SYNC_STATE_FROM_OTHER_WINDOW) {
-        dispatch(message);
+        store.dispatch(syncStateFromOtherWindow(message.payload));
       }
     });
 
-    return (next: Dispatch) => (action: unknown) => {
-      const result = next(action as Action);
-      const newState = getState();
+    return (next) => (action) => {
+      const result = next(action);
+      const newState = store.getState();
 
       // Only proceed if state has actually changed
       if (JSON.stringify(newState) !== JSON.stringify(currentState)) {
@@ -61,7 +60,7 @@ export const createBroadcastMiddleware = (): Middleware => {
             if (typedAction.broadcast) {
               broadcastService.broadcast({
                 type: SYNC_STATE_FROM_OTHER_WINDOW,
-                payload: newState
+                payload: { sharedState: newState.sharedState }
               });
               console.log('State broadcast for action:', typedAction.type);
             }
