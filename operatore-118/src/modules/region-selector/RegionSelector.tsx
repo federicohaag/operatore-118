@@ -91,7 +91,7 @@ export default function RegionSelector() {
                 <div ref={overlayRef}>
                     <DispatchCenterSelectionOverlay
                         region={currentRegionObj}
-                        onClose={() => dispatch(setSelectedRegion(null))}
+                        onClose={() => dispatch(setSelectedRegion(null, true))}
                         onDispatchCenterSelect={handleDispatchCenterSelect}
                     />
                 </div>
