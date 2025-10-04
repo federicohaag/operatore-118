@@ -1,20 +1,154 @@
 .container {
     padding: 20px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
     min-height: 100vh;
-    font-size: 24px;
     color: black;
 }
 
-ul {
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
+.tableContainer {
+    max-width: 1200px;
+    margin: 0 auto;
+    overflow-x: auto;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
 }
 
-li {
-    margin: 4px 0;
-    color: black;
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;
+}
+
+.table thead {
+    background-color: #f8f9fa;
+}
+
+.table th {
+    padding: 12px 8px;
+    text-align: left;
+    font-weight: 600;
+    color: #495057;
+    border-bottom: 2px solid #dee2e6;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.table td {
+    padding: 8px;
+    border-bottom: 1px solid #dee2e6;
+    vertical-align: middle;
+}
+
+.table tbody tr:hover {
+    background-color: #f8f9fa;
+}
+
+.hospitalName {
+    font-weight: 500;
+    color: #212529;
+    min-width: 150px;
+}
+
+.badge {
+    display: inline-block;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-size: 11px;
+    font-weight: 600;
+    text-align: center;
+    min-width: 35px;
+    color: white;
+}
+
+/* Classification badges */
+.ps {
+    background-color: #28a745;
+}
+
+.dea {
+    background-color: #fd7e14;
+}
+
+.eas {
+    background-color: #dc3545;
+}
+
+/* Trauma level badges */
+.trauma.cts {
+    background-color: #dc3545;
+}
+
+.trauma.ctz {
+    background-color: #fd7e14;
+}
+
+.trauma.pst {
+    background-color: #ffc107;
+    color: #212529;
+}
+
+.trauma.ott {
+    background-color: #28a745;
+}
+
+.trauma.noTrauma {
+    background-color: #6c757d;
+}
+
+.maxPatients {
+    text-align: center;
+    font-weight: 500;
+    color: #495057;
+}
+
+.specialties {
+    font-size: 11px;
+    max-width: 220px;
+    word-wrap: break-word;
+    padding: 4px 8px;
+}
+
+.specialtiesContainer {
+    line-height: 1.4;
+}
+
+.specialtyActive {
+    font-weight: bold;
+    color: #198754;
+}
+
+.specialtyInactive {
+    color: #adb5bd;
+    font-weight: normal;
+}
+
+.separator {
+    color: #6c757d;
+}
+
+.noData {
+    text-align: center;
+    padding: 40px;
+    color: #6c757d;
+    font-size: 16px;
+}
+
+@media (max-width: 768px) {
+    .container {
+        padding: 10px;
+    }
+    
+    .table {
+        font-size: 12px;
+    }
+    
+    .table th,
+    .table td {
+        padding: 6px 4px;
+    }
+    
+    .specialties {
+        display: none;
+    }
 }

@@ -12,7 +12,6 @@ createRoot(document.getElementById('root')!).render(
   <StrictMode>
     <Provider store={store}>
       <ModalContainer>
-        ciao
         <HospitalsView />
       </ModalContainer>
     </Provider>
