@@ -50,12 +50,12 @@ export const sharedStateSlice = createSlice({
 });
 
 // Create action creators that include broadcast flag
-export const setSelectedRegion = (payload: string | null, broadcast = false) => ({
+export const setSelectedRegion = (payload: string | null, broadcast = true) => ({
   ...sharedStateSlice.actions.setSelectedRegion(payload),
   broadcast
 });
 
-export const setSelectedDispatchCenter = (payload: string | null, broadcast = false) => ({
+export const setSelectedDispatchCenter = (payload: string | null, broadcast = true) => ({
   ...sharedStateSlice.actions.setSelectedDispatchCenter(payload),
   broadcast
 });

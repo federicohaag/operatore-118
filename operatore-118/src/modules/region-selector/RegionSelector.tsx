@@ -23,8 +23,8 @@ export default function RegionSelector() {
     useEffect(() => {
         function handleClickOutside(event: MouseEvent) {
             if (selectedRegion && overlayRef.current && !overlayRef.current.contains(event.target as Node)) {
-                dispatch(setSelectedRegion(null, true));
-                dispatch(setSelectedDispatchCenter(null, true));
+                dispatch(setSelectedRegion(null));
+                dispatch(setSelectedDispatchCenter(null));
             }
         }
 
@@ -36,7 +36,7 @@ export default function RegionSelector() {
 
     const handleRegionClick = (region: Region) => {
         if (region.status === RegionStatus.Available) {
-            dispatch(setSelectedRegion(region.id, true));
+            dispatch(setSelectedRegion(region.id));
         } else {
             alert(StatusMessages[region.status]);
         }
@@ -44,7 +44,7 @@ export default function RegionSelector() {
 
     const handleDispatchCenterSelect = (dispatchCenter: string) => {
         if (currentRegionObj) {
-            dispatch(setSelectedDispatchCenter(dispatchCenter, true));
+            dispatch(setSelectedDispatchCenter(dispatchCenter));
         }
     };
 
@@ -91,7 +91,7 @@ export default function RegionSelector() {
                 <div ref={overlayRef}>
                     <DispatchCenterSelectionOverlay
                         region={currentRegionObj}
-                        onClose={() => dispatch(setSelectedRegion(null, true))}
+                        onClose={() => dispatch(setSelectedRegion(null))}
                         onDispatchCenterSelect={handleDispatchCenterSelect}
                     />
                 </div>
