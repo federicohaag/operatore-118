@@ -1,8 +1,7 @@
 import RegionSelector from './modules/region-selector/RegionSelector'
 import ModalContainer from './modules/modal-container/ModalContainer';
 import Game from './modules/game/Game';
-import { useAppSelector } from './modules/shared-state/hooks';
-import { selectSelectedRegion, selectSelectedDispatchCenter } from './modules/shared-state/sharedStateSlice';
+import { useAppSelector, selectSelectedRegion, selectSelectedDispatchCenter } from './modules/shared-state';
 import './App.css'
 import HospitalsView from './modules/hospitals-view/HospitalsView';
 

@@ -3,9 +3,7 @@ import { useEffect, useRef } from 'react';
 import styles from './RegionSelector.module.css';
 import DispatchCenterSelectionOverlay from './DispatchCenterSelectionOverlay';
 import { RegionStatus, type Region } from '../../model/types';
-import { useAppDispatch, useAppSelector } from '../shared-state/hooks';
-import { selectSelectedRegion } from '../shared-state/sharedStateSlice';
-import { setSelectedRegion, setSelectedDispatchCenter } from '../shared-state/sharedStateSlice';
+import { useAppDispatch, useAppSelector, selectSelectedRegion, setSelectedRegion, setSelectedDispatchCenter } from '../shared-state';
 import { REGIONS } from '../../model/aggregates';
 
 const StatusMessages: Record<RegionStatus, string> = {

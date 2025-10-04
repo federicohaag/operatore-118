@@ -1,7 +1,6 @@
-import { useAppSelector } from '../shared-state/hooks';
+import { useAppSelector, selectSelectedRegion } from '../shared-state';
 import { REGIONS } from '../../model/aggregates';
 import styles from './HospitalsView.module.css';
-import { selectSelectedRegion } from '../shared-state/sharedStateSlice';
 
 export default function HospitalsView() {
     const selectedRegionId = useAppSelector(selectSelectedRegion);

@@ -303,20 +303,26 @@ dispatch(setSelectedRegion('calabria', false))
 ### Q: Is there a performance impact?
 **A**: Minimal. The system only broadcasts when state actually changes and only for actions marked with `broadcast: true`. State comparison uses JSON.stringify which is efficient for small state objects.
 
-### Q: Can I broadcast custom messages between windows?
-**A**: Yes, use the `broadcastService` directly:
+### Q: Should I always use barrel exports?
+**A**: Barrel exports are beneficial for:
+- **Modules with multiple files** (like shared-state)
+- **Stable APIs** that don't change often
+- **Reusable modules** used across the app
+- **Complex modules** where you want to hide internal structure
+
+Skip barrel exports for:
+- **Single-file modules**
+- **Rapidly changing APIs**
+- **Internal utilities** not used elsewhere
+
+### Q: How do I enforce barrel exports?
+**A**: The project includes ESLint rules that prevent direct imports from shared-state files:
 ```typescript
-import { broadcastService } from './broadcastService'
+// ✅ This works
+import { useAppSelector, setSelectedRegion } from '../shared-state'
 
-// Send custom message
-broadcastService.broadcast({ type: 'CUSTOM_MESSAGE', data: 'hello' })
-
-// Listen for custom messages
-broadcastService.addListener((message) => {
-  if (message.type === 'CUSTOM_MESSAGE') {
-    console.log(message.data)
-  }
-})
+// ❌ This will cause ESLint error
+import { useAppSelector } from '../shared-state/hooks'
 ```
 
 ## 🚨 Troubleshooting
@@ -344,13 +350,23 @@ broadcastService.addListener((message) => {
 
 ## 🎯 Best Practices
 
-1. **Default to Broadcasting**: Keep `broadcast: true` as default for user actions
-2. **Selective Non-Broadcasting**: Only disable broadcasting for internal/transient state
-3. **State Shape**: Keep shared state minimal and serializable
-4. **Error Handling**: Always wrap localStorage operations in try-catch
-5. **Testing**: Test cross-window functionality manually in development
-6. **Cleanup**: Properly clean up listeners when components unmount
-7. **Performance**: Avoid frequent state changes that trigger broadcasts
+1. **Use Barrel Exports**: Always import from the module index, never from internal files
+   ```typescript
+   // ✅ Correct - Use barrel export
+   import { useAppSelector, setSelectedRegion } from '../shared-state'
+   
+   // ❌ Wrong - Direct file imports
+   import { useAppSelector } from '../shared-state/hooks'
+   import { setSelectedRegion } from '../shared-state/sharedStateSlice'
+   ```
+
+2. **Default to Broadcasting**: Keep `broadcast: true` as default for user actions
+3. **Selective Non-Broadcasting**: Only disable broadcasting for internal/transient state
+4. **State Shape**: Keep shared state minimal and serializable
+5. **Error Handling**: Always wrap localStorage operations in try-catch
+6. **Testing**: Test cross-window functionality manually in development
+7. **Cleanup**: Properly clean up listeners when components unmount
+8. **Performance**: Avoid frequent state changes that trigger broadcasts
 
 ## 🔮 Future Enhancements
 
