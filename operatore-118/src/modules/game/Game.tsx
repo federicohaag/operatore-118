@@ -1,18 +1,19 @@
 import styles from './Game.module.css';
 import { useAppSelector, useAppDispatch } from '../shared-state/hooks';
+import { selectSelectedRegion, selectSelectedDispatchCenter } from '../shared-state/sharedStateSlice';
 import { REGIONS } from '../../model/aggregates';
 import { resetState } from '../shared-state/sharedStateSlice';
 
 export default function Game() {
     const dispatch = useAppDispatch();
-    const selectedRegionId = useAppSelector((state: { sharedState: { selectedRegion: string | null } }) => state.sharedState.selectedRegion);
-    const selectedDispatchCenterId = useAppSelector((state: { sharedState: { selectedDispatchCenter: string | null } }) => state.sharedState.selectedDispatchCenter);
+    const selectedRegionId = useAppSelector(selectSelectedRegion);
+    const selectedDispatchCenterId = useAppSelector(selectSelectedDispatchCenter);
 
     const selectedRegion = REGIONS.find(r => r.id === selectedRegionId);
     const selectedDispatchCenter = selectedRegion?.dispatchCenters?.find(dc => dc.id === selectedDispatchCenterId);
 
     const handleReset = () => {
-        dispatch(resetState());
+        dispatch(resetState()); // resetState already includes broadcast: true
     };
 
     return (

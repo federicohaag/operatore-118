@@ -5,21 +5,15 @@ export class BroadcastService {
   private storageKey: string;
   private listeners: Set<(message: any) => void>;
 
-  constructor(storageKey: string = 'operatore-118-state') {
+  constructor(storageKey: string) {
     this.storageKey = storageKey;
     this.listeners = new Set();
 
-    // Listen for storage events from other windows
-    window.addEventListener('storage', (event) => {
-      if (event.key === this.storageKey) {
-        try {
-          const message = JSON.parse(event.newValue || '');
-          this.listeners.forEach(listener => listener(message));
-        } catch (error) {
-          console.error('Failed to parse message from localStorage:', error);
-        }
-      }
-    });
+    // Listen for broadcast channel messages
+    const channel = new BroadcastChannel('operatore-118-state-sync');
+    channel.onmessage = (event) => {
+      this.listeners.forEach(listener => listener(event.data));
+    };
   }
 
   /**
@@ -27,7 +21,9 @@ export class BroadcastService {
    */
   broadcast(message: any): void {
     try {
-      localStorage.setItem(this.storageKey, JSON.stringify(message));
+      const broadcastChannel = new BroadcastChannel('operatore-118-state-sync');
+      broadcastChannel.postMessage(message);
+      broadcastChannel.close();
     } catch (error) {
       console.error('Failed to broadcast message:', error);
     }
@@ -61,4 +57,6 @@ export class BroadcastService {
   };
 }
 
-export const broadcastService = new BroadcastService();
+import { STORAGE_STATE_KEY } from './constants';
+
+export const broadcastService = new BroadcastService(STORAGE_STATE_KEY);
