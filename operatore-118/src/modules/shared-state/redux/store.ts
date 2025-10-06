@@ -10,7 +10,7 @@ import { localizationReducer } from './slices/localization';
  * that returns the current state value.
  * 
  * This store is configured with:
- * - sharedStateReducer: Manages the shared state across the application
+ * - localizationReducer: Manages the application's localization state (regional settings)
  * - broadcastMiddleware: Handles state synchronization across browser tabs/windows
  * 
  * @see https://redux.js.org/tutorials/fundamentals/part-2-concepts-data-flow#store
