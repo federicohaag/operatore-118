@@ -1,6 +1,6 @@
 import { configureStore } from '@reduxjs/toolkit';
-import { createBroadcastMiddleware } from './broadcastMiddleware';
-import { sharedStateReducer } from './sharedStateSlice';
+import { createBroadcastMiddleware } from '../broadcastMiddleware';
+import { localizationReducer } from './slices/localization';
 
 /**
  * Redux Store
@@ -17,7 +17,7 @@ import { sharedStateReducer } from './sharedStateSlice';
  */
 export const store = configureStore({
   reducer: {
-    sharedState: sharedStateReducer,
+    localization: localizationReducer,
   },
   middleware: (getDefaultMiddleware) => 
     getDefaultMiddleware().concat(createBroadcastMiddleware())

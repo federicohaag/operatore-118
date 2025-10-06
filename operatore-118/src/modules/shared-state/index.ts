@@ -2,8 +2,8 @@
 // Only import from this file, not from internal files directly
 
 // Store and types
-export { store } from './store';
-export type { RootState, AppDispatch } from './store';
+export { store } from './redux/store';
+export type { RootState, AppDispatch } from './redux/store';
 
 // Hooks
 export { useAppDispatch, useAppSelector } from './hooks';
@@ -15,7 +15,7 @@ export {
   resetState,
   selectRegion, 
   selectDispatchCenter 
-} from './sharedStateSlice';
+} from './redux/slices/localization';
 
 // Utilities (for advanced usage)
 export { loadInitialState } from './broadcastMiddleware';

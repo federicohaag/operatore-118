@@ -1,8 +1,8 @@
 import type { Middleware, Action } from 'redux';
 import { createAction } from '@reduxjs/toolkit';
 import { broadcastService } from './broadcastService';
-import type { SharedStateSlice } from './sharedStateSlice';
-import { syncStateFromOtherWindow } from './sharedStateSlice';
+import type { LocalizationSlice } from './redux/slices/localization';
+import { syncStateFromOtherWindow } from './redux/slices/localization';
 import { STORAGE_STATE_KEY, SYNC_STATE_FROM_OTHER_WINDOW, INIT_STATE_FROM_STORAGE } from './constants';
 
 // Custom action type for actions that should be broadcast
@@ -11,7 +11,7 @@ interface BroadcastAction extends Action {
   payload?: any;
 }
 
-export const initStateFromStorage = createAction<SharedStateSlice>(INIT_STATE_FROM_STORAGE);
+export const initStateFromStorage = createAction<LocalizationSlice>(INIT_STATE_FROM_STORAGE);
 
 // Function to load initial state after store creation
 export const loadInitialState = (store: any) => {

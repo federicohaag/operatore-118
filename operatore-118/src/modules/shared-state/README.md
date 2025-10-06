@@ -11,7 +11,7 @@ The Shared State module is a sophisticated Redux-based architecture that enables
 | File | Purpose | Key Responsibilities |
 |------|---------|---------------------|
 | `store.ts` | Redux Store Configuration | Central state management, middleware setup |
-| `sharedStateSlice.ts` | State Definition & Actions | Redux slice with broadcast-enabled actions |
+| `sharedStateSlice.ts` | State Definition & Actions | Redux slice with LocalizationSlice and broadcast-enabled actions |
 | `broadcastMiddleware.ts` | Cross-Window Sync Logic | Intercepts actions, handles localStorage & broadcasting |
 | `broadcastService.ts` | Communication Service | BroadcastChannel API wrapper for message passing |
 | `hooks.ts` | React Integration | Typed hooks for components |
@@ -48,7 +48,7 @@ The Shared State module is a sophisticated Redux-based architecture that enables
 ## 🎯 How It Works
 
 ### 1. State Management
-- **Redux Toolkit** manages application state with `SharedStateSlice`
+- **Redux Toolkit** manages application state with `LocalizationSlice`
 - Current shared state includes:
   - `selectedRegion: string | null`
   - `selectedDispatchCenter: string | null`
@@ -57,10 +57,10 @@ The Shared State module is a sophisticated Redux-based architecture that enables
 Actions are enhanced with a `broadcast` flag:
 ```typescript
 // Standard Redux action
-{ type: 'sharedState/setSelectedRegion', payload: 'calabria' }
+{ type: 'sharedState/setRegion', payload: 'calabria' }
 
 // Broadcast-enabled action
-{ type: 'sharedState/setSelectedRegion', payload: 'calabria', broadcast: true }
+{ type: 'sharedState/setRegion', payload: 'calabria', broadcast: true }
 ```
 
 ### 3. Cross-Window Communication Pipeline
@@ -68,7 +68,7 @@ Actions are enhanced with a `broadcast` flag:
 **Step 1: Action Dispatch**
 ```typescript
 // Component dispatches action
-dispatch(setSelectedRegion('calabria'))  // broadcast: true by default
+dispatch(setRegion('calabria'))  // broadcast: true by default
 ```
 
 **Step 2: Middleware Interception**
@@ -100,7 +100,7 @@ broadcastService.addListener((message) => {
 **Step 4: UI Re-rendering**
 ```typescript
 // Components using useAppSelector automatically re-render
-const selectedRegion = useAppSelector(selectSelectedRegion)
+const selectedRegion = useAppSelector(selectRegion)
 // UI updates across all windows ✨
 ```
 
@@ -144,11 +144,11 @@ const unsubscribe = broadcastService.addListener((message) => {
 **Enhanced Action Creators**:
 ```typescript
 // Standard Redux action creator
-sharedStateSlice.actions.setSelectedRegion(payload)
+sharedStateSlice.actions.setRegion(payload)
 
 // Broadcast-enhanced action creator
-export const setSelectedRegion = (payload: string | null, broadcast = true) => ({
-  ...sharedStateSlice.actions.setSelectedRegion(payload),
+export const setRegion = (payload: string | null, broadcast = true) => ({
+  ...sharedStateSlice.actions.setRegion(payload),
   broadcast  // Adds broadcast flag for middleware
 })
 ```
@@ -162,15 +162,15 @@ export const setSelectedRegion = (payload: string | null, broadcast = true) => (
 ### Basic Component Integration
 ```typescript
 import { useAppSelector, useAppDispatch } from '../shared-state/hooks'
-import { setSelectedRegion, selectSelectedRegion } from '../shared-state/sharedStateSlice'
+import { setRegion, selectRegion } from '../shared-state/sharedStateSlice'
 
 function RegionSelector() {
   const dispatch = useAppDispatch()
-  const selectedRegion = useAppSelector(selectSelectedRegion)
+  const selectedRegion = useAppSelector(selectRegion)
   
   const handleRegionChange = (regionId: string) => {
     // This will broadcast to all windows automatically
-    dispatch(setSelectedRegion(regionId))
+    dispatch(setRegion(regionId))
   }
   
   return (
@@ -185,21 +185,21 @@ function RegionSelector() {
 ### Local-Only Updates (Rare)
 ```typescript
 // Disable broadcasting for local-only changes
-dispatch(setSelectedRegion('calabria', false))  // broadcast: false
+dispatch(setRegion('calabria', false))  // broadcast: false
 ```
 
 ### Custom Hook with Shared State
 ```typescript
 function useRegionSelection() {
   const dispatch = useAppDispatch()
-  const selectedRegion = useAppSelector(selectSelectedRegion)
+  const selectedRegion = useAppSelector(selectRegion)
   
   const selectRegion = (regionId: string) => {
-    dispatch(setSelectedRegion(regionId))  // Broadcasts automatically
+    dispatch(setRegion(regionId))  // Broadcasts automatically
   }
   
   const clearSelection = () => {
-    dispatch(setSelectedRegion(null))  // Also broadcasts
+    dispatch(setRegion(null))  // Also broadcasts
   }
   
   return { selectedRegion, selectRegion, clearSelection }
@@ -237,9 +237,9 @@ createRoot(document.getElementById('root')!).render(
 1. **Update Interface**:
 ```typescript
 // sharedStateSlice.ts
-export interface SharedStateSlice {
-  selectedRegion: string | null
-  selectedDispatchCenter: string | null
+export interface LocalizationSlice {
+  region: string | null
+  dispatchCenter: string | null
   newField: string | null  // Add new field
 }
 ```
@@ -270,8 +270,8 @@ export const selectNewField = (state: RootState) => state.sharedState.newField
 ```typescript
 builder.addCase(syncStateFromOtherWindow, (state, action) => {
   const newSharedState = action.payload.sharedState
-  state.selectedRegion = newSharedState.selectedRegion
-  state.selectedDispatchCenter = newSharedState.selectedDispatchCenter
+  state.region = newSharedState.region
+  state.dispatchCenter = newSharedState.dispatchCenter
   state.newField = newSharedState.newField  // Add new field
 })
 ```
@@ -287,7 +287,7 @@ builder.addCase(syncStateFromOtherWindow, (state, action) => {
 ### Q: Can I disable broadcasting for specific actions?
 **A**: Yes, set `broadcast: false` when dispatching:
 ```typescript
-dispatch(setSelectedRegion('calabria', false))
+dispatch(setRegion('calabria', false))
 ```
 
 ### Q: How do I debug cross-window communication issues?
@@ -319,9 +319,7 @@ Skip barrel exports for:
 **A**: The project includes ESLint rules that prevent direct imports from shared-state files:
 ```typescript
 // ✅ This works
-import { useAppSelector, setSelectedRegion } from '../shared-state'
-
-// ❌ This will cause ESLint error
+   import { useAppSelector, setRegion } from '../shared-state'// ❌ This will cause ESLint error
 import { useAppSelector } from '../shared-state/hooks'
 ```
 
@@ -353,11 +351,11 @@ import { useAppSelector } from '../shared-state/hooks'
 1. **Use Barrel Exports**: Always import from the module index, never from internal files
    ```typescript
    // ✅ Correct - Use barrel export
-   import { useAppSelector, setSelectedRegion } from '../shared-state'
+   import { useAppSelector, setRegion } from '../shared-state'
    
    // ❌ Wrong - Direct file imports
    import { useAppSelector } from '../shared-state/hooks'
-   import { setSelectedRegion } from '../shared-state/sharedStateSlice'
+   import { setRegion } from '../shared-state/sharedStateSlice'
    ```
 
 2. **Default to Broadcasting**: Keep `broadcast: true` as default for user actions
