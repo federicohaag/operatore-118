@@ -1,6 +1,6 @@
 import { configureStore } from '@reduxjs/toolkit';
 import { createBroadcastMiddleware } from './broadcastMiddleware';
-import sharedStateReducer from './sharedStateSlice';
+import { sharedStateReducer } from './sharedStateSlice';
 
 /**
  * Redux Store

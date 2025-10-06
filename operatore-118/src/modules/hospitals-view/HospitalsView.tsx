@@ -1,4 +1,4 @@
-import { useAppSelector, selectSelectedRegion } from '../shared-state';
+import { useAppSelector, selectRegion } from '../shared-state';
 import { REGIONS } from '../../model/aggregates';
 import { HospitalClassification, HospitalTraumaLevel } from '../../model/types';
 import { useState, useMemo, useEffect, useRef } from 'react';
@@ -69,7 +69,7 @@ function SpecialtiesDisplay({ hospitalSpecialties }: { hospitalSpecialties: stri
 }
 
 export default function HospitalsView() {
-    const selectedRegionId = useAppSelector(selectSelectedRegion);
+    const selectedRegionId = useAppSelector(selectRegion);
     const selectedRegion = REGIONS.find(r => r.id === selectedRegionId);
     
     // Filter states

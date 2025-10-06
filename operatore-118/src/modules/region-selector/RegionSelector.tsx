@@ -3,7 +3,7 @@ import { useEffect, useRef } from 'react';
 import styles from './RegionSelector.module.css';
 import DispatchCenterSelectionOverlay from './DispatchCenterSelectionOverlay';
 import { RegionStatus, type Region } from '../../model/types';
-import { useAppDispatch, useAppSelector, selectSelectedRegion, setSelectedRegion, setSelectedDispatchCenter } from '../shared-state';
+import { useAppDispatch, useAppSelector, selectRegion, setRegion, setDispatchCenter } from '../shared-state';
 import { REGIONS } from '../../model/aggregates';
 
 const StatusMessages: Record<RegionStatus, string> = {
@@ -14,15 +14,15 @@ const StatusMessages: Record<RegionStatus, string> = {
 
 export default function RegionSelector() {
     const dispatch = useAppDispatch();
-    const selectedRegion = useAppSelector(selectSelectedRegion);
+    const selectedRegion = useAppSelector(selectRegion);
     const overlayRef = useRef<HTMLDivElement>(null);
     const currentRegionObj = REGIONS.find(r => r.id === selectedRegion) || null;
 
     useEffect(() => {
         function handleClickOutside(event: MouseEvent) {
             if (selectedRegion && overlayRef.current && !overlayRef.current.contains(event.target as Node)) {
-                dispatch(setSelectedRegion(null));
-                dispatch(setSelectedDispatchCenter(null));
+                dispatch(setRegion(null));
+                dispatch(setDispatchCenter(null));
             }
         }
 
@@ -34,7 +34,7 @@ export default function RegionSelector() {
 
     const handleRegionClick = (region: Region) => {
         if (region.status === RegionStatus.Available) {
-            dispatch(setSelectedRegion(region.id));
+            dispatch(setRegion(region.id));
         } else {
             alert(StatusMessages[region.status]);
         }
@@ -42,7 +42,7 @@ export default function RegionSelector() {
 
     const handleDispatchCenterSelect = (dispatchCenter: string) => {
         if (currentRegionObj) {
-            dispatch(setSelectedDispatchCenter(dispatchCenter));
+            dispatch(setDispatchCenter(dispatchCenter));
         }
     };
 
@@ -89,7 +89,7 @@ export default function RegionSelector() {
                 <div ref={overlayRef}>
                     <DispatchCenterSelectionOverlay
                         region={currentRegionObj}
-                        onClose={() => dispatch(setSelectedRegion(null))}
+                        onClose={() => dispatch(setRegion(null))}
                         onDispatchCenterSelect={handleDispatchCenterSelect}
                     />
                 </div>

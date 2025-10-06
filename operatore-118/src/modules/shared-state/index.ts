@@ -10,11 +10,11 @@ export { useAppDispatch, useAppSelector } from './hooks';
 
 // Actions and selectors
 export { 
-  setSelectedRegion, 
-  setSelectedDispatchCenter, 
+  setRegion, 
+  setDispatchCenter, 
   resetState,
-  selectSelectedRegion, 
-  selectSelectedDispatchCenter 
+  selectRegion, 
+  selectDispatchCenter 
 } from './sharedStateSlice';
 
 // Utilities (for advanced usage)

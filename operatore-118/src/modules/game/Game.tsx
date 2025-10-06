@@ -1,11 +1,11 @@
 import styles from './Game.module.css';
-import { useAppSelector, useAppDispatch, selectSelectedRegion, selectSelectedDispatchCenter, resetState } from '../shared-state';
+import { useAppSelector, useAppDispatch, selectRegion, selectDispatchCenter, resetState } from '../shared-state';
 import { REGIONS } from '../../model/aggregates';
 
 export default function Game() {
     const dispatch = useAppDispatch();
-    const selectedRegionId = useAppSelector(selectSelectedRegion);
-    const selectedDispatchCenterId = useAppSelector(selectSelectedDispatchCenter);
+    const selectedRegionId = useAppSelector(selectRegion);
+    const selectedDispatchCenterId = useAppSelector(selectDispatchCenter);
 
     const selectedRegion = REGIONS.find(r => r.id === selectedRegionId);
     const selectedDispatchCenter = selectedRegion?.dispatchCenters?.find(dc => dc.id === selectedDispatchCenterId);

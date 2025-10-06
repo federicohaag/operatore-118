@@ -1,17 +1,17 @@
 import RegionSelector from './modules/region-selector/RegionSelector'
 import ModalContainer from './modules/modal-container/ModalContainer';
 import Game from './modules/game/Game';
-import { useAppSelector, selectSelectedRegion, selectSelectedDispatchCenter } from './modules/shared-state';
+import { useAppSelector, selectRegion, selectDispatchCenter } from './modules/shared-state';
 import './App.css'
 
 function App() {
-  const selectedRegion = useAppSelector(selectSelectedRegion);
-  const selectedDispatchCenter = useAppSelector(selectSelectedDispatchCenter);
+  const region = useAppSelector(selectRegion);
+  const dispatchCenter = useAppSelector(selectDispatchCenter);
 
   return (
     <>
       <ModalContainer>
-        {!selectedRegion || !selectedDispatchCenter ? (
+        {!region || !dispatchCenter ? (
           <RegionSelector />
         ) : (
           <Game />

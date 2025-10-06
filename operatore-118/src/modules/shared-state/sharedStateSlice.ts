@@ -8,14 +8,14 @@ export const syncStateFromOtherWindow = createAction<{ sharedState: SharedStateS
 
 // Define the state type for this slice
 export interface SharedStateSlice {
-  selectedRegion: string | null;
-  selectedDispatchCenter: string | null;
+  region: string | null;
+  dispatchCenter: string | null;
   // Add more shared state properties as needed
 }
 
 const initialState: SharedStateSlice = {
-  selectedRegion: null,
-  selectedDispatchCenter: null,
+  region: null,
+  dispatchCenter: null,
 };
 
 // Create the slice
@@ -23,40 +23,40 @@ export const sharedStateSlice = createSlice({
   name: 'sharedState',
   initialState,
   reducers: {
-    setSelectedRegion: (state: SharedStateSlice, action: PayloadAction<string | null>) => {
-      state.selectedRegion = action.payload;
+    setRegion: (state: SharedStateSlice, action: PayloadAction<string | null>) => {
+      state.region = action.payload;
     },
-    setSelectedDispatchCenter: (state: SharedStateSlice, action: PayloadAction<string | null>) => {
-      state.selectedDispatchCenter = action.payload;
+    setDispatchCenter: (state: SharedStateSlice, action: PayloadAction<string | null>) => {
+      state.dispatchCenter = action.payload;
     },
     resetState: (state) => {
-      state.selectedRegion = null;
-      state.selectedDispatchCenter = null;
+      state.region = null;
+      state.dispatchCenter = null;
     },
   },
   extraReducers: (builder) => {
     builder.addCase(initStateFromStorage, (state, action: PayloadAction<SharedStateSlice>) => {
       // When loading from storage, replace the entire state
-      state.selectedRegion = action.payload.selectedRegion;
-      state.selectedDispatchCenter = action.payload.selectedDispatchCenter;
+      state.region = action.payload.region;
+      state.dispatchCenter = action.payload.dispatchCenter;
     });
     builder.addCase(syncStateFromOtherWindow, (state, action) => {
       // When syncing from other windows, update the entire shared state
       const newSharedState = action.payload.sharedState;
-      state.selectedRegion = newSharedState.selectedRegion;
-      state.selectedDispatchCenter = newSharedState.selectedDispatchCenter;
+      state.region = newSharedState.region;
+      state.dispatchCenter = newSharedState.dispatchCenter;
     });
   },
 });
 
 // Create action creators that include broadcast flag
-export const setSelectedRegion = (payload: string | null, broadcast = true) => ({
-  ...sharedStateSlice.actions.setSelectedRegion(payload),
+export const setRegion = (payload: string | null, broadcast = true) => ({
+  ...sharedStateSlice.actions.setRegion(payload),
   broadcast
 });
 
-export const setSelectedDispatchCenter = (payload: string | null, broadcast = true) => ({
-  ...sharedStateSlice.actions.setSelectedDispatchCenter(payload),
+export const setDispatchCenter = (payload: string | null, broadcast = true) => ({
+  ...sharedStateSlice.actions.setDispatchCenter(payload),
   broadcast
 });
 
@@ -66,8 +66,8 @@ export const resetState = () => ({
 });
 
 // Export selectors
-export const selectSelectedRegion = (state: RootState) => state.sharedState.selectedRegion;
-export const selectSelectedDispatchCenter = (state: RootState) => state.sharedState.selectedDispatchCenter;
+export const selectRegion = (state: RootState) => state.sharedState.region;
+export const selectDispatchCenter = (state: RootState) => state.sharedState.dispatchCenter;
 
-// Export reducer
-export default sharedStateSlice.reducer;
+// Export reducer with explicit name
+export const sharedStateReducer = sharedStateSlice.reducer;
