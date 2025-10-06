@@ -1,7 +1,7 @@
-import RegionSelector from './modules/region-selector/RegionSelector'
-import ModalContainer from './modules/modal-container/ModalContainer';
-import Game from './modules/game/Game';
-import { useAppSelector, selectRegion, selectDispatchCenter } from './modules/shared-state';
+import RegionSelector from './components/region-selector/RegionSelector'
+import ModalContainer from './components/modal-container/ModalContainer';
+import Game from './components/game/Game';
+import { useAppSelector, selectRegion, selectDispatchCenter } from './components/shared-state';
 import './App.css'
 
 function App() {
