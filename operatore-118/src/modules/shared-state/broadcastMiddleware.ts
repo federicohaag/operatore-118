@@ -31,8 +31,15 @@ export const loadInitialState = (store: any) => {
 // Create the broadcast middleware
 export const createBroadcastMiddleware = (): Middleware => {
   let currentState: any = null;
+  let isInitialized = false;
 
   return (store) => {
+    // Auto-load initial state when middleware is first created
+    if (!isInitialized) {
+      loadInitialState(store);
+      isInitialized = true;
+    }
+
     // Set up broadcast listener when middleware is created
     broadcastService.addListener((message) => {
       if (message.type === SYNC_STATE_FROM_OTHER_WINDOW) {
