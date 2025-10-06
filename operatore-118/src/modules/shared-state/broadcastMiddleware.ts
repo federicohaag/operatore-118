@@ -2,7 +2,6 @@ import type { Middleware, Action } from 'redux';
 import { createAction } from '@reduxjs/toolkit';
 import { broadcastService } from './broadcastService';
 import type { LocalizationSlice } from './redux/slices/localization';
-import { syncStateFromOtherWindow } from './redux/slices/localization';
 import { STORAGE_STATE_KEY, SYNC_STATE_FROM_OTHER_WINDOW, INIT_STATE_FROM_STORAGE } from './constants';
 
 // Custom action type for actions that should be broadcast
@@ -11,7 +10,9 @@ interface BroadcastAction extends Action {
   payload?: any;
 }
 
+// Actions for state synchronization
 export const initStateFromStorage = createAction<LocalizationSlice>(INIT_STATE_FROM_STORAGE);
+export const syncStateFromOtherWindow = createAction<{ localization: LocalizationSlice }>(SYNC_STATE_FROM_OTHER_WINDOW);
 
 // Function to load initial state after store creation
 export const loadInitialState = (store: any) => {
@@ -35,11 +36,11 @@ export const loadInitialState = (store: any) => {
       const parsedState = JSON.parse(savedState);
       console.log('📋 Parsed state:', parsedState);
       
-      if (parsedState.sharedState) {
-        console.log('✅ Dispatching initStateFromStorage with:', parsedState.sharedState);
-        store.dispatch(initStateFromStorage(parsedState.sharedState));
+      if (parsedState.localization) {
+        console.log('✅ Dispatching initStateFromStorage with:', parsedState.localization);
+        store.dispatch(initStateFromStorage(parsedState.localization));
       } else {
-        console.log('❌ No sharedState property found in saved state');
+        console.log('❌ No localization property found in saved state');
       }
     } else {
       console.log('❌ No saved state found in localStorage');
@@ -103,7 +104,7 @@ export const createBroadcastMiddleware = (): Middleware => {
             if (typedAction.broadcast) {
               broadcastService.broadcast({
                 type: SYNC_STATE_FROM_OTHER_WINDOW,
-                payload: { sharedState: newState.sharedState }
+                payload: { localization: newState.localization }
               });
               console.log('State broadcast for action:', typedAction.type);
             }

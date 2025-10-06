@@ -1,16 +1,10 @@
-import { createSlice, type PayloadAction, createAction } from '@reduxjs/toolkit';
+import { createSlice, type PayloadAction } from '@reduxjs/toolkit';
 import type { RootState } from '../store';
-import { initStateFromStorage } from '../../broadcastMiddleware';
-import { SYNC_STATE_FROM_OTHER_WINDOW } from '../../constants';
+import { initStateFromStorage, syncStateFromOtherWindow } from '../../broadcastMiddleware';
 
-// Create action for syncing state from other windows  
-export const syncStateFromOtherWindow = createAction<{ sharedState: LocalizationSlice }>(SYNC_STATE_FROM_OTHER_WINDOW);
-
-// Define the localization state type for this slice
 export interface LocalizationSlice {
   region: string | null;
   dispatchCenter: string | null;
-  // Add more localization properties as needed
 }
 
 const initialState: LocalizationSlice = {
@@ -18,9 +12,8 @@ const initialState: LocalizationSlice = {
   dispatchCenter: null,
 };
 
-// Create the slice
 export const localizationSlice = createSlice({
-  name: 'sharedState',
+  name: 'localization',
   initialState,
   reducers: {
     setRegion: (state: LocalizationSlice, action: PayloadAction<string | null>) => {
@@ -44,9 +37,9 @@ export const localizationSlice = createSlice({
     });
     builder.addCase(syncStateFromOtherWindow, (state, action) => {
       // When syncing from other windows, update the entire shared state
-      const newSharedState = action.payload.sharedState;
-      state.region = newSharedState.region;
-      state.dispatchCenter = newSharedState.dispatchCenter;
+      const newLocalization = action.payload.localization;
+      state.region = newLocalization.region;
+      state.dispatchCenter = newLocalization.dispatchCenter;
     });
   },
 });

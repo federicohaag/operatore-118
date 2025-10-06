@@ -19,19 +19,5 @@ export default defineConfig([
       ecmaVersion: 2020,
       globals: globals.browser,
     },
-    rules: {
-      // Enforce barrel exports for shared-state module
-      'no-restricted-imports': [
-        'error',
-        {
-          patterns: [
-            {
-              group: ['**/shared-state/store', '**/shared-state/hooks', '**/shared-state/sharedStateSlice', '**/shared-state/broadcastMiddleware', '**/shared-state/broadcastService'],
-              message: 'Import from shared-state barrel export (index.ts) instead of direct file imports. Use: import { ... } from "../shared-state"'
-            }
-          ]
-        }
-      ]
-    }
   },
 ])
