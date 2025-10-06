@@ -6,7 +6,7 @@ export { store } from './redux/store';
 export type { RootState, AppDispatch } from './redux/store';
 
 // Hooks
-export { useAppDispatch, useAppSelector } from './hooks';
+export { useAppDispatch, useAppSelector } from './redux/hooks';
 
 // Actions and selectors
 export { 
