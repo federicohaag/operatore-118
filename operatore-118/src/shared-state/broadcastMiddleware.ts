@@ -1,7 +1,7 @@
 import type { Middleware, Action } from 'redux';
 import { createAction } from '@reduxjs/toolkit';
 import { broadcastService } from './broadcastService';
-import type { LocalizationSlice } from './redux/slices/localization';
+import type { LocalizationSlice } from '../global-state/slices/localization';
 import { STORAGE_STATE_KEY, SYNC_STATE_FROM_OTHER_WINDOW, INIT_STATE_FROM_STORAGE } from './constants';
 
 // Custom action type for actions that should be broadcast

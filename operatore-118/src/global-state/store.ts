@@ -1,5 +1,5 @@
 import { configureStore } from '@reduxjs/toolkit';
-import { createBroadcastMiddleware } from '../broadcastMiddleware';
+import { createBroadcastMiddleware } from '../shared-state/broadcastMiddleware';
 import { localizationReducer } from './slices/localization';
 
 /**

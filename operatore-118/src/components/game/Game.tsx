@@ -1,5 +1,5 @@
 import styles from './Game.module.css';
-import { useAppSelector, useAppDispatch, selectRegion, selectDispatchCenter, resetState } from '../shared-state';
+import { useAppSelector, useAppDispatch, selectRegion, selectDispatchCenter, resetState } from '../../shared-state';
 import { REGIONS } from '../../model/aggregates';
 
 export default function Game() {

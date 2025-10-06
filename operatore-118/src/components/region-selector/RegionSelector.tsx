@@ -3,7 +3,7 @@ import { useEffect, useRef } from 'react';
 import styles from './RegionSelector.module.css';
 import DispatchCenterSelectionOverlay from './DispatchCenterSelectionOverlay';
 import { RegionStatus, type Region } from '../../model/types';
-import { useAppDispatch, useAppSelector, selectRegion, setRegion, setDispatchCenter } from '../shared-state';
+import { useAppDispatch, useAppSelector, selectRegion, setRegion, setDispatchCenter } from '../../shared-state';
 import { REGIONS } from '../../model/aggregates';
 
 const StatusMessages: Record<RegionStatus, string> = {
