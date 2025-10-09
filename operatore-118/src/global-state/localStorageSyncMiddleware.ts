@@ -1,7 +1,7 @@
 import type { Middleware } from 'redux';
 import { createAction } from '@reduxjs/toolkit';
-import type { LocalizationSlice } from '../global-state/slices/localization';
-import { STORAGE_STATE_KEY, SYNC_STATE_FROM_OTHER_WINDOW, INIT_STATE_FROM_STORAGE } from './constants';
+import type { LocalizationSlice } from './slices/localization';
+import { STORAGE_STATE_KEY, SYNC_STATE_FROM_OTHER_WINDOW, INIT_STATE_FROM_STORAGE } from '../shared-state/constants';
 
 
 

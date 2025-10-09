@@ -1,5 +1,5 @@
 import { configureStore } from '@reduxjs/toolkit';
-import { createLocalStorageSyncMiddleware, loadInitialState } from '../shared-state/localStorageSyncMiddleware';
+import { createLocalStorageSyncMiddleware, loadInitialState } from './localStorageSyncMiddleware';
 import { localizationReducer } from './slices/localization';
 
 /**

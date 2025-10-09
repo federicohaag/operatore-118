@@ -18,4 +18,4 @@ export {
 } from '../global-state/slices/localization';
 
 // Utilities (for advanced usage)
-export { loadInitialState } from './localStorageSyncMiddleware';
+export { loadInitialState } from '../global-state/localStorageSyncMiddleware';
