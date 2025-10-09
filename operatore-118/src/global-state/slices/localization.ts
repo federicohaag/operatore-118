@@ -44,20 +44,14 @@ export const localizationSlice = createSlice({
   },
 });
 
-export const setRegion = (payload: string | null) => ({
-  ...localizationSlice.actions.setRegion(payload),
-  broadcast: false
-});
+export const setRegion = (payload: string | null) => 
+  localizationSlice.actions.setRegion(payload);
 
-export const setDispatchCenter = (payload: string | null) => ({
-  ...localizationSlice.actions.setDispatchCenter(payload),
-  broadcast: true
-});
+export const setDispatchCenter = (payload: string | null) => 
+  localizationSlice.actions.setDispatchCenter(payload);
 
-export const resetState = () => ({
-  ...localizationSlice.actions.resetState(),
-  broadcast: true
-});
+export const resetState = () => 
+  localizationSlice.actions.resetState();
 
 // Export selectors
 export const selectRegion = (state: RootState) => state.localization.region;

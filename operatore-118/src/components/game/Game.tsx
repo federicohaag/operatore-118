@@ -11,7 +11,7 @@ export default function Game() {
     const selectedDispatchCenter = selectedRegion?.dispatchCenters?.find(dc => dc.id === selectedDispatchCenterId);
 
     const handleReset = () => {
-        dispatch(resetState()); // resetState already includes broadcast: true
+        dispatch(resetState()); // resetState will sync across windows via localStorage
     };
 
     return (

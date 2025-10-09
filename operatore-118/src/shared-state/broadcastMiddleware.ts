@@ -1,12 +1,10 @@
 import type { Middleware, Action } from 'redux';
 import { createAction } from '@reduxjs/toolkit';
-import { broadcastService } from './broadcastService';
 import type { LocalizationSlice } from '../global-state/slices/localization';
 import { STORAGE_STATE_KEY, SYNC_STATE_FROM_OTHER_WINDOW, INIT_STATE_FROM_STORAGE } from './constants';
 
 // Custom action type for actions that should be broadcast
 interface BroadcastAction extends Action {
-  broadcast?: boolean;
   payload?: any;
 }
 
@@ -58,12 +56,23 @@ export const createBroadcastMiddleware = (): Middleware => {
   return (store) => {
     console.log('🏗️ Broadcast middleware setup started');
     
-    // Set up broadcast listener when middleware is created
-    broadcastService.addListener((message) => {
-      if (message.type === SYNC_STATE_FROM_OTHER_WINDOW) {
-        store.dispatch(syncStateFromOtherWindow(message.payload));
+    // Set up storage event listener for cross-window synchronization
+    const handleStorageChange = (event: StorageEvent) => {
+      if (event.key === STORAGE_STATE_KEY && event.newValue) {
+        try {
+          const newState = JSON.parse(event.newValue);
+          if (newState.localization) {
+            console.log('📡 Storage event detected, syncing state from other window:', newState.localization);
+            store.dispatch(syncStateFromOtherWindow({ localization: newState.localization }));
+          }
+        } catch (error) {
+          console.error('Failed to parse state from storage event:', error);
+        }
       }
-    });
+    };
+
+    // Add storage event listener
+    window.addEventListener('storage', handleStorageChange);
 
     // Try to initialize after a brief delay to ensure store is ready
     setTimeout(() => {
@@ -97,19 +106,11 @@ export const createBroadcastMiddleware = (): Middleware => {
         if (typedAction.type !== SYNC_STATE_FROM_OTHER_WINDOW && typedAction.type !== INIT_STATE_FROM_STORAGE) {
           try {
             // Always save state changes to localStorage
+            // This will automatically trigger storage events in other windows
             localStorage.setItem(STORAGE_STATE_KEY, JSON.stringify(newState));
-            console.log('State saved:', newState);
-
-            // Only broadcast if action is marked for broadcast
-            if (typedAction.broadcast) {
-              broadcastService.broadcast({
-                type: SYNC_STATE_FROM_OTHER_WINDOW,
-                payload: { localization: newState.localization }
-              });
-              console.log('State broadcast for action:', typedAction.type);
-            }
+            console.log('💾 State saved to localStorage:', newState);
           } catch (error) {
-            console.error('Failed to handle state update:', error);
+            console.error('Failed to save state to localStorage:', error);
           }
         }
       }
