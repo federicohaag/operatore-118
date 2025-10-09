@@ -11,15 +11,23 @@ export const syncStateFromOtherWindow = createAction<{ localization: Localizatio
 
 // Function to load initial state after store creation
 export const loadInitialState = (store: any) => {
+  console.log('🔄 Loading initial state from localStorage...');
   try {
     const savedState = localStorage.getItem(STORAGE_STATE_KEY);
+    console.log('📦 Raw localStorage data:', savedState);
     
     if (savedState) {
       const parsedState = JSON.parse(savedState);
+      console.log('📋 Parsed state:', parsedState);
       
       if (parsedState.localization) {
+        console.log('✅ Dispatching initStateFromStorage with:', parsedState.localization);
         store.dispatch(initStateFromStorage(parsedState.localization));
+      } else {
+        console.log('❌ No localization property found in saved state');
       }
+    } else {
+      console.log('❌ No saved state found in localStorage');
     }
   } catch (error) {
     console.error('Failed to load initial state from localStorage:', error);
@@ -47,9 +55,6 @@ export const createLocalStorageSyncMiddleware = (): Middleware => {
 
     // Add storage event listener
     window.addEventListener('storage', handleStorageChange);
-
-    // Initialize state from localStorage on first load
-    loadInitialState(store);
 
     return (next) => (action) => {
       const result = next(action);

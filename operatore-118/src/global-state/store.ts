@@ -1,5 +1,5 @@
 import { configureStore } from '@reduxjs/toolkit';
-import { createBroadcastMiddleware } from '../shared-state/broadcastMiddleware';
+import { createLocalStorageSyncMiddleware, loadInitialState } from '../shared-state/localStorageSyncMiddleware';
 import { localizationReducer } from './slices/localization';
 
 /**
@@ -11,7 +11,7 @@ import { localizationReducer } from './slices/localization';
  * 
  * This store is configured with:
  * - localizationReducer: Manages the application's localization state (regional settings)
- * - broadcastMiddleware: Handles state synchronization across browser tabs/windows
+ * - localizationSyncMiddleware: Handles state synchronization across browser tabs/windows via localStorage
  * 
  * @see https://redux.js.org/tutorials/fundamentals/part-2-concepts-data-flow#store
  */
@@ -20,8 +20,11 @@ export const store = configureStore({
     localization: localizationReducer,
   },
   middleware: (getDefaultMiddleware) => 
-    getDefaultMiddleware().concat(createBroadcastMiddleware())
+    getDefaultMiddleware().concat(createLocalStorageSyncMiddleware())
 });
+
+// Load initial state from localStorage after store creation
+loadInitialState(store);
 
 /**
  * RootState Type

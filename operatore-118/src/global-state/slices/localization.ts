@@ -1,6 +1,6 @@
 import { createSlice, type PayloadAction } from '@reduxjs/toolkit';
 import type { RootState } from '../store';
-import { initStateFromStorage, syncStateFromOtherWindow } from '../../shared-state/broadcastMiddleware';
+import { initStateFromStorage, syncStateFromOtherWindow } from '../../shared-state/localStorageSyncMiddleware';
 
 export interface LocalizationSlice {
   region: string | null;
@@ -30,10 +30,8 @@ export const localizationSlice = createSlice({
   extraReducers: (builder) => {
     builder.addCase(initStateFromStorage, (state, action: PayloadAction<LocalizationSlice>) => {
       // When loading from storage, replace the entire state
-      console.log('🔄 initStateFromStorage reducer called with:', action.payload);
       state.region = action.payload.region;
       state.dispatchCenter = action.payload.dispatchCenter;
-      console.log('✅ State updated to:', { region: state.region, dispatchCenter: state.dispatchCenter });
     });
     builder.addCase(syncStateFromOtherWindow, (state, action) => {
       // When syncing from other windows, update the entire shared state
