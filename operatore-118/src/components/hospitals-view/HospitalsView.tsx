@@ -1,4 +1,5 @@
-import { useAppSelector, selectRegion } from '../../shared-state';
+import { useAppSelector } from '../../global-state/hooks';
+import { selectRegion } from '../../global-state/slices/localization';
 import { REGIONS } from '../../model/aggregates';
 import { HospitalClassification, HospitalTraumaLevel } from '../../model/types';
 import { useState, useMemo, useEffect, useRef } from 'react';
