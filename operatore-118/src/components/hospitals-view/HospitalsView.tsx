@@ -270,11 +270,6 @@ export default function HospitalsView() {
                 </div>
             ) : (
                 <div className={styles.tableContainer}>
-                    {filteredHospitals.length > 0 && (
-                        <div className={styles.resultsCount}>
-                            Mostrando {filteredHospitals.length} di {selectedRegion.hospitals.length} ospedali
-                        </div>
-                    )}
                     <table className={styles.table}>
                         <thead>
                             <tr>

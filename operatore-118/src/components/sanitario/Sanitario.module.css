@@ -1,0 +1,25 @@
+.sanitario-container {
+    padding: 20px;
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+}
+
+.sanitario-container h3 {
+    margin: 0 0 15px 0;
+    color: #2c3e50;
+    font-size: 1.2em;
+}
+
+.sanitario-container p {
+    margin: 0 0 20px 0;
+    color: #7f8c8d;
+    line-height: 1.5;
+}
+
+.hospitals-section {
+    flex: 1;
+    overflow-y: auto;
+}
