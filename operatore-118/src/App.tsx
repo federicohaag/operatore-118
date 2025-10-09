@@ -11,13 +11,13 @@ function App() {
 
   return (
     <>
-      <ModalContainer>
         {!region || !dispatchCenter ? (
-          <RegionSelector />
+          <ModalContainer>
+            <RegionSelector />
+          </ModalContainer>
         ) : (
           <Game />
         )}
-      </ModalContainer>
     </>
   )
 }

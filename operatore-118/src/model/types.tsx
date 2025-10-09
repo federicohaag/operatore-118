@@ -17,6 +17,8 @@ export type Region = {
 export type DispatchCenter = {
     id: string;
     label: string;
+    latitude: number;
+    longitude: number;
 }
 
 export const HospitalClassification = {
