@@ -1,4 +1,4 @@
-import { type Hospital, HospitalClassification, HospitalSpecialty, HospitalTraumaLevel } from './types';
+import { type Hospital, HospitalClassification, HospitalSpecialty, HospitalTraumaLevel } from '../model/types';
 
 export const H_LECCO: Hospital = {
     id: 'H_LECCO',

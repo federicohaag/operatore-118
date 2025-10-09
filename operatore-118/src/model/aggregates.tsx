@@ -1,6 +1,6 @@
 import type { Hospital, Region } from "./types";
-import * as regions from './regions';
-import * as hospitals from './hospitals';
+import * as regions from '../data/regions';
+import * as hospitals from '../data/hospitals';
 
 export const REGIONS: Region[] = Object.values(regions);
 
