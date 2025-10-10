@@ -1,16 +1,36 @@
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useEffect } from 'react';
 import styles from './Game.module.css';
 import Map from '../map/Map';
 import CallTaker from '../callTaker/CallTaker';
 import Sanitario from '../sanitario/Sanitario';
 import Logistica from '../logistica/Logistica';
 import GameClock from '../gameClock/GameClock';
+import { VirtualClock } from '../../utils/VirtualClock';
+import { Scheduler } from '../../utils/Scheduler';
+import type { SimContext } from '../../utils/EventQueue';
 import { useAppSelector, useAppDispatch } from '../../global-state/hooks';
 import { selectRegion, selectDispatchCenter, resetState } from '../../global-state/slices/localization';
 import { REGIONS } from '../../model/aggregates';
 
 export default function Game() {
     const [activeTab, setActiveTab] = useState<'chiamate' | 'sanitario' | 'logistica'>('chiamate');
+    const [virtualClock] = useState(() => new VirtualClock(1.0, true, 0));
+    
+    // Create simulation context and scheduler
+    const [simContext] = useState<SimContext>(() => ({
+        now: () => virtualClock.now()
+        // Can be extended with domain state, rng, publish(), etc.
+    }));
+    
+    const [scheduler] = useState(() => new Scheduler(virtualClock, simContext));
+    
+    // Cleanup scheduler when component unmounts
+    useEffect(() => {
+        return () => {
+            scheduler.dispose();
+        };
+    }, [scheduler]);
+    
     const dispatch = useAppDispatch();
     const selectedRegionId = useAppSelector(selectRegion);
     const selectedDispatchCenterId = useAppSelector(selectDispatchCenter);
@@ -34,7 +54,7 @@ export default function Game() {
     return (
         <div className={styles['game-container']}>
             <div className={styles['clock-row']}>
-                <GameClock />
+                <GameClock clock={virtualClock} />
             </div>
             <div className={styles['content-row']}>
                 <div className={styles['left-column']}>
@@ -63,7 +83,7 @@ export default function Game() {
                 </div>
 
                 <div className={styles['tab-content']}>
-                    {activeTab === 'chiamate' && <CallTaker />}
+                    {activeTab === 'chiamate' && <CallTaker scheduler={scheduler} />}
                     {activeTab === 'sanitario' && <Sanitario />}
                     {activeTab === 'logistica' && <Logistica />}
                 </div>

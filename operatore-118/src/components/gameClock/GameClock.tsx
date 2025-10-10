@@ -2,14 +2,17 @@ import React, { useState, useEffect } from 'react';
 import { VirtualClock } from '../../utils/VirtualClock';
 import styles from './GameClock.module.css';
 
+interface GameClockProps {
+  clock: VirtualClock;
+}
+
 /**
  * GameClock - Simulation time display and controls for the game
  * 
- * Displays the current simulation time in HH:mm format with speed controls
+ * Displays the current simulation time in HH:mm:ss format with speed controls
  * integrated into the game interface.
  */
-export const GameClock: React.FC = () => {
-  const [clock] = useState(() => new VirtualClock(1.0, true, 0));
+export const GameClock: React.FC<GameClockProps> = ({ clock }) => {
   const [currentTime, setCurrentTime] = useState(0);
   const [speed, setSpeed] = useState(1.0);
   const [paused, setPaused] = useState(true);
