@@ -1,6 +1,7 @@
 import { configureStore } from '@reduxjs/toolkit';
 import { createLocalStorageSyncMiddleware, loadInitialState } from './localStorageSyncMiddleware';
 import { localizationReducer } from './slices/localization';
+import { callsReducer } from './slices/calls';
 
 /**
  * Redux Store
@@ -18,6 +19,7 @@ import { localizationReducer } from './slices/localization';
 export const store = configureStore({
   reducer: {
     localization: localizationReducer,
+    calls: callsReducer,
   },
   middleware: (getDefaultMiddleware) => 
     getDefaultMiddleware().concat(createLocalStorageSyncMiddleware())

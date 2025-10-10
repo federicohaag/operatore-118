@@ -11,8 +11,42 @@
     font-size: 1.2em;
 }
 
+.call-taker-container h4 {
+    margin: 15px 0 10px 0;
+    color: #34495e;
+    font-size: 1em;
+}
+
 .call-taker-container p {
     margin: 0;
     color: #7f8c8d;
     line-height: 1.5;
+}
+
+.stats {
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: rgba(52, 152, 219, 0.1);
+    border-radius: 5px;
+}
+
+.calls-list {
+    border: 1px solid #e1e8ed;
+    border-radius: 5px;
+    padding: 15px;
+    background-color: rgba(255, 255, 255, 0.05);
+}
+
+.calls-list ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 10px 0 0 0;
+}
+
+.calls-list li {
+    padding: 8px;
+    margin: 5px 0;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 3px;
+    color: #2c3e50;
 }

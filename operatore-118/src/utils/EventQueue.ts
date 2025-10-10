@@ -22,6 +22,7 @@ export type SimEvent<Payload = any> = {
  */
 export type SimContext = {
   now: () => number;               // usually clock.now()
+  dispatch?: (action: any) => void; // Redux dispatch function
   // extend with domain state, rng, publish(), etc.
 };
 

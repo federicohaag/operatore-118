@@ -1,4 +1,4 @@
-import { useState, useMemo, useEffect } from 'react';
+import { useState, useMemo, useEffect, useRef } from 'react';
 import styles from './Game.module.css';
 import Map from '../map/Map';
 import CallTaker from './callTaker/CallTaker';
@@ -7,6 +7,7 @@ import Logistica from './logistica/Logistica';
 import GameClock from './gameClock/GameClock';
 import { VirtualClock } from '../../utils/VirtualClock';
 import { Scheduler } from '../../utils/Scheduler';
+import { CallGenerator } from '../../utils/CallGenerator';
 import type { SimContext } from '../../utils/EventQueue';
 import { useAppSelector, useAppDispatch } from '../../global-state/hooks';
 import { selectRegion, selectDispatchCenter, resetState } from '../../global-state/slices/localization';
@@ -14,24 +15,63 @@ import { REGIONS } from '../../model/aggregates';
 
 export default function Game() {
     const [activeTab, setActiveTab] = useState<'chiamate' | 'sanitario' | 'logistica'>('chiamate');
-    const [virtualClock] = useState(() => new VirtualClock(1.0, true, 0));
-    
-    // Create simulation context and scheduler
-    const [simContext] = useState<SimContext>(() => ({
-        now: () => virtualClock.now()
-        // Can be extended with domain state, rng, publish(), etc.
-    }));
-    
-    const [scheduler] = useState(() => new Scheduler(virtualClock, simContext));
-    
-    // Cleanup scheduler when component unmounts
-    useEffect(() => {
-        return () => {
-            scheduler.dispose();
-        };
-    }, [scheduler]);
-    
     const dispatch = useAppDispatch();
+    
+    // Create simulation infrastructure once - initialize immediately
+    const infrastructureRef = useRef<{
+        virtualClock: VirtualClock;
+        simContext: SimContext;
+        scheduler: Scheduler;
+        callGenerator: CallGenerator;
+    } | undefined>(undefined);
+    
+    // Initialize infrastructure immediately if not exists
+    if (!infrastructureRef.current) {
+        const virtualClock = new VirtualClock(1.0, true, 0);
+        
+        const simContext: SimContext = {
+            now: () => virtualClock.now(),
+            dispatch: dispatch
+        };
+        
+        const scheduler = new Scheduler(virtualClock, simContext);
+        const callGenerator = new CallGenerator(scheduler);
+        
+        infrastructureRef.current = {
+            virtualClock,
+            simContext,
+            scheduler,
+            callGenerator
+        };
+    }
+    
+    // Update dispatch in simContext
+    infrastructureRef.current.simContext.dispatch = dispatch;
+    
+    const { virtualClock, scheduler, callGenerator } = infrastructureRef.current;
+    
+    // Manage call generator lifecycle
+    useEffect(() => {
+        // Only start if not already started
+        callGenerator.start();
+        
+        return () => {
+            // Stop but don't dispose scheduler - it will be reused
+            callGenerator.stop();
+        };
+    }, [callGenerator]);
+    
+    // Cleanup scheduler only on final component unmount
+    useEffect(() => {
+        const currentScheduler = scheduler;
+        return () => {
+            // Delay disposal to allow React Strict Mode to remount
+            setTimeout(() => {
+                currentScheduler.dispose();
+            }, 100);
+        };
+    }, []);
+    
     const selectedRegionId = useAppSelector(selectRegion);
     const selectedDispatchCenterId = useAppSelector(selectDispatchCenter);
 
