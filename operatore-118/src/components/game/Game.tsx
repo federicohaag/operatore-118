@@ -10,7 +10,9 @@ import { Scheduler } from '../../utils/Scheduler';
 import { CallGenerator } from '../../utils/CallGenerator';
 import type { SimContext } from '../../utils/EventQueue';
 import { useAppSelector, useAppDispatch } from '../../global-state/hooks';
-import { selectRegion, selectDispatchCenter, resetState } from '../../global-state/slices/localization';
+import { selectRegion, selectDispatchCenter, clearLocalization } from '../../global-state/slices/localization';
+import { clearCalls } from '../../global-state/slices/calls';
+import { STORAGE_STATE_KEY } from '../../global-state/constants';
 import { REGIONS } from '../../model/aggregates';
 
 export default function Game() {
@@ -90,7 +92,12 @@ export default function Game() {
     }, [selectedDispatchCenter?.latitude, selectedDispatchCenter?.longitude]);
 
     const handleReset = () => {
-        dispatch(resetState()); // resetState will sync across windows via localStorage
+        // Clear localStorage completely
+        localStorage.removeItem(STORAGE_STATE_KEY);
+        
+        // Reset Redux state to initial values
+        dispatch(clearLocalization());
+        dispatch(clearCalls());
     };
 
     return (

@@ -22,16 +22,16 @@ export const localizationSlice = createSlice({
     setDispatchCenter: (state: LocalizationSlice, action: PayloadAction<string | null>) => {
       state.dispatchCenter = action.payload;
     },
-    resetState: (state) => {
+    clearLocalization: (state) => {
       state.region = null;
       state.dispatchCenter = null;
     },
   },
   extraReducers: (builder) => {
-    builder.addCase(initStateFromStorage, (state, action: PayloadAction<LocalizationSlice>) => {
+    builder.addCase(initStateFromStorage, (state, action) => {
       // When loading from storage, replace the entire state
-      state.region = action.payload.region;
-      state.dispatchCenter = action.payload.dispatchCenter;
+      state.region = action.payload.localization.region;
+      state.dispatchCenter = action.payload.localization.dispatchCenter;
     });
     builder.addCase(syncStateFromOtherWindow, (state, action) => {
       // When syncing from other windows, update the entire shared state
@@ -42,14 +42,7 @@ export const localizationSlice = createSlice({
   },
 });
 
-export const setRegion = (payload: string | null) => 
-  localizationSlice.actions.setRegion(payload);
-
-export const setDispatchCenter = (payload: string | null) => 
-  localizationSlice.actions.setDispatchCenter(payload);
-
-export const resetState = () => 
-  localizationSlice.actions.resetState();
+export const { setRegion, setDispatchCenter, clearLocalization } = localizationSlice.actions;
 
 // Export selectors
 export const selectRegion = (state: RootState) => state.localization.region;

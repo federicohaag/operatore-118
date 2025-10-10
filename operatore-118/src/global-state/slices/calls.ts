@@ -1,5 +1,6 @@
 import { createSlice, type PayloadAction } from '@reduxjs/toolkit';
 import type { RootState } from '../store';
+import { initStateFromStorage, syncStateFromOtherWindow } from '../localStorageSyncMiddleware';
 
 export interface CallsSlice {
   calls: string[];
@@ -23,6 +24,16 @@ export const callsSlice = createSlice({
       state.calls = [];
     },
   },
+  extraReducers: (builder) => {
+    builder.addCase(initStateFromStorage, (state, action) => {
+      // When loading from storage, replace the calls state
+      state.calls = action.payload.calls.calls;
+    });
+    builder.addCase(syncStateFromOtherWindow, (state, action) => {
+      // When syncing from other windows, update the calls state
+      state.calls = action.payload.calls.calls;
+    });
+  },
 });
 
 export const { addCall, removeCall, clearCalls } = callsSlice.actions;
@@ -31,4 +42,3 @@ export const callsReducer = callsSlice.reducer;
 
 // Selectors
 export const selectCalls = (state: RootState) => state.calls.calls;
-export const selectCallsCount = (state: RootState) => state.calls.calls.length;

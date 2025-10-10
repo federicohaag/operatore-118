@@ -1,13 +1,17 @@
 import type { Middleware } from 'redux';
 import { createAction } from '@reduxjs/toolkit';
 import type { LocalizationSlice } from './slices/localization';
+import type { CallsSlice } from './slices/calls';
 import { STORAGE_STATE_KEY, SYNC_STATE_FROM_OTHER_WINDOW, INIT_STATE_FROM_STORAGE } from './constants';
 
-
+type SyncState = {
+  localization: LocalizationSlice;
+  calls: CallsSlice;
+};
 
 // Actions for state synchronization
-export const initStateFromStorage = createAction<LocalizationSlice>(INIT_STATE_FROM_STORAGE);
-export const syncStateFromOtherWindow = createAction<{ localization: LocalizationSlice }>(SYNC_STATE_FROM_OTHER_WINDOW);
+export const initStateFromStorage = createAction<SyncState>(INIT_STATE_FROM_STORAGE);
+export const syncStateFromOtherWindow = createAction<SyncState>(SYNC_STATE_FROM_OTHER_WINDOW);
 
 // Function to load initial state after store creation
 export const loadInitialState = (store: any) => {
@@ -20,11 +24,15 @@ export const loadInitialState = (store: any) => {
       const parsedState = JSON.parse(savedState);
       console.log('📋 Parsed state:', parsedState);
       
-      if (parsedState.localization) {
-        console.log('✅ Dispatching initStateFromStorage with:', parsedState.localization);
-        store.dispatch(initStateFromStorage(parsedState.localization));
+      if (parsedState.localization || parsedState.calls) {
+        const stateToLoad: SyncState = {
+          localization: parsedState.localization || { region: null, dispatchCenter: null },
+          calls: parsedState.calls || { calls: [] }
+        };
+        console.log('✅ Dispatching initStateFromStorage with:', stateToLoad);
+        store.dispatch(initStateFromStorage(stateToLoad));
       } else {
-        console.log('❌ No localization property found in saved state');
+        console.log('❌ No localization or calls property found in saved state');
       }
     } else {
       console.log('❌ No saved state found in localStorage');
@@ -44,8 +52,12 @@ export const createLocalStorageSyncMiddleware = (): Middleware => {
       if (event.key === STORAGE_STATE_KEY && event.newValue) {
         try {
           const newState = JSON.parse(event.newValue);
-          if (newState.localization) {
-            store.dispatch(syncStateFromOtherWindow({ localization: newState.localization }));
+          if (newState.localization || newState.calls) {
+            const syncState: SyncState = {
+              localization: newState.localization || { region: null, dispatchCenter: null },
+              calls: newState.calls || { calls: [] }
+            };
+            store.dispatch(syncStateFromOtherWindow(syncState));
           }
         } catch (error) {
           console.error('Failed to parse state from storage event:', error);
