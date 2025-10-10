@@ -3,6 +3,8 @@ import styles from './CallTaker.module.css';
 import { useAppSelector } from '../../../global-state/hooks';
 import { selectCalls } from '../../../global-state/slices/calls';
 import LiveCall from './LiveCall';
+import CallTakerForm from './CallTakerForm';
+import type { Event } from '../../../model/event';
 
 export default function CallTaker() {
     const calls = useAppSelector(selectCalls);
@@ -14,6 +16,11 @@ export default function CallTaker() {
 
     const handleCloseCall = () => {
         setSelectedCall(null);
+    };
+
+    const handleEventCreated = (event: Event) => {
+        console.log('New event created:', event);
+        // TODO: Handle the created event (e.g., add to state, send to server, etc.)
     };
 
     const currentCall = selectedCall ? calls.find(call => call.id === selectedCall) : null;
@@ -46,7 +53,12 @@ export default function CallTaker() {
                     )}
                 </div>
                 <div className={styles['right-column']}>
-                    {/* Empty column for future content */}
+                    {currentCall ? (
+                        <CallTakerForm onEventCreated={handleEventCreated} />
+                    ) : (
+                        <div className={styles['empty-state']}>
+                        </div>
+                    )}
                 </div>
             </div>
         </div>
