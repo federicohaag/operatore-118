@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import styles from './DispatchCenterSelectionOverlay.module.css';
-import type { Region } from '../../model/types';
+import type { Region } from '../../model/region';
 
 interface DispatchCenterSelectionOverlayProps {
     region: Region;

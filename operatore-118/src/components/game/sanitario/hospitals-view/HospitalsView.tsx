@@ -1,7 +1,7 @@
 import { useAppSelector } from '../../../../global-state/hooks';
 import { selectRegion } from '../../../../global-state/slices/localization';
 import { REGIONS } from '../../../../model/aggregates';
-import { HospitalClassification, HospitalTraumaLevel } from '../../../../model/types';
+import { HospitalClassification, HospitalTraumaLevel } from '../../../../model/region';
 import { useState, useMemo, useEffect, useRef } from 'react';
 import styles from './HospitalsView.module.css';
 

@@ -1,5 +1,5 @@
 
-import {type Region, RegionStatus} from '../model/types';
+import {type Region, RegionStatus} from '../model/region';
 import * as hospitals from './hospitals';
 // TODO: dispatch centers coordinates are random, should be put correctly
 export const ABRUZZO: Region = { 
