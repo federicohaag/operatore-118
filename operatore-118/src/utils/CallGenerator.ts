@@ -1,6 +1,8 @@
 import type { Scheduler } from './Scheduler';
 import { EventType } from './EventQueue';
 import { addCall } from '../global-state/slices/calls';
+import { CALL_TEMPLATES } from '../data/calls';
+import type { Call } from '../model/call';
 
 /**
  * CallGenerator - Generates calls at regular intervals
@@ -38,9 +40,9 @@ export class CallGenerator {
     try {
       const { cancel } = this.scheduler.scheduleIn(this.intervalMs, {
         type: EventType.CALL_RECEIVED,
-        payload: this.generateCallId(),
-        handler: (ctx) => {
-          this.handleCall(ctx);
+        payload: this.generateCall(),
+        handler: (ctx, event) => {
+          this.handleCall(ctx, event);
           this.scheduleNextCall();
         }
       });
@@ -54,11 +56,11 @@ export class CallGenerator {
     }
   }
 
-  private handleCall(ctx: any): void {
-    const callId = this.generateCallId();
-    console.log(`Generated call: ${callId}`);
+  private handleCall(ctx: any, event: any): void {
+    const call = event.payload;
+    console.log(`Generated call: ${call.id}`);
     if (ctx?.dispatch) {
-      ctx.dispatch(addCall(callId));
+      ctx.dispatch(addCall(call));
     } else {
       console.warn('CallGenerator: No dispatch function available in context');
     }
@@ -66,5 +68,38 @@ export class CallGenerator {
 
   private generateCallId(): string {
     return Math.random().toString(36).substring(2, 15);
+  }
+
+  private generateCall(): Call {
+    // Pick a random template
+    const template = CALL_TEMPLATES[Math.floor(Math.random() * CALL_TEMPLATES.length)];
+    
+    // Generate random case severity with weighted probabilities
+    const severities = ['stable', 'medium', 'critical'] as const;
+    const weights = [0.5, 0.3, 0.2]; // 50% stable, 30% medium, 20% critical
+    
+    let selectedSeverity: typeof severities[number] = 'stable';
+    const rand = Math.random();
+    let sum = 0;
+    for (let i = 0; i < weights.length; i++) {
+      sum += weights[i];
+      if (rand < sum) {
+        selectedSeverity = severities[i];
+        break;
+      }
+    }
+    
+    // Select appropriate feedback based on severity
+    const feedback = selectedSeverity === 'stable' 
+      ? template.stableCaseFeedback
+      : selectedSeverity === 'medium'
+      ? template.mediumCaseFeedback
+      : template.criticalCaseFeedback;
+    
+    return {
+      id: this.generateCallId(),
+      text: template.text,
+      feedback
+    };
   }
 }

@@ -1,13 +1,8 @@
 import styles from './CallTaker.module.css';
-import type { Scheduler } from '../../../utils/Scheduler';
 import { useAppSelector } from '../../../global-state/hooks';
 import { selectCalls } from '../../../global-state/slices/calls';
 
-interface CallTakerProps {
-    scheduler: Scheduler;
-}
-
-export default function CallTaker({ scheduler }: CallTakerProps) {
+export default function CallTaker() {
     const calls = useAppSelector(selectCalls);
 
     return (
@@ -18,7 +13,7 @@ export default function CallTaker({ scheduler }: CallTakerProps) {
                 ) : (
                     <ul>
                         {calls.map((call, index) => (
-                            <li key={index}>Call ID: {call}</li>
+                            <li key={index}>Call ID: {call.id}</li>
                         ))}
                     </ul>
                 )}

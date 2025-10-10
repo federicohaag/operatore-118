@@ -1,9 +1,10 @@
 import { createSlice, type PayloadAction } from '@reduxjs/toolkit';
 import type { RootState } from '../store';
 import { initStateFromStorage, syncStateFromOtherWindow } from '../localStorageSyncMiddleware';
+import type { Call } from '../../model/call';
 
 export interface CallsSlice {
-  calls: string[];
+  calls: Call[];
 }
 
 const initialState: CallsSlice = {
@@ -14,11 +15,11 @@ export const callsSlice = createSlice({
   name: 'calls',
   initialState,
   reducers: {
-    addCall: (state: CallsSlice, action: PayloadAction<string>) => {
+    addCall: (state: CallsSlice, action: PayloadAction<Call>) => {
       state.calls.push(action.payload);
     },
     removeCall: (state: CallsSlice, action: PayloadAction<string>) => {
-      state.calls = state.calls.filter(call => call !== action.payload);
+      state.calls = state.calls.filter(call => call.id !== action.payload);
     },
     clearCalls: (state) => {
       state.calls = [];
