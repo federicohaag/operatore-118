@@ -1,7 +1,7 @@
 import { useState, useMemo } from 'react';
 import styles from './Game.module.css';
 import Map from '../map/Map';
-import Chiamate from '../chiamate/Chiamate';
+import CallTaker from '../callTaker/CallTaker';
 import Sanitario from '../sanitario/Sanitario';
 import Logistica from '../logistica/Logistica';
 import { useAppSelector, useAppDispatch } from '../../global-state/hooks';
@@ -58,7 +58,7 @@ export default function Game() {
                 </div>
 
                 <div className={styles['tab-content']}>
-                    {activeTab === 'chiamate' && <Chiamate />}
+                    {activeTab === 'chiamate' && <CallTaker />}
                     {activeTab === 'sanitario' && <Sanitario />}
                     {activeTab === 'logistica' && <Logistica />}
                 </div>
