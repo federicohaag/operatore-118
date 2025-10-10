@@ -17,16 +17,12 @@ export default function Game() {
     const [activeTab, setActiveTab] = useState<'chiamate' | 'sanitario' | 'logistica'>('chiamate');
     const dispatch = useAppDispatch();
     
-    // Create simulation infrastructure once - initialize immediately
-    const infrastructureRef = useRef<{
-        virtualClock: VirtualClock;
-        simContext: SimContext;
-        scheduler: Scheduler;
-        callGenerator: CallGenerator;
-    } | undefined>(undefined);
+    // Track if component is truly mounted to prevent disposal during Strict Mode
+    const isMountedRef = useRef(false);
     
-    // Initialize infrastructure immediately if not exists
-    if (!infrastructureRef.current) {
+    // Create simulation infrastructure using useState for true stability
+    // useState initialization function only runs once, even in Strict Mode
+    const [infrastructure] = useState(() => {
         const virtualClock = new VirtualClock(1.0, true, 0);
         
         const simContext: SimContext = {
@@ -37,40 +33,46 @@ export default function Game() {
         const scheduler = new Scheduler(virtualClock, simContext);
         const callGenerator = new CallGenerator(scheduler);
         
-        infrastructureRef.current = {
+        return {
             virtualClock,
             simContext,
             scheduler,
             callGenerator
         };
-    }
+    });
     
-    // Update dispatch in simContext
-    infrastructureRef.current.simContext.dispatch = dispatch;
+    const { virtualClock, simContext, scheduler, callGenerator } = infrastructure;
     
-    const { virtualClock, scheduler, callGenerator } = infrastructureRef.current;
-    
-    // Manage call generator lifecycle
+    // Keep dispatch in simContext up to date
     useEffect(() => {
-        // Only start if not already started
+        simContext.dispatch = dispatch;
+    }, [dispatch, simContext]);
+    
+    // Manage simulation lifecycle
+    useEffect(() => {
+        isMountedRef.current = true;
+        
+        // Start call generator
         callGenerator.start();
         
+        // Cleanup function
         return () => {
-            // Stop but don't dispose scheduler - it will be reused
+            // Stop call generator
             callGenerator.stop();
+            
+            // Only dispose scheduler if component is truly unmounting
+            // Set mounted to false and check after a tick
+            isMountedRef.current = false;
+            
+            // Use queueMicrotask to check after React finishes its work
+            queueMicrotask(() => {
+                // If still not mounted after microtask, we're truly unmounting
+                if (!isMountedRef.current) {
+                    scheduler.dispose();
+                }
+            });
         };
-    }, [callGenerator]);
-    
-    // Cleanup scheduler only on final component unmount
-    useEffect(() => {
-        const currentScheduler = scheduler;
-        return () => {
-            // Delay disposal to allow React Strict Mode to remount
-            setTimeout(() => {
-                currentScheduler.dispose();
-            }, 100);
-        };
-    }, []);
+    }, [callGenerator, scheduler]);
     
     const selectedRegionId = useAppSelector(selectRegion);
     const selectedDispatchCenterId = useAppSelector(selectDispatchCenter);
