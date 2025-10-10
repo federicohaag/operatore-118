@@ -4,6 +4,7 @@ import Map from '../map/Map';
 import CallTaker from '../callTaker/CallTaker';
 import Sanitario from '../sanitario/Sanitario';
 import Logistica from '../logistica/Logistica';
+import GameClock from '../gameClock/GameClock';
 import { useAppSelector, useAppDispatch } from '../../global-state/hooks';
 import { selectRegion, selectDispatchCenter, resetState } from '../../global-state/slices/localization';
 import { REGIONS } from '../../model/aggregates';
@@ -32,10 +33,14 @@ export default function Game() {
 
     return (
         <div className={styles['game-container']}>
-            <div className={styles['left-column']}>
-                <Map initCenter={initCenter} />
+            <div className={styles['clock-row']}>
+                <GameClock />
             </div>
-            <div className={styles['right-column']}>
+            <div className={styles['content-row']}>
+                <div className={styles['left-column']}>
+                    <Map initCenter={initCenter} />
+                </div>
+                <div className={styles['right-column']}>
                 <div className={styles['tabs-header']}>
                     <button 
                         className={`${styles['tab']} ${activeTab === 'chiamate' ? styles['tab-active'] : ''}`}
@@ -67,6 +72,7 @@ export default function Game() {
                     <button className={styles['button-reset']} onClick={handleReset}>
                         Reset
                     </button>
+                </div>
                 </div>
             </div>
         </div>
