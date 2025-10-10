@@ -1,5 +1,5 @@
 import styles from './CallTaker.module.css';
-import type { Scheduler } from '../../utils/Scheduler';
+import type { Scheduler } from '../../../utils/Scheduler';
 
 interface CallTakerProps {
     scheduler: Scheduler;

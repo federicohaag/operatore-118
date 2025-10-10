@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { VirtualClock } from '../../utils/VirtualClock';
+import { VirtualClock } from '../../../utils/VirtualClock';
 import styles from './GameClock.module.css';
 
 interface GameClockProps {

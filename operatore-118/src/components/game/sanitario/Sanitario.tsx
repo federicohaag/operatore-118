@@ -1,5 +1,5 @@
 import styles from './Sanitario.module.css';
-import HospitalsView from '../hospitals-view/HospitalsView';
+import HospitalsView from './hospitals-view/HospitalsView';
 
 export default function Sanitario() {
     return (

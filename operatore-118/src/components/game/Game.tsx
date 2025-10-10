@@ -1,10 +1,10 @@
 import { useState, useMemo, useEffect } from 'react';
 import styles from './Game.module.css';
 import Map from '../map/Map';
-import CallTaker from '../callTaker/CallTaker';
-import Sanitario from '../sanitario/Sanitario';
-import Logistica from '../logistica/Logistica';
-import GameClock from '../gameClock/GameClock';
+import CallTaker from './callTaker/CallTaker';
+import Sanitario from './sanitario/Sanitario';
+import Logistica from './logistica/Logistica';
+import GameClock from './gameClock/GameClock';
 import { VirtualClock } from '../../utils/VirtualClock';
 import { Scheduler } from '../../utils/Scheduler';
 import type { SimContext } from '../../utils/EventQueue';

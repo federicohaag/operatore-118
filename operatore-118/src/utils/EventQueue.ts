@@ -1,9 +1,18 @@
 /**
+ * EventType - Valid event types for simulation events
+ */
+export const EventType = {
+  CALL_RECEIVED: "callReceived"
+} as const;
+
+export type EventType = typeof EventType[keyof typeof EventType];
+
+/**
  * SimEvent - Represents a discrete simulation event
  */
 export type SimEvent<Payload = any> = {
   time: number;                    // simulation ms
-  type: string;
+  type: EventType;
   payload?: Payload;
   handler: (ctx: SimContext, ev: SimEvent<Payload>) => void;
 };
