@@ -18,7 +18,7 @@ export const loadInitialState = (store: any) => {
   console.log('🔄 Loading initial state from localStorage...');
   try {
     const savedState = localStorage.getItem(STORAGE_STATE_KEY);
-    console.log('📦 Raw localStorage data:', savedState);
+    // console.log('📦 Raw localStorage data:', savedState);
     
     if (savedState) {
       const parsedState = JSON.parse(savedState);
