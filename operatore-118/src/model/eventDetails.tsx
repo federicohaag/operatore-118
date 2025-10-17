@@ -722,7 +722,7 @@ export const NOTE_EVENTO_DETAILS_MAP: Record<NoteEvento, readonly string[]> = {
 /**
  * Mission data structure representing all information collected during emergency call intake
  */
-export type MissionDetails = {
+export type EventDetails = {
     /** Priority code (color-based triage) */
     codice: Codice | '';
     /** Location type */

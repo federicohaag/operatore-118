@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import styles from './CallTakerForm.module.css';
-import type { DettLuogo, DettMotivo, NoteEvento2 } from '../../../model/missionDetails';
+import type { DettLuogo, DettMotivo, NoteEvento2 } from '../../../model/eventDetails';
 import {
     Codice,
     Luogo,
@@ -10,7 +10,7 @@ import {
     LUOGO_DETAILS_MAP,
     MOTIVO_DETAILS_MAP,
     NOTE_EVENTO_DETAILS_MAP
-} from '../../../model/missionDetails';
+} from '../../../model/eventDetails';
 
 interface CallTakerFormProps {
     onEventCreated?: () => void;
