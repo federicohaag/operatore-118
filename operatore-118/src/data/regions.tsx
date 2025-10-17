@@ -21,8 +21,8 @@ export const CALABRIA: Region = {
     label: 'Calabria', 
     status: RegionStatus.Available, 
     dispatchCenters: [
-        { id: 'NORD', label: 'SUEM 118 Nord', latitude: 38.9097, longitude: 16.5967 },
-        { id: 'SUD', label: 'SUEM 118 Sud', latitude: 38.9097, longitude: 16.5967 }
+        { id: 'NORD', label: 'SUEM 118 Nord', latitude: 38.9097, longitude: 16.5967, cities: [] },
+        { id: 'SUD', label: 'SUEM 118 Sud', latitude: 38.9097, longitude: 16.5967, cities: [] }
     ],
     hospitals: []
 };
@@ -38,9 +38,9 @@ export const EMILIA_ROMAGNA: Region = {
     label: 'Emilia-Romagna', 
     status: RegionStatus.Available,
     dispatchCenters: [
-        { id: '118 Emilia Ovest', label: '118 Emilia Ovest', latitude: 44.4949, longitude: 11.3426 },
-        { id: '118 Emilia Est', label: '118 Emilia Est', latitude: 44.4949, longitude: 11.3426 },
-        { id: '118 Romagna', label: '118 Romagna', latitude: 44.4949, longitude: 11.3426 }
+        { id: '118 Emilia Ovest', label: '118 Emilia Ovest', latitude: 44.4949, longitude: 11.3426, cities: [] },
+        { id: '118 Emilia Est', label: '118 Emilia Est', latitude: 44.4949, longitude: 11.3426, cities: [] },
+        { id: '118 Romagna', label: '118 Romagna', latitude: 44.4949, longitude: 11.3426, cities: [] }
     ],
     hospitals: []
 };
@@ -56,9 +56,9 @@ export const LAZIO: Region = {
     label: 'Lazio', 
     status: RegionStatus.Available,
     dispatchCenters: [
-        { id: 'NORD', label: 'CORES NORD', latitude: 41.9028, longitude: 12.4964 },
-        { id: 'METRO', label: 'CORES METROPOLITANA', latitude: 41.9028, longitude: 12.4964 },
-        { id: 'SUD', label: 'CORES SUD', latitude: 41.9028, longitude: 12.4964 }
+        { id: 'NORD', label: 'CORES NORD', latitude: 41.9028, longitude: 12.4964, cities: [] },
+        { id: 'METRO', label: 'CORES METROPOLITANA', latitude: 41.9028, longitude: 12.4964, cities: [] },
+        { id: 'SUD', label: 'CORES SUD', latitude: 41.9028, longitude: 12.4964, cities: [] }
     ],
     hospitals: []
 };
@@ -68,11 +68,11 @@ export const LIGURIA: Region = {
     label: 'Liguria', 
     status: RegionStatus.Available,
     dispatchCenters: [
-        { id: 'ASL1', label: '118 Imperia Soccorso', latitude: 44.4056, longitude: 8.9463 },
-        { id: 'ASL2', label: '118 Savona Soccorso', latitude: 44.4056, longitude: 8.9463 },
-        { id: 'ASL3', label: '118 Genova Soccorso', latitude: 44.4056, longitude: 8.9463 },
-        { id: 'ASL4', label: '118 Tigullio Soccorso', latitude: 44.4056, longitude: 8.9463 },
-        { id: 'ASL5', label: '118 La Spezia Soccorso', latitude: 44.4056, longitude: 8.9463 }
+        { id: 'ASL1', label: '118 Imperia Soccorso', latitude: 44.4056, longitude: 8.9463, cities: [] },
+        { id: 'ASL2', label: '118 Savona Soccorso', latitude: 44.4056, longitude: 8.9463, cities: [] },
+        { id: 'ASL3', label: '118 Genova Soccorso', latitude: 44.4056, longitude: 8.9463, cities: [] },
+        { id: 'ASL4', label: '118 Tigullio Soccorso', latitude: 44.4056, longitude: 8.9463, cities: [] },
+        { id: 'ASL5', label: '118 La Spezia Soccorso', latitude: 44.4056, longitude: 8.9463, cities: [] }
     ],
     hospitals: []
 };
@@ -82,10 +82,10 @@ export const LOMBARDIA: Region = {
     label: 'Lombardia', 
     status: RegionStatus.Available,
     dispatchCenters: [
-        { id: 'SRA', label: 'SOREU Alpina', latitude: 45.4642, longitude: 9.1900 },
-        { id: 'SRL', label: 'SOREU Laghi', latitude: 45.4642, longitude: 9.1900 },
-        { id: 'SRM', label: 'SOREU Metropolitana', latitude: 45.4642, longitude: 9.1900 },
-        { id: 'SRP', label: 'SOREU Pianura', latitude: 45.4642, longitude: 9.1900 }
+        { id: 'SRA', label: 'SOREU Alpina', latitude: 45.4642, longitude: 9.1900, cities: [] },
+        { id: 'SRL', label: 'SOREU Laghi', latitude: 45.4642, longitude: 9.1900, cities: [] },
+        { id: 'SRM', label: 'SOREU Metropolitana', latitude: 45.4642, longitude: 9.1900, cities: [] },
+        { id: 'SRP', label: 'SOREU Pianura', latitude: 45.4642, longitude: 9.1900, cities: [] }
     ],
     hospitals: [
         hospitals.H_LECCO, hospitals.H_VALDUCE, hospitals.H_CANTU, hospitals.H_S_GERARDO
@@ -116,10 +116,10 @@ export const PUGLIA: Region = {
     label: 'Puglia', 
     status: RegionStatus.Available,
     dispatchCenters: [
-        { id: 'FG', label: '118 Foggia', latitude: 41.1171, longitude: 16.8719 },
-        { id: 'BA', label: '118 Bari', latitude: 41.1171, longitude: 16.8719 },
-        { id: 'BR', label: '118 Brindisi', latitude: 41.1171, longitude: 16.8719 },
-        { id: 'LE', label: '118 Lecce', latitude: 41.1171, longitude: 16.8719 }
+        { id: 'FG', label: '118 Foggia', latitude: 41.1171, longitude: 16.8719, cities: [] },
+        { id: 'BA', label: '118 Bari', latitude: 41.1171, longitude: 16.8719, cities: [] },
+        { id: 'BR', label: '118 Brindisi', latitude: 41.1171, longitude: 16.8719, cities: [] },
+        { id: 'LE', label: '118 Lecce', latitude: 41.1171, longitude: 16.8719, cities: [] }
     ],
     hospitals: []
 };
@@ -129,8 +129,8 @@ export const SARDEGNA: Region = {
     label: 'Sardegna', 
     status: RegionStatus.Available,
     dispatchCenters: [
-        { id: 'NORD', label: '118 Nord - Sassari', latitude: 39.2238, longitude: 9.1217 },
-        { id: 'SUD', label: '118 Sud - Cagliari', latitude: 39.2238, longitude: 9.1217 }
+        { id: 'NORD', label: '118 Nord - Sassari', latitude: 39.2238, longitude: 9.1217, cities: [] },
+        { id: 'SUD', label: '118 Sud - Cagliari', latitude: 39.2238, longitude: 9.1217, cities: [] }
     ],
     hospitals: []
 };
@@ -174,13 +174,13 @@ export const VENETO: Region = {
     label: 'Veneto', 
     status: RegionStatus.Available,
     dispatchCenters: [
-        { id: 'Belluno Emergenza', label: '118 Belluno Emergenza', latitude: 45.4408, longitude: 12.3155 },
-        { id: 'Padova Emergenza', label: '118 Padova Emergenza', latitude: 45.4408, longitude: 12.3155 },
-        { id: 'Rovigo Emergenza', label: '118 Rovigo Emergenza', latitude: 45.4408, longitude: 12.3155 },
-        { id: 'Treviso Emergenza', label: '118 Treviso Emergenza', latitude: 45.4408, longitude: 12.3155 },
-        { id: 'Venezia Emergenza', label: '118 Venezia Emergenza', latitude: 45.4408, longitude: 12.3155 },
-        { id: 'Vicenza Emergenza', label: '118 Vicenza Emergenza', latitude: 45.4408, longitude: 12.3155 },
-        { id: 'Verona Emergenza', label: '118 Verona Emergenza', latitude: 45.4408, longitude: 12.3155 }
+        { id: 'Belluno Emergenza', label: '118 Belluno Emergenza', latitude: 45.4408, longitude: 12.3155, cities: [] },
+        { id: 'Padova Emergenza', label: '118 Padova Emergenza', latitude: 45.4408, longitude: 12.3155, cities: [] },
+        { id: 'Rovigo Emergenza', label: '118 Rovigo Emergenza', latitude: 45.4408, longitude: 12.3155, cities: [] },
+        { id: 'Treviso Emergenza', label: '118 Treviso Emergenza', latitude: 45.4408, longitude: 12.3155, cities: [] },
+        { id: 'Venezia Emergenza', label: '118 Venezia Emergenza', latitude: 45.4408, longitude: 12.3155, cities: [] },
+        { id: 'Vicenza Emergenza', label: '118 Vicenza Emergenza', latitude: 45.4408, longitude: 12.3155, cities: [] },
+        { id: 'Verona Emergenza', label: '118 Verona Emergenza', latitude: 45.4408, longitude: 12.3155, cities: [] }
     ],
     hospitals: []
 };

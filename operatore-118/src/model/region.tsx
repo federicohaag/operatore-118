@@ -68,4 +68,7 @@ export type DispatchCenter = {
     
     /** Geographic longitude of the dispatch center location */
     longitude: number;
+    
+    /** List of city names covered by this dispatch center */
+    cities: string[];
 }

@@ -5,11 +5,13 @@ import { initStateFromStorage, syncStateFromOtherWindow } from '../middlewares/l
 export interface SettingsSlice {
   region: string | null;
   dispatchCenter: string | null;
+  cities: string[];
 }
 
 const initialState: SettingsSlice = {
   region: null,
   dispatchCenter: null,
+  cities: [],
 };
 
 export const settingsSlice = createSlice({
@@ -22,9 +24,13 @@ export const settingsSlice = createSlice({
     setDispatchCenter: (state: SettingsSlice, action: PayloadAction<string | null>) => {
       state.dispatchCenter = action.payload;
     },
+    setCities: (state: SettingsSlice, action: PayloadAction<string[]>) => {
+      state.cities = action.payload;
+    },
     clearSettings: (state) => {
       state.region = null;
       state.dispatchCenter = null;
+      state.cities = [];
     },
   },
   extraReducers: (builder) => {
@@ -32,21 +38,24 @@ export const settingsSlice = createSlice({
       // When loading from storage, replace the entire state
       state.region = action.payload.localization.region;
       state.dispatchCenter = action.payload.localization.dispatchCenter;
+      state.cities = action.payload.localization.cities || [];
     });
     builder.addCase(syncStateFromOtherWindow, (state, action) => {
       // When syncing from other windows, update the entire shared state
       const newLocalization = action.payload.localization;
       state.region = newLocalization.region;
       state.dispatchCenter = newLocalization.dispatchCenter;
+      state.cities = newLocalization.cities || [];
     });
   },
 });
 
-export const { setRegion, setDispatchCenter, clearSettings } = settingsSlice.actions;
+export const { setRegion, setDispatchCenter, setCities, clearSettings } = settingsSlice.actions;
 
 // Export selectors
 export const selectRegion = (state: RootState) => state.localization.region;
 export const selectDispatchCenter = (state: RootState) => state.localization.dispatchCenter;
+export const selectCities = (state: RootState) => state.localization.cities;
 
 // Export slice reducer
 export const settingsReducer = settingsSlice.reducer;
