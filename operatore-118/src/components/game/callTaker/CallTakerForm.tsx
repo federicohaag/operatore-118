@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import styles from './CallTakerForm.module.css';
 import type { DettLuogo, DettMotivo, NoteEvento2 } from '../../../model/eventDetails';
 import {
@@ -28,6 +28,16 @@ export default function CallTakerForm({ onEventCreated }: CallTakerFormProps) {
     const [altroEvento, setAltroEvento] = useState<string>('');
     const [vvf, setVvf] = useState<boolean>(false);
     const [ffo, setFfo] = useState<boolean>(false);
+
+    // Refs for selects/inputs so we can focus/open them when they become visible
+    const luogoRef = useRef<HTMLSelectElement | null>(null);
+    const dettLuogoRef = useRef<HTMLSelectElement | null>(null);
+    const motivoRef = useRef<HTMLSelectElement | null>(null);
+    const dettMotivoRef = useRef<HTMLSelectElement | null>(null);
+    const coscienzaRef = useRef<HTMLSelectElement | null>(null);
+    const noteEventoRef = useRef<HTMLSelectElement | null>(null);
+    const noteEvento2Ref = useRef<HTMLSelectElement | null>(null);
+    const altroRef = useRef<HTMLInputElement | null>(null);
 
     // Get detailed options based on parent selection
     const getDettLuogoOptions = (luogo: Luogo | ''): readonly string[] => {
@@ -66,6 +76,90 @@ export default function CallTakerForm({ onEventCreated }: CallTakerFormProps) {
             setNoteEvento2('');
         }
     }, [noteEvento, noteEvento2]);
+
+    // Helper: focus and try to open native select. Opening is best-effort - browsers restrict programmatic opening,
+    // but focusing and dispatching some events helps in many environments.
+    const openSelect = (el: HTMLSelectElement | HTMLInputElement | null) => {
+        if (!el) return;
+        try {
+            el.focus();
+            // Try to open native select by dispatching mouse events and arrow key.
+            // This is best-effort and may not work in all browsers, but improves keyboard flow.
+            if (el instanceof HTMLSelectElement) {
+                el.dispatchEvent(new MouseEvent('mousedown', { bubbles: true, cancelable: true }));
+                el.dispatchEvent(new MouseEvent('mouseup', { bubbles: true, cancelable: true }));
+                el.dispatchEvent(new MouseEvent('click', { bubbles: true, cancelable: true }));
+                el.dispatchEvent(new KeyboardEvent('keydown', { key: 'ArrowDown', code: 'ArrowDown', bubbles: true }));
+            }
+        } catch (err) {
+            // ignore - best-effort
+        }
+    };
+
+    // Effects to focus/open newly-visible fields for faster filling
+    useEffect(() => {
+        if (codice !== '') {
+            // Allow DOM to render the new select
+            setTimeout(() => openSelect(luogoRef.current), 0);
+        }
+    }, [codice]);
+
+    useEffect(() => {
+        if (luogo !== '') {
+            const dettOptions = getDettLuogoOptions(luogo);
+            setTimeout(() => {
+                if (dettOptions.length > 0) openSelect(dettLuogoRef.current);
+                else openSelect(motivoRef.current);
+            }, 0);
+        }
+    }, [luogo]);
+
+    useEffect(() => {
+        const dettOptions = getDettLuogoOptions(luogo);
+        if (dettLuogo !== '' || (luogo !== '' && dettOptions.length === 0)) {
+            setTimeout(() => openSelect(motivoRef.current), 0);
+        }
+    }, [dettLuogo, luogo]);
+
+    useEffect(() => {
+        if (motivo !== '') {
+            const dettOptions = getDettMotivoOptions(motivo);
+            setTimeout(() => {
+                if (dettOptions.length > 0) openSelect(dettMotivoRef.current);
+                else openSelect(coscienzaRef.current);
+            }, 0);
+        }
+    }, [motivo]);
+
+    useEffect(() => {
+        const dettOptions = getDettMotivoOptions(motivo);
+        if (dettMotivo !== '' || (motivo !== '' && dettOptions.length === 0)) {
+            setTimeout(() => openSelect(coscienzaRef.current), 0);
+        }
+    }, [dettMotivo, motivo]);
+
+    useEffect(() => {
+        if (coscienza !== '') {
+            setTimeout(() => openSelect(noteEventoRef.current), 0);
+        }
+    }, [coscienza]);
+
+    useEffect(() => {
+        if (noteEvento !== '') {
+            const options = getNoteEvento2Options(noteEvento);
+            setTimeout(() => {
+                if (options.length > 0) openSelect(noteEvento2Ref.current);
+                else openSelect(altroRef.current);
+            }, 0);
+        }
+    }, [noteEvento]);
+
+    useEffect(() => {
+        const options = getNoteEvento2Options(noteEvento);
+        if (noteEvento2 !== '' || (noteEvento !== '' && options.length === 0)) {
+            setTimeout(() => openSelect(altroRef.current), 0);
+        }
+    }, [noteEvento2, noteEvento]);
 
     // Determine whether all required options/inputs are filled.
     // Detail fields are required only if their parent selection has detail options.
@@ -132,6 +226,7 @@ export default function CallTakerForm({ onEventCreated }: CallTakerFormProps) {
                             <select
                                 id="luogo"
                                 aria-label="Luogo"
+                                ref={luogoRef}
                                 value={luogo}
                                 onChange={(e) => setLuogo(e.target.value as Luogo | '')}
                                 className={styles['form-select']}
@@ -150,6 +245,7 @@ export default function CallTakerForm({ onEventCreated }: CallTakerFormProps) {
                             <select
                                 id="dett-luogo"
                                 aria-label="Dettaglio luogo"
+                                ref={dettLuogoRef}
                                 value={dettLuogo}
                                 onChange={(e) => setDettLuogo(e.target.value as DettLuogo | '')}
                                 className={styles['form-select']}
@@ -169,6 +265,7 @@ export default function CallTakerForm({ onEventCreated }: CallTakerFormProps) {
                             <select
                                 id="motivo"
                                 aria-label="Motivo"
+                                ref={motivoRef}
                                 value={motivo}
                                 onChange={(e) => setMotivo(e.target.value as Motivo | '')}
                                 className={styles['form-select']}
@@ -187,6 +284,7 @@ export default function CallTakerForm({ onEventCreated }: CallTakerFormProps) {
                             <select
                                 id="dett-motivo"
                                 aria-label="Dettaglio motivo"
+                                ref={dettMotivoRef}
                                 value={dettMotivo}
                                 onChange={(e) => setDettMotivo(e.target.value as DettMotivo | '')}
                                 className={styles['form-select']}
@@ -206,6 +304,7 @@ export default function CallTakerForm({ onEventCreated }: CallTakerFormProps) {
                             <select
                                 id="coscienza"
                                 aria-label="Coscienza"
+                                ref={coscienzaRef}
                                 value={coscienza}
                                 onChange={(e) => setCoscienza(e.target.value as Coscienza | '')}
                                 className={styles['form-select']}
@@ -224,6 +323,7 @@ export default function CallTakerForm({ onEventCreated }: CallTakerFormProps) {
                             <select
                                 id="note-evento"
                                 aria-label="Note evento"
+                                ref={noteEventoRef}
                                 value={noteEvento}
                                 onChange={(e) => setNoteEvento(e.target.value as NoteEvento | '')}
                                 className={styles['form-select']}
@@ -242,6 +342,7 @@ export default function CallTakerForm({ onEventCreated }: CallTakerFormProps) {
                             <select
                                 id="note-evento2"
                                 aria-label="Note evento 2"
+                                ref={noteEvento2Ref}
                                 value={noteEvento2}
                                 onChange={(e) => setNoteEvento2(e.target.value as NoteEvento2 | '')}
                                 className={styles['form-select']}
@@ -262,6 +363,7 @@ export default function CallTakerForm({ onEventCreated }: CallTakerFormProps) {
                                 id="altro-evento"
                                 aria-label="Altro evento"
                                 type="text"
+                                ref={altroRef}
                                 value={altroEvento}
                                 onChange={(e) => setAltroEvento(e.target.value)}
                                 className={styles['form-input']}
