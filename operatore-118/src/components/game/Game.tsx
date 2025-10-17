@@ -10,7 +10,7 @@ import { Scheduler } from '../../core/Scheduler';
 import { CallGenerator } from '../../core/CallGenerator';
 import type { SimContext } from '../../core/EventQueue';
 import { useAppSelector, useAppDispatch } from '../../core/redux/hooks';
-import { selectRegion, selectDispatchCenter, clearLocalization } from '../../core/redux/slices/localization';
+import { selectRegion, selectDispatchCenter, clearSettings } from '../../core/redux/slices/settings';
 import { clearCalls } from '../../core/redux/slices/calls';
 import { STORAGE_STATE_KEY } from '../../core/redux/constants';
 import { REGIONS } from '../../model/aggregates';
@@ -96,7 +96,7 @@ export default function Game() {
         localStorage.removeItem(STORAGE_STATE_KEY);
         
         // Reset Redux state to initial values
-        dispatch(clearLocalization());
+        dispatch(clearSettings());
         dispatch(clearCalls());
     };
 

@@ -1,6 +1,6 @@
 import { configureStore } from '@reduxjs/toolkit';
 import { createLocalStorageSyncMiddleware, loadInitialState } from './middlewares/localStorage';
-import { localizationReducer } from './slices/localization';
+import { settingsReducer } from './slices/settings';
 import { callsReducer } from './slices/calls';
 
 /**
@@ -11,14 +11,14 @@ import { callsReducer } from './slices/calls';
  * that returns the current state value.
  * 
  * This store is configured with:
- * - localizationReducer: Manages the application's localization state (regional settings)
+ * - settingsReducer: Manages the application's localization state (regional settings)
  * - localizationSyncMiddleware: Handles state synchronization across browser tabs/windows via localStorage
  * 
  * @see https://redux.js.org/tutorials/fundamentals/part-2-concepts-data-flow#store
  */
 export const store = configureStore({
   reducer: {
-    localization: localizationReducer,
+    localization: settingsReducer,
     calls: callsReducer,
   },
   middleware: (getDefaultMiddleware) => 

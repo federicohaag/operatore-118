@@ -1,5 +1,5 @@
 import { useAppSelector } from '../../../../core/redux/hooks';
-import { selectRegion } from '../../../../core/redux/slices/localization';
+import { selectRegion } from '../../../../core/redux/slices/settings';
 import { REGIONS } from '../../../../model/aggregates';
 import { HospitalClassification, HospitalTraumaLevel } from '../../../../model/hospital';
 import { useState, useMemo, useEffect, useRef } from 'react';

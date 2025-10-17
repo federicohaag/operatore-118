@@ -1,6 +1,6 @@
 import type { Middleware, Store, MiddlewareAPI } from 'redux';
 import { createAction } from '@reduxjs/toolkit';
-import type { LocalizationSlice } from '../slices/localization';
+import type { SettingsSlice } from '../slices/settings';
 import type { CallsSlice } from '../slices/calls';
 import { STORAGE_STATE_KEY, SYNC_STATE_FROM_OTHER_WINDOW, INIT_STATE_FROM_STORAGE } from '../constants';
 
@@ -13,7 +13,7 @@ import { STORAGE_STATE_KEY, SYNC_STATE_FROM_OTHER_WINDOW, INIT_STATE_FROM_STORAG
  * and avoids leaking unrelated runtime data into storage events.
  */
 type SyncState = {
-  localization: LocalizationSlice;
+  localization: SettingsSlice;
   calls: CallsSlice;
 };
 
