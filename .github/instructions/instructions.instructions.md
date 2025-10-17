@@ -1,1 +1,0 @@
-When you run a command, run it from /workspaces/operatore-118/operatore-118
