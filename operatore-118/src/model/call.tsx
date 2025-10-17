@@ -2,6 +2,7 @@ export type Call = {
     id: string;
     text: string;
     feedback: Feedback;
+    receivedAt: number; // Simulation time in milliseconds when the call was received
 }
 
 export type Feedback = {

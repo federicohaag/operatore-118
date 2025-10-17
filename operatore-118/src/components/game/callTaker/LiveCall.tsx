@@ -4,10 +4,9 @@ import type { Call } from '../../../model/call';
 
 interface LiveCallProps {
     call: Call;
-    onClose: () => void;
 }
 
-export default function LiveCall({ call, onClose }: LiveCallProps) {
+export default function LiveCall({ call }: LiveCallProps) {
     const [displayedText, setDisplayedText] = useState('');
     const [currentWordIndex, setCurrentWordIndex] = useState(0);
     
@@ -46,14 +45,6 @@ export default function LiveCall({ call, onClose }: LiveCallProps) {
                         <span className={styles['cursor']}>|</span>
                     )}
                 </p>
-            </div>
-            <div className={styles['call-actions']}>
-                <button 
-                    className={styles['close-button']} 
-                    onClick={onClose}
-                >
-                    Close
-                </button>
             </div>
         </div>
     );

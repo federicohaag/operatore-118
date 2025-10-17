@@ -1,6 +1,7 @@
 import { useState, useEffect, useRef } from 'react';
 import styles from './CallTakerForm.module.css';
 import type { DettLuogo, DettMotivo, NoteEvento2 } from '../../../model/eventDetails';
+import type { EventDetails } from '../../../model/eventDetails';
 import {
     Codice,
     Luogo,
@@ -13,10 +14,12 @@ import {
 } from '../../../model/eventDetails';
 
 interface CallTakerFormProps {
-    onEventCreated?: () => void;
+    callId: string;
+    onEventCreated?: (eventDetails: EventDetails) => void;
+    onCallAborted?: () => void;
 }
 
-export default function CallTakerForm({ onEventCreated }: CallTakerFormProps) {
+export default function CallTakerForm({ callId: _callId, onEventCreated, onCallAborted }: CallTakerFormProps) {
     const [codice, setCodice] = useState<Codice | ''>('');
     const [luogo, setLuogo] = useState<Luogo | ''>('');
     const [dettLuogo, setDettLuogo] = useState<DettLuogo | ''>('');
@@ -181,8 +184,24 @@ export default function CallTakerForm({ onEventCreated }: CallTakerFormProps) {
     const handleSubmit = (e: React.FormEvent) => {
         e.preventDefault();
         
+        // Collect event details from form
+        const eventDetails: EventDetails = {
+            codice: codice as Codice,
+            luogo: luogo as Luogo,
+            dettLuogo: dettLuogo as DettLuogo,
+            motivo: motivo as Motivo,
+            dettMotivo: dettMotivo as DettMotivo,
+            coscienza: coscienza as Coscienza,
+            noteEvento: noteEvento as NoteEvento,
+            noteEvento2: noteEvento2 as NoteEvento2,
+            altroEvento,
+            vvf,
+            ffo,
+        };
+
+        // Pass event details to parent for handling
         if (onEventCreated) {
-            onEventCreated();
+            onEventCreated(eventDetails);
         }
 
         // Reset form
@@ -392,11 +411,22 @@ export default function CallTakerForm({ onEventCreated }: CallTakerFormProps) {
                     </label>
                 </div>
 
-                {canCreateEvent && (
-                    <button type="submit" className={styles['submit-button']}>
+                <div className={styles['button-group']}>
+                    <button 
+                        type="submit" 
+                        className={styles['submit-button']}
+                        disabled={!canCreateEvent}
+                    >
                         Crea Evento
                     </button>
-                )}
+                    <button 
+                        type="button" 
+                        className={styles['end-call-button']}
+                        onClick={() => onCallAborted?.()}
+                    >
+                        Termina Chiamata
+                    </button>
+                </div>
             </form>
         </div>
     );

@@ -133,7 +133,7 @@ export default function Game() {
                 </div>
 
                 <div className={styles['tab-content']}>
-                    {activeTab === 'chiamate' && <CallTaker />}
+                    {activeTab === 'chiamate' && <CallTaker clock={virtualClock} />}
                     {activeTab === 'sanitario' && <Sanitario />}
                     {activeTab === 'logistica' && <Logistica />}
                 </div>

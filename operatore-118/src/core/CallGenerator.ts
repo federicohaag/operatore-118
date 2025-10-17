@@ -134,9 +134,14 @@ export class CallGenerator {
    */
   private handleCall(ctx: any, event: any): void {
     const call = event.payload;
+    // Add receivedAt timestamp from simulation time
+    const callWithTimestamp = {
+      ...call,
+      receivedAt: ctx.now()
+    };
     console.log(`Generated call: ${call.id}`);
     if (ctx?.dispatch) {
-      ctx.dispatch(addCall(call));
+      ctx.dispatch(addCall(callWithTimestamp));
     } else {
       console.warn('CallGenerator: No dispatch function available in context');
     }
@@ -201,7 +206,8 @@ export class CallGenerator {
     return {
       id: this.generateCallId(),
       text: template.text,
-      feedback
+      feedback,
+      receivedAt: 0 // Placeholder, will be set to simulation time in handleCall
     };
   }
 }

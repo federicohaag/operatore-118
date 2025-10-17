@@ -2,6 +2,7 @@ import type { Middleware, Store, MiddlewareAPI } from 'redux';
 import { createAction } from '@reduxjs/toolkit';
 import type { SettingsSlice } from '../slices/settings';
 import type { CallsSlice } from '../slices/calls';
+import type { EventsSlice } from '../slices/events';
 import { STORAGE_STATE_KEY, SYNC_STATE_FROM_OTHER_WINDOW, INIT_STATE_FROM_STORAGE } from '../constants';
 
 /**
@@ -15,6 +16,7 @@ import { STORAGE_STATE_KEY, SYNC_STATE_FROM_OTHER_WINDOW, INIT_STATE_FROM_STORAG
 type SyncState = {
   localization: SettingsSlice;
   calls: CallsSlice;
+  events: EventsSlice;
 };
 
 /**
@@ -56,15 +58,16 @@ export const loadInitialState = (store: Store) => {
       const parsedState = JSON.parse(savedState);
       console.log('📋 Parsed state:', parsedState);
 
-      if (parsedState.localization || parsedState.calls) {
+      if (parsedState.localization || parsedState.calls || parsedState.events) {
         const stateToLoad: SyncState = {
           localization: parsedState.localization || { region: null, dispatchCenter: null },
-          calls: parsedState.calls || { calls: [] }
+          calls: parsedState.calls || { calls: [] },
+          events: parsedState.events || { events: [] }
         };
         console.log('✅ Dispatching initStateFromStorage with:', stateToLoad);
         store.dispatch(initStateFromStorage(stateToLoad));
       } else {
-        console.log('❌ No localization or calls property found in saved state');
+        console.log('❌ No localization, calls or events property found in saved state');
       }
     } else {
       console.log('❌ No saved state found in localStorage');
@@ -101,10 +104,11 @@ export const createLocalStorageSyncMiddleware = (): Middleware => {
       if (event.key === STORAGE_STATE_KEY && event.newValue) {
         try {
           const newState = JSON.parse(event.newValue);
-          if (newState.localization || newState.calls) {
+          if (newState.localization || newState.calls || newState.events) {
             const syncState: SyncState = {
               localization: newState.localization || { region: null, dispatchCenter: null },
-              calls: newState.calls || { calls: [] }
+              calls: newState.calls || { calls: [] },
+              events: newState.events || { events: [] }
             };
             store.dispatch(syncStateFromOtherWindow(syncState));
           }
