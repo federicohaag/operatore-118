@@ -1,6 +1,6 @@
 import type { Scheduler } from './Scheduler';
 import { EventType } from './EventQueue';
-import { addCall } from '../redux/slices/calls';
+import { addCall } from './redux/slices/calls';
 import { CALL_TEMPLATES } from '../data/calls';
 import type { Call } from '../model/call';
 

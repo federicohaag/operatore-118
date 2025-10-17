@@ -1,7 +1,7 @@
 import { createSlice, type PayloadAction } from '@reduxjs/toolkit';
 import type { RootState } from '../store';
 import { initStateFromStorage, syncStateFromOtherWindow } from '../middlewares/localStorage';
-import type { Call } from '../../model/call';
+import type { Call } from '../../../model/call';
 
 export interface CallsSlice {
   calls: Call[];

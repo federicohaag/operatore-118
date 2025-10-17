@@ -9,10 +9,10 @@ import { VirtualClock } from '../../core/VirtualClock';
 import { Scheduler } from '../../core/Scheduler';
 import { CallGenerator } from '../../core/CallGenerator';
 import type { SimContext } from '../../core/EventQueue';
-import { useAppSelector, useAppDispatch } from '../../redux/hooks';
-import { selectRegion, selectDispatchCenter, clearLocalization } from '../../redux/slices/localization';
-import { clearCalls } from '../../redux/slices/calls';
-import { STORAGE_STATE_KEY } from '../../redux/constants';
+import { useAppSelector, useAppDispatch } from '../../core/redux/hooks';
+import { selectRegion, selectDispatchCenter, clearLocalization } from '../../core/redux/slices/localization';
+import { clearCalls } from '../../core/redux/slices/calls';
+import { STORAGE_STATE_KEY } from '../../core/redux/constants';
 import { REGIONS } from '../../model/aggregates';
 
 export default function Game() {

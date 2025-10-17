@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import styles from './CallTaker.module.css';
-import { useAppSelector } from '../../../redux/hooks';
-import { selectCalls } from '../../../redux/slices/calls';
+import { useAppSelector } from '../../../core/redux/hooks';
+import { selectCalls } from '../../../core/redux/slices/calls';
 import LiveCall from './LiveCall';
 import CallTakerForm from './CallTakerForm';
 import type { Event } from '../../../model/event';
