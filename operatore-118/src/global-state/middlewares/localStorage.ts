@@ -1,8 +1,8 @@
 import type { Middleware, Store, MiddlewareAPI } from 'redux';
 import { createAction } from '@reduxjs/toolkit';
-import type { LocalizationSlice } from './slices/localization';
-import type { CallsSlice } from './slices/calls';
-import { STORAGE_STATE_KEY, SYNC_STATE_FROM_OTHER_WINDOW, INIT_STATE_FROM_STORAGE } from './constants';
+import type { LocalizationSlice } from '../slices/localization';
+import type { CallsSlice } from '../slices/calls';
+import { STORAGE_STATE_KEY, SYNC_STATE_FROM_OTHER_WINDOW, INIT_STATE_FROM_STORAGE } from '../constants';
 
 /**
  * Shape of the slice(s) that are synchronized across windows/tabs.

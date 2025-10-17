@@ -1,6 +1,6 @@
 import { createSlice, type PayloadAction } from '@reduxjs/toolkit';
 import type { RootState } from '../store';
-import { initStateFromStorage, syncStateFromOtherWindow } from '../localStorageSyncMiddleware';
+import { initStateFromStorage, syncStateFromOtherWindow } from '../middlewares/localStorage';
 
 export interface LocalizationSlice {
   region: string | null;
