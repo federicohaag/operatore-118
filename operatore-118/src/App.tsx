@@ -1,8 +1,8 @@
 import RegionSelector from './components/region-selector/RegionSelector'
 import ModalContainer from './components/modal-container/ModalContainer';
 import Game from './components/game/Game';
-import { useAppSelector } from './global-state/hooks';
-import { selectRegion, selectDispatchCenter } from './global-state/slices/localization';
+import { useAppSelector } from './redux/hooks';
+import { selectRegion, selectDispatchCenter } from './redux/slices/localization';
 import './App.css'
 
 function App() {

@@ -3,8 +3,8 @@ import { useEffect, useRef } from 'react';
 import styles from './RegionSelector.module.css';
 import DispatchCenterSelectionOverlay from './DispatchCenterSelectionOverlay';
 import { RegionStatus, type Region } from '../../model/region';
-import { useAppDispatch, useAppSelector } from '../../global-state/hooks';
-import { selectRegion, setRegion, setDispatchCenter } from '../../global-state/slices/localization';
+import { useAppDispatch, useAppSelector } from '../../redux/hooks';
+import { selectRegion, setRegion, setDispatchCenter } from '../../redux/slices/localization';
 import { REGIONS } from '../../model/aggregates';
 
 const StatusMessages: Record<RegionStatus, string> = {
