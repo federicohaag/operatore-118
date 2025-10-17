@@ -1,4 +1,8 @@
-import type { LocationType } from "./location";
+import type { Location } from "./location";
+import { LocationType } from "./location";
+
+// Re-export LocationType for convenience
+export { LocationType };
 
 /**
  * Represents an emergency call received by the dispatch center
