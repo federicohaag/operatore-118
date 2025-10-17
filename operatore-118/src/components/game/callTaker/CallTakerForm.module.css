@@ -1,10 +1,11 @@
 .form-container {
-    padding: 20px;
+    padding: 12px;
     height: 100%;
     background-color: rgba(255, 255, 255, 0.02);
     border: 1px solid #e1e8ed;
     border-radius: 5px;
     box-sizing: border-box;
+    overflow-y: auto;
 }
 
 .form-container h3 {
@@ -17,35 +18,52 @@
 .event-form {
     display: flex;
     flex-direction: column;
-    gap: 20px;
+    gap: 8px;
 }
 
-.form-group {
+.form-grid {
     display: flex;
     flex-direction: column;
     gap: 8px;
 }
 
-.form-group label {
-    font-weight: 600;
-    color: #34495e;
-    font-size: 0.95em;
+.form-group {
+    display: grid;
+    grid-template-columns: 140px 1fr;
+    gap: 8px;
+    align-items: center;
 }
 
-.form-select {
-    padding: 12px;
+.form-group label {
+    font-weight: 600;
+    color: #003366;
+    font-size: 0.85em;
+    text-align: right;
+    padding-right: 4px;
+}
+
+.form-select,
+.form-input {
+    padding: 4px 8px;
     border: 1px solid #e1e8ed;
-    border-radius: 5px;
-    background-color: rgba(255, 255, 255, 0.05);
+    border-radius: 4px;
+    background-color: rgba(255, 255, 255, 0.95);
     color: #2c3e50;
-    font-size: 1em;
+    font-size: 0.85em;
     transition: border-color 0.2s ease, box-shadow 0.2s ease;
 }
 
-.form-select:focus {
+.form-select:focus,
+.form-input:focus {
     outline: none;
     border-color: #3498db;
     box-shadow: 0 0 0 2px rgba(52, 152, 219, 0.2);
+}
+
+.form-select:disabled {
+    background-color: #f5f5f5;
+    color: #999;
+    cursor: not-allowed;
 }
 
 .form-select option {
@@ -54,25 +72,48 @@
     padding: 8px;
 }
 
+.checkbox-group {
+    display: flex;
+    gap: 16px;
+    margin: 4px 0 4px 148px;
+}
+
+.checkbox-group label {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-weight: 600;
+    color: #003366;
+    cursor: pointer;
+    font-size: 0.85em;
+}
+
+.checkbox-group input[type="checkbox"] {
+    width: 16px;
+    height: 16px;
+    cursor: pointer;
+}
+
 .submit-button {
-    padding: 15px;
-    background-color: #3498db;
+    padding: 8px 20px;
+    background-color: #388e3c;
     color: white;
     border: none;
-    border-radius: 5px;
-    font-size: 1em;
+    border-radius: 4px;
+    font-size: 0.9em;
     font-weight: 600;
     cursor: pointer;
     transition: background-color 0.2s ease, transform 0.1s ease;
-    margin-top: 10px;
+    margin-top: 8px;
+    align-self: flex-end;
 }
 
 .submit-button:hover {
-    background-color: #2980b9;
+    background-color: #2e7d32;
 }
 
 .submit-button:active {
-    background-color: #21618c;
+    background-color: #1b5e20;
     transform: translateY(1px);
 }
 
