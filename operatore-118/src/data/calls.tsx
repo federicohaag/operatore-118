@@ -42,7 +42,7 @@ export const CALL_TEMPLATES: CallTemplate[] = [
     },
     {
         text: "Buongiorno, chiamo da (scuola) Un ragazzo di 16 anni sembra sia svenuto, è a terra ed è pallido. Dice che gli gira la testa e ha il cuore che batte fortissimo. È sveglio ma molto spaventato.",
-        locationType: LocationType.PublicPlace,
+        locationType: LocationType.Street,
         stableCaseFeedback: {
             msb: "Maschio, 16 anni, vigile all'arrivo, riferito episodio di vertigini e astenia. Parametri vitali normali: FC 85 bpm, PA 125/75 mmHg, SpO₂ 98%. Nessun trauma. Ansioso, monitorato e rassicurato. Sospetta lipotimia da sforzo. Nessuna patologia nota.[PS]",
             msa1: "Maschio, 16 anni, cosciente e collaborante. Parametri vitali: FC 90 bpm, PA 120/70 mmHg, SpO₂ 99%, GCS 15. Palpitazioni autolimitate, nessun trauma. Ringer Acetato 500ml EV. [PS]",

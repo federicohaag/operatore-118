@@ -10,9 +10,6 @@ export const LocationType = {
     
     /** Emergency on a street or roadway */
     Street: 'street',
-    
-    /** Emergency in a public place (school, office, commercial area, etc.) */
-    PublicPlace: 'public-place'
 } as const;
 
 export type LocationType = typeof LocationType[keyof typeof LocationType];
