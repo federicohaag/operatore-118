@@ -724,21 +724,21 @@ export const NOTE_EVENTO_DETAILS_MAP: Record<NoteEvento, readonly string[]> = {
  */
 export type EventDetails = {
     /** Priority code (color-based triage) */
-    codice: Codice | '';
+    codice: Codice;
     /** Location type */
-    luogo: Luogo | '';
+    luogo: Luogo;
     /** Detailed location specification */
-    dettLuogo: DettLuogo | '';
+    dettLuogo: DettLuogo;
     /** Reason for emergency */
-    motivo: Motivo | '';
+    motivo: Motivo;
     /** Detailed reason specification */
-    dettMotivo: DettMotivo | '';
+    dettMotivo: DettMotivo;
     /** Patient consciousness level */
-    coscienza: Coscienza | '';
+    coscienza: Coscienza;
     /** Event notes (symptoms/circumstances) */
-    noteEvento: NoteEvento | '';
+    noteEvento: NoteEvento;
     /** Detailed event notes */
-    noteEvento2: NoteEvento2 | '';
+    noteEvento2: NoteEvento2;
     /** Free text for additional notes */
     altroEvento: string;
     /** Fire brigade alerted */
