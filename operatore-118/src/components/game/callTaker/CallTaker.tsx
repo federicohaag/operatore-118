@@ -4,7 +4,6 @@ import { useAppSelector } from '../../../core/redux/hooks';
 import { selectCalls } from '../../../core/redux/slices/calls';
 import LiveCall from './LiveCall';
 import CallTakerForm from './CallTakerForm';
-import type { Event } from '../../../model/event';
 
 export default function CallTaker() {
     const calls = useAppSelector(selectCalls);
@@ -18,8 +17,8 @@ export default function CallTaker() {
         setSelectedCall(null);
     };
 
-    const handleEventCreated = (event: Event) => {
-        console.log('New event created:', event);
+    const handleEventCreated = () => {
+        console.log('New event created');
         // TODO: Handle the created event (e.g., add to state, send to server, etc.)
     };
 
