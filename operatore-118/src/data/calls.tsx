@@ -1,8 +1,10 @@
 import type { CallTemplate } from '../model/call';
+import { LocationType } from '../model/call';
 
 export const CALL_TEMPLATES: CallTemplate[] = [
     {
         text: "Salve, chiamo da (indirizzo abitazione). C'è un signore, avrà circa 53 anni, che è per terra nel cortile. È caduto per terra da circa 5 minuti, non si muove, e non capiamo se è sveglio o no. Respira ma non ci risponde. Potete mandare qualcuno subito?",
+        locationType: LocationType.House,
         stableCaseFeedback: {
             msb: "Maschio, circa 53 anni, trovato cosciente nel cortile dopo caduta da posizione eretta. Parametri vitali nella norma: FC 78 bpm, PA 130/80 mmHg, SpO₂ 98%. Presenta dolore e gonfiore all'arto inferiore destro con escoriazioni superficiali. Immobilizzato l'arto con steccobenda. Trauma ginocchio dx. Nessuna anamnesi disponibile. [OTT]",
             msa1: "Maschio, circa 53 anni, trovato cosciente nel cortile dopo caduta da posizione eretta Parametri vitali stabili: FC 80 bpm, PA 130/80 mmHg, SpO₂ 97%, GCS 15. Riscontrata deformità compatibile con frattura dell'arto inferiore destro. Somministrato Fentanil 50 mcg EV, eseguita immobilizzazione. Sospetto di frattura del piatto tibiale. Nessuna patologia nota. [OTT]",
@@ -21,6 +23,7 @@ export const CALL_TEMPLATES: CallTemplate[] = [
     },
     {
         text: "Pronto? Chiamo da (indirizzo abitazione), c'è una signora anziana che ha perso conoscenza mentre era seduta. È scivolata dalla sedia e ora non risponde. Respira, ma è molto pallida e sudata. Potete mandare qualcuno subito?",
+        locationType: LocationType.House,
         stableCaseFeedback: {
             msb: "Femmina, circa 75 anni, trovata cosciente all'arrivo, riferita perdita di coscienza transitoria . Parametri vitali nella norma: FC 72 bpm, PA 125/75 mmHg, SpO₂ 99%. Nessun trauma apparente. Nessuna patologia riferita. [PS]",
             msa1: "Femmina, 75 anni, vigile all'arrivo, riferito episodio pre sincopale. Parametri stabili: FC 74 bpm, PA 130/80 mmHg, SpO₂ 98%, GCS 15. Nessuna lesione visibile, verosimile episodio lipotimico. [PS]",
@@ -39,6 +42,7 @@ export const CALL_TEMPLATES: CallTemplate[] = [
     },
     {
         text: "Buongiorno, chiamo da (scuola) Un ragazzo di 16 anni sembra sia svenuto, è a terra ed è pallido. Dice che gli gira la testa e ha il cuore che batte fortissimo. È sveglio ma molto spaventato.",
+        locationType: LocationType.PublicPlace,
         stableCaseFeedback: {
             msb: "Maschio, 16 anni, vigile all'arrivo, riferito episodio di vertigini e astenia. Parametri vitali normali: FC 85 bpm, PA 125/75 mmHg, SpO₂ 98%. Nessun trauma. Ansioso, monitorato e rassicurato. Sospetta lipotimia da sforzo. Nessuna patologia nota.[PS]",
             msa1: "Maschio, 16 anni, cosciente e collaborante. Parametri vitali: FC 90 bpm, PA 120/70 mmHg, SpO₂ 99%, GCS 15. Palpitazioni autolimitate, nessun trauma. Ringer Acetato 500ml EV. [PS]",

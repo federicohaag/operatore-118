@@ -207,7 +207,10 @@ export class CallGenerator {
       id: this.generateCallId(),
       text: template.text,
       feedback,
-      receivedAt: 0 // Placeholder, will be set to simulation time in handleCall
+      receivedAt: 0, // Placeholder, will be set to simulation time in handleCall
+      locationType: template.locationType,
+      latitude: 0,
+      longitude: 0,
     };
   }
 }
