@@ -208,9 +208,16 @@ export class CallGenerator {
       text: template.text,
       feedback,
       receivedAt: 0, // Placeholder, will be set to simulation time in handleCall
-      locationType: template.locationType,
-      latitude: 0,
-      longitude: 0,
+      location: {
+        address: {
+          street: 'Unknown St',
+          number: '0',
+          city: 'Unknown City',
+          latitude: 0,
+          longitude: 0
+        },
+        type: template.locationType
+      }
     };
   }
 }

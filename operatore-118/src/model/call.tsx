@@ -1,3 +1,16 @@
+export type Location = {
+    address: Address;
+    type: LocationType;
+}
+
+export type Address = {
+    street: string;
+    number: string;
+    city: string;
+    latitude: number;
+    longitude: number;
+}
+
 /**
  * Type of location where the emergency occurred
  * 
@@ -27,14 +40,7 @@ export type Call = {
     /** Text description of the emergency as reported by the caller */
     text: string;
     
-    /** Type of location where the emergency occurred */
-    locationType: LocationType;
-    
-    /** Geographic latitude of the emergency location */
-    latitude: number;
-    
-    /** Geographic longitude of the emergency location */
-    longitude: number;
+    location: Location;
     
     /** Correct medical assessment codes for this emergency */
     feedback: Feedback;
