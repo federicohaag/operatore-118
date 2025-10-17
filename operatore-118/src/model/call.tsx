@@ -1,31 +1,4 @@
-export type Location = {
-    address: Address;
-    type: LocationType;
-}
-
-export type Address = {
-    street: string;
-    number: string;
-    city: string;
-    latitude: number;
-    longitude: number;
-}
-
-/**
- * Type of location where the emergency occurred
- * 
- * Categorizes emergencies by their location type to help with resource
- * allocation and response planning.
- */
-export const LocationType = {
-    /** Emergency at a residential location (home, apartment) */
-    House: 'house',
-    
-    /** Emergency on a street or roadway */
-    Street: 'street',
-} as const;
-
-export type LocationType = typeof LocationType[keyof typeof LocationType];
+import type { LocationType } from "./location";
 
 /**
  * Represents an emergency call received by the dispatch center

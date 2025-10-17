@@ -211,7 +211,7 @@ export class CallGenerator {
       location: {
         address: {
           street: 'Unknown St',
-          number: '0',
+          number: 'N/A',
           city: 'Unknown City',
           latitude: 0,
           longitude: 0
