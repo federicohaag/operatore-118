@@ -27,30 +27,32 @@
     gap: 8px;
 }
 
+/* Stack label above the input/select so controls can be full width */
 .form-group {
-    display: grid;
-    grid-template-columns: 140px 1fr;
-    gap: 8px;
-    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
 }
 
 .form-group label {
     font-weight: 600;
     color: #003366;
     font-size: 0.85em;
-    text-align: right;
-    padding-right: 4px;
+    text-align: left;
+    padding-right: 0;
 }
 
 .form-select,
 .form-input {
-    padding: 4px 8px;
+    padding: 6px 10px;
     border: 1px solid #e1e8ed;
     border-radius: 4px;
     background-color: rgba(255, 255, 255, 0.95);
     color: #2c3e50;
-    font-size: 0.85em;
+    font-size: 0.95em;
     transition: border-color 0.2s ease, box-shadow 0.2s ease;
+    width: 100%;
+    box-sizing: border-box;
 }
 
 .form-select:focus,
@@ -75,7 +77,8 @@
 .checkbox-group {
     display: flex;
     gap: 16px;
-    margin: 4px 0 4px 148px;
+    margin: 4px 0 4px 0;
+    align-items: center;
 }
 
 .checkbox-group label {
