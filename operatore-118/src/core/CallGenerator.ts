@@ -150,7 +150,42 @@ export class CallGenerator {
    * Not cryptographically secure but sufficient for simulation purposes.
    */
   private generateCallId(): string {
-    return Math.random().toString(36).substring(2, 15);
+    // Prefer the built-in secure UUID generator when available (Node 14+/browsers)
+    // Fallback to a small RFC4122 v4 implementation using crypto.getRandomValues
+    // to avoid adding dependencies.
+    try {
+      // In browsers and recent Node.js, globalThis.crypto.randomUUID exists
+      const w = globalThis as any;
+      if (w?.crypto?.randomUUID && typeof w.crypto.randomUUID === 'function') {
+        return w.crypto.randomUUID();
+      }
+
+      // Fallback: use crypto.getRandomValues if available
+      if (w?.crypto?.getRandomValues && typeof w.crypto.getRandomValues === 'function') {
+        // RFC4122 version 4 UUID
+        const bytes = new Uint8Array(16);
+        w.crypto.getRandomValues(bytes);
+        // Per RFC4122 v4: set bits 6-7 of clock_seq_hi_and_reserved to 10
+        bytes[8] = (bytes[8] & 0x3f) | 0x80;
+        // Set the four most significant bits of time_hi_and_version to 0100
+        bytes[6] = (bytes[6] & 0x0f) | 0x40;
+
+        const toHex = (b: number) => b.toString(16).padStart(2, '0');
+        const parts = [
+          Array.from(bytes.slice(0, 4)).map(toHex).join(''),
+          Array.from(bytes.slice(4, 6)).map(toHex).join(''),
+          Array.from(bytes.slice(6, 8)).map(toHex).join(''),
+          Array.from(bytes.slice(8, 10)).map(toHex).join(''),
+          Array.from(bytes.slice(10, 16)).map(toHex).join('')
+        ];
+        return `${parts[0]}-${parts[1]}-${parts[2]}-${parts[3]}-${parts[4]}`;
+      }
+    } catch (e) {
+      // fallthrough to Math.random fallback
+    }
+
+    // Last-resort fallback (not cryptographically strong) to avoid crashing
+    return 'id-' + Math.random().toString(36).substring(2, 15);
   }
 
   /**
