@@ -37,7 +37,7 @@ export default function LiveCall({ call, onClose }: LiveCallProps) {
     return (
         <div className={styles['live-call-container']}>
             <div className={styles['call-header']}>
-                <h3>Call ID: {call.id}</h3>
+                <h3>{call.id}</h3>
             </div>
             <div className={styles['call-content']}>
                 <p>

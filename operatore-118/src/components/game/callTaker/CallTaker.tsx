@@ -42,7 +42,7 @@ export default function CallTaker() {
                                                 className={styles['call-header']} 
                                                 onClick={() => handleCallClick(call.id)}
                                             >
-                                                <span>Call ID: {call.id}</span>
+                                                <span>{call.id}</span>
                                             </div>
                                         </li>
                                     ))}

@@ -67,6 +67,23 @@ export default function CallTakerForm({ onEventCreated }: CallTakerFormProps) {
         }
     }, [noteEvento, noteEvento2]);
 
+    // Determine whether all required options/inputs are filled.
+    // Detail fields are required only if their parent selection has detail options.
+    const canCreateEvent = (() => {
+        if (codice === '') return false;
+        if (luogo === '') return false;
+        const dettLuogoOptions = getDettLuogoOptions(luogo);
+        if (dettLuogoOptions.length > 0 && dettLuogo === '') return false;
+        if (motivo === '') return false;
+        const dettMotivoOptions = getDettMotivoOptions(motivo);
+        if (dettMotivoOptions.length > 0 && dettMotivo === '') return false;
+        if (coscienza === '') return false;
+        if (noteEvento === '') return false;
+        const noteEvento2Options = getNoteEvento2Options(noteEvento);
+    if (noteEvento2Options.length > 0 && noteEvento2 === '') return false;
+        return true;
+    })();
+
     const handleSubmit = (e: React.FormEvent) => {
         e.preventDefault();
         
@@ -273,9 +290,11 @@ export default function CallTakerForm({ onEventCreated }: CallTakerFormProps) {
                     </label>
                 </div>
 
-                <button type="submit" className={styles['submit-button']}>
-                    Crea Evento
-                </button>
+                {canCreateEvent && (
+                    <button type="submit" className={styles['submit-button']}>
+                        Crea Evento
+                    </button>
+                )}
             </form>
         </div>
     );
