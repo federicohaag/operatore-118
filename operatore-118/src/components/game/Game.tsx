@@ -116,7 +116,7 @@ export default function Game() {
                         className={`${styles['tab']} ${activeTab === 'chiamate' ? styles['tab-active'] : ''}`}
                         onClick={() => setActiveTab('chiamate')}
                     >
-                        Chiamate
+                        Call Taker
                     </button>
                     <button 
                         className={`${styles['tab']} ${activeTab === 'sanitario' ? styles['tab-active'] : ''}`}
