@@ -92,141 +92,166 @@ export default function CallTakerForm({ onEventCreated }: CallTakerFormProps) {
         <div className={styles['form-container']}>
             <form onSubmit={handleSubmit} className={styles['event-form']}>
                 <div className={styles['form-grid']}>
+                    {/* first row: codice always visible */}
                     <div className={styles['form-group']}>
-                        <label htmlFor="codice">Codice:</label>
                         <select
                             id="codice"
+                            aria-label="Codice"
                             value={codice}
                             onChange={(e) => setCodice(e.target.value as Codice | '')}
                             className={styles['form-select']}
                             style={{ borderLeft: `4px solid ${getColoreCodice(codice)}` }}
                         >
-                            <option value="">-- Seleziona codice --</option>
+                            <option value="">-- Codice --</option>
                             {Object.values(Codice).map(value => (
                                 <option key={value} value={value}>{value}</option>
                             ))}
                         </select>
                     </div>
 
-                    <div className={styles['form-group']}>
-                        <label htmlFor="luogo">Luogo:</label>
-                        <select
-                            id="luogo"
-                            value={luogo}
-                            onChange={(e) => setLuogo(e.target.value as Luogo | '')}
-                            className={styles['form-select']}
-                        >
-                            <option value="">-- Seleziona luogo --</option>
-                            {Object.values(Luogo).map(value => (
-                                <option key={value} value={value}>{value}</option>
-                            ))}
-                        </select>
-                    </div>
+                    {/* show Luogo once Codice selected */}
+                    {codice !== '' && (
+                        <div className={styles['form-group']}>
+                            <select
+                                id="luogo"
+                                aria-label="Luogo"
+                                value={luogo}
+                                onChange={(e) => setLuogo(e.target.value as Luogo | '')}
+                                className={styles['form-select']}
+                            >
+                                <option value="">-- Luogo --</option>
+                                {Object.values(Luogo).map(value => (
+                                    <option key={value} value={value}>{value}</option>
+                                ))}
+                            </select>
+                        </div>
+                    )}
 
-                    <div className={styles['form-group']}>
-                        <label htmlFor="dett-luogo">Dett. Luogo:</label>
-                        <select
-                            id="dett-luogo"
-                            value={dettLuogo}
-                            onChange={(e) => setDettLuogo(e.target.value as DettLuogo | '')}
-                            className={styles['form-select']}
-                            disabled={!luogo || getDettLuogoOptions(luogo).length === 0}
-                        >
-                            <option value="">-- Seleziona dettaglio --</option>
-                            {getDettLuogoOptions(luogo).map(option => (
-                                <option key={option} value={option}>{option}</option>
-                            ))}
-                        </select>
-                    </div>
+                    {/* show Dett. Luogo once Luogo selected */}
+                    {luogo !== '' && (
+                        <div className={styles['form-group']}>
+                            <select
+                                id="dett-luogo"
+                                aria-label="Dettaglio luogo"
+                                value={dettLuogo}
+                                onChange={(e) => setDettLuogo(e.target.value as DettLuogo | '')}
+                                className={styles['form-select']}
+                                disabled={getDettLuogoOptions(luogo).length === 0}
+                            >
+                                <option value="">-- Dettaglio --</option>
+                                {getDettLuogoOptions(luogo).map(option => (
+                                    <option key={option} value={option}>{option}</option>
+                                ))}
+                            </select>
+                        </div>
+                    )}
 
-                    <div className={styles['form-group']}>
-                        <label htmlFor="motivo">Motivo:</label>
-                        <select
-                            id="motivo"
-                            value={motivo}
-                            onChange={(e) => setMotivo(e.target.value as Motivo | '')}
-                            className={styles['form-select']}
-                        >
-                            <option value="">-- Seleziona motivo --</option>
-                            {Object.values(Motivo).map(value => (
-                                <option key={value} value={value}>{value}</option>
-                            ))}
-                        </select>
-                    </div>
+                    {/* show Motivo once Dett. Luogo selected OR if Luogo had no details */}
+                    {(dettLuogo !== '' || (luogo !== '' && getDettLuogoOptions(luogo).length === 0)) && (
+                        <div className={styles['form-group']}>
+                            <select
+                                id="motivo"
+                                aria-label="Motivo"
+                                value={motivo}
+                                onChange={(e) => setMotivo(e.target.value as Motivo | '')}
+                                className={styles['form-select']}
+                            >
+                                <option value="">-- Motivo --</option>
+                                {Object.values(Motivo).map(value => (
+                                    <option key={value} value={value}>{value}</option>
+                                ))}
+                            </select>
+                        </div>
+                    )}
 
-                    <div className={styles['form-group']}>
-                        <label htmlFor="dett-motivo">Dett. Motivo:</label>
-                        <select
-                            id="dett-motivo"
-                            value={dettMotivo}
-                            onChange={(e) => setDettMotivo(e.target.value as DettMotivo | '')}
-                            className={styles['form-select']}
-                            disabled={!motivo || getDettMotivoOptions(motivo).length === 0}
-                        >
-                            <option value="">-- Seleziona dettaglio --</option>
-                            {getDettMotivoOptions(motivo).map(option => (
-                                <option key={option} value={option}>{option}</option>
-                            ))}
-                        </select>
-                    </div>
+                    {/* show Dett. Motivo once Motivo selected */}
+                    {motivo !== '' && (
+                        <div className={styles['form-group']}>
+                            <select
+                                id="dett-motivo"
+                                aria-label="Dettaglio motivo"
+                                value={dettMotivo}
+                                onChange={(e) => setDettMotivo(e.target.value as DettMotivo | '')}
+                                className={styles['form-select']}
+                                disabled={getDettMotivoOptions(motivo).length === 0}
+                            >
+                                <option value="">-- Dettaglio --</option>
+                                {getDettMotivoOptions(motivo).map(option => (
+                                    <option key={option} value={option}>{option}</option>
+                                ))}
+                            </select>
+                        </div>
+                    )}
 
-                    <div className={styles['form-group']}>
-                        <label htmlFor="coscienza">Coscienza:</label>
-                        <select
-                            id="coscienza"
-                            value={coscienza}
-                            onChange={(e) => setCoscienza(e.target.value as Coscienza | '')}
-                            className={styles['form-select']}
-                        >
-                            <option value="">-- Seleziona coscienza --</option>
-                            {Object.values(Coscienza).map(value => (
-                                <option key={value} value={value}>{value}</option>
-                            ))}
-                        </select>
-                    </div>
+                    {/* show Coscienza after Dett. Motivo selected or if Motivo had no details */}
+                    {(dettMotivo !== '' || (motivo !== '' && getDettMotivoOptions(motivo).length === 0)) && (
+                        <div className={styles['form-group']}>
+                            <select
+                                id="coscienza"
+                                aria-label="Coscienza"
+                                value={coscienza}
+                                onChange={(e) => setCoscienza(e.target.value as Coscienza | '')}
+                                className={styles['form-select']}
+                            >
+                                <option value="">-- Coscienza --</option>
+                                {Object.values(Coscienza).map(value => (
+                                    <option key={value} value={value}>{value}</option>
+                                ))}
+                            </select>
+                        </div>
+                    )}
 
-                    <div className={styles['form-group']}>
-                        <label htmlFor="note-evento">Note evento:</label>
-                        <select
-                            id="note-evento"
-                            value={noteEvento}
-                            onChange={(e) => setNoteEvento(e.target.value as NoteEvento | '')}
-                            className={styles['form-select']}
-                        >
-                            <option value="">-- Seleziona note evento --</option>
-                            {Object.values(NoteEvento).map(value => (
-                                <option key={value} value={value}>{value}</option>
-                            ))}
-                        </select>
-                    </div>
+                    {/* show Note evento after Coscienza selected */}
+                    {coscienza !== '' && (
+                        <div className={styles['form-group']}>
+                            <select
+                                id="note-evento"
+                                aria-label="Note evento"
+                                value={noteEvento}
+                                onChange={(e) => setNoteEvento(e.target.value as NoteEvento | '')}
+                                className={styles['form-select']}
+                            >
+                                <option value="">-- Note --</option>
+                                {Object.values(NoteEvento).map(value => (
+                                    <option key={value} value={value}>{value}</option>
+                                ))}
+                            </select>
+                        </div>
+                    )}
 
-                    <div className={styles['form-group']}>
-                        <label htmlFor="note-evento2">Note evento 2:</label>
-                        <select
-                            id="note-evento2"
-                            value={noteEvento2}
-                            onChange={(e) => setNoteEvento2(e.target.value as NoteEvento2 | '')}
-                            className={styles['form-select']}
-                            disabled={!noteEvento || getNoteEvento2Options(noteEvento).length === 0}
-                        >
-                            <option value="">-- Seleziona dettaglio --</option>
-                            {getNoteEvento2Options(noteEvento).map(option => (
-                                <option key={option} value={option}>{option}</option>
-                            ))}
-                        </select>
-                    </div>
+                    {/* show Note evento 2 after Note evento selected */}
+                    {noteEvento !== '' && (
+                        <div className={styles['form-group']}>
+                            <select
+                                id="note-evento2"
+                                aria-label="Note evento 2"
+                                value={noteEvento2}
+                                onChange={(e) => setNoteEvento2(e.target.value as NoteEvento2 | '')}
+                                className={styles['form-select']}
+                                disabled={getNoteEvento2Options(noteEvento).length === 0}
+                            >
+                                <option value="">-- Dettaglio --</option>
+                                {getNoteEvento2Options(noteEvento).map(option => (
+                                    <option key={option} value={option}>{option}</option>
+                                ))}
+                            </select>
+                        </div>
+                    )}
 
-                    <div className={styles['form-group']}>
-                        <label htmlFor="altro-evento">Altro evento:</label>
-                        <input
-                            id="altro-evento"
-                            type="text"
-                            value={altroEvento}
-                            onChange={(e) => setAltroEvento(e.target.value)}
-                            className={styles['form-input']}
-                            placeholder="Campo libero per note aggiuntive"
-                        />
-                    </div>
+                    {/* show Altro evento after Note evento 2 selected or if previous had no details */}
+                    {(noteEvento2 !== '' || (noteEvento !== '' && getNoteEvento2Options(noteEvento).length === 0)) && (
+                        <div className={styles['form-group']}>
+                            <input
+                                id="altro-evento"
+                                aria-label="Altro evento"
+                                type="text"
+                                value={altroEvento}
+                                onChange={(e) => setAltroEvento(e.target.value)}
+                                className={styles['form-input']}
+                                placeholder="-- Altro --"
+                            />
+                        </div>
+                    )}
                 </div>
 
                 <div className={styles['checkbox-group']}>
@@ -249,7 +274,7 @@ export default function CallTakerForm({ onEventCreated }: CallTakerFormProps) {
                 </div>
 
                 <button type="submit" className={styles['submit-button']}>
-                    Crea Missione
+                    Crea Evento
                 </button>
             </form>
         </div>
