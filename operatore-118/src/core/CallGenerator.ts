@@ -5,12 +5,26 @@ import { CALL_TEMPLATES } from '../data/calls';
 import type { Call } from '../model/call';
 
 /**
+ * Configuration options for CallGenerator.
+ */
+export interface CallGeneratorConfig {
+  /** Interval between call generation in simulation milliseconds */
+  intervalMs: number;
+  
+  /** Probability weights for severity distribution [stable, medium, critical] */
+  severityWeights: {
+    stable: number;
+    medium: number;
+    critical: number;
+  };
+}
+
+/**
  * Generates emergency calls at regular intervals and dispatches them to the Redux store.
  * 
  * CallGenerator uses a Scheduler to create periodic CALL_RECEIVED events. Each call is
- * randomly generated from templates with weighted severity distribution (50% stable, 
- * 30% medium, 20% critical). The generator supports start/stop control and automatically
- * cancels pending events when stopped.
+ * randomly generated from templates with configurable severity distribution. The generator 
+ * supports start/stop control and automatically cancels pending events when stopped.
  * 
  * Integration with simulation:
  * - Schedules events through the provided Scheduler instance
@@ -18,7 +32,7 @@ import type { Call } from '../model/call';
  * - Dispatches calls to Redux store through scheduler context
  * 
  * Lifecycle:
- * - Create with a Scheduler instance
+ * - Create with a Scheduler instance and required configuration
  * - Call start() to begin generation
  * - Call stop() to halt generation and cancel pending events
  * - Handles scheduler disposal gracefully by stopping generation
@@ -27,8 +41,8 @@ export class CallGenerator {
   /** Scheduler instance used for timing and event management */
   private scheduler: Scheduler;
   
-  /** Interval between calls in simulation milliseconds */
-  private intervalMs: number;
+  /** Configuration for call generation behavior */
+  private config: CallGeneratorConfig;
   
   /** Tracks whether the generator is actively scheduling calls */
   private isStarted = false;
@@ -40,10 +54,11 @@ export class CallGenerator {
    * Creates a new CallGenerator instance.
    * 
    * @param scheduler - Scheduler instance for event timing and dispatch context
+   * @param config - Configuration for call generation behavior
    */
-  constructor(scheduler: Scheduler) {
+  constructor(scheduler: Scheduler, config: CallGeneratorConfig) {
     this.scheduler = scheduler;
-    this.intervalMs = 3000;
+    this.config = config;
   }
 
   /**
@@ -89,7 +104,7 @@ export class CallGenerator {
     if (!this.isStarted) return;
 
     try {
-      const { cancel } = this.scheduler.scheduleIn(this.intervalMs, {
+      const { cancel } = this.scheduler.scheduleIn(this.config.intervalMs, {
         type: EventType.CALL_RECEIVED,
         payload: this.generateCall(),
         handler: (ctx, event) => {
@@ -145,23 +160,24 @@ export class CallGenerator {
    * 
    * Selection process:
    * 1. Randomly picks a call template from CALL_TEMPLATES
-   * 2. Randomly selects severity using weighted distribution:
-   *    - 50% chance of 'stable' (minor emergencies)
-   *    - 30% chance of 'medium' (moderate emergencies)
-   *    - 20% chance of 'critical' (life-threatening emergencies)
+   * 2. Randomly selects severity using configured weighted distribution
    * 3. Matches appropriate feedback from template based on selected severity
    * 4. Generates unique ID for the call
    * 
    * The weighted distribution ensures realistic emergency frequency patterns
-   * where critical cases are less common than stable ones.
+   * where critical cases are typically less common than stable ones.
    */
   private generateCall(): Call {
     // Pick a random template
     const template = CALL_TEMPLATES[Math.floor(Math.random() * CALL_TEMPLATES.length)];
     
-    // Generate random case severity with weighted probabilities
+    // Generate random case severity with weighted probabilities from config
     const severities = ['stable', 'medium', 'critical'] as const;
-    const weights = [0.5, 0.3, 0.2]; // 50% stable, 30% medium, 20% critical
+    const weights = [
+      this.config.severityWeights.stable,
+      this.config.severityWeights.medium,
+      this.config.severityWeights.critical
+    ];
     
     let selectedSeverity: typeof severities[number] = 'stable';
     const rand = Math.random();

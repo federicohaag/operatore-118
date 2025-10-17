@@ -8,6 +8,7 @@ import GameClock from './gameClock/GameClock';
 import { VirtualClock } from '../../core/VirtualClock';
 import { Scheduler } from '../../core/Scheduler';
 import { CallGenerator } from '../../core/CallGenerator';
+import { CALL_GENERATOR_CONFIG } from '../../core/config';
 import type { SimContext } from '../../core/EventQueue';
 import { useAppSelector, useAppDispatch } from '../../core/redux/hooks';
 import { selectRegion, selectDispatchCenter, clearSettings } from '../../core/redux/slices/settings';
@@ -33,7 +34,7 @@ export default function Game() {
         };
         
         const scheduler = new Scheduler(virtualClock, simContext);
-        const callGenerator = new CallGenerator(scheduler);
+        const callGenerator = new CallGenerator(scheduler, CALL_GENERATOR_CONFIG);
         
         return {
             virtualClock,
