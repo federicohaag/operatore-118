@@ -12,9 +12,10 @@ import type { VirtualClock } from '../../../core/VirtualClock';
 
 interface CallTakerProps {
     clock: VirtualClock;
+    onCallSelect?: (location: [number, number]) => void;
 }
 
-export default function CallTaker({ clock }: CallTakerProps) {
+export default function CallTaker({ clock, onCallSelect: onCallSelect }: CallTakerProps) {
     const dispatch = useAppDispatch();
     const calls = useAppSelector(selectCalls);
     const [selectedCall, setSelectedCall] = useState<string | null>(null);
@@ -42,6 +43,12 @@ export default function CallTaker({ clock }: CallTakerProps) {
 
     const handleCallClick = (callId: string) => {
         setSelectedCall(callId);
+        
+        // Center map on call location
+        const call = calls.find(c => c.id === callId);
+        if (call && onCallSelect) {
+            onCallSelect([call.location.address.latitude, call.location.address.longitude]);
+        }
     };
 
     const handleEventCreated = (eventDetails: EventDetails) => {
@@ -55,12 +62,21 @@ export default function CallTaker({ clock }: CallTakerProps) {
         dispatch(addEvent(newEvent));
         
         console.log('New event created and dispatched:', newEvent);
+        
+        // Clear map marker
+        if (onCallSelect) {
+            onCallSelect(undefined as any);
+        }
     };
 
     const handleCallAborted = () => {
         if (selectedCall) {
             dispatch(removeCall(selectedCall));
             setSelectedCall(null);
+            // Clear map marker
+            if (onCallSelect) {
+                onCallSelect(undefined as any);
+            }
         }
     };
 

@@ -19,6 +19,7 @@ import { REGIONS } from '../../model/aggregates';
 
 export default function Game() {
     const [activeTab, setActiveTab] = useState<'chiamate' | 'sanitario' | 'logistica'>('chiamate');
+    const [mapCenter, setMapCenter] = useState<[number, number] | undefined>(undefined);
     const dispatch = useAppDispatch();
     const cities = useAppSelector(selectCities);
     
@@ -119,9 +120,9 @@ export default function Game() {
             <div className={styles['clock-row']}>
                 <GameClock clock={virtualClock} />
             </div>
-            <div className={styles['content-row']}>
+                        <div className={styles['content-row']}>
                 <div className={styles['left-column']}>
-                    <Map initCenter={initCenter} />
+                    <Map initCenter={initCenter} center={mapCenter} />
                 </div>
                 <div className={styles['right-column']}>
                 <div className={styles['tabs-header']}>
@@ -146,7 +147,7 @@ export default function Game() {
                 </div>
 
                 <div className={styles['tab-content']}>
-                    {activeTab === 'chiamate' && <CallTaker clock={virtualClock} />}
+                    {activeTab === 'chiamate' && <CallTaker clock={virtualClock} onCallSelect={setMapCenter} />}
                     {activeTab === 'sanitario' && <Sanitario />}
                     {activeTab === 'logistica' && <Logistica />}
                 </div>

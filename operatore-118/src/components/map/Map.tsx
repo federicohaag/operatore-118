@@ -11,11 +11,14 @@ declare global {
 type MapProps = {
     initCenter: [number, number];
     initZoom?: number;
+    center?: [number, number];
+    zoom?: number;
 }
 
-export default function Map({ initCenter, initZoom = 10 }: MapProps) {
+export default function Map({ initCenter, initZoom = 10, center, zoom }: MapProps) {
     const mapRef = useRef<HTMLDivElement>(null);
     const mapInstanceRef = useRef<any>(null);
+    const markerRef = useRef<any>(null);
 
     useEffect(() => {
         // Load Leaflet CSS and JS
@@ -63,6 +66,33 @@ export default function Map({ initCenter, initZoom = 10 }: MapProps) {
             }
         };
     }, [initCenter, initZoom]);
+
+    // Update map center and marker when center prop changes
+    useEffect(() => {
+        if (mapInstanceRef.current && window.L) {
+            if (center) {
+                // Pan to new center without changing zoom level
+                mapInstanceRef.current.panTo(center, {
+                    animate: true,
+                    duration: 0.5
+                });
+                
+                // Remove existing marker if any
+                if (markerRef.current) {
+                    markerRef.current.remove();
+                }
+                
+                // Add new marker at the center position
+                markerRef.current = window.L.marker(center).addTo(mapInstanceRef.current);
+            } else {
+                // Remove marker if center is null/undefined
+                if (markerRef.current) {
+                    markerRef.current.remove();
+                    markerRef.current = null;
+                }
+            }
+        }
+    }, [center, zoom]);
 
     return (
         <div className={styles['map-container']}>
