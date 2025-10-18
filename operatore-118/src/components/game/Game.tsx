@@ -58,12 +58,18 @@ export default function Game() {
     useEffect(() => {
         isMountedRef.current = true;
         
-        // Only start call generator if cities are configured
-        if (cities.length > 0) {
-            callGenerator.start();
-        } else {
-            console.warn('CallGenerator not started: no cities configured.');
-        }
+        // Use queueMicrotask to delay start until after React Strict Mode's double-mount
+        // This ensures we only start once, not during the first mount that gets immediately unmounted
+        queueMicrotask(() => {
+            if (isMountedRef.current) {
+                // Only start call generator if cities are configured
+                if (cities.length > 0) {
+                    callGenerator.start();
+                } else {
+                    console.warn('CallGenerator not started: no cities configured.');
+                }
+            }
+        });
         
         // Cleanup function
         return () => {
