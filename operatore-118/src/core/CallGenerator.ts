@@ -4,6 +4,7 @@ import { addCall } from './redux/slices/calls';
 import { CALL_TEMPLATES } from '../data/calls';
 import type { Call } from '../model/call';
 import { generateUuid } from './utils';
+import { AddressGenerator } from './AddressGenerator';
 
 /**
  * Configuration options for CallGenerator.
@@ -50,16 +51,21 @@ export class CallGenerator {
   
   /** Cancel function for the currently pending call event, if any */
   private currentEventCancel?: () => boolean;
+  
+  /** Address generator for creating realistic addresses */
+  private addressGenerator: AddressGenerator;
 
   /**
    * Creates a new CallGenerator instance.
    * 
    * @param scheduler - Scheduler instance for event timing and dispatch context
    * @param config - Configuration for call generation behavior
+   * @param addressGenerator - AddressGenerator instance for creating realistic addresses
    */
-  constructor(scheduler: Scheduler, config: CallGeneratorConfig) {
+  constructor(scheduler: Scheduler, config: CallGeneratorConfig, addressGenerator: AddressGenerator) {
     this.scheduler = scheduler;
     this.config = config;
+    this.addressGenerator = addressGenerator;
   }
 
   /**
@@ -101,13 +107,16 @@ export class CallGenerator {
    * If scheduling fails (e.g., scheduler disposed), logs a warning and stops
    * generation automatically.
    */
-  private scheduleNextCall(): void {
+  private async scheduleNextCall(): Promise<void> {
     if (!this.isStarted) return;
 
     try {
+      // Generate call asynchronously (may need to fetch address from API)
+      const call = await this.generateCall();
+      
       const { cancel } = this.scheduler.scheduleIn(this.config.intervalMs, {
         type: EventType.CALL_RECEIVED,
-        payload: this.generateCall(),
+        payload: call,
         handler: (ctx, event) => {
           this.handleCall(ctx, event);
           this.scheduleNextCall();
@@ -162,18 +171,19 @@ export class CallGenerator {
   /**
    * Generates a random emergency call from templates with weighted severity.
    * 
-   * @returns New Call object with randomly selected template and severity-matched feedback
+   * @returns Promise resolving to new Call object with randomly selected template and severity-matched feedback
    * 
    * Selection process:
    * 1. Randomly picks a call template from CALL_TEMPLATES
    * 2. Randomly selects severity using configured weighted distribution
    * 3. Matches appropriate feedback from template based on selected severity
-   * 4. Generates unique ID for the call
+   * 4. Generates realistic address using AddressGenerator (or placeholder if no cities configured)
+   * 5. Generates unique ID for the call
    * 
    * The weighted distribution ensures realistic emergency frequency patterns
    * where critical cases are typically less common than stable ones.
    */
-  private generateCall(): Call {
+  private async generateCall(): Promise<Call> {
     // Pick a random template
     const template = CALL_TEMPLATES[Math.floor(Math.random() * CALL_TEMPLATES.length)];
     
@@ -203,19 +213,16 @@ export class CallGenerator {
       ? template.mediumCaseFeedback
       : template.criticalCaseFeedback;
     
+    // Generate address using AddressGenerator
+    const address = await this.addressGenerator.getRandomAddress();
+    
     return {
       id: this.generateCallId(),
       text: template.text,
       feedback,
       receivedAt: 0, // Placeholder, will be set to simulation time in handleCall
       location: {
-        address: {
-          street: 'Unknown St',
-          number: 'N/A',
-          city: 'Unknown City',
-          latitude: 0,
-          longitude: 0
-        },
+        address,
         type: template.locationType
       }
     };

@@ -105,6 +105,9 @@ export default function CallTaker({ clock }: CallTakerProps) {
                                                         <div className={styles['call-elapsed']}>
                                                             +{minutes.toString().padStart(2, '0')}:{seconds.toString().padStart(2, '0')}
                                                         </div>
+                                                        <div className={styles['call-address']}>
+                                                            {call.location.address.city}, {call.location.address.street} {call.location.address.number}
+                                                        </div>
                                                     </div>
                                                 </div>
                                             </li>

@@ -4,7 +4,7 @@ import styles from './RegionSelector.module.css';
 import DispatchCenterSelectionOverlay from './DispatchCenterSelectionOverlay';
 import { RegionStatus, type Region } from '../../model/region';
 import { useAppDispatch, useAppSelector } from '../../core/redux/hooks';
-import { selectRegion, setRegion, setDispatchCenter } from '../../core/redux/slices/settings';
+import { selectRegion, setRegion, setDispatchCenter, setCities } from '../../core/redux/slices/settings';
 import { REGIONS } from '../../model/aggregates';
 
 const StatusMessages: Record<RegionStatus, string> = {
@@ -24,6 +24,7 @@ export default function RegionSelector() {
             if (selectedRegion && overlayRef.current && !overlayRef.current.contains(event.target as Node)) {
                 dispatch(setRegion(null));
                 dispatch(setDispatchCenter(null));
+                dispatch(setCities([]));
             }
         }
 
@@ -44,6 +45,12 @@ export default function RegionSelector() {
     const handleDispatchCenterSelect = (dispatchCenter: string) => {
         if (currentRegionObj) {
             dispatch(setDispatchCenter(dispatchCenter));
+            
+            // Set cities from the selected dispatch center
+            const selectedDC = currentRegionObj.dispatchCenters?.find(dc => dc.id === dispatchCenter);
+            if (selectedDC) {
+                dispatch(setCities(selectedDC.cities));
+            }
         }
     };
 

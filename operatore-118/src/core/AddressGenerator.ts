@@ -92,6 +92,18 @@ export class AddressGenerator {
     }
     
     if (allAddresses.length === 0) {
+      const citiesWithNoAddresses = this.config.cities.filter(
+        city => this.addressCache.has(city) && this.addressCache.get(city)!.length === 0
+      );
+      
+      if (citiesWithNoAddresses.length > 0) {
+        throw new Error(
+          `No addresses available. The following cities returned 0 addresses from OpenStreetMap: ${citiesWithNoAddresses.join(', ')}. ` +
+          `This likely means the city names don't match OpenStreetMap data or the areas don't have tagged addresses. ` +
+          `Consider using different city names or checking OpenStreetMap data availability.`
+        );
+      }
+      
       throw new Error('No addresses available in cache');
     }
     
@@ -104,7 +116,8 @@ export class AddressGenerator {
    * Ensures addresses are cached for all configured cities.
    * 
    * Checks which cities don't have cached addresses and fetches them
-   * from the Overpass API. Requests are made in parallel for efficiency.
+   * from the Overpass API in a single request to avoid rate limiting.
+   * Does not retry fetching for cities that are already cached (even if empty).
    * 
    * @throws Error if any API request fails
    */
@@ -113,32 +126,40 @@ export class AddressGenerator {
       city => !this.addressCache.has(city)
     );
     
+    const cachedCities = this.config.cities.filter(
+      city => this.addressCache.has(city)
+    );
+    
+    if (cachedCities.length > 0) {
+      console.log(`AddressGenerator: Using cached addresses for cities: ${cachedCities.join(', ')}`);
+    }
+    
     if (citiesToFetch.length === 0) {
+      console.log('AddressGenerator: All cities already cached, no API request needed');
       return;
     }
     
-    // Fetch addresses for all missing cities in parallel
-    const fetchPromises = citiesToFetch.map(city => this.fetchAddressesForCity(city));
-    await Promise.all(fetchPromises);
+    console.log(`AddressGenerator: Fetching addresses for cities: ${citiesToFetch.join(', ')}`);
+    // Fetch addresses for all missing cities in a single request to avoid rate limiting
+    await this.fetchAddressesForCities(citiesToFetch);
   }
 
   /**
-   * Fetches addresses for a specific city from the Overpass API.
+   * Fetches addresses for multiple cities from the Overpass API in a single request.
    * 
-   * Constructs an Overpass QL query to find streets with house numbers
-   * in the specified city. Parses the response and caches the results.
+   * Constructs an Overpass QL query that searches all cities at once to minimize
+   * API requests and avoid rate limiting. Parses the response and caches the results
+   * per city.
    * 
-   * The query searches for nodes with addr:street and addr:housenumber tags
-   * within the city boundary, limiting results to 100 addresses per city
-   * to keep response sizes manageable.
-   * 
-   * @param city - Name of the city to fetch addresses for
+   * @param cities - Array of city names to fetch addresses for
    * @throws Error if the API request fails or returns invalid data
    */
-  private async fetchAddressesForCity(city: string): Promise<void> {
-    const query = this.buildOverpassQuery(city);
+  private async fetchAddressesForCities(cities: string[]): Promise<void> {
+    const query = this.buildOverpassQueryForMultipleCities(cities);
     const endpoint = this.config.overpassEndpoint!;
     const timeoutMs = this.config.timeoutMs!;
+    
+    console.log(`AddressGenerator: Sending Overpass API request for ${cities.length} cities to ${endpoint}`);
     
     try {
       const controller = new AbortController();
@@ -160,44 +181,69 @@ export class AddressGenerator {
       }
       
       const data = await response.json();
-      const addresses = this.parseOverpassResponse(data, city);
       
-      if (addresses.length === 0) {
-        console.warn(`No addresses found for city: ${city}`);
+      console.log(`AddressGenerator: Received response with ${data.elements?.length || 0} total elements from Overpass API (these elements will be filtered and parsed per city)`);
+      
+      // Parse and cache addresses by city
+      for (const city of cities) {
+        const addresses = this.parseOverpassResponseForCity(data, city);
+        
+        if (addresses.length === 0) {
+          console.error(`AddressGenerator: No addresses found for city: ${city}. The Overpass API query may need adjustment or the city name may not match OpenStreetMap data.`);
+        } else {
+          console.log(`AddressGenerator: Cached ${addresses.length} addresses for ${city}`);
+        }
+        
+        this.addressCache.set(city, addresses);
       }
       
-      this.addressCache.set(city, addresses);
+      const totalCached = cities.reduce((sum, city) => sum + (this.addressCache.get(city)?.length || 0), 0);
+      console.log(`AddressGenerator: Caching complete. Total valid addresses cached: ${totalCached} (out of ${data.elements?.length || 0} raw elements)`);
     } catch (error) {
       if (error instanceof Error) {
         if (error.name === 'AbortError') {
-          throw new Error(`Overpass API request timed out for city: ${city}`);
+          throw new Error(`Overpass API request timed out for cities: ${cities.join(', ')}`);
         }
-        throw new Error(`Failed to fetch addresses for ${city}: ${error.message}`);
+        throw new Error(`Failed to fetch addresses for cities: ${error.message}`);
       }
       throw error;
     }
   }
 
   /**
-   * Builds an Overpass QL query to fetch addresses for a city.
+   * Builds an Overpass QL query to fetch addresses for multiple cities.
    * 
-   * The query searches for nodes with address tags (addr:street, addr:housenumber)
-   * within the specified city. It uses geocodeArea to find the city boundary and
-   * limits results to 100 addresses to keep the response manageable.
+   * Constructs a single query that searches all cities at once to minimize
+   * API requests and avoid rate limiting. For Italian municipalities (comuni),
+   * searches specifically for admin_level=8 boundaries to ensure precise matching.
    * 
-   * @param city - Name of the city to query
+   * @param cities - Array of city names (Italian comuni) to query
    * @returns Overpass QL query string
    */
-  private buildOverpassQuery(city: string): string {
-    // Overpass QL query to find addresses in the city
-    // We search for nodes with addr:street and addr:housenumber tags
+  private buildOverpassQueryForMultipleCities(cities: string[]): string {
+    // Build union query for all cities
+    // Italian comuni are admin_level=8, we search for this specifically
+    // to avoid matching broader areas (provinces=6, regions=4)
+    const cityQueries = cities.map(city => {
+      const safeCityName = city.replace(/[^a-zA-Z0-9]/g, '_');
+      return `
+      // Search for ${city} comune (municipality) boundary
+      (
+        area["name"="${city}"]["admin_level"="8"]["boundary"="administrative"];
+        area["name:it"="${city}"]["admin_level"="8"]["boundary"="administrative"];
+      )->.searchArea_${safeCityName};
+      // Get addresses within the comune boundary
+      (
+        node(area.searchArea_${safeCityName})["addr:street"]["addr:housenumber"];
+        way(area.searchArea_${safeCityName})["addr:street"]["addr:housenumber"];
+      );
+    `;
+    }).join('');
+    
     return `
       [out:json][timeout:25];
-      area["name"="${city}"]["place"~"city|town"]["admin_level"="8"]->.searchArea;
-      (
-        node(area.searchArea)["addr:street"]["addr:housenumber"];
-      );
-      out body 100;
+      ${cityQueries}
+      out center 100;
     `;
   }
 
@@ -207,28 +253,44 @@ export class AddressGenerator {
    * Extracts relevant address information from the response elements:
    * - addr:street for street name
    * - addr:housenumber for house number
-   * - lat/lon for coordinates
-   * - Uses the provided city name
+   * - lat/lon for coordinates (from node or center of way)
+   * - Uses the provided city name for all addresses
    * 
-   * Filters out elements that don't have all required fields.
+   * Since the query already filters by comune boundaries (admin_level=8),
+   * all returned elements are within the municipality and don't need additional
+   * city filtering. The addr:city tag is often inconsistent or missing in OSM data.
    * 
-   * @param data - Raw JSON response from Overpass API
-   * @param city - City name to use for all addresses
-   * @returns Array of parsed Address objects
+   * @param data - Raw JSON response from Overpass API containing multiple cities
+   * @param city - City name (comune) to use for all addresses
+   * @returns Array of parsed Address objects for the specified city
    */
-  private parseOverpassResponse(data: any, city: string): Address[] {
+  private parseOverpassResponseForCity(data: any, city: string): Address[] {
     if (!data.elements || !Array.isArray(data.elements)) {
+      console.warn(`AddressGenerator: No elements in API response for ${city}`);
       return [];
     }
     
     const addresses: Address[] = [];
+    let skippedDueToMissingData = 0;
     
     for (const element of data.elements) {
       const tags = element.tags || {};
+      
+      // Since we're querying by precise comune boundaries, accept all elements
+      // The addr:city tag is often inconsistent or missing in Italian OSM data
+      
       const street = tags['addr:street'];
       const number = tags['addr:housenumber'];
-      const lat = element.lat;
-      const lon = element.lon;
+      
+      // Get coordinates from node or way center
+      let lat = element.lat;
+      let lon = element.lon;
+      
+      // For ways, coordinates are in the center object
+      if (!lat && element.center) {
+        lat = element.center.lat;
+        lon = element.center.lon;
+      }
       
       // Only include if we have all required fields
       if (street && number && lat !== undefined && lon !== undefined) {
@@ -239,8 +301,15 @@ export class AddressGenerator {
           latitude: lat,
           longitude: lon,
         });
+      } else {
+        skippedDueToMissingData++;
       }
     }
+    
+    console.log(
+      `AddressGenerator: Parsed ${data.elements.length} elements for ${city}: ` +
+      `${addresses.length} valid, ${skippedDueToMissingData} skipped (missing street/number/coordinates)`
+    );
     
     return addresses;
   }

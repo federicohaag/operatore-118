@@ -3,7 +3,7 @@
  */
 export const CALL_GENERATOR_CONFIG = {
   /** Interval between call generation in simulation milliseconds */
-  intervalMs: 2000,
+  intervalMs: 10000,
   
   /** Probability weights for severity distribution */
   severityWeights: {

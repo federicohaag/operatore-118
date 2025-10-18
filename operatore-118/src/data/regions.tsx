@@ -83,7 +83,7 @@ export const LOMBARDIA: Region = {
     status: RegionStatus.Available,
     dispatchCenters: [
         { id: 'SRA', label: 'SOREU Alpina', latitude: 45.4642, longitude: 9.1900, cities: [] },
-        { id: 'SRL', label: 'SOREU Laghi', latitude: 45.4642, longitude: 9.1900, cities: [] },
+        { id: 'SRL', label: 'SOREU Laghi', latitude: 45.4642, longitude: 9.1900, cities: ["Como", "Varese"] },
         { id: 'SRM', label: 'SOREU Metropolitana', latitude: 45.4642, longitude: 9.1900, cities: [] },
         { id: 'SRP', label: 'SOREU Pianura', latitude: 45.4642, longitude: 9.1900, cities: [] }
     ],

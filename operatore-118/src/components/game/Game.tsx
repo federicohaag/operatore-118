@@ -8,10 +8,11 @@ import GameClock from './gameClock/GameClock';
 import { VirtualClock } from '../../core/VirtualClock';
 import { Scheduler } from '../../core/Scheduler';
 import { CallGenerator } from '../../core/CallGenerator';
+import { AddressGenerator } from '../../core/AddressGenerator';
 import { CALL_GENERATOR_CONFIG } from '../../core/config';
 import type { SimContext } from '../../core/EventQueue';
 import { useAppSelector, useAppDispatch } from '../../core/redux/hooks';
-import { selectRegion, selectDispatchCenter, clearSettings } from '../../core/redux/slices/settings';
+import { selectRegion, selectDispatchCenter, selectCities, clearSettings } from '../../core/redux/slices/settings';
 import { clearCalls } from '../../core/redux/slices/calls';
 import { STORAGE_STATE_KEY } from '../../core/redux/constants';
 import { REGIONS } from '../../model/aggregates';
@@ -19,13 +20,13 @@ import { REGIONS } from '../../model/aggregates';
 export default function Game() {
     const [activeTab, setActiveTab] = useState<'chiamate' | 'sanitario' | 'logistica'>('chiamate');
     const dispatch = useAppDispatch();
+    const cities = useAppSelector(selectCities);
     
     // Track if component is truly mounted to prevent disposal during Strict Mode
     const isMountedRef = useRef(false);
     
-    // Create simulation infrastructure using useState for true stability
-    // useState initialization function only runs once, even in Strict Mode
-    const [infrastructure] = useState(() => {
+    // Create simulation infrastructure using useMemo to recreate when cities change
+    const infrastructure = useMemo(() => {
         const virtualClock = new VirtualClock(1.0, true, 0);
         
         const simContext: SimContext = {
@@ -34,15 +35,17 @@ export default function Game() {
         };
         
         const scheduler = new Scheduler(virtualClock, simContext);
-        const callGenerator = new CallGenerator(scheduler, CALL_GENERATOR_CONFIG);
+        const addressGenerator = new AddressGenerator({ cities: cities });
+        const callGenerator = new CallGenerator(scheduler, CALL_GENERATOR_CONFIG, addressGenerator);
         
         return {
             virtualClock,
             simContext,
             scheduler,
+            addressGenerator,
             callGenerator
         };
-    });
+    }, [cities]);
     
     const { virtualClock, simContext, scheduler, callGenerator } = infrastructure;
     
@@ -55,8 +58,12 @@ export default function Game() {
     useEffect(() => {
         isMountedRef.current = true;
         
-        // Start call generator
-        callGenerator.start();
+        // Only start call generator if cities are configured
+        if (cities.length > 0) {
+            callGenerator.start();
+        } else {
+            console.warn('CallGenerator not started: no cities configured.');
+        }
         
         // Cleanup function
         return () => {
@@ -75,7 +82,7 @@ export default function Game() {
                 }
             });
         };
-    }, [callGenerator, scheduler]);
+    }, [callGenerator, scheduler, cities]);
     
     const selectedRegionId = useAppSelector(selectRegion);
     const selectedDispatchCenterId = useAppSelector(selectDispatchCenter);
