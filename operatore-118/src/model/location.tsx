@@ -1,8 +1,5 @@
 /**
  * Type of location where the emergency occurred
- * 
- * Categorizes emergencies by their location type to help with resource
- * allocation and response planning.
  */
 export const LocationType = {
     /** Emergency at a residential location (home, apartment) */
