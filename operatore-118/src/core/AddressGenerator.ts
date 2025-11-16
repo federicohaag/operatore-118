@@ -336,47 +336,65 @@ export class AddressGenerator {
   }
 
   /**
-   * Deduplicates addresses by their coordinates.
+   * Deduplicates addresses by their coordinates and street/number combination.
    * 
    * Buildings with multiple units (e.g., 5a, 5b, 5c) share the same coordinates
-   * but have different house numbers. This reduces spatial diversity when generating
-   * random addresses. This method keeps only one address per coordinate pair to
-   * ensure better geographic distribution.
+   * but have different house numbers. Also, the same address (city, street, number)
+   * may appear with different coordinates due to OSM data inconsistencies.
+   * 
+   * This method removes both types of duplicates:
+   * - Same coordinates (different unit numbers like 5a, 5b)
+   * - Same city/street/number (different coordinates)
    * 
    * When multiple addresses share coordinates, preference is given to simpler
    * house numbers (numeric only) over those with letters/suffixes.
    * 
    * @param addresses - Array of addresses to deduplicate
-   * @returns Array of addresses with unique coordinate pairs
+   * @returns Array of addresses with unique coordinate pairs and unique address strings
    */
   private deduplicateByCoordinates(addresses: Address[]): Address[] {
     const coordinateMap = new Map<string, Address>();
+    const addressMap = new Map<string, Address>();
     
     for (const address of addresses) {
       // Round coordinates to 6 decimal places (~11cm precision)
       // to handle minor floating point differences
       const lat = address.latitude.toFixed(6);
       const lon = address.longitude.toFixed(6);
-      const key = `${lat},${lon}`;
+      const coordKey = `${lat},${lon}`;
       
-      const existing = coordinateMap.get(key);
+      // Also check for duplicate city/street/number combinations
+      const addressKey = `${address.city}|${address.street}|${address.number}`;
       
-      if (!existing) {
-        coordinateMap.set(key, address);
+      const existingByCoord = coordinateMap.get(coordKey);
+      const existingByAddress = addressMap.get(addressKey);
+      
+      // Skip if we already have this exact address (city/street/number)
+      if (existingByAddress) {
+        continue;
+      }
+      
+      if (!existingByCoord) {
+        coordinateMap.set(coordKey, address);
+        addressMap.set(addressKey, address);
       } else {
-        // If we have duplicates, prefer simpler house numbers (without letters)
+        // If we have duplicates by coordinates, prefer simpler house numbers (without letters)
         const currentIsNumeric = /^\d+$/.test(address.number);
-        const existingIsNumeric = /^\d+$/.test(existing.number);
+        const existingIsNumeric = /^\d+$/.test(existingByCoord.number);
         
         if (currentIsNumeric && !existingIsNumeric) {
           // Prefer current (numeric) over existing (has letters)
-          coordinateMap.set(key, address);
+          // Remove old address from addressMap and add new one
+          const oldAddressKey = `${existingByCoord.city}|${existingByCoord.street}|${existingByCoord.number}`;
+          addressMap.delete(oldAddressKey);
+          coordinateMap.set(coordKey, address);
+          addressMap.set(addressKey, address);
         }
         // Otherwise keep the first one we found
       }
     }
     
-    return Array.from(coordinateMap.values());
+    return Array.from(addressMap.values());
   }
 
   /**
