@@ -111,7 +111,10 @@ export class AddressGenerator {
   /**
    * Gets a random address from the configured cities.
    * 
-   * Randomly selects one address from all loaded addresses across all cities.
+   * Randomly selects a city first (with equal weight), then randomly selects
+   * an address from that city. This ensures equal probability for each city
+   * regardless of how many addresses they have.
+   * 
    * You must call initialize() before using this method.
    * 
    * @returns A randomly selected Address
@@ -122,13 +125,15 @@ export class AddressGenerator {
       throw new Error('AddressGenerator must be initialized before use. Call initialize() first.');
     }
 
-    // Collect all addresses from all cities
-    const allAddresses: Address[] = [];
-    for (const addresses of this.addressCache.values()) {
-      allAddresses.push(...addresses);
-    }
+    // Filter cities that have addresses
+    const citiesWithAddresses = this.config.cities.filter(
+      city => {
+        const addresses = this.addressCache.get(city.istat);
+        return addresses && addresses.length > 0;
+      }
+    );
     
-    if (allAddresses.length === 0) {
+    if (citiesWithAddresses.length === 0) {
       const citiesWithNoAddresses = this.config.cities.filter(
         city => this.addressCache.has(city.istat) && this.addressCache.get(city.istat)!.length === 0
       );
@@ -136,16 +141,22 @@ export class AddressGenerator {
       if (citiesWithNoAddresses.length > 0) {
         throw new Error(
           `No addresses available. The following cities have empty address files: ${citiesWithNoAddresses.map(c => `${c.name} (${c.istat})`).join(', ')}. ` +
-          `Run "npm run fetch-addresses -- ${citiesWithNoAddresses.map(c => c.name).join(' ')}" to fetch addresses.`
+          `Run "npm run fetch-addresses -- ${citiesWithNoAddresses.map(c => c.istat).join(' ')}" to fetch addresses.`
         );
       }
       
       throw new Error('No addresses available in cache');
     }
     
-    // Select a random address
-    const randomIndex = Math.floor(Math.random() * allAddresses.length);
-    return allAddresses[randomIndex];
+    // Step 1: Randomly select a city (equal weight for each city)
+    const randomCityIndex = Math.floor(Math.random() * citiesWithAddresses.length);
+    const selectedCity = citiesWithAddresses[randomCityIndex];
+    
+    // Step 2: Randomly select an address from that city
+    const cityAddresses = this.addressCache.get(selectedCity.istat)!;
+    const randomAddressIndex = Math.floor(Math.random() * cityAddresses.length);
+    
+    return cityAddresses[randomAddressIndex];
   }
 
   /**
