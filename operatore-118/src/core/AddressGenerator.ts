@@ -145,21 +145,49 @@ export class AddressGenerator {
   }
 
   /**
-   * Fetches addresses for multiple cities from the Overpass API in a single request.
+   * Fetches addresses for multiple cities from the Overpass API.
    * 
-   * Constructs an Overpass QL query that searches all cities at once to minimize
-   * API requests and avoid rate limiting. Parses the response and caches the results
-   * per city.
+   * Makes separate API requests for each city to ensure addresses are correctly
+   * attributed to their source city. Requests are made in parallel to maintain
+   * performance while avoiding the issue of mixed results from multi-city queries.
    * 
    * @param cities - Array of city names to fetch addresses for
-   * @throws Error if the API request fails or returns invalid data
+   * @throws Error if any API request fails or returns invalid data
    */
   private async fetchAddressesForCities(cities: string[]): Promise<void> {
-    const query = this.buildOverpassQueryForMultipleCities(cities);
+    console.log(`AddressGenerator: Fetching addresses for ${cities.length} cities in parallel`);
+    
+    // Fetch all cities in parallel to maintain performance
+    const fetchPromises = cities.map(city => this.fetchAddressesForCity(city));
+    
+    try {
+      await Promise.all(fetchPromises);
+      
+      const totalCached = cities.reduce((sum, city) => sum + (this.addressCache.get(city)?.length || 0), 0);
+      console.log(`AddressGenerator: Caching complete. Total addresses cached: ${totalCached}`);
+    } catch (error) {
+      if (error instanceof Error) {
+        throw new Error(`Failed to fetch addresses: ${error.message}`);
+      }
+      throw error;
+    }
+  }
+
+  /**
+   * Fetches addresses for a single city from the Overpass API.
+   * 
+   * Constructs an Overpass QL query for one city, executes the request,
+   * and caches the results.
+   * 
+   * @param city - City name to fetch addresses for
+   * @throws Error if the API request fails or returns invalid data
+   */
+  private async fetchAddressesForCity(city: string): Promise<void> {
+    const query = this.buildOverpassQueryForCity(city);
     const endpoint = this.config.overpassEndpoint!;
     const timeoutMs = this.config.timeoutMs!;
     
-    console.log(`AddressGenerator: Sending Overpass API request for ${cities.length} cities to ${endpoint}`);
+    console.log(`AddressGenerator: Fetching addresses for ${city}`);
     
     try {
       const controller = new AbortController();
@@ -182,51 +210,44 @@ export class AddressGenerator {
       
       const data = await response.json();
       
-      console.log(`AddressGenerator: Received response with ${data.elements?.length || 0} total elements from Overpass API (these elements will be filtered and parsed per city)`);
+      console.log(`AddressGenerator: Received ${data.elements?.length || 0} elements for ${city}`);
       
-      // Parse and cache addresses by city
-      for (const city of cities) {
-        const addresses = this.parseOverpassResponseForCity(data, city);
-        
-        if (addresses.length === 0) {
-          console.error(`AddressGenerator: No addresses found for city: ${city}. The Overpass API query may need adjustment or the city name may not match OpenStreetMap data.`);
-        } else {
-          console.log(`AddressGenerator: Cached ${addresses.length} addresses for ${city}`);
-        }
-        
-        this.addressCache.set(city, addresses);
+      const addresses = this.parseOverpassResponse(data, city);
+      
+      if (addresses.length === 0) {
+        console.error(`AddressGenerator: No addresses found for city: ${city}. The city name may not match OpenStreetMap data.`);
+      } else {
+        console.log(`AddressGenerator: Cached ${addresses.length} addresses for ${city}`);
       }
       
-      const totalCached = cities.reduce((sum, city) => sum + (this.addressCache.get(city)?.length || 0), 0);
-      console.log(`AddressGenerator: Caching complete. Total valid addresses cached: ${totalCached} (out of ${data.elements?.length || 0} raw elements)`);
+      this.addressCache.set(city, addresses);
     } catch (error) {
       if (error instanceof Error) {
         if (error.name === 'AbortError') {
-          throw new Error(`Overpass API request timed out for cities: ${cities.join(', ')}`);
+          throw new Error(`Overpass API request timed out for city: ${city}`);
         }
-        throw new Error(`Failed to fetch addresses for cities: ${error.message}`);
+        throw new Error(`Failed to fetch addresses for ${city}: ${error.message}`);
       }
       throw error;
     }
   }
 
   /**
-   * Builds an Overpass QL query to fetch addresses for multiple cities.
+   * Builds an Overpass QL query to fetch addresses for a single city.
    * 
-   * Constructs a single query that searches all cities at once to minimize
-   * API requests and avoid rate limiting. For Italian municipalities (comuni),
-   * searches specifically for admin_level=8 boundaries to ensure precise matching.
+   * For Italian municipalities (comuni), searches specifically for admin_level=8
+   * boundaries to ensure precise matching and avoid broader areas.
    * 
-   * @param cities - Array of city names (Italian comuni) to query
+   * @param city - City name (Italian comune) to query
    * @returns Overpass QL query string
    */
-  private buildOverpassQueryForMultipleCities(cities: string[]): string {
-    // Build union query for all cities
+  private buildOverpassQueryForCity(city: string): string {
     // Italian comuni are admin_level=8, we search for this specifically
     // to avoid matching broader areas (provinces=6, regions=4)
-    const cityQueries = cities.map(city => {
-      const safeCityName = city.replace(/[^a-zA-Z0-9]/g, '_');
-      return `
+    const safeCityName = city.replace(/[^a-zA-Z0-9]/g, '_');
+    
+    return `
+      [out:json][timeout:25];
       // Search for ${city} comune (municipality) boundary
       (
         area["name"="${city}"]["admin_level"="8"]["boundary"="administrative"];
@@ -237,12 +258,6 @@ export class AddressGenerator {
         node(area.searchArea_${safeCityName})["addr:street"]["addr:housenumber"];
         way(area.searchArea_${safeCityName})["addr:street"]["addr:housenumber"];
       );
-    `;
-    }).join('');
-    
-    return `
-      [out:json][timeout:25];
-      ${cityQueries}
       out center 100;
     `;
   }
@@ -260,11 +275,11 @@ export class AddressGenerator {
    * all returned elements are within the municipality and don't need additional
    * city filtering. The addr:city tag is often inconsistent or missing in OSM data.
    * 
-   * @param data - Raw JSON response from Overpass API containing multiple cities
+   * @param data - Raw JSON response from Overpass API for a single city
    * @param city - City name (comune) to use for all addresses
-   * @returns Array of parsed Address objects for the specified city
+   * @returns Array of parsed Address objects
    */
-  private parseOverpassResponseForCity(data: any, city: string): Address[] {
+  private parseOverpassResponse(data: any, city: string): Address[] {
     if (!data.elements || !Array.isArray(data.elements)) {
       console.warn(`AddressGenerator: No elements in API response for ${city}`);
       return [];
