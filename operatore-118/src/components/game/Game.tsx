@@ -78,11 +78,17 @@ export default function Game() {
         
         // Use queueMicrotask to delay start until after React Strict Mode's double-mount
         // This ensures we only start once, not during the first mount that gets immediately unmounted
-        queueMicrotask(() => {
+        queueMicrotask(async () => {
             if (isMountedRef.current) {
                 // Only start call generator if cities are configured
                 if (cities.length > 0) {
-                    callGenerator.start();
+                    try {
+                        // Initialize address generator before starting call generator
+                        await addressGenerator.initialize();
+                        callGenerator.start();
+                    } catch (error) {
+                        console.error('Failed to initialize AddressGenerator:', error);
+                    }
                 } else {
                     console.warn('CallGenerator not started: no cities configured.');
                 }

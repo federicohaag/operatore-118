@@ -107,12 +107,12 @@ export class CallGenerator {
    * If scheduling fails (e.g., scheduler disposed), logs a warning and stops
    * generation automatically.
    */
-  private async scheduleNextCall(): Promise<void> {
+  private scheduleNextCall(): void {
     if (!this.isStarted) return;
 
     try {
-      // Generate call asynchronously (may need to fetch address from API)
-      const call = await this.generateCall();
+      // Generate call
+      const call = this.generateCall();
       
       const { cancel } = this.scheduler.scheduleIn(this.config.intervalMs, {
         type: EventType.CALL_RECEIVED,
@@ -183,7 +183,7 @@ export class CallGenerator {
    * The weighted distribution ensures realistic emergency frequency patterns
    * where critical cases are typically less common than stable ones.
    */
-  private async generateCall(): Promise<Call> {
+  private generateCall(): Call {
     // Pick a random template
     const template = CALL_TEMPLATES[Math.floor(Math.random() * CALL_TEMPLATES.length)];
     
@@ -214,7 +214,7 @@ export class CallGenerator {
       : template.criticalCaseFeedback;
     
     // Generate address using AddressGenerator
-    const address = await this.addressGenerator.getRandomAddress();
+    const address = this.addressGenerator.getRandomAddress();
     
     return {
       id: this.generateCallId(),

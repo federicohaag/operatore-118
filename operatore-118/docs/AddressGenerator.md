@@ -1,23 +1,43 @@
 # AddressGenerator
 
-A utility for generating random addresses from Italian cities using OpenStreetMap's Overpass API.
+A utility for generating random addresses from Italian cities using pre-loaded OpenStreetMap data.
 
 ## Overview
 
-The `AddressGenerator` class fetches real street addresses with geographic coordinates from specified Italian cities using the [Overpass API](https://overpass-api.de/). It provides intelligent caching to minimize API calls and supports multiple cities in parallel.
+The `AddressGenerator` class loads real street addresses with geographic coordinates from JSON files. The address data is fetched from OpenStreetMap using a separate CLI tool, allowing the app to work offline and load instantly without API calls.
 
 ## Features
 
-- ✅ Fetches real addresses from OpenStreetMap data
+- ✅ Loads addresses from pre-generated JSON files
 - ✅ Returns complete address information (street, number, city, coordinates)
-- ✅ Intelligent caching to minimize API requests
-- ✅ Parallel fetching for multiple cities
-- ✅ Configurable timeout settings
+- ✅ Fast initialization with no API calls
+- ✅ Works offline
+- ✅ Deduplication for better spatial diversity
 - ✅ TypeScript support with full type definitions
 
 ## Installation
 
 The AddressGenerator is part of the core utilities in `/src/core/AddressGenerator.ts`.
+
+Address data files are stored in `/src/data/addresses/` and must be generated using the CLI tool.
+
+## Generating Address Data
+
+Before using the AddressGenerator, you need to fetch address data from OpenStreetMap:
+
+```bash
+# Fetch addresses for one or more cities
+npm run fetch-addresses -- Como Varese Milano
+
+# The script will create JSON files in src/data/addresses/
+# como.json, varese.json, milano.json
+```
+
+The fetch script:
+- Queries OpenStreetMap's Overpass API
+- Deduplicates addresses (by coordinates and address string)
+- Saves clean JSON files ready for use
+- Adds a 2-second delay between requests to respect API rate limits
 
 ## Usage
 
@@ -28,20 +48,23 @@ import { AddressGenerator } from './src/core/AddressGenerator';
 
 // Create a generator for one or more cities
 const generator = new AddressGenerator({
-  cities: ['Milano', 'Roma', 'Napoli']
+  cities: ['Como', 'Varese']
 });
 
-// Get a random address
-const address = await generator.getRandomAddress();
+// Initialize (loads JSON files)
+await generator.initialize();
+
+// Get a random address (synchronous after initialization)
+const address = generator.getRandomAddress();
 
 console.log(address);
 // Output:
 // {
-//   street: "Via Roma",
-//   number: "10",
-//   city: "Milano",
-//   latitude: 45.4642,
-//   longitude: 9.1900
+//   street: "Via Giuseppe Garibaldi",
+//   number: "15",
+//   city: "Como",
+//   latitude: 45.8094,
+//   longitude: 9.0859
 // }
 ```
 
@@ -49,29 +72,35 @@ console.log(address);
 
 ```typescript
 const generator = new AddressGenerator({
-  cities: ['Milano', 'Roma'],           // Required: array of city names
-  overpassEndpoint: 'https://...',      // Optional: custom Overpass API endpoint
-  timeoutMs: 30000                      // Optional: request timeout in milliseconds (default: 30000)
+  cities: ['Como', 'Varese']           // Required: array of city names
 });
+
+// Must call initialize() before using
+await generator.initialize();
 ```
+
+**Important**: You must call `initialize()` once before calling `getRandomAddress()`. After initialization, `getRandomAddress()` is synchronous.
 
 ### Cache Management
 
 ```typescript
-// Check cache statistics
-const totalCached = generator.getTotalCachedAddressCount();
-const milanoCached = generator.getCachedAddressCount('Milano');
+// Check loaded address statistics
+const totalLoaded = generator.getTotalCachedAddressCount();
+const comoLoaded = generator.getCachedAddressCount('Como');
 
-console.log(`Total addresses cached: ${totalCached}`);
-console.log(`Milano addresses: ${milanoCached}`);
+console.log(`Total addresses loaded: ${totalLoaded}`);
+console.log(`Como addresses: ${comoLoaded}`);
 
-// Clear cache to force refresh
+// Get all addresses for a city
+const comoAddresses = generator.getCachedAddresses('Como');
+
+// Clear cache (requires re-initialization)
 generator.clearCache();
 ```
 
 ### Integration with Simulation
 
-The AddressGenerator can be integrated with the game simulation to generate realistic emergency locations:
+The AddressGenerator is integrated with the game simulation to generate realistic emergency locations:
 
 ```typescript
 import { AddressGenerator } from './src/core/AddressGenerator';
