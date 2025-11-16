@@ -1,4 +1,4 @@
-import { createSlice, type PayloadAction } from '@reduxjs/toolkit';
+import { createSlice, createSelector, type PayloadAction } from '@reduxjs/toolkit';
 import type { RootState } from '../store';
 import { initStateFromStorage, syncStateFromOtherWindow } from '../middlewares/localStorage';
 import type { Call } from '../../../model/call';
@@ -48,7 +48,12 @@ export const { addCall, removeCall, markCallAsProcessed, clearCalls } = callsSli
 export const callsReducer = callsSlice.reducer;
 
 // Selectors
-export const selectCalls = (state: RootState) => state.calls.calls.filter(call => !call.processed);
 export const selectAllCalls = (state: RootState) => state.calls.calls;
+
+export const selectCalls = createSelector(
+  [selectAllCalls],
+  (calls) => calls.filter(call => !call.processed)
+);
+
 export const selectCallById = (callId: string) => (state: RootState) => 
   state.calls.calls.find(call => call.id === callId);
