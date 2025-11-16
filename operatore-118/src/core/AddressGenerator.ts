@@ -1,11 +1,11 @@
-import type { Address } from '../model/location';
+import type { Address, City } from '../model/location';
 
 /**
  * Configuration options for AddressGenerator.
  */
 export interface AddressGeneratorConfig {
-  /** List of city names to load addresses for */
-  cities: string[];
+  /** List of cities (with ISTAT codes) to load addresses for */
+  cities: City[];
 }
 
 /**
@@ -37,7 +37,7 @@ export class AddressGenerator {
   /** Configuration for address generation */
   private config: AddressGeneratorConfig;
   
-  /** Cache of addresses by city name */
+  /** Cache of addresses by ISTAT code */
   private addressCache: Map<string, Address[]> = new Map();
   
   /** Whether the generator has been initialized */
@@ -69,7 +69,7 @@ export class AddressGenerator {
       return;
     }
 
-    console.log(`AddressGenerator: Loading addresses for cities: ${this.config.cities.join(', ')}`);
+    console.log(`AddressGenerator: Loading addresses for cities: ${this.config.cities.map(c => `${c.name} (${c.istat})`).join(', ')}`);
     
     await Promise.all(
       this.config.cities.map(city => this.loadAddressesForCity(city))
@@ -82,35 +82,29 @@ export class AddressGenerator {
   }
 
   /**
-   * Loads addresses for a single city from its JSON file.
+   * Loads addresses from JSON file for a specific city.
    * 
-   * @param city - City name to load addresses for
-   * @throws Error if the file doesn't exist or can't be parsed
+   * @param city The city to load addresses for
+   * @returns Array of addresses for the city
+   * @throws Error if the JSON file cannot be loaded or parsed
    */
-  private async loadAddressesForCity(city: string): Promise<void> {
-    const filename = city.toLowerCase().replace(/[^a-z0-9]/g, '-') + '.json';
+  private async loadAddressesForCity(city: City): Promise<Address[]> {
+    const fileName = `${city.istat}.json`;
+    const filePath = `/src/data/addresses/${fileName}`;
     
     try {
-      // Dynamic import of the JSON file
-      const module = await import(`../data/addresses/${filename}`);
-      const addresses: Address[] = module.default;
+      // Dynamically import the JSON file
+      const module = await import(/* @vite-ignore */ filePath);
+      const addresses = module.default as Address[];
       
-      if (!Array.isArray(addresses)) {
-        throw new Error(`Invalid address file format for ${city}`);
-      }
+      // Cache the loaded addresses by ISTAT code
+      this.addressCache.set(city.istat, addresses);
       
-      this.addressCache.set(city, addresses);
-      console.log(`AddressGenerator: Loaded ${addresses.length} addresses for ${city}`);
+      return addresses;
     } catch (error) {
-      if (error instanceof Error) {
-        throw new Error(
-          `Failed to load addresses for ${city}. ` +
-          `Make sure the file src/data/addresses/${filename} exists. ` +
-          `Run "npm run fetch-addresses -- ${city}" to generate it. ` +
-          `Original error: ${error.message}`
-        );
-      }
-      throw error;
+      throw new Error(
+        `Failed to load addresses for city ${city.name} (ISTAT: ${city.istat}) from ${filePath}: ${error}`
+      );
     }
   }
 
@@ -136,13 +130,13 @@ export class AddressGenerator {
     
     if (allAddresses.length === 0) {
       const citiesWithNoAddresses = this.config.cities.filter(
-        city => this.addressCache.has(city) && this.addressCache.get(city)!.length === 0
+        city => this.addressCache.has(city.istat) && this.addressCache.get(city.istat)!.length === 0
       );
       
       if (citiesWithNoAddresses.length > 0) {
         throw new Error(
-          `No addresses available. The following cities have empty address files: ${citiesWithNoAddresses.join(', ')}. ` +
-          `Run "npm run fetch-addresses -- ${citiesWithNoAddresses.join(' ')}" to fetch addresses.`
+          `No addresses available. The following cities have empty address files: ${citiesWithNoAddresses.map(c => `${c.name} (${c.istat})`).join(', ')}. ` +
+          `Run "npm run fetch-addresses -- ${citiesWithNoAddresses.map(c => c.name).join(' ')}" to fetch addresses.`
         );
       }
       
@@ -168,11 +162,11 @@ export class AddressGenerator {
   /**
    * Gets the number of loaded addresses for a specific city.
    * 
-   * @param city - City name to check
+   * @param istatCode - ISTAT code of the city to check
    * @returns Number of loaded addresses, or 0 if city not loaded
    */
-  getCachedAddressCount(city: string): number {
-    return this.addressCache.get(city)?.length || 0;
+  getCachedAddressCount(istatCode: string): number {
+    return this.addressCache.get(istatCode)?.length || 0;
   }
 
   /**
@@ -191,17 +185,17 @@ export class AddressGenerator {
   /**
    * Gets all loaded addresses for a specific city.
    * 
-   * @param city - City name to retrieve addresses for
+   * @param istatCode - ISTAT code of the city to retrieve addresses for
    * @returns Array of loaded addresses, or empty array if city not loaded
    */
-  getCachedAddresses(city: string): Address[] {
-    return this.addressCache.get(city) || [];
+  getCachedAddresses(istatCode: string): Address[] {
+    return this.addressCache.get(istatCode) || [];
   }
 
   /**
    * Gets all loaded addresses across all cities.
    * 
-   * @returns Map of city names to their loaded addresses
+   * @returns Map of ISTAT codes to their loaded addresses
    */
   getAllCachedAddresses(): Map<string, Address[]> {
     return new Map(this.addressCache);

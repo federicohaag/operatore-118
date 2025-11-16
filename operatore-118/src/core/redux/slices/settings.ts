@@ -1,11 +1,12 @@
 import { createSlice, type PayloadAction } from '@reduxjs/toolkit';
 import type { RootState } from '../store';
 import { initStateFromStorage, syncStateFromOtherWindow } from '../middlewares/localStorage';
+import type { City } from '../../../model/location';
 
 export interface SettingsSlice {
   region: string | null;
   dispatchCenter: string | null;
-  cities: string[];
+  cities: City[];
 }
 
 const initialState: SettingsSlice = {
@@ -24,7 +25,7 @@ export const settingsSlice = createSlice({
     setDispatchCenter: (state: SettingsSlice, action: PayloadAction<string | null>) => {
       state.dispatchCenter = action.payload;
     },
-    setCities: (state: SettingsSlice, action: PayloadAction<string[]>) => {
+    setCities: (state: SettingsSlice, action: PayloadAction<City[]>) => {
       state.cities = action.payload;
     },
     clearSettings: (state) => {

@@ -11,10 +11,20 @@ export const LocationType = {
 
 export type LocationType = typeof LocationType[keyof typeof LocationType];
 
+/**
+ * Italian city/comune identification
+ */
+export type City = {
+    /** City name */
+    name: string;
+    /** ISTAT code (Italian National Institute of Statistics) */
+    istat: string;
+}
+
 export type Address = {
     street: string;
     number: string;
-    city: string;
+    city: City;
     latitude: number;
     longitude: number;
 }

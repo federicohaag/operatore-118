@@ -129,7 +129,7 @@ export default function CallTaker({ clock, onCallSelect: onCallSelect }: CallTak
                                                             +{minutes.toString().padStart(2, '0')}:{seconds.toString().padStart(2, '0')}
                                                         </div>
                                                         <div className={styles['call-address']}>
-                                                            {call.location.address.city}, {call.location.address.street} {call.location.address.number}
+                                                            {call.location.address.city.name}, {call.location.address.street} {call.location.address.number}
                                                         </div>
                                                     </div>
                                                 </div>

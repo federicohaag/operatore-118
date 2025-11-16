@@ -1,6 +1,7 @@
 
 import {type Region, RegionStatus} from '../model/region';
 import * as hospitals from './hospitals';
+import * as cities from './cities';
 // TODO: dispatch centers coordinates are random, should be put correctly
 export const ABRUZZO: Region = { 
     id: 'abruzzo', 
@@ -83,7 +84,7 @@ export const LOMBARDIA: Region = {
     status: RegionStatus.Available,
     dispatchCenters: [
         { id: 'SRA', label: 'SOREU Alpina', latitude: 45.4642, longitude: 9.1900, cities: [] },
-        { id: 'SRL', label: 'SOREU Laghi', latitude: 45.4642, longitude: 9.1900, cities: ["Como", "Varese"] },
+        { id: 'SRL', label: 'SOREU Laghi', latitude: 45.4642, longitude: 9.1900, cities: [cities.COMO, cities.VARESE] },
         { id: 'SRM', label: 'SOREU Metropolitana', latitude: 45.4642, longitude: 9.1900, cities: [] },
         { id: 'SRP', label: 'SOREU Pianura', latitude: 45.4642, longitude: 9.1900, cities: [] }
     ],

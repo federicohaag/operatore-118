@@ -4,15 +4,18 @@
  * CLI tool to fetch addresses from OpenStreetMap Overpass API
  * and save them to JSON files for offline use.
  * 
+ * Uses ISTAT codes to identify cities.
+ * 
  * Usage:
- *   npm run fetch-addresses -- Como Varese Milano
- *   npm run fetch-addresses -- --all
+ *   npm run fetch-addresses -- 013075 012133
+ *   (013075 = Como, 012133 = Varese)
  */
 
 import { writeFile, mkdir } from 'fs/promises';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
-import type { Address } from '../src/model/location';
+import type { Address, City } from '../src/model/location';
+import * as CITIES from '../src/data/cities';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -29,18 +32,18 @@ const OUTPUT_DIR = join(__dirname, '..', 'src', 'data', 'addresses');
 /**
  * Builds an Overpass QL query to fetch addresses for a single city.
  * 
- * @param city - City name (Italian comune) to query
+ * @param city - City object with name and ISTAT code
  * @returns Overpass QL query string
  */
-function buildOverpassQuery(city: string): string {
-  const safeCityName = city.replace(/[^a-zA-Z0-9]/g, '_');
+function buildOverpassQuery(city: City): string {
+  const safeCityName = city.name.replace(/[^a-zA-Z0-9]/g, '_');
   
   return `
     [out:json][timeout:25];
-    // Search for ${city} comune (municipality) boundary
+    // Search for ${city.name} comune (municipality) boundary
     (
-      area["name"="${city}"]["admin_level"="8"]["boundary"="administrative"];
-      area["name:it"="${city}"]["admin_level"="8"]["boundary"="administrative"];
+      area["name"="${city.name}"]["admin_level"="8"]["boundary"="administrative"];
+      area["name:it"="${city.name}"]["admin_level"="8"]["boundary"="administrative"];
     )->.searchArea_${safeCityName};
     // Get addresses within the comune boundary
     (
@@ -54,13 +57,13 @@ function buildOverpassQuery(city: string): string {
 /**
  * Fetches addresses for a single city from the Overpass API.
  * 
- * @param city - City name to fetch addresses for
+ * @param city - City object with name and ISTAT code
  * @returns Array of addresses
  */
-async function fetchAddressesForCity(city: string): Promise<Address[]> {
+async function fetchAddressesForCity(city: City): Promise<Address[]> {
   const query = buildOverpassQuery(city);
   
-  console.log(`Fetching addresses for ${city}...`);
+  console.log(`Fetching addresses for ${city.name} (ISTAT: ${city.istat})...`);
   
   try {
     const controller = new AbortController();
@@ -93,9 +96,9 @@ async function fetchAddressesForCity(city: string): Promise<Address[]> {
   } catch (error) {
     if (error instanceof Error) {
       if (error.name === 'AbortError') {
-        throw new Error(`Overpass API request timed out for city: ${city}`);
+        throw new Error(`Overpass API request timed out for city: ${city.name}`);
       }
-      throw new Error(`Failed to fetch addresses for ${city}: ${error.message}`);
+      throw new Error(`Failed to fetch addresses for ${city.name}: ${error.message}`);
     }
     throw error;
   }
@@ -105,12 +108,12 @@ async function fetchAddressesForCity(city: string): Promise<Address[]> {
  * Parses the Overpass API JSON response into Address objects.
  * 
  * @param data - Raw JSON response from Overpass API
- * @param city - City name to use for all addresses
+ * @param city - City object with name and ISTAT code
  * @returns Array of parsed and deduplicated Address objects
  */
-function parseOverpassResponse(data: any, city: string): Address[] {
+function parseOverpassResponse(data: any, city: City): Address[] {
   if (!data.elements || !Array.isArray(data.elements)) {
-    console.warn(`  No elements in API response for ${city}`);
+    console.warn(`  No elements in API response for ${city.name}`);
     return [];
   }
   
@@ -176,7 +179,7 @@ function deduplicateAddresses(addresses: Address[]): Address[] {
     const coordKey = `${lat},${lon}`;
     
     // Check for duplicate city/street/number combinations
-    const addressKey = `${address.city}|${address.street}|${address.number}`;
+    const addressKey = `${address.city.istat}|${address.street}|${address.number}`;
     
     const existingByCoord = coordinateMap.get(coordKey);
     const existingByAddress = addressMap.get(addressKey);
@@ -196,7 +199,7 @@ function deduplicateAddresses(addresses: Address[]): Address[] {
       
       if (currentIsNumeric && !existingIsNumeric) {
         // Prefer numeric over letters
-        const oldAddressKey = `${existingByCoord.city}|${existingByCoord.street}|${existingByCoord.number}`;
+        const oldAddressKey = `${existingByCoord.city.istat}|${existingByCoord.street}|${existingByCoord.number}`;
         addressMap.delete(oldAddressKey);
         coordinateMap.set(coordKey, address);
         addressMap.set(addressKey, address);
@@ -208,14 +211,14 @@ function deduplicateAddresses(addresses: Address[]): Address[] {
 }
 
 /**
- * Saves addresses to a JSON file.
+ * Saves addresses to a JSON file using ISTAT code as filename.
  * 
- * @param city - City name
+ * @param istatCode - ISTAT code for the city
  * @param addresses - Array of addresses to save
  */
-async function saveAddressesToFile(city: string, addresses: Address[]): Promise<void> {
-  // Create safe filename
-  const filename = city.toLowerCase().replace(/[^a-z0-9]/g, '-') + '.json';
+async function saveAddressesToFile(istatCode: string, addresses: Address[]): Promise<void> {
+  // Use ISTAT code as filename
+  const filename = `${istatCode}.json`;
   const filepath = join(OUTPUT_DIR, filename);
   
   // Ensure output directory exists
@@ -234,33 +237,43 @@ async function main() {
   const args = process.argv.slice(2);
   
   if (args.length === 0) {
-    console.error('Usage: npm run fetch-addresses -- <city1> <city2> ...');
-    console.error('Example: npm run fetch-addresses -- Como Varese Milano');
+    console.error('Usage: npm run fetch-addresses -- <istat1> <istat2> ...');
+    console.error('Example: npm run fetch-addresses -- 013075 012133');
+    console.error('         (013075 = Como, 012133 = Varese)');
     process.exit(1);
   }
   
-  const cities = args;
+  const istatCodes = args;
   
-  console.log(`Fetching addresses for ${cities.length} cities: ${cities.join(', ')}\n`);
+  console.log(`Fetching addresses for ${istatCodes.length} cities: ${istatCodes.join(', ')}\n`);
   
-  for (const city of cities) {
+  for (const istat of istatCodes) {
     try {
+      // Find city by ISTAT code
+      const city = Object.values(CITIES).find(c => c.istat === istat);
+      if (!city) {
+        throw new Error(
+          `No city configured for ISTAT code: ${istat}. ` +
+          `Please add it to src/data/cities.tsx`
+        );
+      }
+      
       const addresses = await fetchAddressesForCity(city);
       
       if (addresses.length === 0) {
-        console.error(`  ⚠️  No addresses found for ${city}`);
+        console.error(`  ⚠️  No addresses found for ISTAT ${istat}`);
       } else {
-        await saveAddressesToFile(city, addresses);
-        console.log(`  ✓ Successfully fetched ${addresses.length} addresses for ${city}`);
+        await saveAddressesToFile(city.istat, addresses);
+        console.log(`  ✓ Successfully fetched ${addresses.length} addresses for ISTAT ${istat}`);
       }
     } catch (error) {
-      console.error(`  ✗ Error fetching ${city}:`, error instanceof Error ? error.message : error);
+      console.error(`  ✗ Error fetching ISTAT ${istat}:`, error instanceof Error ? error.message : error);
     }
     
     console.log('');
     
     // Add delay between requests to be respectful to the API
-    if (cities.indexOf(city) < cities.length - 1) {
+    if (istatCodes.indexOf(istat) < istatCodes.length - 1) {
       console.log('  Waiting 2 seconds before next request...\n');
       await new Promise(resolve => setTimeout(resolve, 2000));
     }

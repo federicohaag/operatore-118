@@ -1,4 +1,5 @@
 import type { Hospital } from './hospital';
+import type { City } from './location';
 
 /**
  * Status of a region's implementation in the simulation
@@ -69,6 +70,6 @@ export type DispatchCenter = {
     /** Geographic longitude of the dispatch center location */
     longitude: number;
     
-    /** List of city names covered by this dispatch center */
-    cities: string[];
+    /** List of cities covered by this dispatch center */
+    cities: City[];
 }

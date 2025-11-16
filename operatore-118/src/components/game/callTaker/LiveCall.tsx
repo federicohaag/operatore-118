@@ -36,7 +36,7 @@ export default function LiveCall({ call }: LiveCallProps) {
     return (
         <div className={styles['live-call-container']}>
             <div className={styles['call-header']}>
-                <h3>{call.location.address.city}, {call.location.address.street} {call.location.address.number}</h3>
+                <h3>{call.location.address.city.name}, {call.location.address.street} {call.location.address.number}</h3>
             </div>
             <div className={styles['call-content']}>
                 <p>
