@@ -12,6 +12,9 @@ export type Event = {
     /** Unique identifier for the emergency event */
     id: string;
     
+    /** ID of the call that originated this event */
+    callId: string;
+    
     /** Complete mission details including triage, location, symptoms, and coordination */
     details: EventDetails;
 };

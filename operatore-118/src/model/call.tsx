@@ -24,6 +24,9 @@ export type Call = {
     
     /** Simulation time in milliseconds when the call was received */
     receivedAt: number;
+    
+    /** Whether this call has been processed into an event */
+    processed?: boolean;
 }
 
 /**

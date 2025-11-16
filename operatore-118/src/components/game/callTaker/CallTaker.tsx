@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import styles from './CallTaker.module.css';
 import { useAppSelector, useAppDispatch } from '../../../core/redux/hooks';
-import { selectCalls, removeCall } from '../../../core/redux/slices/calls';
+import { selectCalls, removeCall, markCallAsProcessed } from '../../../core/redux/slices/calls';
 import { addEvent } from '../../../core/redux/slices/events';
 import { generateUuid } from '../../../core/utils';
 import type { Event } from '../../../model/event';
@@ -52,9 +52,12 @@ export default function CallTaker({ clock, onCallSelect: onCallSelect }: CallTak
     };
 
     const handleEventCreated = (eventDetails: EventDetails) => {
-        // Create event with generated UUID
+        if (!selectedCall) return;
+        
+        // Create event with generated UUID and reference to originating call
         const newEvent: Event = {
             id: generateUuid(),
+            callId: selectedCall,
             details: eventDetails,
         };
 
@@ -62,6 +65,10 @@ export default function CallTaker({ clock, onCallSelect: onCallSelect }: CallTak
         dispatch(addEvent(newEvent));
         
         console.log('New event created and dispatched:', newEvent);
+        
+        // Mark the call as processed (will be filtered out from active calls)
+        dispatch(markCallAsProcessed(selectedCall));
+        setSelectedCall(null);
         
         // Clear map marker
         if (onCallSelect) {

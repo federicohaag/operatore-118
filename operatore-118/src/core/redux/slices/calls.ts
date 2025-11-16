@@ -21,6 +21,12 @@ export const callsSlice = createSlice({
     removeCall: (state: CallsSlice, action: PayloadAction<string>) => {
       state.calls = state.calls.filter(call => call.id !== action.payload);
     },
+    markCallAsProcessed: (state: CallsSlice, action: PayloadAction<string>) => {
+      const call = state.calls.find(call => call.id === action.payload);
+      if (call) {
+        call.processed = true;
+      }
+    },
     clearCalls: (state) => {
       state.calls = [];
     },
@@ -37,9 +43,12 @@ export const callsSlice = createSlice({
   },
 });
 
-export const { addCall, removeCall, clearCalls } = callsSlice.actions;
+export const { addCall, removeCall, markCallAsProcessed, clearCalls } = callsSlice.actions;
 
 export const callsReducer = callsSlice.reducer;
 
 // Selectors
-export const selectCalls = (state: RootState) => state.calls.calls;
+export const selectCalls = (state: RootState) => state.calls.calls.filter(call => !call.processed);
+export const selectAllCalls = (state: RootState) => state.calls.calls;
+export const selectCallById = (callId: string) => (state: RootState) => 
+  state.calls.calls.find(call => call.id === callId);
