@@ -13,7 +13,8 @@ import { CALL_GENERATOR_CONFIG } from '../../core/config';
 import type { SimContext } from '../../core/EventQueue';
 import { useAppSelector, useAppDispatch } from '../../core/redux/hooks';
 import { selectRegion, selectDispatchCenter, selectCities, clearSettings } from '../../core/redux/slices/settings';
-import { clearCalls } from '../../core/redux/slices/calls';
+import { clearCalls, selectCalls } from '../../core/redux/slices/calls';
+import { selectEvents, clearEvents } from '../../core/redux/slices/events';
 import { STORAGE_STATE_KEY } from '../../core/redux/constants';
 import { REGIONS } from '../../model/aggregates';
 
@@ -22,6 +23,8 @@ export default function Game() {
     const [mapCenter, setMapCenter] = useState<[number, number] | undefined>(undefined);
     const dispatch = useAppDispatch();
     const cities = useAppSelector(selectCities);
+    const unprocessedCalls = useAppSelector(selectCalls);
+    const events = useAppSelector(selectEvents);
     
     // Track if component is truly mounted to prevent disposal during Strict Mode
     const isMountedRef = useRef(false);
@@ -136,6 +139,7 @@ export default function Game() {
         // Reset Redux state to initial values
         dispatch(clearSettings());
         dispatch(clearCalls());
+        dispatch(clearEvents());
     };
 
     return (
@@ -153,19 +157,19 @@ export default function Game() {
                         className={`${styles['tab']} ${activeTab === 'chiamate' ? styles['tab-active'] : ''}`}
                         onClick={() => setActiveTab('chiamate')}
                     >
-                        Call Taker
+                        Call Taker <span className={styles['counter-badge']}>{unprocessedCalls.length}</span>
                     </button>
                     <button 
                         className={`${styles['tab']} ${activeTab === 'sanitario' ? styles['tab-active'] : ''}`}
                         onClick={() => setActiveTab('sanitario')}
                     >
-                        Sanitario
+                        Sanitario <span className={styles['counter-badge']}>0</span>
                     </button>
                     <button 
                         className={`${styles['tab']} ${activeTab === 'logistica' ? styles['tab-active'] : ''}`}
                         onClick={() => setActiveTab('logistica')}
                     >
-                        Logistica
+                        Logistica <span className={styles['counter-badge']}>{events.length}</span>
                     </button>
                 </div>
 
