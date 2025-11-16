@@ -30,28 +30,53 @@ const TIMEOUT_MS = 30000;
 const OUTPUT_DIR = join(__dirname, '..', 'src', 'data', 'addresses');
 
 /**
- * Builds an Overpass QL query to fetch addresses for a single city.
+ * Builds an Overpass QL query to fetch addresses for a city by ISTAT code.
  * 
- * @param city - City object with name and ISTAT code
+ * @param istatCode - 6-digit ISTAT code for the city
+ * @param limit - Maximum number of results (0 = no limit)
  * @returns Overpass QL query string
  */
-function buildOverpassQuery(city: City): string {
-  const safeCityName = city.name.replace(/[^a-zA-Z0-9]/g, '_');
-  
+function buildOverpassQueryByIstat(istatCode: string, limit = 0): string {
+  // ISTAT comune codes are 6 digits; keep it as a string to preserve leading zeros
+  if (!/^\d{6}$/.test(istatCode)) {
+    throw new Error("istatCode must be a 6-digit string (leading zeros allowed).");
+  }
+
+  const ts = Date.now(); // cache buster for Overpass mirrors
+  const limitClause = limit > 0 ? ` ${limit}` : "";
+
   return `
-    [out:json][timeout:25];
-    // Search for ${city.name} comune (municipality) boundary
-    (
-      area["name"="${city.name}"]["admin_level"="8"]["boundary"="administrative"];
-      area["name:it"="${city.name}"]["admin_level"="8"]["boundary"="administrative"];
-    )->.searchArea_${safeCityName};
-    // Get addresses within the comune boundary
-    (
-      node(area.searchArea_${safeCityName})["addr:street"]["addr:housenumber"];
-      way(area.searchArea_${safeCityName})["addr:street"]["addr:housenumber"];
-    );
-    out center 100;
-  `;
+[out:json][timeout:60];
+// ts=${ts}
+
+// Scope to Italy to avoid collisions
+area["ISO3166-1"="IT"]->.it;
+
+// Find the admin boundary relation for the comune by ISTAT code.
+// We check the most common tag and a few variants seen in the wild.
+(
+  rel(area.it)["boundary"="administrative"]["admin_level"="8"]["ref:ISTAT"="${istatCode}"];
+  rel(area.it)["boundary"="administrative"]["admin_level"="8"]["ISTAT"="${istatCode}"];
+  rel(area.it)["boundary"="administrative"]["admin_level"="8"]["istat:code"="${istatCode}"];
+  rel(area.it)["boundary"="administrative"]["admin_level"="8"]["ref:ISTAT:Comune"="${istatCode}"];
+)->.rels;
+
+// Convert relation(s) to area(s) for containment queries
+.rels map_to_area->.a;
+
+// // DEBUG: verify we matched the right boundary
+// .rels out tags qt;
+// area.a out ids;
+
+// Addresses inside the comune area (nodes and building ways)
+(
+  node(area.a)["addr:street"]["addr:housenumber"];
+  way(area.a )["addr:street"]["addr:housenumber"];
+)->.addr;
+
+// Return tags + centroid; no fixed cap unless 'limit' > 0
+.addr out tags center${limitClause};
+`;
 }
 
 /**
@@ -61,7 +86,7 @@ function buildOverpassQuery(city: City): string {
  * @returns Array of addresses
  */
 async function fetchAddressesForCity(city: City): Promise<Address[]> {
-  const query = buildOverpassQuery(city);
+  const query = buildOverpassQueryByIstat(city.istat);
   
   console.log(`Fetching addresses for ${city.name} (ISTAT: ${city.istat})...`);
   
