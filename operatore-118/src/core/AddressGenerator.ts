@@ -412,4 +412,23 @@ export class AddressGenerator {
     }
     return total;
   }
+
+  /**
+   * Gets all cached addresses for a specific city.
+   * 
+   * @param city - City name to retrieve addresses for
+   * @returns Array of cached addresses, or empty array if city not cached
+   */
+  getCachedAddresses(city: string): Address[] {
+    return this.addressCache.get(city) || [];
+  }
+
+  /**
+   * Gets all cached addresses across all cities.
+   * 
+   * @returns Map of city names to their cached addresses
+   */
+  getAllCachedAddresses(): Map<string, Address[]> {
+    return new Map(this.addressCache);
+  }
 }

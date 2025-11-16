@@ -48,7 +48,24 @@ export default function Game() {
         };
     }, [cities]);
     
-    const { virtualClock, simContext, scheduler, callGenerator } = infrastructure;
+    const { virtualClock, simContext, scheduler, callGenerator, addressGenerator } = infrastructure;
+    
+    // Expose to window for debugging (development only)
+    useEffect(() => {
+        if (import.meta.env.DEV) {
+            (window as any).__addressGenerator = addressGenerator;
+            (window as any).__scheduler = scheduler;
+            (window as any).__virtualClock = virtualClock;
+        }
+        
+        return () => {
+            if (import.meta.env.DEV) {
+                delete (window as any).__addressGenerator;
+                delete (window as any).__scheduler;
+                delete (window as any).__virtualClock;
+            }
+        };
+    }, [addressGenerator, scheduler, virtualClock]);
     
     // Keep dispatch in simContext up to date
     useEffect(() => {
