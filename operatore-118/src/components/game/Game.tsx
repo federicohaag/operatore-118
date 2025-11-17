@@ -178,6 +178,9 @@ export default function Game() {
                     <span className={styles['toggle-label']}>Calls</span>
                 </button>
                 <TextToSpeech enabled={ttsEnabled} onToggle={handleTtsToggle} />
+                <button className={styles['button-reset']} onClick={handleReset}>
+                    Reset
+                </button>
             </div>
                         <div className={styles['content-row']}>
                 <div className={styles['left-column']}>
@@ -209,12 +212,6 @@ export default function Game() {
                     {activeTab === 'chiamate' && <CallTaker clock={virtualClock} onCallSelect={setMapCenter} onSpeak={ttsEnabled ? speak : undefined} />}
                     {activeTab === 'sanitario' && <Sanitario />}
                     {activeTab === 'logistica' && <Logistica />}
-                </div>
-
-                <div className={styles['buttons-container']}>
-                    <button className={styles['button-reset']} onClick={handleReset}>
-                        Reset
-                    </button>
                 </div>
                 </div>
             </div>

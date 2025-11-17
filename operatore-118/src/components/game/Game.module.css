@@ -33,7 +33,6 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #f9fafb;
     border-right: 2px solid #d1d5db;
 }
 
@@ -184,18 +183,18 @@
 }
 
 .button-reset {
-    background-color: #dc2626;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 0 16px;
+    height: 36px;
+    background: #dc2626;
     border: 2px solid #991b1b;
+    border-radius: 0;
     color: white;
-    padding: 12px 24px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
     font-size: 14px;
     font-weight: 600;
-    margin: 4px 2px;
     cursor: pointer;
-    border-radius: 0;
 }
 
 .button-reset:active {
