@@ -38,18 +38,16 @@ export default function CallTaker({ clock, onCallSelect: onCallSelect, onSpeak }
         
         if (newCalls.length > 0) {
             // A new call arrived, play the sound
-            audioRef.current.currentTime = 0;
+            // Stop any currently playing sound first to avoid conflicts
+            if (audioRef.current) {
+                audioRef.current.pause();
+                audioRef.current.currentTime = 0;
+            }
             audioRef.current.play().catch(err => console.error('Error playing phone ring:', err));
         }
         
         // Update the previous call IDs
         previousCallIdsRef.current = currentCallIds;
-
-        return () => {
-            if (audioRef.current) {
-                audioRef.current.pause();
-            }
-        };
     }, [calls]);
 
     // Update current time for elapsed time calculations
