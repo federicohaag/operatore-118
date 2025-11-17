@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import styles from './CallTaker.module.css';
 import { useAppSelector, useAppDispatch } from '../../../core/redux/hooks';
 import { selectCalls, removeCall, markCallAsProcessed } from '../../../core/redux/slices/calls';
@@ -9,6 +9,7 @@ import type { EventDetails } from '../../../model/eventDetails';
 import LiveCall from './LiveCall';
 import CallTakerForm from './CallTakerForm';
 import type { VirtualClock } from '../../../core/VirtualClock';
+import phoneRingSound from '../../../assets/phone_ring.mp3';
 
 interface CallTakerProps {
     clock: VirtualClock;
@@ -21,6 +22,35 @@ export default function CallTaker({ clock, onCallSelect: onCallSelect, onSpeak }
     const calls = useAppSelector(selectCalls);
     const [selectedCall, setSelectedCall] = useState<string | null>(null);
     const [currentTime, setCurrentTime] = useState(clock.now());
+    const audioRef = useRef<HTMLAudioElement | null>(null);
+    const previousCallIdsRef = useRef<Set<string>>(new Set());
+
+    // Play phone ring sound when a new call is added
+    useEffect(() => {
+        if (!audioRef.current) {
+            audioRef.current = new Audio(phoneRingSound);
+            audioRef.current.loop = false;
+        }
+
+        // Detect new calls by comparing call IDs
+        const currentCallIds = new Set(calls.map(call => call.id));
+        const newCalls = calls.filter(call => !previousCallIdsRef.current.has(call.id));
+        
+        if (newCalls.length > 0) {
+            // A new call arrived, play the sound
+            audioRef.current.currentTime = 0;
+            audioRef.current.play().catch(err => console.error('Error playing phone ring:', err));
+        }
+        
+        // Update the previous call IDs
+        previousCallIdsRef.current = currentCallIds;
+
+        return () => {
+            if (audioRef.current) {
+                audioRef.current.pause();
+            }
+        };
+    }, [calls]);
 
     // Update current time for elapsed time calculations
     useEffect(() => {
@@ -101,8 +131,7 @@ export default function CallTaker({ clock, onCallSelect: onCallSelect, onSpeak }
         const totalSeconds = Math.floor(ms / 1000);
         const hours = Math.floor(totalSeconds / 3600);
         const minutes = Math.floor((totalSeconds % 3600) / 60);
-        const seconds = totalSeconds % 60;
-        return `${hours.toString().padStart(2, '0')}:${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+        return `${hours.toString().padStart(2, '0')}:${minutes.toString().padStart(2, '0')}`;
     };
 
     return (
@@ -123,6 +152,15 @@ export default function CallTaker({ clock, onCallSelect: onCallSelect, onSpeak }
                                         const minutes = Math.floor(elapsedSeconds / 60);
                                         const seconds = elapsedSeconds % 60;
                                         const receivedTime = formatSimulationTime(call.receivedAt);
+                                        
+                                        // Determine elapsed time styling
+                                        const isBold = elapsedSeconds >= 10;
+                                        const isRed = elapsedSeconds >= 30;
+                                        const elapsedClasses = [
+                                            styles['call-elapsed'],
+                                            isBold ? styles['elapsed-bold'] : '',
+                                            isRed ? styles['elapsed-red'] : ''
+                                        ].filter(Boolean).join(' ');
 
                                         return (
                                             <li key={call.id} className={styles['call-item']}>
@@ -130,15 +168,9 @@ export default function CallTaker({ clock, onCallSelect: onCallSelect, onSpeak }
                                                     className={styles['call-header']} 
                                                     onClick={() => handleCallClick(call.id)}
                                                 >
-                                                    <span className={styles['call-icon']}>📞</span>
-                                                    <div className={styles['call-info']}>
-                                                        <div className={styles['call-time']}>{receivedTime}</div>
-                                                        <div className={styles['call-elapsed']}>
-                                                            +{minutes.toString().padStart(2, '0')}:{seconds.toString().padStart(2, '0')}
-                                                        </div>
-                                                        <div className={styles['call-address']}>
-                                                            {call.location.address.city.name}, {call.location.address.street} {call.location.address.number}
-                                                        </div>
+                                                    <span className={styles['call-label']}>Nuova chiamata!</span>
+                                                    <div className={elapsedClasses}>
+                                                        +{minutes.toString().padStart(2, '0')}:{seconds.toString().padStart(2, '0')}
                                                     </div>
                                                 </div>
                                             </li>

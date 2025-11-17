@@ -120,11 +120,19 @@
     flex-shrink: 0;
 }
 
+.call-label {
+    font-size: 13px;
+    font-weight: 600;
+    color: #111827;
+    flex-shrink: 0;
+}
+
 .call-info {
     display: flex;
     flex-direction: column;
     gap: 4px;
     flex: 1;
+    min-width: 0;
 }
 
 .call-time {
@@ -133,9 +141,38 @@
     font-size: 13px;
 }
 
+.call-address {
+    color: #6b7280;
+    font-size: 12px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
 .call-elapsed {
     color: #6b7280;
-    font-size: 11px;
+    font-size: 14px;
     font-family: 'Courier New', monospace;
-    font-weight: 600;
+    font-weight: 400;
+    flex-shrink: 0;
+    margin-left: auto;
+}
+
+.elapsed-bold {
+    font-weight: 700;
+}
+
+.elapsed-red {
+    color: #dc2626;
+    font-weight: 700;
+    animation: blink 1s infinite;
+}
+
+@keyframes blink {
+    0%, 49% {
+        opacity: 1;
+    }
+    50%, 100% {
+        opacity: 0.3;
+    }
 }
