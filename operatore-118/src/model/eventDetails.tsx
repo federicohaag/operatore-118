@@ -720,6 +720,51 @@ export const NOTE_EVENTO_DETAILS_MAP: Record<NoteEvento, readonly string[]> = {
 };
 
 /**
+ * Maps Luogo types to their representative icons
+ */
+export const LUOGO_ICON_MAP: Record<Luogo, string> = {
+    [Luogo.CASA]: '🏠',
+    [Luogo.STRADA]: '🛣️',
+    [Luogo.UFFICI_ED_ES_PUBBL]: '🏢',
+    [Luogo.STR_SANITARIA]: '🏥',
+    [Luogo.IMPIANTO_SPORTIVO]: '⚽',
+    [Luogo.IMPIANTO_LAVORATIVO]: '🏭',
+    [Luogo.SCUOLE]: '🏫',
+    [Luogo.STAZIONE]: '🚉',
+    [Luogo.FERROVIA]: '🚆',
+    [Luogo.METROPOLITANA]: '🚇',
+    [Luogo.AEREOPORTI]: '✈️',
+    [Luogo.QUESTURA_CASERME]: '🚓',
+    [Luogo.LUOGHI_DI_CULTO]: '⛪',
+    [Luogo.IMPERVIO]: '🏔️',
+    [Luogo.ALTRO_LUOGO]: '📍'
+};
+
+/**
+ * Maps Motivo types to their representative icons
+ */
+export const MOTIVO_ICON_MAP: Record<Motivo, string> = {
+    [Motivo.MEDICO_ACUTO]: '🩺',
+    [Motivo.SOCCORSO_PERSONA]: '🆘',
+    [Motivo.EVENTO_VIOLENTO]: '⚠️',
+    [Motivo.CADUTA]: '⬇️',
+    [Motivo.INCIDENTE_INFORTUNIO]: '🤕',
+    [Motivo.INC_STRADALE]: '🚗',
+    [Motivo.INC_FERROVIA]: '🚂',
+    [Motivo.INC_ARIA]: '🛩️',
+    [Motivo.INC_ACQUA]: '🌊',
+    [Motivo.INC_MONTANO]: '⛰️',
+    [Motivo.INC_SPELEO_FORRA]: '🕳️',
+    [Motivo.INTOSSICAZIONE]: '☠️',
+    [Motivo.ANIMALI]: '🐕',
+    [Motivo.PREVENZIONE]: '🛡️',
+    [Motivo.EVENTO_DI_MASSA]: '👥',
+    [Motivo.MAXI_EMERGENZA]: '🚨',
+    [Motivo.SOCCORSO_SECONDARIO]: '🔄',
+    [Motivo.ALTRO_NON_NOTO]: '❓'
+};
+
+/**
  * Mission data structure representing all information collected during emergency call intake
  */
 export type EventDetails = {

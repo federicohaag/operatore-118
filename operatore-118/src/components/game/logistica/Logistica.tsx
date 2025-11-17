@@ -2,6 +2,8 @@ import { useState } from 'react';
 import styles from './Logistica.module.css';
 import { useAppSelector } from '../../../core/redux/hooks';
 import { selectEvents } from '../../../core/redux/slices/events';
+import { selectCallById } from '../../../core/redux/slices/calls';
+import { Luogo, LUOGO_ICON_MAP, Motivo, MOTIVO_ICON_MAP } from '../../../model/eventDetails';
 
 export default function Logistica() {
     const events = useAppSelector(selectEvents);
@@ -24,16 +26,23 @@ export default function Logistica() {
                             <div key={event.id} className={styles['event-card']} onClick={toggleExpand}>
                                 <div className={styles['event-header']}>
                                     <span className={styles['expand-icon']}>{isExpanded ? '▼' : '▶'}</span>
-                                    <span className={styles['event-icon']}>📋</span>
                                     <span className={styles['event-code']} style={{ 
                                         backgroundColor: getColoreCodice(event.details.codice),
                                         color: 'white'
                                     }}>
-                                        {event.details.codice}
+                                        {getCodiceInitial(event.details.codice)}
                                     </span>
-                                    <span className={styles['event-location']}>
-                                        {event.details.luogo}
-                                    </span>
+                                    {(() => {
+                                        const call = useAppSelector(selectCallById(event.callId));
+                                        return call ? (
+                                            <>
+                                                <span className={styles['event-city']}>{call.location.address.city.name}</span>
+                                                <span className={styles['event-address']}>{call.location.address.street} {call.location.address.number}</span>
+                                            </>
+                                        ) : null;
+                                    })()}
+                                    <span className={styles['location-icon']} title="Luogo">{getLuogoIcon(event.details.luogo)}</span>
+                                    <span className={styles['motivo-icon']} title="Motivo">{getMotivoIcon(event.details.motivo)}</span>
                                 </div>
                                 {isExpanded && (
                                     <div className={styles['event-body']}>
@@ -76,4 +85,21 @@ function getColoreCodice(codice: string): string {
         case 'VERDE': return '#4caf50';
         default: return '#888';
     }
+}
+
+function getCodiceInitial(codice: string): string {
+    switch (codice) {
+        case 'ROSSO': return 'R';
+        case 'GIALLO': return 'G';
+        case 'VERDE': return 'V';
+        default: return '?';
+    }
+}
+
+function getLuogoIcon(luogo: Luogo): string {
+    return LUOGO_ICON_MAP[luogo];
+}
+
+function getMotivoIcon(motivo: Motivo): string {
+    return MOTIVO_ICON_MAP[motivo];
 }
