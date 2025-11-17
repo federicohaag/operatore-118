@@ -82,7 +82,6 @@ export const GameClock: React.FC<GameClockProps> = ({ clock }) => {
         </button>
         
         <div className={styles['speed-control']}>
-          <label className={styles['speed-label']}>Speed:</label>
           <select 
             value={speed} 
             onChange={(e) => handleSpeedChange(parseFloat(e.target.value))}
@@ -90,7 +89,7 @@ export const GameClock: React.FC<GameClockProps> = ({ clock }) => {
           >
             {speedOptions.map(option => (
               <option key={option} value={option}>
-                {option}x
+                Speed: {option}x
               </option>
             ))}
           </select>
