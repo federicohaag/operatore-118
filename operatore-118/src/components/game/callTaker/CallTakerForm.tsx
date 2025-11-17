@@ -42,6 +42,7 @@ export default function CallTakerForm({ callId: _callId, onEventCreated, onCallA
     const noteEvento2Ref = useRef<HTMLSelectElement | null>(null);
     const codiceRef = useRef<HTMLSelectElement | null>(null);
     const altroRef = useRef<HTMLInputElement | null>(null);
+    const submitButtonRef = useRef<HTMLButtonElement | null>(null);
 
     // Get detailed options based on parent selection
     const getDettLuogoOptions = (luogo: Luogo | ''): readonly string[] => {
@@ -170,6 +171,12 @@ export default function CallTakerForm({ callId: _callId, onEventCreated, onCallA
             setTimeout(() => openSelect(codiceRef.current), 0);
         }
     }, [altroEvento]);
+
+    useEffect(() => {
+        if (codice !== '' && submitButtonRef.current) {
+            setTimeout(() => submitButtonRef.current?.focus(), 0);
+        }
+    }, [codice]);
 
     const handleSubmit = (e: React.FormEvent) => {
         e.preventDefault();
@@ -404,6 +411,7 @@ export default function CallTakerForm({ callId: _callId, onEventCreated, onCallA
                     <button 
                         type="submit" 
                         className={styles['submit-button']}
+                        ref={submitButtonRef}
                     >
                         Crea Evento
                     </button>
