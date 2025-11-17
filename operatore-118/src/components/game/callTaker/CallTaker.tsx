@@ -154,8 +154,8 @@ export default function CallTaker({ clock, onCallSelect: onCallSelect, onSpeak }
                                         const receivedTime = formatSimulationTime(call.receivedAt);
                                         
                                         // Determine elapsed time styling
-                                        const isBold = elapsedSeconds >= 10;
-                                        const isRed = elapsedSeconds >= 30;
+                                        const isBold = elapsedSeconds >= 5;
+                                        const isRed = elapsedSeconds >= 10;
                                         const elapsedClasses = [
                                             styles['call-elapsed'],
                                             isBold ? styles['elapsed-bold'] : '',
