@@ -33,6 +33,11 @@
     border-radius: 0;
     padding: 8px 10px;
     cursor: pointer;
+    transition: border-color 0.2s;
+}
+
+.event-card:hover {
+    border-color: #3b82f6;
 }
 
 .event-header {
@@ -86,18 +91,33 @@
 }
 
 .event-city {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 4px 8px;
+    background-color: #f3f4f6;
+    border: 2px solid #d1d5db;
+    border-radius: 0;
     font-weight: 700;
-    font-size: 0.85em;
+    font-size: 0.75em;
     color: #111827;
+    min-width: 24px;
+    height: 24px;
 }
 
 .event-address {
-    font-size: 0.85em;
-    color: #374151;
-    flex: 1;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 4px 8px;
+    background-color: #f3f4f6;
+    border: 2px solid #d1d5db;
+    border-radius: 0;
+    font-size: 0.75em;
+    color: #6b7280;
+    min-width: 24px;
+    height: 24px;
+    font-weight: 600;
 }
 
 .location-icon,

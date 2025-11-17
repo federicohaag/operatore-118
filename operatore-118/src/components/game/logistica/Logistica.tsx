@@ -24,24 +24,26 @@ export default function Logistica() {
                         return (
                             <div key={event.id} className={styles['event-card']} onClick={toggleExpand}>
                                 <div className={styles['event-header']}>
-                                    <span className={styles['expand-icon']}>{isExpanded ? '▼' : '▶'}</span>
                                     <span className={styles['event-code']} style={{ 
                                         backgroundColor: getColoreCodice(event.details.codice),
                                         color: 'white'
                                     }}>
                                         {getCodiceInitial(event.details.codice)}
                                     </span>
-                                    {(() => {
-                                        const call = useAppSelector(selectCallById(event.callId));
-                                        return call ? (
-                                            <>
-                                                <span className={styles['event-city']}>{call.location.address.city.name}</span>
-                                                <span className={styles['event-address']}>{call.location.address.street} {call.location.address.number}</span>
-                                            </>
-                                        ) : null;
-                                    })()}
                                     <span className={styles['location-icon']} title="Luogo">{getLuogoIcon(event.details.luogo)}</span>
                                     <span className={styles['motivo-icon']} title="Motivo">{getMotivoIcon(event.details.motivo)}</span>
+                                    {(() => {
+                                        const call = useAppSelector(selectCallById(event.callId));
+                                        if (!call) return null;
+                                        const fullAddress = `${call.location.address.street} ${call.location.address.number}`.toUpperCase();
+                                        const truncatedAddress = fullAddress.length > 50 ? fullAddress.substring(0, 50) + '...' : fullAddress;
+                                        return (
+                                            <>
+                                                <span className={styles['event-city']}>{call.location.address.city.name.toUpperCase()}</span>
+                                                <span className={styles['event-address']} title={fullAddress}>{truncatedAddress}</span>
+                                            </>
+                                        );
+                                    })()}
                                 </div>
                                 {isExpanded && (
                                     <div className={styles['event-body']}>
