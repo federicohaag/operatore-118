@@ -1,9 +1,11 @@
+import { useState } from 'react';
 import styles from './Logistica.module.css';
 import { useAppSelector } from '../../../core/redux/hooks';
 import { selectEvents } from '../../../core/redux/slices/events';
 
 export default function Logistica() {
     const events = useAppSelector(selectEvents);
+    const [expandedEventId, setExpandedEventId] = useState<string | null>(null);
 
     return (
         <div className={styles['logistica-container']}>
@@ -12,49 +14,62 @@ export default function Logistica() {
                 <p className={styles['empty-message']}>Nessun evento creato</p>
             ) : (
                 <div className={styles['events-list']}>
-                    {events.map((event) => (
-                        <div key={event.id} className={styles['event-card']}>
-                            <div className={styles['event-header']}>
-                                <span className={styles['event-icon']}>📋</span>
-                                <span className={styles['event-code']} style={{ 
-                                    backgroundColor: getColoreCodice(event.details.codice),
-                                    color: 'white'
-                                }}>
-                                    {event.details.codice}
-                                </span>
-                            </div>
-                            <div className={styles['event-body']}>
-                                <div className={styles['event-row']}>
-                                    <strong>Luogo:</strong> {event.details.luogo}
-                                    {event.details.dettLuogo && ` - ${event.details.dettLuogo}`}
+                    {events.map((event) => {
+                        const isExpanded = expandedEventId === event.id;
+                        const toggleExpand = () => {
+                            setExpandedEventId(isExpanded ? null : event.id);
+                        };
+
+                        return (
+                            <div key={event.id} className={styles['event-card']} onClick={toggleExpand}>
+                                <div className={styles['event-header']}>
+                                    <span className={styles['expand-icon']}>{isExpanded ? '▼' : '▶'}</span>
+                                    <span className={styles['event-icon']}>📋</span>
+                                    <span className={styles['event-code']} style={{ 
+                                        backgroundColor: getColoreCodice(event.details.codice),
+                                        color: 'white'
+                                    }}>
+                                        {event.details.codice}
+                                    </span>
+                                    <span className={styles['event-location']}>
+                                        {event.details.luogo}
+                                    </span>
                                 </div>
-                                <div className={styles['event-row']}>
-                                    <strong>Motivo:</strong> {event.details.motivo}
-                                    {event.details.dettMotivo && ` - ${event.details.dettMotivo}`}
-                                </div>
-                                <div className={styles['event-row']}>
-                                    <strong>Coscienza:</strong> {event.details.coscienza}
-                                </div>
-                                <div className={styles['event-row']}>
-                                    <strong>Note:</strong> {event.details.noteEvento}
-                                    {event.details.noteEvento2 && ` - ${event.details.noteEvento2}`}
-                                </div>
-                                {event.details.altroEvento && (
-                                    <div className={styles['event-row']}>
-                                        <strong>Altro:</strong> {event.details.altroEvento}
+                                {isExpanded && (
+                                    <div className={styles['event-body']}>
+                                        <div className={styles['event-row']}>
+                                            <strong>Luogo:</strong> {event.details.luogo}
+                                            {event.details.dettLuogo && ` - ${event.details.dettLuogo}`}
+                                        </div>
+                                        <div className={styles['event-row']}>
+                                            <strong>Motivo:</strong> {event.details.motivo}
+                                            {event.details.dettMotivo && ` - ${event.details.dettMotivo}`}
+                                        </div>
+                                        <div className={styles['event-row']}>
+                                            <strong>Coscienza:</strong> {event.details.coscienza}
+                                        </div>
+                                        <div className={styles['event-row']}>
+                                            <strong>Note:</strong> {event.details.noteEvento}
+                                            {event.details.noteEvento2 && ` - ${event.details.noteEvento2}`}
+                                        </div>
+                                        {event.details.altroEvento && (
+                                            <div className={styles['event-row']}>
+                                                <strong>Altro:</strong> {event.details.altroEvento}
+                                            </div>
+                                        )}
+                                        <div className={styles['event-footer']}>
+                                            {event.details.vvf && (
+                                                <span className={styles['badge']}>🚒 VVF</span>
+                                            )}
+                                            {event.details.ffo && (
+                                                <span className={styles['badge']}>👮 Forze Ordine</span>
+                                            )}
+                                        </div>
                                     </div>
                                 )}
-                                <div className={styles['event-footer']}>
-                                    {event.details.vvf && (
-                                        <span className={styles['badge']}>🚒 VVF</span>
-                                    )}
-                                    {event.details.ffo && (
-                                        <span className={styles['badge']}>👮 Forze Ordine</span>
-                                    )}
-                                </div>
                             </div>
-                        </div>
-                    ))}
+                        );
+                    })}
                 </div>
             )}
         </div>
