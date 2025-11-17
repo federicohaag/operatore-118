@@ -3,8 +3,6 @@
     flex-direction: column;
     height: 100%;
     background-color: #ffffff;
-    border: 2px solid #d1d5db;
-    border-radius: 0;
 }
 
 .call-header {

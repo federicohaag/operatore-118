@@ -40,6 +40,7 @@ export default function CallTakerForm({ callId: _callId, onEventCreated, onCallA
     const coscienzaRef = useRef<HTMLSelectElement | null>(null);
     const noteEventoRef = useRef<HTMLSelectElement | null>(null);
     const noteEvento2Ref = useRef<HTMLSelectElement | null>(null);
+    const codiceRef = useRef<HTMLSelectElement | null>(null);
     const altroRef = useRef<HTMLInputElement | null>(null);
 
     // Get detailed options based on parent selection
@@ -164,22 +165,11 @@ export default function CallTakerForm({ callId: _callId, onEventCreated, onCallA
         }
     }, [noteEvento2, noteEvento]);
 
-    // Determine whether all required options/inputs are filled.
-    // Detail fields are required only if their parent selection has detail options.
-    const canCreateEvent = (() => {
-        if (codice === '') return false;
-        if (luogo === '') return false;
-        const dettLuogoOptions = getDettLuogoOptions(luogo);
-        if (dettLuogoOptions.length > 0 && dettLuogo === '') return false;
-        if (motivo === '') return false;
-        const dettMotivoOptions = getDettMotivoOptions(motivo);
-        if (dettMotivoOptions.length > 0 && dettMotivo === '') return false;
-        if (coscienza === '') return false;
-        if (noteEvento === '') return false;
-        const noteEvento2Options = getNoteEvento2Options(noteEvento);
-    if (noteEvento2Options.length > 0 && noteEvento2 === '') return false;
-        return true;
-    })();
+    useEffect(() => {
+        if (altroEvento !== '' && codiceRef.current) {
+            setTimeout(() => openSelect(codiceRef.current), 0);
+        }
+    }, [altroEvento]);
 
     const handleSubmit = (e: React.FormEvent) => {
         e.preventDefault();
@@ -222,41 +212,22 @@ export default function CallTakerForm({ callId: _callId, onEventCreated, onCallA
         <div className={styles['form-container']}>
             <form onSubmit={handleSubmit} className={styles['event-form']}>
                 <div className={styles['form-grid']}>
-                    {/* first row: codice always visible */}
+                    {/* first row: Luogo always visible */}
                     <div className={styles['form-group']}>
                         <select
-                            id="codice"
-                            aria-label="Codice"
-                            value={codice}
-                            onChange={(e) => setCodice(e.target.value as Codice | '')}
+                            id="luogo"
+                            aria-label="Luogo"
+                            ref={luogoRef}
+                            value={luogo}
+                            onChange={(e) => setLuogo(e.target.value as Luogo | '')}
                             className={styles['form-select']}
-                            style={{ borderLeft: `4px solid ${getColoreCodice(codice)}` }}
                         >
-                            <option value="">-- Codice --</option>
-                            {Object.values(Codice).map(value => (
+                            <option value="">-- Luogo --</option>
+                            {Object.values(Luogo).map(value => (
                                 <option key={value} value={value}>{value}</option>
                             ))}
                         </select>
                     </div>
-
-                    {/* show Luogo once Codice selected */}
-                    {codice !== '' && (
-                        <div className={styles['form-group']}>
-                            <select
-                                id="luogo"
-                                aria-label="Luogo"
-                                ref={luogoRef}
-                                value={luogo}
-                                onChange={(e) => setLuogo(e.target.value as Luogo | '')}
-                                className={styles['form-select']}
-                            >
-                                <option value="">-- Luogo --</option>
-                                {Object.values(Luogo).map(value => (
-                                    <option key={value} value={value}>{value}</option>
-                                ))}
-                            </select>
-                        </div>
-                    )}
 
                     {/* show Dett. Luogo once Luogo selected */}
                     {luogo !== '' && (
@@ -375,20 +346,38 @@ export default function CallTakerForm({ callId: _callId, onEventCreated, onCallA
                         </div>
                     )}
 
-                    {/* show Altro evento after Note evento 2 selected or if previous had no details */}
+                    {/* show Codice and Altro evento after Note evento 2 selected or if previous had no details */}
                     {(noteEvento2 !== '' || (noteEvento !== '' && getNoteEvento2Options(noteEvento).length === 0)) && (
-                        <div className={styles['form-group']}>
-                            <input
-                                id="altro-evento"
-                                aria-label="Altro evento"
-                                type="text"
-                                ref={altroRef}
-                                value={altroEvento}
-                                onChange={(e) => setAltroEvento(e.target.value)}
-                                className={styles['form-input']}
-                                placeholder="-- Altro --"
-                            />
-                        </div>
+                        <>
+                            <div className={styles['form-group']}>
+                                <input
+                                    id="altro-evento"
+                                    aria-label="Altro evento"
+                                    type="text"
+                                    ref={altroRef}
+                                    value={altroEvento}
+                                    onChange={(e) => setAltroEvento(e.target.value)}
+                                    className={styles['form-input']}
+                                    placeholder="-- Altro --"
+                                />
+                            </div>
+                            <div className={styles['form-group']}>
+                                <select
+                                    id="codice"
+                                    aria-label="Codice"
+                                    ref={codiceRef}
+                                    value={codice}
+                                    onChange={(e) => setCodice(e.target.value as Codice | '')}
+                                    className={styles['form-select']}
+                                    style={{ borderLeft: `4px solid ${getColoreCodice(codice)}` }}
+                                >
+                                    <option value="">-- Codice --</option>
+                                    {Object.values(Codice).map(value => (
+                                        <option key={value} value={value}>{value}</option>
+                                    ))}
+                                </select>
+                            </div>
+                        </>
                     )}
                 </div>
 
@@ -415,7 +404,6 @@ export default function CallTakerForm({ callId: _callId, onEventCreated, onCallA
                     <button 
                         type="submit" 
                         className={styles['submit-button']}
-                        disabled={!canCreateEvent}
                     >
                         Crea Evento
                     </button>

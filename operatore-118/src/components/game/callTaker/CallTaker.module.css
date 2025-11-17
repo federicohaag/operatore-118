@@ -22,7 +22,7 @@
     border: 2px solid #d1d5db;
     border-radius: 0;
     background-color: #ffffff;
-    padding: 12px;
+    padding: 0;
     box-sizing: border-box;
 }
 
@@ -86,7 +86,7 @@
 
 .calls-list {
     border-radius: 0;
-    padding: 0;
+    padding: 12px;
     background-color: #ffffff;
     flex: 1;
     overflow-y: auto;
