@@ -8,6 +8,7 @@ export interface SettingsSlice {
   dispatchCenter: string | null;
   cities: City[];
   ttsEnabled: boolean;
+  callEmissionEnabled: boolean;
 }
 
 const initialState: SettingsSlice = {
@@ -15,6 +16,7 @@ const initialState: SettingsSlice = {
   dispatchCenter: null,
   cities: [],
   ttsEnabled: false,
+  callEmissionEnabled: true,
 };
 
 export const settingsSlice = createSlice({
@@ -33,11 +35,15 @@ export const settingsSlice = createSlice({
     setTtsEnabled: (state: SettingsSlice, action: PayloadAction<boolean>) => {
       state.ttsEnabled = action.payload;
     },
+    setCallEmissionEnabled: (state: SettingsSlice, action: PayloadAction<boolean>) => {
+      state.callEmissionEnabled = action.payload;
+    },
     clearSettings: (state) => {
       state.region = null;
       state.dispatchCenter = null;
       state.cities = [];
       state.ttsEnabled = false;
+      state.callEmissionEnabled = true;
     },
   },
   extraReducers: (builder) => {
@@ -47,6 +53,7 @@ export const settingsSlice = createSlice({
       state.dispatchCenter = action.payload.localization.dispatchCenter;
       state.cities = action.payload.localization.cities || [];
       state.ttsEnabled = action.payload.localization.ttsEnabled ?? false;
+      state.callEmissionEnabled = action.payload.localization.callEmissionEnabled ?? true;
     });
     builder.addCase(syncStateFromOtherWindow, (state, action) => {
       // When syncing from other windows, update the entire shared state
@@ -55,17 +62,19 @@ export const settingsSlice = createSlice({
       state.dispatchCenter = newLocalization.dispatchCenter;
       state.cities = newLocalization.cities || [];
       state.ttsEnabled = newLocalization.ttsEnabled ?? false;
+      state.callEmissionEnabled = newLocalization.callEmissionEnabled ?? true;
     });
   },
 });
 
-export const { setRegion, setDispatchCenter, setCities, setTtsEnabled, clearSettings } = settingsSlice.actions;
+export const { setRegion, setDispatchCenter, setCities, setTtsEnabled, setCallEmissionEnabled, clearSettings } = settingsSlice.actions;
 
 // Export selectors
 export const selectRegion = (state: RootState) => state.localization.region;
 export const selectDispatchCenter = (state: RootState) => state.localization.dispatchCenter;
 export const selectCities = (state: RootState) => state.localization.cities;
 export const selectTtsEnabled = (state: RootState) => state.localization.ttsEnabled;
+export const selectCallEmissionEnabled = (state: RootState) => state.localization.callEmissionEnabled;
 
 // Export slice reducer
 export const settingsReducer = settingsSlice.reducer;

@@ -13,7 +13,7 @@ import { AddressGenerator } from '../../core/AddressGenerator';
 import { CALL_GENERATOR_CONFIG } from '../../core/config';
 import type { SimContext } from '../../core/EventQueue';
 import { useAppSelector, useAppDispatch } from '../../core/redux/hooks';
-import { selectRegion, selectDispatchCenter, selectCities, clearSettings, selectTtsEnabled, setTtsEnabled } from '../../core/redux/slices/settings';
+import { selectRegion, selectDispatchCenter, selectCities, clearSettings, selectTtsEnabled, setTtsEnabled, selectCallEmissionEnabled, setCallEmissionEnabled } from '../../core/redux/slices/settings';
 import { clearCalls, selectCalls } from '../../core/redux/slices/calls';
 import { selectEvents, clearEvents } from '../../core/redux/slices/events';
 import { STORAGE_STATE_KEY } from '../../core/redux/constants';
@@ -22,12 +22,12 @@ import { REGIONS } from '../../model/aggregates';
 export default function Game() {
     const [activeTab, setActiveTab] = useState<'chiamate' | 'sanitario' | 'logistica'>('chiamate');
     const [mapCenter, setMapCenter] = useState<[number, number] | undefined>(undefined);
-    const [callEmissionEnabled, setCallEmissionEnabled] = useState(true);
     const dispatch = useAppDispatch();
     const cities = useAppSelector(selectCities);
     const unprocessedCalls = useAppSelector(selectCalls);
     const events = useAppSelector(selectEvents);
     const ttsEnabled = useAppSelector(selectTtsEnabled);
+    const callEmissionEnabled = useAppSelector(selectCallEmissionEnabled);
     
     // Text-to-speech functionality (only the speak function, state is in Redux)
     const { speak } = useTextToSpeech();
@@ -38,7 +38,7 @@ export default function Game() {
     
     const handleCallEmissionToggle = () => {
         const newState = !callEmissionEnabled;
-        setCallEmissionEnabled(newState);
+        dispatch(setCallEmissionEnabled(newState));
         
         if (newState) {
             callGenerator.start();
