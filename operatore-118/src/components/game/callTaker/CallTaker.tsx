@@ -9,7 +9,6 @@ import type { EventDetails } from '../../../model/eventDetails';
 import LiveCall from './LiveCall';
 import CallTakerForm from './CallTakerForm';
 import type { VirtualClock } from '../../../core/VirtualClock';
-import phoneRingSound from '../../../assets/phone_ring.mp3';
 
 interface CallTakerProps {
     clock: VirtualClock;
@@ -22,33 +21,6 @@ export default function CallTaker({ clock, onCallSelect: onCallSelect, onSpeak }
     const calls = useAppSelector(selectCalls);
     const [selectedCall, setSelectedCall] = useState<string | null>(null);
     const [currentTime, setCurrentTime] = useState(clock.now());
-    const audioRef = useRef<HTMLAudioElement | null>(null);
-    const previousCallIdsRef = useRef<Set<string>>(new Set());
-
-    // Play phone ring sound when a new call is added
-    useEffect(() => {
-        if (!audioRef.current) {
-            audioRef.current = new Audio(phoneRingSound);
-            audioRef.current.loop = false;
-        }
-
-        // Detect new calls by comparing call IDs
-        const currentCallIds = new Set(calls.map(call => call.id));
-        const newCalls = calls.filter(call => !previousCallIdsRef.current.has(call.id));
-        
-        if (newCalls.length > 0) {
-            // A new call arrived, play the sound
-            // Stop any currently playing sound first to avoid conflicts
-            if (audioRef.current) {
-                audioRef.current.pause();
-                audioRef.current.currentTime = 0;
-            }
-            audioRef.current.play().catch(err => console.error('Error playing phone ring:', err));
-        }
-        
-        // Update the previous call IDs
-        previousCallIdsRef.current = currentCallIds;
-    }, [calls]);
 
     // Update current time for elapsed time calculations
     useEffect(() => {

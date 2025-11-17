@@ -18,6 +18,7 @@ import { clearCalls, selectCalls } from '../../core/redux/slices/calls';
 import { selectEvents, clearEvents } from '../../core/redux/slices/events';
 import { STORAGE_STATE_KEY } from '../../core/redux/constants';
 import { REGIONS } from '../../model/aggregates';
+import phoneRingSound from '../../assets/phone_ring.mp3';
 
 export default function Game() {
     const [activeTab, setActiveTab] = useState<'chiamate' | 'sanitario' | 'logistica'>('chiamate');
@@ -31,6 +32,44 @@ export default function Game() {
     
     // Text-to-speech functionality (only the speak function, state is in Redux)
     const { speak } = useTextToSpeech();
+    
+    // Phone ring sound management (independent of active tab)
+    const audioRef = useRef<HTMLAudioElement | null>(null);
+    const previousCallIdsRef = useRef<Set<string>>(new Set());
+    const isInitialMountRef = useRef(true);
+    
+    // Play phone ring sound when a new call is added (works regardless of active tab)
+    useEffect(() => {
+        if (!audioRef.current) {
+            audioRef.current = new Audio(phoneRingSound);
+            audioRef.current.loop = false;
+        }
+
+        // Detect new calls by comparing call IDs
+        const currentCallIds = new Set(unprocessedCalls.map(call => call.id));
+        
+        // On initial mount, initialize previousCallIdsRef without playing sound
+        if (isInitialMountRef.current) {
+            isInitialMountRef.current = false;
+            previousCallIdsRef.current = currentCallIds;
+            return;
+        }
+        
+        const newCalls = unprocessedCalls.filter(call => !previousCallIdsRef.current.has(call.id));
+        
+        if (newCalls.length > 0) {
+            // A new call arrived, play the sound
+            // Stop any currently playing sound first to avoid conflicts
+            if (audioRef.current) {
+                audioRef.current.pause();
+                audioRef.current.currentTime = 0;
+            }
+            audioRef.current.play().catch(err => console.error('Error playing phone ring:', err));
+        }
+        
+        // Update the previous call IDs
+        previousCallIdsRef.current = currentCallIds;
+    }, [unprocessedCalls]);
     
     const handleTtsToggle = (enabled: boolean) => {
         dispatch(setTtsEnabled(enabled));
