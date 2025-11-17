@@ -68,20 +68,19 @@ export const TextToSpeech: React.FC<TextToSpeechProps> = ({ enabled, onToggle })
 /**
  * Hook to control text-to-speech functionality
  * 
- * @returns Object with speak function and enabled state
+ * @returns Object with speak and stop functions
  */
 export const useTextToSpeech = () => {
-    const [enabled, setEnabled] = useState(false);
     const utteranceRef = useRef<SpeechSynthesisUtterance | null>(null);
     
     /**
-     * Speaks the provided text if TTS is enabled
+     * Speaks the provided text
      * 
      * @param text - Text to speak
      * @param lang - Language code (default: 'it-IT' for Italian)
      */
     const speak = (text: string, lang: string = 'it-IT') => {
-        if (!enabled || !('speechSynthesis' in window)) return;
+        if (!('speechSynthesis' in window)) return;
         
         // Cancel any ongoing speech
         window.speechSynthesis.cancel();
@@ -109,8 +108,6 @@ export const useTextToSpeech = () => {
     };
     
     return {
-        enabled,
-        setEnabled,
         speak,
         stop,
     };

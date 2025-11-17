@@ -13,7 +13,7 @@ import { AddressGenerator } from '../../core/AddressGenerator';
 import { CALL_GENERATOR_CONFIG } from '../../core/config';
 import type { SimContext } from '../../core/EventQueue';
 import { useAppSelector, useAppDispatch } from '../../core/redux/hooks';
-import { selectRegion, selectDispatchCenter, selectCities, clearSettings } from '../../core/redux/slices/settings';
+import { selectRegion, selectDispatchCenter, selectCities, clearSettings, selectTtsEnabled, setTtsEnabled } from '../../core/redux/slices/settings';
 import { clearCalls, selectCalls } from '../../core/redux/slices/calls';
 import { selectEvents, clearEvents } from '../../core/redux/slices/events';
 import { STORAGE_STATE_KEY } from '../../core/redux/constants';
@@ -26,9 +26,14 @@ export default function Game() {
     const cities = useAppSelector(selectCities);
     const unprocessedCalls = useAppSelector(selectCalls);
     const events = useAppSelector(selectEvents);
+    const ttsEnabled = useAppSelector(selectTtsEnabled);
     
-    // Text-to-speech functionality
-    const { enabled: ttsEnabled, setEnabled: setTtsEnabled, speak } = useTextToSpeech();
+    // Text-to-speech functionality (only the speak function, state is in Redux)
+    const { speak } = useTextToSpeech();
+    
+    const handleTtsToggle = (enabled: boolean) => {
+        dispatch(setTtsEnabled(enabled));
+    };
     
     // Track if component is truly mounted to prevent disposal during Strict Mode
     const isMountedRef = useRef(false);
@@ -150,7 +155,7 @@ export default function Game() {
         <div className={styles['game-container']}>
             <div className={styles['clock-row']}>
                 <GameClock clock={virtualClock} />
-                <TextToSpeech enabled={ttsEnabled} onToggle={setTtsEnabled} />
+                <TextToSpeech enabled={ttsEnabled} onToggle={handleTtsToggle} />
             </div>
                         <div className={styles['content-row']}>
                 <div className={styles['left-column']}>
@@ -179,7 +184,7 @@ export default function Game() {
                 </div>
 
                 <div className={styles['tab-content']}>
-                    {activeTab === 'chiamate' && <CallTaker clock={virtualClock} onCallSelect={setMapCenter} onSpeak={speak} />}
+                    {activeTab === 'chiamate' && <CallTaker clock={virtualClock} onCallSelect={setMapCenter} onSpeak={ttsEnabled ? speak : undefined} />}
                     {activeTab === 'sanitario' && <Sanitario />}
                     {activeTab === 'logistica' && <Logistica />}
                 </div>
