@@ -1,5 +1,5 @@
 .sanitario-container {
-    padding: 20px;
+    padding: 16px;
     width: 100%;
     height: 100%;
     box-sizing: border-box;
@@ -8,13 +8,17 @@
 }
 
 .sanitario-container h3 {
-    margin: 0 0 15px 0;
-    color: #2c3e50;
-    font-size: 1.2em;
+    margin: 0 0 12px 0;
+    color: #111827;
+    font-size: 1.1em;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
 }
 
 .sanitario-container p {
-    margin: 0 0 20px 0;
-    color: #7f8c8d;
+    margin: 0 0 16px 0;
+    color: #6b7280;
     line-height: 1.5;
+    font-size: 0.9em;
 }

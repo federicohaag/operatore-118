@@ -16,7 +16,8 @@
     justify-content: center;
     gap: 15px;
     padding: 0 20px;
-    background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+    background: #1f2937;
+    border-bottom: 2px solid #111827;
     box-sizing: border-box;
 }
 
@@ -32,8 +33,8 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: rgba(255, 255, 255, 0.1);
-    border-right: 2px solid rgba(255, 255, 255, 0.2);
+    background-color: #f9fafb;
+    border-right: 2px solid #d1d5db;
 }
 
 .right-column {
@@ -56,26 +57,22 @@
 }
 
 .button {
-    background-color: #4CAF50;
-    border: none;
+    background-color: #10b981;
+    border: 2px solid #059669;
     color: white;
-    padding: 15px 32px;
+    padding: 12px 24px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
+    font-size: 14px;
+    font-weight: 600;
     margin: 4px 2px;
     cursor: pointer;
-    border-radius: 4px;
-    transition: background-color 0.3s ease;
-}
-
-.button:hover {
-    background-color: #45a049;
+    border-radius: 0;
 }
 
 .button:active {
-    background-color: #3d8b40;
+    background-color: #047857;
 }
 
 .buttons-container {
@@ -107,78 +104,100 @@
 
 .tabs-header {
     display: flex;
-    border-bottom: 2px solid #e1e8ed;
+    border-bottom: 2px solid #d1d5db;
     margin-bottom: 0;
+    background-color: #ffffff;
 }
 
 .tab {
     flex: 1;
-    padding: 12px 16px;
-    background: none;
+    padding: 14px 20px;
+    background: #f3f4f6;
     border: none;
+    border-radius: 0;
     border-bottom: 3px solid transparent;
+    border-right: 2px solid #d1d5db;
     cursor: pointer;
-    font-size: 14px;
+    font-size: 12px;
     font-weight: 600;
-    color: #7f8c8d;
-    transition: all 0.3s ease;
+    color: #6b7280;
+    transition: none;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    outline: none;
+}
+
+.tab:last-child {
+    border-right: none;
 }
 
 .tab:hover {
-    background-color: rgba(52, 152, 219, 0.1);
-    color: #3498db;
+    border-bottom-color: #3b82f6;
+    border-right: 2px solid #d1d5db;
+}
+
+.tab:hover:last-child {
+    border-right: none;
+}
+
+.tab:focus {
+    outline: none;
 }
 
 .tab-active {
-    color: #3498db !important;
-    border-bottom-color: #3498db !important;
-    background-color: rgba(52, 152, 219, 0.05);
+    color: #111827 !important;
+    border-bottom-color: #3b82f6 !important;
+    border-right: 2px solid #d1d5db;
+    background-color: #ffffff;
+    font-weight: 700;
+}
+
+.tab-active:last-child {
+    border-right: none;
 }
 
 .counter-badge {
     display: inline-block;
-    background-color: #e74c3c;
+    background-color: #dc2626;
     color: white;
-    border-radius: 12px;
-    padding: 2px 8px;
-    font-size: 12px;
-    font-weight: bold;
+    border-radius: 0;
+    padding: 2px 6px;
+    font-size: 11px;
+    font-weight: 700;
     margin-left: 6px;
-    min-width: 20px;
+    min-width: 18px;
     text-align: center;
+    border: 1px solid #991b1b;
 }
 
 .tab-active .counter-badge {
-    background-color: #3498db;
+    background-color: #3b82f6;
+    border-color: #1d4ed8;
 }
 
 .tab-content {
     flex: 1;
     overflow-y: auto;
-    background-color: rgba(255, 255, 255, 0.05);
+    background-color: #ffffff;
     border-radius: 0;
     margin: 0;
 }
 
 .button-reset {
-    background-color: #dc3545;
-    border: none;
+    background-color: #dc2626;
+    border: 2px solid #991b1b;
     color: white;
-    padding: 15px 32px;
+    padding: 12px 24px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
+    font-size: 14px;
+    font-weight: 600;
     margin: 4px 2px;
     cursor: pointer;
-    border-radius: 4px;
-    transition: background-color 0.3s ease;
-}
-
-.button-reset:hover {
-    background-color: #c82333;
+    border-radius: 0;
 }
 
 .button-reset:active {
-    background-color: #bd2130;
+    background-color: #7f1d1d;
 }

@@ -11,7 +11,6 @@ export default function Logistica() {
 
     return (
         <div className={styles['logistica-container']}>
-            <h3>Eventi Creati</h3>
             {events.length === 0 ? (
                 <p className={styles['empty-message']}>Nessun evento creato</p>
             ) : (
