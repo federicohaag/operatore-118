@@ -97,6 +97,7 @@ export default function CallTaker({ clock, onCallSelect: onCallSelect, onSpeak }
             id: generateUuid(),
             callId: selectedCall,
             details: eventDetails,
+            missions: [],
         };
 
         // Dispatch to Redux store (persisted to localStorage and synced across tabs)

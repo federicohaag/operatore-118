@@ -22,7 +22,7 @@ export default function Logistica() {
                         };
 
                         return (
-                            <div key={event.id} className={styles['event-card']} onClick={toggleExpand}>
+                            <div key={event.id} className={`${styles['event-card']} ${event.missions.length === 0 ? styles['no-missions'] : ''}`} onClick={toggleExpand}>
                                 <div className={styles['event-header']}>
                                     <span className={styles['event-code']} style={{ 
                                         backgroundColor: getColoreCodice(event.details.codice),

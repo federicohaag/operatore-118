@@ -27,12 +27,18 @@ export const eventsSlice = createSlice({
   },
   extraReducers: (builder) => {
     builder.addCase(initStateFromStorage, (state, action) => {
-      // When loading from storage, replace the events state
-      state.events = action.payload.events.events;
+      // When loading from storage, replace the events state and ensure missions array exists
+      state.events = action.payload.events.events.map(event => ({
+        ...event,
+        missions: event.missions || []
+      }));
     });
     builder.addCase(syncStateFromOtherWindow, (state, action) => {
-      // When syncing from other windows, update the events state
-      state.events = action.payload.events.events;
+      // When syncing from other windows, update the events state and ensure missions array exists
+      state.events = action.payload.events.events.map(event => ({
+        ...event,
+        missions: event.missions || []
+      }));
     });
   },
 });
