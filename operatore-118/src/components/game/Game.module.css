@@ -19,6 +19,7 @@
     background: #1f2937;
     border-bottom: 2px solid #111827;
     box-sizing: border-box;
+    position: relative;
 }
 
 .content-row {
@@ -183,18 +184,24 @@
 }
 
 .button-reset {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    padding: 0 16px;
-    height: 36px;
-    background: #dc2626;
-    border: 2px solid #991b1b;
-    border-radius: 0;
+    background-color: #6b7280;
+    border: 2px solid #4b5563;
     color: white;
+    padding: 0 20px;
+    height: 36px;
+    text-align: center;
     font-size: 14px;
     font-weight: 600;
     cursor: pointer;
+    border-radius: 0;
+    position: absolute;
+    right: 20px;
+    transition: background-color 0.2s, border-color 0.2s;
+}
+
+.button-reset:hover {
+    background-color: #dc2626;
+    border-color: #991b1b;
 }
 
 .button-reset:active {
