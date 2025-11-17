@@ -5,6 +5,7 @@ import CallTaker from './callTaker/CallTaker';
 import Sanitario from './sanitario/Sanitario';
 import Logistica from './logistica/Logistica';
 import GameClock from './gameClock/GameClock';
+import TextToSpeech, { useTextToSpeech } from '../textToSpeech/TextToSpeech';
 import { VirtualClock } from '../../core/VirtualClock';
 import { Scheduler } from '../../core/Scheduler';
 import { CallGenerator } from '../../core/CallGenerator';
@@ -25,6 +26,9 @@ export default function Game() {
     const cities = useAppSelector(selectCities);
     const unprocessedCalls = useAppSelector(selectCalls);
     const events = useAppSelector(selectEvents);
+    
+    // Text-to-speech functionality
+    const { enabled: ttsEnabled, setEnabled: setTtsEnabled, speak } = useTextToSpeech();
     
     // Track if component is truly mounted to prevent disposal during Strict Mode
     const isMountedRef = useRef(false);
@@ -146,6 +150,7 @@ export default function Game() {
         <div className={styles['game-container']}>
             <div className={styles['clock-row']}>
                 <GameClock clock={virtualClock} />
+                <TextToSpeech enabled={ttsEnabled} onToggle={setTtsEnabled} />
             </div>
                         <div className={styles['content-row']}>
                 <div className={styles['left-column']}>
@@ -174,7 +179,7 @@ export default function Game() {
                 </div>
 
                 <div className={styles['tab-content']}>
-                    {activeTab === 'chiamate' && <CallTaker clock={virtualClock} onCallSelect={setMapCenter} />}
+                    {activeTab === 'chiamate' && <CallTaker clock={virtualClock} onCallSelect={setMapCenter} onSpeak={speak} />}
                     {activeTab === 'sanitario' && <Sanitario />}
                     {activeTab === 'logistica' && <Logistica />}
                 </div>

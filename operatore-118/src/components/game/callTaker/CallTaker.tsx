@@ -13,9 +13,10 @@ import type { VirtualClock } from '../../../core/VirtualClock';
 interface CallTakerProps {
     clock: VirtualClock;
     onCallSelect?: (location: [number, number]) => void;
+    onSpeak?: (text: string) => void;
 }
 
-export default function CallTaker({ clock, onCallSelect: onCallSelect }: CallTakerProps) {
+export default function CallTaker({ clock, onCallSelect: onCallSelect, onSpeak }: CallTakerProps) {
     const dispatch = useAppDispatch();
     const calls = useAppSelector(selectCalls);
     const [selectedCall, setSelectedCall] = useState<string | null>(null);
@@ -46,8 +47,15 @@ export default function CallTaker({ clock, onCallSelect: onCallSelect }: CallTak
         
         // Center map on call location
         const call = calls.find(c => c.id === callId);
-        if (call && onCallSelect) {
-            onCallSelect([call.location.address.latitude, call.location.address.longitude]);
+        if (call) {
+            if (onCallSelect) {
+                onCallSelect([call.location.address.latitude, call.location.address.longitude]);
+            }
+            
+            // Speak call text if TTS is enabled
+            if (onSpeak) {
+                onSpeak(call.text);
+            }
         }
     };
 
