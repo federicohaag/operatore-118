@@ -22,6 +22,7 @@ import { REGIONS } from '../../model/aggregates';
 export default function Game() {
     const [activeTab, setActiveTab] = useState<'chiamate' | 'sanitario' | 'logistica'>('chiamate');
     const [mapCenter, setMapCenter] = useState<[number, number] | undefined>(undefined);
+    const [callEmissionEnabled, setCallEmissionEnabled] = useState(true);
     const dispatch = useAppDispatch();
     const cities = useAppSelector(selectCities);
     const unprocessedCalls = useAppSelector(selectCalls);
@@ -33,6 +34,17 @@ export default function Game() {
     
     const handleTtsToggle = (enabled: boolean) => {
         dispatch(setTtsEnabled(enabled));
+    };
+    
+    const handleCallEmissionToggle = () => {
+        const newState = !callEmissionEnabled;
+        setCallEmissionEnabled(newState);
+        
+        if (newState) {
+            callGenerator.start();
+        } else {
+            callGenerator.stop();
+        }
     };
     
     // Track if component is truly mounted to prevent disposal during Strict Mode
@@ -155,6 +167,16 @@ export default function Game() {
         <div className={styles['game-container']}>
             <div className={styles['clock-row']}>
                 <GameClock clock={virtualClock} />
+                <button 
+                    className={`${styles['toggle-button']} ${callEmissionEnabled ? styles['enabled'] : ''}`}
+                    onClick={handleCallEmissionToggle}
+                    title={callEmissionEnabled ? 'Stop new calls' : 'Resume new calls'}
+                >
+                    <span className={styles['toggle-icon']}>
+                        {callEmissionEnabled ? '📞' : '🚫'}
+                    </span>
+                    <span className={styles['toggle-label']}>Calls</span>
+                </button>
                 <TextToSpeech enabled={ttsEnabled} onToggle={handleTtsToggle} />
             </div>
                         <div className={styles['content-row']}>

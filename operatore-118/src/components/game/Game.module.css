@@ -201,3 +201,51 @@
 .button-reset:active {
     background-color: #7f1d1d;
 }
+
+/* 
+ * Standard toggle button style (used for call emission, TTS, etc.)
+ * 
+ * Pattern:
+ * - Base class: .toggle-button (or similar descriptive name)
+ * - State modifier: .enabled (green background when active)
+ * - Structure: icon + label in flexbox
+ * - Colors: gray when off (#6b7280), green when on (#4caf50)
+ * - Border: 2px solid matching background
+ * 
+ * Usage:
+ * <button className={`${styles['toggle-button']} ${isEnabled ? styles['enabled'] : ''}`}>
+ *   <span className={styles['toggle-icon']}>{icon}</span>
+ *   <span className={styles['toggle-label']}>Label</span>
+ * </button>
+ */
+.toggle-button {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 0 16px;
+    height: 36px;
+    background: #6b7280;
+    border: 2px solid #4b5563;
+    border-radius: 0;
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.toggle-button.enabled {
+    background: #4caf50;
+    border-color: #4caf50;
+    color: white;
+}
+
+.toggle-icon {
+    font-size: 18px;
+    line-height: 1;
+}
+
+.toggle-label {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+}
