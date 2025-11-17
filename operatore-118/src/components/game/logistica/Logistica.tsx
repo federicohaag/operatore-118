@@ -37,34 +37,27 @@ export default function Logistica() {
                                 </div>
                                 {isExpanded && (
                                     <div className={styles['event-body']}>
-                                        <div className={styles['event-row']}>
-                                            <strong>Luogo:</strong> {event.details.luogo}
-                                            {event.details.dettLuogo && ` - ${event.details.dettLuogo}`}
-                                        </div>
-                                        <div className={styles['event-row']}>
-                                            <strong>Motivo:</strong> {event.details.motivo}
-                                            {event.details.dettMotivo && ` - ${event.details.dettMotivo}`}
-                                        </div>
-                                        <div className={styles['event-row']}>
-                                            <strong>Coscienza:</strong> {event.details.coscienza}
-                                        </div>
-                                        <div className={styles['event-row']}>
-                                            <strong>Note:</strong> {event.details.noteEvento}
-                                            {event.details.noteEvento2 && ` - ${event.details.noteEvento2}`}
-                                        </div>
-                                        {event.details.altroEvento && (
-                                            <div className={styles['event-row']}>
-                                                <strong>Altro:</strong> {event.details.altroEvento}
-                                            </div>
-                                        )}
-                                        <div className={styles['event-footer']}>
-                                            {event.details.vvf && (
-                                                <span className={styles['badge']}>🚒 VVF</span>
-                                            )}
-                                            {event.details.ffo && (
-                                                <span className={styles['badge']}>👮 Forze Ordine</span>
-                                            )}
-                                        </div>
+                                        {Object.entries(event.details).map(([key, value]) => {
+                                            if (value === undefined || value === null || value === "") return null;
+                                            if (key === "vvf" || key === "ffo") return null;
+                                            // Label mapping for better display
+                                            const labels: Record<string, string> = {
+                                                codice: "Codice",
+                                                luogo: "Luogo",
+                                                dettLuogo: "Dettaglio Luogo",
+                                                motivo: "Motivo",
+                                                dettMotivo: "Dettaglio Motivo",
+                                                coscienza: "Coscienza",
+                                                noteEvento: "Note",
+                                                noteEvento2: "Note aggiuntive",
+                                                altroEvento: "Altro"
+                                            };
+                                            return (
+                                                <div key={key} className={styles['event-row']}>
+                                                    <strong>{labels[key] || key}:</strong> {value}
+                                                </div>
+                                            );
+                                        })}
                                     </div>
                                 )}
                             </div>
