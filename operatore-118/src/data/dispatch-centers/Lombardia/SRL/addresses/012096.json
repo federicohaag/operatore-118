@@ -1,0 +1,832 @@
+[
+  {
+    "street": "Via John Fitzgerald Kennedy",
+    "number": "20",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7940872,
+    "longitude": 8.8861218
+  },
+  {
+    "street": "Via John Fitzgerald Kennedy",
+    "number": "45",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.790509,
+    "longitude": 8.890643
+  },
+  {
+    "street": "Via John Fitzgerald Kennedy",
+    "number": "34",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7906521,
+    "longitude": 8.8884314
+  },
+  {
+    "street": "Via Luigi Settembrini",
+    "number": "4",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7916394,
+    "longitude": 8.8898054
+  },
+  {
+    "street": "Via Mauro Conconi",
+    "number": "8",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.799407,
+    "longitude": 8.87974
+  },
+  {
+    "street": "Piazza Antonio Bianchi Luraschi",
+    "number": "2",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7954777,
+    "longitude": 8.8785496
+  },
+  {
+    "street": "Via del Bollerino",
+    "number": "3",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7896864,
+    "longitude": 8.8728611
+  },
+  {
+    "street": "Via Giuseppe Brusa",
+    "number": "1",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.8010313,
+    "longitude": 8.8806623
+  },
+  {
+    "street": "Via Cremona",
+    "number": "1bis",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7874173,
+    "longitude": 8.87669
+  },
+  {
+    "street": "Via Cremona",
+    "number": "1",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7874256,
+    "longitude": 8.876435
+  },
+  {
+    "street": "Via Cremona",
+    "number": "4",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7874758,
+    "longitude": 8.8762061
+  },
+  {
+    "street": "Via Cremona",
+    "number": "2",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7875805,
+    "longitude": 8.8763722
+  },
+  {
+    "street": "Via Rodolfo Morandi",
+    "number": "1",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7877238,
+    "longitude": 8.8769027
+  },
+  {
+    "street": "Via Rodolfo Morandi",
+    "number": "2",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7876598,
+    "longitude": 8.8770193
+  },
+  {
+    "street": "Via Rodolfo Morandi",
+    "number": "4",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7878773,
+    "longitude": 8.8769858
+  },
+  {
+    "street": "Via Rodolfo Morandi",
+    "number": "3",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7878579,
+    "longitude": 8.8768896
+  },
+  {
+    "street": "Via Rodolfo Morandi",
+    "number": "6",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7881222,
+    "longitude": 8.8769916
+  },
+  {
+    "street": "Via Rodolfo Morandi",
+    "number": "5",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.788234,
+    "longitude": 8.8768328
+  },
+  {
+    "street": "Via Rodolfo Morandi",
+    "number": "8",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7882797,
+    "longitude": 8.8769712
+  },
+  {
+    "street": "Via Rodolfo Morandi",
+    "number": "7",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7885693,
+    "longitude": 8.8765121
+  },
+  {
+    "street": "Via Rodolfo Morandi",
+    "number": "11",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7888132,
+    "longitude": 8.8765238
+  },
+  {
+    "street": "Piazza Amilcare Cabral",
+    "number": "2",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7881954,
+    "longitude": 8.8763358
+  },
+  {
+    "street": "Piazza Amilcare Cabral",
+    "number": "1",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7878955,
+    "longitude": 8.8764203
+  },
+  {
+    "street": "Via John Fitzgerald Kennedy",
+    "number": "2",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7958631,
+    "longitude": 8.8841124
+  },
+  {
+    "street": "Via Giuseppe Brusa",
+    "number": "5",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.8006458,
+    "longitude": 8.8799007
+  },
+  {
+    "street": "Via Gran Sasso",
+    "number": "2",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.8030949,
+    "longitude": 8.8847744
+  },
+  {
+    "street": "Via generale Luigi Cadorna",
+    "number": "9",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7939099,
+    "longitude": 8.8696478
+  },
+  {
+    "street": "Via Cacciatori Delle alpi",
+    "number": "20",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.8011684,
+    "longitude": 8.8768421
+  },
+  {
+    "street": "Via Piave",
+    "number": "24/b",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7862897,
+    "longitude": 8.8717225
+  },
+  {
+    "street": "Via Angelo Ferrari",
+    "number": "22",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7925132,
+    "longitude": 8.8958731
+  },
+  {
+    "street": "Via Capri",
+    "number": "3",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7937606,
+    "longitude": 8.8760686
+  },
+  {
+    "street": "Via Giuseppe Giusti",
+    "number": "5",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7976307,
+    "longitude": 8.8833713
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "1",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.8009045,
+    "longitude": 8.8814337
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "2",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.8009815,
+    "longitude": 8.8782262
+  },
+  {
+    "street": "Via delle Vittorie",
+    "number": "15",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.8013353,
+    "longitude": 8.8833442
+  },
+  {
+    "street": "Via delle Vittorie",
+    "number": "6",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.8011963,
+    "longitude": 8.8826638
+  },
+  {
+    "street": "Via delle Vittorie",
+    "number": "4",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.80119,
+    "longitude": 8.8822404
+  },
+  {
+    "street": "Via delle Vittorie",
+    "number": "13",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.8013348,
+    "longitude": 8.8831865
+  },
+  {
+    "street": "Via delle Vittorie",
+    "number": "11",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.8013429,
+    "longitude": 8.8827413
+  },
+  {
+    "street": "Via delle Vittorie",
+    "number": "9",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.8015835,
+    "longitude": 8.8827446
+  },
+  {
+    "street": "Via delle Vittorie",
+    "number": "7",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.8013442,
+    "longitude": 8.8824696
+  },
+  {
+    "street": "Via delle Vittorie",
+    "number": "5",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.8015637,
+    "longitude": 8.8824727
+  },
+  {
+    "street": "Via delle Vittorie",
+    "number": "3",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.8015132,
+    "longitude": 8.8821998
+  },
+  {
+    "street": "Via Luigia Sanvito",
+    "number": "10",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.8009843,
+    "longitude": 8.8772106
+  },
+  {
+    "street": "Via Angelo Ferrari",
+    "number": "16",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.792829,
+    "longitude": 8.8959074
+  },
+  {
+    "street": "Via Angelo Ferrari",
+    "number": "14",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7929316,
+    "longitude": 8.8959265
+  },
+  {
+    "street": "Via Angelo Ferrari",
+    "number": "12",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7930084,
+    "longitude": 8.8959
+  },
+  {
+    "street": "Via Angelo Ferrari",
+    "number": "10",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7931126,
+    "longitude": 8.8958171
+  },
+  {
+    "street": "Via Angelo Ferrari",
+    "number": "8",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7932103,
+    "longitude": 8.89574
+  },
+  {
+    "street": "Via Angelo Ferrari",
+    "number": "6",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7933122,
+    "longitude": 8.8956597
+  },
+  {
+    "street": "Via Angelo Ferrari",
+    "number": "4",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7934093,
+    "longitude": 8.8955797
+  },
+  {
+    "street": "Via Angelo Ferrari",
+    "number": "2",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7934935,
+    "longitude": 8.8955002
+  },
+  {
+    "street": "Via Angelo Ferrari",
+    "number": "18",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7927221,
+    "longitude": 8.8958976
+  },
+  {
+    "street": "Via Angelo Ferrari",
+    "number": "20",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7926217,
+    "longitude": 8.8958809
+  },
+  {
+    "street": "Via Angelo Ferrari",
+    "number": "24",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7926412,
+    "longitude": 8.8964678
+  },
+  {
+    "street": "Via Angelo Ferrari",
+    "number": "26",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7927421,
+    "longitude": 8.896484
+  },
+  {
+    "street": "Via Angelo Ferrari",
+    "number": "28",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7928576,
+    "longitude": 8.8964999
+  },
+  {
+    "street": "Via Angelo Ferrari",
+    "number": "30",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7929591,
+    "longitude": 8.8965147
+  },
+  {
+    "street": "Via Angelo Ferrari",
+    "number": "32",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7930548,
+    "longitude": 8.8965297
+  },
+  {
+    "street": "Via Angelo Ferrari",
+    "number": "34",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7931908,
+    "longitude": 8.8964908
+  },
+  {
+    "street": "Via Angelo Ferrari",
+    "number": "36",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.793291,
+    "longitude": 8.8963736
+  },
+  {
+    "street": "Via Angelo Ferrari",
+    "number": "38",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7933695,
+    "longitude": 8.896266
+  },
+  {
+    "street": "Via Angelo Ferrari",
+    "number": "40",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7934518,
+    "longitude": 8.8961506
+  },
+  {
+    "street": "Via Martiri Patrioti",
+    "number": "64",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7962506,
+    "longitude": 8.8835426
+  },
+  {
+    "street": "Via Varese",
+    "number": "6",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7996411,
+    "longitude": 8.8778709
+  },
+  {
+    "street": "Via Isola Bella",
+    "number": "22",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7904373,
+    "longitude": 8.8734642
+  },
+  {
+    "street": "Via Isola Bella",
+    "number": "13",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7904403,
+    "longitude": 8.8736695
+  },
+  {
+    "street": "Via Isola Bella",
+    "number": "24",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7903461,
+    "longitude": 8.8735226
+  },
+  {
+    "street": "Via Isola Bella",
+    "number": "26",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7903135,
+    "longitude": 8.8735245
+  },
+  {
+    "street": "Via Mulini",
+    "number": "1",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.788474,
+    "longitude": 8.8576185
+  },
+  {
+    "street": "Via Mulini",
+    "number": "4",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7892355,
+    "longitude": 8.8572284
+  },
+  {
+    "street": "Via Mulini",
+    "number": "5",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7891755,
+    "longitude": 8.8574132
+  },
+  {
+    "street": "Via Mulini",
+    "number": "8",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.789133,
+    "longitude": 8.8564038
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "10",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.802458,
+    "longitude": 8.8820133
+  },
+  {
+    "street": "Piazza Antonio Bianchi Luraschi",
+    "number": "3",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7954474,
+    "longitude": 8.8780783
+  },
+  {
+    "street": "Via Varese",
+    "number": "32",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.8015304,
+    "longitude": 8.8732948
+  },
+  {
+    "street": "Via Redipuglia",
+    "number": "12",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7877337,
+    "longitude": 8.8688127
+  },
+  {
+    "street": "Piazza Carlo e Nello Rosselli",
+    "number": "3",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7889496,
+    "longitude": 8.8795314
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "2",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7998824,
+    "longitude": 8.8800737
+  },
+  {
+    "street": "Via John Fitzgerald Kennedy",
+    "number": "8",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7952372,
+    "longitude": 8.8845492
+  },
+  {
+    "street": "Via Francesco Baracca",
+    "number": "1",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7921852,
+    "longitude": 8.8870978
+  },
+  {
+    "street": "Via delle Vittorie",
+    "number": "21",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.800691,
+    "longitude": 8.885957
+  },
+  {
+    "street": "Via Montello",
+    "number": "1",
+    "city": {
+      "name": "Malnate",
+      "istat": "012096"
+    },
+    "latitude": 45.7983423,
+    "longitude": 8.8889509
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "street": "Via Guglielmo Oberdan",
+    "number": "174",
+    "city": {
+      "name": "Marnate",
+      "istat": "012098"
+    },
+    "latitude": 45.6228845,
+    "longitude": 8.9023003
+  },
+  {
+    "street": "Via Guglielmo Oberdan",
+    "number": "273",
+    "city": {
+      "name": "Marnate",
+      "istat": "012098"
+    },
+    "latitude": 45.6221196,
+    "longitude": 8.9030659
+  },
+  {
+    "street": "Via Guglielmo Oberdan",
+    "number": "293",
+    "city": {
+      "name": "Marnate",
+      "istat": "012098"
+    },
+    "latitude": 45.6219735,
+    "longitude": 8.9032348
+  },
+  {
+    "street": "Via Guglielmo Oberdan",
+    "number": "328",
+    "city": {
+      "name": "Marnate",
+      "istat": "012098"
+    },
+    "latitude": 45.6216872,
+    "longitude": 8.903424
+  },
+  {
+    "street": "Piazza Sant'Ilario",
+    "number": "1",
+    "city": {
+      "name": "Marnate",
+      "istat": "012098"
+    },
+    "latitude": 45.6289573,
+    "longitude": 8.9015339
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "71",
+    "city": {
+      "name": "Marnate",
+      "istat": "012098"
+    },
+    "latitude": 45.6316275,
+    "longitude": 8.8982981
+  },
+  {
+    "street": "Vicolo Chiuso",
+    "number": "43",
+    "city": {
+      "name": "Marnate",
+      "istat": "012098"
+    },
+    "latitude": 45.6293581,
+    "longitude": 8.8973161
+  },
+  {
+    "street": "Vicolo Chiuso",
+    "number": "31",
+    "city": {
+      "name": "Marnate",
+      "istat": "012098"
+    },
+    "latitude": 45.6293553,
+    "longitude": 8.8974626
+  },
+  {
+    "street": "Vicolo Chiuso",
+    "number": "19",
+    "city": {
+      "name": "Marnate",
+      "istat": "012098"
+    },
+    "latitude": 45.6293467,
+    "longitude": 8.897678
+  },
+  {
+    "street": "Vicolo Chiuso",
+    "number": "5",
+    "city": {
+      "name": "Marnate",
+      "istat": "012098"
+    },
+    "latitude": 45.6295608,
+    "longitude": 8.8978226
+  },
+  {
+    "street": "Vicolo Chiuso",
+    "number": "34",
+    "city": {
+      "name": "Marnate",
+      "istat": "012098"
+    },
+    "latitude": 45.6294316,
+    "longitude": 8.897443
+  },
+  {
+    "street": "Vicolo Chiuso",
+    "number": "38",
+    "city": {
+      "name": "Marnate",
+      "istat": "012098"
+    },
+    "latitude": 45.6295093,
+    "longitude": 8.8974183
+  },
+  {
+    "street": "Piazza Quattro Novembre",
+    "number": "33",
+    "city": {
+      "name": "Marnate",
+      "istat": "012098"
+    },
+    "latitude": 45.6292155,
+    "longitude": 8.8979513
+  },
+  {
+    "street": "Piazza Quattro Novembre",
+    "number": "28",
+    "city": {
+      "name": "Marnate",
+      "istat": "012098"
+    },
+    "latitude": 45.6291868,
+    "longitude": 8.8979628
+  },
+  {
+    "street": "Piazza Quattro Novembre",
+    "number": "38",
+    "city": {
+      "name": "Marnate",
+      "istat": "012098"
+    },
+    "latitude": 45.6292687,
+    "longitude": 8.8979296
+  },
+  {
+    "street": "Piazza Quattro Novembre",
+    "number": "42",
+    "city": {
+      "name": "Marnate",
+      "istat": "012098"
+    },
+    "latitude": 45.6293056,
+    "longitude": 8.8979145
+  },
+  {
+    "street": "Via Luigi Pomini",
+    "number": "92",
+    "city": {
+      "name": "Marnate",
+      "istat": "012098"
+    },
+    "latitude": 45.6222747,
+    "longitude": 8.8963948
+  },
+  {
+    "street": "Vicolo Chiuso",
+    "number": "53",
+    "city": {
+      "name": "Marnate",
+      "istat": "012098"
+    },
+    "latitude": 45.6295048,
+    "longitude": 8.8972037
+  },
+  {
+    "street": "Vicolo Chiuso",
+    "number": "54",
+    "city": {
+      "name": "Marnate",
+      "istat": "012098"
+    },
+    "latitude": 45.6294957,
+    "longitude": 8.8971823
+  },
+  {
+    "street": "Dei Fontanili",
+    "number": "71",
+    "city": {
+      "name": "Marnate",
+      "istat": "012098"
+    },
+    "latitude": 45.6264551,
+    "longitude": 8.9152767
+  },
+  {
+    "street": "Via Genova",
+    "number": "12",
+    "city": {
+      "name": "Marnate",
+      "istat": "012098"
+    },
+    "latitude": 45.6334713,
+    "longitude": 8.8999002
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "1",
+    "city": {
+      "name": "Marnate",
+      "istat": "012098"
+    },
+    "latitude": 45.6367509,
+    "longitude": 8.8997374
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "1",
+    "city": {
+      "name": "Marnate",
+      "istat": "012098"
+    },
+    "latitude": 45.6264122,
+    "longitude": 8.9069952
+  },
+  {
+    "street": "Via Firenze",
+    "number": "27",
+    "city": {
+      "name": "Marnate",
+      "istat": "012098"
+    },
+    "latitude": 45.6307976,
+    "longitude": 8.9017314
+  }
+]

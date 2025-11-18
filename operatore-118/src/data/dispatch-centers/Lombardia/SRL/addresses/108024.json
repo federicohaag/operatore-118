@@ -1,0 +1,3782 @@
+[
+  {
+    "street": "Via Ambrogio Viganò",
+    "number": "4",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.696641,
+    "longitude": 9.215308
+  },
+  {
+    "street": "Via Nuova Valassina",
+    "number": "4",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.688693,
+    "longitude": 9.214069
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "13",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6929723,
+    "longitude": 9.2140473
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "50",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6736782,
+    "longitude": 9.2032573
+  },
+  {
+    "street": "Via San Giovanni Bosco",
+    "number": "5",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6838559,
+    "longitude": 9.2033325
+  },
+  {
+    "street": "Via Madonnina",
+    "number": "10",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6949971,
+    "longitude": 9.2229293
+  },
+  {
+    "street": "Via Alessandria",
+    "number": "10",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7060118,
+    "longitude": 9.2109472
+  },
+  {
+    "street": "Via Emilio Longoni",
+    "number": "4",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6955415,
+    "longitude": 9.2218337
+  },
+  {
+    "street": "Viale Monza",
+    "number": "24a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6952511,
+    "longitude": 9.2170607
+  },
+  {
+    "street": "Via Cavour",
+    "number": "137a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6984007,
+    "longitude": 9.1972679
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "84",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.703553,
+    "longitude": 9.2027426
+  },
+  {
+    "street": "Via Alberto da Giussano",
+    "number": "60",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7039944,
+    "longitude": 9.2092403
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "15",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7009867,
+    "longitude": 9.2126231
+  },
+  {
+    "street": "Via Carroccio",
+    "number": "2",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6990112,
+    "longitude": 9.2110575
+  },
+  {
+    "street": "Via Gabrio Piola",
+    "number": "20",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6974457,
+    "longitude": 9.2124411
+  },
+  {
+    "street": "Via Guglielmo Oberdan",
+    "number": "1",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6978632,
+    "longitude": 9.2122326
+  },
+  {
+    "street": "Via Ambrogio Viganò",
+    "number": "5",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6977938,
+    "longitude": 9.214915
+  },
+  {
+    "street": "Via Gabrio Piola",
+    "number": "23",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6970869,
+    "longitude": 9.2137317
+  },
+  {
+    "street": "Via Ambrogio Viganò",
+    "number": "88",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7075282,
+    "longitude": 9.2154636
+  },
+  {
+    "street": "Via Tofane",
+    "number": "1",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7089509,
+    "longitude": 9.2153805
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "103",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6988292,
+    "longitude": 9.2153588
+  },
+  {
+    "street": "Viale Monza",
+    "number": "2",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6961009,
+    "longitude": 9.2149629
+  },
+  {
+    "street": "Via Gabrio Piola",
+    "number": "11",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6975374,
+    "longitude": 9.2127481
+  },
+  {
+    "street": "Via Ambrogio Viganò",
+    "number": "17",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6992892,
+    "longitude": 9.215668
+  },
+  {
+    "street": "Via Gabrio Piola",
+    "number": "15",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.697216,
+    "longitude": 9.2134222
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "1",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6937219,
+    "longitude": 9.2208901
+  },
+  {
+    "street": "Viale Monza",
+    "number": "64",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6945424,
+    "longitude": 9.2184171
+  },
+  {
+    "street": "Viale Monza",
+    "number": "54",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6949265,
+    "longitude": 9.2178404
+  },
+  {
+    "street": "Via Lecco",
+    "number": "2",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6956909,
+    "longitude": 9.2146888
+  },
+  {
+    "street": "Via Ambrogio Viganò",
+    "number": "58",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7027889,
+    "longitude": 9.2164645
+  },
+  {
+    "street": "Via Marco Polo",
+    "number": "25",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7041582,
+    "longitude": 9.2146352
+  },
+  {
+    "street": "Via Marco Polo",
+    "number": "23",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7042294,
+    "longitude": 9.2147559
+  },
+  {
+    "street": "Via Marco Polo",
+    "number": "6",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7044429,
+    "longitude": 9.2149839
+  },
+  {
+    "street": "Via Marco Polo",
+    "number": "8",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7043305,
+    "longitude": 9.2147291
+  },
+  {
+    "street": "Via Marco Polo",
+    "number": "21",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7042668,
+    "longitude": 9.2148524
+  },
+  {
+    "street": "Via Marco Polo",
+    "number": "4a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7045328,
+    "longitude": 9.2151019
+  },
+  {
+    "street": "Via Marco Polo",
+    "number": "4",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7045684,
+    "longitude": 9.2151985
+  },
+  {
+    "street": "Via Marco Polo",
+    "number": "2",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7047464,
+    "longitude": 9.2154318
+  },
+  {
+    "street": "Via Ambrogio Viganò",
+    "number": "69",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7065595,
+    "longitude": 9.215185
+  },
+  {
+    "street": "Via Ambrogio Viganò",
+    "number": "105",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7084813,
+    "longitude": 9.2146915
+  },
+  {
+    "street": "Via Tofane",
+    "number": "7",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7095433,
+    "longitude": 9.2157483
+  },
+  {
+    "street": "Via Tofane",
+    "number": "7a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7095882,
+    "longitude": 9.2157456
+  },
+  {
+    "street": "Via Tofane",
+    "number": "22",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7098544,
+    "longitude": 9.2170648
+  },
+  {
+    "street": "Via Tofane",
+    "number": "24",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7099291,
+    "longitude": 9.2173281
+  },
+  {
+    "street": "Via Tofane",
+    "number": "37",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7131542,
+    "longitude": 9.2201847
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "114",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6705759,
+    "longitude": 9.2027601
+  },
+  {
+    "street": "Via Alfredo Catalani",
+    "number": "62",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6834459,
+    "longitude": 9.2050378
+  },
+  {
+    "street": "Via Ettore Varenna",
+    "number": "21",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6978479,
+    "longitude": 9.2083364
+  },
+  {
+    "street": "Via Cavour",
+    "number": "19",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6982516,
+    "longitude": 9.2086468
+  },
+  {
+    "street": "Via Massimo D'Azeglio",
+    "number": "32",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6967255,
+    "longitude": 9.2050531
+  },
+  {
+    "street": "Viale Brianza",
+    "number": "14/c",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6745252,
+    "longitude": 9.2046379
+  },
+  {
+    "street": "Viale Como",
+    "number": "37",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6793711,
+    "longitude": 9.1978203
+  },
+  {
+    "street": "Viale Como",
+    "number": "35",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6793901,
+    "longitude": 9.1981874
+  },
+  {
+    "street": "Via Enrico Toti",
+    "number": "5",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6739607,
+    "longitude": 9.2032939
+  },
+  {
+    "street": "Via Nobile Bianchi",
+    "number": "9",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6964494,
+    "longitude": 9.2154125
+  },
+  {
+    "street": "Via Quattro novembre",
+    "number": "35",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6731972,
+    "longitude": 9.2036457
+  },
+  {
+    "street": "Via Fiume",
+    "number": "29",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6715606,
+    "longitude": 9.2063199
+  },
+  {
+    "street": "Via Fiume",
+    "number": "26",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.671509,
+    "longitude": 9.206106
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "31",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6732727,
+    "longitude": 9.2035072
+  },
+  {
+    "street": "Via Fiume",
+    "number": "54a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6672812,
+    "longitude": 9.2044318
+  },
+  {
+    "street": "Via Tagliamento",
+    "number": "20",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6687089,
+    "longitude": 9.2099776
+  },
+  {
+    "street": "Via Tagliamento",
+    "number": "15a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6690713,
+    "longitude": 9.2086266
+  },
+  {
+    "street": "Via Statuto",
+    "number": "52a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6747128,
+    "longitude": 9.2099698
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "84",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6718453,
+    "longitude": 9.2029748
+  },
+  {
+    "street": "Via Trieste",
+    "number": "27",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6688011,
+    "longitude": 9.1989807
+  },
+  {
+    "street": "Via Statuto",
+    "number": "3",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6751442,
+    "longitude": 9.2047144
+  },
+  {
+    "street": "Via Fiume",
+    "number": "4",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6739896,
+    "longitude": 9.2077443
+  },
+  {
+    "street": "Via dei Certosini",
+    "number": "16a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6724478,
+    "longitude": 9.2053288
+  },
+  {
+    "street": "Viale Lario",
+    "number": "12",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6761316,
+    "longitude": 9.2076362
+  },
+  {
+    "street": "Via Milano",
+    "number": "65",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.692137,
+    "longitude": 9.2071796
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "43",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7016088,
+    "longitude": 9.2052849
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "8",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6957847,
+    "longitude": 9.2141936
+  },
+  {
+    "street": "Via Giuseppe Caimi",
+    "number": "19",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6961542,
+    "longitude": 9.2143793
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "13b",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6930419,
+    "longitude": 9.2140417
+  },
+  {
+    "street": "Via Statuto",
+    "number": "52",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6747291,
+    "longitude": 9.2089453
+  },
+  {
+    "street": "Via Fiume",
+    "number": "51",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6709262,
+    "longitude": 9.2060826
+  },
+  {
+    "street": "Via Mincio",
+    "number": "4a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6714863,
+    "longitude": 9.2073279
+  },
+  {
+    "street": "Via Fiume",
+    "number": "45",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6711128,
+    "longitude": 9.2067098
+  },
+  {
+    "street": "Via delle Grigne",
+    "number": "9a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7127216,
+    "longitude": 9.2216478
+  },
+  {
+    "street": "Via Mincio",
+    "number": "6",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6714292,
+    "longitude": 9.2076114
+  },
+  {
+    "street": "Via Fiume",
+    "number": "23a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6721945,
+    "longitude": 9.20668
+  },
+  {
+    "street": "Via Zara",
+    "number": "18a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6732775,
+    "longitude": 9.2054971
+  },
+  {
+    "street": "Via Adige",
+    "number": "13",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6729159,
+    "longitude": 9.2096677
+  },
+  {
+    "street": "Via Adige",
+    "number": "9",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6729549,
+    "longitude": 9.2095072
+  },
+  {
+    "street": "Via Ada Negri",
+    "number": "9a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6736635,
+    "longitude": 9.205729
+  },
+  {
+    "street": "Via Ada Negri",
+    "number": "7",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.673542,
+    "longitude": 9.2062844
+  },
+  {
+    "street": "Via Zara",
+    "number": "16",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6728806,
+    "longitude": 9.2053537
+  },
+  {
+    "street": "Viale Lario",
+    "number": "9",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6764022,
+    "longitude": 9.2085473
+  },
+  {
+    "street": "Viale Como",
+    "number": "6",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6781859,
+    "longitude": 9.2035516
+  },
+  {
+    "street": "Via Alfredo Catalani",
+    "number": "118",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6781567,
+    "longitude": 9.2047841
+  },
+  {
+    "street": "Via dei Certosini",
+    "number": "21",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6723978,
+    "longitude": 9.206467
+  },
+  {
+    "street": "Via dei Certosini",
+    "number": "21a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.672417,
+    "longitude": 9.2063583
+  },
+  {
+    "street": "Via dei Certosini",
+    "number": "20a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6723205,
+    "longitude": 9.206327
+  },
+  {
+    "street": "Via Fiume",
+    "number": "25a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6720898,
+    "longitude": 9.2066291
+  },
+  {
+    "street": "Via Fiume",
+    "number": "27",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6719133,
+    "longitude": 9.2064949
+  },
+  {
+    "street": "Via Fiume",
+    "number": "24a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.671666,
+    "longitude": 9.2061644
+  },
+  {
+    "street": "Via Fiume",
+    "number": "31",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6712687,
+    "longitude": 9.2063949
+  },
+  {
+    "street": "Via Fiume",
+    "number": "33",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6712546,
+    "longitude": 9.2064671
+  },
+  {
+    "street": "Via Mincio",
+    "number": "2a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6715675,
+    "longitude": 9.2068726
+  },
+  {
+    "street": "Via Fiume",
+    "number": "52b",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6674911,
+    "longitude": 9.2044858
+  },
+  {
+    "street": "Via Fiume",
+    "number": "52",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6676698,
+    "longitude": 9.2045762
+  },
+  {
+    "street": "Via Fiume",
+    "number": "52a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6677804,
+    "longitude": 9.2046185
+  },
+  {
+    "street": "Via Fiume",
+    "number": "50a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6678357,
+    "longitude": 9.2046681
+  },
+  {
+    "street": "Via Fiume",
+    "number": "50",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6680827,
+    "longitude": 9.2048069
+  },
+  {
+    "street": "Via Fiume",
+    "number": "48",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6682884,
+    "longitude": 9.2049566
+  },
+  {
+    "street": "Via Fiume",
+    "number": "46",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6685761,
+    "longitude": 9.2051223
+  },
+  {
+    "street": "Via Fiume",
+    "number": "40b",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6693678,
+    "longitude": 9.2054211
+  },
+  {
+    "street": "Via Fiume",
+    "number": "40a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6694546,
+    "longitude": 9.2054512
+  },
+  {
+    "street": "Via Fiume",
+    "number": "42",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6691123,
+    "longitude": 9.2053322
+  },
+  {
+    "street": "Via Fiume",
+    "number": "36",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6697192,
+    "longitude": 9.2055432
+  },
+  {
+    "street": "Via Fiume",
+    "number": "38",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6695306,
+    "longitude": 9.2054777
+  },
+  {
+    "street": "Via Fiume",
+    "number": "34",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.669931,
+    "longitude": 9.2056169
+  },
+  {
+    "street": "Via Fiume",
+    "number": "32b",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6701777,
+    "longitude": 9.2057027
+  },
+  {
+    "street": "Via Fiume",
+    "number": "32",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.670527,
+    "longitude": 9.2058105
+  },
+  {
+    "street": "Via Fiume",
+    "number": "32a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6706427,
+    "longitude": 9.2058255
+  },
+  {
+    "street": "Via Fiume",
+    "number": "30a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6710867,
+    "longitude": 9.2059328
+  },
+  {
+    "street": "Via Fiume",
+    "number": "30",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6712503,
+    "longitude": 9.2060028
+  },
+  {
+    "street": "Via Fiume",
+    "number": "19a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6731336,
+    "longitude": 9.2072617
+  },
+  {
+    "street": "Via Fiume",
+    "number": "21a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6727901,
+    "longitude": 9.207069
+  },
+  {
+    "street": "Via Fiume",
+    "number": "25",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.672072,
+    "longitude": 9.2066112
+  },
+  {
+    "street": "Via Fiume",
+    "number": "63",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6695373,
+    "longitude": 9.2056577
+  },
+  {
+    "street": "Via Fiume",
+    "number": "65",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.669278,
+    "longitude": 9.205532
+  },
+  {
+    "street": "Via Fiume",
+    "number": "69",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6689358,
+    "longitude": 9.2054222
+  },
+  {
+    "street": "Via Fiume",
+    "number": "71",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6684766,
+    "longitude": 9.2051973
+  },
+  {
+    "street": "Via Fiume",
+    "number": "73a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6683528,
+    "longitude": 9.2051249
+  },
+  {
+    "street": "Via Fiume",
+    "number": "75",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6680343,
+    "longitude": 9.2049764
+  },
+  {
+    "street": "Via Fiume",
+    "number": "81",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6675674,
+    "longitude": 9.2046693
+  },
+  {
+    "street": "Via Fiume",
+    "number": "4a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6737949,
+    "longitude": 9.2076198
+  },
+  {
+    "street": "Via Fiume",
+    "number": "4b",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6737326,
+    "longitude": 9.2075752
+  },
+  {
+    "street": "Via Fiume",
+    "number": "4c",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6736722,
+    "longitude": 9.2075302
+  },
+  {
+    "street": "Via Fiume",
+    "number": "6",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6735578,
+    "longitude": 9.2074304
+  },
+  {
+    "street": "Via Fiume",
+    "number": "7",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6732002,
+    "longitude": 9.2073164
+  },
+  {
+    "street": "Via Fiume",
+    "number": "5",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6732559,
+    "longitude": 9.2073309
+  },
+  {
+    "street": "Via Fiume",
+    "number": "43",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.670943,
+    "longitude": 9.2070071
+  },
+  {
+    "street": "Via Mincio",
+    "number": "2",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6715898,
+    "longitude": 9.206828
+  },
+  {
+    "street": "Via Mincio",
+    "number": "12",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.671328,
+    "longitude": 9.2083582
+  },
+  {
+    "street": "Via Mincio",
+    "number": "17a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6714804,
+    "longitude": 9.2084899
+  },
+  {
+    "street": "Via Mincio",
+    "number": "5a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6715661,
+    "longitude": 9.2075081
+  },
+  {
+    "street": "Via Mincio",
+    "number": "5",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6716218,
+    "longitude": 9.2071798
+  },
+  {
+    "street": "Via Mincio",
+    "number": "1a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6717138,
+    "longitude": 9.2068088
+  },
+  {
+    "street": "Via Mincio",
+    "number": "3",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6716896,
+    "longitude": 9.206926
+  },
+  {
+    "street": "Via Tagliamento",
+    "number": "17a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6689966,
+    "longitude": 9.2089183
+  },
+  {
+    "street": "Via Tagliamento",
+    "number": "17",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6690403,
+    "longitude": 9.2086705
+  },
+  {
+    "street": "Via Tagliamento",
+    "number": "9a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6693536,
+    "longitude": 9.2074905
+  },
+  {
+    "street": "Via Tagliamento",
+    "number": "5",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.669619,
+    "longitude": 9.2065164
+  },
+  {
+    "street": "Via Tagliamento",
+    "number": "3a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6696192,
+    "longitude": 9.2063651
+  },
+  {
+    "street": "Via Tagliamento",
+    "number": "3",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6696701,
+    "longitude": 9.2061155
+  },
+  {
+    "street": "Via Mincio",
+    "number": "18",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6713645,
+    "longitude": 9.2089353
+  },
+  {
+    "street": "Via Mincio",
+    "number": "18a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6713485,
+    "longitude": 9.2091429
+  },
+  {
+    "street": "Via Mincio",
+    "number": "30a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6712726,
+    "longitude": 9.2113546
+  },
+  {
+    "street": "Via Mincio",
+    "number": "30",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6712693,
+    "longitude": 9.211437
+  },
+  {
+    "street": "Via Mincio",
+    "number": "27",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6714555,
+    "longitude": 9.2098755
+  },
+  {
+    "street": "Via Mincio",
+    "number": "23a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6714601,
+    "longitude": 9.209411
+  },
+  {
+    "street": "Via Mincio",
+    "number": "21a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6714778,
+    "longitude": 9.2088247
+  },
+  {
+    "street": "Via Tagliamento",
+    "number": "2",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6695649,
+    "longitude": 9.2061714
+  },
+  {
+    "street": "Via Tagliamento",
+    "number": "4a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6695074,
+    "longitude": 9.2064239
+  },
+  {
+    "street": "Via Tagliamento",
+    "number": "6",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.669356,
+    "longitude": 9.2069273
+  },
+  {
+    "street": "Via Tagliamento",
+    "number": "8c",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6693237,
+    "longitude": 9.2070748
+  },
+  {
+    "street": "Via Tagliamento",
+    "number": "8b",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6692912,
+    "longitude": 9.2072126
+  },
+  {
+    "street": "Via Tagliamento",
+    "number": "8a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6692552,
+    "longitude": 9.2073018
+  },
+  {
+    "street": "Via Tagliamento",
+    "number": "22",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6686949,
+    "longitude": 9.2104924
+  },
+  {
+    "street": "Via Tagliamento",
+    "number": "24",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6686946,
+    "longitude": 9.2108636
+  },
+  {
+    "street": "Via Adige",
+    "number": "7",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6730602,
+    "longitude": 9.2092873
+  },
+  {
+    "street": "Via Adige",
+    "number": "30",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6726454,
+    "longitude": 9.2102436
+  },
+  {
+    "street": "Via Adige",
+    "number": "18",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6729025,
+    "longitude": 9.2093815
+  },
+  {
+    "street": "Via Adige",
+    "number": "12",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6730911,
+    "longitude": 9.208565
+  },
+  {
+    "street": "Via Adige",
+    "number": "2",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6731629,
+    "longitude": 9.2081175
+  },
+  {
+    "street": "Via Giusti",
+    "number": "51",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6683341,
+    "longitude": 9.2075313
+  },
+  {
+    "street": "Via Giusti",
+    "number": "47",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6683865,
+    "longitude": 9.2073891
+  },
+  {
+    "street": "Via Giusti",
+    "number": "49",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6683789,
+    "longitude": 9.2074096
+  },
+  {
+    "street": "Via Giusti",
+    "number": "45",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6683732,
+    "longitude": 9.2073625
+  },
+  {
+    "street": "Via Giusti",
+    "number": "53",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6683063,
+    "longitude": 9.2076068
+  },
+  {
+    "street": "Via Giusti",
+    "number": "61a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6675283,
+    "longitude": 9.2098095
+  },
+  {
+    "street": "Via Giusti",
+    "number": "63a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6672835,
+    "longitude": 9.2104709
+  },
+  {
+    "street": "Via Giusti",
+    "number": "65",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.667148,
+    "longitude": 9.2108243
+  },
+  {
+    "street": "Via Giusti",
+    "number": "33",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6686247,
+    "longitude": 9.2061242
+  },
+  {
+    "street": "Via Giusti",
+    "number": "31",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6686513,
+    "longitude": 9.2061005
+  },
+  {
+    "street": "Via Giusti",
+    "number": "126a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6673345,
+    "longitude": 9.2100262
+  },
+  {
+    "street": "Via Giusti",
+    "number": "128",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6672269,
+    "longitude": 9.2103161
+  },
+  {
+    "street": "Via Giusti",
+    "number": "130",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6671688,
+    "longitude": 9.2104908
+  },
+  {
+    "street": "Via Giusti",
+    "number": "35a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6685182,
+    "longitude": 9.2066265
+  },
+  {
+    "street": "Via Giusti",
+    "number": "43",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6683797,
+    "longitude": 9.207291
+  },
+  {
+    "street": "Via Giusti",
+    "number": "39",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6684297,
+    "longitude": 9.2071552
+  },
+  {
+    "street": "Via Tofane",
+    "number": "26",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7101928,
+    "longitude": 9.2179062
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "94",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7036043,
+    "longitude": 9.2025919
+  },
+  {
+    "street": "Via Massimo D'Azeglio",
+    "number": "41",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6919214,
+    "longitude": 9.2039305
+  },
+  {
+    "street": "Piazza Aldo Moro",
+    "number": "5",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6910342,
+    "longitude": 9.2054942
+  },
+  {
+    "street": "Via Pizzo Scalino",
+    "number": "1",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6776766,
+    "longitude": 9.1927715
+  },
+  {
+    "street": "Via Pizzo Scalino",
+    "number": "2c",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6773125,
+    "longitude": 9.1945007
+  },
+  {
+    "street": "Via Salvo D'Acquisto",
+    "number": "9",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6766328,
+    "longitude": 9.1975354
+  },
+  {
+    "street": "Via della Tecnica",
+    "number": "3a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6857045,
+    "longitude": 9.1972651
+  },
+  {
+    "street": "Via dell'Artigianato",
+    "number": "13",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6816102,
+    "longitude": 9.1970694
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "76/78",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6776111,
+    "longitude": 9.1949654
+  },
+  {
+    "street": "Via Pizzo Scalino",
+    "number": "10",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6775375,
+    "longitude": 9.1940914
+  },
+  {
+    "street": "Via della Tecnica",
+    "number": "1",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6855933,
+    "longitude": 9.1979511
+  },
+  {
+    "street": "Via dell'Industria",
+    "number": "6",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6827817,
+    "longitude": 9.1926144
+  },
+  {
+    "street": "Via dell'Industria",
+    "number": "3",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6838507,
+    "longitude": 9.1952164
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "66/68",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6767224,
+    "longitude": 9.1957045
+  },
+  {
+    "street": "Via Ugo Foscolo",
+    "number": "42/44",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6857597,
+    "longitude": 9.1963505
+  },
+  {
+    "street": "Via della Tecnica",
+    "number": "30",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6879322,
+    "longitude": 9.1999259
+  },
+  {
+    "street": "Via Gianfranco Miglio",
+    "number": "4/6",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.690591,
+    "longitude": 9.1977644
+  },
+  {
+    "street": "Via dell'Artigianato",
+    "number": "12",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6826419,
+    "longitude": 9.1952772
+  },
+  {
+    "street": "Via dell'Industria",
+    "number": "2",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6843312,
+    "longitude": 9.1940749
+  },
+  {
+    "street": "Via Ugo Foscolo",
+    "number": "46/48",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6860161,
+    "longitude": 9.1957656
+  },
+  {
+    "street": "Via Pizzo Scalino",
+    "number": "16",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6784948,
+    "longitude": 9.1936523
+  },
+  {
+    "street": "Via Monte Bianco",
+    "number": "25",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6785097,
+    "longitude": 9.1949362
+  },
+  {
+    "street": "Via Ugo Foscolo",
+    "number": "30",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6847964,
+    "longitude": 9.1976942
+  },
+  {
+    "street": "Via Monte Bianco",
+    "number": "17",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6783066,
+    "longitude": 9.1958669
+  },
+  {
+    "street": "Via Antonio Vivaldi",
+    "number": "13",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6791818,
+    "longitude": 9.1939465
+  },
+  {
+    "street": "Via Monte Bianco",
+    "number": "15",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6783951,
+    "longitude": 9.1961949
+  },
+  {
+    "street": "Via Ugo Foscolo",
+    "number": "32",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6854887,
+    "longitude": 9.1971669
+  },
+  {
+    "street": "Via Antonio Vivaldi",
+    "number": "15",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6794654,
+    "longitude": 9.1945517
+  },
+  {
+    "street": "Via Monte Bianco",
+    "number": "12",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6780076,
+    "longitude": 9.1971694
+  },
+  {
+    "street": "Via dell'Industria",
+    "number": "4",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.682578,
+    "longitude": 9.1936085
+  },
+  {
+    "street": "Via Milano",
+    "number": "31/33",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6820794,
+    "longitude": 9.1944879
+  },
+  {
+    "street": "Via Ugo Foscolo",
+    "number": "34",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6851474,
+    "longitude": 9.1964621
+  },
+  {
+    "street": "Via Monte Bianco",
+    "number": "15/17",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6785868,
+    "longitude": 9.1961464
+  },
+  {
+    "street": "Via della Tecnica",
+    "number": "9",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6885727,
+    "longitude": 9.1988403
+  },
+  {
+    "street": "Via dell'Artigianato",
+    "number": "10",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6835449,
+    "longitude": 9.1964402
+  },
+  {
+    "street": "Via Pizzo Scalino",
+    "number": "12",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6781373,
+    "longitude": 9.1936648
+  },
+  {
+    "street": "Via Pola",
+    "number": "23",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6781186,
+    "longitude": 9.2091002
+  },
+  {
+    "street": "Via Pola",
+    "number": "21",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6779516,
+    "longitude": 9.2073073
+  },
+  {
+    "street": "Via Alfredo Catalani",
+    "number": "85",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6789058,
+    "longitude": 9.2058867
+  },
+  {
+    "street": "Via Giacomo Puccini",
+    "number": "30",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6788801,
+    "longitude": 9.2083467
+  },
+  {
+    "street": "Via Pola",
+    "number": "19e",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6773624,
+    "longitude": 9.2089682
+  },
+  {
+    "street": "Via Giacomo Puccini",
+    "number": "36",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6791208,
+    "longitude": 9.2086522
+  },
+  {
+    "street": "Via Pola",
+    "number": "29",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6790803,
+    "longitude": 9.2091643
+  },
+  {
+    "street": "Via Giacomo Puccini",
+    "number": "28",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6784671,
+    "longitude": 9.2079674
+  },
+  {
+    "street": "Via Pola",
+    "number": "25",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6787452,
+    "longitude": 9.209072
+  },
+  {
+    "street": "Via Pola",
+    "number": "21/23",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6777312,
+    "longitude": 9.208219
+  },
+  {
+    "street": "Via Pola",
+    "number": "27",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6789897,
+    "longitude": 9.2091792
+  },
+  {
+    "street": "Via Giacomo Puccini",
+    "number": "40",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6793635,
+    "longitude": 9.2090108
+  },
+  {
+    "street": "Via Brunati",
+    "number": "7",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6792172,
+    "longitude": 9.2116482
+  },
+  {
+    "street": "Via Francesco Petrarca",
+    "number": "34",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6787496,
+    "longitude": 9.2020078
+  },
+  {
+    "street": "Viale Como",
+    "number": "2",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6774856,
+    "longitude": 9.2044557
+  },
+  {
+    "street": "Via Alfredo Catalani",
+    "number": "95",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6783152,
+    "longitude": 9.2056963
+  },
+  {
+    "street": "Via Pola",
+    "number": "19a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6774837,
+    "longitude": 9.2079478
+  },
+  {
+    "street": "Via Alfredo Catalani",
+    "number": "110",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6788905,
+    "longitude": 9.2046605
+  },
+  {
+    "street": "Via Alfredo Catalani",
+    "number": "102",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6797006,
+    "longitude": 9.2053874
+  },
+  {
+    "street": "Via Alfredo Catalani",
+    "number": "75",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.680424,
+    "longitude": 9.205948
+  },
+  {
+    "street": "Viale Como",
+    "number": "40",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6792012,
+    "longitude": 9.2001902
+  },
+  {
+    "street": "Via Monte San Michele",
+    "number": "1",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6966894,
+    "longitude": 9.2213837
+  },
+  {
+    "street": "Via Quattro novembre",
+    "number": "33",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6732142,
+    "longitude": 9.2036502
+  },
+  {
+    "street": "Via General Cantore",
+    "number": "40",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.706406,
+    "longitude": 9.2149982
+  },
+  {
+    "street": "Via Enrico Fermi",
+    "number": "2",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6962227,
+    "longitude": 9.2092286
+  },
+  {
+    "street": "Via General Cantore",
+    "number": "69",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7064024,
+    "longitude": 9.2147837
+  },
+  {
+    "street": "Via Gran Paradiso",
+    "number": "30",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7092034,
+    "longitude": 9.2238512
+  },
+  {
+    "street": "Via delle Grigne",
+    "number": "17",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7126838,
+    "longitude": 9.2220897
+  },
+  {
+    "street": "Via delle Grigne",
+    "number": "10",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7118886,
+    "longitude": 9.2218258
+  },
+  {
+    "street": "Via delle Grigne",
+    "number": "34",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.711689,
+    "longitude": 9.223792
+  },
+  {
+    "street": "Via delle Grigne",
+    "number": "13",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7123678,
+    "longitude": 9.2216682
+  },
+  {
+    "street": "Via Gran Paradiso",
+    "number": "41a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7112341,
+    "longitude": 9.2234099
+  },
+  {
+    "street": "Via delle Grigne",
+    "number": "15",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7126428,
+    "longitude": 9.2220344
+  },
+  {
+    "street": "Via delle Grigne",
+    "number": "9",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7127333,
+    "longitude": 9.2216333
+  },
+  {
+    "street": "Via Gran Paradiso",
+    "number": "49",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7095457,
+    "longitude": 9.2248993
+  },
+  {
+    "street": "Via delle Grigne",
+    "number": "20a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7116072,
+    "longitude": 9.2219281
+  },
+  {
+    "street": "Via delle Grigne",
+    "number": "26",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7118464,
+    "longitude": 9.2226677
+  },
+  {
+    "street": "Via delle Grigne",
+    "number": "20",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7115374,
+    "longitude": 9.2218782
+  },
+  {
+    "street": "Via delle Grigne",
+    "number": "37",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7109932,
+    "longitude": 9.2247723
+  },
+  {
+    "street": "Via delle Grigne",
+    "number": "23",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7124045,
+    "longitude": 9.2218366
+  },
+  {
+    "street": "Via Gran Paradiso",
+    "number": "23",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7105321,
+    "longitude": 9.2221247
+  },
+  {
+    "street": "Via Gran Paradiso",
+    "number": "21",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7098196,
+    "longitude": 9.2227278
+  },
+  {
+    "street": "Via delle Grigne",
+    "number": "16",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7114114,
+    "longitude": 9.2216988
+  },
+  {
+    "street": "Via delle Grigne",
+    "number": "41",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7098386,
+    "longitude": 9.2262524
+  },
+  {
+    "street": "Via Gran Paradiso",
+    "number": "42",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7103515,
+    "longitude": 9.223856
+  },
+  {
+    "street": "Via delle Grigne",
+    "number": "20b",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7116292,
+    "longitude": 9.221944
+  },
+  {
+    "street": "Via delle Grigne",
+    "number": "7",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7124479,
+    "longitude": 9.2212244
+  },
+  {
+    "street": "Via delle Grigne",
+    "number": "22",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7116388,
+    "longitude": 9.221953
+  },
+  {
+    "street": "Via delle Grigne",
+    "number": "32",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7117351,
+    "longitude": 9.2237069
+  },
+  {
+    "street": "Via Gran Paradiso",
+    "number": "45",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7094666,
+    "longitude": 9.2249746
+  },
+  {
+    "street": "Via Gran Paradiso",
+    "number": "42a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7103761,
+    "longitude": 9.2237929
+  },
+  {
+    "street": "Via Gran Paradiso",
+    "number": "28",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7118476,
+    "longitude": 9.2227509
+  },
+  {
+    "street": "Via delle Grigne",
+    "number": "21",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.712545,
+    "longitude": 9.2220436
+  },
+  {
+    "street": "Via delle Grigne",
+    "number": "14a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7115134,
+    "longitude": 9.2217637
+  },
+  {
+    "street": "Via delle Grigne",
+    "number": "39",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.709878,
+    "longitude": 9.2262315
+  },
+  {
+    "street": "Via delle Grigne",
+    "number": "41a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7098503,
+    "longitude": 9.2262473
+  },
+  {
+    "street": "Via delle Grigne",
+    "number": "11",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7122339,
+    "longitude": 9.2210445
+  },
+  {
+    "street": "Via Gran Paradiso",
+    "number": "47",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7094936,
+    "longitude": 9.2249508
+  },
+  {
+    "street": "Via delle Grigne",
+    "number": "14",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7115767,
+    "longitude": 9.221816
+  },
+  {
+    "street": "Via delle Grigne",
+    "number": "7a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7125053,
+    "longitude": 9.2213151
+  },
+  {
+    "street": "Via delle Grigne",
+    "number": "12",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7116752,
+    "longitude": 9.2219144
+  },
+  {
+    "street": "Via delle Grigne",
+    "number": "19",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7127267,
+    "longitude": 9.2221675
+  },
+  {
+    "street": "Via delle Grigne",
+    "number": "39a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7098628,
+    "longitude": 9.2262382
+  },
+  {
+    "street": "Via delle Grigne",
+    "number": "35",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7110505,
+    "longitude": 9.2246775
+  },
+  {
+    "street": "Via delle Grigne",
+    "number": "18",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7113694,
+    "longitude": 9.2217228
+  },
+  {
+    "street": "Via delle Grigne",
+    "number": "24",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7118395,
+    "longitude": 9.2223434
+  },
+  {
+    "street": "Via Gran Paradiso",
+    "number": "41",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7112019,
+    "longitude": 9.2234151
+  },
+  {
+    "street": "Via Tofane",
+    "number": "35",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7125646,
+    "longitude": 9.2197492
+  },
+  {
+    "street": "Via Tofane",
+    "number": "20",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7098116,
+    "longitude": 9.2169172
+  },
+  {
+    "street": "Via dei Certosini",
+    "number": "5",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6726781,
+    "longitude": 9.2044216
+  },
+  {
+    "street": "Via Mercalli, Via Milano, snc, 20833 Giussano MB",
+    "number": "snc",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6954084,
+    "longitude": 9.207593
+  },
+  {
+    "street": "Via Massimo D'Azeglio",
+    "number": "15",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6959785,
+    "longitude": 9.2051653
+  },
+  {
+    "street": "Via Gabrio Piola",
+    "number": "26",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6973515,
+    "longitude": 9.2126426
+  },
+  {
+    "street": "Via Oberdan",
+    "number": "7",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6982588,
+    "longitude": 9.2129737
+  },
+  {
+    "street": "Via Monte San Michele",
+    "number": "5",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.697161,
+    "longitude": 9.2216699
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "20",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6747317,
+    "longitude": 9.2032541
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "6",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6830747,
+    "longitude": 9.2041451
+  },
+  {
+    "street": "Piazza Roma",
+    "number": "58",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6992648,
+    "longitude": 9.2104431
+  },
+  {
+    "street": "Via Pietro Nenni",
+    "number": "30",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6918594,
+    "longitude": 9.1990162
+  },
+  {
+    "street": "Via Milano",
+    "number": "17",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6948985,
+    "longitude": 9.2083143
+  },
+  {
+    "street": "Via Fiume",
+    "number": "31a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6712673,
+    "longitude": 9.2064371
+  },
+  {
+    "street": "Via Alberto da Giussano",
+    "number": "31",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7020349,
+    "longitude": 9.2091882
+  },
+  {
+    "street": "Via Alberto da Giussano",
+    "number": "23",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7015318,
+    "longitude": 9.2091333
+  },
+  {
+    "street": "Via Tagliamento",
+    "number": "9",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6693467,
+    "longitude": 9.2075186
+  },
+  {
+    "street": "Via Tagliamento",
+    "number": "15",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6690795,
+    "longitude": 9.2085912
+  },
+  {
+    "street": "Via Tagliamento",
+    "number": "7a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6699424,
+    "longitude": 9.2072399
+  },
+  {
+    "street": "Via Giusti",
+    "number": "29f",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6689987,
+    "longitude": 9.2062547
+  },
+  {
+    "street": "Via Giusti",
+    "number": "25a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6687418,
+    "longitude": 9.2057121
+  },
+  {
+    "street": "Via Giusti",
+    "number": "27",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6686951,
+    "longitude": 9.205851
+  },
+  {
+    "street": "Via Giusti",
+    "number": "29a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6688448,
+    "longitude": 9.2060645
+  },
+  {
+    "street": "Via Milano",
+    "number": "94",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6882659,
+    "longitude": 9.2044388
+  },
+  {
+    "street": "Via Milano",
+    "number": "92",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6882613,
+    "longitude": 9.2042564
+  },
+  {
+    "street": "Via Carlo Pisacane",
+    "number": "13",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6876945,
+    "longitude": 9.2036998
+  },
+  {
+    "street": "Via Carlo Pisacane",
+    "number": "15",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6876551,
+    "longitude": 9.2038447
+  },
+  {
+    "street": "Via Carlo Pisacane",
+    "number": "17",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6884065,
+    "longitude": 9.2036603
+  },
+  {
+    "street": "Via Po",
+    "number": "72",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6663088,
+    "longitude": 9.2115328
+  },
+  {
+    "street": "Via Mincio",
+    "number": "23b",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6714662,
+    "longitude": 9.209101
+  },
+  {
+    "street": "Via Adige",
+    "number": "10b",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6730975,
+    "longitude": 9.2084906
+  },
+  {
+    "street": "Via Statuto",
+    "number": "54",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.674723,
+    "longitude": 9.210956
+  },
+  {
+    "street": "Via Po",
+    "number": "10",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6735991,
+    "longitude": 9.2115049
+  },
+  {
+    "street": "Via Po",
+    "number": "14",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6733801,
+    "longitude": 9.2115223
+  },
+  {
+    "street": "Via Po",
+    "number": "16",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6732111,
+    "longitude": 9.2115286
+  },
+  {
+    "street": "Via Po",
+    "number": "12",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6735468,
+    "longitude": 9.2115091
+  },
+  {
+    "street": "Via Po",
+    "number": "8",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.673781,
+    "longitude": 9.2114959
+  },
+  {
+    "street": "Via Pola",
+    "number": "2",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6750497,
+    "longitude": 9.2088505
+  },
+  {
+    "street": "Via Statuto",
+    "number": "65a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6748484,
+    "longitude": 9.2102243
+  },
+  {
+    "street": "Via Statuto",
+    "number": "65",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6748365,
+    "longitude": 9.2101435
+  },
+  {
+    "street": "Via Statuto",
+    "number": "63",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6748487,
+    "longitude": 9.209896
+  },
+  {
+    "street": "Via Statuto",
+    "number": "61a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.674849,
+    "longitude": 9.2092369
+  },
+  {
+    "street": "Via Comasina",
+    "number": "155",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6758853,
+    "longitude": 9.2096385
+  },
+  {
+    "street": "Via Pola",
+    "number": "30",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6756553,
+    "longitude": 9.2091628
+  },
+  {
+    "street": "Via dei Certosini",
+    "number": "15",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6724898,
+    "longitude": 9.2057688
+  },
+  {
+    "street": "Via dei Certosini",
+    "number": "15b",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6724616,
+    "longitude": 9.2059063
+  },
+  {
+    "street": "Via dei Certosini",
+    "number": "17a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6724687,
+    "longitude": 9.2059482
+  },
+  {
+    "street": "Via dei Certosini",
+    "number": "17",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6724413,
+    "longitude": 9.2061269
+  },
+  {
+    "street": "Via Ada Negri",
+    "number": "9",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6736788,
+    "longitude": 9.2056591
+  },
+  {
+    "street": "Via Zara",
+    "number": "18",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6732313,
+    "longitude": 9.2054943
+  },
+  {
+    "street": "Via dei Certosini",
+    "number": "13",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6725348,
+    "longitude": 9.2053221
+  },
+  {
+    "street": "Via dei Certosini",
+    "number": "13a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6725163,
+    "longitude": 9.2054689
+  },
+  {
+    "street": "Via Fiume",
+    "number": "24",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6716901,
+    "longitude": 9.2061927
+  },
+  {
+    "street": "Via Fiume",
+    "number": "22",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6719833,
+    "longitude": 9.206333
+  },
+  {
+    "street": "Via Fiume",
+    "number": "28",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6714331,
+    "longitude": 9.206062
+  },
+  {
+    "street": "Via Fiume",
+    "number": "28a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6714555,
+    "longitude": 9.2060647
+  },
+  {
+    "street": "Via dei Certosini",
+    "number": "16",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6724497,
+    "longitude": 9.2053747
+  },
+  {
+    "street": "Via dei Certosini",
+    "number": "16b",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6724205,
+    "longitude": 9.2056292
+  },
+  {
+    "street": "Via dei Certosini",
+    "number": "18a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6724167,
+    "longitude": 9.2056596
+  },
+  {
+    "street": "Via dei Certosini",
+    "number": "18",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6724047,
+    "longitude": 9.2057558
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "80",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6879508,
+    "longitude": 9.2054187
+  },
+  {
+    "street": "via tofane",
+    "number": "30",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7107986,
+    "longitude": 9.2185096
+  },
+  {
+    "street": "Via Antonio Stradivari",
+    "number": "10",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6878982,
+    "longitude": 9.2130585
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "41",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6896815,
+    "longitude": 9.2115601
+  },
+  {
+    "street": "Via Massimo D'Azeglio",
+    "number": "72",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6913014,
+    "longitude": 9.2030229
+  },
+  {
+    "street": "Via Massimo D'Azeglio",
+    "number": "70",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6920629,
+    "longitude": 9.2027516
+  },
+  {
+    "street": "via della Tecnica",
+    "number": "5/7",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6869112,
+    "longitude": 9.1981545
+  },
+  {
+    "street": "Via San Filippo Neri",
+    "number": "32",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6847887,
+    "longitude": 9.2021377
+  },
+  {
+    "street": "Via Madonnina",
+    "number": "11",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6949509,
+    "longitude": 9.2243172
+  },
+  {
+    "street": "Via Massimo D'Azeglio",
+    "number": "64",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6929857,
+    "longitude": 9.2030013
+  },
+  {
+    "street": "Via Arrigo Boito",
+    "number": "20",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6814516,
+    "longitude": 9.2148129
+  },
+  {
+    "street": "Via Guglielmo Oberdan",
+    "number": "7",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6983058,
+    "longitude": 9.212917
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "126",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6986903,
+    "longitude": 9.2166492
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "14",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.695112,
+    "longitude": 9.2129991
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "16",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6940017,
+    "longitude": 9.2129898
+  },
+  {
+    "street": "Via Giuseppe Caimi",
+    "number": "5",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6965002,
+    "longitude": 9.2125994
+  },
+  {
+    "street": "Via Tofane",
+    "number": "34",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7098649,
+    "longitude": 9.21733
+  },
+  {
+    "street": "Via della Conciliazione",
+    "number": "14",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6935381,
+    "longitude": 9.2029162
+  },
+  {
+    "street": "Via Massimo D'Azeglio",
+    "number": "60",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6932317,
+    "longitude": 9.203881
+  },
+  {
+    "street": "Via Fiume",
+    "number": "56",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.667185,
+    "longitude": 9.2042838
+  },
+  {
+    "street": "Via Ambrogio Viganò",
+    "number": "82",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7075859,
+    "longitude": 9.2159203
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "19/21",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6924631,
+    "longitude": 9.2144788
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "11",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.694394,
+    "longitude": 9.2148169
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "28",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.692042,
+    "longitude": 9.2124575
+  },
+  {
+    "street": "Via Nuova Valassina",
+    "number": "20",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6881169,
+    "longitude": 9.2137339
+  },
+  {
+    "street": "Via Antonio Furlanelli",
+    "number": "96",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6871803,
+    "longitude": 9.2127878
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "9",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6950029,
+    "longitude": 9.2145982
+  },
+  {
+    "street": "via tofane",
+    "number": "28",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.7107182,
+    "longitude": 9.2183029
+  },
+  {
+    "street": "via tofane",
+    "number": "22",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.709834,
+    "longitude": 9.217023
+  },
+  {
+    "street": "Via Alfredo Catalani",
+    "number": "53",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6828615,
+    "longitude": 9.2054912
+  },
+  {
+    "street": "Via Adige",
+    "number": "12a",
+    "city": {
+      "name": "Giussano",
+      "istat": "108024"
+    },
+    "latitude": 45.6730905,
+    "longitude": 9.2085935
+  }
+]

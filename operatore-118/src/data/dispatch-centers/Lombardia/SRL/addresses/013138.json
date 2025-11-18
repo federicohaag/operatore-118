@@ -1,0 +1,2112 @@
+[
+  {
+    "street": "Via Varesina",
+    "number": "118",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7707553,
+    "longitude": 8.9903802
+  },
+  {
+    "street": "Via Repubblica",
+    "number": "37",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7573101,
+    "longitude": 8.9943116
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "94",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7636515,
+    "longitude": 8.9979183
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "46",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7653241,
+    "longitude": 8.9992706
+  },
+  {
+    "street": "Via Roncoroni",
+    "number": "29",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7729048,
+    "longitude": 9.0021722
+  },
+  {
+    "street": "Via Luigi Cagnola",
+    "number": "49c",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7561139,
+    "longitude": 8.9967633
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "67",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7655756,
+    "longitude": 9.0000346
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "24",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7648762,
+    "longitude": 9.0077426
+  },
+  {
+    "street": "Via Regina Margherita",
+    "number": "3/5",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7729452,
+    "longitude": 9.0014245
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "107",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7645399,
+    "longitude": 8.9989696
+  },
+  {
+    "street": "Via Edoardo Stucchi",
+    "number": "18",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7681725,
+    "longitude": 9.0072978
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "123a",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7631811,
+    "longitude": 8.9982044
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "123",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7632749,
+    "longitude": 8.9982996
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "121",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7633856,
+    "longitude": 8.9983953
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "109",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7644249,
+    "longitude": 8.9988903
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "72",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7646671,
+    "longitude": 8.998936
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "66",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7649702,
+    "longitude": 8.9992349
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "95",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7648971,
+    "longitude": 8.9993674
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "93",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7649745,
+    "longitude": 8.9994413
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "85",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7650402,
+    "longitude": 8.9995066
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "83",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7650972,
+    "longitude": 8.9995696
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "81",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7651442,
+    "longitude": 8.9996109
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "48",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7652373,
+    "longitude": 8.9992007
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "46a",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7654556,
+    "longitude": 8.9995136
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "75",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.765353,
+    "longitude": 8.9998148
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "73",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7654474,
+    "longitude": 8.9999082
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "44",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7655368,
+    "longitude": 8.9997877
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "59",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7657241,
+    "longitude": 9.0001146
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "36",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7660075,
+    "longitude": 9.0001893
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "32/34",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7660808,
+    "longitude": 9.0002383
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "2",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7661356,
+    "longitude": 9.0003096
+  },
+  {
+    "street": "Via Camillo Benso di Cavour",
+    "number": "3",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.765618,
+    "longitude": 8.9994803
+  },
+  {
+    "street": "Via Camillo Benso di Cavour",
+    "number": "12",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7658931,
+    "longitude": 8.9992445
+  },
+  {
+    "street": "Via Camillo Benso di Cavour",
+    "number": "7",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7659569,
+    "longitude": 8.9989071
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "46",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7658137,
+    "longitude": 8.998781
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "40",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7657116,
+    "longitude": 8.9986489
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "38",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7656704,
+    "longitude": 8.9985391
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "2",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7646041,
+    "longitude": 8.9990294
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "79",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7652384,
+    "longitude": 8.9997039
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "61",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7657024,
+    "longitude": 9.0000982
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "42",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7659438,
+    "longitude": 9.0001358
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "3",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.76752,
+    "longitude": 9.0006007
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "10",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7674941,
+    "longitude": 9.0023019
+  },
+  {
+    "street": "Via Edoardo Stucchi",
+    "number": "8",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7678973,
+    "longitude": 9.0057396
+  },
+  {
+    "street": "Via Unione",
+    "number": "26",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7705137,
+    "longitude": 9.0048176
+  },
+  {
+    "street": "Via Unione",
+    "number": "28",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7709615,
+    "longitude": 9.0048271
+  },
+  {
+    "street": "Via Unione",
+    "number": "28d",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7707363,
+    "longitude": 9.0048769
+  },
+  {
+    "street": "Via Casale",
+    "number": "21",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.769063,
+    "longitude": 9.0022225
+  },
+  {
+    "street": "via Giuseppe Verdi",
+    "number": "20",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7672538,
+    "longitude": 8.9994973
+  },
+  {
+    "street": "Via Camillo Benso di Cavour",
+    "number": "11",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7665484,
+    "longitude": 8.9990548
+  },
+  {
+    "street": "Via Bulgarograsso",
+    "number": "23",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7618761,
+    "longitude": 9.0009055
+  },
+  {
+    "street": "Via Bulgarograsso",
+    "number": "21",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7621288,
+    "longitude": 9.0007285
+  },
+  {
+    "street": "Via Bulgarograsso",
+    "number": "16",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7622485,
+    "longitude": 9.0001357
+  },
+  {
+    "street": "Via Bulgarograsso",
+    "number": "12",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7628772,
+    "longitude": 8.9996609
+  },
+  {
+    "street": "Via Bulgarograsso",
+    "number": "7",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7631411,
+    "longitude": 8.9998326
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "24",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7626913,
+    "longitude": 9.0017214
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "139b",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.761,
+    "longitude": 8.9952772
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "139",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.760919,
+    "longitude": 8.9951479
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "139a",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7610649,
+    "longitude": 8.9953785
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "108",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7618937,
+    "longitude": 8.9962086
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "104",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7622489,
+    "longitude": 8.9961642
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "102",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7623368,
+    "longitude": 8.9965215
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "114",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7614897,
+    "longitude": 8.9957579
+  },
+  {
+    "street": "Via Edoardo Stucchi",
+    "number": "22",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7690593,
+    "longitude": 9.0083093
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "22",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7656094,
+    "longitude": 8.9972117
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "4",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.765608,
+    "longitude": 8.9966632
+  },
+  {
+    "street": "Via Olgiate",
+    "number": "1",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7656529,
+    "longitude": 8.9964674
+  },
+  {
+    "street": "Via Olgiate",
+    "number": "12",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7659504,
+    "longitude": 8.9962904
+  },
+  {
+    "street": "Via Olgiate",
+    "number": "54",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7686618,
+    "longitude": 8.9932999
+  },
+  {
+    "street": "Via Olgiate",
+    "number": "74",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7691725,
+    "longitude": 8.9930048
+  },
+  {
+    "street": "Via Varesina",
+    "number": "103",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7704167,
+    "longitude": 8.9909342
+  },
+  {
+    "street": "Via Varesina",
+    "number": "105",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7704934,
+    "longitude": 8.990623
+  },
+  {
+    "street": "Via Varesina",
+    "number": "122",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7709967,
+    "longitude": 8.9872086
+  },
+  {
+    "street": "Via Olgiate",
+    "number": "6",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7659065,
+    "longitude": 8.9963688
+  },
+  {
+    "street": "Via Luigi Cagnola",
+    "number": "6",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7612646,
+    "longitude": 8.9969835
+  },
+  {
+    "street": "Via Luigi Cagnola",
+    "number": "9",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7613907,
+    "longitude": 8.9978174
+  },
+  {
+    "street": "Via Antonio Carovelli",
+    "number": "12",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7614231,
+    "longitude": 8.9987165
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "41",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7660807,
+    "longitude": 8.9987607
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "8",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7635741,
+    "longitude": 9.0002818
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "3",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7573839,
+    "longitude": 8.996707
+  },
+  {
+    "street": "Via Luigi Cagnola",
+    "number": "49b",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.755941,
+    "longitude": 8.9964897
+  },
+  {
+    "street": "Via Luigi Cagnola",
+    "number": "49",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7557763,
+    "longitude": 8.9961759
+  },
+  {
+    "street": "Via Luigi Cagnola",
+    "number": "49a",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7563883,
+    "longitude": 8.9968116
+  },
+  {
+    "street": "Via Edoardo Stucchi",
+    "number": "14",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7676567,
+    "longitude": 9.0061061
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "25",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7641847,
+    "longitude": 8.9905032
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "32",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.765181,
+    "longitude": 8.9916026
+  },
+  {
+    "street": "Via Caio Plinio",
+    "number": "51e",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7668701,
+    "longitude": 8.9847399
+  },
+  {
+    "street": "Via Olgiate",
+    "number": "44",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7675144,
+    "longitude": 8.9950318
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "11",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7692694,
+    "longitude": 9.0005208
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "10",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7689644,
+    "longitude": 9.0008695
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "12",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.769101,
+    "longitude": 9.000773
+  },
+  {
+    "street": "Via Giacomo Puccini",
+    "number": "1",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7715706,
+    "longitude": 9.0030958
+  },
+  {
+    "street": "Via Varesina",
+    "number": "35",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7716062,
+    "longitude": 9.0033398
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "47",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7644218,
+    "longitude": 9.0072633
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "51",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7644317,
+    "longitude": 9.0075393
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "53",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7644983,
+    "longitude": 9.0077021
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "26",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7646465,
+    "longitude": 9.0078968
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "22",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7647452,
+    "longitude": 9.0071607
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "17",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7655008,
+    "longitude": 9.0078722
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "18",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7655438,
+    "longitude": 9.0074082
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "18",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7672596,
+    "longitude": 9.009275
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "16",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.770614,
+    "longitude": 9.0075186
+  },
+  {
+    "street": "Via della Resistenza",
+    "number": "1",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7708605,
+    "longitude": 8.9929784
+  },
+  {
+    "street": "Via della Resistenza",
+    "number": "11c",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7723976,
+    "longitude": 8.9920329
+  },
+  {
+    "street": "Via della Resistenza",
+    "number": "11",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7722298,
+    "longitude": 8.9921108
+  },
+  {
+    "street": "Via Varesina",
+    "number": "14",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7720164,
+    "longitude": 9.0059936
+  },
+  {
+    "street": "Via Varesina",
+    "number": "24",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7720872,
+    "longitude": 9.0048583
+  },
+  {
+    "street": "Via Varesina",
+    "number": "11",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7719362,
+    "longitude": 9.0048031
+  },
+  {
+    "street": "Via Varesina",
+    "number": "15",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7719493,
+    "longitude": 9.0046046
+  },
+  {
+    "street": "Via Varesina",
+    "number": "21",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7719423,
+    "longitude": 9.0044296
+  },
+  {
+    "street": "Via Varesina",
+    "number": "23",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7718967,
+    "longitude": 9.004173
+  },
+  {
+    "street": "Via Varesina",
+    "number": "30",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7720384,
+    "longitude": 9.0041449
+  },
+  {
+    "street": "Via Varesina",
+    "number": "36",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7720026,
+    "longitude": 9.0039278
+  },
+  {
+    "street": "Via Varesina",
+    "number": "44",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7719619,
+    "longitude": 9.0034211
+  },
+  {
+    "street": "Via Varesina",
+    "number": "46",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7719278,
+    "longitude": 9.0028479
+  },
+  {
+    "street": "Via Varesina",
+    "number": "37",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7717537,
+    "longitude": 9.0029865
+  },
+  {
+    "street": "Via Varesina",
+    "number": "48a",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7718891,
+    "longitude": 9.0026107
+  },
+  {
+    "street": "Via Varesina",
+    "number": "49",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7716204,
+    "longitude": 9.0020838
+  },
+  {
+    "street": "Via Regina Margherita",
+    "number": "2",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7720546,
+    "longitude": 9.0018712
+  },
+  {
+    "street": "Via Varesina",
+    "number": "61",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7711412,
+    "longitude": 8.9987563
+  },
+  {
+    "street": "Via Varesina",
+    "number": "86",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7714786,
+    "longitude": 8.9981246
+  },
+  {
+    "street": "Via Varesina",
+    "number": "65",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7712038,
+    "longitude": 8.9980679
+  },
+  {
+    "street": "Via Regina Margherita",
+    "number": "18",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7730343,
+    "longitude": 9.0019504
+  },
+  {
+    "street": "Via Regina Margherita",
+    "number": "11",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7732059,
+    "longitude": 9.0021292
+  },
+  {
+    "street": "Via Roncoroni",
+    "number": "20",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.772938,
+    "longitude": 9.0023521
+  },
+  {
+    "street": "Via Regina Margherita",
+    "number": "17/21",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7732579,
+    "longitude": 9.0023708
+  },
+  {
+    "street": "Via Regina Margherita",
+    "number": "23",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7732948,
+    "longitude": 9.0025029
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "6",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7723094,
+    "longitude": 9.0042104
+  },
+  {
+    "street": "Via Regina Margherita",
+    "number": "3",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7729021,
+    "longitude": 9.0012934
+  },
+  {
+    "street": "Via Varesina",
+    "number": "77",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7707341,
+    "longitude": 8.9957258
+  },
+  {
+    "street": "Via Varesina",
+    "number": "79",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7707185,
+    "longitude": 8.9955123
+  },
+  {
+    "street": "Via Roma",
+    "number": "30",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7657832,
+    "longitude": 8.996173
+  },
+  {
+    "street": "Via Caio Plinio",
+    "number": "53",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7669778,
+    "longitude": 8.9871667
+  },
+  {
+    "street": "Via Varesina",
+    "number": "3",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7710764,
+    "longitude": 9.0077448
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "38",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7739058,
+    "longitude": 9.0028641
+  },
+  {
+    "street": "Via Lura",
+    "number": "8",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.780964,
+    "longitude": 8.9959768
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "27",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7635214,
+    "longitude": 9.0097375
+  },
+  {
+    "street": "Via Repubblica",
+    "number": "6",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7626307,
+    "longitude": 9.0073986
+  },
+  {
+    "street": "Via Repubblica",
+    "number": "8",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7625091,
+    "longitude": 9.006669
+  },
+  {
+    "street": "Via Repubblica",
+    "number": "5",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7621217,
+    "longitude": 9.0075676
+  },
+  {
+    "street": "Via Repubblica",
+    "number": "8a",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7624745,
+    "longitude": 9.0068112
+  },
+  {
+    "street": "Via Bulgarograsso",
+    "number": "37",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7601148,
+    "longitude": 9.0026538
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "26",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7731884,
+    "longitude": 9.0031184
+  },
+  {
+    "street": "Via Giosuè Carducci",
+    "number": "10",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7682087,
+    "longitude": 9.0087869
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "23",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7656126,
+    "longitude": 8.9969972
+  },
+  {
+    "street": "Via Varesina",
+    "number": "99",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7703039,
+    "longitude": 8.9918495
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "31",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7625317,
+    "longitude": 9.0101719
+  },
+  {
+    "street": "Via Monte Sinai",
+    "number": "19",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7612903,
+    "longitude": 8.9746748
+  },
+  {
+    "street": "Largo Caduti per la Pace",
+    "number": "2",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7697642,
+    "longitude": 8.9956285
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "16",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7674344,
+    "longitude": 9.0014522
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "12",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.770502,
+    "longitude": 9.0083408
+  },
+  {
+    "street": "Via Vittorio Emanuele Secondo",
+    "number": "23",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7811596,
+    "longitude": 8.9977708
+  },
+  {
+    "street": "Via Ludovico Ariosto",
+    "number": "7",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7677735,
+    "longitude": 8.9958116
+  },
+  {
+    "street": "Via Varesina",
+    "number": "58",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7717827,
+    "longitude": 9.0012807
+  },
+  {
+    "street": "Via Repubblica",
+    "number": "42",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7565848,
+    "longitude": 8.9906366
+  },
+  {
+    "street": "Via Bulgarograsso",
+    "number": "1",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7636001,
+    "longitude": 8.9991723
+  },
+  {
+    "street": "Via Giuseppe Galliano",
+    "number": "7",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7622166,
+    "longitude": 8.9996517
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "29",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7639621,
+    "longitude": 8.9952078
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "9",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7563854,
+    "longitude": 8.9975028
+  },
+  {
+    "street": "Via Giotto",
+    "number": "26",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.755804,
+    "longitude": 8.9996782
+  },
+  {
+    "street": "Via Giotto",
+    "number": "35",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7562736,
+    "longitude": 8.9992645
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "10",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7680328,
+    "longitude": 8.9954431
+  },
+  {
+    "street": "Via Oltrona",
+    "number": "22/24",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7589955,
+    "longitude": 8.9914292
+  },
+  {
+    "street": "Via Raffaello Sanzio",
+    "number": "13",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7590522,
+    "longitude": 8.9943078
+  },
+  {
+    "street": "Via Oltrona",
+    "number": "3",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7598605,
+    "longitude": 8.9951633
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "28",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7688239,
+    "longitude": 8.9905776
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "38",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7702074,
+    "longitude": 8.9895065
+  },
+  {
+    "street": "Via Barozzo",
+    "number": "11",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7718786,
+    "longitude": 8.9913468
+  },
+  {
+    "street": "Via Varesina",
+    "number": "112",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7713478,
+    "longitude": 8.9916882
+  },
+  {
+    "street": "Via Giuseppe Sinigaglia",
+    "number": "38",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7581994,
+    "longitude": 8.9856288
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "1",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.767251,
+    "longitude": 9.0043871
+  },
+  {
+    "street": "Via Regina Margherita",
+    "number": "1",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7723258,
+    "longitude": 9.0012719
+  },
+  {
+    "street": "Via Monte Sinai",
+    "number": "4",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7604694,
+    "longitude": 8.9753312
+  },
+  {
+    "street": "Via Repubblica",
+    "number": "55",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7546038,
+    "longitude": 8.9899569
+  },
+  {
+    "street": "Via Repubblica",
+    "number": "39",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7569039,
+    "longitude": 8.9931992
+  },
+  {
+    "street": "Via Oltrona",
+    "number": "33",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.756901,
+    "longitude": 8.9893253
+  },
+  {
+    "street": "Via Oltrona",
+    "number": "23a",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7579059,
+    "longitude": 8.9917178
+  },
+  {
+    "street": "Via Giotto",
+    "number": "31",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7575655,
+    "longitude": 8.9993431
+  },
+  {
+    "street": "Via Repubblica",
+    "number": "11b",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7595311,
+    "longitude": 9.0065442
+  },
+  {
+    "street": "Via Repubblica",
+    "number": "11",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7611001,
+    "longitude": 9.0052876
+  },
+  {
+    "street": "Via Repubblica",
+    "number": "7",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7617101,
+    "longitude": 9.0065777
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "35",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7615689,
+    "longitude": 9.0093579
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "33",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7617092,
+    "longitude": 9.0102215
+  },
+  {
+    "street": "Via Repubblica",
+    "number": "1",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7629098,
+    "longitude": 9.0100084
+  },
+  {
+    "street": "Via Luigi Cagnola",
+    "number": "19",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7604521,
+    "longitude": 8.9972507
+  },
+  {
+    "street": "Via Bulgarograsso",
+    "number": "17",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7629183,
+    "longitude": 9.000785
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "10",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7631128,
+    "longitude": 9.000545
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "27",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7622408,
+    "longitude": 9.0038843
+  },
+  {
+    "street": "Via Repubblica",
+    "number": "10",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7621048,
+    "longitude": 9.005564
+  },
+  {
+    "street": "Via Repubblica",
+    "number": "4",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7634965,
+    "longitude": 9.0081798
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "25",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.767043,
+    "longitude": 9.0018296
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "35",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7662842,
+    "longitude": 9.0014663
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "19",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7663788,
+    "longitude": 9.0026933
+  },
+  {
+    "street": "Via Gioacchino Rossini",
+    "number": "11",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7660831,
+    "longitude": 9.0021797
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "15",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7646443,
+    "longitude": 9.0026611
+  },
+  {
+    "street": "Piazza Alpini",
+    "number": "1",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7677259,
+    "longitude": 9.0049692
+  },
+  {
+    "street": "Via Edoardo Stucchi",
+    "number": "30",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7699584,
+    "longitude": 9.0098502
+  },
+  {
+    "street": "Via Unione",
+    "number": "2",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7682612,
+    "longitude": 9.0062534
+  },
+  {
+    "street": "Via Edoardo Stucchi",
+    "number": "5",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7690381,
+    "longitude": 9.0071116
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "5",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7691599,
+    "longitude": 9.006216
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "9",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7659137,
+    "longitude": 8.993643
+  },
+  {
+    "street": "Via Monterotondo",
+    "number": "14",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7749784,
+    "longitude": 8.9972019
+  },
+  {
+    "street": "Via Varesina",
+    "number": "2",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.772104,
+    "longitude": 9.007478
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "39",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7758971,
+    "longitude": 8.9987899
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "16",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7747246,
+    "longitude": 9.0004877
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "81",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7757523,
+    "longitude": 9.0011576
+  },
+  {
+    "street": "Via Lura",
+    "number": "25",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7759571,
+    "longitude": 9.0003503
+  },
+  {
+    "street": "Via Lura",
+    "number": "15",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7774331,
+    "longitude": 8.9996877
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "127",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7624747,
+    "longitude": 8.9974709
+  },
+  {
+    "street": "Via Gioacchino Rossini",
+    "number": "10",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7652049,
+    "longitude": 9.0021483
+  },
+  {
+    "street": "Via Vittorio Emanuele Secondo",
+    "number": "38",
+    "city": {
+      "name": "Lurate Caccivio",
+      "istat": "013138"
+    },
+    "latitude": 45.7822145,
+    "longitude": 8.9977523
+  }
+]

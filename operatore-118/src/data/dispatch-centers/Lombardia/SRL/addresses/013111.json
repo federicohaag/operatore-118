@@ -1,0 +1,102 @@
+[
+  {
+    "street": "Via Molini",
+    "number": "3",
+    "city": {
+      "name": "Grandola ed Uniti",
+      "istat": "013111"
+    },
+    "latitude": 46.0336609,
+    "longitude": 9.2090255
+  },
+  {
+    "street": "Via A. Wyatt",
+    "number": "54",
+    "city": {
+      "name": "Grandola ed Uniti",
+      "istat": "013111"
+    },
+    "latitude": 46.0170859,
+    "longitude": 9.2190542
+  },
+  {
+    "street": "Via Carlo Galbiati",
+    "number": "2",
+    "city": {
+      "name": "Grandola ed Uniti",
+      "istat": "013111"
+    },
+    "latitude": 46.0261428,
+    "longitude": 9.2139538
+  },
+  {
+    "street": "Via Molini",
+    "number": "21",
+    "city": {
+      "name": "Grandola ed Uniti",
+      "istat": "013111"
+    },
+    "latitude": 46.040838,
+    "longitude": 9.2072872
+  },
+  {
+    "street": "Via alla Santa",
+    "number": "2",
+    "city": {
+      "name": "Grandola ed Uniti",
+      "istat": "013111"
+    },
+    "latitude": 46.0304396,
+    "longitude": 9.2077627
+  },
+  {
+    "street": "Via Mulini",
+    "number": "7",
+    "city": {
+      "name": "Grandola ed Uniti",
+      "istat": "013111"
+    },
+    "latitude": 46.0338092,
+    "longitude": 9.2092744
+  },
+  {
+    "street": "Piazza Luigi Camozzi",
+    "number": "2",
+    "city": {
+      "name": "Grandola ed Uniti",
+      "istat": "013111"
+    },
+    "latitude": 46.0308304,
+    "longitude": 9.2079167
+  },
+  {
+    "street": "Via Molini",
+    "number": "1",
+    "city": {
+      "name": "Grandola ed Uniti",
+      "istat": "013111"
+    },
+    "latitude": 46.0317489,
+    "longitude": 9.2084441
+  },
+  {
+    "street": "Via Dossello",
+    "number": "8",
+    "city": {
+      "name": "Grandola ed Uniti",
+      "istat": "013111"
+    },
+    "latitude": 46.0388096,
+    "longitude": 9.1998415
+  },
+  {
+    "street": "Via Italia",
+    "number": "127",
+    "city": {
+      "name": "Grandola ed Uniti",
+      "istat": "013111"
+    },
+    "latitude": 46.0329826,
+    "longitude": 9.18988
+  }
+]

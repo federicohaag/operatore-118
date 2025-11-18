@@ -1,0 +1,452 @@
+[
+  {
+    "street": "Via Piave",
+    "number": "40",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.7769335,
+    "longitude": 8.7954351
+  },
+  {
+    "street": "Via Piave",
+    "number": "83",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.7776955,
+    "longitude": 8.7973383
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "23",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.7773446,
+    "longitude": 8.7955242
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "26",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.7808938,
+    "longitude": 8.7949961
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "15",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.7780085,
+    "longitude": 8.7950096
+  },
+  {
+    "street": "Via Giotto",
+    "number": "19",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.7783758,
+    "longitude": 8.7970257
+  },
+  {
+    "street": "Via Benizzi Castellani",
+    "number": "1",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.7811068,
+    "longitude": 8.7965086
+  },
+  {
+    "street": "Via Piave",
+    "number": "26",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.7757449,
+    "longitude": 8.7922403
+  },
+  {
+    "street": "Via Piave",
+    "number": "7",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.7748211,
+    "longitude": 8.7901675
+  },
+  {
+    "street": "Via Piave",
+    "number": "81",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.7775807,
+    "longitude": 8.7967977
+  },
+  {
+    "street": "Via Piave",
+    "number": "23",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.7760863,
+    "longitude": 8.7922471
+  },
+  {
+    "street": "Via Piave",
+    "number": "109",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.7776639,
+    "longitude": 8.7989148
+  },
+  {
+    "street": "Via Piave",
+    "number": "54",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.7772542,
+    "longitude": 8.7960531
+  },
+  {
+    "street": "Via Piave",
+    "number": "120",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.7774535,
+    "longitude": 8.7994902
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "1",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.7741505,
+    "longitude": 8.7902996
+  },
+  {
+    "street": "Via Piave",
+    "number": "158",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.7779988,
+    "longitude": 8.8034055
+  },
+  {
+    "street": "Via Piave",
+    "number": "43",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.7768746,
+    "longitude": 8.7945463
+  },
+  {
+    "street": "Via Piave",
+    "number": "34",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.7767714,
+    "longitude": 8.7952442
+  },
+  {
+    "street": "Via Piave",
+    "number": "69",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.77747,
+    "longitude": 8.7962181
+  },
+  {
+    "street": "Via Renato Colli",
+    "number": "34",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.7785184,
+    "longitude": 8.7989074
+  },
+  {
+    "street": "Via Piave",
+    "number": "29",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.7763734,
+    "longitude": 8.7929918
+  },
+  {
+    "street": "Via Piave",
+    "number": "43a",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.7769984,
+    "longitude": 8.7947117
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "26",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.7777823,
+    "longitude": 8.7949607
+  },
+  {
+    "street": "Via Piave",
+    "number": "18",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.7751603,
+    "longitude": 8.7909979
+  },
+  {
+    "street": "Via Piave",
+    "number": "22",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.7762021,
+    "longitude": 8.7933798
+  },
+  {
+    "street": "Via Piave",
+    "number": "1",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.7779314,
+    "longitude": 8.8001071
+  },
+  {
+    "street": "Via Giacomo Puccini",
+    "number": "4",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.777259,
+    "longitude": 8.7943867
+  },
+  {
+    "street": "Via Piave",
+    "number": "111",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.7776443,
+    "longitude": 8.799389
+  },
+  {
+    "street": "Via delle Peschiere",
+    "number": "21",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.7805008,
+    "longitude": 8.8010707
+  },
+  {
+    "street": "Via del Fontanone",
+    "number": "19",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.7741027,
+    "longitude": 8.7876313
+  },
+  {
+    "street": "Via del Fontanone",
+    "number": "21",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.7740871,
+    "longitude": 8.7875681
+  },
+  {
+    "street": "Via del Fontanone",
+    "number": "23",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.7740699,
+    "longitude": 8.7875065
+  },
+  {
+    "street": "Via del Fontanone",
+    "number": "25",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.7740516,
+    "longitude": 8.7874349
+  },
+  {
+    "street": "Via Piave",
+    "number": "5",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.7745542,
+    "longitude": 8.7899466
+  },
+  {
+    "street": "Via Piave",
+    "number": "23b",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.7760422,
+    "longitude": 8.792114
+  },
+  {
+    "street": "Via Acquadro",
+    "number": "32",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.7783916,
+    "longitude": 8.7949225
+  },
+  {
+    "street": "Via Due Giugno",
+    "number": "8",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.7731681,
+    "longitude": 8.7891673
+  },
+  {
+    "street": "Via Giotto",
+    "number": "18",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.7784199,
+    "longitude": 8.7982247
+  },
+  {
+    "street": "Via Pietro Mascagni",
+    "number": "14/16",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.7846071,
+    "longitude": 8.7905123
+  },
+  {
+    "street": "Via Gioacchino Rossini",
+    "number": "23",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.7827459,
+    "longitude": 8.7880662
+  },
+  {
+    "street": "Via Gioacchino Rossini",
+    "number": "21",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.782814,
+    "longitude": 8.7874636
+  },
+  {
+    "street": "Via Gioacchino Rossini",
+    "number": "19",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.7825439,
+    "longitude": 8.7875429
+  },
+  {
+    "street": "Via Gioacchino Rossini",
+    "number": "15",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.7824454,
+    "longitude": 8.7884165
+  },
+  {
+    "street": "Via Gioacchino Rossini",
+    "number": "27",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.7827085,
+    "longitude": 8.7885839
+  },
+  {
+    "street": "Cascina Galgino",
+    "number": "1-7",
+    "city": {
+      "name": "Azzate",
+      "istat": "012006"
+    },
+    "latitude": 45.7869102,
+    "longitude": 8.7843956
+  }
+]

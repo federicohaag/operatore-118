@@ -1,0 +1,202 @@
+[
+  {
+    "street": "Via Imbarcadero",
+    "number": "9",
+    "city": {
+      "name": "Lierna",
+      "istat": "097043"
+    },
+    "latitude": 45.9595835,
+    "longitude": 9.300269
+  },
+  {
+    "street": "Via Ducale",
+    "number": "44",
+    "city": {
+      "name": "Lierna",
+      "istat": "097043"
+    },
+    "latitude": 45.9655404,
+    "longitude": 9.3034599
+  },
+  {
+    "street": "Via Imbarcadero",
+    "number": "3",
+    "city": {
+      "name": "Lierna",
+      "istat": "097043"
+    },
+    "latitude": 45.9596489,
+    "longitude": 9.3008577
+  },
+  {
+    "street": "Via Riva Bianca",
+    "number": "10",
+    "city": {
+      "name": "Lierna",
+      "istat": "097043"
+    },
+    "latitude": 45.9664125,
+    "longitude": 9.3030261
+  },
+  {
+    "street": "Via Roma",
+    "number": "114",
+    "city": {
+      "name": "Lierna",
+      "istat": "097043"
+    },
+    "latitude": 45.9600048,
+    "longitude": 9.3017353
+  },
+  {
+    "street": "Via Roma",
+    "number": "66",
+    "city": {
+      "name": "Lierna",
+      "istat": "097043"
+    },
+    "latitude": 45.9575466,
+    "longitude": 9.3022546
+  },
+  {
+    "street": "Via Parodi",
+    "number": "21",
+    "city": {
+      "name": "Lierna",
+      "istat": "097043"
+    },
+    "latitude": 45.9593272,
+    "longitude": 9.3034943
+  },
+  {
+    "street": "Via della Libertà",
+    "number": "10",
+    "city": {
+      "name": "Lierna",
+      "istat": "097043"
+    },
+    "latitude": 45.9592527,
+    "longitude": 9.3038345
+  },
+  {
+    "street": "Via della Libertà",
+    "number": "12",
+    "city": {
+      "name": "Lierna",
+      "istat": "097043"
+    },
+    "latitude": 45.9593468,
+    "longitude": 9.3042165
+  },
+  {
+    "street": "Via Parodi",
+    "number": "12",
+    "city": {
+      "name": "Lierna",
+      "istat": "097043"
+    },
+    "latitude": 45.9600019,
+    "longitude": 9.3035762
+  },
+  {
+    "street": "Via Parodi",
+    "number": "19",
+    "city": {
+      "name": "Lierna",
+      "istat": "097043"
+    },
+    "latitude": 45.9595344,
+    "longitude": 9.303524
+  },
+  {
+    "street": "Via Parodi",
+    "number": "14",
+    "city": {
+      "name": "Lierna",
+      "istat": "097043"
+    },
+    "latitude": 45.9600013,
+    "longitude": 9.3035826
+  },
+  {
+    "street": "Via L. Panizza",
+    "number": "6",
+    "city": {
+      "name": "Lierna",
+      "istat": "097043"
+    },
+    "latitude": 45.9603779,
+    "longitude": 9.3020377
+  },
+  {
+    "street": "Via Parodi",
+    "number": "6",
+    "city": {
+      "name": "Lierna",
+      "istat": "097043"
+    },
+    "latitude": 45.959115,
+    "longitude": 9.3037997
+  },
+  {
+    "street": "Via Parodi",
+    "number": "4",
+    "city": {
+      "name": "Lierna",
+      "istat": "097043"
+    },
+    "latitude": 45.9590928,
+    "longitude": 9.3037995
+  },
+  {
+    "street": "Via Parodi",
+    "number": "15",
+    "city": {
+      "name": "Lierna",
+      "istat": "097043"
+    },
+    "latitude": 45.9601054,
+    "longitude": 9.303638
+  },
+  {
+    "street": "Via Parodi",
+    "number": "8",
+    "city": {
+      "name": "Lierna",
+      "istat": "097043"
+    },
+    "latitude": 45.9591313,
+    "longitude": 9.3038001
+  },
+  {
+    "street": "Via Scoscesa",
+    "number": "2",
+    "city": {
+      "name": "Lierna",
+      "istat": "097043"
+    },
+    "latitude": 45.9619118,
+    "longitude": 9.3011645
+  },
+  {
+    "street": "Via alla Valle",
+    "number": "4",
+    "city": {
+      "name": "Lierna",
+      "istat": "097043"
+    },
+    "latitude": 45.9593318,
+    "longitude": 9.3027299
+  },
+  {
+    "street": "Via Roma",
+    "number": "84",
+    "city": {
+      "name": "Lierna",
+      "istat": "097043"
+    },
+    "latitude": 45.9592945,
+    "longitude": 9.3017635
+  }
+]

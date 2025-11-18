@@ -1,0 +1,92 @@
+[
+  {
+    "street": "Via Ugo Foscolo",
+    "number": "9",
+    "city": {
+      "name": "Roncello",
+      "istat": "108055"
+    },
+    "latitude": 45.6025131,
+    "longitude": 9.4464499
+  },
+  {
+    "street": "Via Ugo Foscolo",
+    "number": "11",
+    "city": {
+      "name": "Roncello",
+      "istat": "108055"
+    },
+    "latitude": 45.6025119,
+    "longitude": 9.446841
+  },
+  {
+    "street": "Via Ugo Foscolo",
+    "number": "7",
+    "city": {
+      "name": "Roncello",
+      "istat": "108055"
+    },
+    "latitude": 45.6024812,
+    "longitude": 9.4466752
+  },
+  {
+    "street": "Via Eugenio Montale",
+    "number": "27",
+    "city": {
+      "name": "Roncello",
+      "istat": "108055"
+    },
+    "latitude": 45.6022838,
+    "longitude": 9.4462144
+  },
+  {
+    "street": "Via Eugenio Montale",
+    "number": "25",
+    "city": {
+      "name": "Roncello",
+      "istat": "108055"
+    },
+    "latitude": 45.6021037,
+    "longitude": 9.446311
+  },
+  {
+    "street": "Via Eugenio Montale",
+    "number": "23",
+    "city": {
+      "name": "Roncello",
+      "istat": "108055"
+    },
+    "latitude": 45.6019235,
+    "longitude": 9.4463807
+  },
+  {
+    "street": "Via Eugenio Montale",
+    "number": "21",
+    "city": {
+      "name": "Roncello",
+      "istat": "108055"
+    },
+    "latitude": 45.6017753,
+    "longitude": 9.4464585
+  },
+  {
+    "street": "Via del Guadagno",
+    "number": "28",
+    "city": {
+      "name": "Roncello",
+      "istat": "108055"
+    },
+    "latitude": 45.6021992,
+    "longitude": 9.4534785
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "32",
+    "city": {
+      "name": "Roncello",
+      "istat": "108055"
+    },
+    "latitude": 45.5994203,
+    "longitude": 9.4720596
+  }
+]

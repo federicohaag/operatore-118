@@ -1,0 +1,82 @@
+[
+  {
+    "street": "Piazza San Martino",
+    "number": "6",
+    "city": {
+      "name": "Barasso",
+      "istat": "012008"
+    },
+    "latitude": 45.8400996,
+    "longitude": 8.7562226
+  },
+  {
+    "street": "Via Roma",
+    "number": "32",
+    "city": {
+      "name": "Barasso",
+      "istat": "012008"
+    },
+    "latitude": 45.8402233,
+    "longitude": 8.7572142
+  },
+  {
+    "street": "Piazza San Nicone",
+    "number": "5",
+    "city": {
+      "name": "Barasso",
+      "istat": "012008"
+    },
+    "latitude": 45.8399506,
+    "longitude": 8.7574795
+  },
+  {
+    "street": "Via Oltrona",
+    "number": "13",
+    "city": {
+      "name": "Barasso",
+      "istat": "012008"
+    },
+    "latitude": 45.8327589,
+    "longitude": 8.7498727
+  },
+  {
+    "street": "Via Don Basilio Parietti",
+    "number": "6",
+    "city": {
+      "name": "Barasso",
+      "istat": "012008"
+    },
+    "latitude": 45.8413749,
+    "longitude": 8.7558994
+  },
+  {
+    "street": "Via Ferdinando Rossi",
+    "number": "38",
+    "city": {
+      "name": "Barasso",
+      "istat": "012008"
+    },
+    "latitude": 45.8361871,
+    "longitude": 8.7513423
+  },
+  {
+    "street": "Via Roma",
+    "number": "13",
+    "city": {
+      "name": "Barasso",
+      "istat": "012008"
+    },
+    "latitude": 45.8400135,
+    "longitude": 8.75708
+  },
+  {
+    "street": "Via Roma",
+    "number": "26",
+    "city": {
+      "name": "Barasso",
+      "istat": "012008"
+    },
+    "latitude": 45.840435,
+    "longitude": 8.7581209
+  }
+]

@@ -1,0 +1,1662 @@
+[
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "32",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9014611,
+    "longitude": 8.9031652
+  },
+  {
+    "street": "Piazzale Vincenzo Luraschi",
+    "number": "1",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9028486,
+    "longitude": 8.9029606
+  },
+  {
+    "street": "Via Guido Butti",
+    "number": "61",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9039093,
+    "longitude": 8.9059876
+  },
+  {
+    "street": "Via Guido Butti",
+    "number": "40",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9032051,
+    "longitude": 8.9057663
+  },
+  {
+    "street": "Via Roma",
+    "number": "36",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9059209,
+    "longitude": 8.9063253
+  },
+  {
+    "street": "Via Casamora",
+    "number": "51",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9134117,
+    "longitude": 8.8977918
+  },
+  {
+    "street": "Via Casamora",
+    "number": "18",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9142771,
+    "longitude": 8.8980137
+  },
+  {
+    "street": "Via Casamora",
+    "number": "6",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9120979,
+    "longitude": 8.8981713
+  },
+  {
+    "street": "Via Cantine",
+    "number": "29",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.908072,
+    "longitude": 8.8960215
+  },
+  {
+    "street": "Via Cantine",
+    "number": "3",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9068027,
+    "longitude": 8.8953269
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "45",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9037903,
+    "longitude": 8.9005571
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "43",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9014256,
+    "longitude": 8.9034088
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "14",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9026606,
+    "longitude": 8.9034832
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "12",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9026531,
+    "longitude": 8.9035519
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "8",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9026382,
+    "longitude": 8.9038262
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "20",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9026895,
+    "longitude": 8.9032552
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "5",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9025542,
+    "longitude": 8.903737
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "10",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.902621,
+    "longitude": 8.9037444
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "11",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9020089,
+    "longitude": 8.9037595
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "12",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9020621,
+    "longitude": 8.9035248
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "27",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.901881,
+    "longitude": 8.9037381
+  },
+  {
+    "street": "Via Guido Butti",
+    "number": "52",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9037243,
+    "longitude": 8.9059793
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "50",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9061174,
+    "longitude": 8.8961712
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "6",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9024936,
+    "longitude": 8.9039375
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "49",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9039076,
+    "longitude": 8.9002704
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "47",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.903831,
+    "longitude": 8.9003769
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "40",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.903999,
+    "longitude": 8.9005364
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "43",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9037535,
+    "longitude": 8.9005941
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "24",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9029603,
+    "longitude": 8.902984
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "26",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9028212,
+    "longitude": 8.902929
+  },
+  {
+    "street": "Via Roma",
+    "number": "30",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9058169,
+    "longitude": 8.9065406
+  },
+  {
+    "street": "Via Roma",
+    "number": "34",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9058411,
+    "longitude": 8.9065406
+  },
+  {
+    "street": "Via Roma",
+    "number": "1",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9061733,
+    "longitude": 8.9060819
+  },
+  {
+    "street": "Via Roma",
+    "number": "24",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9055919,
+    "longitude": 8.9061423
+  },
+  {
+    "street": "Via Roma",
+    "number": "10",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9055201,
+    "longitude": 8.9061208
+  },
+  {
+    "street": "Via Marianna Monti",
+    "number": "19",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9052504,
+    "longitude": 8.9062174
+  },
+  {
+    "street": "Via Marianna Monti",
+    "number": "17",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9052495,
+    "longitude": 8.9062817
+  },
+  {
+    "street": "Via Marianna Monti",
+    "number": "15",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9052504,
+    "longitude": 8.9063367
+  },
+  {
+    "street": "Via Roma",
+    "number": "8",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.905298,
+    "longitude": 8.9060618
+  },
+  {
+    "street": "Via Roma",
+    "number": "6",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9052476,
+    "longitude": 8.9060658
+  },
+  {
+    "street": "Via Roma",
+    "number": "4",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9051916,
+    "longitude": 8.9060323
+  },
+  {
+    "street": "Piazza Paolo Bossi",
+    "number": "43",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9050124,
+    "longitude": 8.9062214
+  },
+  {
+    "street": "Piazza Paolo Bossi",
+    "number": "45",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9050152,
+    "longitude": 8.9061892
+  },
+  {
+    "street": "Piazza Paolo Bossi",
+    "number": "39",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9048864,
+    "longitude": 8.9061771
+  },
+  {
+    "street": "Piazza Paolo Bossi",
+    "number": "41",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9049564,
+    "longitude": 8.9061838
+  },
+  {
+    "street": "Via Marianna Monti",
+    "number": "3",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9049844,
+    "longitude": 8.9064212
+  },
+  {
+    "street": "Via Marianna Monti",
+    "number": "1",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9049396,
+    "longitude": 8.9064132
+  },
+  {
+    "street": "Via Marianna Monti",
+    "number": "2",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9048948,
+    "longitude": 8.9064722
+  },
+  {
+    "street": "Piazza Paolo Bossi",
+    "number": "31",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9048883,
+    "longitude": 8.9064024
+  },
+  {
+    "street": "Piazza Paolo Bossi",
+    "number": "33",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9048846,
+    "longitude": 8.9063542
+  },
+  {
+    "street": "Piazza Paolo Bossi",
+    "number": "35",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9048398,
+    "longitude": 8.9062804
+  },
+  {
+    "street": "Piazza Paolo Bossi",
+    "number": "37",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9048454,
+    "longitude": 8.9062093
+  },
+  {
+    "street": "Piazza Paolo Bossi",
+    "number": "29",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9048249,
+    "longitude": 8.9064266
+  },
+  {
+    "street": "Piazza Paolo Bossi",
+    "number": "27",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9047726,
+    "longitude": 8.9063904
+  },
+  {
+    "street": "Piazza Paolo Bossi",
+    "number": "25",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9047353,
+    "longitude": 8.9063837
+  },
+  {
+    "street": "Piazza Paolo Bossi",
+    "number": "23",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9046727,
+    "longitude": 8.90633
+  },
+  {
+    "street": "Via G. M. Bossi",
+    "number": "4",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9044524,
+    "longitude": 8.9064845
+  },
+  {
+    "street": "Via G. M. Bossi",
+    "number": "2",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9044549,
+    "longitude": 8.9064298
+  },
+  {
+    "street": "Via G. M. Bossi",
+    "number": "1",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9045054,
+    "longitude": 8.906393
+  },
+  {
+    "street": "Via Guido Butti",
+    "number": "64",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9041539,
+    "longitude": 8.9062397
+  },
+  {
+    "street": "Piazza Paolo Bossi",
+    "number": "9",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9042829,
+    "longitude": 8.9063502
+  },
+  {
+    "street": "Piazza Paolo Bossi",
+    "number": "7",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9042548,
+    "longitude": 8.9063478
+  },
+  {
+    "street": "Piazza Paolo Bossi",
+    "number": "15",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9044111,
+    "longitude": 8.906349
+  },
+  {
+    "street": "Piazza Paolo Bossi",
+    "number": "11",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9043449,
+    "longitude": 8.9063419
+  },
+  {
+    "street": "Piazza Paolo Bossi",
+    "number": "5",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9042316,
+    "longitude": 8.9063419
+  },
+  {
+    "street": "Piazza Paolo Bossi",
+    "number": "3",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9042043,
+    "longitude": 8.9063217
+  },
+  {
+    "street": "Piazza Paolo Bossi",
+    "number": "1",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9041837,
+    "longitude": 8.9063134
+  },
+  {
+    "street": "Via Guido Butti",
+    "number": "60",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9040894,
+    "longitude": 8.906305
+  },
+  {
+    "street": "Via Guido Butti",
+    "number": "62",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.904115,
+    "longitude": 8.9062979
+  },
+  {
+    "street": "Vicolo del Torchio",
+    "number": "4",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9039554,
+    "longitude": 8.9064156
+  },
+  {
+    "street": "Vicolo del Torchio",
+    "number": "2",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9039265,
+    "longitude": 8.906393
+  },
+  {
+    "street": "Via Farioli",
+    "number": "2",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9038711,
+    "longitude": 8.9062492
+  },
+  {
+    "street": "Via Farioli",
+    "number": "3",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9038653,
+    "longitude": 8.9063276
+  },
+  {
+    "street": "Via Farioli",
+    "number": "1",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9038934,
+    "longitude": 8.9063395
+  },
+  {
+    "street": "Via Guido Butti",
+    "number": "59",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9038636,
+    "longitude": 8.9059402
+  },
+  {
+    "street": "Via Guido Butti",
+    "number": "54",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9037495,
+    "longitude": 8.9059984
+  },
+  {
+    "street": "Via Guido Butti",
+    "number": "49",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9037015,
+    "longitude": 8.9058392
+  },
+  {
+    "street": "Via Guido Butti",
+    "number": "47",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9036676,
+    "longitude": 8.9058095
+  },
+  {
+    "street": "Via Guido Butti",
+    "number": "45",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9036081,
+    "longitude": 8.9057619
+  },
+  {
+    "street": "Via Guido Butti",
+    "number": "37",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9034758,
+    "longitude": 8.9056455
+  },
+  {
+    "street": "Via Guido Butti",
+    "number": "25",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9031218,
+    "longitude": 8.9053329
+  },
+  {
+    "street": "Via Guido Butti",
+    "number": "29",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9032112,
+    "longitude": 8.9054054
+  },
+  {
+    "street": "Via Guido Butti",
+    "number": "27",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9031557,
+    "longitude": 8.9053591
+  },
+  {
+    "street": "Via Guido Butti",
+    "number": "23",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9030821,
+    "longitude": 8.9052937
+  },
+  {
+    "street": "Via Guido Butti",
+    "number": "36",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9030119,
+    "longitude": 8.905403
+  },
+  {
+    "street": "Via Guido Butti",
+    "number": "34",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9030003,
+    "longitude": 8.9053805
+  },
+  {
+    "street": "Via Guido Butti",
+    "number": "21",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9030589,
+    "longitude": 8.9052659
+  },
+  {
+    "street": "Via Guido Butti",
+    "number": "19",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9030196,
+    "longitude": 8.9052227
+  },
+  {
+    "street": "Via Guido Butti",
+    "number": "17",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9029873,
+    "longitude": 8.9051673
+  },
+  {
+    "street": "Via Guido Butti",
+    "number": "13",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9029635,
+    "longitude": 8.9051338
+  },
+  {
+    "street": "Via Guido Butti",
+    "number": "11",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9029397,
+    "longitude": 8.9051056
+  },
+  {
+    "street": "Via Guido Butti",
+    "number": "32",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9029911,
+    "longitude": 8.9053336
+  },
+  {
+    "street": "Via Guido Butti",
+    "number": "30",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9029677,
+    "longitude": 8.9053148
+  },
+  {
+    "street": "Via Guido Butti",
+    "number": "28",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.902936,
+    "longitude": 8.9052679
+  },
+  {
+    "street": "Via Guido Butti",
+    "number": "26",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9029229,
+    "longitude": 8.9052424
+  },
+  {
+    "street": "Via Guido Butti",
+    "number": "24",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9029043,
+    "longitude": 8.9052102
+  },
+  {
+    "street": "Via Guido Butti",
+    "number": "9",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9029047,
+    "longitude": 8.9050191
+  },
+  {
+    "street": "Via Guido Butti",
+    "number": "22",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9028641,
+    "longitude": 8.9051364
+  },
+  {
+    "street": "Via Guido Butti",
+    "number": "18",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9028221,
+    "longitude": 8.9050573
+  },
+  {
+    "street": "Via Guido Butti",
+    "number": "16",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9028147,
+    "longitude": 8.9050452
+  },
+  {
+    "street": "Via Guido Butti",
+    "number": "14",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9027988,
+    "longitude": 8.9049849
+  },
+  {
+    "street": "Via Guido Butti",
+    "number": "4",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9027354,
+    "longitude": 8.9047046
+  },
+  {
+    "street": "Via Guido Butti",
+    "number": "7",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9028651,
+    "longitude": 8.9048669
+  },
+  {
+    "street": "Via Guido Butti",
+    "number": "5",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9028501,
+    "longitude": 8.904722
+  },
+  {
+    "street": "Via Guido Butti",
+    "number": "3",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9028315,
+    "longitude": 8.9046751
+  },
+  {
+    "street": "Piazza Sant'Ambrogio",
+    "number": "1",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9026803,
+    "longitude": 8.9040206
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "2",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9026682,
+    "longitude": 8.9039388
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "4",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9026766,
+    "longitude": 8.9038678
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "3",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9025338,
+    "longitude": 8.9038128
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "7",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9025618,
+    "longitude": 8.9036398
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "9",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.902572,
+    "longitude": 8.9035875
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "16",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9024181,
+    "longitude": 8.9029298
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "11",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9025216,
+    "longitude": 8.9034976
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "13",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9025244,
+    "longitude": 8.903452
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "15",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9025282,
+    "longitude": 8.9033957
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "19",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9026103,
+    "longitude": 8.9032146
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "21",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9026159,
+    "longitude": 8.9031288
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "23",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9026439,
+    "longitude": 8.9030215
+  },
+  {
+    "street": "Via Piave",
+    "number": "48",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9021045,
+    "longitude": 8.9022651
+  },
+  {
+    "street": "Via Piave",
+    "number": "8",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.902433,
+    "longitude": 8.9025816
+  },
+  {
+    "street": "Via Piave",
+    "number": "10",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9023677,
+    "longitude": 8.9025226
+  },
+  {
+    "street": "Via Piave",
+    "number": "12",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9023023,
+    "longitude": 8.9024663
+  },
+  {
+    "street": "Via Piave",
+    "number": "15",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9018189,
+    "longitude": 8.9022249
+  },
+  {
+    "street": "Via Piave",
+    "number": "13",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.902125,
+    "longitude": 8.9024663
+  },
+  {
+    "street": "Via Piave",
+    "number": "4",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9025132,
+    "longitude": 8.9026567
+  },
+  {
+    "street": "Via Piave",
+    "number": "3",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9023677,
+    "longitude": 8.9026621
+  },
+  {
+    "street": "Via Piave",
+    "number": "1",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9024983,
+    "longitude": 8.9027452
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "25",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9026058,
+    "longitude": 8.9024611
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "27",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9027484,
+    "longitude": 8.9022651
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "29",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9027484,
+    "longitude": 8.90219
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "30",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9028044,
+    "longitude": 8.9025977
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "32",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9028343,
+    "longitude": 8.9022464
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "34",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9028287,
+    "longitude": 8.9021605
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "31",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9027858,
+    "longitude": 8.9020291
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "33",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9028305,
+    "longitude": 8.9017206
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "38",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9029817,
+    "longitude": 8.9016992
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "36",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9028772,
+    "longitude": 8.9019728
+  },
+  {
+    "street": "Via Molino di Mezzo",
+    "number": "2",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9012141,
+    "longitude": 8.9011118
+  },
+  {
+    "street": "Via Molino di Mezzo",
+    "number": "4",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9011003,
+    "longitude": 8.9010474
+  },
+  {
+    "street": "Via Molino di Mezzo",
+    "number": "8",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9007382,
+    "longitude": 8.9009401
+  },
+  {
+    "street": "Via Molino di Mezzo",
+    "number": "6",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9007942,
+    "longitude": 8.9009723
+  },
+  {
+    "street": "Via Molino di Mezzo",
+    "number": "14",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9004601,
+    "longitude": 8.900688
+  },
+  {
+    "street": "Via del Sole",
+    "number": "22",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.8986457,
+    "longitude": 8.8982579
+  },
+  {
+    "street": "Via del Sole",
+    "number": "20",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.8987652,
+    "longitude": 8.8984269
+  },
+  {
+    "street": "Via del Sole",
+    "number": "18",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.8989593,
+    "longitude": 8.8986844
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "14",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9046465,
+    "longitude": 8.9071039
+  },
+  {
+    "street": "Via Cavallotti",
+    "number": "8",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9090225,
+    "longitude": 8.918063
+  },
+  {
+    "street": "Via Cavallotti",
+    "number": "10",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9090381,
+    "longitude": 8.9179926
+  },
+  {
+    "street": "Via Cavallotti",
+    "number": "12",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9090435,
+    "longitude": 8.9179299
+  },
+  {
+    "street": "Via Cavallotti",
+    "number": "14",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9090468,
+    "longitude": 8.9178973
+  },
+  {
+    "street": "Via Cavallotti",
+    "number": "22",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9090818,
+    "longitude": 8.9177334
+  },
+  {
+    "street": "Via Cavallotti",
+    "number": "20",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9090708,
+    "longitude": 8.9177626
+  },
+  {
+    "street": "Via Cavallotti",
+    "number": "1",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9090339,
+    "longitude": 8.9179316
+  },
+  {
+    "street": "Via Nuova",
+    "number": "37",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9088436,
+    "longitude": 8.9182062
+  },
+  {
+    "street": "Via Nuova",
+    "number": "25",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9087582,
+    "longitude": 8.9181298
+  },
+  {
+    "street": "Via Nuova",
+    "number": "10",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9084846,
+    "longitude": 8.917939
+  },
+  {
+    "street": "Via Nuova",
+    "number": "4",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9082504,
+    "longitude": 8.9178371
+  },
+  {
+    "street": "Via Nuova",
+    "number": "2",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9080227,
+    "longitude": 8.9177392
+  },
+  {
+    "street": "Via Serpiano",
+    "number": "3",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9087813,
+    "longitude": 8.9183809
+  },
+  {
+    "street": "Via Serpiano",
+    "number": "1",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9089171,
+    "longitude": 8.9183286
+  },
+  {
+    "street": "Via Serpiano",
+    "number": "5",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9088728,
+    "longitude": 8.9189389
+  },
+  {
+    "street": "Via delle Stelle",
+    "number": "2",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9089365,
+    "longitude": 8.9183705
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "41",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9037004,
+    "longitude": 8.9006133
+  },
+  {
+    "street": "Via delle Ortensie",
+    "number": "30/A",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9024044,
+    "longitude": 8.8961549
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "5",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9046611,
+    "longitude": 8.9066153
+  },
+  {
+    "street": "Via Casamora",
+    "number": "4/A",
+    "city": {
+      "name": "Porto Ceresio",
+      "istat": "012113"
+    },
+    "latitude": 45.9114319,
+    "longitude": 8.8980442
+  }
+]

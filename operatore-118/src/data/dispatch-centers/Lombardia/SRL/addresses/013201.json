@@ -1,0 +1,272 @@
+[
+  {
+    "street": "Via Venti Settembre",
+    "number": "46",
+    "city": {
+      "name": "Rovellasca",
+      "istat": "013201"
+    },
+    "latitude": 45.6666522,
+    "longitude": 9.0443789
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "4",
+    "city": {
+      "name": "Rovellasca",
+      "istat": "013201"
+    },
+    "latitude": 45.6670861,
+    "longitude": 9.0503865
+  },
+  {
+    "street": "Via Roma",
+    "number": "69",
+    "city": {
+      "name": "Rovellasca",
+      "istat": "013201"
+    },
+    "latitude": 45.6676149,
+    "longitude": 9.0520569
+  },
+  {
+    "street": "Via Roma",
+    "number": "61",
+    "city": {
+      "name": "Rovellasca",
+      "istat": "013201"
+    },
+    "latitude": 45.6676298,
+    "longitude": 9.0523698
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "22",
+    "city": {
+      "name": "Rovellasca",
+      "istat": "013201"
+    },
+    "latitude": 45.6654798,
+    "longitude": 9.0560231
+  },
+  {
+    "street": "Via Roma",
+    "number": "67",
+    "city": {
+      "name": "Rovellasca",
+      "istat": "013201"
+    },
+    "latitude": 45.6676144,
+    "longitude": 9.0516453
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "5",
+    "city": {
+      "name": "Rovellasca",
+      "istat": "013201"
+    },
+    "latitude": 45.6671563,
+    "longitude": 9.0507131
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "1",
+    "city": {
+      "name": "Rovellasca",
+      "istat": "013201"
+    },
+    "latitude": 45.6674081,
+    "longitude": 9.0506735
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "10",
+    "city": {
+      "name": "Rovellasca",
+      "istat": "013201"
+    },
+    "latitude": 45.66669,
+    "longitude": 9.050214
+  },
+  {
+    "street": "Via Giuseppe Parini",
+    "number": "4",
+    "city": {
+      "name": "Rovellasca",
+      "istat": "013201"
+    },
+    "latitude": 45.6656349,
+    "longitude": 9.0470805
+  },
+  {
+    "street": "Via Roma",
+    "number": "55",
+    "city": {
+      "name": "Rovellasca",
+      "istat": "013201"
+    },
+    "latitude": 45.6676598,
+    "longitude": 9.0527153
+  },
+  {
+    "street": "Via Gian Battista Grassi",
+    "number": "8",
+    "city": {
+      "name": "Rovellasca",
+      "istat": "013201"
+    },
+    "latitude": 45.6673567,
+    "longitude": 9.0543631
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "7",
+    "city": {
+      "name": "Rovellasca",
+      "istat": "013201"
+    },
+    "latitude": 45.6663576,
+    "longitude": 9.0542916
+  },
+  {
+    "street": "Via Papa Innocenzo Undicesimo",
+    "number": "2",
+    "city": {
+      "name": "Rovellasca",
+      "istat": "013201"
+    },
+    "latitude": 45.6709461,
+    "longitude": 9.0554608
+  },
+  {
+    "street": "Via Papa Innocenzo Undicesimo",
+    "number": "4",
+    "city": {
+      "name": "Rovellasca",
+      "istat": "013201"
+    },
+    "latitude": 45.6710001,
+    "longitude": 9.0557464
+  },
+  {
+    "street": "Via Papa Innocenzo Undicesimo",
+    "number": "6",
+    "city": {
+      "name": "Rovellasca",
+      "istat": "013201"
+    },
+    "latitude": 45.6710576,
+    "longitude": 9.0558603
+  },
+  {
+    "street": "Piazza Dottor Giovanni Vincenzi",
+    "number": "1",
+    "city": {
+      "name": "Rovellasca",
+      "istat": "013201"
+    },
+    "latitude": 45.6696632,
+    "longitude": 9.0505976
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "7a",
+    "city": {
+      "name": "Rovellasca",
+      "istat": "013201"
+    },
+    "latitude": 45.6668493,
+    "longitude": 9.050801
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "7b",
+    "city": {
+      "name": "Rovellasca",
+      "istat": "013201"
+    },
+    "latitude": 45.6668057,
+    "longitude": 9.0507996
+  },
+  {
+    "street": "Via Roma",
+    "number": "47",
+    "city": {
+      "name": "Rovellasca",
+      "istat": "013201"
+    },
+    "latitude": 45.6676785,
+    "longitude": 9.0529088
+  },
+  {
+    "street": "Via Roma",
+    "number": "35",
+    "city": {
+      "name": "Rovellasca",
+      "istat": "013201"
+    },
+    "latitude": 45.6677187,
+    "longitude": 9.053289
+  },
+  {
+    "street": "Piazza Risorgimento",
+    "number": "14",
+    "city": {
+      "name": "Rovellasca",
+      "istat": "013201"
+    },
+    "latitude": 45.6691863,
+    "longitude": 9.0534362
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "33",
+    "city": {
+      "name": "Rovellasca",
+      "istat": "013201"
+    },
+    "latitude": 45.6654965,
+    "longitude": 9.0452238
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "33/C",
+    "city": {
+      "name": "Rovellasca",
+      "istat": "013201"
+    },
+    "latitude": 45.6647631,
+    "longitude": 9.0449252
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "35",
+    "city": {
+      "name": "Rovellasca",
+      "istat": "013201"
+    },
+    "latitude": 45.6655242,
+    "longitude": 9.0429277
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "45",
+    "city": {
+      "name": "Rovellasca",
+      "istat": "013201"
+    },
+    "latitude": 45.6651244,
+    "longitude": 9.0448112
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "15",
+    "city": {
+      "name": "Rovellasca",
+      "istat": "013201"
+    },
+    "latitude": 45.6698588,
+    "longitude": 9.0560217
+  }
+]

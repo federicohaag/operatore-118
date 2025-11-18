@@ -1,0 +1,92 @@
+[
+  {
+    "street": "Via Don Minzoni",
+    "number": "5",
+    "city": {
+      "name": "Mezzago",
+      "istat": "108031"
+    },
+    "latitude": 45.6277694,
+    "longitude": 9.4421268
+  },
+  {
+    "street": "Via Eugenio Curiel",
+    "number": "46",
+    "city": {
+      "name": "Mezzago",
+      "istat": "108031"
+    },
+    "latitude": 45.6366619,
+    "longitude": 9.4385582
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "4",
+    "city": {
+      "name": "Mezzago",
+      "istat": "108031"
+    },
+    "latitude": 45.6292342,
+    "longitude": 9.4455251
+  },
+  {
+    "street": "Via Curiel ",
+    "number": "1",
+    "city": {
+      "name": "Mezzago",
+      "istat": "108031"
+    },
+    "latitude": 45.6287667,
+    "longitude": 9.4426567
+  },
+  {
+    "street": "Via Eugenio Curiel",
+    "number": "39",
+    "city": {
+      "name": "Mezzago",
+      "istat": "108031"
+    },
+    "latitude": 45.6310178,
+    "longitude": 9.4419631
+  },
+  {
+    "street": "Via Concordia",
+    "number": "43",
+    "city": {
+      "name": "Mezzago",
+      "istat": "108031"
+    },
+    "latitude": 45.6265562,
+    "longitude": 9.4429511
+  },
+  {
+    "street": "Via Concordia",
+    "number": "45",
+    "city": {
+      "name": "Mezzago",
+      "istat": "108031"
+    },
+    "latitude": 45.6261159,
+    "longitude": 9.4433338
+  },
+  {
+    "street": "Via Concordia",
+    "number": "47",
+    "city": {
+      "name": "Mezzago",
+      "istat": "108031"
+    },
+    "latitude": 45.6261018,
+    "longitude": 9.4424768
+  },
+  {
+    "street": "Via Stefano Biffi",
+    "number": "32",
+    "city": {
+      "name": "Mezzago",
+      "istat": "108031"
+    },
+    "latitude": 45.6254153,
+    "longitude": 9.4428396
+  }
+]

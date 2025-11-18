@@ -1,0 +1,142 @@
+[
+  {
+    "street": "Via Croce",
+    "number": "6",
+    "city": {
+      "name": "Aicurzio",
+      "istat": "108002"
+    },
+    "latitude": 45.639207,
+    "longitude": 9.4144236
+  },
+  {
+    "street": "Via Antonio Maria Confalonieri",
+    "number": "29",
+    "city": {
+      "name": "Aicurzio",
+      "istat": "108002"
+    },
+    "latitude": 45.6396878,
+    "longitude": 9.4182863
+  },
+  {
+    "street": "Via Giovanni Bersan",
+    "number": "18",
+    "city": {
+      "name": "Aicurzio",
+      "istat": "108002"
+    },
+    "latitude": 45.6396999,
+    "longitude": 9.4163916
+  },
+  {
+    "street": "Via Roma",
+    "number": "5",
+    "city": {
+      "name": "Aicurzio",
+      "istat": "108002"
+    },
+    "latitude": 45.639508,
+    "longitude": 9.4136468
+  },
+  {
+    "street": "Via Croce",
+    "number": "2",
+    "city": {
+      "name": "Aicurzio",
+      "istat": "108002"
+    },
+    "latitude": 45.6393641,
+    "longitude": 9.4138359
+  },
+  {
+    "street": "Via Padre Antonio Ludovico Sala",
+    "number": "5",
+    "city": {
+      "name": "Aicurzio",
+      "istat": "108002"
+    },
+    "latitude": 45.6388991,
+    "longitude": 9.413655
+  },
+  {
+    "street": "Via Padre Antonio Ludovico Sala",
+    "number": "3",
+    "city": {
+      "name": "Aicurzio",
+      "istat": "108002"
+    },
+    "latitude": 45.6388939,
+    "longitude": 9.4136252
+  },
+  {
+    "street": "Via Roma",
+    "number": "3",
+    "city": {
+      "name": "Aicurzio",
+      "istat": "108002"
+    },
+    "latitude": 45.6394616,
+    "longitude": 9.4136296
+  },
+  {
+    "street": "Via Roma",
+    "number": "1",
+    "city": {
+      "name": "Aicurzio",
+      "istat": "108002"
+    },
+    "latitude": 45.6394237,
+    "longitude": 9.4136155
+  },
+  {
+    "street": "Via Roma",
+    "number": "7",
+    "city": {
+      "name": "Aicurzio",
+      "istat": "108002"
+    },
+    "latitude": 45.6395462,
+    "longitude": 9.4136609
+  },
+  {
+    "street": "Via Croce",
+    "number": "2a",
+    "city": {
+      "name": "Aicurzio",
+      "istat": "108002"
+    },
+    "latitude": 45.6393327,
+    "longitude": 9.4139463
+  },
+  {
+    "street": "Via Croce",
+    "number": "4",
+    "city": {
+      "name": "Aicurzio",
+      "istat": "108002"
+    },
+    "latitude": 45.6393185,
+    "longitude": 9.4139964
+  },
+  {
+    "street": "Via Croce",
+    "number": "1",
+    "city": {
+      "name": "Aicurzio",
+      "istat": "108002"
+    },
+    "latitude": 45.6393951,
+    "longitude": 9.4139564
+  },
+  {
+    "street": "Via Pietro Rogorini",
+    "number": "18",
+    "city": {
+      "name": "Aicurzio",
+      "istat": "108002"
+    },
+    "latitude": 45.6377813,
+    "longitude": 9.4128497
+  }
+]

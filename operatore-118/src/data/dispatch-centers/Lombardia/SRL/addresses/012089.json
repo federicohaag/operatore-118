@@ -1,0 +1,62 @@
+[
+  {
+    "street": "Piazza Giacomo Matteotti",
+    "number": "5",
+    "city": {
+      "name": "Lonate Ceppino",
+      "istat": "012089"
+    },
+    "latitude": 45.7037142,
+    "longitude": 8.8738039
+  },
+  {
+    "street": "Via Angelo Molteni",
+    "number": "36",
+    "city": {
+      "name": "Lonate Ceppino",
+      "istat": "012089"
+    },
+    "latitude": 45.7066028,
+    "longitude": 8.8775031
+  },
+  {
+    "street": "Via dei Fagiani",
+    "number": "21",
+    "city": {
+      "name": "Lonate Ceppino",
+      "istat": "012089"
+    },
+    "latitude": 45.6957606,
+    "longitude": 8.886305
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "2",
+    "city": {
+      "name": "Lonate Ceppino",
+      "istat": "012089"
+    },
+    "latitude": 45.7037628,
+    "longitude": 8.8746107
+  },
+  {
+    "street": "Via Benjamin Franklin",
+    "number": "8",
+    "city": {
+      "name": "Lonate Ceppino",
+      "istat": "012089"
+    },
+    "latitude": 45.7181602,
+    "longitude": 8.8781512
+  },
+  {
+    "street": "Piazza Don Angelo Tettamanzi",
+    "number": "1",
+    "city": {
+      "name": "Lonate Ceppino",
+      "istat": "012089"
+    },
+    "latitude": 45.7035409,
+    "longitude": 8.8741739
+  }
+]

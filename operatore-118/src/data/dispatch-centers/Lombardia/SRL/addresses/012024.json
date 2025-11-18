@@ -1,0 +1,402 @@
+[
+  {
+    "street": "Piazza G. L. Battaglia",
+    "number": "6",
+    "city": {
+      "name": "Brusimpiano",
+      "istat": "012024"
+    },
+    "latitude": 45.9475192,
+    "longitude": 8.8903077
+  },
+  {
+    "street": "Piazza G. L. Battaglia",
+    "number": "2",
+    "city": {
+      "name": "Brusimpiano",
+      "istat": "012024"
+    },
+    "latitude": 45.9476932,
+    "longitude": 8.8904878
+  },
+  {
+    "street": "Viale della Repubblica",
+    "number": "2",
+    "city": {
+      "name": "Brusimpiano",
+      "istat": "012024"
+    },
+    "latitude": 45.9483211,
+    "longitude": 8.8903248
+  },
+  {
+    "street": "Via Ponte Tresa",
+    "number": "12",
+    "city": {
+      "name": "Brusimpiano",
+      "istat": "012024"
+    },
+    "latitude": 45.9517457,
+    "longitude": 8.890547
+  },
+  {
+    "street": "Via Ponte Tresa",
+    "number": "10",
+    "city": {
+      "name": "Brusimpiano",
+      "istat": "012024"
+    },
+    "latitude": 45.9505585,
+    "longitude": 8.8898214
+  },
+  {
+    "street": "Via Ponte Tresa",
+    "number": "8",
+    "city": {
+      "name": "Brusimpiano",
+      "istat": "012024"
+    },
+    "latitude": 45.9504121,
+    "longitude": 8.8897516
+  },
+  {
+    "street": "Viale Ernesto Thomas",
+    "number": "7",
+    "city": {
+      "name": "Brusimpiano",
+      "istat": "012024"
+    },
+    "latitude": 45.9463619,
+    "longitude": 8.8916439
+  },
+  {
+    "street": "Viale Ernesto Thomas",
+    "number": "4",
+    "city": {
+      "name": "Brusimpiano",
+      "istat": "012024"
+    },
+    "latitude": 45.9450377,
+    "longitude": 8.8928194
+  },
+  {
+    "street": "Via Varese",
+    "number": "10",
+    "city": {
+      "name": "Brusimpiano",
+      "istat": "012024"
+    },
+    "latitude": 45.9330456,
+    "longitude": 8.8876837
+  },
+  {
+    "street": "Via Attilio Abbiba",
+    "number": "26",
+    "city": {
+      "name": "Brusimpiano",
+      "istat": "012024"
+    },
+    "latitude": 45.9508439,
+    "longitude": 8.8844499
+  },
+  {
+    "street": "Via Attilio Abbiba",
+    "number": "24",
+    "city": {
+      "name": "Brusimpiano",
+      "istat": "012024"
+    },
+    "latitude": 45.9508028,
+    "longitude": 8.8843748
+  },
+  {
+    "street": "Via Attilio Abbiba",
+    "number": "22",
+    "city": {
+      "name": "Brusimpiano",
+      "istat": "012024"
+    },
+    "latitude": 45.9508364,
+    "longitude": 8.8843319
+  },
+  {
+    "street": "Via Attilio Abbiba",
+    "number": "20",
+    "city": {
+      "name": "Brusimpiano",
+      "istat": "012024"
+    },
+    "latitude": 45.9510102,
+    "longitude": 8.8838348
+  },
+  {
+    "street": "Via Attilio Abbiba",
+    "number": "31",
+    "city": {
+      "name": "Brusimpiano",
+      "istat": "012024"
+    },
+    "latitude": 45.9507506,
+    "longitude": 8.883436
+  },
+  {
+    "street": "Via Attilio Abbiba",
+    "number": "18",
+    "city": {
+      "name": "Brusimpiano",
+      "istat": "012024"
+    },
+    "latitude": 45.9506965,
+    "longitude": 8.8834682
+  },
+  {
+    "street": "Via Attilio Abbiba",
+    "number": "29",
+    "city": {
+      "name": "Brusimpiano",
+      "istat": "012024"
+    },
+    "latitude": 45.9503385,
+    "longitude": 8.8831651
+  },
+  {
+    "street": "Via Attilio Abbiba",
+    "number": "16",
+    "city": {
+      "name": "Brusimpiano",
+      "istat": "012024"
+    },
+    "latitude": 45.9498413,
+    "longitude": 8.8833861
+  },
+  {
+    "street": "Via Attilio Abbiba",
+    "number": "14",
+    "city": {
+      "name": "Brusimpiano",
+      "istat": "012024"
+    },
+    "latitude": 45.9497573,
+    "longitude": 8.8835084
+  },
+  {
+    "street": "Via Attilio Abbiba",
+    "number": "16/A",
+    "city": {
+      "name": "Brusimpiano",
+      "istat": "012024"
+    },
+    "latitude": 45.9500154,
+    "longitude": 8.8831088
+  },
+  {
+    "street": "Via Attilio Abbiba",
+    "number": "12",
+    "city": {
+      "name": "Brusimpiano",
+      "istat": "012024"
+    },
+    "latitude": 45.9512644,
+    "longitude": 8.8842654
+  },
+  {
+    "street": "Via Attilio Abbiba",
+    "number": "11",
+    "city": {
+      "name": "Brusimpiano",
+      "istat": "012024"
+    },
+    "latitude": 45.9492158,
+    "longitude": 8.8808316
+  },
+  {
+    "street": "Via Attilio Abbiba",
+    "number": "27",
+    "city": {
+      "name": "Brusimpiano",
+      "istat": "012024"
+    },
+    "latitude": 45.9501072,
+    "longitude": 8.883023
+  },
+  {
+    "street": "Via Attilio Abbiba",
+    "number": "21",
+    "city": {
+      "name": "Brusimpiano",
+      "istat": "012024"
+    },
+    "latitude": 45.9499002,
+    "longitude": 8.8828406
+  },
+  {
+    "street": "Via Attilio Abbiba",
+    "number": "25",
+    "city": {
+      "name": "Brusimpiano",
+      "istat": "012024"
+    },
+    "latitude": 45.9502284,
+    "longitude": 8.8824758
+  },
+  {
+    "street": "Via Attilio Abbiba",
+    "number": "39",
+    "city": {
+      "name": "Brusimpiano",
+      "istat": "012024"
+    },
+    "latitude": 45.9499655,
+    "longitude": 8.8818991
+  },
+  {
+    "street": "Via Attilio Abbiba",
+    "number": "35",
+    "city": {
+      "name": "Brusimpiano",
+      "istat": "012024"
+    },
+    "latitude": 45.9496634,
+    "longitude": 8.8824463
+  },
+  {
+    "street": "Via Attilio Abbiba",
+    "number": "37",
+    "city": {
+      "name": "Brusimpiano",
+      "istat": "012024"
+    },
+    "latitude": 45.9494787,
+    "longitude": 8.8820359
+  },
+  {
+    "street": "Via Attilio Abbiba",
+    "number": "17",
+    "city": {
+      "name": "Brusimpiano",
+      "istat": "012024"
+    },
+    "latitude": 45.9489808,
+    "longitude": 8.8819125
+  },
+  {
+    "street": "Via Attilio Abbiba",
+    "number": "13",
+    "city": {
+      "name": "Brusimpiano",
+      "istat": "012024"
+    },
+    "latitude": 45.949309,
+    "longitude": 8.8814968
+  },
+  {
+    "street": "Via Attilio Abbiba",
+    "number": "15",
+    "city": {
+      "name": "Brusimpiano",
+      "istat": "012024"
+    },
+    "latitude": 45.9491487,
+    "longitude": 8.8813117
+  },
+  {
+    "street": "Via Carlo Battaglia",
+    "number": "5",
+    "city": {
+      "name": "Brusimpiano",
+      "istat": "012024"
+    },
+    "latitude": 45.9465752,
+    "longitude": 8.8898399
+  },
+  {
+    "street": "Via Franco Ferrari",
+    "number": "25",
+    "city": {
+      "name": "Brusimpiano",
+      "istat": "012024"
+    },
+    "latitude": 45.9466984,
+    "longitude": 8.8817873
+  },
+  {
+    "street": "Via Federico Motta",
+    "number": "4",
+    "city": {
+      "name": "Brusimpiano",
+      "istat": "012024"
+    },
+    "latitude": 45.9451954,
+    "longitude": 8.889262
+  },
+  {
+    "street": "Via Attilio Abibba",
+    "number": "11",
+    "city": {
+      "name": "Brusimpiano",
+      "istat": "012024"
+    },
+    "latitude": 45.9492616,
+    "longitude": 8.8811432
+  },
+  {
+    "street": "Via Attilio Abbiba",
+    "number": "2",
+    "city": {
+      "name": "Brusimpiano",
+      "istat": "012024"
+    },
+    "latitude": 45.9491069,
+    "longitude": 8.8810434
+  },
+  {
+    "street": "Via Santuario",
+    "number": "6",
+    "city": {
+      "name": "Brusimpiano",
+      "istat": "012024"
+    },
+    "latitude": 45.9497277,
+    "longitude": 8.8786459
+  },
+  {
+    "street": "Piazza Luigi Lissoni",
+    "number": "3",
+    "city": {
+      "name": "Brusimpiano",
+      "istat": "012024"
+    },
+    "latitude": 45.9492679,
+    "longitude": 8.8801759
+  },
+  {
+    "street": "Piazza Luigi Lissoni",
+    "number": "1",
+    "city": {
+      "name": "Brusimpiano",
+      "istat": "012024"
+    },
+    "latitude": 45.9494407,
+    "longitude": 8.8802321
+  },
+  {
+    "street": "Via Santuario",
+    "number": "1",
+    "city": {
+      "name": "Brusimpiano",
+      "istat": "012024"
+    },
+    "latitude": 45.9490726,
+    "longitude": 8.879847
+  },
+  {
+    "street": "Via Santuario",
+    "number": "3",
+    "city": {
+      "name": "Brusimpiano",
+      "istat": "012024"
+    },
+    "latitude": 45.948999,
+    "longitude": 8.8797021
+  }
+]

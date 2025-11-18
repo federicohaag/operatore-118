@@ -1,0 +1,152 @@
+[
+  {
+    "street": "Piazza Europa",
+    "number": "4",
+    "city": {
+      "name": "Cremeno",
+      "istat": "097029"
+    },
+    "latitude": 45.9349809,
+    "longitude": 9.4735625
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "14",
+    "city": {
+      "name": "Cremeno",
+      "istat": "097029"
+    },
+    "latitude": 45.9353511,
+    "longitude": 9.4727027
+  },
+  {
+    "street": "Via Roma",
+    "number": "2",
+    "city": {
+      "name": "Cremeno",
+      "istat": "097029"
+    },
+    "latitude": 45.9345527,
+    "longitude": 9.4734376
+  },
+  {
+    "street": "Via Ingegner Giorgio Combi",
+    "number": "24",
+    "city": {
+      "name": "Cremeno",
+      "istat": "097029"
+    },
+    "latitude": 45.9353524,
+    "longitude": 9.4720823
+  },
+  {
+    "street": "Via Carobbio",
+    "number": "2",
+    "city": {
+      "name": "Cremeno",
+      "istat": "097029"
+    },
+    "latitude": 45.9342943,
+    "longitude": 9.4735622
+  },
+  {
+    "street": "Via Vicinanza",
+    "number": "7",
+    "city": {
+      "name": "Cremeno",
+      "istat": "097029"
+    },
+    "latitude": 45.9355524,
+    "longitude": 9.4737335
+  },
+  {
+    "street": "Via Natività",
+    "number": "3",
+    "city": {
+      "name": "Cremeno",
+      "istat": "097029"
+    },
+    "latitude": 45.9292837,
+    "longitude": 9.461538
+  },
+  {
+    "street": "Via case manzoni",
+    "number": "9",
+    "city": {
+      "name": "Cremeno",
+      "istat": "097029"
+    },
+    "latitude": 45.9249957,
+    "longitude": 9.4568874
+  },
+  {
+    "street": "Via San Giorgio",
+    "number": "6",
+    "city": {
+      "name": "Cremeno",
+      "istat": "097029"
+    },
+    "latitude": 45.935552,
+    "longitude": 9.4740693
+  },
+  {
+    "street": "Via Vicinanza",
+    "number": "12",
+    "city": {
+      "name": "Cremeno",
+      "istat": "097029"
+    },
+    "latitude": 45.9357231,
+    "longitude": 9.4737621
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "109",
+    "city": {
+      "name": "Cremeno",
+      "istat": "097029"
+    },
+    "latitude": 45.9219963,
+    "longitude": 9.4391894
+  },
+  {
+    "street": "Via Ingegner Giorgio Combi",
+    "number": "15",
+    "city": {
+      "name": "Cremeno",
+      "istat": "097029"
+    },
+    "latitude": 45.935372,
+    "longitude": 9.4713447
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "3",
+    "city": {
+      "name": "Cremeno",
+      "istat": "097029"
+    },
+    "latitude": 45.9322088,
+    "longitude": 9.4728686
+  },
+  {
+    "street": "Via Culmine",
+    "number": "25",
+    "city": {
+      "name": "Cremeno",
+      "istat": "097029"
+    },
+    "latitude": 45.927495,
+    "longitude": 9.4639027
+  },
+  {
+    "street": "Via Culmine",
+    "number": "27",
+    "city": {
+      "name": "Cremeno",
+      "istat": "097029"
+    },
+    "latitude": 45.9269644,
+    "longitude": 9.4639918
+  }
+]

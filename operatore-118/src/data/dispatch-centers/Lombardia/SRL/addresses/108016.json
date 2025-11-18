@@ -1,0 +1,142 @@
+[
+  {
+    "street": "Via Insurrezione",
+    "number": "16",
+    "city": {
+      "name": "Carnate",
+      "istat": "108016"
+    },
+    "latitude": 45.6479596,
+    "longitude": 9.3800336
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "19",
+    "city": {
+      "name": "Carnate",
+      "istat": "108016"
+    },
+    "latitude": 45.651963,
+    "longitude": 9.3725334
+  },
+  {
+    "street": "Via Stefano Barassi",
+    "number": "25",
+    "city": {
+      "name": "Carnate",
+      "istat": "108016"
+    },
+    "latitude": 45.6471461,
+    "longitude": 9.3805142
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "7",
+    "city": {
+      "name": "Carnate",
+      "istat": "108016"
+    },
+    "latitude": 45.6382975,
+    "longitude": 9.3794236
+  },
+  {
+    "street": "Via Stefano Barassi",
+    "number": "2",
+    "city": {
+      "name": "Carnate",
+      "istat": "108016"
+    },
+    "latitude": 45.6487653,
+    "longitude": 9.3807355
+  },
+  {
+    "street": "Via Roma",
+    "number": "6",
+    "city": {
+      "name": "Carnate",
+      "istat": "108016"
+    },
+    "latitude": 45.6531717,
+    "longitude": 9.3749123
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "30",
+    "city": {
+      "name": "Carnate",
+      "istat": "108016"
+    },
+    "latitude": 45.6475538,
+    "longitude": 9.3714849
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "22-24",
+    "city": {
+      "name": "Carnate",
+      "istat": "108016"
+    },
+    "latitude": 45.6455521,
+    "longitude": 9.3794226
+  },
+  {
+    "street": "Via della Pace",
+    "number": "16",
+    "city": {
+      "name": "Carnate",
+      "istat": "108016"
+    },
+    "latitude": 45.6491283,
+    "longitude": 9.3793911
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "32",
+    "city": {
+      "name": "Carnate",
+      "istat": "108016"
+    },
+    "latitude": 45.6448174,
+    "longitude": 9.372037
+  },
+  {
+    "street": "Via Stefano Barassi",
+    "number": "6",
+    "city": {
+      "name": "Carnate",
+      "istat": "108016"
+    },
+    "latitude": 45.6488109,
+    "longitude": 9.381946
+  },
+  {
+    "street": "Via Don Ersilio Magni",
+    "number": "2",
+    "city": {
+      "name": "Carnate",
+      "istat": "108016"
+    },
+    "latitude": 45.6486984,
+    "longitude": 9.3774587
+  },
+  {
+    "street": "Via Camperia",
+    "number": "10",
+    "city": {
+      "name": "Carnate",
+      "istat": "108016"
+    },
+    "latitude": 45.6592889,
+    "longitude": 9.37998
+  },
+  {
+    "street": "Via Don Ersilio Magni",
+    "number": "1",
+    "city": {
+      "name": "Carnate",
+      "istat": "108016"
+    },
+    "latitude": 45.6489711,
+    "longitude": 9.3784488
+  }
+]

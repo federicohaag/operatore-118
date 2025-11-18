@@ -1,0 +1,42 @@
+[
+  {
+    "street": "Via Cesare Battisti",
+    "number": "67",
+    "city": {
+      "name": "Locate Varesino",
+      "istat": "013131"
+    },
+    "latitude": 45.6902644,
+    "longitude": 8.9317069
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "73",
+    "city": {
+      "name": "Locate Varesino",
+      "istat": "013131"
+    },
+    "latitude": 45.6899088,
+    "longitude": 8.932199
+  },
+  {
+    "street": "Via Piave",
+    "number": "16",
+    "city": {
+      "name": "Locate Varesino",
+      "istat": "013131"
+    },
+    "latitude": 45.6895924,
+    "longitude": 8.9358914
+  },
+  {
+    "street": "Via Giuseppe Parini",
+    "number": "1",
+    "city": {
+      "name": "Locate Varesino",
+      "istat": "013131"
+    },
+    "latitude": 45.6904484,
+    "longitude": 8.9308513
+  }
+]

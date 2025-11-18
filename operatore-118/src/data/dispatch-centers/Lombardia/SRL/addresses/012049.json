@@ -1,0 +1,172 @@
+[
+  {
+    "street": "Piazza Libertà",
+    "number": "1",
+    "city": {
+      "name": "Cazzago Brabbia",
+      "istat": "012049"
+    },
+    "latitude": 45.7966135,
+    "longitude": 8.7332069
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "1",
+    "city": {
+      "name": "Cazzago Brabbia",
+      "istat": "012049"
+    },
+    "latitude": 45.7980266,
+    "longitude": 8.7329047
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "4",
+    "city": {
+      "name": "Cazzago Brabbia",
+      "istat": "012049"
+    },
+    "latitude": 45.7979515,
+    "longitude": 8.7330308
+  },
+  {
+    "street": "Via don Paolo Orrigoni",
+    "number": "6",
+    "city": {
+      "name": "Cazzago Brabbia",
+      "istat": "012049"
+    },
+    "latitude": 45.7984844,
+    "longitude": 8.7330955
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "23",
+    "city": {
+      "name": "Cazzago Brabbia",
+      "istat": "012049"
+    },
+    "latitude": 45.7956609,
+    "longitude": 8.7352597
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "47b",
+    "city": {
+      "name": "Cazzago Brabbia",
+      "istat": "012049"
+    },
+    "latitude": 45.7933286,
+    "longitude": 8.7365924
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "47a",
+    "city": {
+      "name": "Cazzago Brabbia",
+      "istat": "012049"
+    },
+    "latitude": 45.7932267,
+    "longitude": 8.7363939
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "12",
+    "city": {
+      "name": "Cazzago Brabbia",
+      "istat": "012049"
+    },
+    "latitude": 45.7955924,
+    "longitude": 8.7351708
+  },
+  {
+    "street": "Via Vanoletti Gariboldi",
+    "number": "7",
+    "city": {
+      "name": "Cazzago Brabbia",
+      "istat": "012049"
+    },
+    "latitude": 45.7973133,
+    "longitude": 8.7329379
+  },
+  {
+    "street": "Via Roma",
+    "number": "2",
+    "city": {
+      "name": "Cazzago Brabbia",
+      "istat": "012049"
+    },
+    "latitude": 45.7979472,
+    "longitude": 8.732612
+  },
+  {
+    "street": "Via Roma",
+    "number": "3",
+    "city": {
+      "name": "Cazzago Brabbia",
+      "istat": "012049"
+    },
+    "latitude": 45.79772,
+    "longitude": 8.7317845
+  },
+  {
+    "street": "Via Vanoletti Gariboldi",
+    "number": "12",
+    "city": {
+      "name": "Cazzago Brabbia",
+      "istat": "012049"
+    },
+    "latitude": 45.7970552,
+    "longitude": 8.7329647
+  },
+  {
+    "street": "Via Roma",
+    "number": "6",
+    "city": {
+      "name": "Cazzago Brabbia",
+      "istat": "012049"
+    },
+    "latitude": 45.7979229,
+    "longitude": 8.7324618
+  },
+  {
+    "street": "Via Palude Brabbia",
+    "number": "28",
+    "city": {
+      "name": "Cazzago Brabbia",
+      "istat": "012049"
+    },
+    "latitude": 45.7955466,
+    "longitude": 8.7173958
+  },
+  {
+    "street": "Via Palude Brabbia",
+    "number": "18",
+    "city": {
+      "name": "Cazzago Brabbia",
+      "istat": "012049"
+    },
+    "latitude": 45.7956606,
+    "longitude": 8.7168486
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "39",
+    "city": {
+      "name": "Cazzago Brabbia",
+      "istat": "012049"
+    },
+    "latitude": 45.7942993,
+    "longitude": 8.7387963
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "38",
+    "city": {
+      "name": "Cazzago Brabbia",
+      "istat": "012049"
+    },
+    "latitude": 45.7942811,
+    "longitude": 8.7377111
+  }
+]

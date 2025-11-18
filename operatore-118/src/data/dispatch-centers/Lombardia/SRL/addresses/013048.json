@@ -1,0 +1,192 @@
+[
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "7",
+    "city": {
+      "name": "Carugo",
+      "istat": "013048"
+    },
+    "latitude": 45.7103163,
+    "longitude": 9.2004659
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "15",
+    "city": {
+      "name": "Carugo",
+      "istat": "013048"
+    },
+    "latitude": 45.7106466,
+    "longitude": 9.1982095
+  },
+  {
+    "street": "Viale Brianza",
+    "number": "19",
+    "city": {
+      "name": "Carugo",
+      "istat": "013048"
+    },
+    "latitude": 45.7071049,
+    "longitude": 9.1975363
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "30",
+    "city": {
+      "name": "Carugo",
+      "istat": "013048"
+    },
+    "latitude": 45.7087343,
+    "longitude": 9.1923456
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "9",
+    "city": {
+      "name": "Carugo",
+      "istat": "013048"
+    },
+    "latitude": 45.7099968,
+    "longitude": 9.2005759
+  },
+  {
+    "street": "Via Vincenzo Monti",
+    "number": "14",
+    "city": {
+      "name": "Carugo",
+      "istat": "013048"
+    },
+    "latitude": 45.7057185,
+    "longitude": 9.1989952
+  },
+  {
+    "street": "Via Vincenzo Monti",
+    "number": "2",
+    "city": {
+      "name": "Carugo",
+      "istat": "013048"
+    },
+    "latitude": 45.7053607,
+    "longitude": 9.1985205
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "51",
+    "city": {
+      "name": "Carugo",
+      "istat": "013048"
+    },
+    "latitude": 45.7115054,
+    "longitude": 9.1856966
+  },
+  {
+    "street": "Via Cascina Sant'Isidoro",
+    "number": "22",
+    "city": {
+      "name": "Carugo",
+      "istat": "013048"
+    },
+    "latitude": 45.7299419,
+    "longitude": 9.2031879
+  },
+  {
+    "street": "Via Negroni",
+    "number": "4",
+    "city": {
+      "name": "Carugo",
+      "istat": "013048"
+    },
+    "latitude": 45.7117743,
+    "longitude": 9.1973328
+  },
+  {
+    "street": "Località Valsorda",
+    "number": "1",
+    "city": {
+      "name": "Carugo",
+      "istat": "013048"
+    },
+    "latitude": 45.7306454,
+    "longitude": 9.1983972
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "67/69",
+    "city": {
+      "name": "Carugo",
+      "istat": "013048"
+    },
+    "latitude": 45.7135846,
+    "longitude": 9.1883958
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "65",
+    "city": {
+      "name": "Carugo",
+      "istat": "013048"
+    },
+    "latitude": 45.7131355,
+    "longitude": 9.1874294
+  },
+  {
+    "street": "Via Ada Negri",
+    "number": "9",
+    "city": {
+      "name": "Carugo",
+      "istat": "013048"
+    },
+    "latitude": 45.7054239,
+    "longitude": 9.1953737
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "111",
+    "city": {
+      "name": "Carugo",
+      "istat": "013048"
+    },
+    "latitude": 45.7248017,
+    "longitude": 9.2030457
+  },
+  {
+    "street": "Via Filippo Turati",
+    "number": "32",
+    "city": {
+      "name": "Carugo",
+      "istat": "013048"
+    },
+    "latitude": 45.7244567,
+    "longitude": 9.2030806
+  },
+  {
+    "street": "Via Valsorda",
+    "number": "9",
+    "city": {
+      "name": "Carugo",
+      "istat": "013048"
+    },
+    "latitude": 45.7341001,
+    "longitude": 9.1997841
+  },
+  {
+    "street": "SP32",
+    "number": "108a",
+    "city": {
+      "name": "Carugo",
+      "istat": "013048"
+    },
+    "latitude": 45.7130608,
+    "longitude": 9.1844957
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "47",
+    "city": {
+      "name": "Carugo",
+      "istat": "013048"
+    },
+    "latitude": 45.7113217,
+    "longitude": 9.1854089
+  }
+]

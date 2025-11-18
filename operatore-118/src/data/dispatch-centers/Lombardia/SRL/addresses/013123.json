@@ -1,0 +1,22 @@
+[
+  {
+    "street": "Via Provinciale",
+    "number": "2",
+    "city": {
+      "name": "Lasnigo",
+      "istat": "013123"
+    },
+    "latitude": 45.8882585,
+    "longitude": 9.2605879
+  },
+  {
+    "street": "Via Pietro Fioroni",
+    "number": "8/b",
+    "city": {
+      "name": "Lasnigo",
+      "istat": "013123"
+    },
+    "latitude": 45.8824783,
+    "longitude": 9.2671326
+  }
+]

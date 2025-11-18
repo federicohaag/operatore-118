@@ -1,0 +1,8412 @@
+[
+  {
+    "street": "Via Lario",
+    "number": "1a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.702277,
+    "longitude": 9.0000729
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "20",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7027767,
+    "longitude": 8.9950189
+  },
+  {
+    "street": "Via della Cultura e dello Sport",
+    "number": "7",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7004126,
+    "longitude": 8.9929505
+  },
+  {
+    "street": "Via Roma",
+    "number": "22",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7004922,
+    "longitude": 8.9983522
+  },
+  {
+    "street": "Via Roma",
+    "number": "51",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6995922,
+    "longitude": 8.9982795
+  },
+  {
+    "street": "Via Roma",
+    "number": "30",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7000261,
+    "longitude": 8.9981895
+  },
+  {
+    "street": "Via Roma",
+    "number": "26",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7001448,
+    "longitude": 8.9982396
+  },
+  {
+    "street": "Via Torino",
+    "number": "8",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6976647,
+    "longitude": 8.995065
+  },
+  {
+    "street": "Via Roma",
+    "number": "34",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6999058,
+    "longitude": 8.9982206
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "11",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7017386,
+    "longitude": 8.9974702
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "1",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6994148,
+    "longitude": 8.9979592
+  },
+  {
+    "street": "Piazza Santa Maria Nascente",
+    "number": "1",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7006208,
+    "longitude": 8.9975228
+  },
+  {
+    "street": "Piazza Santa Maria Nascente",
+    "number": "2",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7005549,
+    "longitude": 8.997501
+  },
+  {
+    "street": "Piazza Santa Maria Nascente",
+    "number": "6",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7005582,
+    "longitude": 8.9964282
+  },
+  {
+    "street": "Piazza Santa Maria Nascente",
+    "number": "10",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7007187,
+    "longitude": 8.9973738
+  },
+  {
+    "street": "Via San Quirico",
+    "number": "1a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6966542,
+    "longitude": 8.9966403
+  },
+  {
+    "street": "Via San Quirico",
+    "number": "2",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6963359,
+    "longitude": 8.9968185
+  },
+  {
+    "street": "Via dell'Arte",
+    "number": "1",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7008319,
+    "longitude": 8.9924162
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "2",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7020864,
+    "longitude": 8.9946386
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "4",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7021119,
+    "longitude": 8.9942696
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "1",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7020204,
+    "longitude": 8.9944117
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "3",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7020575,
+    "longitude": 8.994061
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "5",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7020439,
+    "longitude": 8.9940047
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "7",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7020564,
+    "longitude": 8.9939181
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "9",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7020855,
+    "longitude": 8.993674
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "11",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7018928,
+    "longitude": 8.993426
+  },
+  {
+    "street": "Via della Cultura e dello Sport",
+    "number": "4",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7004391,
+    "longitude": 8.994103
+  },
+  {
+    "street": "Via della Cultura e dello Sport",
+    "number": "2",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7003986,
+    "longitude": 8.9943617
+  },
+  {
+    "street": "Via della Cultura e dello Sport",
+    "number": "15",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7006599,
+    "longitude": 8.9914956
+  },
+  {
+    "street": "Via della Cultura e dello Sport",
+    "number": "12",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7007008,
+    "longitude": 8.991746
+  },
+  {
+    "street": "Via della Cultura e dello Sport",
+    "number": "6",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7006883,
+    "longitude": 8.9938961
+  },
+  {
+    "street": "Via del Campaccio",
+    "number": "13",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6961606,
+    "longitude": 9.0071775
+  },
+  {
+    "street": "Via del Campaccio",
+    "number": "7",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6962552,
+    "longitude": 9.0064667
+  },
+  {
+    "street": "Via del Campaccio",
+    "number": "5",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6962669,
+    "longitude": 9.0063669
+  },
+  {
+    "street": "Via del Campaccio",
+    "number": "11",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6961907,
+    "longitude": 9.0069498
+  },
+  {
+    "street": "Via del Campaccio",
+    "number": "10",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6960705,
+    "longitude": 9.0070889
+  },
+  {
+    "street": "Via del Campaccio",
+    "number": "3",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6963262,
+    "longitude": 9.0059637
+  },
+  {
+    "street": "Viale Europa",
+    "number": "41",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6962605,
+    "longitude": 9.0056395
+  },
+  {
+    "street": "Via Bergamo",
+    "number": "23",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6958658,
+    "longitude": 9.0058224
+  },
+  {
+    "street": "Via Bergamo",
+    "number": "25",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6958303,
+    "longitude": 9.0060887
+  },
+  {
+    "street": "Via Bergamo",
+    "number": "27",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6957721,
+    "longitude": 9.0064973
+  },
+  {
+    "street": "Via Bergamo",
+    "number": "29",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6956628,
+    "longitude": 9.0072108
+  },
+  {
+    "street": "Viale Europa",
+    "number": "25",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6964619,
+    "longitude": 9.0053308
+  },
+  {
+    "street": "Via degli Alberi",
+    "number": "95",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7030974,
+    "longitude": 9.0091268
+  },
+  {
+    "street": "Via degli Alberi",
+    "number": "97",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7034252,
+    "longitude": 9.0091694
+  },
+  {
+    "street": "Via degli Alberi",
+    "number": "100",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7036912,
+    "longitude": 9.0092981
+  },
+  {
+    "street": "Via Biella",
+    "number": "16",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6973179,
+    "longitude": 8.9907828
+  },
+  {
+    "street": "Via Biella",
+    "number": "14",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6972431,
+    "longitude": 8.9911688
+  },
+  {
+    "street": "Via Biella",
+    "number": "11",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6965558,
+    "longitude": 8.9916647
+  },
+  {
+    "street": "Via Bergamo",
+    "number": "336",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6956511,
+    "longitude": 9.000667
+  },
+  {
+    "street": "Via dell'Artigianato",
+    "number": "9",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6945696,
+    "longitude": 8.9945374
+  },
+  {
+    "street": "Via dell'Artigianato",
+    "number": "17",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6946038,
+    "longitude": 8.9944344
+  },
+  {
+    "street": "Via dell'Artigianato",
+    "number": "20",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6946258,
+    "longitude": 8.9943713
+  },
+  {
+    "street": "Via dell'Artigianato",
+    "number": "37",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6946601,
+    "longitude": 8.9942663
+  },
+  {
+    "street": "Via dell'Artigianato",
+    "number": "41",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6946913,
+    "longitude": 8.9941696
+  },
+  {
+    "street": "Via dell'Artigianato",
+    "number": "125",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6950099,
+    "longitude": 8.9932389
+  },
+  {
+    "street": "Via dell'Artigianato",
+    "number": "90",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6950956,
+    "longitude": 8.9937888
+  },
+  {
+    "street": "Via dell'Artigianato",
+    "number": "98",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6951371,
+    "longitude": 8.9936625
+  },
+  {
+    "street": "Via dell'Artigianato",
+    "number": "108",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6951755,
+    "longitude": 8.9935456
+  },
+  {
+    "street": "Via dell'Artigianato",
+    "number": "126",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6952244,
+    "longitude": 8.9933941
+  },
+  {
+    "street": "Via dell'Industria",
+    "number": "41",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6951739,
+    "longitude": 8.9940453
+  },
+  {
+    "street": "Via del Lavoro",
+    "number": "72",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6938771,
+    "longitude": 8.993309
+  },
+  {
+    "street": "Via del Lavoro",
+    "number": "8",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6937488,
+    "longitude": 8.9936879
+  },
+  {
+    "street": "Via del Lavoro",
+    "number": "101",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6938189,
+    "longitude": 8.9926707
+  },
+  {
+    "street": "Via del Lavoro",
+    "number": "103",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.693907,
+    "longitude": 8.9924174
+  },
+  {
+    "street": "Via del Lavoro",
+    "number": "159",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6939298,
+    "longitude": 8.9923485
+  },
+  {
+    "street": "Via del Lavoro",
+    "number": "161",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6940831,
+    "longitude": 8.9920076
+  },
+  {
+    "street": "Via del Lavoro",
+    "number": "140",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6941622,
+    "longitude": 8.9924531
+  },
+  {
+    "street": "Via Milano",
+    "number": "6",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6897559,
+    "longitude": 8.9967602
+  },
+  {
+    "street": "Via Milano",
+    "number": "1",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6943184,
+    "longitude": 8.9962693
+  },
+  {
+    "street": "Via Milano",
+    "number": "4",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6946272,
+    "longitude": 8.9960057
+  },
+  {
+    "street": "Via Varese",
+    "number": "3",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6950221,
+    "longitude": 8.9952857
+  },
+  {
+    "street": "Via Varese",
+    "number": "5",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6947423,
+    "longitude": 8.9950454
+  },
+  {
+    "street": "Via Varese",
+    "number": "7",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6944002,
+    "longitude": 8.9947909
+  },
+  {
+    "street": "Via Varese",
+    "number": "9",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6942276,
+    "longitude": 8.9946139
+  },
+  {
+    "street": "Via Varese",
+    "number": "13",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6937729,
+    "longitude": 8.9943622
+  },
+  {
+    "street": "Via Varese",
+    "number": "11",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6940603,
+    "longitude": 8.9945604
+  },
+  {
+    "street": "Via Varese",
+    "number": "17",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6932569,
+    "longitude": 8.9948429
+  },
+  {
+    "street": "Via Varese",
+    "number": "19",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6933652,
+    "longitude": 8.9940726
+  },
+  {
+    "street": "Via Varese",
+    "number": "21",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.692891,
+    "longitude": 8.9937555
+  },
+  {
+    "street": "Via Varese",
+    "number": "23",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6928036,
+    "longitude": 8.9936895
+  },
+  {
+    "street": "Via Varese",
+    "number": "15",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6937054,
+    "longitude": 8.9943203
+  },
+  {
+    "street": "Via Varese",
+    "number": "1",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6952667,
+    "longitude": 8.9953879
+  },
+  {
+    "street": "Via Milano",
+    "number": "2",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6949815,
+    "longitude": 8.9960011
+  },
+  {
+    "street": "Via Biella",
+    "number": "9",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6961884,
+    "longitude": 8.9924394
+  },
+  {
+    "street": "Via Bergamo",
+    "number": "346",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6956577,
+    "longitude": 9.0007968
+  },
+  {
+    "street": "Via del Lavoro",
+    "number": "60",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6938631,
+    "longitude": 8.9933593
+  },
+  {
+    "street": "Via Varese",
+    "number": "8",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6933709,
+    "longitude": 8.9937856
+  },
+  {
+    "street": "Via Varese",
+    "number": "4b",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6941826,
+    "longitude": 8.9943637
+  },
+  {
+    "street": "Via Varese",
+    "number": "4c",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6941237,
+    "longitude": 8.9943215
+  },
+  {
+    "street": "Via Varese",
+    "number": "4a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6942798,
+    "longitude": 8.9944323
+  },
+  {
+    "street": "Via Roma",
+    "number": "1",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7018835,
+    "longitude": 8.9994588
+  },
+  {
+    "street": "Via Roma",
+    "number": "2",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7018792,
+    "longitude": 8.9992509
+  },
+  {
+    "street": "Via Roma",
+    "number": "6",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7013761,
+    "longitude": 8.9992062
+  },
+  {
+    "street": "Via Roma",
+    "number": "5",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7015784,
+    "longitude": 9.0000856
+  },
+  {
+    "street": "Via Roma",
+    "number": "9",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7015715,
+    "longitude": 9.0003034
+  },
+  {
+    "street": "Via Roma",
+    "number": "15",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7013376,
+    "longitude": 8.9994111
+  },
+  {
+    "street": "Via Roma",
+    "number": "17",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7013222,
+    "longitude": 8.9993675
+  },
+  {
+    "street": "Via Roma",
+    "number": "4",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7018371,
+    "longitude": 8.9992208
+  },
+  {
+    "street": "Via Roma",
+    "number": "19",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7011877,
+    "longitude": 8.9991695
+  },
+  {
+    "street": "Via Roma",
+    "number": "8",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7012797,
+    "longitude": 8.9991507
+  },
+  {
+    "street": "Via Roma",
+    "number": "10",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7011888,
+    "longitude": 8.9990446
+  },
+  {
+    "street": "Via Roma",
+    "number": "21",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7011,
+    "longitude": 8.9990201
+  },
+  {
+    "street": "Via Roma",
+    "number": "23",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7009833,
+    "longitude": 8.9988138
+  },
+  {
+    "street": "Via Roma",
+    "number": "25",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7009013,
+    "longitude": 8.9987116
+  },
+  {
+    "street": "Via Roma",
+    "number": "27",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7005632,
+    "longitude": 8.9985097
+  },
+  {
+    "street": "Via Roma",
+    "number": "20",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7005898,
+    "longitude": 8.9984193
+  },
+  {
+    "street": "Via Roma",
+    "number": "22a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.700303,
+    "longitude": 8.9983156
+  },
+  {
+    "street": "Via Roma",
+    "number": "24",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7002193,
+    "longitude": 8.9982821
+  },
+  {
+    "street": "Via Roma",
+    "number": "31",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7004102,
+    "longitude": 8.9984498
+  },
+  {
+    "street": "Via Roma",
+    "number": "33",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7003719,
+    "longitude": 8.9984366
+  },
+  {
+    "street": "Via Roma",
+    "number": "29",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7004784,
+    "longitude": 8.9984772
+  },
+  {
+    "street": "Via Roma",
+    "number": "35",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7002952,
+    "longitude": 8.9984051
+  },
+  {
+    "street": "Via Roma",
+    "number": "39a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7001895,
+    "longitude": 8.9983766
+  },
+  {
+    "street": "Via Roma",
+    "number": "37",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7002725,
+    "longitude": 8.9983959
+  },
+  {
+    "street": "Via Roma",
+    "number": "39",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7002399,
+    "longitude": 8.9983888
+  },
+  {
+    "street": "Via Roma",
+    "number": "43",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6999398,
+    "longitude": 8.998329
+  },
+  {
+    "street": "Via Roma",
+    "number": "45",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6998686,
+    "longitude": 8.9983239
+  },
+  {
+    "street": "Via Roma",
+    "number": "47",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6997691,
+    "longitude": 8.9983193
+  },
+  {
+    "street": "Via Roma",
+    "number": "36",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.69969,
+    "longitude": 8.9981733
+  },
+  {
+    "street": "Via Roma",
+    "number": "40",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6996491,
+    "longitude": 8.9981606
+  },
+  {
+    "street": "Via Roma",
+    "number": "49",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6996601,
+    "longitude": 8.9982856
+  },
+  {
+    "street": "Via Roma",
+    "number": "59",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6994127,
+    "longitude": 8.998215
+  },
+  {
+    "street": "Via Roma",
+    "number": "57",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6994459,
+    "longitude": 8.9982267
+  },
+  {
+    "street": "Via Roma",
+    "number": "55",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6994939,
+    "longitude": 8.9982401
+  },
+  {
+    "street": "Via Roma",
+    "number": "53",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6995473,
+    "longitude": 8.9982538
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "2",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7008375,
+    "longitude": 8.9980967
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "4",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7007491,
+    "longitude": 8.9980595
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "1",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7006761,
+    "longitude": 8.9981544
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "8",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.700736,
+    "longitude": 8.9979875
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "3",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7006668,
+    "longitude": 8.9978459
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "10",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7007217,
+    "longitude": 8.997582
+  },
+  {
+    "street": "Via Madonna del Castello",
+    "number": "2",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7003831,
+    "longitude": 8.9974327
+  },
+  {
+    "street": "Via Madonna del Castello",
+    "number": "3",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7002518,
+    "longitude": 8.9979585
+  },
+  {
+    "street": "Via Madonna del Castello",
+    "number": "4",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7002451,
+    "longitude": 8.9977822
+  },
+  {
+    "street": "Via Madonna del Castello",
+    "number": "1",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7004085,
+    "longitude": 8.9976293
+  },
+  {
+    "street": "Via Madonna del Castello",
+    "number": "6",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7001984,
+    "longitude": 8.9978695
+  },
+  {
+    "street": "Via Madonna del Castello",
+    "number": "5",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7002052,
+    "longitude": 8.9980626
+  },
+  {
+    "street": "Via Madonna del Castello",
+    "number": "7",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7001695,
+    "longitude": 8.9981472
+  },
+  {
+    "street": "Via Madonna del Castello",
+    "number": "8",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7001509,
+    "longitude": 8.9979947
+  },
+  {
+    "street": "Via Madonna del Castello",
+    "number": "10",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7000002,
+    "longitude": 8.9979092
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "6",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7010947,
+    "longitude": 8.9981031
+  },
+  {
+    "street": "Via della Boschina",
+    "number": "2",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.702127,
+    "longitude": 8.9929506
+  },
+  {
+    "street": "Via della Boschina",
+    "number": "2a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7020992,
+    "longitude": 8.9928152
+  },
+  {
+    "street": "Via della Boschina",
+    "number": "4",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7020288,
+    "longitude": 8.9926179
+  },
+  {
+    "street": "Via della Boschina",
+    "number": "6",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7022519,
+    "longitude": 8.992287
+  },
+  {
+    "street": "Via della Boschina",
+    "number": "12",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7020109,
+    "longitude": 8.9916057
+  },
+  {
+    "street": "Via della Boschina",
+    "number": "8",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7019973,
+    "longitude": 8.9921835
+  },
+  {
+    "street": "Via della Boschina",
+    "number": "10",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7019991,
+    "longitude": 8.9921109
+  },
+  {
+    "street": "Via della Boschina",
+    "number": "14a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7021548,
+    "longitude": 8.9913904
+  },
+  {
+    "street": "Via della Boschina",
+    "number": "14b",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7024378,
+    "longitude": 8.9913405
+  },
+  {
+    "street": "Via della Boschina",
+    "number": "14c",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7026433,
+    "longitude": 8.9913288
+  },
+  {
+    "street": "Via della Boschina",
+    "number": "14d",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7027391,
+    "longitude": 8.9912494
+  },
+  {
+    "street": "Via della Boschina",
+    "number": "16",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7027371,
+    "longitude": 8.9911805
+  },
+  {
+    "street": "Via della Boschina",
+    "number": "1",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7018924,
+    "longitude": 8.9924186
+  },
+  {
+    "street": "Via della Boschina",
+    "number": "5",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7018829,
+    "longitude": 8.9919193
+  },
+  {
+    "street": "Via della Boschina",
+    "number": "7",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7018838,
+    "longitude": 8.9917125
+  },
+  {
+    "street": "Via della Boschina",
+    "number": "3",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7018794,
+    "longitude": 8.9920342
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "1",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7005038,
+    "longitude": 9.0018535
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "6b",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.69976,
+    "longitude": 9.0019952
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "6a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6997416,
+    "longitude": 9.0023215
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "6d",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6996756,
+    "longitude": 9.0019891
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "6c",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6996578,
+    "longitude": 9.0023144
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "2",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7003807,
+    "longitude": 9.0023945
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "4",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7001494,
+    "longitude": 9.0019962
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "12",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7003566,
+    "longitude": 9.0033025
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "10a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7003753,
+    "longitude": 9.0026507
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "10b",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7003744,
+    "longitude": 9.0027473
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "10c",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7003735,
+    "longitude": 9.0028438
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "10d",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7003707,
+    "longitude": 9.0029444
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "3",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.70051,
+    "longitude": 9.0022609
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "3a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7005044,
+    "longitude": 9.002393
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "5",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7004973,
+    "longitude": 9.002763
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "7",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7004944,
+    "longitude": 9.0029987
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "9",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7004928,
+    "longitude": 9.003158
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "13",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7004788,
+    "longitude": 9.0042964
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "23",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7005048,
+    "longitude": 9.0052971
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "19b",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7004911,
+    "longitude": 9.0051176
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "19a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7004863,
+    "longitude": 9.0049387
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "11",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7004984,
+    "longitude": 9.00379
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "8",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7001135,
+    "longitude": 9.0025636
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "16",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7003252,
+    "longitude": 9.0049308
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "1",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6991949,
+    "longitude": 9.0019214
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "1a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6991963,
+    "longitude": 9.0017394
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "9",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6992151,
+    "longitude": 9.0026448
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "11",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6995493,
+    "longitude": 9.002946
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "13",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6992314,
+    "longitude": 9.0030099
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "15",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6992336,
+    "longitude": 9.0032841
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "17",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6992132,
+    "longitude": 9.0037155
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "23",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.69914,
+    "longitude": 9.0050203
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "25",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6991346,
+    "longitude": 9.0051636
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "7",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6998583,
+    "longitude": 9.0025194
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "5",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6996481,
+    "longitude": 9.0024735
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "18",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6990439,
+    "longitude": 9.0046751
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "16",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6990765,
+    "longitude": 9.0041777
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "14",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6991083,
+    "longitude": 9.0036068
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "12",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6991116,
+    "longitude": 9.0033687
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "10",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6991018,
+    "longitude": 9.0029273
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "8",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6990555,
+    "longitude": 9.0025932
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "6",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6990928,
+    "longitude": 9.0024825
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "2",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6990781,
+    "longitude": 9.001775
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "4",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6989388,
+    "longitude": 9.0019879
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "3",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6995598,
+    "longitude": 9.0024591
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "19",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.699282,
+    "longitude": 9.004277
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "21",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.69928,
+    "longitude": 9.0045661
+  },
+  {
+    "street": "Via Moro da Fenegrò",
+    "number": "1",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7002093,
+    "longitude": 8.9973053
+  },
+  {
+    "street": "Via Moro da Fenegrò",
+    "number": "5",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7001464,
+    "longitude": 8.9972343
+  },
+  {
+    "street": "Via Moro da Fenegrò",
+    "number": "3",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7001424,
+    "longitude": 8.997279
+  },
+  {
+    "street": "Via Moro da Fenegrò",
+    "number": "7",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7002379,
+    "longitude": 8.9972007
+  },
+  {
+    "street": "Via Moro da Fenegrò",
+    "number": "9",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7002375,
+    "longitude": 8.9970944
+  },
+  {
+    "street": "Via Moro da Fenegrò",
+    "number": "11",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.700237,
+    "longitude": 8.9969873
+  },
+  {
+    "street": "Via Moro da Fenegrò",
+    "number": "13",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7002349,
+    "longitude": 8.9968749
+  },
+  {
+    "street": "Via Moro da Fenegrò",
+    "number": "15",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.700095,
+    "longitude": 8.9963657
+  },
+  {
+    "street": "Via Moro da Fenegrò",
+    "number": "15a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7002343,
+    "longitude": 8.9967647
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "1",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7017643,
+    "longitude": 9.0018514
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "2a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7016238,
+    "longitude": 9.0015617
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "2",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7013363,
+    "longitude": 9.0015309
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "3",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7012801,
+    "longitude": 9.0016998
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "4",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7008919,
+    "longitude": 9.0014852
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "6",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7007886,
+    "longitude": 9.0014583
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "5",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7006135,
+    "longitude": 9.0016822
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "7",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7000946,
+    "longitude": 9.0016517
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "8",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6996508,
+    "longitude": 9.0013397
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "9",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6997061,
+    "longitude": 9.0014899
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "11",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6994419,
+    "longitude": 9.0014537
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "8b",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6989097,
+    "longitude": 9.0012237
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "10",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6987837,
+    "longitude": 9.0012027
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "13",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6989871,
+    "longitude": 9.0013763
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "15",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6986612,
+    "longitude": 9.0013292
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "14",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6984671,
+    "longitude": 9.0011678
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "16",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6981318,
+    "longitude": 9.0010984
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "12",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6985984,
+    "longitude": 9.0011744
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "17",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6982863,
+    "longitude": 9.0012666
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "19",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6980607,
+    "longitude": 9.0012259
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "2",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7006086,
+    "longitude": 8.9987229
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "1",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7006527,
+    "longitude": 8.9988015
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "4",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7006021,
+    "longitude": 8.9987976
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "3",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.700636,
+    "longitude": 8.9989432
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "5",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7005994,
+    "longitude": 8.9991373
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "6",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7005306,
+    "longitude": 8.9990233
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "8",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.700501,
+    "longitude": 8.9991081
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "10",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7005021,
+    "longitude": 8.9992244
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "12",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7004918,
+    "longitude": 8.9993815
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "7",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7005736,
+    "longitude": 8.9992606
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "9",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7005386,
+    "longitude": 8.9995556
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "11",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7005193,
+    "longitude": 8.9997543
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "13",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7005101,
+    "longitude": 8.9998768
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "14",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7004628,
+    "longitude": 8.9996634
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "16",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7004402,
+    "longitude": 8.9998829
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "15",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7004838,
+    "longitude": 9.0001949
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "18",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7004074,
+    "longitude": 9.0002927
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "20",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7003907,
+    "longitude": 9.0005924
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "17",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7005365,
+    "longitude": 9.0006828
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "22",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7003153,
+    "longitude": 9.0007933
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "24",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7000592,
+    "longitude": 9.001075
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "26",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7001238,
+    "longitude": 9.0012293
+  },
+  {
+    "street": "Via Piave",
+    "number": "2",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7009202,
+    "longitude": 8.9974572
+  },
+  {
+    "street": "Via Piave",
+    "number": "4",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7009468,
+    "longitude": 8.9973647
+  },
+  {
+    "street": "Via Piave",
+    "number": "6",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7008738,
+    "longitude": 8.99721
+  },
+  {
+    "street": "Via Piave",
+    "number": "8",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7009335,
+    "longitude": 8.9971122
+  },
+  {
+    "street": "Via Piave",
+    "number": "10",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7009653,
+    "longitude": 8.9969782
+  },
+  {
+    "street": "Via Piave",
+    "number": "12",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7010448,
+    "longitude": 8.9964883
+  },
+  {
+    "street": "Via Piave",
+    "number": "14",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7010683,
+    "longitude": 8.9963541
+  },
+  {
+    "street": "Via Piave",
+    "number": "16",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.701099,
+    "longitude": 8.9960508
+  },
+  {
+    "street": "Via Piave",
+    "number": "18",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7011133,
+    "longitude": 8.9958128
+  },
+  {
+    "street": "Via Piave",
+    "number": "20",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7011291,
+    "longitude": 8.9955944
+  },
+  {
+    "street": "Via Piave",
+    "number": "22",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7011769,
+    "longitude": 8.9953237
+  },
+  {
+    "street": "Via Piave",
+    "number": "24",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7012326,
+    "longitude": 8.9951034
+  },
+  {
+    "street": "Via delle Vigne",
+    "number": "1",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6963653,
+    "longitude": 9.0015311
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "2",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7024863,
+    "longitude": 8.9950651
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "2a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7024247,
+    "longitude": 8.9950528
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "4",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7023067,
+    "longitude": 8.9950246
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "1",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7023575,
+    "longitude": 8.9951749
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "6",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7018684,
+    "longitude": 8.994891
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "8",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.701796,
+    "longitude": 8.9948727
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "10",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7016348,
+    "longitude": 8.9948378
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "3",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7019846,
+    "longitude": 8.9950689
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "12",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7014064,
+    "longitude": 8.9947946
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "18",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6999809,
+    "longitude": 8.9948285
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "16",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7001888,
+    "longitude": 8.9948133
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "14",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7007475,
+    "longitude": 8.9947344
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "24",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6998551,
+    "longitude": 8.9951658
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "22",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6998438,
+    "longitude": 8.9953644
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "18",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6998192,
+    "longitude": 8.9960684
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "20",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6998213,
+    "longitude": 8.9957686
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "19",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6997298,
+    "longitude": 8.9954491
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "17",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6997117,
+    "longitude": 8.9961917
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "14",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6996676,
+    "longitude": 8.9967298
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "15",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6995736,
+    "longitude": 8.9969468
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "13",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6995551,
+    "longitude": 8.9970495
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "10",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6995755,
+    "longitude": 8.9972494
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "11",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6995163,
+    "longitude": 8.99725
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "9",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6995007,
+    "longitude": 8.9973556
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "12",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6996394,
+    "longitude": 8.9968719
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "8",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6995437,
+    "longitude": 8.9974288
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "6",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6995146,
+    "longitude": 8.9976191
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "4",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6995036,
+    "longitude": 8.9976927
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "2",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6994844,
+    "longitude": 8.9978295
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "3",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6994605,
+    "longitude": 8.9976444
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "1",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.697853,
+    "longitude": 9.0016287
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "2",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6977584,
+    "longitude": 9.0013562
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "4",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6977449,
+    "longitude": 9.0014633
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "8",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6976083,
+    "longitude": 9.0023844
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "10",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6974816,
+    "longitude": 9.0027126
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "16",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6971639,
+    "longitude": 9.004476
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "15",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6974723,
+    "longitude": 9.0042026
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "7",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6977189,
+    "longitude": 9.0025728
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "1",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.699299,
+    "longitude": 8.9983852
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "2",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6991422,
+    "longitude": 8.9981311
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "4",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6991002,
+    "longitude": 8.9984889
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "6",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6990141,
+    "longitude": 8.9987136
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "8",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6989784,
+    "longitude": 8.9987771
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "3",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6992343,
+    "longitude": 8.9985038
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "5",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6992137,
+    "longitude": 8.9985374
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "7",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6991896,
+    "longitude": 8.998575
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "9",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6990797,
+    "longitude": 8.9987362
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "11",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6990534,
+    "longitude": 8.9987678
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "13",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6989348,
+    "longitude": 8.9989434
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "15",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.698857,
+    "longitude": 8.9990629
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "17",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.698828,
+    "longitude": 8.9991125
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "19",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6987507,
+    "longitude": 8.9991499
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "14",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.698831,
+    "longitude": 8.9990011
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "12",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6988628,
+    "longitude": 8.9989509
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "10",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6989081,
+    "longitude": 8.9988779
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "16",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6987792,
+    "longitude": 8.9990612
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "18",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6986227,
+    "longitude": 8.9990332
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "20",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6985517,
+    "longitude": 8.999053
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "22",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6984103,
+    "longitude": 8.9991464
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "24",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6983177,
+    "longitude": 8.9992842
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "26",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6982912,
+    "longitude": 8.9993268
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "28",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6982594,
+    "longitude": 8.999377
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "21",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6985831,
+    "longitude": 8.999185
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "23",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6983838,
+    "longitude": 8.9993332
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "25",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6983507,
+    "longitude": 8.999391
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "27",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6982786,
+    "longitude": 8.9995384
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "29",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6981162,
+    "longitude": 8.9999617
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "31",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6980792,
+    "longitude": 9.0000273
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "33",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6980658,
+    "longitude": 9.0000932
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "35",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6980503,
+    "longitude": 9.0001871
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "37",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6980302,
+    "longitude": 9.0003004
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "30a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6979037,
+    "longitude": 9.0003388
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "32",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6978835,
+    "longitude": 9.0005598
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "17",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.699172,
+    "longitude": 9.0011403
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "15",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6991696,
+    "longitude": 9.0009288
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "13",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6991684,
+    "longitude": 9.0007233
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "16",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6990813,
+    "longitude": 9.0009596
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "14",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6990751,
+    "longitude": 9.0005959
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "12",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6987398,
+    "longitude": 9.0002159
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "8",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.698945,
+    "longitude": 9.0002607
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "10",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6989561,
+    "longitude": 9.0003434
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "11",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6991583,
+    "longitude": 9.0003479
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "9",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.699119,
+    "longitude": 8.9999436
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "7",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6989551,
+    "longitude": 8.9997813
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "3",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6988112,
+    "longitude": 8.9996526
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "5",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6988852,
+    "longitude": 8.9997177
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "1",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6986934,
+    "longitude": 8.9993618
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "4",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6986103,
+    "longitude": 8.9995642
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "6",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6986302,
+    "longitude": 8.9996125
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "2",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6986173,
+    "longitude": 8.9995039
+  },
+  {
+    "street": "Via Lazzaretto",
+    "number": "7",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6964357,
+    "longitude": 8.9980265
+  },
+  {
+    "street": "Via Lazzaretto",
+    "number": "6",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6966235,
+    "longitude": 8.997734
+  },
+  {
+    "street": "Via Lazzaretto",
+    "number": "4",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6970043,
+    "longitude": 8.9974643
+  },
+  {
+    "street": "Via Lazzaretto",
+    "number": "2",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6972375,
+    "longitude": 8.9972962
+  },
+  {
+    "street": "Via Lazzaretto",
+    "number": "5",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.696848,
+    "longitude": 8.9977399
+  },
+  {
+    "street": "Via Lazzaretto",
+    "number": "3",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6972349,
+    "longitude": 8.9974595
+  },
+  {
+    "street": "Via Lazzaretto",
+    "number": "1",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6973968,
+    "longitude": 8.9973374
+  },
+  {
+    "street": "Via Lazzaretto",
+    "number": "8",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6961372,
+    "longitude": 8.9980506
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "20",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6959459,
+    "longitude": 8.9986147
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "3",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.697591,
+    "longitude": 9.0002642
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "7",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.697632,
+    "longitude": 8.9999172
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "9",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6976488,
+    "longitude": 8.9992856
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "11",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6973694,
+    "longitude": 8.9991774
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "14",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6973603,
+    "longitude": 8.9990426
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "2",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6980455,
+    "longitude": 8.9993136
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "4",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6980725,
+    "longitude": 8.9992022
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "15",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6971022,
+    "longitude": 9.000132
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "13",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6972055,
+    "longitude": 8.9996938
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "27",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.696688,
+    "longitude": 8.9999713
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "29",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6967704,
+    "longitude": 8.9999865
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "31",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6968527,
+    "longitude": 9.0000079
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "33",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6969294,
+    "longitude": 9.0000231
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "35",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6969975,
+    "longitude": 9.0000394
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "25",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6966241,
+    "longitude": 9.0000963
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "23",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6967051,
+    "longitude": 9.0001075
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "21",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6967839,
+    "longitude": 9.0001227
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "19",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6968626,
+    "longitude": 9.000137
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "17",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6969436,
+    "longitude": 9.0001512
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "37",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6969051,
+    "longitude": 8.9995923
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "39",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6968655,
+    "longitude": 8.9995504
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "41",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6969064,
+    "longitude": 8.9992192
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "1",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7020141,
+    "longitude": 8.9991781
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "3",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7020491,
+    "longitude": 8.9988838
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "5",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7021394,
+    "longitude": 8.9983015
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "7",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7021782,
+    "longitude": 8.9980535
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "9",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.702201,
+    "longitude": 8.9978599
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "15",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7023446,
+    "longitude": 8.9967552
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "13",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7016564,
+    "longitude": 8.9969882
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "17",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7023423,
+    "longitude": 8.9959727
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "19",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7020275,
+    "longitude": 8.995926
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "19g",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7026414,
+    "longitude": 8.9948755
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "21",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7026835,
+    "longitude": 8.994626
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "23",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7027522,
+    "longitude": 8.9944536
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "25",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7028018,
+    "longitude": 8.9940613
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "29",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7029431,
+    "longitude": 8.9931162
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "37",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7029788,
+    "longitude": 8.9925885
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "31",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7028756,
+    "longitude": 8.992701
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "35",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7026787,
+    "longitude": 8.9925485
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "33",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7026098,
+    "longitude": 8.9925146
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "39",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7030746,
+    "longitude": 8.9922496
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "41",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7031252,
+    "longitude": 8.9918953
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "45",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7031456,
+    "longitude": 8.991769
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "47",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7031556,
+    "longitude": 8.9917036
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "49",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7032102,
+    "longitude": 8.9913842
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "51",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7032535,
+    "longitude": 8.9909636
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "53",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7032836,
+    "longitude": 8.990751
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "55",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7033094,
+    "longitude": 8.9905523
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "61",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7034342,
+    "longitude": 8.9895047
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "63",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.703346,
+    "longitude": 8.9892269
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "65",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7031631,
+    "longitude": 8.9891888
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "67",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7030172,
+    "longitude": 8.9891145
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "2",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7022579,
+    "longitude": 8.9981968
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "4",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7022785,
+    "longitude": 8.9980935
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "6",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7023024,
+    "longitude": 8.9979352
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "8",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7023759,
+    "longitude": 8.9975933
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "10",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7024799,
+    "longitude": 8.9968275
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "12",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7025267,
+    "longitude": 8.9964822
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "14",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7026129,
+    "longitude": 8.9959001
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "16",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7026892,
+    "longitude": 8.9956996
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "18",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7026808,
+    "longitude": 8.9954126
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "22",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7030554,
+    "longitude": 8.9948038
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "24",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7032512,
+    "longitude": 8.9946978
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "26",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7034399,
+    "longitude": 8.9945429
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "28",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7031249,
+    "longitude": 8.9945472
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "28a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7030448,
+    "longitude": 8.9946188
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "28b",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7028528,
+    "longitude": 8.994702
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "30",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.703122,
+    "longitude": 8.9943882
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "34",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7029585,
+    "longitude": 8.9938708
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "36",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7030096,
+    "longitude": 8.9933995
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "38",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7035255,
+    "longitude": 8.9928906
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "42",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7031322,
+    "longitude": 8.9926167
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "48",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7034883,
+    "longitude": 8.9904253
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "34a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7029912,
+    "longitude": 8.9936463
+  },
+  {
+    "street": "Via Fontanelle",
+    "number": "1",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7025791,
+    "longitude": 8.9973009
+  },
+  {
+    "street": "Via Fontanelle",
+    "number": "2",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7027014,
+    "longitude": 8.9974304
+  },
+  {
+    "street": "Via Fontanelle",
+    "number": "4",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7029711,
+    "longitude": 8.9973406
+  },
+  {
+    "street": "Via Fontanelle",
+    "number": "6",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7032774,
+    "longitude": 8.9972051
+  },
+  {
+    "street": "Via Fontanelle",
+    "number": "3",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7033289,
+    "longitude": 8.996949
+  },
+  {
+    "street": "Via Fontanelle",
+    "number": "5",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7034357,
+    "longitude": 8.9969034
+  },
+  {
+    "street": "Via Fontanelle",
+    "number": "5a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.703549,
+    "longitude": 8.9968497
+  },
+  {
+    "street": "Via Fontanelle",
+    "number": "5b",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7036567,
+    "longitude": 8.9968055
+  },
+  {
+    "street": "Via Fontanelle",
+    "number": "13",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7046186,
+    "longitude": 8.9966419
+  },
+  {
+    "street": "Via Fontanelle",
+    "number": "7",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7039602,
+    "longitude": 8.9967626
+  },
+  {
+    "street": "Via Fontanelle",
+    "number": "9",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.704288,
+    "longitude": 8.9966432
+  },
+  {
+    "street": "Via Fontanelle",
+    "number": "11",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7043948,
+    "longitude": 8.9966714
+  },
+  {
+    "street": "Via Mascazza",
+    "number": "1",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7029822,
+    "longitude": 8.9961772
+  },
+  {
+    "street": "Via Mascazza",
+    "number": "3",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7028376,
+    "longitude": 8.9959419
+  },
+  {
+    "street": "Via Mascazza",
+    "number": "3a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7029167,
+    "longitude": 8.9957277
+  },
+  {
+    "street": "Via Mascazza",
+    "number": "3b",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7030119,
+    "longitude": 8.9957242
+  },
+  {
+    "street": "Via Mascazza",
+    "number": "3c",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7031046,
+    "longitude": 8.995726
+  },
+  {
+    "street": "Via Mascazza",
+    "number": "5",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7032974,
+    "longitude": 8.995749
+  },
+  {
+    "street": "Via Mascazza",
+    "number": "7",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7031623,
+    "longitude": 8.996439
+  },
+  {
+    "street": "Via Mascazza",
+    "number": "9",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7032021,
+    "longitude": 8.9964182
+  },
+  {
+    "street": "Via Mascazza",
+    "number": "2",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7032369,
+    "longitude": 8.9965516
+  },
+  {
+    "street": "Via Mascazza",
+    "number": "4",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7032981,
+    "longitude": 8.9965154
+  },
+  {
+    "street": "Via Mascazza",
+    "number": "6",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7033543,
+    "longitude": 8.9964839
+  },
+  {
+    "street": "Via Mascazza",
+    "number": "8",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7034579,
+    "longitude": 8.9964208
+  },
+  {
+    "street": "Via Mascazza",
+    "number": "10",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7035631,
+    "longitude": 8.9963543
+  },
+  {
+    "street": "Via della Fametta",
+    "number": "1",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7149336,
+    "longitude": 8.9999873
+  },
+  {
+    "street": "Via della Fametta",
+    "number": "3",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7150018,
+    "longitude": 9.0001775
+  },
+  {
+    "street": "Via della Fametta",
+    "number": "2",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7147873,
+    "longitude": 8.9999872
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "1",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7000992,
+    "longitude": 8.9983771
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "3",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7000765,
+    "longitude": 8.9985205
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "2",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7000032,
+    "longitude": 8.9985392
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "4",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6999905,
+    "longitude": 8.9985789
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "6",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.699951,
+    "longitude": 8.9987026
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "8",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6999283,
+    "longitude": 8.9987577
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "10",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6998896,
+    "longitude": 8.9988209
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "12",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6998406,
+    "longitude": 8.9988809
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "14",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6998569,
+    "longitude": 8.9989855
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "16",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6997744,
+    "longitude": 8.9990256
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "18",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6999921,
+    "longitude": 8.9989663
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "20",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6999923,
+    "longitude": 8.9990553
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "3a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7001439,
+    "longitude": 8.9989679
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "5",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7001936,
+    "longitude": 8.9990215
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "5a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7002769,
+    "longitude": 8.9990965
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "5b",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7003157,
+    "longitude": 8.9991188
+  },
+  {
+    "street": "Via Giosuè Carducci",
+    "number": "1",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7003413,
+    "longitude": 8.9995277
+  },
+  {
+    "street": "Via Giosuè Carducci",
+    "number": "2a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7002968,
+    "longitude": 8.9994357
+  },
+  {
+    "street": "Via Giosuè Carducci",
+    "number": "2b",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7001868,
+    "longitude": 8.9994225
+  },
+  {
+    "street": "Via Giosuè Carducci",
+    "number": "2c",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7001275,
+    "longitude": 8.9994189
+  },
+  {
+    "street": "Via Giosuè Carducci",
+    "number": "3",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7000809,
+    "longitude": 8.9995757
+  },
+  {
+    "street": "Via Giosuè Carducci",
+    "number": "7",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6996863,
+    "longitude": 8.9994959
+  },
+  {
+    "street": "Via Giosuè Carducci",
+    "number": "5",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6998176,
+    "longitude": 9.0000921
+  },
+  {
+    "street": "Via Giosuè Carducci",
+    "number": "4a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6996446,
+    "longitude": 8.9993603
+  },
+  {
+    "street": "Via Giosuè Carducci",
+    "number": "4b",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6996085,
+    "longitude": 8.9993615
+  },
+  {
+    "street": "Via Trieste",
+    "number": "2",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6992547,
+    "longitude": 8.9979957
+  },
+  {
+    "street": "Via Trieste",
+    "number": "4",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6991769,
+    "longitude": 8.9979467
+  },
+  {
+    "street": "Via Trieste",
+    "number": "8",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6986658,
+    "longitude": 8.9975659
+  },
+  {
+    "street": "Via Trieste",
+    "number": "6",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6988912,
+    "longitude": 8.9976886
+  },
+  {
+    "street": "Via Trieste",
+    "number": "1",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6987508,
+    "longitude": 8.9978073
+  },
+  {
+    "street": "Via Trieste",
+    "number": "3",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6985566,
+    "longitude": 8.9976701
+  },
+  {
+    "street": "Via Trieste",
+    "number": "5",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6982835,
+    "longitude": 8.997474
+  },
+  {
+    "street": "Via Trieste",
+    "number": "10",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6981734,
+    "longitude": 8.9972078
+  },
+  {
+    "street": "Via Trieste",
+    "number": "7",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6978847,
+    "longitude": 8.9983122
+  },
+  {
+    "street": "Via Trieste",
+    "number": "9",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6978252,
+    "longitude": 8.9982737
+  },
+  {
+    "street": "Via Trieste",
+    "number": "13",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6979933,
+    "longitude": 8.9976004
+  },
+  {
+    "street": "Via Trieste",
+    "number": "15",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6978943,
+    "longitude": 8.9972068
+  },
+  {
+    "street": "Via Trieste",
+    "number": "12",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.69794,
+    "longitude": 8.9970433
+  },
+  {
+    "street": "Via Trieste",
+    "number": "14",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6977507,
+    "longitude": 8.9969219
+  },
+  {
+    "street": "Via Trieste",
+    "number": "16",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6976765,
+    "longitude": 8.9968688
+  },
+  {
+    "street": "Via Trieste",
+    "number": "18",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.697627,
+    "longitude": 8.9968537
+  },
+  {
+    "street": "Via Trieste",
+    "number": "17",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6975619,
+    "longitude": 8.9969554
+  },
+  {
+    "street": "Via Trieste",
+    "number": "19",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6974806,
+    "longitude": 8.9968914
+  },
+  {
+    "street": "Via Trieste",
+    "number": "20",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6973136,
+    "longitude": 8.9966281
+  },
+  {
+    "street": "Via Trieste",
+    "number": "22",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6969956,
+    "longitude": 8.99639
+  },
+  {
+    "street": "Via Trieste",
+    "number": "23",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6968219,
+    "longitude": 8.996453
+  },
+  {
+    "street": "Via Trieste",
+    "number": "21",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.697228,
+    "longitude": 8.9967309
+  },
+  {
+    "street": "Via Trieste",
+    "number": "24",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6967901,
+    "longitude": 8.9962207
+  },
+  {
+    "street": "Via Trieste",
+    "number": "26",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6967028,
+    "longitude": 8.9961856
+  },
+  {
+    "street": "Via Trieste",
+    "number": "25",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6964427,
+    "longitude": 8.9961751
+  },
+  {
+    "street": "Via Trieste",
+    "number": "28",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6964712,
+    "longitude": 8.996021
+  },
+  {
+    "street": "Via Trieste",
+    "number": "30",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6959779,
+    "longitude": 8.9956976
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "1",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6996458,
+    "longitude": 8.9947464
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "3",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6996405,
+    "longitude": 8.9946061
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "4",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6996917,
+    "longitude": 8.9943333
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "5",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6996146,
+    "longitude": 8.9944742
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "6c",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7000285,
+    "longitude": 8.9939463
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "6b",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6998946,
+    "longitude": 8.9939932
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "6a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6997475,
+    "longitude": 8.99402
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "8",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6996844,
+    "longitude": 8.9938327
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "10",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.699693,
+    "longitude": 8.9935502
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "12",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6997914,
+    "longitude": 8.992922
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "14",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6997403,
+    "longitude": 8.9928468
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "18",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.699606,
+    "longitude": 8.9923165
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "24",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6988082,
+    "longitude": 8.9918002
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "28",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.698585,
+    "longitude": 8.9926719
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "30",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6985462,
+    "longitude": 8.9926303
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "32",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6984733,
+    "longitude": 8.9920598
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "26",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6986594,
+    "longitude": 8.9919156
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "25",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6988939,
+    "longitude": 8.9922186
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "23a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6988287,
+    "longitude": 8.992333
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "23b",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6989388,
+    "longitude": 8.9923692
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "21",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6991554,
+    "longitude": 8.9923167
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "19",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6996418,
+    "longitude": 8.9927149
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "17",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6996208,
+    "longitude": 8.9929784
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "15",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6995912,
+    "longitude": 8.9932749
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "13",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6995858,
+    "longitude": 8.9935383
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "11",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.699588,
+    "longitude": 8.993962
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "7",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6994922,
+    "longitude": 8.9942
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "7a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6993405,
+    "longitude": 8.9942008
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "9",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6991474,
+    "longitude": 8.9942254
+  },
+  {
+    "street": "Via Don Giovanni Bosco",
+    "number": "1",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6995885,
+    "longitude": 8.9950957
+  },
+  {
+    "street": "Via Don Giovanni Bosco",
+    "number": "3",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6994213,
+    "longitude": 8.9949719
+  },
+  {
+    "street": "Via Don Giovanni Bosco",
+    "number": "5",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6991873,
+    "longitude": 8.9947676
+  },
+  {
+    "street": "Via Don Giovanni Bosco",
+    "number": "13",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6986671,
+    "longitude": 8.9943275
+  },
+  {
+    "street": "Via Don Giovanni Bosco",
+    "number": "15",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6984697,
+    "longitude": 8.9941582
+  },
+  {
+    "street": "Via Don Giovanni Bosco",
+    "number": "19",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6973001,
+    "longitude": 8.9928349
+  },
+  {
+    "street": "Via Don Giovanni Bosco",
+    "number": "21",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6972483,
+    "longitude": 8.9927638
+  },
+  {
+    "street": "Via Novara",
+    "number": "6",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6964541,
+    "longitude": 8.9947684
+  },
+  {
+    "street": "Via Novara",
+    "number": "10",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6966443,
+    "longitude": 8.9940427
+  },
+  {
+    "street": "Via Novara",
+    "number": "8",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6966067,
+    "longitude": 8.994189
+  },
+  {
+    "street": "Via Novara",
+    "number": "12",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6967075,
+    "longitude": 8.9938668
+  },
+  {
+    "street": "Via Novara",
+    "number": "14",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6967963,
+    "longitude": 8.9935243
+  },
+  {
+    "street": "Via Novara",
+    "number": "16",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6968765,
+    "longitude": 8.993196
+  },
+  {
+    "street": "Via Torino",
+    "number": "2",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6972976,
+    "longitude": 8.9962316
+  },
+  {
+    "street": "Via Torino",
+    "number": "4",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.697408,
+    "longitude": 8.9958203
+  },
+  {
+    "street": "Via Torino",
+    "number": "3",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6973788,
+    "longitude": 8.9955523
+  },
+  {
+    "street": "Via Torino",
+    "number": "1",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6970394,
+    "longitude": 8.9954342
+  },
+  {
+    "street": "Via Torino",
+    "number": "5",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6974353,
+    "longitude": 8.9953019
+  },
+  {
+    "street": "Via Torino",
+    "number": "6",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6975227,
+    "longitude": 8.9953741
+  },
+  {
+    "street": "Via Torino",
+    "number": "10",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6976523,
+    "longitude": 8.9948968
+  },
+  {
+    "street": "Via Torino",
+    "number": "7",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6974928,
+    "longitude": 8.9949931
+  },
+  {
+    "street": "Via Torino",
+    "number": "7b",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6976241,
+    "longitude": 8.9945022
+  },
+  {
+    "street": "Via Torino",
+    "number": "9",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6976426,
+    "longitude": 8.9943874
+  },
+  {
+    "street": "Via Torino",
+    "number": "12",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6980259,
+    "longitude": 8.9945846
+  },
+  {
+    "street": "Via Torino",
+    "number": "13",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.697798,
+    "longitude": 8.9940829
+  },
+  {
+    "street": "Via Torino",
+    "number": "11",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6976998,
+    "longitude": 8.994312
+  },
+  {
+    "street": "Via Torino",
+    "number": "14",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6979662,
+    "longitude": 8.9938465
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "2",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6984049,
+    "longitude": 8.9972497
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "1",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6983687,
+    "longitude": 8.9969997
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "3",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6983814,
+    "longitude": 8.9969397
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "5",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.698451,
+    "longitude": 8.9964824
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "17",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.698612,
+    "longitude": 8.9956976
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "27",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6987037,
+    "longitude": 8.9950725
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "15",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6984342,
+    "longitude": 8.9960082
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "13",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6984112,
+    "longitude": 8.9959975
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "7",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6983742,
+    "longitude": 8.9960724
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "9",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6981408,
+    "longitude": 8.9960454
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "11",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6981478,
+    "longitude": 8.9959068
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "23",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6985246,
+    "longitude": 8.9955271
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "19",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6982393,
+    "longitude": 8.9952818
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "17a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6981012,
+    "longitude": 8.995349
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "17b",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6981356,
+    "longitude": 8.9952257
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "29",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6984638,
+    "longitude": 8.9950239
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "6",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6984918,
+    "longitude": 8.9968335
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "8",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.698572,
+    "longitude": 8.9963873
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "10",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6986231,
+    "longitude": 8.9961454
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "12",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6987012,
+    "longitude": 8.9957775
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "14",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6987651,
+    "longitude": 8.9954767
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "25",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6988254,
+    "longitude": 8.9951819
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "4",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6988904,
+    "longitude": 8.9970991
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "16",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6991918,
+    "longitude": 8.9956357
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "24",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6992779,
+    "longitude": 8.9960747
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "22",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6993382,
+    "longitude": 8.9959469
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "20",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6994043,
+    "longitude": 8.9957913
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "18",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6992354,
+    "longitude": 8.9956226
+  },
+  {
+    "street": "Via Lario",
+    "number": "3",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7029021,
+    "longitude": 9.0004321
+  },
+  {
+    "street": "Via Lario",
+    "number": "1b",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7022695,
+    "longitude": 9.0002476
+  },
+  {
+    "street": "Via Lario",
+    "number": "1c",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7024,
+    "longitude": 9.0002569
+  },
+  {
+    "street": "Via Lario",
+    "number": "1d",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.702409,
+    "longitude": 9.0000771
+  },
+  {
+    "street": "Via Lario",
+    "number": "1",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7026968,
+    "longitude": 9.0001962
+  },
+  {
+    "street": "Via Lario",
+    "number": "2",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7023356,
+    "longitude": 9.0005511
+  },
+  {
+    "street": "Via Lario",
+    "number": "6",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7032414,
+    "longitude": 9.0006363
+  },
+  {
+    "street": "Via Lario",
+    "number": "8",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7036899,
+    "longitude": 9.0007589
+  },
+  {
+    "street": "Via Lario",
+    "number": "12",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7041236,
+    "longitude": 9.0009691
+  },
+  {
+    "street": "Via Lario",
+    "number": "16",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7044001,
+    "longitude": 9.0011577
+  },
+  {
+    "street": "Via Lario",
+    "number": "22",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7047237,
+    "longitude": 9.0012364
+  },
+  {
+    "street": "Via Lario",
+    "number": "24",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7048044,
+    "longitude": 9.0012703
+  },
+  {
+    "street": "Via Lario",
+    "number": "26",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7051117,
+    "longitude": 9.0013894
+  },
+  {
+    "street": "Via Lario",
+    "number": "26a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.705177,
+    "longitude": 9.0020654
+  },
+  {
+    "street": "Via Lario",
+    "number": "28",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7051802,
+    "longitude": 9.0023048
+  },
+  {
+    "street": "Via Lario",
+    "number": "30",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7052862,
+    "longitude": 9.0019662
+  },
+  {
+    "street": "Via Lario",
+    "number": "32",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7054643,
+    "longitude": 9.0015303
+  },
+  {
+    "street": "Via Lario",
+    "number": "36",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.706103,
+    "longitude": 9.0018427
+  },
+  {
+    "street": "Via Lario",
+    "number": "34",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7055326,
+    "longitude": 9.0021056
+  },
+  {
+    "street": "Via Lario",
+    "number": "38",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7061386,
+    "longitude": 9.0022987
+  },
+  {
+    "street": "Via Lario",
+    "number": "40",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7064308,
+    "longitude": 9.0020198
+  },
+  {
+    "street": "Via Lario",
+    "number": "42",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.706546,
+    "longitude": 9.0027118
+  },
+  {
+    "street": "Via Lario",
+    "number": "44",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7068316,
+    "longitude": 9.0023148
+  },
+  {
+    "street": "Via Lario",
+    "number": "46",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7069503,
+    "longitude": 9.0024323
+  },
+  {
+    "street": "Via Lario",
+    "number": "48",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7074028,
+    "longitude": 9.0027312
+  },
+  {
+    "street": "Via Lario",
+    "number": "37",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7059963,
+    "longitude": 9.0015338
+  },
+  {
+    "street": "Via Lario",
+    "number": "37a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7060757,
+    "longitude": 9.0015692
+  },
+  {
+    "street": "Via Lario",
+    "number": "37b",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7061335,
+    "longitude": 9.0016058
+  },
+  {
+    "street": "Via Lario",
+    "number": "37c",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7062041,
+    "longitude": 9.0016429
+  },
+  {
+    "street": "Via Lario",
+    "number": "39a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7063024,
+    "longitude": 9.0016907
+  },
+  {
+    "street": "Via Lario",
+    "number": "39b",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7063372,
+    "longitude": 9.0017095
+  },
+  {
+    "street": "Via Lario",
+    "number": "41a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7064457,
+    "longitude": 9.0017647
+  },
+  {
+    "street": "Via Lario",
+    "number": "41b",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7064841,
+    "longitude": 9.0017815
+  },
+  {
+    "street": "Via Lario",
+    "number": "41c",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7065047,
+    "longitude": 9.0017909
+  },
+  {
+    "street": "Via Lario",
+    "number": "41d",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7065548,
+    "longitude": 9.0018197
+  },
+  {
+    "street": "Via Lario",
+    "number": "41e",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7065693,
+    "longitude": 9.0018278
+  },
+  {
+    "street": "Via Lario",
+    "number": "41f",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7065978,
+    "longitude": 9.0018398
+  },
+  {
+    "street": "Via Lario",
+    "number": "45",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7068707,
+    "longitude": 9.0021573
+  },
+  {
+    "street": "Via Lario",
+    "number": "35",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7058091,
+    "longitude": 9.0013693
+  },
+  {
+    "street": "Via Lario",
+    "number": "33",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7056544,
+    "longitude": 9.0013099
+  },
+  {
+    "street": "Via Lario",
+    "number": "31",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7054054,
+    "longitude": 9.0011887
+  },
+  {
+    "street": "Via Trento",
+    "number": "41",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7157861,
+    "longitude": 8.9976096
+  },
+  {
+    "street": "Via Trento",
+    "number": "102",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7155061,
+    "longitude": 8.9982663
+  },
+  {
+    "street": "Via Trento",
+    "number": "78a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7153399,
+    "longitude": 8.9987216
+  },
+  {
+    "street": "Via Trento",
+    "number": "98",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7154673,
+    "longitude": 8.9987493
+  },
+  {
+    "street": "Via Trento",
+    "number": "80",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7156857,
+    "longitude": 8.9994248
+  },
+  {
+    "street": "Via Trento",
+    "number": "82",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7157465,
+    "longitude": 8.9995889
+  },
+  {
+    "street": "Via Trento",
+    "number": "94",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7157233,
+    "longitude": 8.9992484
+  },
+  {
+    "street": "Via Trento",
+    "number": "78",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7150403,
+    "longitude": 8.998948
+  },
+  {
+    "street": "Via Trento",
+    "number": "76",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7146824,
+    "longitude": 8.9993589
+  },
+  {
+    "street": "Via Trento",
+    "number": "74",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7145709,
+    "longitude": 8.9995377
+  },
+  {
+    "street": "Via Trento",
+    "number": "72",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7144621,
+    "longitude": 8.9996996
+  },
+  {
+    "street": "Via Trento",
+    "number": "68",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7144209,
+    "longitude": 8.9997647
+  },
+  {
+    "street": "Via Trento",
+    "number": "66",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7142505,
+    "longitude": 8.9999571
+  },
+  {
+    "street": "Via Trento",
+    "number": "64",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.714184,
+    "longitude": 9.0000738
+  },
+  {
+    "street": "Via Trento",
+    "number": "62",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7141142,
+    "longitude": 9.0003092
+  },
+  {
+    "street": "Via Trento",
+    "number": "60",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7078552,
+    "longitude": 9.0001647
+  },
+  {
+    "street": "Via Trento",
+    "number": "33",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7079744,
+    "longitude": 9.0000329
+  },
+  {
+    "street": "Via Trento",
+    "number": "31",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.707663,
+    "longitude": 8.9999895
+  },
+  {
+    "street": "Via Trento",
+    "number": "27",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7070855,
+    "longitude": 8.9998678
+  },
+  {
+    "street": "Via Trento",
+    "number": "29",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7072504,
+    "longitude": 8.999904
+  },
+  {
+    "street": "Via Trento",
+    "number": "58",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7074132,
+    "longitude": 9.000171
+  },
+  {
+    "street": "Via Trento",
+    "number": "25a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7067672,
+    "longitude": 8.9998298
+  },
+  {
+    "street": "Via Trento",
+    "number": "54",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7066759,
+    "longitude": 9.0000296
+  },
+  {
+    "street": "Via Trento",
+    "number": "23",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7063123,
+    "longitude": 8.9997829
+  },
+  {
+    "street": "Via Trento",
+    "number": "25",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7063963,
+    "longitude": 8.9998232
+  },
+  {
+    "street": "Via Trento",
+    "number": "21",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.706099,
+    "longitude": 8.9997556
+  },
+  {
+    "street": "Via Trento",
+    "number": "19a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7058404,
+    "longitude": 8.9997205
+  },
+  {
+    "street": "Via Trento",
+    "number": "17",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7053013,
+    "longitude": 8.9996749
+  },
+  {
+    "street": "Via Trento",
+    "number": "42",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7054537,
+    "longitude": 8.9998544
+  },
+  {
+    "street": "Via Trento",
+    "number": "36",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.705165,
+    "longitude": 8.9998282
+  },
+  {
+    "street": "Via Trento",
+    "number": "38",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7052124,
+    "longitude": 9.0005775
+  },
+  {
+    "street": "Via Trento",
+    "number": "40",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7052848,
+    "longitude": 9.0003508
+  },
+  {
+    "street": "Via Trento",
+    "number": "15",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7052092,
+    "longitude": 8.9991713
+  },
+  {
+    "street": "Via Trento",
+    "number": "13",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7050681,
+    "longitude": 8.9994959
+  },
+  {
+    "street": "Via Trento",
+    "number": "9",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7044752,
+    "longitude": 8.9995914
+  },
+  {
+    "street": "Via Trento",
+    "number": "11",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7047092,
+    "longitude": 8.9995774
+  },
+  {
+    "street": "Via Trento",
+    "number": "7b",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7043978,
+    "longitude": 8.9995284
+  },
+  {
+    "street": "Via Trento",
+    "number": "7a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7043236,
+    "longitude": 8.999512
+  },
+  {
+    "street": "Via Trento",
+    "number": "5",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7039559,
+    "longitude": 8.9993941
+  },
+  {
+    "street": "Via Trento",
+    "number": "3",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7028331,
+    "longitude": 8.9993264
+  },
+  {
+    "street": "Via Trento",
+    "number": "1",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7023328,
+    "longitude": 8.9992463
+  },
+  {
+    "street": "Via Trento",
+    "number": "32",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7044754,
+    "longitude": 8.9997991
+  },
+  {
+    "street": "Via Trento",
+    "number": "26",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7043458,
+    "longitude": 9.0001018
+  },
+  {
+    "street": "Via Trento",
+    "number": "30",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7044163,
+    "longitude": 9.0001696
+  },
+  {
+    "street": "Via Trento",
+    "number": "28",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7043264,
+    "longitude": 9.0004638
+  },
+  {
+    "street": "Via Trento",
+    "number": "24",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7039012,
+    "longitude": 9.0001351
+  },
+  {
+    "street": "Via Trento",
+    "number": "22",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7040438,
+    "longitude": 9.0003742
+  },
+  {
+    "street": "Via Trento",
+    "number": "20",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7038448,
+    "longitude": 9.0003822
+  },
+  {
+    "street": "Via Trento",
+    "number": "18",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7038455,
+    "longitude": 8.9999973
+  },
+  {
+    "street": "Via Trento",
+    "number": "16",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7038041,
+    "longitude": 8.9996796
+  },
+  {
+    "street": "Via Trento",
+    "number": "8",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7031115,
+    "longitude": 9.0000034
+  },
+  {
+    "street": "Via Trento",
+    "number": "10",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7031534,
+    "longitude": 8.9998835
+  },
+  {
+    "street": "Via Trento",
+    "number": "12",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7034692,
+    "longitude": 9.0000125
+  },
+  {
+    "street": "Via Trento",
+    "number": "14",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7035526,
+    "longitude": 8.9999928
+  },
+  {
+    "street": "Via Trento",
+    "number": "6",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7029826,
+    "longitude": 8.999548
+  },
+  {
+    "street": "Via Trento",
+    "number": "2",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7021157,
+    "longitude": 8.9994727
+  },
+  {
+    "street": "Via Trento",
+    "number": "4",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7024671,
+    "longitude": 8.9994996
+  },
+  {
+    "street": "Via Monte Generoso",
+    "number": "126",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7062481,
+    "longitude": 9.000051
+  },
+  {
+    "street": "Via Monte Generoso",
+    "number": "112",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7061912,
+    "longitude": 9.0003341
+  },
+  {
+    "street": "Via Monte Generoso",
+    "number": "91",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7060602,
+    "longitude": 9.0004164
+  },
+  {
+    "street": "Via Monte Generoso",
+    "number": "87",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7057043,
+    "longitude": 9.0002536
+  },
+  {
+    "street": "Via Monte Generoso",
+    "number": "94",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7061668,
+    "longitude": 9.0004783
+  },
+  {
+    "street": "Via Monte Generoso",
+    "number": "61",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7059522,
+    "longitude": 9.0007908
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "2",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7020215,
+    "longitude": 9.0061637
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "4",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7023083,
+    "longitude": 9.0062191
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "14",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7028538,
+    "longitude": 9.0063206
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "16",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7029987,
+    "longitude": 9.0068849
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "18",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7030329,
+    "longitude": 9.0064812
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "24",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7041817,
+    "longitude": 9.0066671
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "50",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7053455,
+    "longitude": 9.0059076
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "12",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7027225,
+    "longitude": 9.0071015
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "10",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7027861,
+    "longitude": 9.0072651
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "8",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7027646,
+    "longitude": 9.0075722
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "6",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7027296,
+    "longitude": 9.0063918
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "6a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.702695,
+    "longitude": 9.0067201
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "6b",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7026647,
+    "longitude": 9.0070121
+  },
+  {
+    "street": "Via Berina",
+    "number": "2",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.713066,
+    "longitude": 9.0014686
+  },
+  {
+    "street": "Via Berina",
+    "number": "4",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7127134,
+    "longitude": 9.0018983
+  },
+  {
+    "street": "Via Berina",
+    "number": "3",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7108294,
+    "longitude": 9.0039535
+  },
+  {
+    "street": "Via Berina",
+    "number": "8",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7104848,
+    "longitude": 9.0043202
+  },
+  {
+    "street": "Via Berina",
+    "number": "9",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7104119,
+    "longitude": 9.0042905
+  },
+  {
+    "street": "Via Berina",
+    "number": "5a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7112774,
+    "longitude": 9.0047692
+  },
+  {
+    "street": "Via Berina",
+    "number": "12",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7114842,
+    "longitude": 9.0050067
+  },
+  {
+    "street": "Via Como",
+    "number": "2",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7018978,
+    "longitude": 8.9995962
+  },
+  {
+    "street": "Via Como",
+    "number": "4",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7019453,
+    "longitude": 9.0000212
+  },
+  {
+    "street": "Via Como",
+    "number": "10a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7016043,
+    "longitude": 9.0007135
+  },
+  {
+    "street": "Via Como",
+    "number": "10b",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7013421,
+    "longitude": 9.000706
+  },
+  {
+    "street": "Via Como",
+    "number": "10c",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7013445,
+    "longitude": 9.0008413
+  },
+  {
+    "street": "Via Como",
+    "number": "10d",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7015881,
+    "longitude": 9.0009056
+  },
+  {
+    "street": "Via Como",
+    "number": "6",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.701932,
+    "longitude": 9.0001684
+  },
+  {
+    "street": "Via Como",
+    "number": "8",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7019164,
+    "longitude": 9.0004692
+  },
+  {
+    "street": "Via Como",
+    "number": "1a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7020857,
+    "longitude": 8.9998955
+  },
+  {
+    "street": "Via Como",
+    "number": "3",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7020073,
+    "longitude": 9.0009315
+  },
+  {
+    "street": "Via Como",
+    "number": "12",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7013101,
+    "longitude": 9.002841
+  },
+  {
+    "street": "Via Como",
+    "number": "16",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7016322,
+    "longitude": 9.0028585
+  },
+  {
+    "street": "Via Como",
+    "number": "5",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7020177,
+    "longitude": 9.0029842
+  },
+  {
+    "street": "Via Como",
+    "number": "7",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7020887,
+    "longitude": 9.0033794
+  },
+  {
+    "street": "Via Como",
+    "number": "3b",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.702095,
+    "longitude": 9.0028258
+  },
+  {
+    "street": "Via Como",
+    "number": "22",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7017487,
+    "longitude": 9.0038774
+  },
+  {
+    "street": "Via Como",
+    "number": "11",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7022315,
+    "longitude": 9.0041072
+  },
+  {
+    "street": "Via Como",
+    "number": "13",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7024508,
+    "longitude": 9.00419
+  },
+  {
+    "street": "Via Como",
+    "number": "17",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7018545,
+    "longitude": 9.0044693
+  },
+  {
+    "street": "Via Como",
+    "number": "23",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7018186,
+    "longitude": 9.0050862
+  },
+  {
+    "street": "Via Como",
+    "number": "25",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7018053,
+    "longitude": 9.0056226
+  },
+  {
+    "street": "Via Como",
+    "number": "25a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7017935,
+    "longitude": 9.0058136
+  },
+  {
+    "street": "Via Como",
+    "number": "25b",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7017914,
+    "longitude": 9.0058744
+  },
+  {
+    "street": "Via Como",
+    "number": "24",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7017284,
+    "longitude": 9.0041362
+  },
+  {
+    "street": "Via Como",
+    "number": "26",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7016795,
+    "longitude": 9.0048128
+  },
+  {
+    "street": "Via Como",
+    "number": "28",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7016748,
+    "longitude": 9.0052468
+  },
+  {
+    "street": "Via Como",
+    "number": "30",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7016136,
+    "longitude": 9.0063366
+  },
+  {
+    "street": "Via Como",
+    "number": "27",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.701757,
+    "longitude": 9.0065511
+  },
+  {
+    "street": "Via Como",
+    "number": "29",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7017194,
+    "longitude": 9.0069444
+  },
+  {
+    "street": "Via Como",
+    "number": "48",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7013588,
+    "longitude": 9.0073254
+  },
+  {
+    "street": "Via Como",
+    "number": "34",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7013026,
+    "longitude": 9.0072227
+  },
+  {
+    "street": "Via Como",
+    "number": "46",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7011028,
+    "longitude": 9.0072881
+  },
+  {
+    "street": "Via Como",
+    "number": "36",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7010873,
+    "longitude": 9.007197
+  },
+  {
+    "street": "Via Como",
+    "number": "38",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7008606,
+    "longitude": 9.0071643
+  },
+  {
+    "street": "Via Como",
+    "number": "44",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7008484,
+    "longitude": 9.0072449
+  },
+  {
+    "street": "Via Como",
+    "number": "42",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7007236,
+    "longitude": 9.007225
+  },
+  {
+    "street": "Via Como",
+    "number": "40",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7006869,
+    "longitude": 9.007134
+  },
+  {
+    "street": "Viale Europa",
+    "number": "1",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7014571,
+    "longitude": 9.0060476
+  },
+  {
+    "street": "Viale Europa",
+    "number": "2a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7014751,
+    "longitude": 9.0058237
+  },
+  {
+    "street": "Viale Europa",
+    "number": "2",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.701357,
+    "longitude": 9.0058016
+  },
+  {
+    "street": "Viale Europa",
+    "number": "9",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7002012,
+    "longitude": 9.0058059
+  },
+  {
+    "street": "Viale Europa",
+    "number": "13",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6993149,
+    "longitude": 9.0056458
+  },
+  {
+    "street": "Viale Europa",
+    "number": "15",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6985641,
+    "longitude": 9.0055417
+  },
+  {
+    "street": "Viale Europa",
+    "number": "19",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6984975,
+    "longitude": 9.0056519
+  },
+  {
+    "street": "Viale Europa",
+    "number": "21",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6973415,
+    "longitude": 9.0053498
+  },
+  {
+    "street": "Viale Europa",
+    "number": "14",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6987319,
+    "longitude": 9.0053404
+  },
+  {
+    "street": "Viale Europa",
+    "number": "12",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6994799,
+    "longitude": 9.0054641
+  },
+  {
+    "street": "Viale Europa",
+    "number": "4",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7009345,
+    "longitude": 9.0056719
+  },
+  {
+    "street": "Viale Europa",
+    "number": "8",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7008823,
+    "longitude": 9.0056672
+  },
+  {
+    "street": "Viale Europa",
+    "number": "7a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7002995,
+    "longitude": 9.0058358
+  },
+  {
+    "street": "Viale Europa",
+    "number": "11a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6997631,
+    "longitude": 9.0065163
+  },
+  {
+    "street": "Viale Europa",
+    "number": "11b",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.699747,
+    "longitude": 9.0062146
+  },
+  {
+    "street": "Viale Europa",
+    "number": "11c",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6997625,
+    "longitude": 9.0059757
+  },
+  {
+    "street": "Viale Europa",
+    "number": "11d",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6997767,
+    "longitude": 9.005758
+  },
+  {
+    "street": "Viale Europa",
+    "number": "3",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7009815,
+    "longitude": 9.0059565
+  },
+  {
+    "street": "Via del Cirimasco",
+    "number": "2",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6990396,
+    "longitude": 9.0058248
+  },
+  {
+    "street": "Via del Cirimasco",
+    "number": "4",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6990423,
+    "longitude": 9.0062862
+  },
+  {
+    "street": "Via del Cirimasco",
+    "number": "6",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6990477,
+    "longitude": 9.0064942
+  },
+  {
+    "street": "Via del Cirimasco",
+    "number": "3",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6991402,
+    "longitude": 9.0065911
+  },
+  {
+    "street": "Via del Cirimasco",
+    "number": "10",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6985051,
+    "longitude": 9.0069649
+  },
+  {
+    "street": "Via San Giorgio",
+    "number": "2",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.701076,
+    "longitude": 8.9986655
+  },
+  {
+    "street": "Via San Giorgio",
+    "number": "4",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7011229,
+    "longitude": 8.998512
+  },
+  {
+    "street": "Via San Giorgio",
+    "number": "6",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7011408,
+    "longitude": 8.9984254
+  },
+  {
+    "street": "Piazza Giovanni Piatti",
+    "number": "1",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7020653,
+    "longitude": 9.0011186
+  },
+  {
+    "street": "Via Pace",
+    "number": "17",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7063113,
+    "longitude": 9.0041978
+  },
+  {
+    "street": "Via del Cirimasco",
+    "number": "5a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6994643,
+    "longitude": 9.0070834
+  },
+  {
+    "street": "Via del Cirimasco",
+    "number": "5b",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6996433,
+    "longitude": 9.0071061
+  },
+  {
+    "street": "Via del Cirimasco",
+    "number": "5c",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6997938,
+    "longitude": 9.0071366
+  },
+  {
+    "street": "Via del Cirimasco",
+    "number": "5d",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.699967,
+    "longitude": 9.0071518
+  },
+  {
+    "street": "Via del Cirimasco",
+    "number": "5e",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7001196,
+    "longitude": 9.0071711
+  },
+  {
+    "street": "Via del Cirimasco",
+    "number": "5o",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7001033,
+    "longitude": 9.0073967
+  },
+  {
+    "street": "Via del Cirimasco",
+    "number": "5p",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6998996,
+    "longitude": 9.0073764
+  },
+  {
+    "street": "Via del Cirimasco",
+    "number": "5q",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6997179,
+    "longitude": 9.0073581
+  },
+  {
+    "street": "Via del Cirimasco",
+    "number": "5r",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6995567,
+    "longitude": 9.0073398
+  },
+  {
+    "street": "Via del Cirimasco",
+    "number": "5s",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6993927,
+    "longitude": 9.0073246
+  },
+  {
+    "street": "Via Como",
+    "number": "20a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7016167,
+    "longitude": 9.0036465
+  },
+  {
+    "street": "Via Como",
+    "number": "20g",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7011045,
+    "longitude": 9.0034971
+  },
+  {
+    "street": "Via Como",
+    "number": "20e",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7012967,
+    "longitude": 9.0035934
+  },
+  {
+    "street": "Via Como",
+    "number": "20c",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7014507,
+    "longitude": 9.0036201
+  },
+  {
+    "street": "Via Como",
+    "number": "18c",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7014537,
+    "longitude": 9.0034743
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "4a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6987608,
+    "longitude": 9.0019656
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "4b",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.698534,
+    "longitude": 9.0019575
+  },
+  {
+    "street": "Via San Giorgio",
+    "number": "8",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7012253,
+    "longitude": 8.9981861
+  },
+  {
+    "street": "Via San Giorgio",
+    "number": "10",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7012675,
+    "longitude": 8.9980048
+  },
+  {
+    "street": "Via Como",
+    "number": "3a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7020097,
+    "longitude": 9.0010268
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "6a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6977468,
+    "longitude": 8.9989086
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "6",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6977639,
+    "longitude": 8.998842
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "8",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6978058,
+    "longitude": 8.9986794
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "12",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6975289,
+    "longitude": 8.9988369
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "10",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.6974145,
+    "longitude": 8.9987883
+  },
+  {
+    "street": "Via Monte Bianco",
+    "number": "2",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.701331,
+    "longitude": 8.994219
+  },
+  {
+    "street": "Via Monte Bianco",
+    "number": "3",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7012777,
+    "longitude": 8.9940086
+  },
+  {
+    "street": "Via Monte Bianco",
+    "number": "1",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7010314,
+    "longitude": 8.9941488
+  },
+  {
+    "street": "Via Como",
+    "number": "32",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7016033,
+    "longitude": 9.0066788
+  },
+  {
+    "street": "Via Monte Generoso",
+    "number": "68",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7062431,
+    "longitude": 9.0008152
+  },
+  {
+    "street": "Via Monte Generoso",
+    "number": "68a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7063006,
+    "longitude": 9.0008304
+  },
+  {
+    "street": "Via Monte Generoso",
+    "number": "68b",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7063795,
+    "longitude": 9.0008517
+  },
+  {
+    "street": "Via Monte Generoso",
+    "number": "68c",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7064385,
+    "longitude": 9.0008692
+  },
+  {
+    "street": "Via Varese",
+    "number": "25",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.69219,
+    "longitude": 8.9939607
+  },
+  {
+    "street": "Via Ronchetto",
+    "number": "1a",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7076588,
+    "longitude": 9.0013444
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "10",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7002323,
+    "longitude": 9.0025901
+  },
+  {
+    "street": "Via Ronchetto",
+    "number": "3",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7076706,
+    "longitude": 9.0021355
+  },
+  {
+    "street": "Via Ronchetto",
+    "number": "1",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7076799,
+    "longitude": 9.001802
+  },
+  {
+    "street": "Via Ronchetto",
+    "number": "5",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7076376,
+    "longitude": 9.0024898
+  },
+  {
+    "street": "Piazza Santa Maria Nascente",
+    "number": "3",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7004383,
+    "longitude": 8.9970033
+  },
+  {
+    "street": "Via San Quirico",
+    "number": "3",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.696263,
+    "longitude": 8.9971789
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "19",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.700683,
+    "longitude": 9.0012584
+  },
+  {
+    "street": "Via dell'Arte",
+    "number": "5",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7018263,
+    "longitude": 8.9927424
+  },
+  {
+    "street": "Piazza Santa Maria Nascente",
+    "number": "5",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7004956,
+    "longitude": 8.9965837
+  },
+  {
+    "street": "Piazza Santa Maria Nascente",
+    "number": "7",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7008137,
+    "longitude": 8.99685
+  },
+  {
+    "street": "Via dell'Arte",
+    "number": "3",
+    "city": {
+      "name": "Fenegrò",
+      "istat": "013100"
+    },
+    "latitude": 45.7013182,
+    "longitude": 8.9926712
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "street": "Via Alessandro Volta",
+    "number": "8",
+    "city": {
+      "name": "Bregnano",
+      "istat": "013028"
+    },
+    "latitude": 45.7133849,
+    "longitude": 9.0553779
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "78",
+    "city": {
+      "name": "Bregnano",
+      "istat": "013028"
+    },
+    "latitude": 45.6885075,
+    "longitude": 9.0542417
+  },
+  {
+    "street": "Via delle Grigne",
+    "number": "2",
+    "city": {
+      "name": "Bregnano",
+      "istat": "013028"
+    },
+    "latitude": 45.6908393,
+    "longitude": 9.0586251
+  },
+  {
+    "street": "Via Milano",
+    "number": "57",
+    "city": {
+      "name": "Bregnano",
+      "istat": "013028"
+    },
+    "latitude": 45.6911403,
+    "longitude": 9.0587762
+  },
+  {
+    "street": "Via Beato Michele Carcano",
+    "number": "2",
+    "city": {
+      "name": "Bregnano",
+      "istat": "013028"
+    },
+    "latitude": 45.6940748,
+    "longitude": 9.0683891
+  },
+  {
+    "street": "Via per Lazzate",
+    "number": "29",
+    "city": {
+      "name": "Bregnano",
+      "istat": "013028"
+    },
+    "latitude": 45.6925456,
+    "longitude": 9.0610285
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "4",
+    "city": {
+      "name": "Bregnano",
+      "istat": "013028"
+    },
+    "latitude": 45.6961133,
+    "longitude": 9.0605185
+  },
+  {
+    "street": "Via Beato Michele Carcano",
+    "number": "5",
+    "city": {
+      "name": "Bregnano",
+      "istat": "013028"
+    },
+    "latitude": 45.6904717,
+    "longitude": 9.0599543
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "18",
+    "city": {
+      "name": "Bregnano",
+      "istat": "013028"
+    },
+    "latitude": 45.6984563,
+    "longitude": 9.0604542
+  },
+  {
+    "street": "Via Milano",
+    "number": "16",
+    "city": {
+      "name": "Bregnano",
+      "istat": "013028"
+    },
+    "latitude": 45.6940898,
+    "longitude": 9.0604032
+  },
+  {
+    "street": "Via Italia",
+    "number": "5",
+    "city": {
+      "name": "Bregnano",
+      "istat": "013028"
+    },
+    "latitude": 45.6966478,
+    "longitude": 9.0601191
+  },
+  {
+    "street": "Via Menegardo",
+    "number": "28",
+    "city": {
+      "name": "Bregnano",
+      "istat": "013028"
+    },
+    "latitude": 45.7047932,
+    "longitude": 9.0524275
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "27",
+    "city": {
+      "name": "Bregnano",
+      "istat": "013028"
+    },
+    "latitude": 45.7003342,
+    "longitude": 9.0582936
+  },
+  {
+    "street": "Via per Lazzate",
+    "number": "1",
+    "city": {
+      "name": "Bregnano",
+      "istat": "013028"
+    },
+    "latitude": 45.6935439,
+    "longitude": 9.0609443
+  },
+  {
+    "street": "Via Milano",
+    "number": "27",
+    "city": {
+      "name": "Bregnano",
+      "istat": "013028"
+    },
+    "latitude": 45.6939767,
+    "longitude": 9.060845
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "21",
+    "city": {
+      "name": "Bregnano",
+      "istat": "013028"
+    },
+    "latitude": 45.6968788,
+    "longitude": 9.064147
+  },
+  {
+    "street": "Via Beato Michele Carcano",
+    "number": "13",
+    "city": {
+      "name": "Bregnano",
+      "istat": "013028"
+    },
+    "latitude": 45.6912903,
+    "longitude": 9.0555968
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "8",
+    "city": {
+      "name": "Bregnano",
+      "istat": "013028"
+    },
+    "latitude": 45.6960373,
+    "longitude": 9.0538113
+  },
+  {
+    "street": "Via Resegone",
+    "number": "1",
+    "city": {
+      "name": "Bregnano",
+      "istat": "013028"
+    },
+    "latitude": 45.7061933,
+    "longitude": 9.0627986
+  },
+  {
+    "street": "Via Giosuè Carducci",
+    "number": "1",
+    "city": {
+      "name": "Bregnano",
+      "istat": "013028"
+    },
+    "latitude": 45.7139425,
+    "longitude": 9.0550436
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "3",
+    "city": {
+      "name": "Bregnano",
+      "istat": "013028"
+    },
+    "latitude": 45.6960439,
+    "longitude": 9.053471
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "16",
+    "city": {
+      "name": "Bregnano",
+      "istat": "013028"
+    },
+    "latitude": 45.6997596,
+    "longitude": 9.0584487
+  },
+  {
+    "street": "Via Beato Michele Carcano",
+    "number": "2/A",
+    "city": {
+      "name": "Bregnano",
+      "istat": "013028"
+    },
+    "latitude": 45.6924281,
+    "longitude": 9.0644458
+  },
+  {
+    "street": "Piazza Quattro Novembre",
+    "number": "9",
+    "city": {
+      "name": "Bregnano",
+      "istat": "013028"
+    },
+    "latitude": 45.6987528,
+    "longitude": 9.061161
+  },
+  {
+    "street": "Viale dello Sport",
+    "number": "1",
+    "city": {
+      "name": "Bregnano",
+      "istat": "013028"
+    },
+    "latitude": 45.6978338,
+    "longitude": 9.0560119
+  },
+  {
+    "street": "Via Resegone",
+    "number": "8",
+    "city": {
+      "name": "Bregnano",
+      "istat": "013028"
+    },
+    "latitude": 45.7061204,
+    "longitude": 9.0597625
+  }
+]

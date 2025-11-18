@@ -1,0 +1,62 @@
+[
+  {
+    "street": "Piazza Undici Febbraio",
+    "number": "1",
+    "city": {
+      "name": "Orino",
+      "istat": "012110"
+    },
+    "latitude": 45.8819047,
+    "longitude": 8.7156179
+  },
+  {
+    "street": "Via San Lorenzo",
+    "number": "62",
+    "city": {
+      "name": "Orino",
+      "istat": "012110"
+    },
+    "latitude": 45.8866992,
+    "longitude": 8.7202686
+  },
+  {
+    "street": "Via San Lorenzo",
+    "number": "23",
+    "city": {
+      "name": "Orino",
+      "istat": "012110"
+    },
+    "latitude": 45.8831368,
+    "longitude": 8.7179941
+  },
+  {
+    "street": "Piazza 11 Febbraio",
+    "number": "4",
+    "city": {
+      "name": "Orino",
+      "istat": "012110"
+    },
+    "latitude": 45.8819424,
+    "longitude": 8.7159716
+  },
+  {
+    "street": "Via Gesiola",
+    "number": "24",
+    "city": {
+      "name": "Orino",
+      "istat": "012110"
+    },
+    "latitude": 45.8821707,
+    "longitude": 8.7232032
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "15",
+    "city": {
+      "name": "Orino",
+      "istat": "012110"
+    },
+    "latitude": 45.8837733,
+    "longitude": 8.7164113
+  }
+]

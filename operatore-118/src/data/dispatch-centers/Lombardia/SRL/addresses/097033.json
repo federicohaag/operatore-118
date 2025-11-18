@@ -1,0 +1,22 @@
+[
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "12",
+    "city": {
+      "name": "Ello",
+      "istat": "097033"
+    },
+    "latitude": 45.7866538,
+    "longitude": 9.3664055
+  },
+  {
+    "street": "via Cadorna",
+    "number": "5",
+    "city": {
+      "name": "Ello",
+      "istat": "097033"
+    },
+    "latitude": 45.7882635,
+    "longitude": 9.3673983
+  }
+]

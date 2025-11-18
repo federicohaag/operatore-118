@@ -1,0 +1,172 @@
+[
+  {
+    "street": "Frazione Loro",
+    "number": "2",
+    "city": {
+      "name": "Stazzona",
+      "istat": "013218"
+    },
+    "latitude": 46.138031,
+    "longitude": 9.277923
+  },
+  {
+    "street": "Frazione Loro",
+    "number": "1",
+    "city": {
+      "name": "Stazzona",
+      "istat": "013218"
+    },
+    "latitude": 46.1378279,
+    "longitude": 9.2779991
+  },
+  {
+    "street": "Frazione Loro",
+    "number": "17",
+    "city": {
+      "name": "Stazzona",
+      "istat": "013218"
+    },
+    "latitude": 46.1384778,
+    "longitude": 9.2784499
+  },
+  {
+    "street": "Frazione Loro",
+    "number": "10",
+    "city": {
+      "name": "Stazzona",
+      "istat": "013218"
+    },
+    "latitude": 46.1385388,
+    "longitude": 9.2787043
+  },
+  {
+    "street": "Frazione Loro",
+    "number": "25 + 28",
+    "city": {
+      "name": "Stazzona",
+      "istat": "013218"
+    },
+    "latitude": 46.138191,
+    "longitude": 9.2785798
+  },
+  {
+    "street": "Frazione Loro",
+    "number": "39",
+    "city": {
+      "name": "Stazzona",
+      "istat": "013218"
+    },
+    "latitude": 46.1381616,
+    "longitude": 9.2787171
+  },
+  {
+    "street": "Frazione Loro",
+    "number": "33",
+    "city": {
+      "name": "Stazzona",
+      "istat": "013218"
+    },
+    "latitude": 46.1381953,
+    "longitude": 9.2788861
+  },
+  {
+    "street": "Frazione Loro",
+    "number": "29",
+    "city": {
+      "name": "Stazzona",
+      "istat": "013218"
+    },
+    "latitude": 46.1382703,
+    "longitude": 9.2787696
+  },
+  {
+    "street": "Frazione Loro",
+    "number": "48",
+    "city": {
+      "name": "Stazzona",
+      "istat": "013218"
+    },
+    "latitude": 46.1383965,
+    "longitude": 9.2788598
+  },
+  {
+    "street": "Frazione Loro",
+    "number": "56",
+    "city": {
+      "name": "Stazzona",
+      "istat": "013218"
+    },
+    "latitude": 46.138459,
+    "longitude": 9.2789478
+  },
+  {
+    "street": "Frazione Loro",
+    "number": "65",
+    "city": {
+      "name": "Stazzona",
+      "istat": "013218"
+    },
+    "latitude": 46.138459,
+    "longitude": 9.2791056
+  },
+  {
+    "street": "Frazione Loro",
+    "number": "20",
+    "city": {
+      "name": "Stazzona",
+      "istat": "013218"
+    },
+    "latitude": 46.1388378,
+    "longitude": 9.2791297
+  },
+  {
+    "street": "Frazione Loro",
+    "number": "36",
+    "city": {
+      "name": "Stazzona",
+      "istat": "013218"
+    },
+    "latitude": 46.1382684,
+    "longitude": 9.2789597
+  },
+  {
+    "street": "Frazione Loro",
+    "number": "3",
+    "city": {
+      "name": "Stazzona",
+      "istat": "013218"
+    },
+    "latitude": 46.1380937,
+    "longitude": 9.2779823
+  },
+  {
+    "street": "Frazione Loro",
+    "number": "4",
+    "city": {
+      "name": "Stazzona",
+      "istat": "013218"
+    },
+    "latitude": 46.1381337,
+    "longitude": 9.2780221
+  },
+  {
+    "street": "Frazione Loro",
+    "number": "35",
+    "city": {
+      "name": "Stazzona",
+      "istat": "013218"
+    },
+    "latitude": 46.138361,
+    "longitude": 9.2786277
+  },
+  {
+    "street": "Via Castanedo",
+    "number": "224",
+    "city": {
+      "name": "Stazzona",
+      "istat": "013218"
+    },
+    "latitude": 46.1384978,
+    "longitude": 9.279776
+  }
+]

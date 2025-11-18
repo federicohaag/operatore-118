@@ -1,0 +1,72 @@
+[
+  {
+    "street": "Via Roma",
+    "number": "1",
+    "city": {
+      "name": "Pagnona",
+      "istat": "097063"
+    },
+    "latitude": 46.059872,
+    "longitude": 9.4048623
+  },
+  {
+    "street": "Via Centrale",
+    "number": "15",
+    "city": {
+      "name": "Pagnona",
+      "istat": "097063"
+    },
+    "latitude": 46.0595065,
+    "longitude": 9.4031557
+  },
+  {
+    "street": "Via Municipio",
+    "number": "2",
+    "city": {
+      "name": "Pagnona",
+      "istat": "097063"
+    },
+    "latitude": 46.0596143,
+    "longitude": 9.4031643
+  },
+  {
+    "street": "Via Centrale",
+    "number": "1",
+    "city": {
+      "name": "Pagnona",
+      "istat": "097063"
+    },
+    "latitude": 46.0592475,
+    "longitude": 9.4038203
+  },
+  {
+    "street": "Via Legnone",
+    "number": "10",
+    "city": {
+      "name": "Pagnona",
+      "istat": "097063"
+    },
+    "latitude": 46.0598047,
+    "longitude": 9.4036155
+  },
+  {
+    "street": "Via Centrale",
+    "number": "8",
+    "city": {
+      "name": "Pagnona",
+      "istat": "097063"
+    },
+    "latitude": 46.059516,
+    "longitude": 9.4034409
+  },
+  {
+    "street": "Via Centrale",
+    "number": "21",
+    "city": {
+      "name": "Pagnona",
+      "istat": "097063"
+    },
+    "latitude": 46.0595855,
+    "longitude": 9.4027328
+  }
+]

@@ -1,0 +1,382 @@
+[
+  {
+    "street": "Via Provinciale per Bulgorello",
+    "number": "3",
+    "city": {
+      "name": "Vertemate con Minoprio",
+      "istat": "013242"
+    },
+    "latitude": 45.7259606,
+    "longitude": 9.0651057
+  },
+  {
+    "street": "Viale Raimondi",
+    "number": "2",
+    "city": {
+      "name": "Vertemate con Minoprio",
+      "istat": "013242"
+    },
+    "latitude": 45.7182938,
+    "longitude": 9.0751364
+  },
+  {
+    "street": "Via Provinciale per Bulgorello",
+    "number": "8",
+    "city": {
+      "name": "Vertemate con Minoprio",
+      "istat": "013242"
+    },
+    "latitude": 45.7257005,
+    "longitude": 9.0652074
+  },
+  {
+    "street": "Strada Statale dei Giovi",
+    "number": "26/28",
+    "city": {
+      "name": "Vertemate con Minoprio",
+      "istat": "013242"
+    },
+    "latitude": 45.7258051,
+    "longitude": 9.0674608
+  },
+  {
+    "street": "Strada Statale dei Giovi",
+    "number": "39",
+    "city": {
+      "name": "Vertemate con Minoprio",
+      "istat": "013242"
+    },
+    "latitude": 45.7200244,
+    "longitude": 9.0724455
+  },
+  {
+    "street": "Strada Statale dei Giovi",
+    "number": "19",
+    "city": {
+      "name": "Vertemate con Minoprio",
+      "istat": "013242"
+    },
+    "latitude": 45.7185357,
+    "longitude": 9.0742042
+  },
+  {
+    "street": "Via Provinciale per Bulgorello",
+    "number": "1",
+    "city": {
+      "name": "Vertemate con Minoprio",
+      "istat": "013242"
+    },
+    "latitude": 45.7244922,
+    "longitude": 9.0681297
+  },
+  {
+    "street": "Strada Statale dei Giovi",
+    "number": "14",
+    "city": {
+      "name": "Vertemate con Minoprio",
+      "istat": "013242"
+    },
+    "latitude": 45.7233469,
+    "longitude": 9.0704264
+  },
+  {
+    "street": "Strada Statale dei Giovi",
+    "number": "1",
+    "city": {
+      "name": "Vertemate con Minoprio",
+      "istat": "013242"
+    },
+    "latitude": 45.7248394,
+    "longitude": 9.0677249
+  },
+  {
+    "street": "Strada statale dei Giovi",
+    "number": "9",
+    "city": {
+      "name": "Vertemate con Minoprio",
+      "istat": "013242"
+    },
+    "latitude": 45.7156297,
+    "longitude": 9.0771396
+  },
+  {
+    "street": "Via Raimondi",
+    "number": "65",
+    "city": {
+      "name": "Vertemate con Minoprio",
+      "istat": "013242"
+    },
+    "latitude": 45.7210527,
+    "longitude": 9.0807978
+  },
+  {
+    "street": "Strada Statale dei Giovi",
+    "number": "31",
+    "city": {
+      "name": "Vertemate con Minoprio",
+      "istat": "013242"
+    },
+    "latitude": 45.7193316,
+    "longitude": 9.073049
+  },
+  {
+    "street": "Via Nazionale",
+    "number": "3",
+    "city": {
+      "name": "Vertemate con Minoprio",
+      "istat": "013242"
+    },
+    "latitude": 45.7231359,
+    "longitude": 9.0695444
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "66",
+    "city": {
+      "name": "Vertemate con Minoprio",
+      "istat": "013242"
+    },
+    "latitude": 45.7226559,
+    "longitude": 9.0807682
+  },
+  {
+    "street": "Via Mantica",
+    "number": "1",
+    "city": {
+      "name": "Vertemate con Minoprio",
+      "istat": "013242"
+    },
+    "latitude": 45.7217051,
+    "longitude": 9.0810052
+  },
+  {
+    "street": "Via Roma",
+    "number": "7",
+    "city": {
+      "name": "Vertemate con Minoprio",
+      "istat": "013242"
+    },
+    "latitude": 45.7285757,
+    "longitude": 9.0728086
+  },
+  {
+    "street": "Strada Statale dei Giovi",
+    "number": "9h",
+    "city": {
+      "name": "Vertemate con Minoprio",
+      "istat": "013242"
+    },
+    "latitude": 45.7173221,
+    "longitude": 9.0747597
+  },
+  {
+    "street": "Via Mantica",
+    "number": "10",
+    "city": {
+      "name": "Vertemate con Minoprio",
+      "istat": "013242"
+    },
+    "latitude": 45.7217579,
+    "longitude": 9.081469
+  },
+  {
+    "street": "Via Raimondi",
+    "number": "2",
+    "city": {
+      "name": "Vertemate con Minoprio",
+      "istat": "013242"
+    },
+    "latitude": 45.7184548,
+    "longitude": 9.0748598
+  },
+  {
+    "street": "Strada statale dei Giovi",
+    "number": "9a",
+    "city": {
+      "name": "Vertemate con Minoprio",
+      "istat": "013242"
+    },
+    "latitude": 45.7163012,
+    "longitude": 9.0753839
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "3",
+    "city": {
+      "name": "Vertemate con Minoprio",
+      "istat": "013242"
+    },
+    "latitude": 45.7243046,
+    "longitude": 9.0732843
+  },
+  {
+    "street": "Via cimitero",
+    "number": "1",
+    "city": {
+      "name": "Vertemate con Minoprio",
+      "istat": "013242"
+    },
+    "latitude": 45.7296558,
+    "longitude": 9.0728375
+  },
+  {
+    "street": "Via Mantica",
+    "number": "5",
+    "city": {
+      "name": "Vertemate con Minoprio",
+      "istat": "013242"
+    },
+    "latitude": 45.7218226,
+    "longitude": 9.081519
+  },
+  {
+    "street": "Strada Statale dei Giovi",
+    "number": "30",
+    "city": {
+      "name": "Vertemate con Minoprio",
+      "istat": "013242"
+    },
+    "latitude": 45.7266055,
+    "longitude": 9.0669902
+  },
+  {
+    "street": "Viale Raimondi",
+    "number": "11",
+    "city": {
+      "name": "Vertemate con Minoprio",
+      "istat": "013242"
+    },
+    "latitude": 45.7200427,
+    "longitude": 9.0774668
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "18",
+    "city": {
+      "name": "Vertemate con Minoprio",
+      "istat": "013242"
+    },
+    "latitude": 45.7186389,
+    "longitude": 9.0789542
+  },
+  {
+    "street": "Strada Statale dei Giovi",
+    "number": "38",
+    "city": {
+      "name": "Vertemate con Minoprio",
+      "istat": "013242"
+    },
+    "latitude": 45.7279972,
+    "longitude": 9.0656847
+  },
+  {
+    "street": "Via Provinciale per Bregnano",
+    "number": "2",
+    "city": {
+      "name": "Vertemate con Minoprio",
+      "istat": "013242"
+    },
+    "latitude": 45.7235157,
+    "longitude": 9.0677898
+  },
+  {
+    "street": "Strada Statale dei Giovi",
+    "number": "29",
+    "city": {
+      "name": "Vertemate con Minoprio",
+      "istat": "013242"
+    },
+    "latitude": 45.7192275,
+    "longitude": 9.0734307
+  },
+  {
+    "street": "Via Odescalchi",
+    "number": "2",
+    "city": {
+      "name": "Vertemate con Minoprio",
+      "istat": "013242"
+    },
+    "latitude": 45.7224441,
+    "longitude": 9.0713127
+  },
+  {
+    "street": "Strada Statale dei Giovi",
+    "number": "3",
+    "city": {
+      "name": "Vertemate con Minoprio",
+      "istat": "013242"
+    },
+    "latitude": 45.7227466,
+    "longitude": 9.0699971
+  },
+  {
+    "street": "Via Provinciale per Bulgorello",
+    "number": "20",
+    "city": {
+      "name": "Vertemate con Minoprio",
+      "istat": "013242"
+    },
+    "latitude": 45.7253947,
+    "longitude": 9.0642033
+  },
+  {
+    "street": "Via Montina",
+    "number": "50",
+    "city": {
+      "name": "Vertemate con Minoprio",
+      "istat": "013242"
+    },
+    "latitude": 45.7261685,
+    "longitude": 9.0987783
+  },
+  {
+    "street": "Strada Statale dei Giovi",
+    "number": "27",
+    "city": {
+      "name": "Vertemate con Minoprio",
+      "istat": "013242"
+    },
+    "latitude": 45.7185271,
+    "longitude": 9.0739255
+  },
+  {
+    "street": "Via Andrea Doria",
+    "number": "3",
+    "city": {
+      "name": "Vertemate con Minoprio",
+      "istat": "013242"
+    },
+    "latitude": 45.715148,
+    "longitude": 9.0775891
+  },
+  {
+    "street": "Via Provinciale per Bulgorello",
+    "number": "5",
+    "city": {
+      "name": "Vertemate con Minoprio",
+      "istat": "013242"
+    },
+    "latitude": 45.7241655,
+    "longitude": 9.0631589
+  },
+  {
+    "street": "Viale Raimondi",
+    "number": "54",
+    "city": {
+      "name": "Vertemate con Minoprio",
+      "istat": "013242"
+    },
+    "latitude": 45.7219074,
+    "longitude": 9.0829456
+  },
+  {
+    "street": "Strada Statale dei Giovi",
+    "number": "9a",
+    "city": {
+      "name": "Vertemate con Minoprio",
+      "istat": "013242"
+    },
+    "latitude": 45.7166933,
+    "longitude": 9.0742967
+  }
+]

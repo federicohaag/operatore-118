@@ -1,0 +1,122 @@
+[
+  {
+    "street": "Via G. Mauceri",
+    "number": "5",
+    "city": {
+      "name": "Venegono Inferiore",
+      "istat": "012136"
+    },
+    "latitude": 45.7377286,
+    "longitude": 8.8996118
+  },
+  {
+    "street": "Via Fratelli Kennedy",
+    "number": "41",
+    "city": {
+      "name": "Venegono Inferiore",
+      "istat": "012136"
+    },
+    "latitude": 45.7365404,
+    "longitude": 8.8827132
+  },
+  {
+    "street": "Via Fratelli Kennedy",
+    "number": "104",
+    "city": {
+      "name": "Venegono Inferiore",
+      "istat": "012136"
+    },
+    "latitude": 45.7409258,
+    "longitude": 8.8814348
+  },
+  {
+    "street": "Via Fratelli Kennedy",
+    "number": "106",
+    "city": {
+      "name": "Venegono Inferiore",
+      "istat": "012136"
+    },
+    "latitude": 45.7410802,
+    "longitude": 8.8812685
+  },
+  {
+    "street": "Via Fratelli Kennedy",
+    "number": "33",
+    "city": {
+      "name": "Venegono Inferiore",
+      "istat": "012136"
+    },
+    "latitude": 45.7351469,
+    "longitude": 8.8832437
+  },
+  {
+    "street": "Via Papa Pio Undicesimo",
+    "number": "32",
+    "city": {
+      "name": "Venegono Inferiore",
+      "istat": "012136"
+    },
+    "latitude": 45.7370867,
+    "longitude": 8.9063564
+  },
+  {
+    "street": "Via dell'Industria",
+    "number": "4",
+    "city": {
+      "name": "Venegono Inferiore",
+      "istat": "012136"
+    },
+    "latitude": 45.733822,
+    "longitude": 8.8807735
+  },
+  {
+    "street": "Via Fratelli Kennedy",
+    "number": "3",
+    "city": {
+      "name": "Venegono Inferiore",
+      "istat": "012136"
+    },
+    "latitude": 45.7273132,
+    "longitude": 8.8885982
+  },
+  {
+    "street": "Via Fratelli Kennedy",
+    "number": "8",
+    "city": {
+      "name": "Venegono Inferiore",
+      "istat": "012136"
+    },
+    "latitude": 45.7283901,
+    "longitude": 8.8886579
+  },
+  {
+    "street": "Via Fratelli Kennedy",
+    "number": "7",
+    "city": {
+      "name": "Venegono Inferiore",
+      "istat": "012136"
+    },
+    "latitude": 45.7286565,
+    "longitude": 8.8869146
+  },
+  {
+    "street": "Via Ventiquattro Maggio",
+    "number": "6",
+    "city": {
+      "name": "Venegono Inferiore",
+      "istat": "012136"
+    },
+    "latitude": 45.7387475,
+    "longitude": 8.8974266
+  },
+  {
+    "street": "Via Pianbosco",
+    "number": "29",
+    "city": {
+      "name": "Venegono Inferiore",
+      "istat": "012136"
+    },
+    "latitude": 45.7502486,
+    "longitude": 8.9258821
+  }
+]

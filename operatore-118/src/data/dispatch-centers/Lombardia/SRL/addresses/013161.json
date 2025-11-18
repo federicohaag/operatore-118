@@ -1,0 +1,482 @@
+[
+  {
+    "street": "Via Coatesa",
+    "number": "53",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.9113839,
+    "longitude": 9.1541412
+  },
+  {
+    "street": "Salita Municipio",
+    "number": "2",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.910316,
+    "longitude": 9.1561367
+  },
+  {
+    "street": "Via Roma",
+    "number": "21A",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.910597,
+    "longitude": 9.1559028
+  },
+  {
+    "street": "Via Roma",
+    "number": "23",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.9105422,
+    "longitude": 9.1559875
+  },
+  {
+    "street": "Via Roma",
+    "number": "10",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.9104203,
+    "longitude": 9.1556814
+  },
+  {
+    "street": "Via Roma",
+    "number": "18",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.909934,
+    "longitude": 9.1556034
+  },
+  {
+    "street": "Salita Municipio",
+    "number": "1",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.9100792,
+    "longitude": 9.1566249
+  },
+  {
+    "street": "Via Salita Municipio",
+    "number": "1",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.9106241,
+    "longitude": 9.1570906
+  },
+  {
+    "street": "Via della Castagna",
+    "number": "29",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.9107163,
+    "longitude": 9.1579149
+  },
+  {
+    "street": "Salita Municipio",
+    "number": "2A",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.9101574,
+    "longitude": 9.1562576
+  },
+  {
+    "street": "Via della Castagna",
+    "number": "30",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.9104962,
+    "longitude": 9.1576939
+  },
+  {
+    "street": "Via del Tivano",
+    "number": "34",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.9115014,
+    "longitude": 9.1592905
+  },
+  {
+    "street": "Via Salita Municipio",
+    "number": "13",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.9107562,
+    "longitude": 9.1570018
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "18",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.9138798,
+    "longitude": 9.1577949
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "29",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.9140158,
+    "longitude": 9.1576027
+  },
+  {
+    "street": "Via Coatesa",
+    "number": "29",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.9107931,
+    "longitude": 9.1547527
+  },
+  {
+    "street": "Via Coatesa",
+    "number": "49",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.9109926,
+    "longitude": 9.1544527
+  },
+  {
+    "street": "Via Coatesa",
+    "number": "51",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.9110666,
+    "longitude": 9.1544728
+  },
+  {
+    "street": "Via della Castagna",
+    "number": "143",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.9103963,
+    "longitude": 9.1577556
+  },
+  {
+    "street": "Via della Castagna",
+    "number": "22",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.9103376,
+    "longitude": 9.1575724
+  },
+  {
+    "street": "Via della Castagna",
+    "number": "142",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.9104234,
+    "longitude": 9.1576617
+  },
+  {
+    "street": "Via della Castagna",
+    "number": "18",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.9104355,
+    "longitude": 9.1574914
+  },
+  {
+    "street": "Via della Castagna",
+    "number": "13",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.9103697,
+    "longitude": 9.1577086
+  },
+  {
+    "street": "Via della Castagna",
+    "number": "24",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.9103631,
+    "longitude": 9.1577041
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "11",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.9138464,
+    "longitude": 9.1577871
+  },
+  {
+    "street": "Via Coatesa",
+    "number": "39",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.9107231,
+    "longitude": 9.1544641
+  },
+  {
+    "street": "Via Coatesa",
+    "number": "41",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.9106365,
+    "longitude": 9.1543695
+  },
+  {
+    "street": "Via Coatesa",
+    "number": "43",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.910613,
+    "longitude": 9.154326
+  },
+  {
+    "street": "Via Coatesa",
+    "number": "45",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.9106086,
+    "longitude": 9.1542683
+  },
+  {
+    "street": "Via Coatesa",
+    "number": "37",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.9108652,
+    "longitude": 9.1544829
+  },
+  {
+    "street": "Via Onzanigo",
+    "number": "11",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.9106519,
+    "longitude": 9.1600008
+  },
+  {
+    "street": "Via dei Monti",
+    "number": "14",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.8988921,
+    "longitude": 9.1555759
+  },
+  {
+    "street": "Via del Castello",
+    "number": "20",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.9086434,
+    "longitude": 9.1551782
+  },
+  {
+    "street": "Via del Castello",
+    "number": "24",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.9084048,
+    "longitude": 9.155043
+  },
+  {
+    "street": "Via del Castello",
+    "number": "26",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.9079203,
+    "longitude": 9.1556309
+  },
+  {
+    "street": "Via del Castello",
+    "number": "29",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.9092377,
+    "longitude": 9.1551916
+  },
+  {
+    "street": "Via del Castello",
+    "number": "31",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.9091759,
+    "longitude": 9.1551728
+  },
+  {
+    "street": "Salita Municipio",
+    "number": "10A",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.9099732,
+    "longitude": 9.1566751
+  },
+  {
+    "street": "Via della Castagna",
+    "number": "43",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.9108925,
+    "longitude": 9.15797
+  },
+  {
+    "street": "Salita Municipio",
+    "number": "9",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.9104995,
+    "longitude": 9.1568342
+  },
+  {
+    "street": "Via Pietro Binda",
+    "number": "9",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.9114257,
+    "longitude": 9.1571188
+  },
+  {
+    "street": "Via della Castagna",
+    "number": "40",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.9107157,
+    "longitude": 9.1581742
+  },
+  {
+    "street": "Via del Tivano",
+    "number": "41a",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.9134112,
+    "longitude": 9.1584433
+  },
+  {
+    "street": "Via della Castagna",
+    "number": "41",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.911045,
+    "longitude": 9.1577869
+  },
+  {
+    "street": "Via Coatesa",
+    "number": "26",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.9111438,
+    "longitude": 9.1545404
+  },
+  {
+    "street": "Via Coatesa",
+    "number": "14",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.9110252,
+    "longitude": 9.1550104
+  },
+  {
+    "street": "Via Coatesa",
+    "number": "28",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.9114505,
+    "longitude": 9.1544233
+  },
+  {
+    "street": "Via Coatesa",
+    "number": "13",
+    "city": {
+      "name": "Nesso",
+      "istat": "013161"
+    },
+    "latitude": 45.9105689,
+    "longitude": 9.155319
+  }
+]

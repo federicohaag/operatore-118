@@ -1,0 +1,112 @@
+[
+  {
+    "street": "Piazza Monte Grappa",
+    "number": "2",
+    "city": {
+      "name": "Mornago",
+      "istat": "012106"
+    },
+    "latitude": 45.7300545,
+    "longitude": 8.7346257
+  },
+  {
+    "street": "Via Stazione",
+    "number": "115",
+    "city": {
+      "name": "Mornago",
+      "istat": "012106"
+    },
+    "latitude": 45.7300691,
+    "longitude": 8.7321267
+  },
+  {
+    "street": "Via Stazione",
+    "number": "18",
+    "city": {
+      "name": "Mornago",
+      "istat": "012106"
+    },
+    "latitude": 45.7449368,
+    "longitude": 8.7523377
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "9",
+    "city": {
+      "name": "Mornago",
+      "istat": "012106"
+    },
+    "latitude": 45.7470279,
+    "longitude": 8.7516382
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "3",
+    "city": {
+      "name": "Mornago",
+      "istat": "012106"
+    },
+    "latitude": 45.7465595,
+    "longitude": 8.7517672
+  },
+  {
+    "street": "Via Stazione",
+    "number": "51",
+    "city": {
+      "name": "Mornago",
+      "istat": "012106"
+    },
+    "latitude": 45.7380942,
+    "longitude": 8.7463336
+  },
+  {
+    "street": "Via Santi Gaudenzio e Biagio",
+    "number": "3/5",
+    "city": {
+      "name": "Mornago",
+      "istat": "012106"
+    },
+    "latitude": 45.7340443,
+    "longitude": 8.7542038
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "13",
+    "city": {
+      "name": "Mornago",
+      "istat": "012106"
+    },
+    "latitude": 45.7462942,
+    "longitude": 8.7497557
+  },
+  {
+    "street": "Via San Carlo Borromeo",
+    "number": "12",
+    "city": {
+      "name": "Mornago",
+      "istat": "012106"
+    },
+    "latitude": 45.7453461,
+    "longitude": 8.7700635
+  },
+  {
+    "street": "Via Stazione",
+    "number": "116",
+    "city": {
+      "name": "Mornago",
+      "istat": "012106"
+    },
+    "latitude": 45.7313664,
+    "longitude": 8.7312983
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "1",
+    "city": {
+      "name": "Mornago",
+      "istat": "012106"
+    },
+    "latitude": 45.747457,
+    "longitude": 8.7520137
+  }
+]

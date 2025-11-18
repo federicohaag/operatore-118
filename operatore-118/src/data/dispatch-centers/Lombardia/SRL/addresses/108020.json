@@ -1,0 +1,792 @@
+[
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "11",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6444409,
+    "longitude": 9.0816225
+  },
+  {
+    "street": "Vicolo Molino",
+    "number": "1",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.644544,
+    "longitude": 9.0825158
+  },
+  {
+    "street": "Via Enrico Fermi",
+    "number": "12",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6450676,
+    "longitude": 9.0726598
+  },
+  {
+    "street": "Via Piave",
+    "number": "114",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6432658,
+    "longitude": 9.0941829
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "131",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6371193,
+    "longitude": 9.0799562
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "1",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6444492,
+    "longitude": 9.0821105
+  },
+  {
+    "street": "Via Cardinal Dalmazio Minoretti",
+    "number": "45",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6475606,
+    "longitude": 9.0814114
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "7a",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6438964,
+    "longitude": 9.0792089
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "25",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.644331,
+    "longitude": 9.0796925
+  },
+  {
+    "street": "Viale Rimembranze",
+    "number": "13",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6479029,
+    "longitude": 9.0784033
+  },
+  {
+    "street": "Viale Rimembranze",
+    "number": "15",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6478792,
+    "longitude": 9.0785574
+  },
+  {
+    "street": "Via Trento",
+    "number": "31",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.643254,
+    "longitude": 9.0799276
+  },
+  {
+    "street": "Via Piave",
+    "number": "7a",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6433203,
+    "longitude": 9.0836889
+  },
+  {
+    "street": "Viale Rimembranze",
+    "number": "4",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6463516,
+    "longitude": 9.0791354
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "63",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6458612,
+    "longitude": 9.0751924
+  },
+  {
+    "street": "Via Niccolò Paganini",
+    "number": "20",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6546234,
+    "longitude": 9.1192114
+  },
+  {
+    "street": "Via Montecatini",
+    "number": "23",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6404352,
+    "longitude": 9.1051801
+  },
+  {
+    "street": "Via delle Primule",
+    "number": "5",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6431467,
+    "longitude": 9.1048769
+  },
+  {
+    "street": "Via Montecatini",
+    "number": "17",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6415444,
+    "longitude": 9.1045649
+  },
+  {
+    "street": "Via delle Primule",
+    "number": "16",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6418664,
+    "longitude": 9.1049874
+  },
+  {
+    "street": "Via Francesco Petrarca",
+    "number": "6",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6383313,
+    "longitude": 9.0812317
+  },
+  {
+    "street": "Via Comasinella",
+    "number": "11",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.652172,
+    "longitude": 9.0663875
+  },
+  {
+    "street": "Via Piave",
+    "number": "131",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6455166,
+    "longitude": 9.1036694
+  },
+  {
+    "street": "Via Fornaci",
+    "number": "24/26",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6388053,
+    "longitude": 9.0843827
+  },
+  {
+    "street": "Via Guido Rossa",
+    "number": "5",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6377935,
+    "longitude": 9.0844126
+  },
+  {
+    "street": "Via Guido Rossa",
+    "number": "28",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6372284,
+    "longitude": 9.0851863
+  },
+  {
+    "street": "Via ai Campi",
+    "number": "1",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6370533,
+    "longitude": 9.0792219
+  },
+  {
+    "street": "Via Guido Rossa",
+    "number": "13",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.637586,
+    "longitude": 9.0850337
+  },
+  {
+    "street": "Via Fornaci",
+    "number": "30",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6388627,
+    "longitude": 9.0849502
+  },
+  {
+    "street": "Via Guido Rossa",
+    "number": "12",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6372562,
+    "longitude": 9.0841863
+  },
+  {
+    "street": "Via Guido Rossa",
+    "number": "3",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6375698,
+    "longitude": 9.0839413
+  },
+  {
+    "street": "Via Fornaci",
+    "number": "23",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6391779,
+    "longitude": 9.0842879
+  },
+  {
+    "street": "Via Fornaci",
+    "number": "27",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6391676,
+    "longitude": 9.0853631
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "9",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6380518,
+    "longitude": 9.08464
+  },
+  {
+    "street": "Via Fornaci",
+    "number": "22",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6388653,
+    "longitude": 9.0840502
+  },
+  {
+    "street": "Via del Galletto",
+    "number": "6",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6475279,
+    "longitude": 9.078145
+  },
+  {
+    "street": "Via del Galletto",
+    "number": "12",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6474272,
+    "longitude": 9.0771657
+  },
+  {
+    "street": "Via Fornaci",
+    "number": "25",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6391863,
+    "longitude": 9.0850682
+  },
+  {
+    "street": "Via Guido Rossa",
+    "number": "9",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6376343,
+    "longitude": 9.0847833
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "14",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6487827,
+    "longitude": 9.0745363
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "3",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6384086,
+    "longitude": 9.0840444
+  },
+  {
+    "street": "Via Guido Rossa",
+    "number": "16",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6372321,
+    "longitude": 9.0850394
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "5",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6384062,
+    "longitude": 9.0849958
+  },
+  {
+    "street": "Via del Galletto",
+    "number": "18",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6477461,
+    "longitude": 9.0762637
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "39a",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6419005,
+    "longitude": 9.0808943
+  },
+  {
+    "street": "Via Monte Bianco",
+    "number": "11",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6453791,
+    "longitude": 9.0999403
+  },
+  {
+    "street": "Via Monte Bianco",
+    "number": "1",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6444858,
+    "longitude": 9.100259
+  },
+  {
+    "street": "Via delle Viole",
+    "number": "8",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6439291,
+    "longitude": 9.1060319
+  },
+  {
+    "street": "Via delle Viole",
+    "number": "10",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6436812,
+    "longitude": 9.1061829
+  },
+  {
+    "street": "Via Montecatini",
+    "number": "31",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.63968,
+    "longitude": 9.1061901
+  },
+  {
+    "street": "Viale Rimembranze",
+    "number": "1",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6459729,
+    "longitude": 9.0787672
+  },
+  {
+    "street": "Viale Rimembranze",
+    "number": "2",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6462984,
+    "longitude": 9.0792462
+  },
+  {
+    "street": "Via Piave",
+    "number": "76",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6430507,
+    "longitude": 9.0893389
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "19",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6458251,
+    "longitude": 9.0782918
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "25",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6437828,
+    "longitude": 9.0797776
+  },
+  {
+    "street": "Via Alcide de Gasperi",
+    "number": "35",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6451002,
+    "longitude": 9.0888245
+  },
+  {
+    "street": "Via Cardinal Dalmazio Minoretti",
+    "number": "49",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6485546,
+    "longitude": 9.080509
+  },
+  {
+    "street": "Via delle Dalie",
+    "number": "9",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6447764,
+    "longitude": 9.104671
+  },
+  {
+    "street": "Via Bernardino Luini",
+    "number": "33",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6413014,
+    "longitude": 9.0639393
+  },
+  {
+    "street": "Via Montecatini",
+    "number": "21",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.641071,
+    "longitude": 9.1051732
+  },
+  {
+    "street": "Via Brasile",
+    "number": "8/a",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6420528,
+    "longitude": 9.0885095
+  },
+  {
+    "street": "Via Brasile",
+    "number": "8",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6423394,
+    "longitude": 9.0888011
+  },
+  {
+    "street": "Via Brasile",
+    "number": "17",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6419302,
+    "longitude": 9.0896294
+  },
+  {
+    "street": "Via Brasile",
+    "number": "19",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6419343,
+    "longitude": 9.0897439
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "21",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6470434,
+    "longitude": 9.0915357
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "5",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.647124,
+    "longitude": 9.0929899
+  },
+  {
+    "street": "Via Adige",
+    "number": "17",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6421297,
+    "longitude": 9.0925879
+  },
+  {
+    "street": "Via Adige",
+    "number": "11",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6417799,
+    "longitude": 9.0920519
+  },
+  {
+    "street": "Via Adige",
+    "number": "19",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6418012,
+    "longitude": 9.0926333
+  },
+  {
+    "street": "Via Alcide de Gasperi",
+    "number": "1",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6446626,
+    "longitude": 9.0844122
+  },
+  {
+    "street": "Piazza Papa Giovanni Ventitreesimo",
+    "number": "1",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6456502,
+    "longitude": 9.0830082
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "1",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6460198,
+    "longitude": 9.0815808
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "83",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6454619,
+    "longitude": 9.072634
+  },
+  {
+    "street": "Via Piave",
+    "number": "79",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6433704,
+    "longitude": 9.0932768
+  },
+  {
+    "street": "Via Luigi Galvani",
+    "number": "8",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6439048,
+    "longitude": 9.0744186
+  },
+  {
+    "street": "Via Domenico Padovan",
+    "number": "15a",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6528361,
+    "longitude": 9.0666679
+  },
+  {
+    "street": "Via Montecatini",
+    "number": "9",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6430286,
+    "longitude": 9.1034084
+  },
+  {
+    "street": "Via delle Primule",
+    "number": "25",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.641271,
+    "longitude": 9.1067003
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "17",
+    "city": {
+      "name": "Cogliate",
+      "istat": "108020"
+    },
+    "latitude": 45.6466233,
+    "longitude": 9.0791578
+  }
+]

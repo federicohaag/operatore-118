@@ -1,0 +1,42 @@
+[
+  {
+    "street": "Strada Provinciale N. 72",
+    "number": "1",
+    "city": {
+      "name": "Dorio",
+      "istat": "097032"
+    },
+    "latitude": 46.1128127,
+    "longitude": 9.316603
+  },
+  {
+    "street": "Strada Provinciale N. 72",
+    "number": "23",
+    "city": {
+      "name": "Dorio",
+      "istat": "097032"
+    },
+    "latitude": 46.1052735,
+    "longitude": 9.3209277
+  },
+  {
+    "street": "Strada Provinciale N. 72",
+    "number": "27",
+    "city": {
+      "name": "Dorio",
+      "istat": "097032"
+    },
+    "latitude": 46.1082198,
+    "longitude": 9.3193542
+  },
+  {
+    "street": "Via Piave",
+    "number": "31",
+    "city": {
+      "name": "Dorio",
+      "istat": "097032"
+    },
+    "latitude": 46.1114479,
+    "longitude": 9.3169983
+  }
+]

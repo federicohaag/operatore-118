@@ -1,0 +1,262 @@
+[
+  {
+    "street": "Via Emilio Cantaluppi",
+    "number": "279",
+    "city": {
+      "name": "Lipomo",
+      "istat": "013129"
+    },
+    "latitude": 45.7945497,
+    "longitude": 9.1219374
+  },
+  {
+    "street": "Via Emilio Cantaluppi",
+    "number": "656",
+    "city": {
+      "name": "Lipomo",
+      "istat": "013129"
+    },
+    "latitude": 45.7953918,
+    "longitude": 9.117624
+  },
+  {
+    "street": "Via Provinciale per Lecco",
+    "number": "739",
+    "city": {
+      "name": "Lipomo",
+      "istat": "013129"
+    },
+    "latitude": 45.7964747,
+    "longitude": 9.1240776
+  },
+  {
+    "street": "Via Provinciale per Lecco",
+    "number": "267",
+    "city": {
+      "name": "Lipomo",
+      "istat": "013129"
+    },
+    "latitude": 45.7971866,
+    "longitude": 9.1180245
+  },
+  {
+    "street": "Via Provinciale per Lecco",
+    "number": "934",
+    "city": {
+      "name": "Lipomo",
+      "istat": "013129"
+    },
+    "latitude": 45.7950794,
+    "longitude": 9.1254192
+  },
+  {
+    "street": "Via Provinciale per Lecco",
+    "number": "950",
+    "city": {
+      "name": "Lipomo",
+      "istat": "013129"
+    },
+    "latitude": 45.7950018,
+    "longitude": 9.1254582
+  },
+  {
+    "street": "Via Provinciale per Lecco",
+    "number": "695",
+    "city": {
+      "name": "Lipomo",
+      "istat": "013129"
+    },
+    "latitude": 45.7966427,
+    "longitude": 9.123918
+  },
+  {
+    "street": "Via Montorfano",
+    "number": "116",
+    "city": {
+      "name": "Lipomo",
+      "istat": "013129"
+    },
+    "latitude": 45.7938876,
+    "longitude": 9.1263352
+  },
+  {
+    "street": "Via Provinciale per Lecco",
+    "number": "984",
+    "city": {
+      "name": "Lipomo",
+      "istat": "013129"
+    },
+    "latitude": 45.7948452,
+    "longitude": 9.1261809
+  },
+  {
+    "street": "Via Provinciale per Lecco",
+    "number": "425",
+    "city": {
+      "name": "Lipomo",
+      "istat": "013129"
+    },
+    "latitude": 45.7974505,
+    "longitude": 9.1207343
+  },
+  {
+    "street": "Via Emilio Cantaluppi",
+    "number": "462",
+    "city": {
+      "name": "Lipomo",
+      "istat": "013129"
+    },
+    "latitude": 45.7949761,
+    "longitude": 9.119818
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "72",
+    "city": {
+      "name": "Lipomo",
+      "istat": "013129"
+    },
+    "latitude": 45.7942937,
+    "longitude": 9.124269
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "60",
+    "city": {
+      "name": "Lipomo",
+      "istat": "013129"
+    },
+    "latitude": 45.794353,
+    "longitude": 9.1242478
+  },
+  {
+    "street": "Via Caio Plinio",
+    "number": "378",
+    "city": {
+      "name": "Lipomo",
+      "istat": "013129"
+    },
+    "latitude": 45.7919962,
+    "longitude": 9.1243875
+  },
+  {
+    "street": "Via Gino Grassi",
+    "number": "361",
+    "city": {
+      "name": "Lipomo",
+      "istat": "013129"
+    },
+    "latitude": 45.7926603,
+    "longitude": 9.111707
+  },
+  {
+    "street": "Corte Grande",
+    "number": "39",
+    "city": {
+      "name": "Lipomo",
+      "istat": "013129"
+    },
+    "latitude": 45.7950055,
+    "longitude": 9.1201947
+  },
+  {
+    "street": "Via Emilio Cantaluppi",
+    "number": "412",
+    "city": {
+      "name": "Lipomo",
+      "istat": "013129"
+    },
+    "latitude": 45.7948005,
+    "longitude": 9.1203961
+  },
+  {
+    "street": "Via Provinciale per Lecco",
+    "number": "278",
+    "city": {
+      "name": "Lipomo",
+      "istat": "013129"
+    },
+    "latitude": 45.7968227,
+    "longitude": 9.118447
+  },
+  {
+    "street": "Via Don Ramiro Bianchi",
+    "number": "39",
+    "city": {
+      "name": "Lipomo",
+      "istat": "013129"
+    },
+    "latitude": 45.7941811,
+    "longitude": 9.1167688
+  },
+  {
+    "street": "Via Caio Plinio",
+    "number": "430",
+    "city": {
+      "name": "Lipomo",
+      "istat": "013129"
+    },
+    "latitude": 45.7917862,
+    "longitude": 9.1249761
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "182",
+    "city": {
+      "name": "Lipomo",
+      "istat": "013129"
+    },
+    "latitude": 45.7931933,
+    "longitude": 9.1244453
+  },
+  {
+    "street": "Via Provinciale per Lecco",
+    "number": "1",
+    "city": {
+      "name": "Lipomo",
+      "istat": "013129"
+    },
+    "latitude": 45.7976264,
+    "longitude": 9.1154699
+  },
+  {
+    "street": "Via Emilio Cantaluppi",
+    "number": "294",
+    "city": {
+      "name": "Lipomo",
+      "istat": "013129"
+    },
+    "latitude": 45.7948018,
+    "longitude": 9.1215599
+  },
+  {
+    "street": "Via Montorfano",
+    "number": "47",
+    "city": {
+      "name": "Lipomo",
+      "istat": "013129"
+    },
+    "latitude": 45.7944031,
+    "longitude": 9.1268874
+  },
+  {
+    "street": "Via Emilio Cantaluppi",
+    "number": "400",
+    "city": {
+      "name": "Lipomo",
+      "istat": "013129"
+    },
+    "latitude": 45.7946202,
+    "longitude": 9.1208088
+  },
+  {
+    "street": "Via Gino Grassi",
+    "number": "456",
+    "city": {
+      "name": "Lipomo",
+      "istat": "013129"
+    },
+    "latitude": 45.7942814,
+    "longitude": 9.1119148
+  }
+]

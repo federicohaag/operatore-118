@@ -1,0 +1,9722 @@
+[
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "13",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6724508,
+    "longitude": 9.4423308
+  },
+  {
+    "street": "Viale dei Municipi",
+    "number": "1",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6684476,
+    "longitude": 9.4397285
+  },
+  {
+    "street": "Via Principale",
+    "number": "2",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6684922,
+    "longitude": 9.4398558
+  },
+  {
+    "street": "Via dei Prati",
+    "number": "1",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6691585,
+    "longitude": 9.4376065
+  },
+  {
+    "street": "Via Principale",
+    "number": "20; 20A",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6674188,
+    "longitude": 9.4412838
+  },
+  {
+    "street": "Via Campestre",
+    "number": "5",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6688897,
+    "longitude": 9.4415434
+  },
+  {
+    "street": "Via Campestre",
+    "number": "4",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6688894,
+    "longitude": 9.4409245
+  },
+  {
+    "street": "Via Fontanile",
+    "number": "5",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6688708,
+    "longitude": 9.4398703
+  },
+  {
+    "street": "Via Angolare",
+    "number": "2",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6688492,
+    "longitude": 9.4405789
+  },
+  {
+    "street": "Piazza Roma",
+    "number": "2",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6690219,
+    "longitude": 9.4401651
+  },
+  {
+    "street": "Piazza Roma",
+    "number": "3",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6690021,
+    "longitude": 9.4402086
+  },
+  {
+    "street": "Via Fontanile",
+    "number": "9",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6691515,
+    "longitude": 9.4400504
+  },
+  {
+    "street": "Via Campestre",
+    "number": "6",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6688511,
+    "longitude": 9.4411196
+  },
+  {
+    "street": "Via Angolare",
+    "number": "3",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6690967,
+    "longitude": 9.4407052
+  },
+  {
+    "street": "Piazza Sant'Ambrogio",
+    "number": "2",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6695166,
+    "longitude": 9.4395657
+  },
+  {
+    "street": "Via Campestre",
+    "number": "2",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6689295,
+    "longitude": 9.4408437
+  },
+  {
+    "street": "Via Campestre",
+    "number": "8",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6688583,
+    "longitude": 9.4412169
+  },
+  {
+    "street": "Via Fontanile",
+    "number": "11",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6693452,
+    "longitude": 9.4401528
+  },
+  {
+    "street": "Via Fontanile",
+    "number": "13",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6694138,
+    "longitude": 9.4402187
+  },
+  {
+    "street": "Via Campestre",
+    "number": "3",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6688982,
+    "longitude": 9.4409913
+  },
+  {
+    "street": "Via Campestre",
+    "number": "1",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6689609,
+    "longitude": 9.4408584
+  },
+  {
+    "street": "Via Angolare",
+    "number": "1",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.668954,
+    "longitude": 9.4406138
+  },
+  {
+    "street": "Piazza Roma",
+    "number": "5",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6689822,
+    "longitude": 9.4402523
+  },
+  {
+    "street": "Piazza Roma",
+    "number": "1",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6690444,
+    "longitude": 9.4401158
+  },
+  {
+    "street": "Piazza Sant'Ambrogio",
+    "number": "1",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6691701,
+    "longitude": 9.4390376
+  },
+  {
+    "street": "Piazza Gnecchi Ruscone",
+    "number": "2",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6694814,
+    "longitude": 9.4389242
+  },
+  {
+    "street": "Via Fuggitiva",
+    "number": "2",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6648291,
+    "longitude": 9.4599611
+  },
+  {
+    "street": "Via Monsignore Benvenuto Sala",
+    "number": "2",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6712898,
+    "longitude": 9.4391472
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "47",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6717808,
+    "longitude": 9.4368908
+  },
+  {
+    "street": "Via Monsignore Benvenuto Sala",
+    "number": "7;5",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6713365,
+    "longitude": 9.4385511
+  },
+  {
+    "street": "Via Monsignore Benvenuto Sala",
+    "number": "9;11",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6716777,
+    "longitude": 9.4378645
+  },
+  {
+    "street": "Via Monsignore Benvenuto Sala",
+    "number": "72",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6719893,
+    "longitude": 9.4379401
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "51",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6720993,
+    "longitude": 9.4371188
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "45",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6717114,
+    "longitude": 9.4368238
+  },
+  {
+    "street": "Via Monsignore Benvenuto Sala",
+    "number": "66",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6715071,
+    "longitude": 9.4385001
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "35",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6723785,
+    "longitude": 9.4364162
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "31a",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.672577,
+    "longitude": 9.4365797
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "2",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6725193,
+    "longitude": 9.4372429
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "8",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6711941,
+    "longitude": 9.4366119
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "43",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6719344,
+    "longitude": 9.4362368
+  },
+  {
+    "street": "Via dei Maggioli",
+    "number": "4",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6716308,
+    "longitude": 9.4358773
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "4",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6726409,
+    "longitude": 9.4369766
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "57",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6722754,
+    "longitude": 9.4372878
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "1",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6725865,
+    "longitude": 9.4368908
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "12",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6714115,
+    "longitude": 9.4370276
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "22",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6729051,
+    "longitude": 9.4366738
+  },
+  {
+    "street": "Via dei Maggioli",
+    "number": "2",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6714677,
+    "longitude": 9.4361134
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "10",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6712054,
+    "longitude": 9.4368264
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "41",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6722023,
+    "longitude": 9.4362475
+  },
+  {
+    "street": "Via Famiglia Milla",
+    "number": "6",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6722811,
+    "longitude": 9.4341017
+  },
+  {
+    "street": "Via dei Maggioli",
+    "number": "22",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6730029,
+    "longitude": 9.4330396
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "61",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6727308,
+    "longitude": 9.4376311
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "21",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6711416,
+    "longitude": 9.4362716
+  },
+  {
+    "street": "Via dei Maggioli",
+    "number": "12",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6719663,
+    "longitude": 9.4353623
+  },
+  {
+    "street": "Via dei Maggioli",
+    "number": "26",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6725808,
+    "longitude": 9.4339488
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "18",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6730251,
+    "longitude": 9.4368425
+  },
+  {
+    "street": "Via Famiglia Milla",
+    "number": "4",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6722118,
+    "longitude": 9.4340373
+  },
+  {
+    "street": "Via Famiglia Milla",
+    "number": "2",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6720694,
+    "longitude": 9.4339059
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "28",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6728379,
+    "longitude": 9.4366125
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "5",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6709935,
+    "longitude": 9.4361107
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "31",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6725865,
+    "longitude": 9.4365047
+  },
+  {
+    "street": "Via dei Maggioli",
+    "number": "32",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.673143,
+    "longitude": 9.4331576
+  },
+  {
+    "street": "Via dei Maggioli",
+    "number": "6",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6717695,
+    "longitude": 9.4356494
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "6",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6711004,
+    "longitude": 9.4365208
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "3",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.670881,
+    "longitude": 9.4360141
+  },
+  {
+    "street": "Via Famiglia Milla",
+    "number": "10",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6728282,
+    "longitude": 9.4345631
+  },
+  {
+    "street": "Via dei Maggioli",
+    "number": "20",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6722645,
+    "longitude": 9.4346948
+  },
+  {
+    "street": "Via dei Maggioli",
+    "number": "43",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6721855,
+    "longitude": 9.4346918
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "25",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.672285,
+    "longitude": 9.4361992
+  },
+  {
+    "street": "Via Sernovella",
+    "number": "36",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6717845,
+    "longitude": 9.4338603
+  },
+  {
+    "street": "Via Sernovella",
+    "number": "32",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6716701,
+    "longitude": 9.4340829
+  },
+  {
+    "street": "Via Sernovella",
+    "number": "11a",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6709949,
+    "longitude": 9.4349408
+  },
+  {
+    "street": "Via Sernovella",
+    "number": "22",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6709598,
+    "longitude": 9.4353194
+  },
+  {
+    "street": "Via Sernovella",
+    "number": "24",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6712166,
+    "longitude": 9.4348527
+  },
+  {
+    "street": "Via Sernovella",
+    "number": "28;28B;30",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6714739,
+    "longitude": 9.4344571
+  },
+  {
+    "street": "Via Sernovella",
+    "number": "9",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6704201,
+    "longitude": 9.4361107
+  },
+  {
+    "street": "Via Sernovella",
+    "number": "11",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6708155,
+    "longitude": 9.4352577
+  },
+  {
+    "street": "Via Sernovella",
+    "number": "15-41",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.671329,
+    "longitude": 9.4343378
+  },
+  {
+    "street": "Via Sernovella",
+    "number": "43",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6715652,
+    "longitude": 9.4339059
+  },
+  {
+    "street": "Via Sernovella",
+    "number": "9a",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6706262,
+    "longitude": 9.4356708
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "68",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6701881,
+    "longitude": 9.4356615
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "72",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6703093,
+    "longitude": 9.4357979
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "56",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6698953,
+    "longitude": 9.4344236
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "4",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6701613,
+    "longitude": 9.4340454
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "44",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6703132,
+    "longitude": 9.4335304
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "38",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6705906,
+    "longitude": 9.4329859
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "42",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.669989,
+    "longitude": 9.4342358
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "52",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6697827,
+    "longitude": 9.4346623
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "8",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6702756,
+    "longitude": 9.4338067
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "46",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.670152,
+    "longitude": 9.4338603
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "14",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6704275,
+    "longitude": 9.4334765
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "10",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.670345,
+    "longitude": 9.4336431
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "2",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6699589,
+    "longitude": 9.4366977
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "64",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.669734,
+    "longitude": 9.4352014
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "58",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6694417,
+    "longitude": 9.4348608
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "18",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6705869,
+    "longitude": 9.4332997
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "16",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.669406,
+    "longitude": 9.4360946
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "22",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6706505,
+    "longitude": 9.4331359
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "17",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.669599,
+    "longitude": 9.4364672
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "10",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6695215,
+    "longitude": 9.4361539
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "18",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.669363,
+    "longitude": 9.4361777
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "62",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6696027,
+    "longitude": 9.4350563
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "6",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6696703,
+    "longitude": 9.4363226
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "12",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.669496,
+    "longitude": 9.4360517
+  },
+  {
+    "street": "Via Giosuè Carducci",
+    "number": "5;5A",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6688513,
+    "longitude": 9.4347213
+  },
+  {
+    "street": "Via Giosuè Carducci",
+    "number": "19",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6685354,
+    "longitude": 9.4353636
+  },
+  {
+    "street": "Via Giosuè Carducci",
+    "number": "7;7A",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6687819,
+    "longitude": 9.4348769
+  },
+  {
+    "street": "Via dei Prati",
+    "number": "22",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6678635,
+    "longitude": 9.4365181
+  },
+  {
+    "street": "Via Giosuè Carducci",
+    "number": "3;3A",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6689336,
+    "longitude": 9.4345496
+  },
+  {
+    "street": "Via dei Prati",
+    "number": "16",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6680059,
+    "longitude": 9.4364484
+  },
+  {
+    "street": "Via Giosuè Carducci",
+    "number": "23",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6681801,
+    "longitude": 9.4361348
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "1",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6639275,
+    "longitude": 9.436812
+  },
+  {
+    "street": "Via Sernovella",
+    "number": "14",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6704424,
+    "longitude": 9.4364536
+  },
+  {
+    "street": "Via Sernovella",
+    "number": "16",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6704781,
+    "longitude": 9.4363841
+  },
+  {
+    "street": "Via Sernovella",
+    "number": "2b",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6702268,
+    "longitude": 9.437446
+  },
+  {
+    "street": "Via Sernovella",
+    "number": "2c",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6703055,
+    "longitude": 9.4375211
+  },
+  {
+    "street": "Via Sernovella",
+    "number": "12",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6702869,
+    "longitude": 9.4367862
+  },
+  {
+    "street": "Via Sernovella",
+    "number": "2a",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6701483,
+    "longitude": 9.4373763
+  },
+  {
+    "street": "Via dei Prati",
+    "number": "27;29",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6671494,
+    "longitude": 9.4364913
+  },
+  {
+    "street": "Via dei Prati",
+    "number": "31",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6669676,
+    "longitude": 9.4363089
+  },
+  {
+    "street": "Via dei Prati",
+    "number": "37",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6667895,
+    "longitude": 9.4365423
+  },
+  {
+    "street": "Via dei Prati",
+    "number": "26",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6674437,
+    "longitude": 9.4361084
+  },
+  {
+    "street": "Via dei Prati",
+    "number": "19",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.667305,
+    "longitude": 9.436663
+  },
+  {
+    "street": "Via dei Prati",
+    "number": "7",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6677473,
+    "longitude": 9.436561
+  },
+  {
+    "street": "Via dei Prati",
+    "number": "15;17",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6673517,
+    "longitude": 9.4367139
+  },
+  {
+    "street": "Via dei Prati",
+    "number": "3",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6680266,
+    "longitude": 9.436848
+  },
+  {
+    "street": "Via dei Prati",
+    "number": "9",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6673517,
+    "longitude": 9.436156
+  },
+  {
+    "street": "Via dei Prati",
+    "number": "11",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6674192,
+    "longitude": 9.4367434
+  },
+  {
+    "street": "Via dei Prati",
+    "number": "28",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6673461,
+    "longitude": 9.4359978
+  },
+  {
+    "street": "Via dei Prati",
+    "number": "23;25",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6672449,
+    "longitude": 9.4365986
+  },
+  {
+    "street": "Via dei Prati",
+    "number": "34",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6672544,
+    "longitude": 9.4359253
+  },
+  {
+    "street": "Via dei Prati",
+    "number": "24",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.667618,
+    "longitude": 9.4362955
+  },
+  {
+    "street": "Via dei Prati",
+    "number": "33",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6670557,
+    "longitude": 9.4364028
+  },
+  {
+    "street": "Via dei Prati",
+    "number": "13",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6673931,
+    "longitude": 9.4367541
+  },
+  {
+    "street": "Via dei Prati",
+    "number": "10a",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6684778,
+    "longitude": 9.4367537
+  },
+  {
+    "street": "Via dei Prati",
+    "number": "8",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6686469,
+    "longitude": 9.4371296
+  },
+  {
+    "street": "Via dei Prati",
+    "number": "10b",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.66851,
+    "longitude": 9.436679
+  },
+  {
+    "street": "Via dei Prati",
+    "number": "12a",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6684951,
+    "longitude": 9.4365261
+  },
+  {
+    "street": "Via dei Prati",
+    "number": "10c",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6685433,
+    "longitude": 9.4366011
+  },
+  {
+    "street": "Via dei Prati",
+    "number": "12d; 12e",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6683696,
+    "longitude": 9.4368211
+  },
+  {
+    "street": "Via dei Prati",
+    "number": "12b",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6683958,
+    "longitude": 9.4364832
+  },
+  {
+    "street": "Via dei Prati",
+    "number": "6",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6689043,
+    "longitude": 9.4373721
+  },
+  {
+    "street": "Via Sant'Ambrogio",
+    "number": "14",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6690591,
+    "longitude": 9.4391357
+  },
+  {
+    "street": "Viale dei Municipi",
+    "number": "11",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.666166,
+    "longitude": 9.4380849
+  },
+  {
+    "street": "Via Principale",
+    "number": "3",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6685748,
+    "longitude": 9.439991
+  },
+  {
+    "street": "Via Principale",
+    "number": "27",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6678048,
+    "longitude": 9.4411988
+  },
+  {
+    "street": "Via Principale",
+    "number": "20c",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6674954,
+    "longitude": 9.4415143
+  },
+  {
+    "street": "Via dei Tigli",
+    "number": "12",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6675547,
+    "longitude": 9.4405405
+  },
+  {
+    "street": "Via Principale",
+    "number": "1",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6671046,
+    "longitude": 9.4425902
+  },
+  {
+    "street": "Via Resegone",
+    "number": "1",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6645137,
+    "longitude": 9.4468111
+  },
+  {
+    "street": "Via Spluga",
+    "number": "1",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6657625,
+    "longitude": 9.4459935
+  },
+  {
+    "street": "Via Resegone",
+    "number": "10",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6645892,
+    "longitude": 9.4469194
+  },
+  {
+    "street": "Via Resegone",
+    "number": "11",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6648751,
+    "longitude": 9.4467122
+  },
+  {
+    "street": "Via Spluga",
+    "number": "11",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6659373,
+    "longitude": 9.4461922
+  },
+  {
+    "street": "Via Grigna",
+    "number": "12",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6644735,
+    "longitude": 9.4480843
+  },
+  {
+    "street": "Via Resegone",
+    "number": "12",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6646596,
+    "longitude": 9.4468452
+  },
+  {
+    "street": "Via San Floriano",
+    "number": "12",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6681039,
+    "longitude": 9.4428189
+  },
+  {
+    "street": "Via Spluga",
+    "number": "13",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6659794,
+    "longitude": 9.4463311
+  },
+  {
+    "street": "Via Resegone",
+    "number": "14",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6646218,
+    "longitude": 9.447013
+  },
+  {
+    "street": "Via Spluga",
+    "number": "15",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6660237,
+    "longitude": 9.4462755
+  },
+  {
+    "street": "Via Grigna",
+    "number": "16",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6646996,
+    "longitude": 9.4480884
+  },
+  {
+    "street": "Via Grigna",
+    "number": "17",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6639979,
+    "longitude": 9.4479324
+  },
+  {
+    "street": "Via per Cornate",
+    "number": "19",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6652784,
+    "longitude": 9.4451762
+  },
+  {
+    "street": "Via Spluga",
+    "number": "19",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6660102,
+    "longitude": 9.4462426
+  },
+  {
+    "street": "Via Spluga",
+    "number": "2",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6657256,
+    "longitude": 9.4448741
+  },
+  {
+    "street": "Via Grigna",
+    "number": "20",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6648434,
+    "longitude": 9.4480907
+  },
+  {
+    "street": "Via per Cornate",
+    "number": "21",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6651337,
+    "longitude": 9.4453777
+  },
+  {
+    "street": "Via Spluga",
+    "number": "21",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6660211,
+    "longitude": 9.4462566
+  },
+  {
+    "street": "Via per Cornate",
+    "number": "23",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6648505,
+    "longitude": 9.4459151
+  },
+  {
+    "street": "Via Spluga",
+    "number": "23",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6660112,
+    "longitude": 9.4463186
+  },
+  {
+    "street": "Via Grigna",
+    "number": "24",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6651601,
+    "longitude": 9.4480857
+  },
+  {
+    "street": "Via Spluga",
+    "number": "25",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.665941,
+    "longitude": 9.4463057
+  },
+  {
+    "street": "Via Spluga",
+    "number": "27",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6659288,
+    "longitude": 9.4462837
+  },
+  {
+    "street": "Via Grigna",
+    "number": "28",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6650239,
+    "longitude": 9.4477618
+  },
+  {
+    "street": "Via per Cornate",
+    "number": "29",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6643451,
+    "longitude": 9.4465066
+  },
+  {
+    "street": "Via Spluga",
+    "number": "29",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.665866,
+    "longitude": 9.4461971
+  },
+  {
+    "street": "Via Principale",
+    "number": "2a",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6671202,
+    "longitude": 9.4422117
+  },
+  {
+    "street": "Via San Floriano",
+    "number": "3",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6679095,
+    "longitude": 9.4423737
+  },
+  {
+    "street": "Via Spluga",
+    "number": "3",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6658417,
+    "longitude": 9.4460883
+  },
+  {
+    "street": "Via Grigna",
+    "number": "30",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.665026,
+    "longitude": 9.4476876
+  },
+  {
+    "street": "Via per Cornate",
+    "number": "31",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6641867,
+    "longitude": 9.4467335
+  },
+  {
+    "street": "Via Spluga",
+    "number": "31",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6658357,
+    "longitude": 9.446165
+  },
+  {
+    "street": "Via per Cornate",
+    "number": "33",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6638744,
+    "longitude": 9.4472003
+  },
+  {
+    "street": "Via Spluga",
+    "number": "33",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6658119,
+    "longitude": 9.4461373
+  },
+  {
+    "street": "Via Spluga",
+    "number": "35",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.665796,
+    "longitude": 9.4461194
+  },
+  {
+    "street": "Via Spluga",
+    "number": "37",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6657713,
+    "longitude": 9.4460946
+  },
+  {
+    "street": "Via Grigna",
+    "number": "38",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6657594,
+    "longitude": 9.4473581
+  },
+  {
+    "street": "Via Spluga",
+    "number": "39",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6657095,
+    "longitude": 9.4460346
+  },
+  {
+    "street": "Via Resegone",
+    "number": "4",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6642405,
+    "longitude": 9.4470394
+  },
+  {
+    "street": "Via Spluga",
+    "number": "4",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6657239,
+    "longitude": 9.4456389
+  },
+  {
+    "street": "Via Grigna",
+    "number": "40",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6655288,
+    "longitude": 9.4473247
+  },
+  {
+    "street": "Via Grigna",
+    "number": "46",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.66543,
+    "longitude": 9.4473078
+  },
+  {
+    "street": "Via Grigna",
+    "number": "48",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6650322,
+    "longitude": 9.4472684
+  },
+  {
+    "street": "Via Principale",
+    "number": "4;6;7",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6668219,
+    "longitude": 9.4426576
+  },
+  {
+    "street": "Via Grigna",
+    "number": "5",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6639957,
+    "longitude": 9.4476453
+  },
+  {
+    "street": "Via Principale",
+    "number": "5",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6666098,
+    "longitude": 9.443272
+  },
+  {
+    "street": "Via Resegone",
+    "number": "5",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6646235,
+    "longitude": 9.4467099
+  },
+  {
+    "street": "Via Spluga",
+    "number": "5",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6659118,
+    "longitude": 9.4461555
+  },
+  {
+    "street": "Via Resegone",
+    "number": "54",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6651375,
+    "longitude": 9.4468188
+  },
+  {
+    "street": "Via San Floriano",
+    "number": "6",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6677017,
+    "longitude": 9.4424969
+  },
+  {
+    "street": "Via Spluga",
+    "number": "6",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6656439,
+    "longitude": 9.4458379
+  },
+  {
+    "street": "Via Principale",
+    "number": "7",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6671953,
+    "longitude": 9.4436426
+  },
+  {
+    "street": "Via Resegone",
+    "number": "7",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6646812,
+    "longitude": 9.4466843
+  },
+  {
+    "street": "Via Spluga",
+    "number": "7",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6658564,
+    "longitude": 9.4461034
+  },
+  {
+    "street": "Via Grigna",
+    "number": "8",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6640529,
+    "longitude": 9.44807
+  },
+  {
+    "street": "Via Resegone",
+    "number": "8",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6644131,
+    "longitude": 9.4470235
+  },
+  {
+    "street": "Via San Floriano",
+    "number": "8",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6678362,
+    "longitude": 9.4426167
+  },
+  {
+    "street": "Via Principale",
+    "number": "9",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6673105,
+    "longitude": 9.4438635
+  },
+  {
+    "street": "Via Resegone",
+    "number": "9",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6647856,
+    "longitude": 9.4466998
+  },
+  {
+    "street": "Via Spluga",
+    "number": "9",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6659201,
+    "longitude": 9.4461646
+  },
+  {
+    "street": "Via per Cornate",
+    "number": "20",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6639323,
+    "longitude": 9.446819
+  },
+  {
+    "street": "Via per Cornate",
+    "number": "16",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6648137,
+    "longitude": 9.4456376
+  },
+  {
+    "street": "Via per Cornate",
+    "number": "18",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6640325,
+    "longitude": 9.4467403
+  },
+  {
+    "street": "Via San Floriano",
+    "number": "2",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6675259,
+    "longitude": 9.4423868
+  },
+  {
+    "street": "Via Sant'Ambrogio",
+    "number": "11",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6689191,
+    "longitude": 9.4391394
+  },
+  {
+    "street": "Via Sant'Ambrogio",
+    "number": "5",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6688525,
+    "longitude": 9.4393003
+  },
+  {
+    "street": "Via Sant'Ambrogio",
+    "number": "9",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6688956,
+    "longitude": 9.4391937
+  },
+  {
+    "street": "Via Sant'Ambrogio",
+    "number": "13",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6689371,
+    "longitude": 9.4390972
+  },
+  {
+    "street": "Via Sant'Ambrogio",
+    "number": "7",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6688767,
+    "longitude": 9.4392522
+  },
+  {
+    "street": "Via Sant'Ambrogio",
+    "number": "3",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6688269,
+    "longitude": 9.4393473
+  },
+  {
+    "street": "Via Papa Giovanni XXIII",
+    "number": "1",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6658602,
+    "longitude": 9.4423517
+  },
+  {
+    "street": "Via dei Tigli",
+    "number": "1",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6674801,
+    "longitude": 9.4395717
+  },
+  {
+    "street": "Via Papa Giovanni XXIII",
+    "number": "10",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6663412,
+    "longitude": 9.4422018
+  },
+  {
+    "street": "Via Fedela Zamparelli",
+    "number": "11",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6658343,
+    "longitude": 9.4354144
+  },
+  {
+    "street": "Via Papa Giovanni XXIII",
+    "number": "11",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6660898,
+    "longitude": 9.4418571
+  },
+  {
+    "street": "Via Papa Giovanni XXIII",
+    "number": "12",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6663551,
+    "longitude": 9.4415247
+  },
+  {
+    "street": "Viale dei Municipi",
+    "number": "12",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6662737,
+    "longitude": 9.4379215
+  },
+  {
+    "street": "Via Papa Giovanni XXIII",
+    "number": "13",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.666113,
+    "longitude": 9.4418453
+  },
+  {
+    "street": "Via Papa Giovanni XXIII",
+    "number": "14",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6663447,
+    "longitude": 9.4415495
+  },
+  {
+    "street": "Viale dei Municipi",
+    "number": "14",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6661486,
+    "longitude": 9.4378271
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "15",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6663345,
+    "longitude": 9.4347619
+  },
+  {
+    "street": "Via Papa Giovanni XXIII",
+    "number": "15",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6663674,
+    "longitude": 9.4410621
+  },
+  {
+    "street": "Via Papa Giovanni XXIII",
+    "number": "16",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6667092,
+    "longitude": 9.4412348
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "17",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6663456,
+    "longitude": 9.4347733
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "2",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6678256,
+    "longitude": 9.443329
+  },
+  {
+    "street": "Via Fedela Zamparelli",
+    "number": "2",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6656274,
+    "longitude": 9.4370425
+  },
+  {
+    "street": "Via Papa Giovanni XXIII",
+    "number": "20",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6667765,
+    "longitude": 9.4412534
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "21",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6664453,
+    "longitude": 9.4348992
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "23",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6664569,
+    "longitude": 9.4349084
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "25",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6665238,
+    "longitude": 9.4350032
+  },
+  {
+    "street": "Via Fedela Zamparelli",
+    "number": "25",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6662322,
+    "longitude": 9.4342983
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "27",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6665383,
+    "longitude": 9.4350108
+  },
+  {
+    "street": "Via Fedela Zamparelli",
+    "number": "27",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6662625,
+    "longitude": 9.4342282
+  },
+  {
+    "street": "Via Papa Giovanni XXIII",
+    "number": "3",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6658998,
+    "longitude": 9.4421452
+  },
+  {
+    "street": "Via dei Platani",
+    "number": "3",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6674955,
+    "longitude": 9.4378624
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "31",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6666138,
+    "longitude": 9.4351079
+  },
+  {
+    "street": "Via Fedela Zamparelli",
+    "number": "31",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6664838,
+    "longitude": 9.4336799
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "35",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6667223,
+    "longitude": 9.4352605
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "37",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6667342,
+    "longitude": 9.4352668
+  },
+  {
+    "street": "Via Fedela Zamparelli",
+    "number": "37",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6664225,
+    "longitude": 9.4338227
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "4",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6677071,
+    "longitude": 9.4432223
+  },
+  {
+    "street": "Via Papa Giovanni XXIII",
+    "number": "4",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6659631,
+    "longitude": 9.4427945
+  },
+  {
+    "street": "Via dei Platani",
+    "number": "4",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6675447,
+    "longitude": 9.4380418
+  },
+  {
+    "street": "Via Fedela Zamparelli",
+    "number": "41",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6663439,
+    "longitude": 9.4332283
+  },
+  {
+    "street": "Viale dei Municipi",
+    "number": "42",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6651159,
+    "longitude": 9.4372973
+  },
+  {
+    "street": "Viale dei Municipi",
+    "number": "19",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6658239,
+    "longitude": 9.4378245
+  },
+  {
+    "street": "Viale dei Municipi",
+    "number": "46",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6660868,
+    "longitude": 9.4377749
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "5",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6681443,
+    "longitude": 9.443946
+  },
+  {
+    "street": "Via Papa Giovanni XXIII",
+    "number": "5",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6658919,
+    "longitude": 9.4421666
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "56",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6679326,
+    "longitude": 9.433317
+  },
+  {
+    "street": "Via Papa Giovanni XXIII",
+    "number": "6",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6659503,
+    "longitude": 9.4428269
+  },
+  {
+    "street": "Via Fedela Zamparelli",
+    "number": "7",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6656713,
+    "longitude": 9.4358388
+  },
+  {
+    "street": "Via Papa Giovanni XXIII",
+    "number": "7",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6659082,
+    "longitude": 9.4421246
+  },
+  {
+    "street": "Via Papa Giovanni XXIII",
+    "number": "8",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6661369,
+    "longitude": 9.4424646
+  },
+  {
+    "street": "Via Fedela Zamparelli",
+    "number": "9",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6657542,
+    "longitude": 9.435624
+  },
+  {
+    "street": "Via Papa Giovanni XXIII",
+    "number": "9",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6660849,
+    "longitude": 9.4418857
+  },
+  {
+    "street": "Via dei Tigli",
+    "number": "9",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.666669,
+    "longitude": 9.4399347
+  },
+  {
+    "street": "Via dei Tigli",
+    "number": "11",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6666549,
+    "longitude": 9.4401598
+  },
+  {
+    "street": "Via Resegone",
+    "number": "6",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6643531,
+    "longitude": 9.4470207
+  },
+  {
+    "street": "Via Grigna",
+    "number": "4",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6638882,
+    "longitude": 9.4480574
+  },
+  {
+    "street": "Via Sant'Ambrogio",
+    "number": "10",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6689623,
+    "longitude": 9.4393219
+  },
+  {
+    "street": "Via Principale",
+    "number": "11",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6683898,
+    "longitude": 9.4402462
+  },
+  {
+    "street": "Via Principale",
+    "number": "13",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6683391,
+    "longitude": 9.4403151
+  },
+  {
+    "street": "Via Principale",
+    "number": "15",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6682747,
+    "longitude": 9.4404051
+  },
+  {
+    "street": "Via Sant'Ambrogio",
+    "number": "15",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6689524,
+    "longitude": 9.4390616
+  },
+  {
+    "street": "Via Principale",
+    "number": "17",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6682163,
+    "longitude": 9.4404866
+  },
+  {
+    "street": "Via Sant'Ambrogio",
+    "number": "17",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6689898,
+    "longitude": 9.4389599
+  },
+  {
+    "street": "Via Principale",
+    "number": "20b",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6673689,
+    "longitude": 9.4416436
+  },
+  {
+    "street": "Via Principale",
+    "number": "21",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6681337,
+    "longitude": 9.4406218
+  },
+  {
+    "street": "Via Principale",
+    "number": "22",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6673102,
+    "longitude": 9.4419046
+  },
+  {
+    "street": "Via Principale",
+    "number": "25a",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6680721,
+    "longitude": 9.4410025
+  },
+  {
+    "street": "Via Principale",
+    "number": "29",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6676541,
+    "longitude": 9.441497
+  },
+  {
+    "street": "Viale dei Municipi",
+    "number": "3",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6683653,
+    "longitude": 9.4396702
+  },
+  {
+    "street": "Via Principale",
+    "number": "33",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6674955,
+    "longitude": 9.4419738
+  },
+  {
+    "street": "Via Sant'Ambrogio",
+    "number": "4",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6687903,
+    "longitude": 9.4396577
+  },
+  {
+    "street": "Via Sant'Ambrogio",
+    "number": "6",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6688332,
+    "longitude": 9.4395739
+  },
+  {
+    "street": "Via Principale",
+    "number": "8",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.668348,
+    "longitude": 9.4399621
+  },
+  {
+    "street": "Via Sant'Ambrogio",
+    "number": "8",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6689348,
+    "longitude": 9.4393743
+  },
+  {
+    "street": "Viale dei Municipi",
+    "number": "9",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6678562,
+    "longitude": 9.4392742
+  },
+  {
+    "street": "Viale dei Municipi",
+    "number": "34",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6643657,
+    "longitude": 9.4367885
+  },
+  {
+    "street": "Viale dei Municipi",
+    "number": "28",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6640416,
+    "longitude": 9.4365716
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "14",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6694213,
+    "longitude": 9.4424242
+  },
+  {
+    "street": "Via San Floriano",
+    "number": "16",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6688824,
+    "longitude": 9.443458
+  },
+  {
+    "street": "Via San Floriano",
+    "number": "9",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6693743,
+    "longitude": 9.4434796
+  },
+  {
+    "street": "Via San Floriano",
+    "number": "11",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.669632,
+    "longitude": 9.4437631
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "10",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6690424,
+    "longitude": 9.4422333
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "39",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6646524,
+    "longitude": 9.4343428
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "1",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6628513,
+    "longitude": 9.4325212
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "6",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6629521,
+    "longitude": 9.4324264
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "10",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6630154,
+    "longitude": 9.4322555
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "11",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6630413,
+    "longitude": 9.4319549
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "12",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6627117,
+    "longitude": 9.4329104
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "12",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6630557,
+    "longitude": 9.4321773
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "14",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.663001,
+    "longitude": 9.4331534
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "14",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6636616,
+    "longitude": 9.4317984
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "15;17",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6632198,
+    "longitude": 9.4332007
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "18",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6632785,
+    "longitude": 9.4315455
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "19;21",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6633536,
+    "longitude": 9.4332955
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "2",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6628844,
+    "longitude": 9.4326015
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "22",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6631406,
+    "longitude": 9.4332728
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "23;25",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6634918,
+    "longitude": 9.4333881
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "24",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6632241,
+    "longitude": 9.4333428
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "3",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6629003,
+    "longitude": 9.4323811
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "33",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6643308,
+    "longitude": 9.4340368
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "35",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6644589,
+    "longitude": 9.4341521
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "4",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6629233,
+    "longitude": 9.4325129
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "44;42",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6635162,
+    "longitude": 9.4335385
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "46",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.663594,
+    "longitude": 9.4336085
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "48",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6636357,
+    "longitude": 9.4336538
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "5",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6629578,
+    "longitude": 9.4321876
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "50",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6637724,
+    "longitude": 9.4337403
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "50a",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6638631,
+    "longitude": 9.433835
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "52",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6639552,
+    "longitude": 9.4339153
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "54",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6639897,
+    "longitude": 9.4339462
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "56",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6640329,
+    "longitude": 9.4339792
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "58",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6640703,
+    "longitude": 9.4339936
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "7",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6629852,
+    "longitude": 9.4321031
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "9",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6629075,
+    "longitude": 9.4329742
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "94",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6643279,
+    "longitude": 9.4342139
+  },
+  {
+    "street": "Via Sala",
+    "number": "1",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6643697,
+    "longitude": 9.435573
+  },
+  {
+    "street": "Viale dei Municipi",
+    "number": "23",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6642639,
+    "longitude": 9.4364481
+  },
+  {
+    "street": "Via Sala",
+    "number": "11",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6647712,
+    "longitude": 9.4346546
+  },
+  {
+    "street": "Via Sala",
+    "number": "26",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6649842,
+    "longitude": 9.4344631
+  },
+  {
+    "street": "Viale dei Municipi",
+    "number": "27",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6643462,
+    "longitude": 9.4365481
+  },
+  {
+    "street": "Via Sala",
+    "number": "3",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6645344,
+    "longitude": 9.4351557
+  },
+  {
+    "street": "Viale dei Municipi",
+    "number": "30",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6641302,
+    "longitude": 9.4366254
+  },
+  {
+    "street": "Viale dei Municipi",
+    "number": "32",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6641582,
+    "longitude": 9.4366423
+  },
+  {
+    "street": "Via Sala",
+    "number": "4a;4b;4c",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6646316,
+    "longitude": 9.4352889
+  },
+  {
+    "street": "Viale dei Municipi",
+    "number": "17",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6658779,
+    "longitude": 9.4378589
+  },
+  {
+    "street": "Via Sala",
+    "number": "4d",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6648734,
+    "longitude": 9.4348873
+  },
+  {
+    "street": "Via Sala",
+    "number": "5",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6646068,
+    "longitude": 9.4349557
+  },
+  {
+    "street": "Via Sala",
+    "number": "7",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6646745,
+    "longitude": 9.4348388
+  },
+  {
+    "street": "Via Sala",
+    "number": "9",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.664728,
+    "longitude": 9.434737
+  },
+  {
+    "street": "Viale dei Municipi",
+    "number": "10",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6665708,
+    "longitude": 9.4378936
+  },
+  {
+    "street": "Viale dei Municipi",
+    "number": "6",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6669904,
+    "longitude": 9.4382093
+  },
+  {
+    "street": "Viale dei Municipi",
+    "number": "8",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6667863,
+    "longitude": 9.4380581
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "29",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6642904,
+    "longitude": 9.4337203
+  },
+  {
+    "street": "Viale dei Municipi",
+    "number": "31",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6645472,
+    "longitude": 9.4366913
+  },
+  {
+    "street": "Via Monsignore Benvenuto Sala",
+    "number": "70",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6718122,
+    "longitude": 9.4382793
+  },
+  {
+    "street": "Via Fontanile",
+    "number": "6",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.669199,
+    "longitude": 9.4401358
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "33",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6666283,
+    "longitude": 9.435129
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "4a",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6734057,
+    "longitude": 9.4272144
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "6b",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6731214,
+    "longitude": 9.4269581
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "48",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6717117,
+    "longitude": 9.4257104
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "46",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6718065,
+    "longitude": 9.4258033
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "44",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6719075,
+    "longitude": 9.4258922
+  },
+  {
+    "street": "Via Sernovella",
+    "number": "1",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6697017,
+    "longitude": 9.4374893
+  },
+  {
+    "street": "Via Principale",
+    "number": "18",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6676272,
+    "longitude": 9.4412358
+  },
+  {
+    "street": "Via Sernovella",
+    "number": "26",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6713445,
+    "longitude": 9.4346769
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "6",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6664476,
+    "longitude": 9.4350547
+  },
+  {
+    "street": "Via dei Tre Re",
+    "number": "19/21",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6641303,
+    "longitude": 9.4363574
+  },
+  {
+    "street": "Via Principale",
+    "number": "25",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6680589,
+    "longitude": 9.440789
+  },
+  {
+    "street": "Piazza Annoni",
+    "number": "11",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6627913,
+    "longitude": 9.4353389
+  },
+  {
+    "street": "Via Roma",
+    "number": "1",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6623828,
+    "longitude": 9.4351875
+  },
+  {
+    "street": "Via dei Tre Re",
+    "number": "4",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6625332,
+    "longitude": 9.4360173
+  },
+  {
+    "street": "Piazza Annoni",
+    "number": "6",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6625401,
+    "longitude": 9.4353527
+  },
+  {
+    "street": "Piazza Annoni",
+    "number": "3",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.662661,
+    "longitude": 9.4354792
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "9",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6659458,
+    "longitude": 9.4335945
+  },
+  {
+    "street": "Via Due Giugno",
+    "number": "23",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6645177,
+    "longitude": 9.4310759
+  },
+  {
+    "street": "Via Sala",
+    "number": "71d",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6656458,
+    "longitude": 9.4323821
+  },
+  {
+    "street": "Via Due Giugno",
+    "number": "13",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6639778,
+    "longitude": 9.430644
+  },
+  {
+    "street": "Via Due Giugno",
+    "number": "5",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6636798,
+    "longitude": 9.430121
+  },
+  {
+    "street": "Via Due Giugno",
+    "number": "20",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6649169,
+    "longitude": 9.4319342
+  },
+  {
+    "street": "Via Due Giugno",
+    "number": "31",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6648581,
+    "longitude": 9.4313302
+  },
+  {
+    "street": "Via Sala",
+    "number": "71a",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6654828,
+    "longitude": 9.4328247
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "23",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6635054,
+    "longitude": 9.4306521
+  },
+  {
+    "street": "Via Sala",
+    "number": "71",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6653873,
+    "longitude": 9.4331224
+  },
+  {
+    "street": "Via Due Giugno",
+    "number": "8",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6639327,
+    "longitude": 9.430746
+  },
+  {
+    "street": "Via Sala",
+    "number": "28",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6655204,
+    "longitude": 9.43305
+  },
+  {
+    "street": "Via Sala",
+    "number": "51a",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6651419,
+    "longitude": 9.4338144
+  },
+  {
+    "street": "Via Sala",
+    "number": "51",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6651231,
+    "longitude": 9.4339029
+  },
+  {
+    "street": "Via Due Giugno",
+    "number": "15",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6640302,
+    "longitude": 9.4306923
+  },
+  {
+    "street": "Via Sala",
+    "number": "59",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6649581,
+    "longitude": 9.4333155
+  },
+  {
+    "street": "Via Due Giugno",
+    "number": "33",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6648944,
+    "longitude": 9.4313602
+  },
+  {
+    "street": "Via Sala",
+    "number": "65",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6652768,
+    "longitude": 9.4334577
+  },
+  {
+    "street": "Via Sala",
+    "number": "71b",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.665539,
+    "longitude": 9.4326879
+  },
+  {
+    "street": "Via Sala",
+    "number": "71c",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6655971,
+    "longitude": 9.4325243
+  },
+  {
+    "street": "Via Due Giugno",
+    "number": "26",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.665065,
+    "longitude": 9.432138
+  },
+  {
+    "street": "Via Due Giugno",
+    "number": "22",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6649057,
+    "longitude": 9.4319771
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "13",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6658086,
+    "longitude": 9.433834
+  },
+  {
+    "street": "Via Sala",
+    "number": "51d",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6647613,
+    "longitude": 9.4332565
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "7",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6658839,
+    "longitude": 9.4335194
+  },
+  {
+    "street": "Via Due Giugno",
+    "number": "14",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6646226,
+    "longitude": 9.4313012
+  },
+  {
+    "street": "Via Due Giugno",
+    "number": "30",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.665136,
+    "longitude": 9.4321032
+  },
+  {
+    "street": "Via Due Giugno",
+    "number": "12",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6642384,
+    "longitude": 9.4309927
+  },
+  {
+    "street": "Via Sala",
+    "number": "40",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.665897,
+    "longitude": 9.4319878
+  },
+  {
+    "street": "Via Sala",
+    "number": "34",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6657209,
+    "longitude": 9.432594
+  },
+  {
+    "street": "Via Due Giugno",
+    "number": "21",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6644277,
+    "longitude": 9.4310249
+  },
+  {
+    "street": "Via Sala",
+    "number": "51b",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6651924,
+    "longitude": 9.4337393
+  },
+  {
+    "street": "Via Due Giugno",
+    "number": "32",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6652169,
+    "longitude": 9.4318054
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "28",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6634942,
+    "longitude": 9.4309874
+  },
+  {
+    "street": "Via Due Giugno",
+    "number": "24",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6649825,
+    "longitude": 9.432071
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "21c",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6634455,
+    "longitude": 9.4308962
+  },
+  {
+    "street": "Via Sala",
+    "number": "32",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6656252,
+    "longitude": 9.4327925
+  },
+  {
+    "street": "Via Due Giugno",
+    "number": "35",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6654735,
+    "longitude": 9.4318242
+  },
+  {
+    "street": "Via Sala",
+    "number": "53",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6648251,
+    "longitude": 9.4332243
+  },
+  {
+    "street": "Via Due Giugno",
+    "number": "25",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6647853,
+    "longitude": 9.4312701
+  },
+  {
+    "street": "Via Sala",
+    "number": "38",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6658033,
+    "longitude": 9.4322534
+  },
+  {
+    "street": "Via Due Giugno",
+    "number": "28",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6651044,
+    "longitude": 9.4321702
+  },
+  {
+    "street": "Via Due Giugno",
+    "number": "34",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6653067,
+    "longitude": 9.4318913
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "30",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6635691,
+    "longitude": 9.4307728
+  },
+  {
+    "street": "Via Sala",
+    "number": "51c",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6649488,
+    "longitude": 9.4334148
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "24",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6634228,
+    "longitude": 9.4311668
+  },
+  {
+    "street": "Via Due Giugno",
+    "number": "17",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6642673,
+    "longitude": 9.4308967
+  },
+  {
+    "street": "Via Due Giugno",
+    "number": "2",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6655128,
+    "longitude": 9.4320549
+  },
+  {
+    "street": "Via Sala",
+    "number": "63",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6652618,
+    "longitude": 9.4335247
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "2;4",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6657678,
+    "longitude": 9.434257
+  },
+  {
+    "street": "Via Due Giugno",
+    "number": "19",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6643098,
+    "longitude": 9.4309306
+  },
+  {
+    "street": "Via Due Giugno",
+    "number": "27",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6648123,
+    "longitude": 9.4312924
+  },
+  {
+    "street": "Via Sala",
+    "number": "69",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6654136,
+    "longitude": 9.4330607
+  },
+  {
+    "street": "Via Due Giugno",
+    "number": "36",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.665423,
+    "longitude": 9.4319798
+  },
+  {
+    "street": "Via Due Giugno",
+    "number": "16",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.66496,
+    "longitude": 9.4315909
+  },
+  {
+    "street": "Via Due Giugno",
+    "number": "29",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6648324,
+    "longitude": 9.431309
+  },
+  {
+    "street": "Via Sala",
+    "number": "36",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6657303,
+    "longitude": 9.4325672
+  },
+  {
+    "street": "Via Due Giugno",
+    "number": "7",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.663734,
+    "longitude": 9.4301559
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "13",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.663226,
+    "longitude": 9.4314301
+  },
+  {
+    "street": "Via Fedela Zamparelli",
+    "number": "10",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6660653,
+    "longitude": 9.4360122
+  },
+  {
+    "street": "Via Fedela Zamparelli",
+    "number": "4",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6659973,
+    "longitude": 9.4360604
+  },
+  {
+    "street": "Via Giosuè Carducci",
+    "number": "9-17",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6688573,
+    "longitude": 9.4352457
+  },
+  {
+    "street": "Via Piave",
+    "number": "5",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6617672,
+    "longitude": 9.4337333
+  },
+  {
+    "street": "Vicolo Chiuso",
+    "number": "1",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.662038,
+    "longitude": 9.4350213
+  },
+  {
+    "street": "Via dei Tre Re",
+    "number": "6a",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6628585,
+    "longitude": 9.4357094
+  },
+  {
+    "street": "Via dei Tre Re",
+    "number": "16",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6636969,
+    "longitude": 9.4362429
+  },
+  {
+    "street": "Via Roma",
+    "number": "15",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6620398,
+    "longitude": 9.4346461
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "6",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.659805,
+    "longitude": 9.4389746
+  },
+  {
+    "street": "Via Due Giugno",
+    "number": "1",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6633011,
+    "longitude": 9.429817
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "1",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6623816,
+    "longitude": 9.432535
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "1",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6633411,
+    "longitude": 9.4285983
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "10",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6638267,
+    "longitude": 9.4292189
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "11",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6643227,
+    "longitude": 9.4291144
+  },
+  {
+    "street": "Via Piave",
+    "number": "11",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6619139,
+    "longitude": 9.4332036
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "12",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6639024,
+    "longitude": 9.4293162
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "12b",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6621951,
+    "longitude": 9.4333358
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "13",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6643683,
+    "longitude": 9.4290193
+  },
+  {
+    "street": "Via Piave",
+    "number": "14",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6620713,
+    "longitude": 9.4331411
+  },
+  {
+    "street": "Via Sala",
+    "number": "14",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.666014,
+    "longitude": 9.4316087
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "14a",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6640883,
+    "longitude": 9.4295305
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "14b",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6641432,
+    "longitude": 9.429586
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "14c",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6641672,
+    "longitude": 9.4296103
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "14d",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6641868,
+    "longitude": 9.4296301
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "14e",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6642162,
+    "longitude": 9.4296598
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "16",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6646282,
+    "longitude": 9.4300455
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "17",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.664407,
+    "longitude": 9.4290906
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "18",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6647254,
+    "longitude": 9.4301107
+  },
+  {
+    "street": "Via Piave",
+    "number": "18",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.662148,
+    "longitude": 9.4328995
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "19",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6643836,
+    "longitude": 9.429142
+  },
+  {
+    "street": "Via Piave",
+    "number": "19",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6623558,
+    "longitude": 9.4314819
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "1a",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6634571,
+    "longitude": 9.4286508
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "2",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6623558,
+    "longitude": 9.4325975
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "2",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6634591,
+    "longitude": 9.4288651
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "20",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6651232,
+    "longitude": 9.4305087
+  },
+  {
+    "street": "Via Piave",
+    "number": "20",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6622053,
+    "longitude": 9.4327135
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "21",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6643614,
+    "longitude": 9.4291907
+  },
+  {
+    "street": "Via Piave",
+    "number": "21",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6623499,
+    "longitude": 9.4314535
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "22",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6651738,
+    "longitude": 9.4305754
+  },
+  {
+    "street": "Via Piave",
+    "number": "22",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6623062,
+    "longitude": 9.432369
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "23",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6644853,
+    "longitude": 9.4296793
+  },
+  {
+    "street": "Via Piave",
+    "number": "23",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6624569,
+    "longitude": 9.4310935
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "24",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.665515,
+    "longitude": 9.4309075
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "25",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6645111,
+    "longitude": 9.4297148
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "26",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6656499,
+    "longitude": 9.4310438
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "26a",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6630158,
+    "longitude": 9.4338922
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "26b",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6629339,
+    "longitude": 9.433822
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "26c",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.662848,
+    "longitude": 9.4337531
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "27",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6647404,
+    "longitude": 9.4298757
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "27b",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6648892,
+    "longitude": 9.4300148
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "28",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6656777,
+    "longitude": 9.4310722
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "29",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6649318,
+    "longitude": 9.4299978
+  },
+  {
+    "street": "Via Piave",
+    "number": "29",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6626361,
+    "longitude": 9.4306528
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "29b",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6649487,
+    "longitude": 9.430063
+  },
+  {
+    "street": "Via Due Giugno",
+    "number": "3",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6635213,
+    "longitude": 9.429949
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "3",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6624618,
+    "longitude": 9.4326013
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "3",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6635315,
+    "longitude": 9.4286409
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "30",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6626361,
+    "longitude": 9.4335394
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "30",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.665759,
+    "longitude": 9.4311346
+  },
+  {
+    "street": "Via Piave",
+    "number": "30",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6624758,
+    "longitude": 9.4317118
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "31",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6651103,
+    "longitude": 9.4302547
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "32",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6625266,
+    "longitude": 9.4334676
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "32",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6657957,
+    "longitude": 9.4311871
+  },
+  {
+    "street": "Via Piave",
+    "number": "32",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6625016,
+    "longitude": 9.431621
+  },
+  {
+    "street": "Via Piave",
+    "number": "34",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6625185,
+    "longitude": 9.4315472
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "34",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6624448,
+    "longitude": 9.4334647
+  },
+  {
+    "street": "Via Piave",
+    "number": "35",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6626617,
+    "longitude": 9.4305501
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "36",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6623823,
+    "longitude": 9.4334442
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "36",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6663254,
+    "longitude": 9.4320827
+  },
+  {
+    "street": "Via Piave",
+    "number": "36",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6625373,
+    "longitude": 9.4314734
+  },
+  {
+    "street": "Via Piave",
+    "number": "37",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6626832,
+    "longitude": 9.4304401
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "38",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6631539,
+    "longitude": 9.4340021
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "38",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6661915,
+    "longitude": 9.4323283
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "39",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6657323,
+    "longitude": 9.4308877
+  },
+  {
+    "street": "Via Piave",
+    "number": "39",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.662706,
+    "longitude": 9.4303422
+  },
+  {
+    "street": "Via Due Giugno",
+    "number": "4",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.66344,
+    "longitude": 9.4301179
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "4",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6624926,
+    "longitude": 9.4327178
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "40",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6632245,
+    "longitude": 9.4339581
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "40",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6661826,
+    "longitude": 9.4324092
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "41",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6663571,
+    "longitude": 9.430909
+  },
+  {
+    "street": "Via Piave",
+    "number": "41c",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6623489,
+    "longitude": 9.4296396
+  },
+  {
+    "street": "Via Piave",
+    "number": "41d",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6625522,
+    "longitude": 9.4298767
+  },
+  {
+    "street": "Via Piave",
+    "number": "41e",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6624729,
+    "longitude": 9.4299008
+  },
+  {
+    "street": "Via Piave",
+    "number": "41b",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6623151,
+    "longitude": 9.429729
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "42",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6662222,
+    "longitude": 9.4324574
+  },
+  {
+    "street": "Via Sala",
+    "number": "42",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6659644,
+    "longitude": 9.4317691
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "43",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.666496,
+    "longitude": 9.4310637
+  },
+  {
+    "street": "Via Piave",
+    "number": "43",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6627424,
+    "longitude": 9.4299886
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "44",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6662758,
+    "longitude": 9.4324787
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "45",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6667707,
+    "longitude": 9.4313177
+  },
+  {
+    "street": "Via Piave",
+    "number": "45",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6628261,
+    "longitude": 9.4298095
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "46",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6663254,
+    "longitude": 9.4323879
+  },
+  {
+    "street": "Via Piave",
+    "number": "46",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.662704,
+    "longitude": 9.4307978
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "47",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6669017,
+    "longitude": 9.4314242
+  },
+  {
+    "street": "Via Piave",
+    "number": "47",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.662848,
+    "longitude": 9.4297485
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "48",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6664375,
+    "longitude": 9.43207
+  },
+  {
+    "street": "Via Piave",
+    "number": "48",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6627208,
+    "longitude": 9.4307155
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "49",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6669532,
+    "longitude": 9.4317052
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "5",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6626126,
+    "longitude": 9.4327258
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "5",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6637795,
+    "longitude": 9.4288921
+  },
+  {
+    "street": "Via Piave",
+    "number": "50",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6627903,
+    "longitude": 9.4304643
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "51",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6668432,
+    "longitude": 9.431586
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "52",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6663928,
+    "longitude": 9.4322176
+  },
+  {
+    "street": "Via Piave",
+    "number": "52",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6628567,
+    "longitude": 9.4301605
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "53",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6667033,
+    "longitude": 9.4314128
+  },
+  {
+    "street": "Via Piave",
+    "number": "53",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.662674,
+    "longitude": 9.4291083
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "54",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6663621,
+    "longitude": 9.4320203
+  },
+  {
+    "street": "Via Piave",
+    "number": "54",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6628776,
+    "longitude": 9.4300796
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "55",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6666398,
+    "longitude": 9.4313489
+  },
+  {
+    "street": "Via Piave",
+    "number": "55",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6626175,
+    "longitude": 9.4291296
+  },
+  {
+    "street": "Via Piave",
+    "number": "56",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6629113,
+    "longitude": 9.4299391
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "57",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6666051,
+    "longitude": 9.4313106
+  },
+  {
+    "street": "Via Piave",
+    "number": "57",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6626016,
+    "longitude": 9.4290558
+  },
+  {
+    "street": "Via Piave",
+    "number": "58",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6629282,
+    "longitude": 9.4298852
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "59",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6665664,
+    "longitude": 9.4312808
+  },
+  {
+    "street": "Via Piave",
+    "number": "59",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6625877,
+    "longitude": 9.4289749
+  },
+  {
+    "street": "Via Due Giugno",
+    "number": "6",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6635578,
+    "longitude": 9.4301597
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "6",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6625437,
+    "longitude": 9.4327627
+  },
+  {
+    "street": "Via Piave",
+    "number": "60",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6629391,
+    "longitude": 9.4298099
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "61",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6665099,
+    "longitude": 9.4312269
+  },
+  {
+    "street": "Via Piave",
+    "number": "61",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6626155,
+    "longitude": 9.4289096
+  },
+  {
+    "street": "Via Piave",
+    "number": "62a",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.663051,
+    "longitude": 9.4295185
+  },
+  {
+    "street": "Via Piave",
+    "number": "62b",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6630272,
+    "longitude": 9.4295525
+  },
+  {
+    "street": "Via Piave",
+    "number": "62c",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.663045,
+    "longitude": 9.429466
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "63",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6664643,
+    "longitude": 9.4311772
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "65",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6664365,
+    "longitude": 9.4311417
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "67",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6663919,
+    "longitude": 9.4311133
+  },
+  {
+    "street": "Via Piave",
+    "number": "69",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6627306,
+    "longitude": 9.4290019
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "7",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6627288,
+    "longitude": 9.4328217
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "7",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.663834,
+    "longitude": 9.4289403
+  },
+  {
+    "street": "Via Piave",
+    "number": "67",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6626506,
+    "longitude": 9.4289223
+  },
+  {
+    "street": "Via Piave",
+    "number": "70",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6627851,
+    "longitude": 9.4291849
+  },
+  {
+    "street": "Via Piave",
+    "number": "71",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.662804,
+    "longitude": 9.4290828
+  },
+  {
+    "street": "Via Piave",
+    "number": "72",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.663346,
+    "longitude": 9.4272031
+  },
+  {
+    "street": "Via Sala",
+    "number": "73",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6657928,
+    "longitude": 9.4319195
+  },
+  {
+    "street": "Via Sala",
+    "number": "75",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6658176,
+    "longitude": 9.4318358
+  },
+  {
+    "street": "Via Sala",
+    "number": "77",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6658592,
+    "longitude": 9.4317137
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "8",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.662637,
+    "longitude": 9.4328447
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "9",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6642344,
+    "longitude": 9.429279
+  },
+  {
+    "street": "Via Piave",
+    "number": "13",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.662016,
+    "longitude": 9.432949
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "7",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6630652,
+    "longitude": 9.4362084
+  },
+  {
+    "street": "Via per Cornate",
+    "number": "22",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6631669,
+    "longitude": 9.4478973
+  },
+  {
+    "street": "Via degli Alpini",
+    "number": "27",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6643439,
+    "longitude": 9.4369446
+  },
+  {
+    "street": "Via Andrea Manzoni",
+    "number": "1",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6627468,
+    "longitude": 9.4390567
+  },
+  {
+    "street": "Via San Giorgio",
+    "number": "11",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6622755,
+    "longitude": 9.4393068
+  },
+  {
+    "street": "Via degli Alpini",
+    "number": "11",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6637906,
+    "longitude": 9.4398793
+  },
+  {
+    "street": "Via San Giorgio",
+    "number": "12",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6628072,
+    "longitude": 9.4398177
+  },
+  {
+    "street": "Via degli Alpini",
+    "number": "12",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6640255,
+    "longitude": 9.4394132
+  },
+  {
+    "street": "Via San Giorgio",
+    "number": "13",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6624188,
+    "longitude": 9.4395253
+  },
+  {
+    "street": "Via San Giorgio",
+    "number": "15",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.662606,
+    "longitude": 9.439662
+  },
+  {
+    "street": "Via degli Alpini",
+    "number": "15",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.663652,
+    "longitude": 9.4400978
+  },
+  {
+    "street": "Via San Giorgio",
+    "number": "17",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6627626,
+    "longitude": 9.4397807
+  },
+  {
+    "street": "Via degli Alpini",
+    "number": "22",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6637969,
+    "longitude": 9.4394413
+  },
+  {
+    "street": "Via degli Alpini",
+    "number": "23",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6642775,
+    "longitude": 9.4371329
+  },
+  {
+    "street": "Via degli Alpini",
+    "number": "25",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6642986,
+    "longitude": 9.4370695
+  },
+  {
+    "street": "Via degli Alpini",
+    "number": "26",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.663764,
+    "longitude": 9.439523
+  },
+  {
+    "street": "Via degli Alpini",
+    "number": "28",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6635424,
+    "longitude": 9.43996
+  },
+  {
+    "street": "Via Andrea Manzoni",
+    "number": "3",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6629516,
+    "longitude": 9.4391866
+  },
+  {
+    "street": "Via San Giorgio",
+    "number": "3",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6626427,
+    "longitude": 9.4386701
+  },
+  {
+    "street": "Via degli Alpini",
+    "number": "32",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6634978,
+    "longitude": 9.4400552
+  },
+  {
+    "street": "Via degli Alpini",
+    "number": "34",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6634203,
+    "longitude": 9.4402154
+  },
+  {
+    "street": "Via degli Alpini",
+    "number": "36",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6632472,
+    "longitude": 9.4401023
+  },
+  {
+    "street": "Via degli Alpini",
+    "number": "38",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6630672,
+    "longitude": 9.4399947
+  },
+  {
+    "street": "Via Andrea Manzoni",
+    "number": "4",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6629241,
+    "longitude": 9.439483
+  },
+  {
+    "street": "Via Andrea Manzoni",
+    "number": "5",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6629859,
+    "longitude": 9.4392088
+  },
+  {
+    "street": "Via San Giorgio",
+    "number": "5",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6625718,
+    "longitude": 9.4387984
+  },
+  {
+    "street": "Via San Giorgio",
+    "number": "6",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6624063,
+    "longitude": 9.4388755
+  },
+  {
+    "street": "Via Andrea Manzoni",
+    "number": "7",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6631653,
+    "longitude": 9.4393329
+  },
+  {
+    "street": "Via San Giorgio",
+    "number": "7",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6624548,
+    "longitude": 9.4389841
+  },
+  {
+    "street": "Via Andrea Manzoni",
+    "number": "8",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6632154,
+    "longitude": 9.4394583
+  },
+  {
+    "street": "Via Andrea Manzoni",
+    "number": "9",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.663359,
+    "longitude": 9.439473
+  },
+  {
+    "street": "Via degli Alpini",
+    "number": "9",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.663847,
+    "longitude": 9.4396597
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "10",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6635145,
+    "longitude": 9.4390035
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "8",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6633188,
+    "longitude": 9.4388534
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "10",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.66335,
+    "longitude": 9.4377397
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "11",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6637021,
+    "longitude": 9.4375377
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "12",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6631434,
+    "longitude": 9.4376725
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "13",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6636833,
+    "longitude": 9.4375971
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "15",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6636766,
+    "longitude": 9.4376232
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "16",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6630494,
+    "longitude": 9.4372176
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "17",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6636617,
+    "longitude": 9.4376723
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "19",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6635803,
+    "longitude": 9.4378876
+  },
+  {
+    "street": "Via San Giorgio",
+    "number": "2",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6629602,
+    "longitude": 9.4379347
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "21",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6634951,
+    "longitude": 9.4380746
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "23",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6633273,
+    "longitude": 9.4378812
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "25",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6632734,
+    "longitude": 9.4378486
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "3",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6639723,
+    "longitude": 9.4369126
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "4",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6638759,
+    "longitude": 9.4367819
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "6",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6637589,
+    "longitude": 9.4370867
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "8",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6633749,
+    "longitude": 9.4377516
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "8c",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6635884,
+    "longitude": 9.4375244
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "8e",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6635609,
+    "longitude": 9.4376182
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "9",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6637519,
+    "longitude": 9.4373982
+  },
+  {
+    "street": "Piazza Annoni",
+    "number": "1",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6627163,
+    "longitude": 9.4355486
+  },
+  {
+    "street": "Via dei Tre Re",
+    "number": "17",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6639401,
+    "longitude": 9.4363163
+  },
+  {
+    "street": "Via dei Tre Re",
+    "number": "22",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6638527,
+    "longitude": 9.4363159
+  },
+  {
+    "street": "Via dei Tre Re",
+    "number": "18",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6637259,
+    "longitude": 9.4362574
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "1",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6631649,
+    "longitude": 9.4359827
+  },
+  {
+    "street": "Via dei Tre Re",
+    "number": "10",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6632906,
+    "longitude": 9.4359903
+  },
+  {
+    "street": "Via dei Tre Re",
+    "number": "11",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6632025,
+    "longitude": 9.4358908
+  },
+  {
+    "street": "Via dei Tre Re",
+    "number": "15",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6635934,
+    "longitude": 9.4361421
+  },
+  {
+    "street": "Via dei Tre Re",
+    "number": "9",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6631848,
+    "longitude": 9.4358775
+  },
+  {
+    "street": "Via dei Tre Re",
+    "number": "13",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6633335,
+    "longitude": 9.4359829
+  },
+  {
+    "street": "Piazza Annoni",
+    "number": "10",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6628064,
+    "longitude": 9.435278
+  },
+  {
+    "street": "Piazza Annoni",
+    "number": "2",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6626881,
+    "longitude": 9.4355141
+  },
+  {
+    "street": "Via dei Tre Re",
+    "number": "2",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6627038,
+    "longitude": 9.435777
+  },
+  {
+    "street": "Piazza Annoni",
+    "number": "4",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6626472,
+    "longitude": 9.4354638
+  },
+  {
+    "street": "Piazza Annoni",
+    "number": "5",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6626307,
+    "longitude": 9.4354433
+  },
+  {
+    "street": "Via dei Tre Re",
+    "number": "6b",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6628093,
+    "longitude": 9.4357733
+  },
+  {
+    "street": "Via dei Tre Re",
+    "number": "6c",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6627625,
+    "longitude": 9.4358261
+  },
+  {
+    "street": "Via dei Tre Re",
+    "number": "6d",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6627368,
+    "longitude": 9.4359293
+  },
+  {
+    "street": "Via dei Tre Re",
+    "number": "6f",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.662683,
+    "longitude": 9.4360559
+  },
+  {
+    "street": "Via dei Tre Re",
+    "number": "6g",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6626298,
+    "longitude": 9.4362269
+  },
+  {
+    "street": "Piazza Annoni",
+    "number": "7",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6625163,
+    "longitude": 9.4353221
+  },
+  {
+    "street": "Piazza Annoni",
+    "number": "8",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6624654,
+    "longitude": 9.4352955
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "1",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6609331,
+    "longitude": 9.4341189
+  },
+  {
+    "street": "Via Piave",
+    "number": "1",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6616756,
+    "longitude": 9.4340712
+  },
+  {
+    "street": "Via Rimembranze",
+    "number": "10",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6612085,
+    "longitude": 9.4337618
+  },
+  {
+    "street": "Via Roma",
+    "number": "11",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6622096,
+    "longitude": 9.4349364
+  },
+  {
+    "street": "Via Roma",
+    "number": "13",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6621675,
+    "longitude": 9.4348827
+  },
+  {
+    "street": "Via Roma",
+    "number": "14",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6621453,
+    "longitude": 9.4345736
+  },
+  {
+    "street": "Via Roma",
+    "number": "16",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6619366,
+    "longitude": 9.4343468
+  },
+  {
+    "street": "Via Roma",
+    "number": "17",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6619245,
+    "longitude": 9.4345027
+  },
+  {
+    "street": "Via Roma",
+    "number": "19",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6617085,
+    "longitude": 9.434278
+  },
+  {
+    "street": "Via Roma",
+    "number": "2",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6624991,
+    "longitude": 9.4351029
+  },
+  {
+    "street": "Vicolo Chiuso",
+    "number": "2",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6619918,
+    "longitude": 9.4351278
+  },
+  {
+    "street": "Via Roma",
+    "number": "21",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6616885,
+    "longitude": 9.4343176
+  },
+  {
+    "street": "Via Roma",
+    "number": "23",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6616695,
+    "longitude": 9.434355
+  },
+  {
+    "street": "Via Roma",
+    "number": "27",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.661631,
+    "longitude": 9.4344145
+  },
+  {
+    "street": "Via Roma",
+    "number": "3",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6623634,
+    "longitude": 9.4351638
+  },
+  {
+    "street": "Vicolo Chiuso",
+    "number": "3",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6619287,
+    "longitude": 9.435251
+  },
+  {
+    "street": "Via Rimembranze",
+    "number": "4",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6615413,
+    "longitude": 9.4339937
+  },
+  {
+    "street": "Via Roma",
+    "number": "4",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6624675,
+    "longitude": 9.4350619
+  },
+  {
+    "street": "Vicolo Chiuso",
+    "number": "4",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.661895,
+    "longitude": 9.4353157
+  },
+  {
+    "street": "Via Roma",
+    "number": "5",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.662339,
+    "longitude": 9.4351309
+  },
+  {
+    "street": "Vicolo Chiuso",
+    "number": "5",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6618548,
+    "longitude": 9.4353475
+  },
+  {
+    "street": "Via Roma",
+    "number": "6",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6624272,
+    "longitude": 9.4349369
+  },
+  {
+    "street": "Vicolo Chiuso",
+    "number": "6",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.661868,
+    "longitude": 9.4352849
+  },
+  {
+    "street": "Via Roma",
+    "number": "7",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6622991,
+    "longitude": 9.4350821
+  },
+  {
+    "street": "Vicolo Chiuso",
+    "number": "7",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6619047,
+    "longitude": 9.4352173
+  },
+  {
+    "street": "Via Roma",
+    "number": "8",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6623669,
+    "longitude": 9.4348589
+  },
+  {
+    "street": "Via Roma",
+    "number": "9",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6622708,
+    "longitude": 9.4350457
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "13",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6607308,
+    "longitude": 9.4347871
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "17",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6607265,
+    "longitude": 9.4348353
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "19",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6606626,
+    "longitude": 9.4349985
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "22a",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6608201,
+    "longitude": 9.4368653
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "22b",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6608136,
+    "longitude": 9.4366477
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "23",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6606045,
+    "longitude": 9.4351094
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "24",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6601176,
+    "longitude": 9.4365928
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "3",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.660852,
+    "longitude": 9.4341692
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "31",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6600686,
+    "longitude": 9.4355584
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "33",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6599811,
+    "longitude": 9.4357123
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "5",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6608169,
+    "longitude": 9.4341467
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "7",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6605457,
+    "longitude": 9.4346732
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "75",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6598345,
+    "longitude": 9.4369777
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "77",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6597156,
+    "longitude": 9.4368983
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "9b",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.660436,
+    "longitude": 9.4348979
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "81",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6596865,
+    "longitude": 9.4368337
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "85",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6597392,
+    "longitude": 9.4368061
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "37",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6598485,
+    "longitude": 9.4360017
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "91",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6599644,
+    "longitude": 9.4367582
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "71",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6599889,
+    "longitude": 9.4370815
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "65",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6600695,
+    "longitude": 9.4371354
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "61",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6601189,
+    "longitude": 9.4369449
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "29",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6605072,
+    "longitude": 9.4352359
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "10",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6621469,
+    "longitude": 9.4382583
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "13",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6627596,
+    "longitude": 9.4371218
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "19",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.661946,
+    "longitude": 9.438309
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "21",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.662439,
+    "longitude": 9.437891
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "23",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6622645,
+    "longitude": 9.4382162
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "25",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6621499,
+    "longitude": 9.4385108
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "27",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.662087,
+    "longitude": 9.4385921
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "33",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6619937,
+    "longitude": 9.4385123
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "35",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6617939,
+    "longitude": 9.4382873
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "37",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6617477,
+    "longitude": 9.43823
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "39",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6616134,
+    "longitude": 9.4380836
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "53",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.66148,
+    "longitude": 9.4379378
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "55",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6613824,
+    "longitude": 9.4378321
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "57",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6612483,
+    "longitude": 9.4376853
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "7",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6606547,
+    "longitude": 9.4377869
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "9",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6605868,
+    "longitude": 9.4379147
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "8",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6622786,
+    "longitude": 9.4378212
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "14",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6609532,
+    "longitude": 9.437209
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "55",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6722212,
+    "longitude": 9.4372373
+  },
+  {
+    "street": "Via Monsignore Benvenuto Sala",
+    "number": "68",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6715933,
+    "longitude": 9.4383446
+  },
+  {
+    "street": "Via per Cornate",
+    "number": "45",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6596528,
+    "longitude": 9.4535025
+  },
+  {
+    "street": "Via per Cornate",
+    "number": "47",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6588306,
+    "longitude": 9.4546878
+  },
+  {
+    "street": "Via Roma",
+    "number": "10",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6622797,
+    "longitude": 9.434695
+  },
+  {
+    "street": "Via Milano",
+    "number": "9",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6721544,
+    "longitude": 9.4244869
+  },
+  {
+    "street": "Via Sala",
+    "number": "16",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6652637,
+    "longitude": 9.4351501
+  },
+  {
+    "street": "Via Piave",
+    "number": "4c",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6623638,
+    "longitude": 9.4339136
+  },
+  {
+    "street": "Via Santi Nazzaro e Gelso",
+    "number": "6",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6628362,
+    "longitude": 9.4347703
+  },
+  {
+    "street": "Via Santi Nazzaro e Gelso",
+    "number": "2",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6627275,
+    "longitude": 9.4350214
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "41",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6648307,
+    "longitude": 9.4344608
+  },
+  {
+    "street": "Via Sala",
+    "number": "22",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6649932,
+    "longitude": 9.4348855
+  },
+  {
+    "street": "Via dei Tre Re",
+    "number": "12",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6633725,
+    "longitude": 9.4360433
+  },
+  {
+    "street": "Via Sala",
+    "number": "20",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.66505,
+    "longitude": 9.4349221
+  },
+  {
+    "street": "Via dei Tre Re",
+    "number": "7",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6631259,
+    "longitude": 9.435833
+  },
+  {
+    "street": "Via dei Tre Re",
+    "number": "14",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6635224,
+    "longitude": 9.4361403
+  },
+  {
+    "street": "Via Santi Nazzaro e Gelso",
+    "number": "10",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6631331,
+    "longitude": 9.4343479
+  },
+  {
+    "street": "Via Piave",
+    "number": "4b",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6623564,
+    "longitude": 9.4339753
+  },
+  {
+    "street": "Via Piave",
+    "number": "4",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6619215,
+    "longitude": 9.4336726
+  },
+  {
+    "street": "Via Sala",
+    "number": "24",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.664932,
+    "longitude": 9.4348121
+  },
+  {
+    "street": "Via Santi Nazzaro e Gelso",
+    "number": "4",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6627575,
+    "longitude": 9.4349516
+  },
+  {
+    "street": "Via dei Tre Re",
+    "number": "8",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6629909,
+    "longitude": 9.4357843
+  },
+  {
+    "street": "Via Sala",
+    "number": "6",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6651007,
+    "longitude": 9.435126
+  },
+  {
+    "street": "Via Piave",
+    "number": "6",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6620771,
+    "longitude": 9.4337182
+  },
+  {
+    "street": "Via Santi Nazzaro e Gelso",
+    "number": "8",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6630165,
+    "longitude": 9.434323
+  },
+  {
+    "street": "Via Sala",
+    "number": "10",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6652243,
+    "longitude": 9.4352172
+  },
+  {
+    "street": "Via Rimembranze",
+    "number": "12",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.661046,
+    "longitude": 9.4333829
+  },
+  {
+    "street": "Via Rimembranze",
+    "number": "14",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.661031,
+    "longitude": 9.4333588
+  },
+  {
+    "street": "Via Piave",
+    "number": "9",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6616524,
+    "longitude": 9.4329897
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "80",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6638804,
+    "longitude": 9.4346243
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "60",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6639046,
+    "longitude": 9.4342944
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "68",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6633854,
+    "longitude": 9.4343615
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "70",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6634174,
+    "longitude": 9.4342462
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "82",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6638616,
+    "longitude": 9.434678
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "72",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6636086,
+    "longitude": 9.4343722
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "64",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6638784,
+    "longitude": 9.4342596
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "88a",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6640115,
+    "longitude": 9.4347021
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "66",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6638523,
+    "longitude": 9.4342488
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "86",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6638237,
+    "longitude": 9.4349531
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "78",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6636663,
+    "longitude": 9.4344143
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "76",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6636235,
+    "longitude": 9.4345197
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "31",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6642578,
+    "longitude": 9.4339498
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "88",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6639909,
+    "longitude": 9.4347316
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "74",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6635842,
+    "longitude": 9.4344393
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "30",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6676201,
+    "longitude": 9.4233826
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "28",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6674169,
+    "longitude": 9.4237061
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "1",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.667834,
+    "longitude": 9.4214709
+  },
+  {
+    "street": "Via Piave",
+    "number": "78",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6645781,
+    "longitude": 9.4256054
+  },
+  {
+    "street": "Via Piave",
+    "number": "86",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.664837,
+    "longitude": 9.4220048
+  },
+  {
+    "street": "Via Piave",
+    "number": "92",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6648794,
+    "longitude": 9.4218561
+  },
+  {
+    "street": "Via Piave",
+    "number": "94",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.665037,
+    "longitude": 9.4212175
+  },
+  {
+    "street": "Via Piave",
+    "number": "98",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6650819,
+    "longitude": 9.4210699
+  },
+  {
+    "street": "Via Filippo Tommaso Marinetti",
+    "number": "40",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6657071,
+    "longitude": 9.4259912
+  },
+  {
+    "street": "Via Fausto Coppi",
+    "number": "9",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6659596,
+    "longitude": 9.4212841
+  },
+  {
+    "street": "Via Sernovella",
+    "number": "36m",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6744101,
+    "longitude": 9.4285067
+  },
+  {
+    "street": "Via Sernovella",
+    "number": "36g",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6748449,
+    "longitude": 9.4289329
+  },
+  {
+    "street": "Via Sernovella",
+    "number": "36f",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6748411,
+    "longitude": 9.4289758
+  },
+  {
+    "street": "Via Sernovella",
+    "number": "40",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6744532,
+    "longitude": 9.4281309
+  },
+  {
+    "street": "Via Sernovella",
+    "number": "36a",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6742095,
+    "longitude": 9.4289409
+  },
+  {
+    "street": "Via Sernovella",
+    "number": "36e",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.674813,
+    "longitude": 9.429032
+  },
+  {
+    "street": "Via Sernovella",
+    "number": "36n",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6744513,
+    "longitude": 9.4283994
+  },
+  {
+    "street": "Via Sernovella",
+    "number": "36c",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6745319,
+    "longitude": 9.4288417
+  },
+  {
+    "street": "Via Sernovella",
+    "number": "36b",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6745169,
+    "longitude": 9.4288336
+  },
+  {
+    "street": "Via Sernovella",
+    "number": "50",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6746887,
+    "longitude": 9.4276646
+  },
+  {
+    "street": "Via Sernovella",
+    "number": "36d",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6746613,
+    "longitude": 9.4289302
+  },
+  {
+    "street": "Via Sernovella",
+    "number": "42",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6744646,
+    "longitude": 9.4281041
+  },
+  {
+    "street": "Via Sernovella",
+    "number": "36i",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6746838,
+    "longitude": 9.4288283
+  },
+  {
+    "street": "Via Sernovella",
+    "number": "47",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6748272,
+    "longitude": 9.4268497
+  },
+  {
+    "street": "Via Milano",
+    "number": "3",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6733075,
+    "longitude": 9.4250583
+  },
+  {
+    "street": "Via Filippo Turati",
+    "number": "7",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6711005,
+    "longitude": 9.433184
+  },
+  {
+    "street": "Via Sernovella",
+    "number": "54",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6748869,
+    "longitude": 9.4272224
+  },
+  {
+    "street": "Via Milano",
+    "number": "5",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6732408,
+    "longitude": 9.4250125
+  },
+  {
+    "street": "Via Sernovella",
+    "number": "56",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6750242,
+    "longitude": 9.4269482
+  },
+  {
+    "street": "Via Filippo Turati",
+    "number": "11",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6709636,
+    "longitude": 9.4330365
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "38;40",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6724047,
+    "longitude": 9.4251016
+  },
+  {
+    "street": "Via Sernovella",
+    "number": "49",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6748881,
+    "longitude": 9.4267219
+  },
+  {
+    "street": "Via Sernovella",
+    "number": "58",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6751924,
+    "longitude": 9.4266078
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "82",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6723296,
+    "longitude": 9.428612
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "74",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6717351,
+    "longitude": 9.4281194
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "72",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6716147,
+    "longitude": 9.4279723
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "80",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6723016,
+    "longitude": 9.4285709
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "78",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6721545,
+    "longitude": 9.4284181
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "76",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6719213,
+    "longitude": 9.4282756
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "70",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.671448,
+    "longitude": 9.4278787
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "14",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6731611,
+    "longitude": 9.4260099
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "10d",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6730881,
+    "longitude": 9.4262853
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "16",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6730834,
+    "longitude": 9.4259431
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "41",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6703544,
+    "longitude": 9.4349114
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "36",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6724749,
+    "longitude": 9.4252537
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "34",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6723714,
+    "longitude": 9.4254888
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "42",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6719479,
+    "longitude": 9.4259231
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "62",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6710578,
+    "longitude": 9.4275537
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "66",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6712952,
+    "longitude": 9.4277087
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "54",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6714552,
+    "longitude": 9.4263
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "58;60",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6709895,
+    "longitude": 9.4273647
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "64",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6711447,
+    "longitude": 9.4276215
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "26",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6721919,
+    "longitude": 9.4261418
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "20",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6726909,
+    "longitude": 9.4265827
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "6",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6702139,
+    "longitude": 9.4339491
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "12",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6703866,
+    "longitude": 9.4335635
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "16",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6704985,
+    "longitude": 9.4334054
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "43",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6565533,
+    "longitude": 9.4343036
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "1",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6581322,
+    "longitude": 9.4458683
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "10",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6598871,
+    "longitude": 9.4470918
+  },
+  {
+    "street": "Via delle Brughiere",
+    "number": "2",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.65398,
+    "longitude": 9.4492179
+  },
+  {
+    "street": "Via delle Brughiere",
+    "number": "3",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6554812,
+    "longitude": 9.4443317
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "4",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6579188,
+    "longitude": 9.4458761
+  },
+  {
+    "street": "Via delle Brughiere",
+    "number": "4",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.655533,
+    "longitude": 9.4441425
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "6",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6580978,
+    "longitude": 9.4459902
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "8",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6598488,
+    "longitude": 9.447074
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "10",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6596209,
+    "longitude": 9.4395594
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "14",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6594049,
+    "longitude": 9.4402025
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "18",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6593034,
+    "longitude": 9.4405069
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "20",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6592598,
+    "longitude": 9.4406255
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "22",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6591616,
+    "longitude": 9.4409299
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "24",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6587732,
+    "longitude": 9.4420617
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "28",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6587001,
+    "longitude": 9.4422912
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "32",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6580312,
+    "longitude": 9.4442581
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "34",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6578501,
+    "longitude": 9.444806
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "8",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6596362,
+    "longitude": 9.4395016
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "4",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6598882,
+    "longitude": 9.438846
+  },
+  {
+    "street": "Via Fiume Adda",
+    "number": "1",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6609519,
+    "longitude": 9.4515897
+  },
+  {
+    "street": "Via Per Cornate",
+    "number": "26",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6617345,
+    "longitude": 9.4497391
+  },
+  {
+    "street": "Via Fiume Adda",
+    "number": "3",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6612431,
+    "longitude": 9.4519995
+  },
+  {
+    "street": "Via Fiume Adda",
+    "number": "39",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6612828,
+    "longitude": 9.4508851
+  },
+  {
+    "street": "Via Fiume Adda",
+    "number": "41",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.661212,
+    "longitude": 9.4509864
+  },
+  {
+    "street": "Via Per Cornate",
+    "number": "43",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6610744,
+    "longitude": 9.4511867
+  },
+  {
+    "street": "Via Piave",
+    "number": "76",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6645946,
+    "longitude": 9.4254534
+  },
+  {
+    "street": "Via Piave",
+    "number": "80",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6639261,
+    "longitude": 9.4251068
+  },
+  {
+    "street": "Via Piave",
+    "number": "82",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6639358,
+    "longitude": 9.4250698
+  },
+  {
+    "street": "Via Piave",
+    "number": "82A/B",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6642022,
+    "longitude": 9.4242968
+  },
+  {
+    "street": "Via Piave",
+    "number": "75",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6641434,
+    "longitude": 9.4238973
+  },
+  {
+    "street": "Via Piave",
+    "number": "77",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6641706,
+    "longitude": 9.4237917
+  },
+  {
+    "street": "Via Piave",
+    "number": "79",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6641915,
+    "longitude": 9.4235379
+  },
+  {
+    "street": "Via Piave",
+    "number": "83",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6637818,
+    "longitude": 9.4224701
+  },
+  {
+    "street": "Via Piave",
+    "number": "85",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.664491,
+    "longitude": 9.4223405
+  },
+  {
+    "street": "Via Piave",
+    "number": "85a",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6643397,
+    "longitude": 9.4227584
+  },
+  {
+    "street": "Via Piave",
+    "number": "84",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6644749,
+    "longitude": 9.4233041
+  },
+  {
+    "street": "Via Piave",
+    "number": "89",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.664778,
+    "longitude": 9.4212823
+  },
+  {
+    "street": "Via Piave",
+    "number": "91",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6647911,
+    "longitude": 9.4212176
+  },
+  {
+    "street": "Via Piave",
+    "number": "93",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6649212,
+    "longitude": 9.4206961
+  },
+  {
+    "street": "Via Piave",
+    "number": "95",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6649961,
+    "longitude": 9.4204
+  },
+  {
+    "street": "Via Piave",
+    "number": "97",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.665007,
+    "longitude": 9.4203571
+  },
+  {
+    "street": "Via Piave",
+    "number": "102",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6651983,
+    "longitude": 9.4203434
+  },
+  {
+    "street": "Via Fausto Coppi",
+    "number": "11",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6659843,
+    "longitude": 9.4212982
+  },
+  {
+    "street": "Via Fausto Coppi",
+    "number": "12",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6660095,
+    "longitude": 9.4213126
+  },
+  {
+    "street": "Via Piave",
+    "number": "88",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6648477,
+    "longitude": 9.4219672
+  },
+  {
+    "street": "Via Piave",
+    "number": "90",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6648691,
+    "longitude": 9.4218922
+  },
+  {
+    "street": "Via Piave",
+    "number": "96",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6650483,
+    "longitude": 9.4211802
+  },
+  {
+    "street": "Via Fausto Coppi",
+    "number": "8",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6658946,
+    "longitude": 9.4215024
+  },
+  {
+    "street": "Via Fausto Coppi",
+    "number": "1",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.665556,
+    "longitude": 9.4225842
+  },
+  {
+    "street": "Via Fausto Coppi",
+    "number": "2",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6655778,
+    "longitude": 9.4225136
+  },
+  {
+    "street": "Via Fratelli Marinetti",
+    "number": "3",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6651007,
+    "longitude": 9.4225649
+  },
+  {
+    "street": "Via Fausto Coppi",
+    "number": "4",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6656607,
+    "longitude": 9.4222475
+  },
+  {
+    "street": "Via Filippo Tommaso Marinetti",
+    "number": "18",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6657243,
+    "longitude": 9.4237016
+  },
+  {
+    "street": "Via Filippo Tommaso Marinetti",
+    "number": "30",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6660243,
+    "longitude": 9.4245994
+  },
+  {
+    "street": "Via Filippo Tommaso Marinetti",
+    "number": "36",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.665841,
+    "longitude": 9.4253793
+  },
+  {
+    "street": "Via Filippo Tommaso Marinetti",
+    "number": "38",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6657143,
+    "longitude": 9.4259574
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "50",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6691219,
+    "longitude": 9.4226033
+  },
+  {
+    "street": "Via Umberto Boccioni",
+    "number": "12",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6708711,
+    "longitude": 9.4246587
+  },
+  {
+    "street": "Via Milano",
+    "number": "13",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6713541,
+    "longitude": 9.4239601
+  },
+  {
+    "street": "Via Milano",
+    "number": "15",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6713642,
+    "longitude": 9.4240886
+  },
+  {
+    "street": "Via Milano",
+    "number": "17",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6712612,
+    "longitude": 9.4241407
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "62",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6707887,
+    "longitude": 9.4235622
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "64",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6710241,
+    "longitude": 9.4237228
+  },
+  {
+    "street": "Via Milano",
+    "number": "7",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6738614,
+    "longitude": 9.4253587
+  },
+  {
+    "street": "Via Umberto Boccioni",
+    "number": "10",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6708349,
+    "longitude": 9.4246094
+  },
+  {
+    "street": "Via Umberto Boccioni",
+    "number": "2",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6695424,
+    "longitude": 9.4238783
+  },
+  {
+    "street": "Via Umberto Boccioni",
+    "number": "4",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6695877,
+    "longitude": 9.4239085
+  },
+  {
+    "street": "Via Umberto Boccioni",
+    "number": "6",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6700442,
+    "longitude": 9.4242136
+  },
+  {
+    "street": "Via Umberto Boccioni",
+    "number": "8",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6702477,
+    "longitude": 9.4243495
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "58",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6703084,
+    "longitude": 9.4230967
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "60",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.670337,
+    "longitude": 9.4231143
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "56",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6701535,
+    "longitude": 9.4231657
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "52",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6692799,
+    "longitude": 9.4224601
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "10",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6687893,
+    "longitude": 9.4235413
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "12",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6687487,
+    "longitude": 9.4236741
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "14",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6687335,
+    "longitude": 9.4238469
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "16",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6687245,
+    "longitude": 9.4238753
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "4",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.668896,
+    "longitude": 9.4231897
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "6",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6688844,
+    "longitude": 9.4233713
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "8",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6688701,
+    "longitude": 9.423416
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "18",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6686376,
+    "longitude": 9.4240328
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "20",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6686115,
+    "longitude": 9.4241255
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "22",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6685934,
+    "longitude": 9.4243259
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "26",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6685311,
+    "longitude": 9.4245253
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "28",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6684457,
+    "longitude": 9.4247709
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "40",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6682333,
+    "longitude": 9.4217392
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "42",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6683102,
+    "longitude": 9.4217873
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "44",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6684738,
+    "longitude": 9.4218897
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "2",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.667978,
+    "longitude": 9.421562
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "22",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6673473,
+    "longitude": 9.4236057
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "9",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6691698,
+    "longitude": 9.4420865
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "16",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6697659,
+    "longitude": 9.4425169
+  },
+  {
+    "street": "Via Famiglia Milla",
+    "number": "6a",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6723738,
+    "longitude": 9.4342035
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "76",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6703865,
+    "longitude": 9.4358848
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "66",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6699233,
+    "longitude": 9.4353636
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "60",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6694848,
+    "longitude": 9.4349008
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "69",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6701258,
+    "longitude": 9.4353539
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "74",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6703623,
+    "longitude": 9.4358575
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "70",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6702648,
+    "longitude": 9.4357478
+  },
+  {
+    "street": "Via Caduti della Libertà",
+    "number": "71",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6703338,
+    "longitude": 9.4355524
+  },
+  {
+    "street": "Via per Cornate",
+    "number": "12",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6653029,
+    "longitude": 9.4448604
+  },
+  {
+    "street": "Via Grigna",
+    "number": "10",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6642149,
+    "longitude": 9.4480843
+  },
+  {
+    "street": "Via Grigna",
+    "number": "11",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6643839,
+    "longitude": 9.4476541
+  },
+  {
+    "street": "Via Grigna",
+    "number": "9",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6642995,
+    "longitude": 9.4476322
+  },
+  {
+    "street": "Viale dei Municipi",
+    "number": "2",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6684857,
+    "longitude": 9.4394615
+  },
+  {
+    "street": "Via San Floriano",
+    "number": "7",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6691483,
+    "longitude": 9.4433142
+  },
+  {
+    "street": "Via San Floriano",
+    "number": "5",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.668763,
+    "longitude": 9.4430358
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "8",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6686643,
+    "longitude": 9.4419763
+  },
+  {
+    "street": "Via San Floriano",
+    "number": "14",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6686757,
+    "longitude": 9.4432281
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "5b",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6686056,
+    "longitude": 9.4415415
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "5c",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6687107,
+    "longitude": 9.4419237
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "6b",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6683876,
+    "longitude": 9.4418861
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "6",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6682606,
+    "longitude": 9.4417921
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "5",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6683221,
+    "longitude": 9.4416718
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "3",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6682239,
+    "longitude": 9.441637
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "4a",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6681608,
+    "longitude": 9.4417144
+  },
+  {
+    "street": "Via Principale",
+    "number": "31",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6675872,
+    "longitude": 9.441737
+  },
+  {
+    "street": "Via dei Tre Re",
+    "number": "5",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6630554,
+    "longitude": 9.4357794
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "4",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6577099,
+    "longitude": 9.43489
+  },
+  {
+    "street": "Via dei Tigli",
+    "number": "5",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6671692,
+    "longitude": 9.440352
+  },
+  {
+    "street": "Via Brugarola",
+    "number": "3",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6610732,
+    "longitude": 9.4463107
+  },
+  {
+    "street": "Via Fausto Coppi",
+    "number": "5",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6657829,
+    "longitude": 9.4218645
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "34",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6677039,
+    "longitude": 9.4231226
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "48",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6690631,
+    "longitude": 9.4225655
+  },
+  {
+    "street": "Via Piave",
+    "number": "17",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6621985,
+    "longitude": 9.4323426
+  },
+  {
+    "street": "Via Piave",
+    "number": "15",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6620531,
+    "longitude": 9.4328232
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "2",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6625345,
+    "longitude": 9.4373503
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "5",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.660788,
+    "longitude": 9.4376057
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "3",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.660837,
+    "longitude": 9.4375172
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "1",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6608779,
+    "longitude": 9.4374388
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "9",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6629793,
+    "longitude": 9.4364352
+  },
+  {
+    "street": "Via Sernovella",
+    "number": "7",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6701297,
+    "longitude": 9.4364253
+  },
+  {
+    "street": "Via Principale",
+    "number": "16",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6676738,
+    "longitude": 9.4409308
+  },
+  {
+    "street": "Via Principale",
+    "number": "12",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6681493,
+    "longitude": 9.4401585
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "4",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6679076,
+    "longitude": 9.4415912
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "11",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6696196,
+    "longitude": 9.4413529
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "18 A",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.670166,
+    "longitude": 9.4429753
+  },
+  {
+    "street": "Via Fontanile",
+    "number": "12",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6696714,
+    "longitude": 9.4402825
+  },
+  {
+    "street": "Via Fontanile",
+    "number": "10",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6693943,
+    "longitude": 9.4403502
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "18 B",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6701729,
+    "longitude": 9.4434415
+  },
+  {
+    "street": "Via Piave",
+    "number": "24",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6625011,
+    "longitude": 9.4323198
+  },
+  {
+    "street": "Via Piave",
+    "number": "44",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6627967,
+    "longitude": 9.4309765
+  },
+  {
+    "street": "Via Piave",
+    "number": "26",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6625717,
+    "longitude": 9.4321051
+  },
+  {
+    "street": "Via Piave",
+    "number": "42",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.662803,
+    "longitude": 9.4311932
+  },
+  {
+    "street": "Via Piave",
+    "number": "40",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6627084,
+    "longitude": 9.4313978
+  },
+  {
+    "street": "Via Piave",
+    "number": "28",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6626361,
+    "longitude": 9.4319189
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "6",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6629978,
+    "longitude": 9.438769
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "2",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6628212,
+    "longitude": 9.4386594
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "11",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6638418,
+    "longitude": 9.4389905
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "3",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6632048,
+    "longitude": 9.4384907
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "7",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6636099,
+    "longitude": 9.4388116
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "5",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6634412,
+    "longitude": 9.438724
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "1",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6630361,
+    "longitude": 9.4384031
+  },
+  {
+    "street": "Via Rimembranze",
+    "number": "8",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6614036,
+    "longitude": 9.4337292
+  },
+  {
+    "street": "Via Per Cornate",
+    "number": "37",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6615314,
+    "longitude": 9.450648
+  },
+  {
+    "street": "Via Fiume Adda",
+    "number": "5",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6613478,
+    "longitude": 9.452749
+  },
+  {
+    "street": "Via Sernovella",
+    "number": "13",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6708984,
+    "longitude": 9.434691
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "58",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.670839,
+    "longitude": 9.4269535
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "39",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6574884,
+    "longitude": 9.4357789
+  },
+  {
+    "street": "Via Milano",
+    "number": "6",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6727642,
+    "longitude": 9.4241453
+  },
+  {
+    "street": "Viale Rimembranze",
+    "number": "1",
+    "city": {
+      "name": "Verderio",
+      "istat": "097091"
+    },
+    "latitude": 45.6572331,
+    "longitude": 9.4321307
+  }
+]

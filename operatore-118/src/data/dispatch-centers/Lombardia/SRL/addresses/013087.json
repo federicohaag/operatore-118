@@ -1,0 +1,12 @@
+[
+  {
+    "street": "Via Roma",
+    "number": "31",
+    "city": {
+      "name": "Dizzasco",
+      "istat": "013087"
+    },
+    "latitude": 45.9448855,
+    "longitude": 9.0981165
+  }
+]

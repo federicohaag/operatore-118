@@ -1,0 +1,62 @@
+[
+  {
+    "street": "Via Pret",
+    "number": "1",
+    "city": {
+      "name": "Brunello",
+      "istat": "012023"
+    },
+    "latitude": 45.7683352,
+    "longitude": 8.8067415
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "17",
+    "city": {
+      "name": "Brunello",
+      "istat": "012023"
+    },
+    "latitude": 45.7643426,
+    "longitude": 8.796483
+  },
+  {
+    "street": "Via Gallarate",
+    "number": "2",
+    "city": {
+      "name": "Brunello",
+      "istat": "012023"
+    },
+    "latitude": 45.76668,
+    "longitude": 8.812307
+  },
+  {
+    "street": "Via Gallarate",
+    "number": "4",
+    "city": {
+      "name": "Brunello",
+      "istat": "012023"
+    },
+    "latitude": 45.7656239,
+    "longitude": 8.8122166
+  },
+  {
+    "street": "Piazza Paolo Ballerio",
+    "number": "2",
+    "city": {
+      "name": "Brunello",
+      "istat": "012023"
+    },
+    "latitude": 45.7652505,
+    "longitude": 8.7975179
+  },
+  {
+    "street": "Via Marsala",
+    "number": "7",
+    "city": {
+      "name": "Brunello",
+      "istat": "012023"
+    },
+    "latitude": 45.7640584,
+    "longitude": 8.793611
+  }
+]

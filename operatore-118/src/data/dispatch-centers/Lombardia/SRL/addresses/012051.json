@@ -1,0 +1,692 @@
+[
+  {
+    "street": "Via Provinciale",
+    "number": "34",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8933985,
+    "longitude": 8.669732
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "72",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8952119,
+    "longitude": 8.6666249
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "36",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8984249,
+    "longitude": 8.6566203
+  },
+  {
+    "street": "Via Lozzia",
+    "number": "5",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8986613,
+    "longitude": 8.6571001
+  },
+  {
+    "street": "Via Libertà",
+    "number": "snc",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8953011,
+    "longitude": 8.6637552
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "46",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8946309,
+    "longitude": 8.6686443
+  },
+  {
+    "street": "Via della Fontana",
+    "number": "11",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.922828,
+    "longitude": 8.654734
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "22",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8925788,
+    "longitude": 8.669892
+  },
+  {
+    "street": "Via Pianella",
+    "number": "5",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8997153,
+    "longitude": 8.65908
+  },
+  {
+    "street": "Via Pianella",
+    "number": "3",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8996332,
+    "longitude": 8.659029
+  },
+  {
+    "street": "Via Pianella",
+    "number": "10",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.9000195,
+    "longitude": 8.6591712
+  },
+  {
+    "street": "Via Pianella",
+    "number": "8",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8999412,
+    "longitude": 8.6591658
+  },
+  {
+    "street": "Via Pianella",
+    "number": "6",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.899859,
+    "longitude": 8.6591497
+  },
+  {
+    "street": "Via Pianella",
+    "number": "16",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.9000998,
+    "longitude": 8.6591631
+  },
+  {
+    "street": "Via Pianella",
+    "number": "23a",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.9008726,
+    "longitude": 8.6608234
+  },
+  {
+    "street": "Via Pianella",
+    "number": "23",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.9008128,
+    "longitude": 8.6606759
+  },
+  {
+    "street": "Via Pianella",
+    "number": "25",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.9009902,
+    "longitude": 8.6610326
+  },
+  {
+    "street": "Via Pianella",
+    "number": "17",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.9005553,
+    "longitude": 8.6596271
+  },
+  {
+    "street": "Via Pianella",
+    "number": "15",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.9005441,
+    "longitude": 8.659426
+  },
+  {
+    "street": "Via per Mombello",
+    "number": "30b",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8980405,
+    "longitude": 8.6443378
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "26",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8928141,
+    "longitude": 8.667427
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "89",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8946073,
+    "longitude": 8.6656597
+  },
+  {
+    "street": "Via Alpi",
+    "number": "23",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8989025,
+    "longitude": 8.6618317
+  },
+  {
+    "street": "Via Alpi",
+    "number": "1",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8989731,
+    "longitude": 8.6605967
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "15",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8932161,
+    "longitude": 8.6685186
+  },
+  {
+    "street": "Via Laveno",
+    "number": "2",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.899036,
+    "longitude": 8.6602417
+  },
+  {
+    "street": "Via Don Carlo Luvini",
+    "number": "2",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8931573,
+    "longitude": 8.668073
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "78",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.895747,
+    "longitude": 8.6665209
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "10",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8916013,
+    "longitude": 8.6700942
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "64",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8949674,
+    "longitude": 8.6672407
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "105",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8951364,
+    "longitude": 8.665337
+  },
+  {
+    "street": "Via Pessino",
+    "number": "96",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.895484,
+    "longitude": 8.6652712
+  },
+  {
+    "street": "Via Vignola",
+    "number": "16",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8923508,
+    "longitude": 8.6638724
+  },
+  {
+    "street": "Via Vignola",
+    "number": "26",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8920433,
+    "longitude": 8.663785
+  },
+  {
+    "street": "Via Crocetta",
+    "number": "5",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8923546,
+    "longitude": 8.6630655
+  },
+  {
+    "street": "Via Vignola",
+    "number": "28",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.892005,
+    "longitude": 8.6636067
+  },
+  {
+    "street": "Via Vignola",
+    "number": "12",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8924898,
+    "longitude": 8.6642578
+  },
+  {
+    "street": "Via Vignola",
+    "number": "14",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8924083,
+    "longitude": 8.6640283
+  },
+  {
+    "street": "Via Vignola",
+    "number": "30",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8922581,
+    "longitude": 8.663748
+  },
+  {
+    "street": "Via Vignola",
+    "number": "22",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8922822,
+    "longitude": 8.6645757
+  },
+  {
+    "street": "Via Lozzia",
+    "number": "7",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8985513,
+    "longitude": 8.6567272
+  },
+  {
+    "street": "Via Lozzia",
+    "number": "14",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8987135,
+    "longitude": 8.6567436
+  },
+  {
+    "street": "Via Lozzia",
+    "number": "10",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8987204,
+    "longitude": 8.6570956
+  },
+  {
+    "street": "Via Lozzia",
+    "number": "8",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8987169,
+    "longitude": 8.6571622
+  },
+  {
+    "street": "Via Lozzia",
+    "number": "2",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8988,
+    "longitude": 8.6577805
+  },
+  {
+    "street": "Via Lozzia",
+    "number": "16",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8984709,
+    "longitude": 8.6565859
+  },
+  {
+    "street": "Via Lozzia",
+    "number": "12",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8987286,
+    "longitude": 8.6568194
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "32",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8983712,
+    "longitude": 8.6567596
+  },
+  {
+    "street": "Via Giosuè Carducci",
+    "number": "9",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.896369,
+    "longitude": 8.6632788
+  },
+  {
+    "street": "Via Giosuè Carducci",
+    "number": "11",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.896372,
+    "longitude": 8.6632135
+  },
+  {
+    "street": "Via Giosuè Carducci",
+    "number": "13",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.896375,
+    "longitude": 8.6631353
+  },
+  {
+    "street": "Via della Cappelletta",
+    "number": "3",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8947386,
+    "longitude": 8.6782149
+  },
+  {
+    "street": "Via della Cappelletta",
+    "number": "6",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8946409,
+    "longitude": 8.6783825
+  },
+  {
+    "street": "Via della Cappelletta",
+    "number": "8",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8946129,
+    "longitude": 8.6785039
+  },
+  {
+    "street": "Via della Cappelletta",
+    "number": "10",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.894622,
+    "longitude": 8.6788915
+  },
+  {
+    "street": "Via della Cappelletta",
+    "number": "12",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8946155,
+    "longitude": 8.6789914
+  },
+  {
+    "street": "Via della Cappelletta",
+    "number": "20",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8947631,
+    "longitude": 8.6796415
+  },
+  {
+    "street": "Via della Cappelletta",
+    "number": "22",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8947488,
+    "longitude": 8.6797116
+  },
+  {
+    "street": "Via della Cappelletta",
+    "number": "41",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8947311,
+    "longitude": 8.6800326
+  },
+  {
+    "street": "Via della Cappelletta",
+    "number": "47",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8945599,
+    "longitude": 8.6802926
+  },
+  {
+    "street": "Via della Cappelletta",
+    "number": "43",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8952771,
+    "longitude": 8.6793763
+  },
+  {
+    "street": "Via Roma",
+    "number": "55",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8970352,
+    "longitude": 8.6601641
+  },
+  {
+    "street": "Via Roma",
+    "number": "53",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8969187,
+    "longitude": 8.6601673
+  },
+  {
+    "street": "Via del Carro",
+    "number": "32",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8952837,
+    "longitude": 8.6565454
+  },
+  {
+    "street": "Via Case Sparse",
+    "number": "2",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.920789,
+    "longitude": 8.6511872
+  },
+  {
+    "street": "Via Laveno",
+    "number": "38",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.9013635,
+    "longitude": 8.6498669
+  },
+  {
+    "street": "Via Pianella",
+    "number": "33",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.9025727,
+    "longitude": 8.6622478
+  },
+  {
+    "street": "Via Giosuè Carducci",
+    "number": "37",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8962182,
+    "longitude": 8.6617472
+  },
+  {
+    "street": "Via alle Scuole",
+    "number": "12",
+    "city": {
+      "name": "Cittiglio",
+      "istat": "012051"
+    },
+    "latitude": 45.8972782,
+    "longitude": 8.6657916
+  }
+]

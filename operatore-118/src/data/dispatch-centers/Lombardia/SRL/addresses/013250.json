@@ -1,0 +1,922 @@
+[
+  {
+    "street": "Piazza Giuseppe Mazzini",
+    "number": "8",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9869515,
+    "longitude": 9.260811
+  },
+  {
+    "street": "Via Valassina",
+    "number": "8",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9848759,
+    "longitude": 9.2619667
+  },
+  {
+    "street": "Via Salita Genazzini",
+    "number": "4",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9854676,
+    "longitude": 9.2608205
+  },
+  {
+    "street": "Via Eugenio Vitali",
+    "number": "8",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9886991,
+    "longitude": 9.2619357
+  },
+  {
+    "street": "Piazza Giuseppe Mazzini",
+    "number": "46",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9879506,
+    "longitude": 9.2606589
+  },
+  {
+    "street": "Piazza Giuseppe Mazzini",
+    "number": "32",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9875157,
+    "longitude": 9.2607781
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "26",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9866343,
+    "longitude": 9.2624129
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "33",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9866651,
+    "longitude": 9.2622882
+  },
+  {
+    "street": "via Lazzaretto",
+    "number": "8",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9769519,
+    "longitude": 9.259715
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "40",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.976072,
+    "longitude": 9.2581689
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "15",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9747257,
+    "longitude": 9.2599735
+  },
+  {
+    "street": "Salita Genazzini",
+    "number": "3",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9855584,
+    "longitude": 9.2609026
+  },
+  {
+    "street": "Via Eugenio Vitali",
+    "number": "24",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9894208,
+    "longitude": 9.2626301
+  },
+  {
+    "street": "Via Roma",
+    "number": "21",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9881208,
+    "longitude": 9.2618264
+  },
+  {
+    "street": "Piazza della Chiesa",
+    "number": "6",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9875847,
+    "longitude": 9.2620575
+  },
+  {
+    "street": "Salita Mella",
+    "number": "43-45",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9873179,
+    "longitude": 9.2621837
+  },
+  {
+    "street": "Via Roncati",
+    "number": "12",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9874606,
+    "longitude": 9.2625692
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "50",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9871897,
+    "longitude": 9.2619795
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "46",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9871347,
+    "longitude": 9.2620305
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "34",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9867836,
+    "longitude": 9.2623363
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "16",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9865213,
+    "longitude": 9.2624522
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "14",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9864785,
+    "longitude": 9.2624589
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "21",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9862777,
+    "longitude": 9.2623623
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "25",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9863775,
+    "longitude": 9.2623483
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "41-43",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9867616,
+    "longitude": 9.262243
+  },
+  {
+    "street": "Via Carlo Bellosio",
+    "number": "1",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9869794,
+    "longitude": 9.2620483
+  },
+  {
+    "street": "Piazza della Chiesa",
+    "number": "7",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9878131,
+    "longitude": 9.2617904
+  },
+  {
+    "street": "Salita Cernaia",
+    "number": "14",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9867908,
+    "longitude": 9.2612832
+  },
+  {
+    "street": "Salita Monastero",
+    "number": "6",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9877622,
+    "longitude": 9.2608911
+  },
+  {
+    "street": "Via Centrale",
+    "number": "7",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9878302,
+    "longitude": 9.261306
+  },
+  {
+    "street": "Salita Mella",
+    "number": "15",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9873303,
+    "longitude": 9.261305
+  },
+  {
+    "street": "Salita Mella",
+    "number": "14",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9873309,
+    "longitude": 9.2610668
+  },
+  {
+    "street": "Salita Mella",
+    "number": "26",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9872986,
+    "longitude": 9.2615856
+  },
+  {
+    "street": "Salita Mella",
+    "number": "3",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.987366,
+    "longitude": 9.2608785
+  },
+  {
+    "street": "Piazza Giuseppe Mazzini",
+    "number": "1",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9867616,
+    "longitude": 9.2606295
+  },
+  {
+    "street": "Piazza Giuseppe Mazzini",
+    "number": "2",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9867901,
+    "longitude": 9.2608378
+  },
+  {
+    "street": "Salita San Grandi",
+    "number": "6",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9869043,
+    "longitude": 9.2611574
+  },
+  {
+    "street": "Salita Serbelloni",
+    "number": "13",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9866788,
+    "longitude": 9.2610662
+  },
+  {
+    "street": "Salita Serbelloni",
+    "number": "8",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9866238,
+    "longitude": 9.2610112
+  },
+  {
+    "street": "Salita Serbelloni",
+    "number": "4",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9866229,
+    "longitude": 9.2609174
+  },
+  {
+    "street": "Salita Serbelloni",
+    "number": "15",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9866816,
+    "longitude": 9.26114
+  },
+  {
+    "street": "Salita Serbelloni",
+    "number": "16",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9866135,
+    "longitude": 9.2611507
+  },
+  {
+    "street": "Salita Serbelloni",
+    "number": "22",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9865977,
+    "longitude": 9.2612862
+  },
+  {
+    "street": "Salita Serbelloni",
+    "number": "41",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9866146,
+    "longitude": 9.2620788
+  },
+  {
+    "street": "Salita Serbelloni",
+    "number": "45",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9866317,
+    "longitude": 9.2621701
+  },
+  {
+    "street": "Lungo Lario Manzoni",
+    "number": "28",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9860627,
+    "longitude": 9.2609524
+  },
+  {
+    "street": "Piazza Giuseppe Mazzini",
+    "number": "4",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9853613,
+    "longitude": 9.2607037
+  },
+  {
+    "street": "Via Melzi D'Eril",
+    "number": "1",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9776773,
+    "longitude": 9.2524662
+  },
+  {
+    "street": "Via Rezia",
+    "number": "2",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9745204,
+    "longitude": 9.245438
+  },
+  {
+    "street": "Piazza San Giovanni Battista",
+    "number": "6",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9747562,
+    "longitude": 9.245218
+  },
+  {
+    "street": "Via Cavour",
+    "number": "37",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.987136,
+    "longitude": 9.2621128
+  },
+  {
+    "street": "Via Centrale",
+    "number": "5",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9878985,
+    "longitude": 9.2613357
+  },
+  {
+    "street": "Via Roma",
+    "number": "9",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9880662,
+    "longitude": 9.2611867
+  },
+  {
+    "street": "Salita Mella",
+    "number": "13",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9874036,
+    "longitude": 9.2612557
+  },
+  {
+    "street": "Via Valassina",
+    "number": "180",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9677896,
+    "longitude": 9.2525246
+  },
+  {
+    "street": "Salita Serbelloni",
+    "number": "31",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9866438,
+    "longitude": 9.2614911
+  },
+  {
+    "street": "Piazza della Chiesa",
+    "number": "14",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9876207,
+    "longitude": 9.2623072
+  },
+  {
+    "street": "Via Suira",
+    "number": "40",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9741638,
+    "longitude": 9.2536989
+  },
+  {
+    "street": "Via Valassina",
+    "number": "103",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.973915,
+    "longitude": 9.2613113
+  },
+  {
+    "street": "Via Prà Grasso",
+    "number": "12",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9396591,
+    "longitude": 9.2765862
+  },
+  {
+    "street": "Via Prà Grasso",
+    "number": "10",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9389298,
+    "longitude": 9.2764547
+  },
+  {
+    "street": "Via Prà Grasso",
+    "number": "15",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9392814,
+    "longitude": 9.2763931
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "36",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9754675,
+    "longitude": 9.2583731
+  },
+  {
+    "street": "Via Stelvio",
+    "number": "16",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9368998,
+    "longitude": 9.2738932
+  },
+  {
+    "street": "Via Roma",
+    "number": "19",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9882572,
+    "longitude": 9.2618295
+  },
+  {
+    "street": "Via Roma",
+    "number": "17",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9883701,
+    "longitude": 9.2618693
+  },
+  {
+    "street": "Via dei Pescatori",
+    "number": "2",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9754427,
+    "longitude": 9.2453783
+  },
+  {
+    "street": "Via dei Pescatori",
+    "number": "16",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9750831,
+    "longitude": 9.245847
+  },
+  {
+    "street": "Via dei Pescatori",
+    "number": "20",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9750087,
+    "longitude": 9.2459081
+  },
+  {
+    "street": "Via dei Pescatori",
+    "number": "12",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9751055,
+    "longitude": 9.2458278
+  },
+  {
+    "street": "Via dei Pescatori",
+    "number": "28",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9749189,
+    "longitude": 9.2459765
+  },
+  {
+    "street": "Via dei Pescatori",
+    "number": "1",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9755788,
+    "longitude": 9.2453264
+  },
+  {
+    "street": "Via dei Pescatori",
+    "number": "3",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9754469,
+    "longitude": 9.2455256
+  },
+  {
+    "street": "Via Pescallo",
+    "number": "19",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.981471,
+    "longitude": 9.2632488
+  },
+  {
+    "street": "Salita Camillo Benso Conte di Cavour",
+    "number": "15",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9872021,
+    "longitude": 9.2613274
+  },
+  {
+    "street": "Salita Serbelloni",
+    "number": "5",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9866836,
+    "longitude": 9.2608822
+  },
+  {
+    "street": "Via Jacopo Rezia",
+    "number": "13",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9747995,
+    "longitude": 9.2458917
+  },
+  {
+    "street": "Via Jacopo Rezia",
+    "number": "22",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9748973,
+    "longitude": 9.2461701
+  },
+  {
+    "street": "Via Ciceri",
+    "number": "15",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9747015,
+    "longitude": 9.2492771
+  },
+  {
+    "street": "Via Menaresta",
+    "number": "2",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.925528,
+    "longitude": 9.2474681
+  },
+  {
+    "street": "Via Menaresta",
+    "number": "3",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9256418,
+    "longitude": 9.2482701
+  },
+  {
+    "street": "Via Menaresta",
+    "number": "1",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9262827,
+    "longitude": 9.2474265
+  },
+  {
+    "street": "Via Roma",
+    "number": "7",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.988026,
+    "longitude": 9.2610917
+  },
+  {
+    "street": "Salita Monastero",
+    "number": "3",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9878272,
+    "longitude": 9.2610204
+  },
+  {
+    "street": "Via Paolo Carcano",
+    "number": "12",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9773967,
+    "longitude": 9.2534611
+  },
+  {
+    "street": "Via per Vergonese",
+    "number": "24",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9690333,
+    "longitude": 9.2425704
+  },
+  {
+    "street": "Via Eugenio Vitali",
+    "number": "20",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9889663,
+    "longitude": 9.2620414
+  },
+  {
+    "street": "Via Roma",
+    "number": "1",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9888112,
+    "longitude": 9.2611665
+  },
+  {
+    "street": "Via Eugenio Vitali",
+    "number": "19",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9908899,
+    "longitude": 9.2644563
+  },
+  {
+    "street": "Via Eugenio Vitali",
+    "number": "17",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9908482,
+    "longitude": 9.263942
+  },
+  {
+    "street": "Salita Plinio",
+    "number": "7",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9877049,
+    "longitude": 9.2610105
+  },
+  {
+    "street": "Via Valassina",
+    "number": "69",
+    "city": {
+      "name": "Bellagio",
+      "istat": "013250"
+    },
+    "latitude": 45.9801511,
+    "longitude": 9.262121
+  }
+]

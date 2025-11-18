@@ -1,0 +1,82 @@
+[
+  {
+    "street": "Via alla Chiesa",
+    "number": "4",
+    "city": {
+      "name": "Maslianico",
+      "istat": "013144"
+    },
+    "latitude": 45.8430351,
+    "longitude": 9.0467626
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "37",
+    "city": {
+      "name": "Maslianico",
+      "istat": "013144"
+    },
+    "latitude": 45.8425115,
+    "longitude": 9.0479773
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "1",
+    "city": {
+      "name": "Maslianico",
+      "istat": "013144"
+    },
+    "latitude": 45.8421608,
+    "longitude": 9.0497772
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "43",
+    "city": {
+      "name": "Maslianico",
+      "istat": "013144"
+    },
+    "latitude": 45.8427142,
+    "longitude": 9.0466917
+  },
+  {
+    "street": "Via Burgo",
+    "number": "11",
+    "city": {
+      "name": "Maslianico",
+      "istat": "013144"
+    },
+    "latitude": 45.8412012,
+    "longitude": 9.0492965
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "49A",
+    "city": {
+      "name": "Maslianico",
+      "istat": "013144"
+    },
+    "latitude": 45.842991,
+    "longitude": 9.0450805
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "23",
+    "city": {
+      "name": "Maslianico",
+      "istat": "013144"
+    },
+    "latitude": 45.8435429,
+    "longitude": 9.045961
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "74",
+    "city": {
+      "name": "Maslianico",
+      "istat": "013144"
+    },
+    "latitude": 45.844377,
+    "longitude": 9.0422181
+  }
+]

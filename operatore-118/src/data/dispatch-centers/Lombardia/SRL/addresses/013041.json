@@ -1,0 +1,1852 @@
+[
+  {
+    "street": "Corso Europa",
+    "number": "23",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7351014,
+    "longitude": 9.1141188
+  },
+  {
+    "street": "Corso Europa",
+    "number": "5",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7396769,
+    "longitude": 9.1181564
+  },
+  {
+    "street": "Via Achille Grandi",
+    "number": "32",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7414685,
+    "longitude": 9.1188626
+  },
+  {
+    "street": "Via Caserta",
+    "number": "31",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7291376,
+    "longitude": 9.1306253
+  },
+  {
+    "street": "Via Papa Giovanni XXIII",
+    "number": "7",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7413186,
+    "longitude": 9.1152003
+  },
+  {
+    "street": "Piazza Volontari della Libertà",
+    "number": "1",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7363349,
+    "longitude": 9.1280667
+  },
+  {
+    "street": "Piazza Giuseppe Garibaldi",
+    "number": "13",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7391746,
+    "longitude": 9.1295774
+  },
+  {
+    "street": "Via Lario",
+    "number": "29",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7269291,
+    "longitude": 9.1426057
+  },
+  {
+    "street": "Via Ettore Brambilla",
+    "number": "23",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7427352,
+    "longitude": 9.13438
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "22",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7423605,
+    "longitude": 9.1291425
+  },
+  {
+    "street": "Via Milano",
+    "number": "123",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7250436,
+    "longitude": 9.1449069
+  },
+  {
+    "street": "Via Milano",
+    "number": "100",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7229108,
+    "longitude": 9.147343
+  },
+  {
+    "street": "Via Milano",
+    "number": "131a",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7250656,
+    "longitude": 9.1482178
+  },
+  {
+    "street": "Via Milano",
+    "number": "113",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7263147,
+    "longitude": 9.1427762
+  },
+  {
+    "street": "Via Milano",
+    "number": "99",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7277806,
+    "longitude": 9.1392845
+  },
+  {
+    "street": "Via Milano",
+    "number": "74",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7275105,
+    "longitude": 9.1388784
+  },
+  {
+    "street": "Via Milano",
+    "number": "93",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7279994,
+    "longitude": 9.1387513
+  },
+  {
+    "street": "Via Milano",
+    "number": "71",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7294382,
+    "longitude": 9.1358393
+  },
+  {
+    "street": "Piazzale Stazione 2",
+    "number": "2",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7160635,
+    "longitude": 9.0999147
+  },
+  {
+    "street": "Piazza Sirtori",
+    "number": "5",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7410202,
+    "longitude": 9.1271061
+  },
+  {
+    "street": "Via Giovanni Da Cermenate",
+    "number": "2",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7337633,
+    "longitude": 9.1233815
+  },
+  {
+    "street": "Via Paradiso",
+    "number": "38",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7279873,
+    "longitude": 9.1240843
+  },
+  {
+    "street": "Via Rebecchino",
+    "number": "12",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7387975,
+    "longitude": 9.1279384
+  },
+  {
+    "street": "Via per Alzate",
+    "number": "63",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7486627,
+    "longitude": 9.1437797
+  },
+  {
+    "street": "Via per Alzate",
+    "number": "65",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7492298,
+    "longitude": 9.1431064
+  },
+  {
+    "street": "Via Milano",
+    "number": "127b",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7255734,
+    "longitude": 9.1473558
+  },
+  {
+    "street": "Via Milano",
+    "number": "129b",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7245937,
+    "longitude": 9.1473269
+  },
+  {
+    "street": "Via Milano",
+    "number": "129f",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7248141,
+    "longitude": 9.1470708
+  },
+  {
+    "street": "Via Milano",
+    "number": "127a",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7254825,
+    "longitude": 9.1468721
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "1",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7454011,
+    "longitude": 9.1221338
+  },
+  {
+    "street": "Via Milano",
+    "number": "47",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7324862,
+    "longitude": 9.1324496
+  },
+  {
+    "street": "Via Montello",
+    "number": "49",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7286123,
+    "longitude": 9.1607208
+  },
+  {
+    "street": "Via Giovanni da Cermenate",
+    "number": "20",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7330743,
+    "longitude": 9.1200468
+  },
+  {
+    "street": "Via Monte Baldo",
+    "number": "31",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7250149,
+    "longitude": 9.164159
+  },
+  {
+    "street": "Via Brianza",
+    "number": "65",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7363592,
+    "longitude": 9.1681937
+  },
+  {
+    "street": "Viale Lombardia",
+    "number": "68",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7175663,
+    "longitude": 9.1563804
+  },
+  {
+    "street": "Via per Alzate",
+    "number": "30",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7443155,
+    "longitude": 9.1408677
+  },
+  {
+    "street": "Piazzale Stazione",
+    "number": "4/5",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7164433,
+    "longitude": 9.099901
+  },
+  {
+    "street": "Via Brianza",
+    "number": "19",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7331854,
+    "longitude": 9.1610181
+  },
+  {
+    "street": "Piazza Martiri di Belfiore",
+    "number": "1",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7384814,
+    "longitude": 9.1255952
+  },
+  {
+    "street": "Via Carlo Annoni",
+    "number": "4",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7397709,
+    "longitude": 9.1301119
+  },
+  {
+    "street": "Via Carlo Annoni",
+    "number": "5",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7401111,
+    "longitude": 9.1300749
+  },
+  {
+    "street": "Via Marche",
+    "number": "30",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7146227,
+    "longitude": 9.1516871
+  },
+  {
+    "street": "Via Giulio Carcano",
+    "number": "26",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7340736,
+    "longitude": 9.1238939
+  },
+  {
+    "street": "Via Cesare Cattaneo",
+    "number": "12",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7298684,
+    "longitude": 9.1658184
+  },
+  {
+    "street": "Via Cesare Cattaneo",
+    "number": "10",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7295063,
+    "longitude": 9.1655058
+  },
+  {
+    "street": "Via Cesare Cattaneo",
+    "number": "30",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7337021,
+    "longitude": 9.1664441
+  },
+  {
+    "street": "Via Tonale",
+    "number": "4",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7219192,
+    "longitude": 9.1677074
+  },
+  {
+    "street": "Via Monte Baldo",
+    "number": "7",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7227312,
+    "longitude": 9.166607
+  },
+  {
+    "street": "Via Ettore Brambilla",
+    "number": "1",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.743427,
+    "longitude": 9.1300477
+  },
+  {
+    "street": "Via Tonale",
+    "number": "3",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7215923,
+    "longitude": 9.1678812
+  },
+  {
+    "street": "Via Tonale",
+    "number": "5",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7211598,
+    "longitude": 9.1678511
+  },
+  {
+    "street": "Via Cesare Cattaneo",
+    "number": "22a",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7318991,
+    "longitude": 9.1663973
+  },
+  {
+    "street": "Via Cesare Cattaneo",
+    "number": "26",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7317175,
+    "longitude": 9.1663785
+  },
+  {
+    "street": "Via Cesare Cattaneo",
+    "number": "4",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7277962,
+    "longitude": 9.1630778
+  },
+  {
+    "street": "Via dell'artigianato",
+    "number": "8",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7199263,
+    "longitude": 9.1597154
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "85",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7151882,
+    "longitude": 9.1608399
+  },
+  {
+    "street": "Viale Lombardia",
+    "number": "81",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7163344,
+    "longitude": 9.1593345
+  },
+  {
+    "street": "Via dell'artigianato",
+    "number": "52",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7199169,
+    "longitude": 9.1601134
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "100",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7137259,
+    "longitude": 9.16167
+  },
+  {
+    "street": "Via dell'artigianato",
+    "number": "6",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7195145,
+    "longitude": 9.1588523
+  },
+  {
+    "street": "Viale Lombardia",
+    "number": "83",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7156458,
+    "longitude": 9.1602099
+  },
+  {
+    "street": "Via dell'Artigianato",
+    "number": "11",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7205424,
+    "longitude": 9.1604635
+  },
+  {
+    "street": "Via dell'artigianato",
+    "number": "54",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7202155,
+    "longitude": 9.1600665
+  },
+  {
+    "street": "Viale Lombardia",
+    "number": "63a",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7184933,
+    "longitude": 9.1573716
+  },
+  {
+    "street": "Via dell'Artigianato",
+    "number": "4",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7188996,
+    "longitude": 9.1576875
+  },
+  {
+    "street": "Via dell'artigianato",
+    "number": "10",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7195014,
+    "longitude": 9.1599503
+  },
+  {
+    "street": "Viale Lombardia",
+    "number": "71",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7174342,
+    "longitude": 9.1580577
+  },
+  {
+    "street": "Viale alla Madonna",
+    "number": "11/4",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.737143,
+    "longitude": 9.1340518
+  },
+  {
+    "street": "Via Sante Duzioni",
+    "number": "16",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7185249,
+    "longitude": 9.0983022
+  },
+  {
+    "street": "Via Sante Duzioni",
+    "number": "26",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7207026,
+    "longitude": 9.0976076
+  },
+  {
+    "street": "Via Sante Duzioni",
+    "number": "28",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.720446,
+    "longitude": 9.0969987
+  },
+  {
+    "street": "Via Mameli",
+    "number": "18",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7130726,
+    "longitude": 9.0985527
+  },
+  {
+    "street": "Via Sante Duzioni",
+    "number": "14",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7181294,
+    "longitude": 9.0985135
+  },
+  {
+    "street": "Via Mameli",
+    "number": "37",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7121884,
+    "longitude": 9.098148
+  },
+  {
+    "street": "Via Ariberto Da Intimiano",
+    "number": "3",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7390077,
+    "longitude": 9.1301462
+  },
+  {
+    "street": "Via per Alzate",
+    "number": "76",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7503648,
+    "longitude": 9.1453876
+  },
+  {
+    "street": "Via Vivaldi",
+    "number": "43",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7339005,
+    "longitude": 9.1612329
+  },
+  {
+    "street": "Via Sparta",
+    "number": "18",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7444353,
+    "longitude": 9.1479608
+  },
+  {
+    "street": "Via Sparta",
+    "number": "16",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7442921,
+    "longitude": 9.1460162
+  },
+  {
+    "street": "Via Brianza",
+    "number": "57",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7367992,
+    "longitude": 9.1683279
+  },
+  {
+    "street": "Via Brianza",
+    "number": "59a",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.736795,
+    "longitude": 9.1689983
+  },
+  {
+    "street": "Via Brianza",
+    "number": "53",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7368597,
+    "longitude": 9.1673737
+  },
+  {
+    "street": "Via Brianza",
+    "number": "59",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7368005,
+    "longitude": 9.1687179
+  },
+  {
+    "street": "Via Marmolada",
+    "number": "7",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7261954,
+    "longitude": 9.1658664
+  },
+  {
+    "street": "Via Monte Baldo",
+    "number": "41a",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7259802,
+    "longitude": 9.1627001
+  },
+  {
+    "street": "Via Marmolada",
+    "number": "3/5",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7261391,
+    "longitude": 9.165388
+  },
+  {
+    "street": "Via Brianza",
+    "number": "42",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7358511,
+    "longitude": 9.169194
+  },
+  {
+    "street": "Via Brianza",
+    "number": "61a",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.736353,
+    "longitude": 9.1686256
+  },
+  {
+    "street": "Via Marmolada",
+    "number": "1",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7260955,
+    "longitude": 9.1641008
+  },
+  {
+    "street": "Via Monte Baldo",
+    "number": "30",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7255462,
+    "longitude": 9.1642188
+  },
+  {
+    "street": "Via Brianza",
+    "number": "40",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7357887,
+    "longitude": 9.16865
+  },
+  {
+    "street": "Via Monte Baldo",
+    "number": "38",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7258612,
+    "longitude": 9.1622765
+  },
+  {
+    "street": "Via Brianza",
+    "number": "61",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7367439,
+    "longitude": 9.1693881
+  },
+  {
+    "street": "Via Brianza",
+    "number": "55",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7367941,
+    "longitude": 9.1678927
+  },
+  {
+    "street": "Via Monte Baldo",
+    "number": "45",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7262747,
+    "longitude": 9.1620907
+  },
+  {
+    "street": "Via Brianza",
+    "number": "49",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7363513,
+    "longitude": 9.1677315
+  },
+  {
+    "street": "Via Brianza",
+    "number": "51",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7366791,
+    "longitude": 9.1673788
+  },
+  {
+    "street": "Via Genova",
+    "number": "9n",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7244787,
+    "longitude": 9.1416966
+  },
+  {
+    "street": "Via Genova",
+    "number": "11",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7234481,
+    "longitude": 9.1426884
+  },
+  {
+    "street": "Via Milano",
+    "number": "46",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7224152,
+    "longitude": 9.1439817
+  },
+  {
+    "street": "Via Genova",
+    "number": "13",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7230398,
+    "longitude": 9.1422098
+  },
+  {
+    "street": "Via Genova",
+    "number": "5",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7251241,
+    "longitude": 9.1427504
+  },
+  {
+    "street": "Via Milano",
+    "number": "94",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7245659,
+    "longitude": 9.1441917
+  },
+  {
+    "street": "Via Milano",
+    "number": "135",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7231214,
+    "longitude": 9.1480876
+  },
+  {
+    "street": "Via Genova",
+    "number": "15a",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7230484,
+    "longitude": 9.1417427
+  },
+  {
+    "street": "Via Genova",
+    "number": "9",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7246623,
+    "longitude": 9.1419612
+  },
+  {
+    "street": "Via San Giuseppe",
+    "number": "46",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7260683,
+    "longitude": 9.1438292
+  },
+  {
+    "street": "Via Genova",
+    "number": "13b",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7221252,
+    "longitude": 9.1425426
+  },
+  {
+    "street": "Via Rienti",
+    "number": "15",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7183044,
+    "longitude": 9.1000914
+  },
+  {
+    "street": "Via Rienti",
+    "number": "1",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7168892,
+    "longitude": 9.0998953
+  },
+  {
+    "street": "Via Rienti",
+    "number": "27",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7201992,
+    "longitude": 9.0997449
+  },
+  {
+    "street": "Via Mameli",
+    "number": "7",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7155382,
+    "longitude": 9.0998928
+  },
+  {
+    "street": "Via Rienti",
+    "number": "2",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7165819,
+    "longitude": 9.0998177
+  },
+  {
+    "street": "Via Mameli",
+    "number": "6",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7149617,
+    "longitude": 9.0995683
+  },
+  {
+    "street": "Via Milano",
+    "number": "129h",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.724976,
+    "longitude": 9.147334
+  },
+  {
+    "street": "Via Mameli",
+    "number": "14",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7141125,
+    "longitude": 9.0991733
+  },
+  {
+    "street": "Piazzale Stazione",
+    "number": "5",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7163068,
+    "longitude": 9.0998704
+  },
+  {
+    "street": "Via Genova",
+    "number": "15b",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7227371,
+    "longitude": 9.1420401
+  },
+  {
+    "street": "Via Antonio Stoppani",
+    "number": "80",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7240601,
+    "longitude": 9.1121786
+  },
+  {
+    "street": "Piazzale Stazione",
+    "number": "6b",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7161023,
+    "longitude": 9.0999
+  },
+  {
+    "street": "Via Milano",
+    "number": "125",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.724946,
+    "longitude": 9.1463122
+  },
+  {
+    "street": "Via Milano",
+    "number": "96",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7235423,
+    "longitude": 9.1457158
+  },
+  {
+    "street": "Via Genova",
+    "number": "7",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7249319,
+    "longitude": 9.1423591
+  },
+  {
+    "street": "Via Milano",
+    "number": "129",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.724758,
+    "longitude": 9.1469714
+  },
+  {
+    "street": "Via Monte Baldo",
+    "number": "48c",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7271979,
+    "longitude": 9.1639177
+  },
+  {
+    "street": "Via Genova",
+    "number": "13d",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7225323,
+    "longitude": 9.1435932
+  },
+  {
+    "street": "Via Dante",
+    "number": "18",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.741942,
+    "longitude": 9.1290749
+  },
+  {
+    "street": "Via Rienti",
+    "number": "9a",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.717905,
+    "longitude": 9.099896
+  },
+  {
+    "street": "Via Rienti",
+    "number": "23",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7188794,
+    "longitude": 9.1000931
+  },
+  {
+    "street": "Via Bisbino",
+    "number": "7",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7300425,
+    "longitude": 9.1384975
+  },
+  {
+    "street": "Via Milano",
+    "number": "89",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7282351,
+    "longitude": 9.1383211
+  },
+  {
+    "street": "SP38 Via per Alzate",
+    "number": "125",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7586615,
+    "longitude": 9.1594047
+  },
+  {
+    "street": "Via Monfotre",
+    "number": "20",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7256061,
+    "longitude": 9.1710995
+  },
+  {
+    "street": "Via Ettore Brambilla",
+    "number": "17",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7430308,
+    "longitude": 9.1325775
+  },
+  {
+    "street": "Via Borgognone",
+    "number": "38",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7306879,
+    "longitude": 9.1269713
+  },
+  {
+    "street": "Piazza Guglielmo Marconi",
+    "number": "1",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7395111,
+    "longitude": 9.1262453
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "54",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7516868,
+    "longitude": 9.1243004
+  },
+  {
+    "street": "Via Como",
+    "number": "230",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7614609,
+    "longitude": 9.1174107
+  },
+  {
+    "street": "Via Filippo Rienti",
+    "number": "45",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7252012,
+    "longitude": 9.104048
+  },
+  {
+    "street": "Via Montina",
+    "number": "50",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7261685,
+    "longitude": 9.0987783
+  },
+  {
+    "street": "Viale Lombardia",
+    "number": "67",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7176675,
+    "longitude": 9.1576394
+  },
+  {
+    "street": "Via dell'artigianato",
+    "number": "20",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7184527,
+    "longitude": 9.1602531
+  },
+  {
+    "street": "Via dell'artigianato",
+    "number": "30/32",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7186549,
+    "longitude": 9.161255
+  },
+  {
+    "street": "Via dell'artigianato",
+    "number": "18",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7187529,
+    "longitude": 9.1599992
+  },
+  {
+    "street": "Via dell'artigianato",
+    "number": "28",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7184162,
+    "longitude": 9.1614953
+  },
+  {
+    "street": "Via dell'artigianato",
+    "number": "44",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7193398,
+    "longitude": 9.1606876
+  },
+  {
+    "street": "Via dell'artigianato",
+    "number": "48",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7197068,
+    "longitude": 9.1605099
+  },
+  {
+    "street": "Via dell'artigianato",
+    "number": "14",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7189853,
+    "longitude": 9.159411
+  },
+  {
+    "street": "Via dell'artigianato",
+    "number": "16",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7191323,
+    "longitude": 9.1600187
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "96",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.713826,
+    "longitude": 9.1599015
+  },
+  {
+    "street": "Via Milano",
+    "number": "82",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7265416,
+    "longitude": 9.1403044
+  },
+  {
+    "street": "Via Genova",
+    "number": "2",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7258486,
+    "longitude": 9.1428613
+  },
+  {
+    "street": "Via Milano",
+    "number": "72",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7280132,
+    "longitude": 9.1370583
+  },
+  {
+    "street": "Via Tonale",
+    "number": "21",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7196045,
+    "longitude": 9.167862
+  },
+  {
+    "street": "Via dell'Artigianato",
+    "number": "5",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7200663,
+    "longitude": 9.15806
+  },
+  {
+    "street": "Via dell'artigianato",
+    "number": "9",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7202872,
+    "longitude": 9.1584888
+  },
+  {
+    "street": "Via dell'Artigianato",
+    "number": "21",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7205462,
+    "longitude": 9.1614549
+  },
+  {
+    "street": "Via Monte Baldo",
+    "number": "43",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7262121,
+    "longitude": 9.1628352
+  },
+  {
+    "street": "Via Monte Baldo",
+    "number": "15",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.723452,
+    "longitude": 9.1650417
+  },
+  {
+    "street": "Via Marmolada",
+    "number": "12",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7257117,
+    "longitude": 9.1659184
+  },
+  {
+    "street": "Via Niccolò Paganini",
+    "number": "10",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7278441,
+    "longitude": 9.1601464
+  },
+  {
+    "street": "Via Cesare Cattaneo",
+    "number": "6",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7281024,
+    "longitude": 9.1639025
+  },
+  {
+    "street": "Via Cesare Cattaneo",
+    "number": "18",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7309166,
+    "longitude": 9.1667541
+  },
+  {
+    "street": "Via Cesare Cattaneo",
+    "number": "5",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7291,
+    "longitude": 9.1632034
+  },
+  {
+    "street": "Via Cesare Cattaneo",
+    "number": "14",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7300625,
+    "longitude": 9.1662427
+  },
+  {
+    "street": "Via Cesare Cattaneo",
+    "number": "20",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7314207,
+    "longitude": 9.1667838
+  },
+  {
+    "street": "Via per Alzate",
+    "number": "62",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7482948,
+    "longitude": 9.1440486
+  },
+  {
+    "street": "Via Ovidio",
+    "number": "32",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7479165,
+    "longitude": 9.1519867
+  },
+  {
+    "street": "Via Merano",
+    "number": "3",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7482342,
+    "longitude": 9.1327762
+  },
+  {
+    "street": "Via Sesia",
+    "number": "1",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7431488,
+    "longitude": 9.1166683
+  },
+  {
+    "street": "Via Giovanni da Cermenate",
+    "number": "97",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7287511,
+    "longitude": 9.108385
+  },
+  {
+    "street": "Via dei Partigiani",
+    "number": "18",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7128415,
+    "longitude": 9.1015732
+  },
+  {
+    "street": "Via dei Partigiani",
+    "number": "16",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.712983,
+    "longitude": 9.1009731
+  },
+  {
+    "street": "Via Montesolaro",
+    "number": "10",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7281006,
+    "longitude": 9.1216832
+  },
+  {
+    "street": "Via Montesolaro",
+    "number": "14b",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7266187,
+    "longitude": 9.1195021
+  },
+  {
+    "street": "Via Montesolaro",
+    "number": "27",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7262405,
+    "longitude": 9.1236445
+  },
+  {
+    "street": "Via Paradiso",
+    "number": "47",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.725371,
+    "longitude": 9.1249794
+  },
+  {
+    "street": "Via Montesolaro",
+    "number": "2",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7244308,
+    "longitude": 9.122161
+  },
+  {
+    "street": "Via Cesare Cattaneo",
+    "number": "8",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.72887,
+    "longitude": 9.1652482
+  },
+  {
+    "street": "Via Milano",
+    "number": "133",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7237455,
+    "longitude": 9.1475377
+  },
+  {
+    "street": "Via Federico Confalonieri",
+    "number": "6",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7327554,
+    "longitude": 9.1467657
+  },
+  {
+    "street": "Via Milano",
+    "number": "88",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7258422,
+    "longitude": 9.1415212
+  },
+  {
+    "street": "Via Tonale",
+    "number": "30",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7189793,
+    "longitude": 9.1663677
+  },
+  {
+    "street": "Via Rienti",
+    "number": "10",
+    "city": {
+      "name": "Cantù",
+      "istat": "013041"
+    },
+    "latitude": 45.7188944,
+    "longitude": 9.100951
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "street": "Via Taverna",
+    "number": "21",
+    "city": {
+      "name": "Cugliate-Fabiasco",
+      "istat": "012059"
+    },
+    "latitude": 45.9413221,
+    "longitude": 8.8208284
+  },
+  {
+    "street": "Via Taverna",
+    "number": "23f",
+    "city": {
+      "name": "Cugliate-Fabiasco",
+      "istat": "012059"
+    },
+    "latitude": 45.941291,
+    "longitude": 8.8207262
+  },
+  {
+    "street": "Via Taverna",
+    "number": "22",
+    "city": {
+      "name": "Cugliate-Fabiasco",
+      "istat": "012059"
+    },
+    "latitude": 45.9412947,
+    "longitude": 8.8208362
+  },
+  {
+    "street": "Via Taverna",
+    "number": "23d",
+    "city": {
+      "name": "Cugliate-Fabiasco",
+      "istat": "012059"
+    },
+    "latitude": 45.9411556,
+    "longitude": 8.8207421
+  },
+  {
+    "street": "Via Taverna",
+    "number": "23b",
+    "city": {
+      "name": "Cugliate-Fabiasco",
+      "istat": "012059"
+    },
+    "latitude": 45.9412068,
+    "longitude": 8.8208459
+  },
+  {
+    "street": "Via Taverna",
+    "number": "23e",
+    "city": {
+      "name": "Cugliate-Fabiasco",
+      "istat": "012059"
+    },
+    "latitude": 45.9412222,
+    "longitude": 8.8207262
+  },
+  {
+    "street": "Via Taverna",
+    "number": "23",
+    "city": {
+      "name": "Cugliate-Fabiasco",
+      "istat": "012059"
+    },
+    "latitude": 45.9412523,
+    "longitude": 8.8208474
+  },
+  {
+    "street": "Via Taverna",
+    "number": "23c",
+    "city": {
+      "name": "Cugliate-Fabiasco",
+      "istat": "012059"
+    },
+    "latitude": 45.9411534,
+    "longitude": 8.8208443
+  },
+  {
+    "street": "Via Libertà",
+    "number": "39T",
+    "city": {
+      "name": "Cugliate-Fabiasco",
+      "istat": "012059"
+    },
+    "latitude": 45.943455,
+    "longitude": 8.8220907
+  },
+  {
+    "street": "Via Statale",
+    "number": "16",
+    "city": {
+      "name": "Cugliate-Fabiasco",
+      "istat": "012059"
+    },
+    "latitude": 45.9393476,
+    "longitude": 8.8253004
+  },
+  {
+    "street": "Via Mario Filippini",
+    "number": "30",
+    "city": {
+      "name": "Cugliate-Fabiasco",
+      "istat": "012059"
+    },
+    "latitude": 45.9462371,
+    "longitude": 8.8216783
+  },
+  {
+    "street": "Via Ingegner P. Righini",
+    "number": "5",
+    "city": {
+      "name": "Cugliate-Fabiasco",
+      "istat": "012059"
+    },
+    "latitude": 45.9491934,
+    "longitude": 8.8127169
+  },
+  {
+    "street": "Via dei Fabi",
+    "number": "11",
+    "city": {
+      "name": "Cugliate-Fabiasco",
+      "istat": "012059"
+    },
+    "latitude": 45.949757,
+    "longitude": 8.8099801
+  },
+  {
+    "street": "Via Taverna",
+    "number": "28",
+    "city": {
+      "name": "Cugliate-Fabiasco",
+      "istat": "012059"
+    },
+    "latitude": 45.9414989,
+    "longitude": 8.8206005
+  }
+]

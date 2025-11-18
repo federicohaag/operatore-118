@@ -1,0 +1,2482 @@
+[
+  {
+    "street": "Via Lentate",
+    "number": "44",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7676302,
+    "longitude": 8.6531021
+  },
+  {
+    "street": "Via alla Punta",
+    "number": "3",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.738666,
+    "longitude": 8.5989556
+  },
+  {
+    "street": "Via Roma",
+    "number": "34",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7239983,
+    "longitude": 8.6313394
+  },
+  {
+    "street": "Via Piave",
+    "number": "71",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.731004,
+    "longitude": 8.6364607
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "16",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7256125,
+    "longitude": 8.6324478
+  },
+  {
+    "street": "Piazza Giuseppe Mazzini",
+    "number": "16",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.72384,
+    "longitude": 8.6320607
+  },
+  {
+    "street": "Via Sempione",
+    "number": "72",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7226553,
+    "longitude": 8.6587599
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "6",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7316093,
+    "longitude": 8.6484025
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "32",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7251887,
+    "longitude": 8.6351532
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "1",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7256147,
+    "longitude": 8.6354526
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "35",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7251268,
+    "longitude": 8.6349813
+  },
+  {
+    "street": "Via delle Paludi",
+    "number": "1",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7223848,
+    "longitude": 8.6609951
+  },
+  {
+    "street": "Via Crocera",
+    "number": "38",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7390021,
+    "longitude": 8.5987871
+  },
+  {
+    "street": "Piazza Giuseppe Mazzini",
+    "number": "10",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7241281,
+    "longitude": 8.6316818
+  },
+  {
+    "street": "Viale Italia",
+    "number": "21",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7235575,
+    "longitude": 8.6329997
+  },
+  {
+    "street": "Via Filippo Beltrami",
+    "number": "19",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7231756,
+    "longitude": 8.6489852
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "31",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7225829,
+    "longitude": 8.6484657
+  },
+  {
+    "street": "Viale Italia",
+    "number": "67",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7236442,
+    "longitude": 8.6354241
+  },
+  {
+    "street": "Viale Italia",
+    "number": "69",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7236544,
+    "longitude": 8.6355096
+  },
+  {
+    "street": "Viale Italia",
+    "number": "19",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7235545,
+    "longitude": 8.6329381
+  },
+  {
+    "street": "Via Filippo Beltrami",
+    "number": "23",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7230422,
+    "longitude": 8.6487885
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "29",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7226956,
+    "longitude": 8.6480182
+  },
+  {
+    "street": "Via Capitano Francesco Simonetta",
+    "number": "5",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7222899,
+    "longitude": 8.6475252
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "58",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7225028,
+    "longitude": 8.6482495
+  },
+  {
+    "street": "Piazza Giuseppe Garibaldi",
+    "number": "15",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7242682,
+    "longitude": 8.6343972
+  },
+  {
+    "street": "Piazza Carlo De Cristoforis",
+    "number": "5",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7238553,
+    "longitude": 8.6347524
+  },
+  {
+    "street": "Piazza Giuseppe Garibaldi",
+    "number": "27",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7238723,
+    "longitude": 8.6341266
+  },
+  {
+    "street": "Piazza Carlo De Cristoforis",
+    "number": "1",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7236363,
+    "longitude": 8.6347616
+  },
+  {
+    "street": "Ruga del Marozzo",
+    "number": "2",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7235778,
+    "longitude": 8.6327416
+  },
+  {
+    "street": "Via Filippo Beltrami",
+    "number": "17",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7232055,
+    "longitude": 8.6491452
+  },
+  {
+    "street": "Viale Italia",
+    "number": "17",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7235553,
+    "longitude": 8.6328536
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "27",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.722723,
+    "longitude": 8.647776
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "35",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7224198,
+    "longitude": 8.6491423
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "54",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7226251,
+    "longitude": 8.6477555
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "60",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7224132,
+    "longitude": 8.6487338
+  },
+  {
+    "street": "Via Filippo Beltrami",
+    "number": "15",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7231625,
+    "longitude": 8.6493093
+  },
+  {
+    "street": "Via Filippo Beltrami",
+    "number": "21",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7231082,
+    "longitude": 8.6488553
+  },
+  {
+    "street": "Via Filippo Beltrami",
+    "number": "29",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7228026,
+    "longitude": 8.6487659
+  },
+  {
+    "street": "Via Capitano Francesco Simonetta",
+    "number": "3",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7224607,
+    "longitude": 8.6476102
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "33",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.722531,
+    "longitude": 8.6487887
+  },
+  {
+    "street": "Ruga del Molo",
+    "number": "4",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7236515,
+    "longitude": 8.6341713
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "56",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7225315,
+    "longitude": 8.6481052
+  },
+  {
+    "street": "Via Capitano Francesco Simonetta",
+    "number": "9",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7221965,
+    "longitude": 8.6474969
+  },
+  {
+    "street": "Ruga del Porto Vecchio",
+    "number": "1",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7238504,
+    "longitude": 8.6353911
+  },
+  {
+    "street": "Piazza Publio Cornelio Scipione",
+    "number": "1",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7236963,
+    "longitude": 8.6359212
+  },
+  {
+    "street": "Viale Italia",
+    "number": "71",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7236591,
+    "longitude": 8.635576
+  },
+  {
+    "street": "Piazza Publio Cornelio Scipione",
+    "number": "5",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7238901,
+    "longitude": 8.6359479
+  },
+  {
+    "street": "Viale Italia",
+    "number": "25",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7235634,
+    "longitude": 8.6331978
+  },
+  {
+    "street": "Viale Italia",
+    "number": "23",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7235585,
+    "longitude": 8.633137
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "64",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7238833,
+    "longitude": 8.6496462
+  },
+  {
+    "street": "Via Roma",
+    "number": "14",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7239072,
+    "longitude": 8.6330544
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "2",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7242977,
+    "longitude": 8.6345443
+  },
+  {
+    "street": "Via dell'Industria",
+    "number": "1",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.727594,
+    "longitude": 8.6487682
+  },
+  {
+    "street": "Piazza Giuseppe Cesare Abba",
+    "number": "8;9",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7239087,
+    "longitude": 8.6352153
+  },
+  {
+    "street": "Via Francesco Zutti",
+    "number": "4",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7241338,
+    "longitude": 8.6357056
+  },
+  {
+    "street": "Via Arturo Ferrarin",
+    "number": "4",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7248675,
+    "longitude": 8.6297581
+  },
+  {
+    "street": "Via Umberto Maddalena",
+    "number": "11",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7252083,
+    "longitude": 8.6292218
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "17",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.725008,
+    "longitude": 8.6423006
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "21",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7245735,
+    "longitude": 8.6438614
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "55",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7242186,
+    "longitude": 8.6484691
+  },
+  {
+    "street": "Via Cocquo",
+    "number": "35",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7390339,
+    "longitude": 8.6124128
+  },
+  {
+    "street": "Viale Italia",
+    "number": "7",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7235884,
+    "longitude": 8.6321873
+  },
+  {
+    "street": "Piazza Carlo De Cristoforis",
+    "number": "4",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7239168,
+    "longitude": 8.6347441
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "34",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7242186,
+    "longitude": 8.6457774
+  },
+  {
+    "street": "Via Piave",
+    "number": "66",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7311626,
+    "longitude": 8.6366347
+  },
+  {
+    "street": "Via Piave",
+    "number": "58",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7309616,
+    "longitude": 8.6366699
+  },
+  {
+    "street": "Via Roma",
+    "number": "3",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.723798,
+    "longitude": 8.633449
+  },
+  {
+    "street": "Via Mercato",
+    "number": "10",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7239167,
+    "longitude": 8.6350995
+  },
+  {
+    "street": "Via Mercato",
+    "number": "7",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.723983,
+    "longitude": 8.6349554
+  },
+  {
+    "street": "Via Angera",
+    "number": "77",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7410567,
+    "longitude": 8.601783
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "13",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7250219,
+    "longitude": 8.6318094
+  },
+  {
+    "street": "Piazza Giuseppe Garibaldi",
+    "number": "2",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7239682,
+    "longitude": 8.6335883
+  },
+  {
+    "street": "Via Roma",
+    "number": "7",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7237826,
+    "longitude": 8.633517
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "2",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7242948,
+    "longitude": 8.6323864
+  },
+  {
+    "street": "Via Roma",
+    "number": "9",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7237965,
+    "longitude": 8.633321
+  },
+  {
+    "street": "Largo Dante Alighieri",
+    "number": "10/11",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7240718,
+    "longitude": 8.6324471
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "11",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7243872,
+    "longitude": 8.6321338
+  },
+  {
+    "street": "Via Roma",
+    "number": "24",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7238694,
+    "longitude": 8.6325687
+  },
+  {
+    "street": "Piazza Giuseppe Garibaldi",
+    "number": "33",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7238575,
+    "longitude": 8.6338795
+  },
+  {
+    "street": "Via Sempione",
+    "number": "2",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7238557,
+    "longitude": 8.6499665
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "43",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.72541,
+    "longitude": 8.6335818
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "45",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7253704,
+    "longitude": 8.6332829
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "2",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7249256,
+    "longitude": 8.640993
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "43",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7251974,
+    "longitude": 8.639932
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "51",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7243953,
+    "longitude": 8.6473829
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "52/54",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7256169,
+    "longitude": 8.6330274
+  },
+  {
+    "street": "Piazza Venticinque Aprile",
+    "number": "4",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7256679,
+    "longitude": 8.6359075
+  },
+  {
+    "street": "Via Sempione",
+    "number": "82",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7224583,
+    "longitude": 8.6605572
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "13",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7249391,
+    "longitude": 8.6318124
+  },
+  {
+    "street": "Via Sempione",
+    "number": "96",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7220209,
+    "longitude": 8.6639444
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "58",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.723914,
+    "longitude": 8.6492787
+  },
+  {
+    "street": "Via Sempione",
+    "number": "49",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7232892,
+    "longitude": 8.6572113
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "43",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7246085,
+    "longitude": 8.6462631
+  },
+  {
+    "street": "Via Sempione",
+    "number": "32",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7234876,
+    "longitude": 8.651986
+  },
+  {
+    "street": "Via Sempione",
+    "number": "74",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7226786,
+    "longitude": 8.6586176
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "4",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7257166,
+    "longitude": 8.6360522
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "92",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7251873,
+    "longitude": 8.6393736
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "42",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7240213,
+    "longitude": 8.6481864
+  },
+  {
+    "street": "Via Riale",
+    "number": "1",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.723218,
+    "longitude": 8.6548663
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "40",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7240656,
+    "longitude": 8.6478368
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "2",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7257891,
+    "longitude": 8.6351164
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "3",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7256427,
+    "longitude": 8.6352358
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "78",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7252737,
+    "longitude": 8.638882
+  },
+  {
+    "street": "Via Sempione",
+    "number": "31",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7235524,
+    "longitude": 8.654447
+  },
+  {
+    "street": "Via Sempione",
+    "number": "114",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7206536,
+    "longitude": 8.6685231
+  },
+  {
+    "street": "Via Sempione",
+    "number": "11",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7239203,
+    "longitude": 8.6514492
+  },
+  {
+    "street": "Piazza Giuseppe Garibaldi",
+    "number": "11",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7241096,
+    "longitude": 8.6340232
+  },
+  {
+    "street": "Via dell'Olmo",
+    "number": "15/17",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7244813,
+    "longitude": 8.6335661
+  },
+  {
+    "street": "Via Roma",
+    "number": "10",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.723912,
+    "longitude": 8.6332704
+  },
+  {
+    "street": "Via dell'Olmo",
+    "number": "6",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7243419,
+    "longitude": 8.6337825
+  },
+  {
+    "street": "Piazza Giuseppe Garibaldi",
+    "number": "13",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7242078,
+    "longitude": 8.6343206
+  },
+  {
+    "street": "Piazza Aldo Moro",
+    "number": "6",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7246554,
+    "longitude": 8.6316236
+  },
+  {
+    "street": "Via Corte del Fico",
+    "number": "4",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7243968,
+    "longitude": 8.630847
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "46",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7239947,
+    "longitude": 8.6484432
+  },
+  {
+    "street": "Via Sempione",
+    "number": "19",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7239225,
+    "longitude": 8.6522462
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "13a",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7247597,
+    "longitude": 8.6313648
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "13b",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7247865,
+    "longitude": 8.6311526
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "48",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7239629,
+    "longitude": 8.648711
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "56",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7255034,
+    "longitude": 8.6326994
+  },
+  {
+    "street": "Via dei Campi",
+    "number": "1",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7377504,
+    "longitude": 8.6417479
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "30",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.732481,
+    "longitude": 8.6246649
+  },
+  {
+    "street": "Via Angera",
+    "number": "82",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7475467,
+    "longitude": 8.5982559
+  },
+  {
+    "street": "Via San Giorgio",
+    "number": "10",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7366441,
+    "longitude": 8.6399272
+  },
+  {
+    "street": "Via San Giorgio",
+    "number": "14",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7366991,
+    "longitude": 8.6405282
+  },
+  {
+    "street": "Via delle Cascine",
+    "number": "24",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7376083,
+    "longitude": 8.6411626
+  },
+  {
+    "street": "Via Cocquo",
+    "number": "36",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.740471,
+    "longitude": 8.6118279
+  },
+  {
+    "street": "Via Cocquo",
+    "number": "37",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7394762,
+    "longitude": 8.6122721
+  },
+  {
+    "street": "Via Cocquo",
+    "number": "39",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7400274,
+    "longitude": 8.6118936
+  },
+  {
+    "street": "Via Cocquo",
+    "number": "16",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7359147,
+    "longitude": 8.6119116
+  },
+  {
+    "street": "Via Cocquo",
+    "number": "25",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.73625,
+    "longitude": 8.6119085
+  },
+  {
+    "street": "Via Drago",
+    "number": "5",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7375257,
+    "longitude": 8.6408208
+  },
+  {
+    "street": "Via della Guardia",
+    "number": "5",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7364805,
+    "longitude": 8.6390031
+  },
+  {
+    "street": "Via Montello",
+    "number": "30",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7303409,
+    "longitude": 8.6387807
+  },
+  {
+    "street": "Via Piave",
+    "number": "63",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.730788,
+    "longitude": 8.6365621
+  },
+  {
+    "street": "Via Oneda",
+    "number": "64",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7342351,
+    "longitude": 8.6610281
+  },
+  {
+    "street": "Via degli Abbati",
+    "number": "1",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7320011,
+    "longitude": 8.6341301
+  },
+  {
+    "street": "Via Oriano",
+    "number": "12",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7307082,
+    "longitude": 8.6500805
+  },
+  {
+    "street": "Via Oneda",
+    "number": "23",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7312741,
+    "longitude": 8.6566539
+  },
+  {
+    "street": "Via alla Piana",
+    "number": "1",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.737496,
+    "longitude": 8.6395261
+  },
+  {
+    "street": "Via Lentate",
+    "number": "14",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7561872,
+    "longitude": 8.6445197
+  },
+  {
+    "street": "Via alla Piana",
+    "number": "23",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7392128,
+    "longitude": 8.6413275
+  },
+  {
+    "street": "Via alla Piana",
+    "number": "24",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7394337,
+    "longitude": 8.641844
+  },
+  {
+    "street": "Via Lentate",
+    "number": "26",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7617767,
+    "longitude": 8.6495276
+  },
+  {
+    "street": "Via Lentate",
+    "number": "24",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7611283,
+    "longitude": 8.6490649
+  },
+  {
+    "street": "Via alla Piana",
+    "number": "35",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7397883,
+    "longitude": 8.6421845
+  },
+  {
+    "street": "Via alla Piana",
+    "number": "43",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7410875,
+    "longitude": 8.642861
+  },
+  {
+    "street": "Via Lentate",
+    "number": "5/A",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7551992,
+    "longitude": 8.6438133
+  },
+  {
+    "street": "Via alla Piana",
+    "number": "56",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7418116,
+    "longitude": 8.6426009
+  },
+  {
+    "street": "Via Lentate",
+    "number": "68",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7708707,
+    "longitude": 8.65329
+  },
+  {
+    "street": "Via Lentate",
+    "number": "28",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7625323,
+    "longitude": 8.6501053
+  },
+  {
+    "street": "Via Lentate",
+    "number": "9",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7556496,
+    "longitude": 8.6440089
+  },
+  {
+    "street": "Via dell'Industria",
+    "number": "20",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7261948,
+    "longitude": 8.6526098
+  },
+  {
+    "street": "Via Carlo Cattaneo",
+    "number": "3",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7215227,
+    "longitude": 8.6515601
+  },
+  {
+    "street": "Via San Giorgio",
+    "number": "63",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.737675,
+    "longitude": 8.6461276
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "43",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7323594,
+    "longitude": 8.6237241
+  },
+  {
+    "street": "Piazza Giuseppe Mazzini",
+    "number": "1",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7238426,
+    "longitude": 8.6320323
+  },
+  {
+    "street": "Via Casello",
+    "number": "1",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7420251,
+    "longitude": 8.6017708
+  },
+  {
+    "street": "Via Angera",
+    "number": "40",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7416279,
+    "longitude": 8.6020249
+  },
+  {
+    "street": "Via Golasecca",
+    "number": "34",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7187369,
+    "longitude": 8.6533159
+  },
+  {
+    "street": "Via Golasecca",
+    "number": "37",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7178156,
+    "longitude": 8.6544102
+  },
+  {
+    "street": "Via Golasecca",
+    "number": "27",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7192182,
+    "longitude": 8.652986
+  },
+  {
+    "street": "Via Golasecca",
+    "number": "42",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7179841,
+    "longitude": 8.6542627
+  },
+  {
+    "street": "Via Golasecca",
+    "number": "29",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7188437,
+    "longitude": 8.6533883
+  },
+  {
+    "street": "Via Sempione",
+    "number": "15",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7239333,
+    "longitude": 8.6511044
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "47",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7244071,
+    "longitude": 8.6470529
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "45",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7244052,
+    "longitude": 8.6470127
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "100",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7249726,
+    "longitude": 8.6405084
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "44",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7256382,
+    "longitude": 8.6333656
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "46",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7256256,
+    "longitude": 8.6333106
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "10",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7246355,
+    "longitude": 8.6419433
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "8",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7247142,
+    "longitude": 8.6417019
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "6",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7247479,
+    "longitude": 8.6415437
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "4",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7247947,
+    "longitude": 8.6414176
+  },
+  {
+    "street": "Piazza Federico Berera",
+    "number": "1",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7244107,
+    "longitude": 8.6362623
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "53",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7250873,
+    "longitude": 8.6327475
+  },
+  {
+    "street": "Via Sempione",
+    "number": "38",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7231492,
+    "longitude": 8.6528226
+  },
+  {
+    "street": "Via Sempione",
+    "number": "27",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.723559,
+    "longitude": 8.6538844
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "10",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7257219,
+    "longitude": 8.6363318
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "18",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7257293,
+    "longitude": 8.6365576
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "16",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7257285,
+    "longitude": 8.636491
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "14",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7257277,
+    "longitude": 8.6364423
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "12",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7257277,
+    "longitude": 8.63639
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "6",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7257187,
+    "longitude": 8.6361752
+  },
+  {
+    "street": "Via Angera",
+    "number": "151",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7533425,
+    "longitude": 8.5981938
+  },
+  {
+    "street": "Via Angera",
+    "number": "114",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7506175,
+    "longitude": 8.5970619
+  },
+  {
+    "street": "Via Angera",
+    "number": "84",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7461161,
+    "longitude": 8.5994491
+  },
+  {
+    "street": "Via Angera",
+    "number": "105",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7461648,
+    "longitude": 8.5987839
+  },
+  {
+    "street": "Via Angera",
+    "number": "111",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7485044,
+    "longitude": 8.5975179
+  },
+  {
+    "street": "Via Angera",
+    "number": "81",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7415526,
+    "longitude": 8.6015278
+  },
+  {
+    "street": "Via Angera",
+    "number": "85",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7417641,
+    "longitude": 8.6014044
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "39",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7223052,
+    "longitude": 8.649471
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "42",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7256443,
+    "longitude": 8.6334119
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "40",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7256532,
+    "longitude": 8.6334488
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "38",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7256621,
+    "longitude": 8.6334977
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "32",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7242386,
+    "longitude": 8.6454906
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "67",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7241131,
+    "longitude": 8.6494562
+  },
+  {
+    "street": "Via Sempione",
+    "number": "52",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7231254,
+    "longitude": 8.6559981
+  },
+  {
+    "street": "Via Ticino",
+    "number": "9",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7223773,
+    "longitude": 8.6550111
+  },
+  {
+    "street": "Via Ticino",
+    "number": "34",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7217968,
+    "longitude": 8.6505344
+  },
+  {
+    "street": "Via Golasecca",
+    "number": "23",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7197369,
+    "longitude": 8.6523329
+  },
+  {
+    "street": "Via Golasecca",
+    "number": "25",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7194851,
+    "longitude": 8.6526695
+  },
+  {
+    "street": "Via Golasecca",
+    "number": "47",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7165815,
+    "longitude": 8.6543673
+  },
+  {
+    "street": "Via Golasecca",
+    "number": "51",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7160908,
+    "longitude": 8.6545899
+  },
+  {
+    "street": "Via Golasecca",
+    "number": "53",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.715778,
+    "longitude": 8.6547428
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "36",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7273098,
+    "longitude": 8.6322166
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "29",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7249263,
+    "longitude": 8.6347768
+  },
+  {
+    "street": "Via Umberto Maddalena",
+    "number": "12",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7252132,
+    "longitude": 8.6290387
+  },
+  {
+    "street": "Via dell'Olmo",
+    "number": "1",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.724065,
+    "longitude": 8.6339333
+  },
+  {
+    "street": "Via Umberto Maddalena",
+    "number": "1",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7254391,
+    "longitude": 8.6291984
+  },
+  {
+    "street": "Via Fratelli Rosselli",
+    "number": "11",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7249076,
+    "longitude": 8.6452823
+  },
+  {
+    "street": "Piave",
+    "number": "103",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7352419,
+    "longitude": 8.6388233
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "1",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7249762,
+    "longitude": 8.636367
+  },
+  {
+    "street": "Via IV Novembre",
+    "number": "2",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7247503,
+    "longitude": 8.6362936
+  },
+  {
+    "street": "Via XX Settembre",
+    "number": "29",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7250291,
+    "longitude": 8.6348889
+  },
+  {
+    "street": "Via Roma",
+    "number": "2",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.723929,
+    "longitude": 8.6334413
+  },
+  {
+    "street": "Piazza Giuseppe Garibaldi",
+    "number": "12",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7241655,
+    "longitude": 8.634218
+  },
+  {
+    "street": "Viale Europa",
+    "number": "81",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7119209,
+    "longitude": 8.6558576
+  },
+  {
+    "street": "Piazzale Stazione",
+    "number": "10",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7260543,
+    "longitude": 8.628563
+  },
+  {
+    "street": "Via Sempione",
+    "number": "44",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7230627,
+    "longitude": 8.654165
+  },
+  {
+    "street": "Via Tortorino",
+    "number": "1",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7299334,
+    "longitude": 8.6266484
+  },
+  {
+    "street": "Via Angera",
+    "number": "115",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7489878,
+    "longitude": 8.5959201
+  },
+  {
+    "street": "Via San Donato",
+    "number": "1",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7323774,
+    "longitude": 8.6304479
+  },
+  {
+    "street": "Via Ferriera",
+    "number": "30",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7275125,
+    "longitude": 8.6090498
+  },
+  {
+    "street": "Via Angera",
+    "number": "36",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7411383,
+    "longitude": 8.6031479
+  },
+  {
+    "street": "Via Molino",
+    "number": "8",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7357716,
+    "longitude": 8.6502406
+  },
+  {
+    "street": "Via Malachia Bogni",
+    "number": "2",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7277074,
+    "longitude": 8.6333064
+  },
+  {
+    "street": "Via Francesco De Pinedo",
+    "number": "2",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7255969,
+    "longitude": 8.6387781
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "34",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7270164,
+    "longitude": 8.6335369
+  },
+  {
+    "street": "Via Ticino",
+    "number": "22",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7224726,
+    "longitude": 8.6531845
+  },
+  {
+    "street": "Via Pasturazza",
+    "number": "1/A",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7501946,
+    "longitude": 8.5961733
+  },
+  {
+    "street": "Piazza Cesare da Sesto",
+    "number": "1",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7237563,
+    "longitude": 8.6316282
+  },
+  {
+    "street": "Via Crocera",
+    "number": "1",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.741131,
+    "longitude": 8.601449
+  },
+  {
+    "street": "Piazza Cristoforo Colombo",
+    "number": "1",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7388822,
+    "longitude": 8.598989
+  },
+  {
+    "street": "Piazza Giuseppe Garibaldi",
+    "number": "25",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7237194,
+    "longitude": 8.6343445
+  },
+  {
+    "street": "Via Repubblica",
+    "number": "8",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7324996,
+    "longitude": 8.632936
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "5",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7331456,
+    "longitude": 8.635349
+  },
+  {
+    "street": "Via Roma",
+    "number": "56",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7242594,
+    "longitude": 8.6300647
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "48",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7226523,
+    "longitude": 8.6473937
+  },
+  {
+    "street": "Via Golasecca",
+    "number": "29/A",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7189813,
+    "longitude": 8.6535404
+  },
+  {
+    "street": "Via Golasecca",
+    "number": "29/B",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7191108,
+    "longitude": 8.6539603
+  },
+  {
+    "street": "Via Montrucco",
+    "number": "10",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7262883,
+    "longitude": 8.640074
+  },
+  {
+    "street": "Via dell'Industria",
+    "number": "2",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7265088,
+    "longitude": 8.6505116
+  },
+  {
+    "street": "Via Oneda",
+    "number": "24",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7304596,
+    "longitude": 8.6556933
+  },
+  {
+    "street": "Via Ticino",
+    "number": "32",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7220395,
+    "longitude": 8.6511689
+  },
+  {
+    "street": "Via alla Punta",
+    "number": "19",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7376095,
+    "longitude": 8.6003181
+  },
+  {
+    "street": "Via Ronco",
+    "number": "10",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7423297,
+    "longitude": 8.6337693
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "15/19",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7255928,
+    "longitude": 8.6305755
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "8",
+    "city": {
+      "name": "Sesto Calende",
+      "istat": "012120"
+    },
+    "latitude": 45.7258269,
+    "longitude": 8.6347483
+  }
+]

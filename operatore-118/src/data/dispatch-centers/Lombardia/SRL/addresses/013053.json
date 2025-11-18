@@ -1,0 +1,472 @@
+[
+  {
+    "street": "Via Socrate",
+    "number": "2",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7605573,
+    "longitude": 9.0830321
+  },
+  {
+    "street": "Via Caio Plinio",
+    "number": "30",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7509168,
+    "longitude": 9.0655458
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "25",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7528659,
+    "longitude": 9.0681974
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "31",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7523972,
+    "longitude": 9.067141
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "41",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7519708,
+    "longitude": 9.0656782
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "13",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7536241,
+    "longitude": 9.0698204
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "21a",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7533054,
+    "longitude": 9.0691094
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "33",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.752234,
+    "longitude": 9.0669009
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "7",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7540697,
+    "longitude": 9.071085
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "6",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7542389,
+    "longitude": 9.071828
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "35",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7520973,
+    "longitude": 9.0663398
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "39",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7519992,
+    "longitude": 9.0659247
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "20",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7535817,
+    "longitude": 9.06954
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "19;19A;21",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7533549,
+    "longitude": 9.0692548
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "11a",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7536888,
+    "longitude": 9.0699304
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "5",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7541667,
+    "longitude": 9.0714168
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "11",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7537818,
+    "longitude": 9.0704292
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "15",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7534389,
+    "longitude": 9.0695424
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "1",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7541224,
+    "longitude": 9.0718004
+  },
+  {
+    "street": "Via Pitagora",
+    "number": "2",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7619664,
+    "longitude": 9.0808393
+  },
+  {
+    "street": "Via Socrate",
+    "number": "2a",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7600331,
+    "longitude": 9.0820314
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "21",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7528399,
+    "longitude": 9.0753528
+  },
+  {
+    "street": "Via Socrate",
+    "number": "1",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7615961,
+    "longitude": 9.0817184
+  },
+  {
+    "street": "Via Socrate",
+    "number": "1b",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7611859,
+    "longitude": 9.0818303
+  },
+  {
+    "street": "Via Roma",
+    "number": "7",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7557972,
+    "longitude": 9.0726944
+  },
+  {
+    "street": "Via Roma",
+    "number": "2",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7558206,
+    "longitude": 9.0737331
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "43",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7519223,
+    "longitude": 9.0654277
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "24",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7534908,
+    "longitude": 9.0693552
+  },
+  {
+    "street": "Via Roma",
+    "number": "9",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7555379,
+    "longitude": 9.0720039
+  },
+  {
+    "street": "Via Roma",
+    "number": "36",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7566019,
+    "longitude": 9.0681385
+  },
+  {
+    "street": "Piazza Don Angelo Monti",
+    "number": "1A",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7557476,
+    "longitude": 9.0731569
+  },
+  {
+    "street": "Via Caio Plinio",
+    "number": "32",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7508666,
+    "longitude": 9.0650361
+  },
+  {
+    "street": "Via Caio Plinio",
+    "number": "34",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7509673,
+    "longitude": 9.065011
+  },
+  {
+    "street": "Via Caio Plinio",
+    "number": "36",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7512028,
+    "longitude": 9.0649358
+  },
+  {
+    "street": "Via Caio Plinio",
+    "number": "38",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7512964,
+    "longitude": 9.0649108
+  },
+  {
+    "street": "Via Caio Plinio",
+    "number": "40",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7515391,
+    "longitude": 9.0648342
+  },
+  {
+    "street": "Via Caio Plinio",
+    "number": "42",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7516254,
+    "longitude": 9.0648106
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "40",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7630313,
+    "longitude": 9.0750395
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "29",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7524995,
+    "longitude": 9.0673893
+  },
+  {
+    "street": "Via Socrate",
+    "number": "8",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7605725,
+    "longitude": 9.0833561
+  },
+  {
+    "street": "Via Socrate",
+    "number": "6",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7602002,
+    "longitude": 9.0834535
+  },
+  {
+    "street": "Via Gioacchino Rossini",
+    "number": "53",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.765874,
+    "longitude": 9.0706738
+  },
+  {
+    "street": "Piazza San Carlo Borromeo",
+    "number": "1",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7567788,
+    "longitude": 9.0745882
+  },
+  {
+    "street": "SP ex SS35 Statale dei Giovi",
+    "number": "17",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7645717,
+    "longitude": 9.0572308
+  },
+  {
+    "street": "Via Laghetto",
+    "number": "1",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7490321,
+    "longitude": 9.0612823
+  },
+  {
+    "street": "Via Platone",
+    "number": "24",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.7703565,
+    "longitude": 9.0768017
+  },
+  {
+    "street": "Via Pitagora",
+    "number": "1",
+    "city": {
+      "name": "Casnate con Bernate",
+      "istat": "013053"
+    },
+    "latitude": 45.761362,
+    "longitude": 9.080205
+  }
+]

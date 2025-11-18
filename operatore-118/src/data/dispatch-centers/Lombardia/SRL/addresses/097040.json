@@ -1,0 +1,212 @@
+[
+  {
+    "street": "Via del Pretorio",
+    "number": "1",
+    "city": {
+      "name": "Introbio",
+      "istat": "097040"
+    },
+    "latitude": 45.9715748,
+    "longitude": 9.4542943
+  },
+  {
+    "street": "Via Damiano Arrigoni",
+    "number": "7",
+    "city": {
+      "name": "Introbio",
+      "istat": "097040"
+    },
+    "latitude": 45.9725255,
+    "longitude": 9.4546618
+  },
+  {
+    "street": "Via Vittorio Emanuele Ii",
+    "number": "14",
+    "city": {
+      "name": "Introbio",
+      "istat": "097040"
+    },
+    "latitude": 45.97372,
+    "longitude": 9.4533
+  },
+  {
+    "street": "Cavour",
+    "number": "12",
+    "city": {
+      "name": "Introbio",
+      "istat": "097040"
+    },
+    "latitude": 45.9729994,
+    "longitude": 9.4537671
+  },
+  {
+    "street": "Piazza Antoniani",
+    "number": "3",
+    "city": {
+      "name": "Introbio",
+      "istat": "097040"
+    },
+    "latitude": 45.9715646,
+    "longitude": 9.4534767
+  },
+  {
+    "street": "Via Don Arturo Fumagalli",
+    "number": "5",
+    "city": {
+      "name": "Introbio",
+      "istat": "097040"
+    },
+    "latitude": 45.9778077,
+    "longitude": 9.4474127
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "9",
+    "city": {
+      "name": "Introbio",
+      "istat": "097040"
+    },
+    "latitude": 45.9640805,
+    "longitude": 9.4510425
+  },
+  {
+    "street": "Viale della Vittoria",
+    "number": "14",
+    "city": {
+      "name": "Introbio",
+      "istat": "097040"
+    },
+    "latitude": 45.9733874,
+    "longitude": 9.4514305
+  },
+  {
+    "street": "Via Vittorio Emanuele II",
+    "number": "3/E",
+    "city": {
+      "name": "Introbio",
+      "istat": "097040"
+    },
+    "latitude": 45.9729781,
+    "longitude": 9.4535257
+  },
+  {
+    "street": "Viale Della Vittoria",
+    "number": "46",
+    "city": {
+      "name": "Introbio",
+      "istat": "097040"
+    },
+    "latitude": 45.9759065,
+    "longitude": 9.4485548
+  },
+  {
+    "street": "Località Sceregalli",
+    "number": "5",
+    "city": {
+      "name": "Introbio",
+      "istat": "097040"
+    },
+    "latitude": 45.9755738,
+    "longitude": 9.4473656
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "1",
+    "city": {
+      "name": "Introbio",
+      "istat": "097040"
+    },
+    "latitude": 45.9657337,
+    "longitude": 9.4506598
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "16",
+    "city": {
+      "name": "Introbio",
+      "istat": "097040"
+    },
+    "latitude": 45.9652605,
+    "longitude": 9.4502983
+  },
+  {
+    "street": "Viale Della Vittoria",
+    "number": "23/A",
+    "city": {
+      "name": "Introbio",
+      "istat": "097040"
+    },
+    "latitude": 45.975567,
+    "longitude": 9.4480496
+  },
+  {
+    "street": "Piazza Cavour",
+    "number": "16",
+    "city": {
+      "name": "Introbio",
+      "istat": "097040"
+    },
+    "latitude": 45.9726592,
+    "longitude": 9.4537447
+  },
+  {
+    "street": "Piazza Cavour",
+    "number": "17",
+    "city": {
+      "name": "Introbio",
+      "istat": "097040"
+    },
+    "latitude": 45.9725439,
+    "longitude": 9.4536478
+  },
+  {
+    "street": "Piazza Cavour",
+    "number": "19",
+    "city": {
+      "name": "Introbio",
+      "istat": "097040"
+    },
+    "latitude": 45.972534,
+    "longitude": 9.4535936
+  },
+  {
+    "street": "Piazza del Sagrato",
+    "number": "4",
+    "city": {
+      "name": "Introbio",
+      "istat": "097040"
+    },
+    "latitude": 45.9722282,
+    "longitude": 9.4523629
+  },
+  {
+    "street": "Via Vittorio Emanuele Secondo",
+    "number": "62",
+    "city": {
+      "name": "Introbio",
+      "istat": "097040"
+    },
+    "latitude": 45.9780733,
+    "longitude": 9.4490484
+  },
+  {
+    "street": "Via Vittorio Emanuele",
+    "number": "3",
+    "city": {
+      "name": "Introbio",
+      "istat": "097040"
+    },
+    "latitude": 45.973779,
+    "longitude": 9.4529145
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "1",
+    "city": {
+      "name": "Introbio",
+      "istat": "097040"
+    },
+    "latitude": 45.9788832,
+    "longitude": 9.4468113
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "29",
+    "city": {
+      "name": "Carimate",
+      "istat": "013046"
+    },
+    "latitude": 45.6993848,
+    "longitude": 9.1162923
+  },
+  {
+    "street": "Via Sant'Arialdo",
+    "number": "1",
+    "city": {
+      "name": "Carimate",
+      "istat": "013046"
+    },
+    "latitude": 45.6964812,
+    "longitude": 9.1073085
+  },
+  {
+    "street": "Via della Valle",
+    "number": "20",
+    "city": {
+      "name": "Carimate",
+      "istat": "013046"
+    },
+    "latitude": 45.6908594,
+    "longitude": 9.1150625
+  },
+  {
+    "street": "Via Molino Geretto",
+    "number": "2",
+    "city": {
+      "name": "Carimate",
+      "istat": "013046"
+    },
+    "latitude": 45.6932752,
+    "longitude": 9.1159642
+  },
+  {
+    "street": "Via Roma",
+    "number": "2",
+    "city": {
+      "name": "Carimate",
+      "istat": "013046"
+    },
+    "latitude": 45.6944584,
+    "longitude": 9.1160777
+  },
+  {
+    "street": "Via Molino Geretto",
+    "number": "6",
+    "city": {
+      "name": "Carimate",
+      "istat": "013046"
+    },
+    "latitude": 45.6925375,
+    "longitude": 9.1165805
+  },
+  {
+    "street": "Via Molino Geretto",
+    "number": "8",
+    "city": {
+      "name": "Carimate",
+      "istat": "013046"
+    },
+    "latitude": 45.6921752,
+    "longitude": 9.1167971
+  },
+  {
+    "street": "Via della Valle",
+    "number": "7",
+    "city": {
+      "name": "Carimate",
+      "istat": "013046"
+    },
+    "latitude": 45.6908662,
+    "longitude": 9.1154145
+  },
+  {
+    "street": "Piazza Castelllo",
+    "number": "4",
+    "city": {
+      "name": "Carimate",
+      "istat": "013046"
+    },
+    "latitude": 45.7020082,
+    "longitude": 9.1155577
+  },
+  {
+    "street": "Piazza Spallino",
+    "number": "6",
+    "city": {
+      "name": "Carimate",
+      "istat": "013046"
+    },
+    "latitude": 45.7179801,
+    "longitude": 9.1171245
+  },
+  {
+    "street": "Via Muselle",
+    "number": "12",
+    "city": {
+      "name": "Carimate",
+      "istat": "013046"
+    },
+    "latitude": 45.7207331,
+    "longitude": 9.1164236
+  },
+  {
+    "street": "Via alla Stazione",
+    "number": "18",
+    "city": {
+      "name": "Carimate",
+      "istat": "013046"
+    },
+    "latitude": 45.6980063,
+    "longitude": 9.1074027
+  },
+  {
+    "street": "Via Nobili Calvi",
+    "number": "5",
+    "city": {
+      "name": "Carimate",
+      "istat": "013046"
+    },
+    "latitude": 45.7187597,
+    "longitude": 9.1175031
+  },
+  {
+    "street": "Via Nobili Calvi",
+    "number": "9",
+    "city": {
+      "name": "Carimate",
+      "istat": "013046"
+    },
+    "latitude": 45.7192668,
+    "longitude": 9.117875
+  },
+  {
+    "street": "Via Nobili Calvi",
+    "number": "3",
+    "city": {
+      "name": "Carimate",
+      "istat": "013046"
+    },
+    "latitude": 45.7186782,
+    "longitude": 9.1174544
+  },
+  {
+    "street": "Via Giovanni XXIII",
+    "number": "11",
+    "city": {
+      "name": "Carimate",
+      "istat": "013046"
+    },
+    "latitude": 45.6992407,
+    "longitude": 9.116778
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "3",
+    "city": {
+      "name": "Carimate",
+      "istat": "013046"
+    },
+    "latitude": 45.701453,
+    "longitude": 9.1151594
+  },
+  {
+    "street": "Via Colombirolo",
+    "number": "1",
+    "city": {
+      "name": "Carimate",
+      "istat": "013046"
+    },
+    "latitude": 45.6943024,
+    "longitude": 9.1181639
+  },
+  {
+    "street": "Via degli Artigiani",
+    "number": "14",
+    "city": {
+      "name": "Carimate",
+      "istat": "013046"
+    },
+    "latitude": 45.6976439,
+    "longitude": 9.1100765
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "4",
+    "city": {
+      "name": "Carimate",
+      "istat": "013046"
+    },
+    "latitude": 45.7214252,
+    "longitude": 9.116727
+  },
+  {
+    "street": "Via Nobili Calvi",
+    "number": "41",
+    "city": {
+      "name": "Carimate",
+      "istat": "013046"
+    },
+    "latitude": 45.7255509,
+    "longitude": 9.1216229
+  },
+  {
+    "street": "Via alla Stazione",
+    "number": "25",
+    "city": {
+      "name": "Carimate",
+      "istat": "013046"
+    },
+    "latitude": 45.6973356,
+    "longitude": 9.1087003
+  },
+  {
+    "street": "Via dei Giovi",
+    "number": "9",
+    "city": {
+      "name": "Carimate",
+      "istat": "013046"
+    },
+    "latitude": 45.693697,
+    "longitude": 9.1121516
+  },
+  {
+    "street": "Via dei Giovi",
+    "number": "20",
+    "city": {
+      "name": "Carimate",
+      "istat": "013046"
+    },
+    "latitude": 45.6953443,
+    "longitude": 9.1094615
+  },
+  {
+    "street": "Via Madonnina",
+    "number": "8",
+    "city": {
+      "name": "Carimate",
+      "istat": "013046"
+    },
+    "latitude": 45.718825,
+    "longitude": 9.1188552
+  },
+  {
+    "street": "Via dei Giovi",
+    "number": "11",
+    "city": {
+      "name": "Carimate",
+      "istat": "013046"
+    },
+    "latitude": 45.6926768,
+    "longitude": 9.1127001
+  },
+  {
+    "street": "Via Muselle",
+    "number": "1",
+    "city": {
+      "name": "Carimate",
+      "istat": "013046"
+    },
+    "latitude": 45.7196542,
+    "longitude": 9.1169526
+  }
+]

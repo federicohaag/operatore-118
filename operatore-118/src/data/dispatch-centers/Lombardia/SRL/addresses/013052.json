@@ -1,0 +1,242 @@
+[
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "1a",
+    "city": {
+      "name": "Caslino d'Erba",
+      "istat": "013052"
+    },
+    "latitude": 45.8390618,
+    "longitude": 9.226219
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "1",
+    "city": {
+      "name": "Caslino d'Erba",
+      "istat": "013052"
+    },
+    "latitude": 45.8391195,
+    "longitude": 9.2260822
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "23",
+    "city": {
+      "name": "Caslino d'Erba",
+      "istat": "013052"
+    },
+    "latitude": 45.8389557,
+    "longitude": 9.2263324
+  },
+  {
+    "street": "Via Cavour",
+    "number": "8",
+    "city": {
+      "name": "Caslino d'Erba",
+      "istat": "013052"
+    },
+    "latitude": 45.8387813,
+    "longitude": 9.2256486
+  },
+  {
+    "street": "Via Cavour",
+    "number": "6",
+    "city": {
+      "name": "Caslino d'Erba",
+      "istat": "013052"
+    },
+    "latitude": 45.8387229,
+    "longitude": 9.2258603
+  },
+  {
+    "street": "Via Cavour",
+    "number": "18",
+    "city": {
+      "name": "Caslino d'Erba",
+      "istat": "013052"
+    },
+    "latitude": 45.8387513,
+    "longitude": 9.2252775
+  },
+  {
+    "street": "Via Cavour",
+    "number": "10",
+    "city": {
+      "name": "Caslino d'Erba",
+      "istat": "013052"
+    },
+    "latitude": 45.8387598,
+    "longitude": 9.2255992
+  },
+  {
+    "street": "Piazza Giuseppe Mazzini",
+    "number": "5",
+    "city": {
+      "name": "Caslino d'Erba",
+      "istat": "013052"
+    },
+    "latitude": 45.8393477,
+    "longitude": 9.224212
+  },
+  {
+    "street": "Via San Giuseppe",
+    "number": "4",
+    "city": {
+      "name": "Caslino d'Erba",
+      "istat": "013052"
+    },
+    "latitude": 45.8396088,
+    "longitude": 9.2244439
+  },
+  {
+    "street": "Via Garibaldi",
+    "number": "19",
+    "city": {
+      "name": "Caslino d'Erba",
+      "istat": "013052"
+    },
+    "latitude": 45.839106,
+    "longitude": 9.2248981
+  },
+  {
+    "street": "Via Monte Palanzone",
+    "number": "6",
+    "city": {
+      "name": "Caslino d'Erba",
+      "istat": "013052"
+    },
+    "latitude": 45.8410249,
+    "longitude": 9.224229
+  },
+  {
+    "street": "Via Monte Palanzone",
+    "number": "44",
+    "city": {
+      "name": "Caslino d'Erba",
+      "istat": "013052"
+    },
+    "latitude": 45.8474811,
+    "longitude": 9.2132921
+  },
+  {
+    "street": "Via San Calogero",
+    "number": "8c",
+    "city": {
+      "name": "Caslino d'Erba",
+      "istat": "013052"
+    },
+    "latitude": 45.8382324,
+    "longitude": 9.2374614
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "17",
+    "city": {
+      "name": "Caslino d'Erba",
+      "istat": "013052"
+    },
+    "latitude": 45.8356016,
+    "longitude": 9.2325292
+  },
+  {
+    "street": "Via San Salvatore",
+    "number": "12",
+    "city": {
+      "name": "Caslino d'Erba",
+      "istat": "013052"
+    },
+    "latitude": 45.8400235,
+    "longitude": 9.2233334
+  },
+  {
+    "street": "Via Monte Palanzone",
+    "number": "7",
+    "city": {
+      "name": "Caslino d'Erba",
+      "istat": "013052"
+    },
+    "latitude": 45.8401813,
+    "longitude": 9.224072
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "4",
+    "city": {
+      "name": "Caslino d'Erba",
+      "istat": "013052"
+    },
+    "latitude": 45.8387218,
+    "longitude": 9.2260953
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "1",
+    "city": {
+      "name": "Caslino d'Erba",
+      "istat": "013052"
+    },
+    "latitude": 45.83847,
+    "longitude": 9.2260601
+  },
+  {
+    "street": "Via Cavour",
+    "number": "3",
+    "city": {
+      "name": "Caslino d'Erba",
+      "istat": "013052"
+    },
+    "latitude": 45.8386482,
+    "longitude": 9.2259567
+  },
+  {
+    "street": "Via Cavour",
+    "number": "5",
+    "city": {
+      "name": "Caslino d'Erba",
+      "istat": "013052"
+    },
+    "latitude": 45.8386724,
+    "longitude": 9.2257808
+  },
+  {
+    "street": "Via Cavour",
+    "number": "15",
+    "city": {
+      "name": "Caslino d'Erba",
+      "istat": "013052"
+    },
+    "latitude": 45.8386627,
+    "longitude": 9.2253468
+  },
+  {
+    "street": "Via Cavour",
+    "number": "20",
+    "city": {
+      "name": "Caslino d'Erba",
+      "istat": "013052"
+    },
+    "latitude": 45.8388601,
+    "longitude": 9.2251387
+  },
+  {
+    "street": "Via Cavour",
+    "number": "16",
+    "city": {
+      "name": "Caslino d'Erba",
+      "istat": "013052"
+    },
+    "latitude": 45.8387827,
+    "longitude": 9.2253779
+  },
+  {
+    "street": "Via Monte Palanzone",
+    "number": "8",
+    "city": {
+      "name": "Caslino d'Erba",
+      "istat": "013052"
+    },
+    "latitude": 45.8412858,
+    "longitude": 9.2242506
+  }
+]

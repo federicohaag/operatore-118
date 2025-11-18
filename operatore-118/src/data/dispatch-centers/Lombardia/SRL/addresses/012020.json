@@ -1,0 +1,312 @@
+[
+  {
+    "street": "Via Roma",
+    "number": "43",
+    "city": {
+      "name": "Brezzo di Bedero",
+      "istat": "012020"
+    },
+    "latitude": 45.9784324,
+    "longitude": 8.7191523
+  },
+  {
+    "street": "Via Milano",
+    "number": "26",
+    "city": {
+      "name": "Brezzo di Bedero",
+      "istat": "012020"
+    },
+    "latitude": 45.9767552,
+    "longitude": 8.7181919
+  },
+  {
+    "street": "Via Piodé",
+    "number": "5",
+    "city": {
+      "name": "Brezzo di Bedero",
+      "istat": "012020"
+    },
+    "latitude": 45.9824725,
+    "longitude": 8.7161196
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "3",
+    "city": {
+      "name": "Brezzo di Bedero",
+      "istat": "012020"
+    },
+    "latitude": 45.9720811,
+    "longitude": 8.714491
+  },
+  {
+    "street": "Via Canonica",
+    "number": "10",
+    "city": {
+      "name": "Brezzo di Bedero",
+      "istat": "012020"
+    },
+    "latitude": 45.9782302,
+    "longitude": 8.7206501
+  },
+  {
+    "street": "Via Canonica",
+    "number": "26",
+    "city": {
+      "name": "Brezzo di Bedero",
+      "istat": "012020"
+    },
+    "latitude": 45.9791976,
+    "longitude": 8.7211034
+  },
+  {
+    "street": "Via Baumgartner",
+    "number": "1",
+    "city": {
+      "name": "Brezzo di Bedero",
+      "istat": "012020"
+    },
+    "latitude": 45.9762283,
+    "longitude": 8.7191829
+  },
+  {
+    "street": "Via Baumgartner",
+    "number": "3",
+    "city": {
+      "name": "Brezzo di Bedero",
+      "istat": "012020"
+    },
+    "latitude": 45.9760792,
+    "longitude": 8.7192312
+  },
+  {
+    "street": "Via Baumgartner",
+    "number": "7",
+    "city": {
+      "name": "Brezzo di Bedero",
+      "istat": "012020"
+    },
+    "latitude": 45.9758182,
+    "longitude": 8.7194699
+  },
+  {
+    "street": "Via Baumgartner",
+    "number": "9",
+    "city": {
+      "name": "Brezzo di Bedero",
+      "istat": "012020"
+    },
+    "latitude": 45.9755274,
+    "longitude": 8.7193841
+  },
+  {
+    "street": "Via Baumgartner",
+    "number": "8",
+    "city": {
+      "name": "Brezzo di Bedero",
+      "istat": "012020"
+    },
+    "latitude": 45.9755423,
+    "longitude": 8.7192634
+  },
+  {
+    "street": "Via Baumgartner",
+    "number": "6",
+    "city": {
+      "name": "Brezzo di Bedero",
+      "istat": "012020"
+    },
+    "latitude": 45.9757865,
+    "longitude": 8.7193277
+  },
+  {
+    "street": "Via Belmonte",
+    "number": "50",
+    "city": {
+      "name": "Brezzo di Bedero",
+      "istat": "012020"
+    },
+    "latitude": 45.9716886,
+    "longitude": 8.7088418
+  },
+  {
+    "street": "Via dei Fiori",
+    "number": "39",
+    "city": {
+      "name": "Brezzo di Bedero",
+      "istat": "012020"
+    },
+    "latitude": 45.973016,
+    "longitude": 8.7066917
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "9",
+    "city": {
+      "name": "Brezzo di Bedero",
+      "istat": "012020"
+    },
+    "latitude": 45.9711481,
+    "longitude": 8.71344
+  },
+  {
+    "street": "Via Trieste",
+    "number": "6",
+    "city": {
+      "name": "Brezzo di Bedero",
+      "istat": "012020"
+    },
+    "latitude": 45.9719789,
+    "longitude": 8.7146615
+  },
+  {
+    "street": "Via Europa Unita",
+    "number": "2",
+    "city": {
+      "name": "Brezzo di Bedero",
+      "istat": "012020"
+    },
+    "latitude": 45.9718879,
+    "longitude": 8.7147359
+  },
+  {
+    "street": "Via Portovaltravaglia",
+    "number": "54",
+    "city": {
+      "name": "Brezzo di Bedero",
+      "istat": "012020"
+    },
+    "latitude": 45.9767591,
+    "longitude": 8.7064802
+  },
+  {
+    "street": "Via Portovaltravaglia",
+    "number": "41",
+    "city": {
+      "name": "Brezzo di Bedero",
+      "istat": "012020"
+    },
+    "latitude": 45.9759018,
+    "longitude": 8.7062241
+  },
+  {
+    "street": "Via Roma",
+    "number": "60",
+    "city": {
+      "name": "Brezzo di Bedero",
+      "istat": "012020"
+    },
+    "latitude": 45.9778279,
+    "longitude": 8.7200382
+  },
+  {
+    "street": "Via Portovaltravaglia",
+    "number": "36",
+    "city": {
+      "name": "Brezzo di Bedero",
+      "istat": "012020"
+    },
+    "latitude": 45.981343,
+    "longitude": 8.7110306
+  },
+  {
+    "street": "Via Portovaltravaglia",
+    "number": "50",
+    "city": {
+      "name": "Brezzo di Bedero",
+      "istat": "012020"
+    },
+    "latitude": 45.9782137,
+    "longitude": 8.7083604
+  },
+  {
+    "street": "Via Portovaltravaglia",
+    "number": "40",
+    "city": {
+      "name": "Brezzo di Bedero",
+      "istat": "012020"
+    },
+    "latitude": 45.9804458,
+    "longitude": 8.7107355
+  },
+  {
+    "street": "Via Portovaltravaglia",
+    "number": "8",
+    "city": {
+      "name": "Brezzo di Bedero",
+      "istat": "012020"
+    },
+    "latitude": 45.9884538,
+    "longitude": 8.7132369
+  },
+  {
+    "street": "Via Portovaltravaglia",
+    "number": "19",
+    "city": {
+      "name": "Brezzo di Bedero",
+      "istat": "012020"
+    },
+    "latitude": 45.9784796,
+    "longitude": 8.7094833
+  },
+  {
+    "street": "Via Portovaltravaglia",
+    "number": "21",
+    "city": {
+      "name": "Brezzo di Bedero",
+      "istat": "012020"
+    },
+    "latitude": 45.9783775,
+    "longitude": 8.7091886
+  },
+  {
+    "street": "Via Portovaltravaglia",
+    "number": "23",
+    "city": {
+      "name": "Brezzo di Bedero",
+      "istat": "012020"
+    },
+    "latitude": 45.978201,
+    "longitude": 8.7091601
+  },
+  {
+    "street": "Via Portovaltravaglia",
+    "number": "52",
+    "city": {
+      "name": "Brezzo di Bedero",
+      "istat": "012020"
+    },
+    "latitude": 45.9780397,
+    "longitude": 8.7081568
+  },
+  {
+    "street": "Via Baumgartner",
+    "number": "10",
+    "city": {
+      "name": "Brezzo di Bedero",
+      "istat": "012020"
+    },
+    "latitude": 45.9747488,
+    "longitude": 8.7190591
+  },
+  {
+    "street": "Via Portovaltravaglia",
+    "number": "50A",
+    "city": {
+      "name": "Brezzo di Bedero",
+      "istat": "012020"
+    },
+    "latitude": 45.9783453,
+    "longitude": 8.7084858
+  },
+  {
+    "street": "Via Portovaltravaglia",
+    "number": "25",
+    "city": {
+      "name": "Brezzo di Bedero",
+      "istat": "012020"
+    },
+    "latitude": 45.9781229,
+    "longitude": 8.7092057
+  }
+]

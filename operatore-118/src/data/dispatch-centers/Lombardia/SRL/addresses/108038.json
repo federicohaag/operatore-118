@@ -1,0 +1,312 @@
+[
+  {
+    "street": "Via Eligio Brigatti",
+    "number": "2",
+    "city": {
+      "name": "Ronco Briantino",
+      "istat": "108038"
+    },
+    "latitude": 45.6652865,
+    "longitude": 9.4190133
+  },
+  {
+    "street": "Via Pio XI",
+    "number": "2",
+    "city": {
+      "name": "Ronco Briantino",
+      "istat": "108038"
+    },
+    "latitude": 45.6675726,
+    "longitude": 9.3981646
+  },
+  {
+    "street": "Via Eligio Brigatti",
+    "number": "1",
+    "city": {
+      "name": "Ronco Briantino",
+      "istat": "108038"
+    },
+    "latitude": 45.6665916,
+    "longitude": 9.4045592
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "29",
+    "city": {
+      "name": "Ronco Briantino",
+      "istat": "108038"
+    },
+    "latitude": 45.6670184,
+    "longitude": 9.4013932
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "27",
+    "city": {
+      "name": "Ronco Briantino",
+      "istat": "108038"
+    },
+    "latitude": 45.6669541,
+    "longitude": 9.4011826
+  },
+  {
+    "street": "Via Eligio Brigatti",
+    "number": "43",
+    "city": {
+      "name": "Ronco Briantino",
+      "istat": "108038"
+    },
+    "latitude": 45.6658919,
+    "longitude": 9.4073297
+  },
+  {
+    "street": "Via Eligio Brigatti",
+    "number": "41",
+    "city": {
+      "name": "Ronco Briantino",
+      "istat": "108038"
+    },
+    "latitude": 45.665921,
+    "longitude": 9.4072355
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "37",
+    "city": {
+      "name": "Ronco Briantino",
+      "istat": "108038"
+    },
+    "latitude": 45.6673126,
+    "longitude": 9.4006173
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "30",
+    "city": {
+      "name": "Ronco Briantino",
+      "istat": "108038"
+    },
+    "latitude": 45.6674096,
+    "longitude": 9.4008015
+  },
+  {
+    "street": "Via Vittorino Mandelli",
+    "number": "13",
+    "city": {
+      "name": "Ronco Briantino",
+      "istat": "108038"
+    },
+    "latitude": 45.6648974,
+    "longitude": 9.3972051
+  },
+  {
+    "street": "Via Vittorino Mandelli",
+    "number": "15",
+    "city": {
+      "name": "Ronco Briantino",
+      "istat": "108038"
+    },
+    "latitude": 45.6665342,
+    "longitude": 9.3975948
+  },
+  {
+    "street": "Via Sant'Antonio",
+    "number": "1",
+    "city": {
+      "name": "Ronco Briantino",
+      "istat": "108038"
+    },
+    "latitude": 45.6666237,
+    "longitude": 9.4038476
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "16",
+    "city": {
+      "name": "Ronco Briantino",
+      "istat": "108038"
+    },
+    "latitude": 45.6670802,
+    "longitude": 9.4026751
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "26",
+    "city": {
+      "name": "Ronco Briantino",
+      "istat": "108038"
+    },
+    "latitude": 45.6713449,
+    "longitude": 9.4082907
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "24",
+    "city": {
+      "name": "Ronco Briantino",
+      "istat": "108038"
+    },
+    "latitude": 45.6710328,
+    "longitude": 9.4081968
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "22a",
+    "city": {
+      "name": "Ronco Briantino",
+      "istat": "108038"
+    },
+    "latitude": 45.6709307,
+    "longitude": 9.408115
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "20",
+    "city": {
+      "name": "Ronco Briantino",
+      "istat": "108038"
+    },
+    "latitude": 45.6707311,
+    "longitude": 9.4079961
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "8",
+    "city": {
+      "name": "Ronco Briantino",
+      "istat": "108038"
+    },
+    "latitude": 45.6655254,
+    "longitude": 9.4146406
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "2",
+    "city": {
+      "name": "Ronco Briantino",
+      "istat": "108038"
+    },
+    "latitude": 45.6651112,
+    "longitude": 9.4144448
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "4",
+    "city": {
+      "name": "Ronco Briantino",
+      "istat": "108038"
+    },
+    "latitude": 45.6652518,
+    "longitude": 9.4145333
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "6",
+    "city": {
+      "name": "Ronco Briantino",
+      "istat": "108038"
+    },
+    "latitude": 45.6653849,
+    "longitude": 9.4145897
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "1",
+    "city": {
+      "name": "Ronco Briantino",
+      "istat": "108038"
+    },
+    "latitude": 45.6650943,
+    "longitude": 9.4136643
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "3",
+    "city": {
+      "name": "Ronco Briantino",
+      "istat": "108038"
+    },
+    "latitude": 45.6652705,
+    "longitude": 9.4137448
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "13",
+    "city": {
+      "name": "Ronco Briantino",
+      "istat": "108038"
+    },
+    "latitude": 45.6663578,
+    "longitude": 9.4141769
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "2",
+    "city": {
+      "name": "Ronco Briantino",
+      "istat": "108038"
+    },
+    "latitude": 45.6751766,
+    "longitude": 9.4077955
+  },
+  {
+    "street": "Via Eligio Brigatti",
+    "number": "3",
+    "city": {
+      "name": "Ronco Briantino",
+      "istat": "108038"
+    },
+    "latitude": 45.6665159,
+    "longitude": 9.4048946
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "42",
+    "city": {
+      "name": "Ronco Briantino",
+      "istat": "108038"
+    },
+    "latitude": 45.6678625,
+    "longitude": 9.3988219
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "40",
+    "city": {
+      "name": "Ronco Briantino",
+      "istat": "108038"
+    },
+    "latitude": 45.6678447,
+    "longitude": 9.3992438
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "27;29",
+    "city": {
+      "name": "Ronco Briantino",
+      "istat": "108038"
+    },
+    "latitude": 45.6668777,
+    "longitude": 9.4014418
+  },
+  {
+    "street": "Via Eligio Brigatti",
+    "number": "20",
+    "city": {
+      "name": "Ronco Briantino",
+      "istat": "108038"
+    },
+    "latitude": 45.6655878,
+    "longitude": 9.4070201
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "5",
+    "city": {
+      "name": "Ronco Briantino",
+      "istat": "108038"
+    },
+    "latitude": 45.6631778,
+    "longitude": 9.4033137
+  }
+]

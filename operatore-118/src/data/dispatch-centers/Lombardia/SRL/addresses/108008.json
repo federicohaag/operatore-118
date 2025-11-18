@@ -1,0 +1,2372 @@
+[
+  {
+    "street": "Via John e Robert Kennedy",
+    "number": "21",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6998927,
+    "longitude": 9.2915818
+  },
+  {
+    "street": "Via John e Robert Kennedy",
+    "number": "48",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6991374,
+    "longitude": 9.2873353
+  },
+  {
+    "street": "Via Rivabella",
+    "number": "93",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.7072037,
+    "longitude": 9.2685505
+  },
+  {
+    "street": "Via Luigi Viarana",
+    "number": "38",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.7001237,
+    "longitude": 9.285893
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "31",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6915955,
+    "longitude": 9.283097
+  },
+  {
+    "street": "Via Galiberto da Besana",
+    "number": "23",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.7000659,
+    "longitude": 9.2855951
+  },
+  {
+    "street": "Via John e Robert Kennedy",
+    "number": "132",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6897072,
+    "longitude": 9.2618211
+  },
+  {
+    "street": "Via Giancarlo Puecher",
+    "number": "18",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.705119,
+    "longitude": 9.2770556
+  },
+  {
+    "street": "Piazza Pietro Cuzzi",
+    "number": "3",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.7020275,
+    "longitude": 9.2894329
+  },
+  {
+    "street": "Piazza Pietro Cuzzi",
+    "number": "8",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.701801,
+    "longitude": 9.2894635
+  },
+  {
+    "street": "Via Roma",
+    "number": "10b",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.7004138,
+    "longitude": 9.2875501
+  },
+  {
+    "street": "Piazza Pietro Cuzzi",
+    "number": "5",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.7020665,
+    "longitude": 9.2899158
+  },
+  {
+    "street": "Via Luigi Viarana",
+    "number": "14",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.7002795,
+    "longitude": 9.2869095
+  },
+  {
+    "street": "Via Luigi Viarana",
+    "number": "17",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.7001022,
+    "longitude": 9.2870349
+  },
+  {
+    "street": "Via della Busa",
+    "number": "32",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6972399,
+    "longitude": 9.287918
+  },
+  {
+    "street": "Via Michelangelo Buonarroti",
+    "number": "19",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6923385,
+    "longitude": 9.2883943
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "13",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.7015139,
+    "longitude": 9.2866498
+  },
+  {
+    "street": "Via Luigi Einaudi",
+    "number": "7",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6876798,
+    "longitude": 9.2924993
+  },
+  {
+    "street": "Via John e Robert Kennedy",
+    "number": "36",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6997324,
+    "longitude": 9.2905986
+  },
+  {
+    "street": "Via San Siro",
+    "number": "23",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6937338,
+    "longitude": 9.2871865
+  },
+  {
+    "street": "Via San Siro",
+    "number": "23a",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6934174,
+    "longitude": 9.2877414
+  },
+  {
+    "street": "Piazza Cardinal Ferrari",
+    "number": "5",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.694612,
+    "longitude": 9.2878237
+  },
+  {
+    "street": "Via San Nazzaro",
+    "number": "20",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6947641,
+    "longitude": 9.2888911
+  },
+  {
+    "street": "Piazza Cardinal Ferrari",
+    "number": "12",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6944814,
+    "longitude": 9.2879102
+  },
+  {
+    "street": "Via San Siro",
+    "number": "27",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6930893,
+    "longitude": 9.2873278
+  },
+  {
+    "street": "Via John e Robert Kennedy",
+    "number": "11a",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.7000003,
+    "longitude": 9.2920561
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "82",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6899294,
+    "longitude": 9.2627112
+  },
+  {
+    "street": "Via della Cascina Selva",
+    "number": "11",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6945634,
+    "longitude": 9.2839442
+  },
+  {
+    "street": "Via San Gervaso",
+    "number": "14",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6935921,
+    "longitude": 9.2520755
+  },
+  {
+    "street": "Via John e Robert Kennedy",
+    "number": "125",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6894218,
+    "longitude": 9.2612433
+  },
+  {
+    "street": "Via John e Robert Kennedy",
+    "number": "145",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6894203,
+    "longitude": 9.2572225
+  },
+  {
+    "street": "Via John e Robert Kennedy",
+    "number": "51",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6979704,
+    "longitude": 9.2825298
+  },
+  {
+    "street": "Via John e Robert Kennedy",
+    "number": "69",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6966462,
+    "longitude": 9.2770544
+  },
+  {
+    "street": "Via Gaetano Casati",
+    "number": "2a",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.714233,
+    "longitude": 9.2897246
+  },
+  {
+    "street": "Via Gaetano Casati",
+    "number": "5",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.7145808,
+    "longitude": 9.2896486
+  },
+  {
+    "street": "Via Castano",
+    "number": "15",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.7042606,
+    "longitude": 9.2885281
+  },
+  {
+    "street": "Via Gaetano Casati",
+    "number": "2b",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.7141717,
+    "longitude": 9.289984
+  },
+  {
+    "street": "Via John e Robert Kennedy",
+    "number": "55/57",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6979723,
+    "longitude": 9.2820555
+  },
+  {
+    "street": "Via Roma",
+    "number": "1",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.7001328,
+    "longitude": 9.2886778
+  },
+  {
+    "street": "Via John e Robert Kennedy",
+    "number": "123",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6892303,
+    "longitude": 9.2617394
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "5",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6903212,
+    "longitude": 9.2620241
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "7",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6796541,
+    "longitude": 9.2652921
+  },
+  {
+    "street": "Via Sant'Ambrogio",
+    "number": "18",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6936617,
+    "longitude": 9.2507422
+  },
+  {
+    "street": "Via Rosnigo",
+    "number": "7",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.688385,
+    "longitude": 9.26376
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "11",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6810678,
+    "longitude": 9.2647375
+  },
+  {
+    "street": "Via Don Cosma Zonca",
+    "number": "9",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6893257,
+    "longitude": 9.2601496
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "41",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6799836,
+    "longitude": 9.2651574
+  },
+  {
+    "street": "Via dei Ronchi",
+    "number": "7",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6760513,
+    "longitude": 9.262657
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "64",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6917408,
+    "longitude": 9.2626902
+  },
+  {
+    "street": "Via Vittorio Emanuele II",
+    "number": "5",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.701059,
+    "longitude": 9.2904611
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "87",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6893499,
+    "longitude": 9.2628955
+  },
+  {
+    "street": "Via dei Ronchi",
+    "number": "5",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6762155,
+    "longitude": 9.2625248
+  },
+  {
+    "street": "Via dei Ronchi",
+    "number": "9",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6758331,
+    "longitude": 9.2627325
+  },
+  {
+    "street": "Via dei Ronchi",
+    "number": "8",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6755127,
+    "longitude": 9.2621885
+  },
+  {
+    "street": "Via dei Ronchi",
+    "number": "13",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6758885,
+    "longitude": 9.2631253
+  },
+  {
+    "street": "Via Paolo Pozzi",
+    "number": "23",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6782959,
+    "longitude": 9.2651234
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "23",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.683297,
+    "longitude": 9.2647213
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "41a",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6845186,
+    "longitude": 9.2642872
+  },
+  {
+    "street": "Via Francesco Lovati",
+    "number": "29",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6770194,
+    "longitude": 9.2625233
+  },
+  {
+    "street": "Via Lovati",
+    "number": "3",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6791706,
+    "longitude": 9.2642346
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "3",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6927784,
+    "longitude": 9.2635194
+  },
+  {
+    "street": "Via Cardinal Federico Borromeo",
+    "number": "7",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6798665,
+    "longitude": 9.2673348
+  },
+  {
+    "street": "Via Benvenuto Cellini",
+    "number": "10",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6870085,
+    "longitude": 9.2915438
+  },
+  {
+    "street": "Via Benvenuto Cellini",
+    "number": "9",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6869842,
+    "longitude": 9.2913773
+  },
+  {
+    "street": "Via Benvenuto Cellini",
+    "number": "8",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6868654,
+    "longitude": 9.291628
+  },
+  {
+    "street": "Via Benvenuto Cellini",
+    "number": "4",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6861918,
+    "longitude": 9.2917032
+  },
+  {
+    "street": "Via Boltraffio",
+    "number": "3",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6939439,
+    "longitude": 9.2645666
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "51",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6936793,
+    "longitude": 9.2637658
+  },
+  {
+    "street": "Via Boltraffio",
+    "number": "1",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6938357,
+    "longitude": 9.2644031
+  },
+  {
+    "street": "Piazza Sant'Eusebio",
+    "number": "2",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6932868,
+    "longitude": 9.2646504
+  },
+  {
+    "street": "Via Don Paolo Mandioni",
+    "number": "5",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6931416,
+    "longitude": 9.2651193
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "11",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6966407,
+    "longitude": 9.2667578
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "13",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6966488,
+    "longitude": 9.266856
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "15",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6966512,
+    "longitude": 9.26695
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "17",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6966549,
+    "longitude": 9.2670343
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "23",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6966618,
+    "longitude": 9.2673104
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "19",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6966597,
+    "longitude": 9.267131
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "21",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6966621,
+    "longitude": 9.267224
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "9",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6964858,
+    "longitude": 9.2664307
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "7",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6962232,
+    "longitude": 9.266066
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "5",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6959102,
+    "longitude": 9.2656638
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "2",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6957244,
+    "longitude": 9.2644343
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "2a",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6956907,
+    "longitude": 9.2645817
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "4",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6956206,
+    "longitude": 9.2649926
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "6a",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6956586,
+    "longitude": 9.2653785
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "6",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6953079,
+    "longitude": 9.2652214
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "8",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6957665,
+    "longitude": 9.2656675
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "10",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6961338,
+    "longitude": 9.266166
+  },
+  {
+    "street": "Via Bernardino Luini",
+    "number": "23",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6969419,
+    "longitude": 9.2674568
+  },
+  {
+    "street": "Via Bernardino Luini",
+    "number": "21",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6960013,
+    "longitude": 9.2675095
+  },
+  {
+    "street": "Via Bernardino Luini",
+    "number": "19",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6956584,
+    "longitude": 9.2675356
+  },
+  {
+    "street": "Via Bernardino Luini",
+    "number": "17",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6953787,
+    "longitude": 9.2675708
+  },
+  {
+    "street": "Via Bernardino Luini",
+    "number": "15",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6951997,
+    "longitude": 9.2675931
+  },
+  {
+    "street": "Via Bernardino Luini",
+    "number": "13",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6948814,
+    "longitude": 9.2676327
+  },
+  {
+    "street": "Via Bernardino Luini",
+    "number": "11",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6942136,
+    "longitude": 9.2677245
+  },
+  {
+    "street": "Via Bernardino Luini",
+    "number": "9",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6941378,
+    "longitude": 9.2677353
+  },
+  {
+    "street": "Via Bernardino Luini",
+    "number": "7",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6940284,
+    "longitude": 9.2677501
+  },
+  {
+    "street": "Via Bernardino Luini",
+    "number": "5",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6937577,
+    "longitude": 9.2677895
+  },
+  {
+    "street": "Via Bernardino Luini",
+    "number": "3",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6935842,
+    "longitude": 9.2678181
+  },
+  {
+    "street": "Via Bernardino Luini",
+    "number": "1",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6933783,
+    "longitude": 9.2678457
+  },
+  {
+    "street": "Via Tintoretto",
+    "number": "20",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6962667,
+    "longitude": 9.2664891
+  },
+  {
+    "street": "Via Tintoretto",
+    "number": "18",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6962236,
+    "longitude": 9.2665456
+  },
+  {
+    "street": "Via Tintoretto",
+    "number": "16",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6961531,
+    "longitude": 9.2666372
+  },
+  {
+    "street": "Via Tintoretto",
+    "number": "14",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6960718,
+    "longitude": 9.266698
+  },
+  {
+    "street": "Via Tintoretto",
+    "number": "12",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6960442,
+    "longitude": 9.2667047
+  },
+  {
+    "street": "Via Tintoretto",
+    "number": "8",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6956152,
+    "longitude": 9.2667303
+  },
+  {
+    "street": "Via Tintoretto",
+    "number": "6",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.69529,
+    "longitude": 9.2667604
+  },
+  {
+    "street": "Via Tintoretto",
+    "number": "9",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6957977,
+    "longitude": 9.2666126
+  },
+  {
+    "street": "Via Tintoretto",
+    "number": "7",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.695604,
+    "longitude": 9.2665982
+  },
+  {
+    "street": "Via Tintoretto",
+    "number": "5",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6952778,
+    "longitude": 9.2666453
+  },
+  {
+    "street": "Via Tintoretto",
+    "number": "5a",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6955245,
+    "longitude": 9.2666283
+  },
+  {
+    "street": "Via Tintoretto",
+    "number": "3",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6949855,
+    "longitude": 9.2666466
+  },
+  {
+    "street": "Via Boltraffio",
+    "number": "16",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6938463,
+    "longitude": 9.2647595
+  },
+  {
+    "street": "Via Boltraffio",
+    "number": "14",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6936481,
+    "longitude": 9.2647099
+  },
+  {
+    "street": "Via Boltraffio",
+    "number": "9",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6944298,
+    "longitude": 9.2648049
+  },
+  {
+    "street": "Via Boltraffio",
+    "number": "24",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6944333,
+    "longitude": 9.264912
+  },
+  {
+    "street": "Via Boltraffio",
+    "number": "22",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6942688,
+    "longitude": 9.2648766
+  },
+  {
+    "street": "Via Boltraffio",
+    "number": "20",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6941742,
+    "longitude": 9.2648504
+  },
+  {
+    "street": "Via Boltraffio",
+    "number": "18",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6941213,
+    "longitude": 9.2648382
+  },
+  {
+    "street": "Via Boltraffio",
+    "number": "6",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6935204,
+    "longitude": 9.2646745
+  },
+  {
+    "street": "Via Boltraffio",
+    "number": "10",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6935312,
+    "longitude": 9.2651119
+  },
+  {
+    "street": "Via Tiziano Vecelio",
+    "number": "5",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6945837,
+    "longitude": 9.2649246
+  },
+  {
+    "street": "Via Tiziano Vecelio",
+    "number": "7",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6945837,
+    "longitude": 9.2651151
+  },
+  {
+    "street": "Via Tiziano Vecelio",
+    "number": "15",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6945609,
+    "longitude": 9.2660829
+  },
+  {
+    "street": "Via Tiziano Vecelio",
+    "number": "17",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6945567,
+    "longitude": 9.2663203
+  },
+  {
+    "street": "Via Tiziano Vecelio",
+    "number": "25",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6945677,
+    "longitude": 9.2674171
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "2",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6957564,
+    "longitude": 9.2642272
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "4",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6952691,
+    "longitude": 9.2640544
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "18",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6946226,
+    "longitude": 9.2638687
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "20",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6944802,
+    "longitude": 9.2638741
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "22",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6940952,
+    "longitude": 9.2637453
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "26",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.693832,
+    "longitude": 9.263685
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "28",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6937851,
+    "longitude": 9.2636729
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "30",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6936587,
+    "longitude": 9.2636099
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "32",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6936081,
+    "longitude": 9.2636219
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "34",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6935725,
+    "longitude": 9.2636126
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "36",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6935436,
+    "longitude": 9.2636035
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "38",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6934502,
+    "longitude": 9.2635441
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "44",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6932724,
+    "longitude": 9.2634862
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "42",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6934002,
+    "longitude": 9.263537
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "58",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6918153,
+    "longitude": 9.2627384
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "62",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6916903,
+    "longitude": 9.2626421
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "66",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.691424,
+    "longitude": 9.2624947
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "68",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6912603,
+    "longitude": 9.2623598
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "13",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6951282,
+    "longitude": 9.2641693
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "15",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.694837,
+    "longitude": 9.2640872
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "21",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6943892,
+    "longitude": 9.2639527
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "27",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6943112,
+    "longitude": 9.2639312
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "25",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6943408,
+    "longitude": 9.2639392
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "29",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6942671,
+    "longitude": 9.2639177
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "33",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6942008,
+    "longitude": 9.2639001
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "39",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6940695,
+    "longitude": 9.263859
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "41",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6940118,
+    "longitude": 9.2638417
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "43",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6939531,
+    "longitude": 9.2638244
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "45",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6938845,
+    "longitude": 9.2638055
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "47",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6938039,
+    "longitude": 9.2637769
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "49",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6937738,
+    "longitude": 9.2637641
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "59",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6934517,
+    "longitude": 9.2636765
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "61",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6934198,
+    "longitude": 9.2636669
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "63",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6933863,
+    "longitude": 9.2636661
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "65",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6932618,
+    "longitude": 9.2636126
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "67",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6930241,
+    "longitude": 9.2635467
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "69",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6929703,
+    "longitude": 9.2635256
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "71",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6926818,
+    "longitude": 9.2634027
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "73",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6926188,
+    "longitude": 9.2633655
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "75",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6920009,
+    "longitude": 9.2630244
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "83",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.690906,
+    "longitude": 9.2625249
+  },
+  {
+    "street": "Piazza Sant'Eusebio",
+    "number": "1",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6931443,
+    "longitude": 9.2645816
+  },
+  {
+    "street": "Via Boltraffio",
+    "number": "12",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6936985,
+    "longitude": 9.265138
+  },
+  {
+    "street": "Via Visconta",
+    "number": "2",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.7069841,
+    "longitude": 9.2685053
+  },
+  {
+    "street": "Via Don Paolo Mandioni",
+    "number": "25",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6931985,
+    "longitude": 9.26751
+  },
+  {
+    "street": "Via Don Paolo Mandioni",
+    "number": "26",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6930005,
+    "longitude": 9.266839
+  },
+  {
+    "street": "Via Don Paolo Mandioni",
+    "number": "16",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6929813,
+    "longitude": 9.265847
+  },
+  {
+    "street": "Via Don Paolo Mandioni",
+    "number": "18",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6929642,
+    "longitude": 9.2658646
+  },
+  {
+    "street": "Via Don Paolo Mandioni",
+    "number": "15b",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6930891,
+    "longitude": 9.2658449
+  },
+  {
+    "street": "Via Don Paolo Mandioni",
+    "number": "17",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6930905,
+    "longitude": 9.2659047
+  },
+  {
+    "street": "Via Don Paolo Mandioni",
+    "number": "15",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6930745,
+    "longitude": 9.2655025
+  },
+  {
+    "street": "Via Don Paolo Mandioni",
+    "number": "13",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6930881,
+    "longitude": 9.2653329
+  },
+  {
+    "street": "Via Don Paolo Mandioni",
+    "number": "9",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6931059,
+    "longitude": 9.2652113
+  },
+  {
+    "street": "Via Don Paolo Mandioni",
+    "number": "11",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6931001,
+    "longitude": 9.2652519
+  },
+  {
+    "street": "Via Don Paolo Mandioni",
+    "number": "12",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6930297,
+    "longitude": 9.2651191
+  },
+  {
+    "street": "Via Don Paolo Mandioni",
+    "number": "10",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6930658,
+    "longitude": 9.2650231
+  },
+  {
+    "street": "Via Don Paolo Mandioni",
+    "number": "7",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6931927,
+    "longitude": 9.2648981
+  },
+  {
+    "street": "Via Don Paolo Mandioni",
+    "number": "3",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6932168,
+    "longitude": 9.2647415
+  },
+  {
+    "street": "Via Don Paolo Mandioni",
+    "number": "2",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6931474,
+    "longitude": 9.264643
+  },
+  {
+    "street": "Via Don Paolo Mandioni",
+    "number": "4",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6931381,
+    "longitude": 9.2646926
+  },
+  {
+    "street": "Via dei Fabbri",
+    "number": "1",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6926869,
+    "longitude": 9.264756
+  },
+  {
+    "street": "Via dei Fabbri",
+    "number": "6",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6923831,
+    "longitude": 9.2647222
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "2",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6926878,
+    "longitude": 9.2634934
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "4",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6926896,
+    "longitude": 9.2635306
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "5",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6927471,
+    "longitude": 9.2635856
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "7",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6927426,
+    "longitude": 9.2636287
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "6",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6926927,
+    "longitude": 9.2637216
+  },
+  {
+    "street": "Via Sant'Agostino",
+    "number": "1",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6929155,
+    "longitude": 9.2644002
+  },
+  {
+    "street": "Piazza Sant'Eusebio",
+    "number": "4",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6930281,
+    "longitude": 9.2644562
+  },
+  {
+    "street": "Piazza Sant'Eusebio",
+    "number": "3",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.69306,
+    "longitude": 9.2644849
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "17",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6928001,
+    "longitude": 9.2644198
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "15",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6928032,
+    "longitude": 9.2642541
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "10",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6927473,
+    "longitude": 9.2644382
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "12",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6927541,
+    "longitude": 9.2645455
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "23",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6927861,
+    "longitude": 9.2646386
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "21",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6927866,
+    "longitude": 9.2645454
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "19",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6927871,
+    "longitude": 9.264487
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "8",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.692723,
+    "longitude": 9.264086
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "11",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.692755,
+    "longitude": 9.2640351
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "9",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6927349,
+    "longitude": 9.2638217
+  },
+  {
+    "street": "Via Luigi Viarana",
+    "number": "12/14",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.7005052,
+    "longitude": 9.2867292
+  },
+  {
+    "street": "Via Luigi Viarana",
+    "number": "16",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.7005233,
+    "longitude": 9.2867278
+  },
+  {
+    "street": "Via Santa Caterina",
+    "number": "7",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.700072,
+    "longitude": 9.285326
+  },
+  {
+    "street": "Via Santa Caterina",
+    "number": "6",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.7001216,
+    "longitude": 9.2854687
+  },
+  {
+    "street": "Via Santa Caterina",
+    "number": "12",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.7001267,
+    "longitude": 9.285012
+  },
+  {
+    "street": "Via Santa Caterina",
+    "number": "13",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.7000832,
+    "longitude": 9.2850373
+  },
+  {
+    "street": "Via Rivabella",
+    "number": "90",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.7061266,
+    "longitude": 9.2689075
+  },
+  {
+    "street": "Via Cascina Sbianca",
+    "number": "35",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.7146767,
+    "longitude": 9.2689183
+  },
+  {
+    "street": "Via Cremonina",
+    "number": "30",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.7080636,
+    "longitude": 9.2562027
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "89",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6900774,
+    "longitude": 9.2744293
+  },
+  {
+    "street": "Via Beato Angelico",
+    "number": "18",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.7024761,
+    "longitude": 9.2957346
+  },
+  {
+    "street": "Via John e Robert Kennedy",
+    "number": "97",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6932299,
+    "longitude": 9.2689525
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "92",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6896687,
+    "longitude": 9.2629101
+  },
+  {
+    "street": "Via John e Robert Kennedy",
+    "number": "111",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6914703,
+    "longitude": 9.2665721
+  },
+  {
+    "street": "Via Rivabella",
+    "number": "7",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6912246,
+    "longitude": 9.2555568
+  },
+  {
+    "street": "Via John e Robert Kennedy",
+    "number": "59",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6971853,
+    "longitude": 9.2810666
+  },
+  {
+    "street": "Via Rivabella",
+    "number": "115",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.713786,
+    "longitude": 9.2734671
+  },
+  {
+    "street": "Via John e Robert Kennedy",
+    "number": "20",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.7009199,
+    "longitude": 9.2947145
+  },
+  {
+    "street": "Via Luigi Viarana",
+    "number": "1",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.7008264,
+    "longitude": 9.2879628
+  },
+  {
+    "street": "Via Mantovani",
+    "number": "2",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.7038631,
+    "longitude": 9.2793367
+  },
+  {
+    "street": "Via Ugo Foscolo",
+    "number": "1",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6905891,
+    "longitude": 9.2632357
+  },
+  {
+    "street": "Via Salvo D'Acquisto",
+    "number": "10",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.7052754,
+    "longitude": 9.2798319
+  },
+  {
+    "street": "Via Cardinale Federico Borromeo",
+    "number": "1",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6794514,
+    "longitude": 9.2656018
+  },
+  {
+    "street": "Via John e Robert Kennedy",
+    "number": "44",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6997794,
+    "longitude": 9.288793
+  },
+  {
+    "street": "Via Giovanni Verga",
+    "number": "1",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6967511,
+    "longitude": 9.27915
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "81",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6914484,
+    "longitude": 9.2633991
+  },
+  {
+    "street": "Via Beato Angelico",
+    "number": "16",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.7022425,
+    "longitude": 9.2947523
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "5",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.7018074,
+    "longitude": 9.2934315
+  },
+  {
+    "street": "Via San Camillo",
+    "number": "1",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.707182,
+    "longitude": 9.2698562
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "59",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6851885,
+    "longitude": 9.2643231
+  },
+  {
+    "street": "Via Rivabella",
+    "number": "23",
+    "city": {
+      "name": "Besana in Brianza",
+      "istat": "108008"
+    },
+    "latitude": 45.6945336,
+    "longitude": 9.2569457
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "street": "Val rezzo",
+    "number": "74",
+    "city": {
+      "name": "Corrido",
+      "istat": "013077"
+    },
+    "latitude": 46.0501732,
+    "longitude": 9.1353022
+  }
+]

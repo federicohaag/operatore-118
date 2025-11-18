@@ -1,0 +1,352 @@
+[
+  {
+    "street": "Viale Monza",
+    "number": "62",
+    "city": {
+      "name": "Sovico",
+      "istat": "108041"
+    },
+    "latitude": 45.646608,
+    "longitude": 9.2603051
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "2",
+    "city": {
+      "name": "Sovico",
+      "istat": "108041"
+    },
+    "latitude": 45.6498085,
+    "longitude": 9.2583314
+  },
+  {
+    "street": "Via Lambro",
+    "number": "26a",
+    "city": {
+      "name": "Sovico",
+      "istat": "108041"
+    },
+    "latitude": 45.6502579,
+    "longitude": 9.2695809
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "9",
+    "city": {
+      "name": "Sovico",
+      "istat": "108041"
+    },
+    "latitude": 45.6438477,
+    "longitude": 9.2660332
+  },
+  {
+    "street": "Via Trento e Trieste",
+    "number": "13",
+    "city": {
+      "name": "Sovico",
+      "istat": "108041"
+    },
+    "latitude": 45.6430976,
+    "longitude": 9.2661941
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "21",
+    "city": {
+      "name": "Sovico",
+      "istat": "108041"
+    },
+    "latitude": 45.6445338,
+    "longitude": 9.2625368
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "7/11",
+    "city": {
+      "name": "Sovico",
+      "istat": "108041"
+    },
+    "latitude": 45.6482831,
+    "longitude": 9.2622176
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "1",
+    "city": {
+      "name": "Sovico",
+      "istat": "108041"
+    },
+    "latitude": 45.6483571,
+    "longitude": 9.2625126
+  },
+  {
+    "street": "Via Cascina Greppi",
+    "number": "39",
+    "city": {
+      "name": "Sovico",
+      "istat": "108041"
+    },
+    "latitude": 45.6392363,
+    "longitude": 9.2495227
+  },
+  {
+    "street": "Via Antonio Stoppani",
+    "number": "19",
+    "city": {
+      "name": "Sovico",
+      "istat": "108041"
+    },
+    "latitude": 45.6489815,
+    "longitude": 9.2598009
+  },
+  {
+    "street": "Via Antonio Stoppani",
+    "number": "21",
+    "city": {
+      "name": "Sovico",
+      "istat": "108041"
+    },
+    "latitude": 45.6494484,
+    "longitude": 9.2601576
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "13b",
+    "city": {
+      "name": "Sovico",
+      "istat": "108041"
+    },
+    "latitude": 45.6481434,
+    "longitude": 9.2561451
+  },
+  {
+    "street": "Viale Brianza",
+    "number": "sc",
+    "city": {
+      "name": "Sovico",
+      "istat": "108041"
+    },
+    "latitude": 45.6496265,
+    "longitude": 9.2641236
+  },
+  {
+    "street": "Via dei Greppi 20845 Sovico MB",
+    "number": "3",
+    "city": {
+      "name": "Sovico",
+      "istat": "108041"
+    },
+    "latitude": 45.6371942,
+    "longitude": 9.2495341
+  },
+  {
+    "street": "Via Alessandro Manzoni 20845 Sovico MB",
+    "number": "27",
+    "city": {
+      "name": "Sovico",
+      "istat": "108041"
+    },
+    "latitude": 45.6437712,
+    "longitude": 9.259608
+  },
+  {
+    "street": "via greppi Sovico",
+    "number": "3",
+    "city": {
+      "name": "Sovico",
+      "istat": "108041"
+    },
+    "latitude": 45.6372254,
+    "longitude": 9.2495815
+  },
+  {
+    "street": "Via Lambro",
+    "number": "22a",
+    "city": {
+      "name": "Sovico",
+      "istat": "108041"
+    },
+    "latitude": 45.6501658,
+    "longitude": 9.2692951
+  },
+  {
+    "street": "Via Lambro",
+    "number": "20",
+    "city": {
+      "name": "Sovico",
+      "istat": "108041"
+    },
+    "latitude": 45.6499892,
+    "longitude": 9.2688456
+  },
+  {
+    "street": "Via Lambro",
+    "number": "31",
+    "city": {
+      "name": "Sovico",
+      "istat": "108041"
+    },
+    "latitude": 45.6505614,
+    "longitude": 9.2698481
+  },
+  {
+    "street": "Via Lambro",
+    "number": "29",
+    "city": {
+      "name": "Sovico",
+      "istat": "108041"
+    },
+    "latitude": 45.65049,
+    "longitude": 9.2696468
+  },
+  {
+    "street": "Via Meda",
+    "number": "2",
+    "city": {
+      "name": "Sovico",
+      "istat": "108041"
+    },
+    "latitude": 45.6507246,
+    "longitude": 9.269976
+  },
+  {
+    "street": "Via Lambro",
+    "number": "27",
+    "city": {
+      "name": "Sovico",
+      "istat": "108041"
+    },
+    "latitude": 45.6501322,
+    "longitude": 9.2686674
+  },
+  {
+    "street": "Via Lambro",
+    "number": "24",
+    "city": {
+      "name": "Sovico",
+      "istat": "108041"
+    },
+    "latitude": 45.6501088,
+    "longitude": 9.2691413
+  },
+  {
+    "street": "Via Lambro",
+    "number": "22",
+    "city": {
+      "name": "Sovico",
+      "istat": "108041"
+    },
+    "latitude": 45.6500436,
+    "longitude": 9.2691244
+  },
+  {
+    "street": "Via Meda",
+    "number": "4",
+    "city": {
+      "name": "Sovico",
+      "istat": "108041"
+    },
+    "latitude": 45.6507944,
+    "longitude": 9.2698954
+  },
+  {
+    "street": "Via Lambro",
+    "number": "18",
+    "city": {
+      "name": "Sovico",
+      "istat": "108041"
+    },
+    "latitude": 45.6499022,
+    "longitude": 9.2685557
+  },
+  {
+    "street": "Via Lambro",
+    "number": "14",
+    "city": {
+      "name": "Sovico",
+      "istat": "108041"
+    },
+    "latitude": 45.6497264,
+    "longitude": 9.2681794
+  },
+  {
+    "street": "Via Lambro",
+    "number": "16",
+    "city": {
+      "name": "Sovico",
+      "istat": "108041"
+    },
+    "latitude": 45.6497837,
+    "longitude": 9.2682954
+  },
+  {
+    "street": "Via Flavio Gioia",
+    "number": "25",
+    "city": {
+      "name": "Sovico",
+      "istat": "108041"
+    },
+    "latitude": 45.6479086,
+    "longitude": 9.2495101
+  },
+  {
+    "street": "Via Cascina Canzi",
+    "number": "4",
+    "city": {
+      "name": "Sovico",
+      "istat": "108041"
+    },
+    "latitude": 45.6481182,
+    "longitude": 9.2488074
+  },
+  {
+    "street": "Viale Monza",
+    "number": "65/67",
+    "city": {
+      "name": "Sovico",
+      "istat": "108041"
+    },
+    "latitude": 45.6463521,
+    "longitude": 9.2606959
+  },
+  {
+    "street": "Via del Partigiano",
+    "number": "44",
+    "city": {
+      "name": "Sovico",
+      "istat": "108041"
+    },
+    "latitude": 45.6479518,
+    "longitude": 9.2556977
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "17/19",
+    "city": {
+      "name": "Sovico",
+      "istat": "108041"
+    },
+    "latitude": 45.6515522,
+    "longitude": 9.2582465
+  },
+  {
+    "street": "Viale Monza",
+    "number": "16",
+    "city": {
+      "name": "Sovico",
+      "istat": "108041"
+    },
+    "latitude": 45.6530765,
+    "longitude": 9.255462
+  },
+  {
+    "street": "Viale Monza",
+    "number": "19",
+    "city": {
+      "name": "Sovico",
+      "istat": "108041"
+    },
+    "latitude": 45.6504069,
+    "longitude": 9.2586423
+  }
+]

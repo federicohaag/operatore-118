@@ -1,0 +1,432 @@
+[
+  {
+    "street": "Piazza Dante Girani",
+    "number": "3",
+    "city": {
+      "name": "Montegrino Valtravaglia",
+      "istat": "012103"
+    },
+    "latitude": 45.9731491,
+    "longitude": 8.7686318
+  },
+  {
+    "street": "Via Ronchetto",
+    "number": "3",
+    "city": {
+      "name": "Montegrino Valtravaglia",
+      "istat": "012103"
+    },
+    "latitude": 45.9659734,
+    "longitude": 8.7635695
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "1",
+    "city": {
+      "name": "Montegrino Valtravaglia",
+      "istat": "012103"
+    },
+    "latitude": 45.9729556,
+    "longitude": 8.7689934
+  },
+  {
+    "street": "Via Roma",
+    "number": "19",
+    "city": {
+      "name": "Montegrino Valtravaglia",
+      "istat": "012103"
+    },
+    "latitude": 45.9597496,
+    "longitude": 8.7730678
+  },
+  {
+    "street": "Via Sorti",
+    "number": "81",
+    "city": {
+      "name": "Montegrino Valtravaglia",
+      "istat": "012103"
+    },
+    "latitude": 45.9656425,
+    "longitude": 8.7632765
+  },
+  {
+    "street": "Via Margorabbia",
+    "number": "33",
+    "city": {
+      "name": "Montegrino Valtravaglia",
+      "istat": "012103"
+    },
+    "latitude": 45.9632113,
+    "longitude": 8.7590628
+  },
+  {
+    "street": "Via Grantola",
+    "number": "2",
+    "city": {
+      "name": "Montegrino Valtravaglia",
+      "istat": "012103"
+    },
+    "latitude": 45.9562516,
+    "longitude": 8.774462
+  },
+  {
+    "street": "Via Cavalier Giovanni Moroni",
+    "number": "9",
+    "city": {
+      "name": "Montegrino Valtravaglia",
+      "istat": "012103"
+    },
+    "latitude": 45.9589057,
+    "longitude": 8.7724918
+  },
+  {
+    "street": "Via Bosco Sole",
+    "number": "5",
+    "city": {
+      "name": "Montegrino Valtravaglia",
+      "istat": "012103"
+    },
+    "latitude": 45.9578853,
+    "longitude": 8.7730388
+  },
+  {
+    "street": "Via Pandorè",
+    "number": "14",
+    "city": {
+      "name": "Montegrino Valtravaglia",
+      "istat": "012103"
+    },
+    "latitude": 45.9540975,
+    "longitude": 8.7761009
+  },
+  {
+    "street": "Via Cavalier Giovanni Moroni",
+    "number": "8",
+    "city": {
+      "name": "Montegrino Valtravaglia",
+      "istat": "012103"
+    },
+    "latitude": 45.9588309,
+    "longitude": 8.77255
+  },
+  {
+    "street": "Via Cavalier Giovanni Moroni",
+    "number": "4",
+    "city": {
+      "name": "Montegrino Valtravaglia",
+      "istat": "012103"
+    },
+    "latitude": 45.9593523,
+    "longitude": 8.7719655
+  },
+  {
+    "street": "Via delle Valli",
+    "number": "2",
+    "city": {
+      "name": "Montegrino Valtravaglia",
+      "istat": "012103"
+    },
+    "latitude": 45.9554946,
+    "longitude": 8.7750328
+  },
+  {
+    "street": "Via Roma",
+    "number": "23",
+    "city": {
+      "name": "Montegrino Valtravaglia",
+      "istat": "012103"
+    },
+    "latitude": 45.9584059,
+    "longitude": 8.7734367
+  },
+  {
+    "street": "Via Cavalier Giovanni Moroni",
+    "number": "6",
+    "city": {
+      "name": "Montegrino Valtravaglia",
+      "istat": "012103"
+    },
+    "latitude": 45.9588819,
+    "longitude": 8.7724879
+  },
+  {
+    "street": "Via Bosco Sole",
+    "number": "3",
+    "city": {
+      "name": "Montegrino Valtravaglia",
+      "istat": "012103"
+    },
+    "latitude": 45.9579172,
+    "longitude": 8.7733589
+  },
+  {
+    "street": "Via Cavalier Giovanni Moroni",
+    "number": "5",
+    "city": {
+      "name": "Montegrino Valtravaglia",
+      "istat": "012103"
+    },
+    "latitude": 45.959186,
+    "longitude": 8.7722502
+  },
+  {
+    "street": "Via Cavalier Giovanni Moroni",
+    "number": "42",
+    "city": {
+      "name": "Montegrino Valtravaglia",
+      "istat": "012103"
+    },
+    "latitude": 45.9576352,
+    "longitude": 8.7738299
+  },
+  {
+    "street": "Via Augusto Moroni",
+    "number": "11",
+    "city": {
+      "name": "Montegrino Valtravaglia",
+      "istat": "012103"
+    },
+    "latitude": 45.9573211,
+    "longitude": 8.7755122
+  },
+  {
+    "street": "Via Sorti",
+    "number": "91",
+    "city": {
+      "name": "Montegrino Valtravaglia",
+      "istat": "012103"
+    },
+    "latitude": 45.9665243,
+    "longitude": 8.7616792
+  },
+  {
+    "street": "Via Sorti",
+    "number": "93",
+    "city": {
+      "name": "Montegrino Valtravaglia",
+      "istat": "012103"
+    },
+    "latitude": 45.9664888,
+    "longitude": 8.7617205
+  },
+  {
+    "street": "Via Sorti",
+    "number": "95",
+    "city": {
+      "name": "Montegrino Valtravaglia",
+      "istat": "012103"
+    },
+    "latitude": 45.9664476,
+    "longitude": 8.7617596
+  },
+  {
+    "street": "Via Sorti",
+    "number": "77",
+    "city": {
+      "name": "Montegrino Valtravaglia",
+      "istat": "012103"
+    },
+    "latitude": 45.965393,
+    "longitude": 8.7634979
+  },
+  {
+    "street": "Via Sorti",
+    "number": "107",
+    "city": {
+      "name": "Montegrino Valtravaglia",
+      "istat": "012103"
+    },
+    "latitude": 45.9681907,
+    "longitude": 8.7594971
+  },
+  {
+    "street": "Via Sorti",
+    "number": "79",
+    "city": {
+      "name": "Montegrino Valtravaglia",
+      "istat": "012103"
+    },
+    "latitude": 45.9654361,
+    "longitude": 8.7634754
+  },
+  {
+    "street": "Via Sorti",
+    "number": "30",
+    "city": {
+      "name": "Montegrino Valtravaglia",
+      "istat": "012103"
+    },
+    "latitude": 45.9637082,
+    "longitude": 8.77001
+  },
+  {
+    "street": "Via Sorti",
+    "number": "39",
+    "city": {
+      "name": "Montegrino Valtravaglia",
+      "istat": "012103"
+    },
+    "latitude": 45.9618597,
+    "longitude": 8.7694374
+  },
+  {
+    "street": "Via Sorti",
+    "number": "14",
+    "city": {
+      "name": "Montegrino Valtravaglia",
+      "istat": "012103"
+    },
+    "latitude": 45.9638549,
+    "longitude": 8.7698569
+  },
+  {
+    "street": "Via Sorti",
+    "number": "34",
+    "city": {
+      "name": "Montegrino Valtravaglia",
+      "istat": "012103"
+    },
+    "latitude": 45.9653444,
+    "longitude": 8.7667299
+  },
+  {
+    "street": "Via Cavalier Giovanni Moroni",
+    "number": "15",
+    "city": {
+      "name": "Montegrino Valtravaglia",
+      "istat": "012103"
+    },
+    "latitude": 45.9588518,
+    "longitude": 8.7725516
+  },
+  {
+    "street": "Via Cavalier Giovanni Moroni",
+    "number": "17",
+    "city": {
+      "name": "Montegrino Valtravaglia",
+      "istat": "012103"
+    },
+    "latitude": 45.9587916,
+    "longitude": 8.7726272
+  },
+  {
+    "street": "Via Cavalier Giovanni Moroni",
+    "number": "44",
+    "city": {
+      "name": "Montegrino Valtravaglia",
+      "istat": "012103"
+    },
+    "latitude": 45.9573873,
+    "longitude": 8.77397
+  },
+  {
+    "street": "Via Sorti",
+    "number": "69",
+    "city": {
+      "name": "Montegrino Valtravaglia",
+      "istat": "012103"
+    },
+    "latitude": 45.9644747,
+    "longitude": 8.7636985
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "9",
+    "city": {
+      "name": "Montegrino Valtravaglia",
+      "istat": "012103"
+    },
+    "latitude": 45.9723754,
+    "longitude": 8.7697605
+  },
+  {
+    "street": "Via Augusto Moroni",
+    "number": "4",
+    "city": {
+      "name": "Montegrino Valtravaglia",
+      "istat": "012103"
+    },
+    "latitude": 45.9582799,
+    "longitude": 8.7754605
+  },
+  {
+    "street": "Via Garzelle",
+    "number": "43",
+    "city": {
+      "name": "Montegrino Valtravaglia",
+      "istat": "012103"
+    },
+    "latitude": 45.9574269,
+    "longitude": 8.7762838
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "58",
+    "city": {
+      "name": "Montegrino Valtravaglia",
+      "istat": "012103"
+    },
+    "latitude": 45.9591815,
+    "longitude": 8.7750092
+  },
+  {
+    "street": "Via Ronchetto",
+    "number": "6",
+    "city": {
+      "name": "Montegrino Valtravaglia",
+      "istat": "012103"
+    },
+    "latitude": 45.9644726,
+    "longitude": 8.7646019
+  },
+  {
+    "street": "Via Augusto Moroni",
+    "number": "5",
+    "city": {
+      "name": "Montegrino Valtravaglia",
+      "istat": "012103"
+    },
+    "latitude": 45.9583956,
+    "longitude": 8.7761123
+  },
+  {
+    "street": "Via Pandorè",
+    "number": "20",
+    "city": {
+      "name": "Montegrino Valtravaglia",
+      "istat": "012103"
+    },
+    "latitude": 45.9526897,
+    "longitude": 8.7767071
+  },
+  {
+    "street": "Via Pandorè",
+    "number": "4",
+    "city": {
+      "name": "Montegrino Valtravaglia",
+      "istat": "012103"
+    },
+    "latitude": 45.9549713,
+    "longitude": 8.77424
+  },
+  {
+    "street": "Via Brughee",
+    "number": "2",
+    "city": {
+      "name": "Montegrino Valtravaglia",
+      "istat": "012103"
+    },
+    "latitude": 45.9753748,
+    "longitude": 8.7644215
+  },
+  {
+    "street": "Via Brughee",
+    "number": "6",
+    "city": {
+      "name": "Montegrino Valtravaglia",
+      "istat": "012103"
+    },
+    "latitude": 45.9767466,
+    "longitude": 8.7624397
+  }
+]

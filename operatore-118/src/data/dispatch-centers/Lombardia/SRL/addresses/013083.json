@@ -1,0 +1,112 @@
+[
+  {
+    "street": "Via della Pezza",
+    "number": "218",
+    "city": {
+      "name": "Cremia",
+      "istat": "013083"
+    },
+    "latitude": 46.091181,
+    "longitude": 9.274021
+  },
+  {
+    "street": "Piazza della Gloria",
+    "number": "53",
+    "city": {
+      "name": "Cremia",
+      "istat": "013083"
+    },
+    "latitude": 46.0868175,
+    "longitude": 9.2722587
+  },
+  {
+    "street": "Piazza della Gloria",
+    "number": "54",
+    "city": {
+      "name": "Cremia",
+      "istat": "013083"
+    },
+    "latitude": 46.0866988,
+    "longitude": 9.2722433
+  },
+  {
+    "street": "Via Roma",
+    "number": "1200",
+    "city": {
+      "name": "Cremia",
+      "istat": "013083"
+    },
+    "latitude": 46.0884061,
+    "longitude": 9.2736978
+  },
+  {
+    "street": "Via Roma",
+    "number": "1199",
+    "city": {
+      "name": "Cremia",
+      "istat": "013083"
+    },
+    "latitude": 46.0883514,
+    "longitude": 9.2738743
+  },
+  {
+    "street": "Via Barca",
+    "number": "210",
+    "city": {
+      "name": "Cremia",
+      "istat": "013083"
+    },
+    "latitude": 46.0892469,
+    "longitude": 9.2744498
+  },
+  {
+    "street": "Via Motto del Torchio",
+    "number": "48",
+    "city": {
+      "name": "Cremia",
+      "istat": "013083"
+    },
+    "latitude": 46.0889273,
+    "longitude": 9.2748771
+  },
+  {
+    "street": "Via Roma",
+    "number": "225",
+    "city": {
+      "name": "Cremia",
+      "istat": "013083"
+    },
+    "latitude": 46.0887414,
+    "longitude": 9.2770018
+  },
+  {
+    "street": "Via Roma",
+    "number": "424",
+    "city": {
+      "name": "Cremia",
+      "istat": "013083"
+    },
+    "latitude": 46.0887257,
+    "longitude": 9.2765821
+  },
+  {
+    "street": "Via Roma",
+    "number": "1352",
+    "city": {
+      "name": "Cremia",
+      "istat": "013083"
+    },
+    "latitude": 46.0896075,
+    "longitude": 9.2734879
+  },
+  {
+    "street": "Via della Pezza",
+    "number": "143",
+    "city": {
+      "name": "Cremia",
+      "istat": "013083"
+    },
+    "latitude": 46.0910057,
+    "longitude": 9.273058
+  }
+]

@@ -1,0 +1,292 @@
+[
+  {
+    "street": "Via Garibaldi Menotti",
+    "number": "15",
+    "city": {
+      "name": "Cadegliano-Viconago",
+      "istat": "012027"
+    },
+    "latitude": 45.9562231,
+    "longitude": 8.8440351
+  },
+  {
+    "street": "Via Arbizzo",
+    "number": "1a",
+    "city": {
+      "name": "Cadegliano-Viconago",
+      "istat": "012027"
+    },
+    "latitude": 45.9558146,
+    "longitude": 8.8427878
+  },
+  {
+    "street": "Via Arbizzo",
+    "number": "24",
+    "city": {
+      "name": "Cadegliano-Viconago",
+      "istat": "012027"
+    },
+    "latitude": 45.9557863,
+    "longitude": 8.8429537
+  },
+  {
+    "street": "Via Garibaldi Menotti",
+    "number": "2",
+    "city": {
+      "name": "Cadegliano-Viconago",
+      "istat": "012027"
+    },
+    "latitude": 45.9559476,
+    "longitude": 8.8437364
+  },
+  {
+    "street": "Via Garibaldi Menotti",
+    "number": "17",
+    "city": {
+      "name": "Cadegliano-Viconago",
+      "istat": "012027"
+    },
+    "latitude": 45.9558969,
+    "longitude": 8.8438804
+  },
+  {
+    "street": "Via Garibaldi Menotti",
+    "number": "2a",
+    "city": {
+      "name": "Cadegliano-Viconago",
+      "istat": "012027"
+    },
+    "latitude": 45.9561546,
+    "longitude": 8.8437742
+  },
+  {
+    "street": "Via Garibaldi Menotti",
+    "number": "4",
+    "city": {
+      "name": "Cadegliano-Viconago",
+      "istat": "012027"
+    },
+    "latitude": 45.9559286,
+    "longitude": 8.8436878
+  },
+  {
+    "street": "Via Statale",
+    "number": "24",
+    "city": {
+      "name": "Cadegliano-Viconago",
+      "istat": "012027"
+    },
+    "latitude": 45.9519062,
+    "longitude": 8.8441175
+  },
+  {
+    "street": "Piazza Quattrocento",
+    "number": "10",
+    "city": {
+      "name": "Cadegliano-Viconago",
+      "istat": "012027"
+    },
+    "latitude": 45.9657712,
+    "longitude": 8.8386964
+  },
+  {
+    "street": "Piazza Quattrocento",
+    "number": "5",
+    "city": {
+      "name": "Cadegliano-Viconago",
+      "istat": "012027"
+    },
+    "latitude": 45.9658483,
+    "longitude": 8.8387968
+  },
+  {
+    "street": "Via Statale",
+    "number": "9",
+    "city": {
+      "name": "Cadegliano-Viconago",
+      "istat": "012027"
+    },
+    "latitude": 45.9555092,
+    "longitude": 8.8493825
+  },
+  {
+    "street": "Via Somneggio",
+    "number": "3",
+    "city": {
+      "name": "Cadegliano-Viconago",
+      "istat": "012027"
+    },
+    "latitude": 45.9744372,
+    "longitude": 8.8446915
+  },
+  {
+    "street": "Via Ponte Tresa",
+    "number": "40",
+    "city": {
+      "name": "Cadegliano-Viconago",
+      "istat": "012027"
+    },
+    "latitude": 45.9662918,
+    "longitude": 8.8433647
+  },
+  {
+    "street": "Via Roma",
+    "number": "10",
+    "city": {
+      "name": "Cadegliano-Viconago",
+      "istat": "012027"
+    },
+    "latitude": 45.9654352,
+    "longitude": 8.8390379
+  },
+  {
+    "street": "Via Commendatore Benedetto Goscé",
+    "number": "6",
+    "city": {
+      "name": "Cadegliano-Viconago",
+      "istat": "012027"
+    },
+    "latitude": 45.9652283,
+    "longitude": 8.8388108
+  },
+  {
+    "street": "Piazza Angelina",
+    "number": "10",
+    "city": {
+      "name": "Cadegliano-Viconago",
+      "istat": "012027"
+    },
+    "latitude": 45.9658687,
+    "longitude": 8.8397704
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "8",
+    "city": {
+      "name": "Cadegliano-Viconago",
+      "istat": "012027"
+    },
+    "latitude": 45.9663305,
+    "longitude": 8.8389865
+  },
+  {
+    "street": "Piazza Angelina",
+    "number": "9",
+    "city": {
+      "name": "Cadegliano-Viconago",
+      "istat": "012027"
+    },
+    "latitude": 45.9658797,
+    "longitude": 8.8398224
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "9",
+    "city": {
+      "name": "Cadegliano-Viconago",
+      "istat": "012027"
+    },
+    "latitude": 45.9662768,
+    "longitude": 8.8389883
+  },
+  {
+    "street": "Via Stampa",
+    "number": "3",
+    "city": {
+      "name": "Cadegliano-Viconago",
+      "istat": "012027"
+    },
+    "latitude": 45.9672498,
+    "longitude": 8.8389966
+  },
+  {
+    "street": "Via Garibaldi Menotti",
+    "number": "1",
+    "city": {
+      "name": "Cadegliano-Viconago",
+      "istat": "012027"
+    },
+    "latitude": 45.9567827,
+    "longitude": 8.8440961
+  },
+  {
+    "street": "Via Garibaldi Menotti",
+    "number": "1a",
+    "city": {
+      "name": "Cadegliano-Viconago",
+      "istat": "012027"
+    },
+    "latitude": 45.9565759,
+    "longitude": 8.8439922
+  },
+  {
+    "street": "Via Garibaldi Menotti",
+    "number": "7",
+    "city": {
+      "name": "Cadegliano-Viconago",
+      "istat": "012027"
+    },
+    "latitude": 45.9566761,
+    "longitude": 8.8441214
+  },
+  {
+    "street": "Via Garibaldi Menotti",
+    "number": "2b",
+    "city": {
+      "name": "Cadegliano-Viconago",
+      "istat": "012027"
+    },
+    "latitude": 45.9561836,
+    "longitude": 8.8437663
+  },
+  {
+    "street": "Via Piacco",
+    "number": "1",
+    "city": {
+      "name": "Cadegliano-Viconago",
+      "istat": "012027"
+    },
+    "latitude": 45.9592493,
+    "longitude": 8.8510829
+  },
+  {
+    "street": "Via Piacco",
+    "number": "3",
+    "city": {
+      "name": "Cadegliano-Viconago",
+      "istat": "012027"
+    },
+    "latitude": 45.9591793,
+    "longitude": 8.850873
+  },
+  {
+    "street": "Via Garibaldi Menotti",
+    "number": "9",
+    "city": {
+      "name": "Cadegliano-Viconago",
+      "istat": "012027"
+    },
+    "latitude": 45.9564848,
+    "longitude": 8.8441315
+  },
+  {
+    "street": "Via Statale",
+    "number": "7",
+    "city": {
+      "name": "Cadegliano-Viconago",
+      "istat": "012027"
+    },
+    "latitude": 45.9549909,
+    "longitude": 8.8488301
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "44",
+    "city": {
+      "name": "Cadegliano-Viconago",
+      "istat": "012027"
+    },
+    "latitude": 45.9576915,
+    "longitude": 8.8416306
+  }
+]

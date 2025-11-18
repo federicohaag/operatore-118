@@ -1,0 +1,182 @@
+[
+  {
+    "street": "Via Valcuvia",
+    "number": "2",
+    "city": {
+      "name": "Casalzuigno",
+      "istat": "012037"
+    },
+    "latitude": 45.9024528,
+    "longitude": 8.7086517
+  },
+  {
+    "street": "Vicolo Malcotti",
+    "number": "1",
+    "city": {
+      "name": "Casalzuigno",
+      "istat": "012037"
+    },
+    "latitude": 45.916789,
+    "longitude": 8.7165313
+  },
+  {
+    "street": "Via Aga",
+    "number": "1",
+    "city": {
+      "name": "Casalzuigno",
+      "istat": "012037"
+    },
+    "latitude": 45.9229081,
+    "longitude": 8.7079312
+  },
+  {
+    "street": "Via Sant'Antonio",
+    "number": "3",
+    "city": {
+      "name": "Casalzuigno",
+      "istat": "012037"
+    },
+    "latitude": 45.9176333,
+    "longitude": 8.7157229
+  },
+  {
+    "street": "Via Sant'Antonio",
+    "number": "1",
+    "city": {
+      "name": "Casalzuigno",
+      "istat": "012037"
+    },
+    "latitude": 45.9175997,
+    "longitude": 8.7157504
+  },
+  {
+    "street": "Via Vesco",
+    "number": "16",
+    "city": {
+      "name": "Casalzuigno",
+      "istat": "012037"
+    },
+    "latitude": 45.9175037,
+    "longitude": 8.7165624
+  },
+  {
+    "street": "Via Vesco",
+    "number": "14",
+    "city": {
+      "name": "Casalzuigno",
+      "istat": "012037"
+    },
+    "latitude": 45.9175042,
+    "longitude": 8.7165013
+  },
+  {
+    "street": "Via Gianfilippo Usellini",
+    "number": "10",
+    "city": {
+      "name": "Casalzuigno",
+      "istat": "012037"
+    },
+    "latitude": 45.9174039,
+    "longitude": 8.7162774
+  },
+  {
+    "street": "Via Giuseppe Cerini",
+    "number": "11",
+    "city": {
+      "name": "Casalzuigno",
+      "istat": "012037"
+    },
+    "latitude": 45.9172517,
+    "longitude": 8.7164857
+  },
+  {
+    "street": "Via Valcuvia",
+    "number": "4c",
+    "city": {
+      "name": "Casalzuigno",
+      "istat": "012037"
+    },
+    "latitude": 45.9029152,
+    "longitude": 8.7093946
+  },
+  {
+    "street": "Via Mario Beretta",
+    "number": "8",
+    "city": {
+      "name": "Casalzuigno",
+      "istat": "012037"
+    },
+    "latitude": 45.917045,
+    "longitude": 8.7161675
+  },
+  {
+    "street": "Via Mario Beretta",
+    "number": "18",
+    "city": {
+      "name": "Casalzuigno",
+      "istat": "012037"
+    },
+    "latitude": 45.917233,
+    "longitude": 8.7159434
+  },
+  {
+    "street": "Via Mario Beretta",
+    "number": "22",
+    "city": {
+      "name": "Casalzuigno",
+      "istat": "012037"
+    },
+    "latitude": 45.9170738,
+    "longitude": 8.7161166
+  },
+  {
+    "street": "Via Mario Beretta",
+    "number": "12",
+    "city": {
+      "name": "Casalzuigno",
+      "istat": "012037"
+    },
+    "latitude": 45.9171946,
+    "longitude": 8.7159766
+  },
+  {
+    "street": "Via Favorita",
+    "number": "2",
+    "city": {
+      "name": "Casalzuigno",
+      "istat": "012037"
+    },
+    "latitude": 45.9064477,
+    "longitude": 8.7164038
+  },
+  {
+    "street": "Viale Camillo Bozzolo",
+    "number": "5",
+    "city": {
+      "name": "Casalzuigno",
+      "istat": "012037"
+    },
+    "latitude": 45.90643,
+    "longitude": 8.7121746
+  },
+  {
+    "street": "Via Libertà",
+    "number": "18",
+    "city": {
+      "name": "Casalzuigno",
+      "istat": "012037"
+    },
+    "latitude": 45.9067805,
+    "longitude": 8.7118698
+  },
+  {
+    "street": "Via Libertà",
+    "number": "44",
+    "city": {
+      "name": "Casalzuigno",
+      "istat": "012037"
+    },
+    "latitude": 45.9058174,
+    "longitude": 8.7074073
+  }
+]

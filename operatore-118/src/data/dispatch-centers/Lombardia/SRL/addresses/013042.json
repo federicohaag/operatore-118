@@ -1,0 +1,602 @@
+[
+  {
+    "street": "Strada provinciale 41 Vallassina",
+    "number": "60",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.844818,
+    "longitude": 9.2728417
+  },
+  {
+    "street": "Via Alessandro Verza",
+    "number": "102",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8561306,
+    "longitude": 9.2693218
+  },
+  {
+    "street": "Via per le Alpi",
+    "number": "7",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8567791,
+    "longitude": 9.3133147
+  },
+  {
+    "street": "Via per le Alpi",
+    "number": "13",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8567444,
+    "longitude": 9.3135704
+  },
+  {
+    "street": "Via Laguccio",
+    "number": "1",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8548433,
+    "longitude": 9.271452
+  },
+  {
+    "street": "Via per San Miro",
+    "number": "4",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8482064,
+    "longitude": 9.288226
+  },
+  {
+    "street": "Via Paradiso",
+    "number": "11",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8524733,
+    "longitude": 9.2812844
+  },
+  {
+    "street": "Via Gajum",
+    "number": "26",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8501717,
+    "longitude": 9.2835601
+  },
+  {
+    "street": "Via Gajum",
+    "number": "28",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8496157,
+    "longitude": 9.2847543
+  },
+  {
+    "street": "Piazza Alessandro Verza",
+    "number": "5",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8554175,
+    "longitude": 9.2689218
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "1",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8504822,
+    "longitude": 9.2740334
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "39",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.849582,
+    "longitude": 9.2735502
+  },
+  {
+    "street": "Via per le Alpi",
+    "number": "5",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8528182,
+    "longitude": 9.2904025
+  },
+  {
+    "street": "Via Segrino",
+    "number": "7",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8371838,
+    "longitude": 9.2747677
+  },
+  {
+    "street": "Via Alessandro Verza",
+    "number": "55",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8560574,
+    "longitude": 9.2692534
+  },
+  {
+    "street": "Via Alessandro Verza",
+    "number": "46",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8535654,
+    "longitude": 9.272153
+  },
+  {
+    "street": "Via Roma",
+    "number": "8",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8496251,
+    "longitude": 9.2715086
+  },
+  {
+    "street": "Via Brusa",
+    "number": "6/8",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8481771,
+    "longitude": 9.2724557
+  },
+  {
+    "street": "Via Alessandro Verza",
+    "number": "80",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8549602,
+    "longitude": 9.2700815
+  },
+  {
+    "street": "Via Alessandro Verza",
+    "number": "56",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8539369,
+    "longitude": 9.272211
+  },
+  {
+    "street": "Via Alessandro Verza",
+    "number": "39",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8546097,
+    "longitude": 9.2706051
+  },
+  {
+    "street": "Via Alessandro Verza",
+    "number": "88",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8550109,
+    "longitude": 9.2699314
+  },
+  {
+    "street": "Via Alessandro Verza",
+    "number": "74",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8548274,
+    "longitude": 9.2704316
+  },
+  {
+    "street": "Via Montegrappa",
+    "number": "2",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8475843,
+    "longitude": 9.258532
+  },
+  {
+    "street": "Via Alessandro Verza",
+    "number": "52",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8537398,
+    "longitude": 9.2719945
+  },
+  {
+    "street": "Via Alessandro Verza",
+    "number": "50",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8536073,
+    "longitude": 9.2720873
+  },
+  {
+    "street": "Piazza Giuseppe Garibaldi",
+    "number": "11",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8492025,
+    "longitude": 9.2732115
+  },
+  {
+    "street": "Via Alessandrro Volta",
+    "number": "8",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8489041,
+    "longitude": 9.2727002
+  },
+  {
+    "street": "Via Alessandro Verza",
+    "number": "48",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8535874,
+    "longitude": 9.2721
+  },
+  {
+    "street": "Piazza Giuseppe Garibaldi",
+    "number": "12",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8492341,
+    "longitude": 9.2732369
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "9",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8482184,
+    "longitude": 9.272811
+  },
+  {
+    "street": "Via Alessandro Verza",
+    "number": "24",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8523501,
+    "longitude": 9.2729959
+  },
+  {
+    "street": "Via Alessandro Verza",
+    "number": "70",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8547572,
+    "longitude": 9.2707415
+  },
+  {
+    "street": "Via Alessandro Verza",
+    "number": "13",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8510111,
+    "longitude": 9.273649
+  },
+  {
+    "street": "Via Alessandro Verza",
+    "number": "31",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8540908,
+    "longitude": 9.2714704
+  },
+  {
+    "street": "Via Terra Rossa",
+    "number": "8",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8539778,
+    "longitude": 9.2694322
+  },
+  {
+    "street": "Giuseppe Mazzini",
+    "number": "7",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8504571,
+    "longitude": 9.2738407
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "7",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8504629,
+    "longitude": 9.273813
+  },
+  {
+    "street": "Meda",
+    "number": "40",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8503938,
+    "longitude": 9.2771881
+  },
+  {
+    "street": "Via Meda",
+    "number": "40",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8503483,
+    "longitude": 9.277173
+  },
+  {
+    "street": "Via Meda",
+    "number": "17",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.850495,
+    "longitude": 9.2764372
+  },
+  {
+    "street": "Via Volta",
+    "number": "3",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8496147,
+    "longitude": 9.2733249
+  },
+  {
+    "street": "Via Meda",
+    "number": "32",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8504491,
+    "longitude": 9.2765897
+  },
+  {
+    "street": "Via della Chiesa",
+    "number": "3",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8506851,
+    "longitude": 9.2741196
+  },
+  {
+    "street": "Piazza Giuseppe Garibaldi",
+    "number": "14",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8494089,
+    "longitude": 9.2733945
+  },
+  {
+    "street": "Via Alessandro Verza",
+    "number": "29f",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8543021,
+    "longitude": 9.2711406
+  },
+  {
+    "street": "Via per San Miro",
+    "number": "8",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.850385,
+    "longitude": 9.300428
+  },
+  {
+    "street": "Via Gajum",
+    "number": "36",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8483667,
+    "longitude": 9.2873458
+  },
+  {
+    "street": "Via Volta",
+    "number": "2",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.849221,
+    "longitude": 9.2728395
+  },
+  {
+    "street": "Via Monte Rai",
+    "number": "5",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8512485,
+    "longitude": 9.2829765
+  },
+  {
+    "street": "Via per San Miro",
+    "number": "1",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8480565,
+    "longitude": 9.2902435
+  },
+  {
+    "street": "Via Volta",
+    "number": "51",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8443435,
+    "longitude": 9.273286
+  },
+  {
+    "street": "Via Monte Barzaghino",
+    "number": "22",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.845666,
+    "longitude": 9.2559391
+  },
+  {
+    "street": "Via Antonio Rosmini",
+    "number": "39",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.85258,
+    "longitude": 9.2666695
+  },
+  {
+    "street": "Via Grigna",
+    "number": "24a",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8479905,
+    "longitude": 9.2592395
+  },
+  {
+    "street": "Via Grigna",
+    "number": "16",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.853105,
+    "longitude": 9.2684675
+  },
+  {
+    "street": "Via Antonio Rosmini",
+    "number": "16",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.851859,
+    "longitude": 9.265368
+  },
+  {
+    "street": "Via Monte Barzaghino",
+    "number": "18",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8457805,
+    "longitude": 9.2560815
+  },
+  {
+    "street": "Piazza Giovanni XXIII",
+    "number": "2",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.8528978,
+    "longitude": 9.2773699
+  },
+  {
+    "street": "Via Laguccio",
+    "number": "10",
+    "city": {
+      "name": "Canzo",
+      "istat": "013042"
+    },
+    "latitude": 45.854586,
+    "longitude": 9.2732535
+  }
+]

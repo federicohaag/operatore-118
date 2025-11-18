@@ -1,0 +1,52 @@
+[
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "3",
+    "city": {
+      "name": "Curiglia con Monteviasco",
+      "istat": "012061"
+    },
+    "latitude": 46.0609642,
+    "longitude": 8.8044889
+  },
+  {
+    "street": "Via dei Caduti",
+    "number": "9",
+    "city": {
+      "name": "Curiglia con Monteviasco",
+      "istat": "012061"
+    },
+    "latitude": 46.0707288,
+    "longitude": 8.8282187
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "1",
+    "city": {
+      "name": "Curiglia con Monteviasco",
+      "istat": "012061"
+    },
+    "latitude": 46.0707879,
+    "longitude": 8.8281611
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "19",
+    "city": {
+      "name": "Curiglia con Monteviasco",
+      "istat": "012061"
+    },
+    "latitude": 46.0709656,
+    "longitude": 8.8271041
+  },
+  {
+    "street": "Via Viola",
+    "number": "1",
+    "city": {
+      "name": "Curiglia con Monteviasco",
+      "istat": "012061"
+    },
+    "latitude": 46.060441,
+    "longitude": 8.8034935
+  }
+]

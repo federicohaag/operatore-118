@@ -1,0 +1,4812 @@
+[
+  {
+    "street": "Via Calabria",
+    "number": "9",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6331219,
+    "longitude": 9.3270059
+  },
+  {
+    "street": "Via Calabria",
+    "number": "7",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6331022,
+    "longitude": 9.3270033
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "26",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6272995,
+    "longitude": 9.3238307
+  },
+  {
+    "street": "Via Roma",
+    "number": "41",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6257607,
+    "longitude": 9.3222485
+  },
+  {
+    "street": "Via Ferruccio Gilera",
+    "number": "114",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6311594,
+    "longitude": 9.3314496
+  },
+  {
+    "street": "Via Ferruccio Gilera",
+    "number": "118",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6314111,
+    "longitude": 9.3317705
+  },
+  {
+    "street": "Via Ferruccio Gilera",
+    "number": "126",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6320309,
+    "longitude": 9.3323729
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "201",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6177446,
+    "longitude": 9.3147652
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "2",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6304153,
+    "longitude": 9.3308355
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "31",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6259601,
+    "longitude": 9.3250338
+  },
+  {
+    "street": "Via Achille Grandi",
+    "number": "72",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6325344,
+    "longitude": 9.3405276
+  },
+  {
+    "street": "Viale Andrea Mantegna",
+    "number": "77",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6354155,
+    "longitude": 9.3328101
+  },
+  {
+    "street": "Viale Andrea Mantegna",
+    "number": "139",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6358585,
+    "longitude": 9.3320321
+  },
+  {
+    "street": "Via Michelangelo Buonarroti",
+    "number": "61",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6188541,
+    "longitude": 9.3265571
+  },
+  {
+    "street": "Via Michelangelo Buonarroti",
+    "number": "61b",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6191856,
+    "longitude": 9.3270399
+  },
+  {
+    "street": "Via della Maiella",
+    "number": "50",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6318244,
+    "longitude": 9.3150005
+  },
+  {
+    "street": "Viale Brianza",
+    "number": "1",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6336263,
+    "longitude": 9.3226888
+  },
+  {
+    "street": "Largo Carlo Arienti",
+    "number": "66",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6283662,
+    "longitude": 9.3260893
+  },
+  {
+    "street": "Via Roma",
+    "number": "4",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6258354,
+    "longitude": 9.321768
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "36",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6260586,
+    "longitude": 9.3246487
+  },
+  {
+    "street": "Via Gabriele Colombo",
+    "number": "8",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6234944,
+    "longitude": 9.3213737
+  },
+  {
+    "street": "Via Gabriele Colombo",
+    "number": "1",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6237833,
+    "longitude": 9.3212235
+  },
+  {
+    "street": "Via Gabriele Colombo",
+    "number": "6",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6235807,
+    "longitude": 9.3212852
+  },
+  {
+    "street": "Via Roma",
+    "number": "20",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6243442,
+    "longitude": 9.3225995
+  },
+  {
+    "street": "Via San Francesco d'Assisi",
+    "number": "4a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6244079,
+    "longitude": 9.3222696
+  },
+  {
+    "street": "Via San Francesco d'Assisi",
+    "number": "4b",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6243761,
+    "longitude": 9.3222669
+  },
+  {
+    "street": "Via San Francesco d'Assisi",
+    "number": "6",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6243142,
+    "longitude": 9.3222696
+  },
+  {
+    "street": "Via San Francesco d'Assisi",
+    "number": "5",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6239709,
+    "longitude": 9.3222883
+  },
+  {
+    "street": "Via San Francesco d'Assisi",
+    "number": "7a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6238977,
+    "longitude": 9.3222642
+  },
+  {
+    "street": "Via San Francesco d'Assisi",
+    "number": "7",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6238339,
+    "longitude": 9.3222401
+  },
+  {
+    "street": "Via San Francesco d'Assisi",
+    "number": "9a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.623712,
+    "longitude": 9.3222105
+  },
+  {
+    "street": "Via San Francesco d'Assisi",
+    "number": "10",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6238452,
+    "longitude": 9.3221301
+  },
+  {
+    "street": "Via San Francesco d'Assisi",
+    "number": "11",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6236257,
+    "longitude": 9.322173
+  },
+  {
+    "street": "Via Giuseppe Centemero",
+    "number": "26",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6249482,
+    "longitude": 9.3195203
+  },
+  {
+    "street": "Via Giuseppe Centemero",
+    "number": "23",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6248581,
+    "longitude": 9.31959
+  },
+  {
+    "street": "Via Giuseppe Centemero",
+    "number": "20",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6251845,
+    "longitude": 9.3197563
+  },
+  {
+    "street": "Via Giuseppe Centemero",
+    "number": "22",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6251114,
+    "longitude": 9.3196812
+  },
+  {
+    "street": "Via Giuseppe Centemero",
+    "number": "24",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6250438,
+    "longitude": 9.3196222
+  },
+  {
+    "street": "Via Giuseppe Centemero",
+    "number": "19",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6254678,
+    "longitude": 9.3201855
+  },
+  {
+    "street": "Via Giuseppe Centemero",
+    "number": "21",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6251601,
+    "longitude": 9.3198878
+  },
+  {
+    "street": "Via Francesco Caglio",
+    "number": "5",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6251639,
+    "longitude": 9.3202767
+  },
+  {
+    "street": "Via Francesco Caglio",
+    "number": "14",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6252108,
+    "longitude": 9.3204001
+  },
+  {
+    "street": "Via Francesco Caglio",
+    "number": "16a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6252596,
+    "longitude": 9.3203115
+  },
+  {
+    "street": "Via Francesco Caglio",
+    "number": "12",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6250682,
+    "longitude": 9.3205959
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "12",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6250832,
+    "longitude": 9.320789
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "18",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6248844,
+    "longitude": 9.3205395
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "20",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6247568,
+    "longitude": 9.3203679
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "15",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6247775,
+    "longitude": 9.3206495
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "17",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6246912,
+    "longitude": 9.3204913
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "13",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6249238,
+    "longitude": 9.320958
+  },
+  {
+    "street": "Via Francesco Caglio",
+    "number": "4",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6247287,
+    "longitude": 9.3210947
+  },
+  {
+    "street": "Via Francesco Caglio",
+    "number": "6",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.62477,
+    "longitude": 9.3210304
+  },
+  {
+    "street": "Via Francesco Caglio",
+    "number": "8",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6248169,
+    "longitude": 9.320974
+  },
+  {
+    "street": "Via Francesco Caglio",
+    "number": "10",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.62486,
+    "longitude": 9.3209097
+  },
+  {
+    "street": "Via Francesco Caglio",
+    "number": "3",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6247006,
+    "longitude": 9.3209392
+  },
+  {
+    "street": "Via Francesco Caglio",
+    "number": "2d",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6246341,
+    "longitude": 9.3212116
+  },
+  {
+    "street": "Via Francesco Caglio",
+    "number": "2c",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6246112,
+    "longitude": 9.3212433
+  },
+  {
+    "street": "Via Francesco Caglio",
+    "number": "2b",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6245679,
+    "longitude": 9.3213033
+  },
+  {
+    "street": "Via Francesco Caglio",
+    "number": "2a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6245459,
+    "longitude": 9.3213337
+  },
+  {
+    "street": "Via Francesco Caglio",
+    "number": "2",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6245922,
+    "longitude": 9.3212696
+  },
+  {
+    "street": "Via Marco Polo",
+    "number": "9",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.62477,
+    "longitude": 9.320038
+  },
+  {
+    "street": "Via Marco Polo",
+    "number": "6",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6244586,
+    "longitude": 9.3206334
+  },
+  {
+    "street": "Via Marco Polo",
+    "number": "5",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6244323,
+    "longitude": 9.3205073
+  },
+  {
+    "street": "Via Marco Polo",
+    "number": "3",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6243198,
+    "longitude": 9.3206763
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "96",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6247212,
+    "longitude": 9.321878
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "98",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6246931,
+    "longitude": 9.321827
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "100",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6246537,
+    "longitude": 9.3217733
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "102",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6246143,
+    "longitude": 9.3217251
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "104",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6245824,
+    "longitude": 9.3216714
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "92",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6249913,
+    "longitude": 9.3221864
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "106",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6245439,
+    "longitude": 9.3216151
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "108",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6245083,
+    "longitude": 9.3215641
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "110",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6244764,
+    "longitude": 9.3215159
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "75",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6246706,
+    "longitude": 9.3222588
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "81",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6245674,
+    "longitude": 9.3220925
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "83",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6245205,
+    "longitude": 9.3220147
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "73",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6247212,
+    "longitude": 9.3223473
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "89i",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6236295,
+    "longitude": 9.321894
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "89h",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6237008,
+    "longitude": 9.3219182
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "89g",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6238002,
+    "longitude": 9.3218726
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "89f",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6238264,
+    "longitude": 9.3218163
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "89e",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6238602,
+    "longitude": 9.3217519
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "89d",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6238883,
+    "longitude": 9.3216848
+  },
+  {
+    "street": "Via Roma",
+    "number": "9",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6265257,
+    "longitude": 9.3217975
+  },
+  {
+    "street": "Via Roma",
+    "number": "11",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6264282,
+    "longitude": 9.3218511
+  },
+  {
+    "street": "Via Roma",
+    "number": "19",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.626205,
+    "longitude": 9.3219826
+  },
+  {
+    "street": "Via Roma",
+    "number": "17",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6262537,
+    "longitude": 9.3219504
+  },
+  {
+    "street": "Via Roma",
+    "number": "15",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6263081,
+    "longitude": 9.3219182
+  },
+  {
+    "street": "Via Roma",
+    "number": "13",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6263644,
+    "longitude": 9.3218833
+  },
+  {
+    "street": "Via Roma",
+    "number": "33",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6259817,
+    "longitude": 9.3221113
+  },
+  {
+    "street": "Via Roma",
+    "number": "29",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6260324,
+    "longitude": 9.3220791
+  },
+  {
+    "street": "Via Roma",
+    "number": "25",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6260924,
+    "longitude": 9.3220389
+  },
+  {
+    "street": "Via Roma",
+    "number": "23",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6261374,
+    "longitude": 9.3220228
+  },
+  {
+    "street": "Via Roma",
+    "number": "37a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6258504,
+    "longitude": 9.3221515
+  },
+  {
+    "street": "Via Roma",
+    "number": "37",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6259048,
+    "longitude": 9.3221328
+  },
+  {
+    "street": "Via Roma",
+    "number": "18",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6250776,
+    "longitude": 9.3222481
+  },
+  {
+    "street": "Via Roma",
+    "number": "14",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6251958,
+    "longitude": 9.3221676
+  },
+  {
+    "street": "Via Roma",
+    "number": "12a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6252915,
+    "longitude": 9.3221247
+  },
+  {
+    "street": "Via Roma",
+    "number": "10a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6255428,
+    "longitude": 9.3219611
+  },
+  {
+    "street": "Via Roma",
+    "number": "10",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6256085,
+    "longitude": 9.3219048
+  },
+  {
+    "street": "Via Roma",
+    "number": "2b",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6262612,
+    "longitude": 9.3215588
+  },
+  {
+    "street": "Via Roma",
+    "number": "2a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6262368,
+    "longitude": 9.3215668
+  },
+  {
+    "street": "Via Roma",
+    "number": "2",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6262087,
+    "longitude": 9.3215829
+  },
+  {
+    "street": "Via Roma",
+    "number": "6",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6260005,
+    "longitude": 9.3217438
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "2a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6257323,
+    "longitude": 9.3216526
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "2b",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6256441,
+    "longitude": 9.3215936
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "4a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6255784,
+    "longitude": 9.3214783
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "1",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6255878,
+    "longitude": 9.3217921
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "3",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.625479,
+    "longitude": 9.3216553
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "4",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6255015,
+    "longitude": 9.3214273
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "6",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6254847,
+    "longitude": 9.3213978
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "5",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6253027,
+    "longitude": 9.3214408
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "7",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6251076,
+    "longitude": 9.3212101
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "9",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6250457,
+    "longitude": 9.3211216
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "11",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6249838,
+    "longitude": 9.3210384
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "8",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6253684,
+    "longitude": 9.3211672
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "10",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6252202,
+    "longitude": 9.320974
+  },
+  {
+    "street": "Via Giuseppe Centemero",
+    "number": "1",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6262612,
+    "longitude": 9.321017
+  },
+  {
+    "street": "Via Giuseppe Centemero",
+    "number": "1a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6262349,
+    "longitude": 9.3209922
+  },
+  {
+    "street": "Via Giuseppe Centemero",
+    "number": "3",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6262015,
+    "longitude": 9.3209607
+  },
+  {
+    "street": "Via Giuseppe Centemero",
+    "number": "5",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6261691,
+    "longitude": 9.3209303
+  },
+  {
+    "street": "Via Giuseppe Centemero",
+    "number": "7",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.626143,
+    "longitude": 9.3209057
+  },
+  {
+    "street": "Via Giuseppe Centemero",
+    "number": "9",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6261187,
+    "longitude": 9.3208668
+  },
+  {
+    "street": "Via Giuseppe Centemero",
+    "number": "11",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6260661,
+    "longitude": 9.3208024
+  },
+  {
+    "street": "Via Giuseppe Centemero",
+    "number": "4",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6262237,
+    "longitude": 9.3206871
+  },
+  {
+    "street": "Via Giuseppe Centemero",
+    "number": "4a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6261843,
+    "longitude": 9.3206522
+  },
+  {
+    "street": "Via Giuseppe Centemero",
+    "number": "6",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6261337,
+    "longitude": 9.3206254
+  },
+  {
+    "street": "Via Giuseppe Centemero",
+    "number": "6a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6260511,
+    "longitude": 9.3205744
+  },
+  {
+    "street": "Via Giuseppe Centemero",
+    "number": "13e",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6257435,
+    "longitude": 9.3205476
+  },
+  {
+    "street": "Via Giuseppe Centemero",
+    "number": "13d",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6257754,
+    "longitude": 9.3205798
+  },
+  {
+    "street": "Via Giuseppe Centemero",
+    "number": "13c",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6258242,
+    "longitude": 9.3206334
+  },
+  {
+    "street": "Via Giuseppe Centemero",
+    "number": "13b",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6258523,
+    "longitude": 9.3206602
+  },
+  {
+    "street": "Via Giuseppe Centemero",
+    "number": "13a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.625918,
+    "longitude": 9.3206736
+  },
+  {
+    "street": "Via Giuseppe Centemero",
+    "number": "13",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6258035,
+    "longitude": 9.3206039
+  },
+  {
+    "street": "Via Giuseppe Centemero",
+    "number": "8",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6259142,
+    "longitude": 9.3204457
+  },
+  {
+    "street": "Via Giuseppe Centemero",
+    "number": "12",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6257717,
+    "longitude": 9.320325
+  },
+  {
+    "street": "Via Giuseppe Centemero",
+    "number": "14",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6256647,
+    "longitude": 9.3202123
+  },
+  {
+    "street": "Via Giuseppe Centemero",
+    "number": "15",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6256741,
+    "longitude": 9.320392
+  },
+  {
+    "street": "Via Giuseppe Centemero",
+    "number": "17",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6255653,
+    "longitude": 9.3202955
+  },
+  {
+    "street": "Via Giuseppe Centemero",
+    "number": "16",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6255053,
+    "longitude": 9.3200621
+  },
+  {
+    "street": "Piazza Martiri della Libertà",
+    "number": "6",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6238583,
+    "longitude": 9.3226638
+  },
+  {
+    "street": "Piazza Martiri della Libertà",
+    "number": "8",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6238246,
+    "longitude": 9.3226317
+  },
+  {
+    "street": "Piazza Martiri della Libertà",
+    "number": "10",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6237345,
+    "longitude": 9.3225592
+  },
+  {
+    "street": "Piazza Martiri della Libertà",
+    "number": "12",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6236426,
+    "longitude": 9.3224519
+  },
+  {
+    "street": "Piazza Martiri della Libertà",
+    "number": "1",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6235826,
+    "longitude": 9.322688
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "89c",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6239202,
+    "longitude": 9.3216419
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "89b",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6239446,
+    "longitude": 9.3215802
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "89a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6239033,
+    "longitude": 9.3215105
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "89n",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6238602,
+    "longitude": 9.3214139
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "89m",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6237889,
+    "longitude": 9.3214247
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "89l",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6237495,
+    "longitude": 9.321371
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "89",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6239502,
+    "longitude": 9.3213549
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "74",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6254969,
+    "longitude": 9.3235197
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "86",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6252572,
+    "longitude": 9.322989
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "84",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6252768,
+    "longitude": 9.3230381
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "78",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6253786,
+    "longitude": 9.3232585
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "57",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6251302,
+    "longitude": 9.3233451
+  },
+  {
+    "street": "Via Nicolò Copernico",
+    "number": "56",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6326253,
+    "longitude": 9.3371719
+  },
+  {
+    "street": "Via Gorizia",
+    "number": "20",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6255384,
+    "longitude": 9.3229104
+  },
+  {
+    "street": "Via Filippo Corridoni",
+    "number": "2",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6273098,
+    "longitude": 9.3234846
+  },
+  {
+    "street": "Via Filippo Corridoni",
+    "number": "2a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6273623,
+    "longitude": 9.3234631
+  },
+  {
+    "street": "Via Filippo Corridoni",
+    "number": "2b",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6273979,
+    "longitude": 9.3234497
+  },
+  {
+    "street": "Via Filippo Corridoni",
+    "number": "1",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6273567,
+    "longitude": 9.323321
+  },
+  {
+    "street": "Via Filippo Corridoni",
+    "number": "3a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6274148,
+    "longitude": 9.3232995
+  },
+  {
+    "street": "Via Filippo Corridoni",
+    "number": "5",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6274711,
+    "longitude": 9.3232647
+  },
+  {
+    "street": "Via Filippo Corridoni",
+    "number": "6",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6275517,
+    "longitude": 9.3233559
+  },
+  {
+    "street": "Via Filippo Corridoni",
+    "number": "7",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6275611,
+    "longitude": 9.3232056
+  },
+  {
+    "street": "Via Filippo Corridoni",
+    "number": "9",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.627608,
+    "longitude": 9.3231788
+  },
+  {
+    "street": "Via Filippo Corridoni",
+    "number": "11",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6276587,
+    "longitude": 9.32316
+  },
+  {
+    "street": "Via Filippo Corridoni",
+    "number": "13",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6277149,
+    "longitude": 9.3231332
+  },
+  {
+    "street": "Via Filippo Corridoni",
+    "number": "10",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6277131,
+    "longitude": 9.3232486
+  },
+  {
+    "street": "Via Filippo Corridoni",
+    "number": "12",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6278631,
+    "longitude": 9.323203
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "14",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.628257,
+    "longitude": 9.3234336
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "12",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6279044,
+    "longitude": 9.3227899
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "10",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6277318,
+    "longitude": 9.3224359
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "15a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6276924,
+    "longitude": 9.3221569
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "15",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6276493,
+    "longitude": 9.3221542
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "21",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6277487,
+    "longitude": 9.3222803
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "8",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6275818,
+    "longitude": 9.3222186
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "13",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6275048,
+    "longitude": 9.3219718
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "7",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6275742,
+    "longitude": 9.3217787
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "5a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6274673,
+    "longitude": 9.3218297
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "6",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6274223,
+    "longitude": 9.322114
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "4a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6273604,
+    "longitude": 9.3221086
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "4",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6273023,
+    "longitude": 9.3220898
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "2a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.627246,
+    "longitude": 9.3220657
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "2",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6271503,
+    "longitude": 9.3221194
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "3",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6272179,
+    "longitude": 9.3218002
+  },
+  {
+    "street": "Via Roma",
+    "number": "7",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6265914,
+    "longitude": 9.3217854
+  },
+  {
+    "street": "Via Roma",
+    "number": "5",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6266364,
+    "longitude": 9.3217854
+  },
+  {
+    "street": "Via Roma",
+    "number": "3",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6266842,
+    "longitude": 9.3217975
+  },
+  {
+    "street": "Via Roma",
+    "number": "1b",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6267255,
+    "longitude": 9.3218109
+  },
+  {
+    "street": "Via Roma",
+    "number": "1a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6267799,
+    "longitude": 9.3218122
+  },
+  {
+    "street": "Via Roma",
+    "number": "1",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.626839,
+    "longitude": 9.3218216
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "67",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6269215,
+    "longitude": 9.3219262
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "67a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6268971,
+    "longitude": 9.3218578
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "57",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6270097,
+    "longitude": 9.322342
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "59",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6269965,
+    "longitude": 9.3222535
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "61",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6269825,
+    "longitude": 9.3221757
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "63",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6269665,
+    "longitude": 9.3221019
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "65",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6269515,
+    "longitude": 9.3220174
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "53",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6270312,
+    "longitude": 9.3225016
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "53a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6270293,
+    "longitude": 9.3224305
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "49",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6270453,
+    "longitude": 9.3227068
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "47",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6270678,
+    "longitude": 9.3228838
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "51",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6270378,
+    "longitude": 9.322578
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "42",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6271297,
+    "longitude": 9.3224184
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "44",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6271231,
+    "longitude": 9.3223608
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "46",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6271231,
+    "longitude": 9.3223017
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "48",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6271138,
+    "longitude": 9.3222226
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "38a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6271485,
+    "longitude": 9.3226263
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "40",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6271391,
+    "longitude": 9.322527
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "36b",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6271691,
+    "longitude": 9.3228838
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "36a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6271653,
+    "longitude": 9.3228033
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "38",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6271541,
+    "longitude": 9.3227094
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "34",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6272066,
+    "longitude": 9.3231708
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "34a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6271991,
+    "longitude": 9.3230876
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "36",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6271841,
+    "longitude": 9.3229857
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "32",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.627216,
+    "longitude": 9.3232539
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "41",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6270978,
+    "longitude": 9.3231252
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "43",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6270912,
+    "longitude": 9.3230447
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "37",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6271203,
+    "longitude": 9.3232955
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "31",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.627141,
+    "longitude": 9.3234631
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "33",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6271269,
+    "longitude": 9.3233532
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "39",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.62711,
+    "longitude": 9.3232392
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "2",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6271166,
+    "longitude": 9.323557
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "12",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6269177,
+    "longitude": 9.3236858
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "10",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6269534,
+    "longitude": 9.3236643
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "8",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6270059,
+    "longitude": 9.3236214
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "4",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6270565,
+    "longitude": 9.3235838
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "20",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.626687,
+    "longitude": 9.3238333
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "18a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.626732,
+    "longitude": 9.3238038
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "18",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6267808,
+    "longitude": 9.3237689
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "16",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6268183,
+    "longitude": 9.3237448
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "14",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6268615,
+    "longitude": 9.3237314
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "9",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.626854,
+    "longitude": 9.323836
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "7",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6269815,
+    "longitude": 9.3237609
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "5a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6270284,
+    "longitude": 9.323726
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "5",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6270753,
+    "longitude": 9.3236938
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "3",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6271184,
+    "longitude": 9.3236643
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "1",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6271541,
+    "longitude": 9.3236482
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "19",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6272666,
+    "longitude": 9.3240371
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "21",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6272516,
+    "longitude": 9.3239781
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "23",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6272422,
+    "longitude": 9.3239272
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "25",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6272254,
+    "longitude": 9.3238655
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "27",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6271991,
+    "longitude": 9.3237635
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "29",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6271841,
+    "longitude": 9.3236965
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "17",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6273004,
+    "longitude": 9.3241256
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "24",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6273417,
+    "longitude": 9.3239808
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "30",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6272535,
+    "longitude": 9.3236482
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "14",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6275105,
+    "longitude": 9.324984
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "5",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6273285,
+    "longitude": 9.3250912
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "7",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6273735,
+    "longitude": 9.3249974
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "9",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6273979,
+    "longitude": 9.3248391
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "11",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6273904,
+    "longitude": 9.3247077
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "13",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6273604,
+    "longitude": 9.324536
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "15",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6273417,
+    "longitude": 9.3243724
+  },
+  {
+    "street": "Via Piave",
+    "number": "2",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6275086,
+    "longitude": 9.3255928
+  },
+  {
+    "street": "Via Piave",
+    "number": "1",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.627518,
+    "longitude": 9.3253756
+  },
+  {
+    "street": "Via Trento e Trieste",
+    "number": "2a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6271916,
+    "longitude": 9.3251154
+  },
+  {
+    "street": "Via Trento e Trieste",
+    "number": "4",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6271466,
+    "longitude": 9.3250886
+  },
+  {
+    "street": "Via Trento e Trieste",
+    "number": "6",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6270978,
+    "longitude": 9.3250483
+  },
+  {
+    "street": "Via Trento e Trieste",
+    "number": "8",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.627049,
+    "longitude": 9.3250295
+  },
+  {
+    "street": "Via Trento e Trieste",
+    "number": "10",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6270097,
+    "longitude": 9.3249866
+  },
+  {
+    "street": "Via Trento e Trieste",
+    "number": "1a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.626824,
+    "longitude": 9.3250698
+  },
+  {
+    "street": "Via Trento e Trieste",
+    "number": "1",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6269946,
+    "longitude": 9.3251878
+  },
+  {
+    "street": "Via Trento e Trieste",
+    "number": "14",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.626944,
+    "longitude": 9.3249679
+  },
+  {
+    "street": "Via Trento e Trieste",
+    "number": "5",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6266045,
+    "longitude": 9.3250242
+  },
+  {
+    "street": "Via Trento e Trieste",
+    "number": "7",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.626582,
+    "longitude": 9.3249907
+  },
+  {
+    "street": "Via Trento e Trieste",
+    "number": "9",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6265557,
+    "longitude": 9.3249437
+  },
+  {
+    "street": "Via Trento e Trieste",
+    "number": "9a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6265276,
+    "longitude": 9.3248954
+  },
+  {
+    "street": "Via Trento e Trieste",
+    "number": "16b",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6264882,
+    "longitude": 9.3246272
+  },
+  {
+    "street": "Via Trento e Trieste",
+    "number": "16a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6265632,
+    "longitude": 9.3246996
+  },
+  {
+    "street": "Via Trento e Trieste",
+    "number": "16",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6267546,
+    "longitude": 9.3247935
+  },
+  {
+    "street": "Via Trento e Trieste",
+    "number": "13",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6264263,
+    "longitude": 9.3247023
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "2",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6266251,
+    "longitude": 9.3238413
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "24",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6264676,
+    "longitude": 9.3240331
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "22",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6264854,
+    "longitude": 9.324017
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "25",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6264741,
+    "longitude": 9.3241283
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "23",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6265191,
+    "longitude": 9.3240854
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "21",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6265613,
+    "longitude": 9.3240479
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "31a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.626386,
+    "longitude": 9.324194
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "31",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.626401,
+    "longitude": 9.324182
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "33",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.626355,
+    "longitude": 9.3242276
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "28",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6263213,
+    "longitude": 9.3241498
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "36",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6261899,
+    "longitude": 9.3242624
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "34",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6262181,
+    "longitude": 9.324241
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "32",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6262462,
+    "longitude": 9.3242168
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "30",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6262744,
+    "longitude": 9.324194
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "39",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6262331,
+    "longitude": 9.324367
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "43",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.626008,
+    "longitude": 9.3245736
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "41",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6260568,
+    "longitude": 9.3245092
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "4",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.626582,
+    "longitude": 9.3237662
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "6a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.626537,
+    "longitude": 9.3236724
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "6",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6264,
+    "longitude": 9.3234014
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "12",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6262068,
+    "longitude": 9.3225485
+  },
+  {
+    "street": "Via Gorizia",
+    "number": "10",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6260418,
+    "longitude": 9.3227684
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "6a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6262987,
+    "longitude": 9.3229133
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "8",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6263719,
+    "longitude": 9.3228087
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "4",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6260643,
+    "longitude": 9.3232593
+  },
+  {
+    "street": "Via Gorizia",
+    "number": "13",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6253271,
+    "longitude": 9.3229347
+  },
+  {
+    "street": "Via Gorizia",
+    "number": "11",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.625359,
+    "longitude": 9.3230072
+  },
+  {
+    "street": "Via Gorizia",
+    "number": "9a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.625389,
+    "longitude": 9.3230742
+  },
+  {
+    "street": "Via Gorizia",
+    "number": "9",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6254509,
+    "longitude": 9.3232003
+  },
+  {
+    "street": "Via Gorizia",
+    "number": "7",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6254847,
+    "longitude": 9.3232888
+  },
+  {
+    "street": "Via Gorizia",
+    "number": "3",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6259236,
+    "longitude": 9.3240935
+  },
+  {
+    "street": "Via Gorizia",
+    "number": "3c",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6258561,
+    "longitude": 9.3239915
+  },
+  {
+    "street": "Via Gorizia",
+    "number": "5",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6256479,
+    "longitude": 9.323608
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "37",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6258898,
+    "longitude": 9.324815
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "43",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6258148,
+    "longitude": 9.3246675
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "45",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6257623,
+    "longitude": 9.3245441
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "40",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6259142,
+    "longitude": 9.3244636
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "42",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6258711,
+    "longitude": 9.3243939
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "44",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6258523,
+    "longitude": 9.3243402
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "46",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6258185,
+    "longitude": 9.3242611
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "52",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6257857,
+    "longitude": 9.324186
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "60",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6257566,
+    "longitude": 9.3241136
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "62",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6257313,
+    "longitude": 9.3240572
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "64",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6257135,
+    "longitude": 9.3240049
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "66",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6256647,
+    "longitude": 9.3239057
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "68",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6256253,
+    "longitude": 9.3238051
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "70",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6255888,
+    "longitude": 9.3237166
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "72",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6255503,
+    "longitude": 9.3236415
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "76",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6254171,
+    "longitude": 9.3233371
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "80",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6253308,
+    "longitude": 9.3231547
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "82",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6252924,
+    "longitude": 9.3230756
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "88",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.625223,
+    "longitude": 9.322928
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "90",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6251967,
+    "longitude": 9.3228771
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "59",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6251245,
+    "longitude": 9.3231574
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "55",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6253158,
+    "longitude": 9.3237072
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "67",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6249951,
+    "longitude": 9.3228918
+  },
+  {
+    "street": "Via Ventiquattro Maggio",
+    "number": "2a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6314073,
+    "longitude": 9.3084743
+  },
+  {
+    "street": "Via Contardo Ferrini",
+    "number": "35",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6353435,
+    "longitude": 9.3341376
+  },
+  {
+    "street": "Via Contardo Ferrini",
+    "number": "33",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6353769,
+    "longitude": 9.3341759
+  },
+  {
+    "street": "Via Contardo Ferrini",
+    "number": "31",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6354705,
+    "longitude": 9.3342492
+  },
+  {
+    "street": "Via Contardo Ferrini",
+    "number": "29",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6355983,
+    "longitude": 9.3343948
+  },
+  {
+    "street": "Via Contardo Ferrini",
+    "number": "27",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6356567,
+    "longitude": 9.3344615
+  },
+  {
+    "street": "Via Contardo Ferrini",
+    "number": "25",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6356831,
+    "longitude": 9.3344915
+  },
+  {
+    "street": "Via Contardo Ferrini",
+    "number": "23",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6357066,
+    "longitude": 9.3345183
+  },
+  {
+    "street": "Via Contardo Ferrini",
+    "number": "21",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6358341,
+    "longitude": 9.3346638
+  },
+  {
+    "street": "Via Contardo Ferrini",
+    "number": "19",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6359365,
+    "longitude": 9.3347805
+  },
+  {
+    "street": "Via Contardo Ferrini",
+    "number": "17",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6359498,
+    "longitude": 9.3347956
+  },
+  {
+    "street": "Via Contardo Ferrini",
+    "number": "15",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6360378,
+    "longitude": 9.3348959
+  },
+  {
+    "street": "Via Contardo Ferrini",
+    "number": "13",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6361117,
+    "longitude": 9.3349802
+  },
+  {
+    "street": "Via Contardo Ferrini",
+    "number": "5",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6364053,
+    "longitude": 9.335315
+  },
+  {
+    "street": "Via Contardo Ferrini",
+    "number": "7",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6362743,
+    "longitude": 9.3351656
+  },
+  {
+    "street": "Via Contardo Ferrini",
+    "number": "9",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6362077,
+    "longitude": 9.3350897
+  },
+  {
+    "street": "Via Contardo Ferrini",
+    "number": "11",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6361858,
+    "longitude": 9.3350647
+  },
+  {
+    "street": "Via Contardo Ferrini",
+    "number": "45",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6346609,
+    "longitude": 9.3333562
+  },
+  {
+    "street": "Via Ferruccio Gilera",
+    "number": "24",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6279109,
+    "longitude": 9.3287181
+  },
+  {
+    "street": "Via Ferruccio Gilera",
+    "number": "140",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6334187,
+    "longitude": 9.3344991
+  },
+  {
+    "street": "Via Ferruccio Gilera",
+    "number": "128",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6320403,
+    "longitude": 9.3323819
+  },
+  {
+    "street": "Via Ferruccio Gilera",
+    "number": "116",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6312628,
+    "longitude": 9.3315755
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "87",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6241406,
+    "longitude": 9.335175
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "85",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6241491,
+    "longitude": 9.3351294
+  },
+  {
+    "street": "Via Michelangelo Buonarroti",
+    "number": "42",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6195783,
+    "longitude": 9.3247037
+  },
+  {
+    "street": "Via Roma",
+    "number": "35",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6259656,
+    "longitude": 9.3221019
+  },
+  {
+    "street": "Piazza Sandro Pertini",
+    "number": "6",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6294386,
+    "longitude": 9.3263382
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "1",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6303831,
+    "longitude": 9.330777
+  },
+  {
+    "street": "Via Carso",
+    "number": "92",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6203937,
+    "longitude": 9.3157671
+  },
+  {
+    "street": "Piazza Martiri della Libertà",
+    "number": "4",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6239534,
+    "longitude": 9.3227425
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "93",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.623393,
+    "longitude": 9.3207451
+  },
+  {
+    "street": "Via Roma",
+    "number": "16/18",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6250737,
+    "longitude": 9.3221846
+  },
+  {
+    "street": "Via Gioacchino Rossini",
+    "number": "1",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6210156,
+    "longitude": 9.3176113
+  },
+  {
+    "street": "Via Camillo Benso conte di Cavour",
+    "number": "4",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6228309,
+    "longitude": 9.3191302
+  },
+  {
+    "street": "Via Camillo Benso conte di Cavour",
+    "number": "2",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6229063,
+    "longitude": 9.3192714
+  },
+  {
+    "street": "Via Michelangelo Buonarroti",
+    "number": "40a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6207041,
+    "longitude": 9.3243768
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "80",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6126656,
+    "longitude": 9.323264
+  },
+  {
+    "street": "Viale Andrea Mantegna",
+    "number": "97",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6355248,
+    "longitude": 9.3325461
+  },
+  {
+    "street": "Via Contardo Ferrini",
+    "number": "43",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6350075,
+    "longitude": 9.3336262
+  },
+  {
+    "street": "Viale Andrea Mantegna",
+    "number": "119",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6356928,
+    "longitude": 9.3322578
+  },
+  {
+    "street": "Via Rodolfo Fumagalli",
+    "number": "59",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6367226,
+    "longitude": 9.335478
+  },
+  {
+    "street": "Via Rodolfo Fumagalli",
+    "number": "73",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.636178,
+    "longitude": 9.3361978
+  },
+  {
+    "street": "Via Achille Grandi",
+    "number": "76",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6321808,
+    "longitude": 9.3410334
+  },
+  {
+    "street": "Viale Andrea Mantegna",
+    "number": "109",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6355931,
+    "longitude": 9.3323868
+  },
+  {
+    "street": "Via Rodolfo Fumagalli",
+    "number": "96",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6356553,
+    "longitude": 9.3366974
+  },
+  {
+    "street": "Via Rodolfo Fumagalli",
+    "number": "63",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6365822,
+    "longitude": 9.3356273
+  },
+  {
+    "street": "Via Michelangelo Buonarroti",
+    "number": "43",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6196759,
+    "longitude": 9.3254127
+  },
+  {
+    "street": "Via Michelangelo Buonarroti",
+    "number": "66",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.618152,
+    "longitude": 9.3277711
+  },
+  {
+    "street": "Via Michelangelo Buonarroti",
+    "number": "47",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6194439,
+    "longitude": 9.3258647
+  },
+  {
+    "street": "Via Michelangelo Buonarroti",
+    "number": "45",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6195407,
+    "longitude": 9.3256596
+  },
+  {
+    "street": "Via Michelangelo Buonarroti",
+    "number": "44",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6193495,
+    "longitude": 9.3252389
+  },
+  {
+    "street": "Via Michelangelo Buonarroti",
+    "number": "59",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6189123,
+    "longitude": 9.3264507
+  },
+  {
+    "street": "Via Lega Lombarda",
+    "number": "129",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.617117,
+    "longitude": 9.3267908
+  },
+  {
+    "street": "Via Lega Lombarda",
+    "number": "127",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6171902,
+    "longitude": 9.3268532
+  },
+  {
+    "street": "Via Michelangelo Buonarroti",
+    "number": "55",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6189845,
+    "longitude": 9.3262879
+  },
+  {
+    "street": "Via Michelangelo Buonarroti",
+    "number": "49",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6194028,
+    "longitude": 9.3259466
+  },
+  {
+    "street": "Via Michelangelo Buonarroti",
+    "number": "68",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6186421,
+    "longitude": 9.3269629
+  },
+  {
+    "street": "Via Michelangelo Buonarroti",
+    "number": "46",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6191795,
+    "longitude": 9.3255292
+  },
+  {
+    "street": "Via Michelangelo Buonarroti",
+    "number": "57",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6189412,
+    "longitude": 9.3263812
+  },
+  {
+    "street": "Via Michelangelo Buonarroti",
+    "number": "40b",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6202853,
+    "longitude": 9.3239929
+  },
+  {
+    "street": "Via Michelangelo Buonarroti",
+    "number": "40c",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6200803,
+    "longitude": 9.323892
+  },
+  {
+    "street": "Via San Francesco d'Assisi",
+    "number": "4",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6245831,
+    "longitude": 9.3223568
+  },
+  {
+    "street": "Via Monviso",
+    "number": "11",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6236398,
+    "longitude": 9.3113339
+  },
+  {
+    "street": "Via Monviso",
+    "number": "27",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6228961,
+    "longitude": 9.3115557
+  },
+  {
+    "street": "Via Monviso",
+    "number": "39",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.621911,
+    "longitude": 9.3114216
+  },
+  {
+    "street": "Via Monviso",
+    "number": "38",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6215002,
+    "longitude": 9.311327
+  },
+  {
+    "street": "Via Monviso",
+    "number": "24",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6231971,
+    "longitude": 9.3114037
+  },
+  {
+    "street": "Via Monviso",
+    "number": "23",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6231657,
+    "longitude": 9.3114827
+  },
+  {
+    "street": "Via Monviso",
+    "number": "15",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.623487,
+    "longitude": 9.3114349
+  },
+  {
+    "street": "Via Monviso",
+    "number": "3",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6239502,
+    "longitude": 9.3112205
+  },
+  {
+    "street": "Via Monviso",
+    "number": "34",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6222828,
+    "longitude": 9.3113134
+  },
+  {
+    "street": "Via Monviso",
+    "number": "14",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6234631,
+    "longitude": 9.3113237
+  },
+  {
+    "street": "Via Moncenisio",
+    "number": "3",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6227043,
+    "longitude": 9.3109089
+  },
+  {
+    "street": "Via Moncenisio",
+    "number": "4",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6227821,
+    "longitude": 9.3109352
+  },
+  {
+    "street": "Via Monviso",
+    "number": "31",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6226031,
+    "longitude": 9.3114345
+  },
+  {
+    "street": "Via Monviso",
+    "number": "37",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.622452,
+    "longitude": 9.3114404
+  },
+  {
+    "street": "Via Monviso",
+    "number": "29a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6227413,
+    "longitude": 9.3114921
+  },
+  {
+    "street": "Via Monviso",
+    "number": "29",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6228402,
+    "longitude": 9.3115537
+  },
+  {
+    "street": "Via Monviso",
+    "number": "6",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6237319,
+    "longitude": 9.3111871
+  },
+  {
+    "street": "Via Monviso",
+    "number": "25",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6229316,
+    "longitude": 9.311541
+  },
+  {
+    "street": "Via Monviso",
+    "number": "21",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6232906,
+    "longitude": 9.3114934
+  },
+  {
+    "street": "Via Monviso",
+    "number": "2",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.624017,
+    "longitude": 9.3110899
+  },
+  {
+    "street": "Via Monviso",
+    "number": "10",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.623562,
+    "longitude": 9.3112781
+  },
+  {
+    "street": "Via Monviso",
+    "number": "37a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6222813,
+    "longitude": 9.3118765
+  },
+  {
+    "street": "Via Monviso",
+    "number": "32",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6225485,
+    "longitude": 9.3113463
+  },
+  {
+    "street": "Via Monviso",
+    "number": "12",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6234816,
+    "longitude": 9.3113062
+  },
+  {
+    "street": "Via Monviso",
+    "number": "22",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6232373,
+    "longitude": 9.3114076
+  },
+  {
+    "street": "Via Monviso",
+    "number": "31a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6227043,
+    "longitude": 9.3114882
+  },
+  {
+    "street": "Via Monviso",
+    "number": "36",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6221471,
+    "longitude": 9.3113085
+  },
+  {
+    "street": "Via Monviso",
+    "number": "17",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6234318,
+    "longitude": 9.3114398
+  },
+  {
+    "street": "Via Monviso",
+    "number": "35",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6224799,
+    "longitude": 9.3114394
+  },
+  {
+    "street": "Via Giuseppe Parini",
+    "number": "104",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6216926,
+    "longitude": 9.3117208
+  },
+  {
+    "street": "Via San Martino",
+    "number": "40",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6260794,
+    "longitude": 9.3171821
+  },
+  {
+    "street": "Via San Martino",
+    "number": "42",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6260766,
+    "longitude": 9.317169
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "103",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6201575,
+    "longitude": 9.3244015
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "11",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6179783,
+    "longitude": 9.3245557
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "23",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6174756,
+    "longitude": 9.322953
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "57",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6147295,
+    "longitude": 9.3213017
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "31",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6168324,
+    "longitude": 9.3225865
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "8",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6194157,
+    "longitude": 9.3241523
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "5",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6193203,
+    "longitude": 9.3244074
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "26",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6178847,
+    "longitude": 9.3229496
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "10",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6180756,
+    "longitude": 9.3241648
+  },
+  {
+    "street": "Via Michelangelo Buonarroti",
+    "number": "40d",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6198352,
+    "longitude": 9.3243769
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "21",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6177838,
+    "longitude": 9.323144
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "27",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6170708,
+    "longitude": 9.322675
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "42",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6164322,
+    "longitude": 9.3221155
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "12",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6191201,
+    "longitude": 9.3239311
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "5",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6182653,
+    "longitude": 9.3239506
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "19",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6181552,
+    "longitude": 9.3234449
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "16",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6187577,
+    "longitude": 9.3235274
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "10",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6193091,
+    "longitude": 9.3240889
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "9",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6190027,
+    "longitude": 9.3241538
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "20",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6183468,
+    "longitude": 9.3232943
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "56",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.615035,
+    "longitude": 9.3212589
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "58",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6149462,
+    "longitude": 9.3211793
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "55",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6148106,
+    "longitude": 9.3213569
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "14",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6189234,
+    "longitude": 9.3237571
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "15",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6187411,
+    "longitude": 9.3239243
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "18",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6186244,
+    "longitude": 9.3234133
+  },
+  {
+    "street": "Via del Bruno",
+    "number": "2",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6178212,
+    "longitude": 9.3232576
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "17",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.618273,
+    "longitude": 9.3235295
+  },
+  {
+    "street": "Via del Bruno",
+    "number": "4",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6177016,
+    "longitude": 9.3235768
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "3",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6182902,
+    "longitude": 9.3239142
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "25",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6172678,
+    "longitude": 9.3228269
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "52",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6153161,
+    "longitude": 9.3214056
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "35",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6165721,
+    "longitude": 9.3224274
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "7",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6181997,
+    "longitude": 9.3240842
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "53",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6150376,
+    "longitude": 9.3214746
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "37",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6161952,
+    "longitude": 9.3222112
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "33",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6166965,
+    "longitude": 9.3224952
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "51",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6152481,
+    "longitude": 9.3216113
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "37a",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6156008,
+    "longitude": 9.3217853
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "54",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6151212,
+    "longitude": 9.3212806
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "87",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6222401,
+    "longitude": 9.3101572
+  },
+  {
+    "street": "Via Ventiquattro Maggio",
+    "number": "2",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6313677,
+    "longitude": 9.3085183
+  },
+  {
+    "street": "Via Vincenzo Foppa",
+    "number": "4",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6280384,
+    "longitude": 9.3290084
+  },
+  {
+    "street": "Via della Fornace",
+    "number": "1",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6372925,
+    "longitude": 9.3149122
+  },
+  {
+    "street": "Via Monte Bianco",
+    "number": "70",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6295546,
+    "longitude": 9.3154676
+  },
+  {
+    "street": "Via Monginevro",
+    "number": "1",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6240813,
+    "longitude": 9.3141969
+  },
+  {
+    "street": "Via Cesare Tomaselli",
+    "number": "1",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6288582,
+    "longitude": 9.3268708
+  },
+  {
+    "street": "Via Gaetano Donizetti",
+    "number": "38",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6227606,
+    "longitude": 9.3154189
+  },
+  {
+    "street": "Via del Bruno",
+    "number": "122",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6116926,
+    "longitude": 9.3262751
+  },
+  {
+    "street": "Via Bergamina",
+    "number": "64",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.609586,
+    "longitude": 9.3298436
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "122",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6230537,
+    "longitude": 9.3334985
+  },
+  {
+    "street": "Via Thomas Alva Edison",
+    "number": "17",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6317567,
+    "longitude": 9.3281233
+  },
+  {
+    "street": "Via Ferruccio Gilera",
+    "number": "192",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6371004,
+    "longitude": 9.3399746
+  },
+  {
+    "street": "Viale Monte Rosa",
+    "number": "127",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.624497,
+    "longitude": 9.3091201
+  },
+  {
+    "street": "Via Enrico Forlanini",
+    "number": "61",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6138533,
+    "longitude": 9.3217364
+  },
+  {
+    "street": "Via Ferruccio Gilera",
+    "number": "122",
+    "city": {
+      "name": "Arcore",
+      "istat": "108004"
+    },
+    "latitude": 45.6316629,
+    "longitude": 9.3322142
+  }
+]

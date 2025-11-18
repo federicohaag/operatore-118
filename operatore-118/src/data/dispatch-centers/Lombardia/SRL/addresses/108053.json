@@ -1,0 +1,462 @@
+[
+  {
+    "street": "Via Berlinguer",
+    "number": "48",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.6229607,
+    "longitude": 9.4748341
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "53",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.6386435,
+    "longitude": 9.4701134
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "8",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.6451988,
+    "longitude": 9.4651147
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "10",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.6451784,
+    "longitude": 9.4651317
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "12",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.6451581,
+    "longitude": 9.4651487
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "4",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.6454892,
+    "longitude": 9.4647078
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "17",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.6626274,
+    "longitude": 9.4711263
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "67",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.6510527,
+    "longitude": 9.4515986
+  },
+  {
+    "street": "Via 25 Aprile",
+    "number": "20",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.6630194,
+    "longitude": 9.4838984
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "25",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.6638557,
+    "longitude": 9.4806852
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "23",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.6637967,
+    "longitude": 9.4805843
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "14",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.6631046,
+    "longitude": 9.4795773
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "2",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.6633516,
+    "longitude": 9.4759849
+  },
+  {
+    "street": "Via Villa Paradiso",
+    "number": "18",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.6473221,
+    "longitude": 9.485262
+  },
+  {
+    "street": "Via Circonvallazione",
+    "number": "30",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.648591,
+    "longitude": 9.4632631
+  },
+  {
+    "street": "Via Circonvallazione",
+    "number": "24",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.6484229,
+    "longitude": 9.4633575
+  },
+  {
+    "street": "Via Alzaia",
+    "number": "31",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.6513066,
+    "longitude": 9.4850747
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "1",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.6630201,
+    "longitude": 9.4769627
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "6",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.6630525,
+    "longitude": 9.4770035
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "10",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.6301488,
+    "longitude": 9.4700029
+  },
+  {
+    "street": "Via D. Giani",
+    "number": "1",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.6318205,
+    "longitude": 9.4705769
+  },
+  {
+    "street": "Via Circonvallazione",
+    "number": "14",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.6472852,
+    "longitude": 9.4639724
+  },
+  {
+    "street": "Piazza Quindici Martiri",
+    "number": "10",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.6466556,
+    "longitude": 9.4663061
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "9",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.6472033,
+    "longitude": 9.4658022
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "66",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.6484329,
+    "longitude": 9.473083
+  },
+  {
+    "street": "Via Quindici Martiri",
+    "number": "16b",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.6461319,
+    "longitude": 9.4659348
+  },
+  {
+    "street": "Via Donato Dossi",
+    "number": "5",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.6466537,
+    "longitude": 9.4670135
+  },
+  {
+    "street": "Piazza San Giorgio",
+    "number": "14",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.6496764,
+    "longitude": 9.4650489
+  },
+  {
+    "street": "Via Italia",
+    "number": "197",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.6216307,
+    "longitude": 9.4741722
+  },
+  {
+    "street": "Via Enrico Berlinguer",
+    "number": "48",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.62133,
+    "longitude": 9.4760223
+  },
+  {
+    "street": "Via Berlinguer",
+    "number": "31",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.6240596,
+    "longitude": 9.4715523
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "29",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.6476049,
+    "longitude": 9.4651745
+  },
+  {
+    "street": "Via Lanzi",
+    "number": "42",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.6345392,
+    "longitude": 9.4634411
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "9",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.6397669,
+    "longitude": 9.4662335
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "2",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.65052,
+    "longitude": 9.4627087
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "73",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.648133,
+    "longitude": 9.4779503
+  },
+  {
+    "street": "Via Villa Paradiso",
+    "number": "42",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.6485015,
+    "longitude": 9.4850528
+  },
+  {
+    "street": "Via Villa Paradiso",
+    "number": "34",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.6483937,
+    "longitude": 9.485431
+  },
+  {
+    "street": "Via Villa Paradiso",
+    "number": "15",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.6488931,
+    "longitude": 9.4840085
+  },
+  {
+    "street": "Via Circonvallazione",
+    "number": "32",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.6486601,
+    "longitude": 9.4632734
+  },
+  {
+    "street": "Via Circonvallazione",
+    "number": "28",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.6485459,
+    "longitude": 9.4633371
+  },
+  {
+    "street": "Via Circonvallazione",
+    "number": "26",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.6484813,
+    "longitude": 9.4633734
+  },
+  {
+    "street": "Via Circonvallazione",
+    "number": "22",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.6483826,
+    "longitude": 9.4634288
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "45",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.6371876,
+    "longitude": 9.4708918
+  },
+  {
+    "street": "Via Schenoni Crispino",
+    "number": "5",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.6480212,
+    "longitude": 9.4644372
+  },
+  {
+    "street": "Via Donato Dossi",
+    "number": "32",
+    "city": {
+      "name": "Cornate d'Adda",
+      "istat": "108053"
+    },
+    "latitude": 45.6452578,
+    "longitude": 9.4675314
+  }
+]

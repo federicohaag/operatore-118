@@ -1,0 +1,102 @@
+[
+  {
+    "street": "Piazza Municipale",
+    "number": "5",
+    "city": {
+      "name": "Monte Marenzo",
+      "istat": "097052"
+    },
+    "latitude": 45.7696877,
+    "longitude": 9.4541539
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "70",
+    "city": {
+      "name": "Monte Marenzo",
+      "istat": "097052"
+    },
+    "latitude": 45.7794137,
+    "longitude": 9.4539839
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "73",
+    "city": {
+      "name": "Monte Marenzo",
+      "istat": "097052"
+    },
+    "latitude": 45.7794494,
+    "longitude": 9.453772
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "68",
+    "city": {
+      "name": "Monte Marenzo",
+      "istat": "097052"
+    },
+    "latitude": 45.779261,
+    "longitude": 9.4539443
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "71",
+    "city": {
+      "name": "Monte Marenzo",
+      "istat": "097052"
+    },
+    "latitude": 45.7791912,
+    "longitude": 9.4537813
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "69",
+    "city": {
+      "name": "Monte Marenzo",
+      "istat": "097052"
+    },
+    "latitude": 45.7790824,
+    "longitude": 9.4539606
+  },
+  {
+    "street": "Via Ponte",
+    "number": "5",
+    "city": {
+      "name": "Monte Marenzo",
+      "istat": "097052"
+    },
+    "latitude": 45.7704592,
+    "longitude": 9.459341
+  },
+  {
+    "street": "Via Levata",
+    "number": "5",
+    "city": {
+      "name": "Monte Marenzo",
+      "istat": "097052"
+    },
+    "latitude": 45.7709193,
+    "longitude": 9.4439068
+  },
+  {
+    "street": "Via Levata",
+    "number": "11",
+    "city": {
+      "name": "Monte Marenzo",
+      "istat": "097052"
+    },
+    "latitude": 45.7700212,
+    "longitude": 9.4442066
+  },
+  {
+    "street": "Via Levata",
+    "number": "3",
+    "city": {
+      "name": "Monte Marenzo",
+      "istat": "097052"
+    },
+    "latitude": 45.7718364,
+    "longitude": 9.4436931
+  }
+]

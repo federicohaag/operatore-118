@@ -1,0 +1,122 @@
+[
+  {
+    "street": "Via Romolo Guffanti",
+    "number": "2",
+    "city": {
+      "name": "Bulgarograsso",
+      "istat": "013034"
+    },
+    "latitude": 45.7501866,
+    "longitude": 9.008426
+  },
+  {
+    "street": "Via Romolo Guffanti",
+    "number": "2f",
+    "city": {
+      "name": "Bulgarograsso",
+      "istat": "013034"
+    },
+    "latitude": 45.750582,
+    "longitude": 9.0092282
+  },
+  {
+    "street": "Via Pietro Ferloni",
+    "number": "2",
+    "city": {
+      "name": "Bulgarograsso",
+      "istat": "013034"
+    },
+    "latitude": 45.750465,
+    "longitude": 9.0097734
+  },
+  {
+    "street": "Via Clerici",
+    "number": "1bis",
+    "city": {
+      "name": "Bulgarograsso",
+      "istat": "013034"
+    },
+    "latitude": 45.7504304,
+    "longitude": 9.0100314
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "15",
+    "city": {
+      "name": "Bulgarograsso",
+      "istat": "013034"
+    },
+    "latitude": 45.7478587,
+    "longitude": 9.0113751
+  },
+  {
+    "street": "Via Romolo Guffanti",
+    "number": "2a",
+    "city": {
+      "name": "Bulgarograsso",
+      "istat": "013034"
+    },
+    "latitude": 45.7502504,
+    "longitude": 9.0090154
+  },
+  {
+    "street": "Via Clerici",
+    "number": "20",
+    "city": {
+      "name": "Bulgarograsso",
+      "istat": "013034"
+    },
+    "latitude": 45.7503572,
+    "longitude": 9.0133281
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "15",
+    "city": {
+      "name": "Bulgarograsso",
+      "istat": "013034"
+    },
+    "latitude": 45.7520559,
+    "longitude": 9.0104024
+  },
+  {
+    "street": "Via Enrico Toti",
+    "number": "4",
+    "city": {
+      "name": "Bulgarograsso",
+      "istat": "013034"
+    },
+    "latitude": 45.7429997,
+    "longitude": 9.0162626
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "13",
+    "city": {
+      "name": "Bulgarograsso",
+      "istat": "013034"
+    },
+    "latitude": 45.7488408,
+    "longitude": 9.0001231
+  },
+  {
+    "street": "Via per Appiano",
+    "number": "54",
+    "city": {
+      "name": "Bulgarograsso",
+      "istat": "013034"
+    },
+    "latitude": 45.7429125,
+    "longitude": 8.997199
+  },
+  {
+    "street": "Via Repubblica",
+    "number": "11b",
+    "city": {
+      "name": "Bulgarograsso",
+      "istat": "013034"
+    },
+    "latitude": 45.7595311,
+    "longitude": 9.0065442
+  }
+]

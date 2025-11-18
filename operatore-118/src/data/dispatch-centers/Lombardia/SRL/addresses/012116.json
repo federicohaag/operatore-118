@@ -1,0 +1,132 @@
+[
+  {
+    "street": "Via Varesina",
+    "number": "1",
+    "city": {
+      "name": "Ranco",
+      "istat": "012116"
+    },
+    "latitude": 45.7864039,
+    "longitude": 8.5939963
+  },
+  {
+    "street": "Via Lungolago Dino Ciani",
+    "number": "5",
+    "city": {
+      "name": "Ranco",
+      "istat": "012116"
+    },
+    "latitude": 45.7965063,
+    "longitude": 8.5679736
+  },
+  {
+    "street": "Via Alberto",
+    "number": "53",
+    "city": {
+      "name": "Ranco",
+      "istat": "012116"
+    },
+    "latitude": 45.7994681,
+    "longitude": 8.5766097
+  },
+  {
+    "street": "Piazza Parrocchiale",
+    "number": "2",
+    "city": {
+      "name": "Ranco",
+      "istat": "012116"
+    },
+    "latitude": 45.797481,
+    "longitude": 8.5716204
+  },
+  {
+    "street": "Piazza Parrocchiale",
+    "number": "4",
+    "city": {
+      "name": "Ranco",
+      "istat": "012116"
+    },
+    "latitude": 45.797717,
+    "longitude": 8.571383
+  },
+  {
+    "street": "Via Piave",
+    "number": "11",
+    "city": {
+      "name": "Ranco",
+      "istat": "012116"
+    },
+    "latitude": 45.7978555,
+    "longitude": 8.5697426
+  },
+  {
+    "street": "Via al Lago",
+    "number": "10",
+    "city": {
+      "name": "Ranco",
+      "istat": "012116"
+    },
+    "latitude": 45.7959987,
+    "longitude": 8.5706376
+  },
+  {
+    "street": "Via Boschetti",
+    "number": "2",
+    "city": {
+      "name": "Ranco",
+      "istat": "012116"
+    },
+    "latitude": 45.7966124,
+    "longitude": 8.5929142
+  },
+  {
+    "street": "Via Alberto",
+    "number": "16",
+    "city": {
+      "name": "Ranco",
+      "istat": "012116"
+    },
+    "latitude": 45.7989381,
+    "longitude": 8.5749954
+  },
+  {
+    "street": "Via Boschetti",
+    "number": "1",
+    "city": {
+      "name": "Ranco",
+      "istat": "012116"
+    },
+    "latitude": 45.7977483,
+    "longitude": 8.5911391
+  },
+  {
+    "street": "Via Boschetti",
+    "number": "10",
+    "city": {
+      "name": "Ranco",
+      "istat": "012116"
+    },
+    "latitude": 45.7975048,
+    "longitude": 8.5919079
+  },
+  {
+    "street": "Via Castello",
+    "number": "15",
+    "city": {
+      "name": "Ranco",
+      "istat": "012116"
+    },
+    "latitude": 45.7973886,
+    "longitude": 8.5739646
+  },
+  {
+    "street": "Via Quassa",
+    "number": "1",
+    "city": {
+      "name": "Ranco",
+      "istat": "012116"
+    },
+    "latitude": 45.7979928,
+    "longitude": 8.5729716
+  }
+]

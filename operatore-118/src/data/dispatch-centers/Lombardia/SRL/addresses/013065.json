@@ -1,0 +1,372 @@
+[
+  {
+    "street": "Piazza Giuseppe Mazzini",
+    "number": "4",
+    "city": {
+      "name": "Cernobbio",
+      "istat": "013065"
+    },
+    "latitude": 45.8406427,
+    "longitude": 9.0752099
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "32",
+    "city": {
+      "name": "Cernobbio",
+      "istat": "013065"
+    },
+    "latitude": 45.8439246,
+    "longitude": 9.0752872
+  },
+  {
+    "street": "Piazza Risorgimento",
+    "number": "9",
+    "city": {
+      "name": "Cernobbio",
+      "istat": "013065"
+    },
+    "latitude": 45.8400279,
+    "longitude": 9.0776681
+  },
+  {
+    "street": "Strada provinciale 71 Vecchia Regina",
+    "number": "33b",
+    "city": {
+      "name": "Cernobbio",
+      "istat": "013065"
+    },
+    "latitude": 45.8406006,
+    "longitude": 9.0755742
+  },
+  {
+    "street": "Via Monte Santo",
+    "number": "69",
+    "city": {
+      "name": "Cernobbio",
+      "istat": "013065"
+    },
+    "latitude": 45.8485158,
+    "longitude": 9.0799151
+  },
+  {
+    "street": "Piazza Risorgimento",
+    "number": "4",
+    "city": {
+      "name": "Cernobbio",
+      "istat": "013065"
+    },
+    "latitude": 45.8389801,
+    "longitude": 9.0788646
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "35A - 35B",
+    "city": {
+      "name": "Cernobbio",
+      "istat": "013065"
+    },
+    "latitude": 45.8410931,
+    "longitude": 9.0563264
+  },
+  {
+    "street": "Piazza dei Partigiani",
+    "number": "3",
+    "city": {
+      "name": "Cernobbio",
+      "istat": "013065"
+    },
+    "latitude": 45.8410992,
+    "longitude": 9.0766159
+  },
+  {
+    "street": "Strada provinciale 71 Vecchia Regina",
+    "number": "34",
+    "city": {
+      "name": "Cernobbio",
+      "istat": "013065"
+    },
+    "latitude": 45.8418195,
+    "longitude": 9.0773341
+  },
+  {
+    "street": "Piazza Giuseppe Mazzini",
+    "number": "9",
+    "city": {
+      "name": "Cernobbio",
+      "istat": "013065"
+    },
+    "latitude": 45.8402409,
+    "longitude": 9.0753881
+  },
+  {
+    "street": "Via Regina",
+    "number": "40",
+    "city": {
+      "name": "Cernobbio",
+      "istat": "013065"
+    },
+    "latitude": 45.8449486,
+    "longitude": 9.079566
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "18c",
+    "city": {
+      "name": "Cernobbio",
+      "istat": "013065"
+    },
+    "latitude": 45.8388004,
+    "longitude": 9.0631604
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "29",
+    "city": {
+      "name": "Cernobbio",
+      "istat": "013065"
+    },
+    "latitude": 45.8385248,
+    "longitude": 9.061824
+  },
+  {
+    "street": "Strada provinciale 71 Vecchia Regina",
+    "number": "43",
+    "city": {
+      "name": "Cernobbio",
+      "istat": "013065"
+    },
+    "latitude": 45.8410624,
+    "longitude": 9.0761809
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "3",
+    "city": {
+      "name": "Cernobbio",
+      "istat": "013065"
+    },
+    "latitude": 45.841006,
+    "longitude": 9.0745215
+  },
+  {
+    "street": "Via Felice Cavallotti",
+    "number": "1",
+    "city": {
+      "name": "Cernobbio",
+      "istat": "013065"
+    },
+    "latitude": 45.8414924,
+    "longitude": 9.0772946
+  },
+  {
+    "street": "Strada provinciale 71 Vecchia Regina",
+    "number": "59a",
+    "city": {
+      "name": "Cernobbio",
+      "istat": "013065"
+    },
+    "latitude": 45.841554,
+    "longitude": 9.0768416
+  },
+  {
+    "street": "Via Notai",
+    "number": "8",
+    "city": {
+      "name": "Cernobbio",
+      "istat": "013065"
+    },
+    "latitude": 45.8502753,
+    "longitude": 9.0809741
+  },
+  {
+    "street": "Piazza Giuseppe Mazzini",
+    "number": "3",
+    "city": {
+      "name": "Cernobbio",
+      "istat": "013065"
+    },
+    "latitude": 45.8405342,
+    "longitude": 9.0748882
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "1",
+    "city": {
+      "name": "Cernobbio",
+      "istat": "013065"
+    },
+    "latitude": 45.8419506,
+    "longitude": 9.0683071
+  },
+  {
+    "street": "Strada provinciale 71 Vecchia Regina",
+    "number": "55A",
+    "city": {
+      "name": "Cernobbio",
+      "istat": "013065"
+    },
+    "latitude": 45.8414671,
+    "longitude": 9.0767311
+  },
+  {
+    "street": "Via Monte Santo",
+    "number": "67",
+    "city": {
+      "name": "Cernobbio",
+      "istat": "013065"
+    },
+    "latitude": 45.8484514,
+    "longitude": 9.079936
+  },
+  {
+    "street": "Via Monte Santo",
+    "number": "18",
+    "city": {
+      "name": "Cernobbio",
+      "istat": "013065"
+    },
+    "latitude": 45.8478474,
+    "longitude": 9.0784423
+  },
+  {
+    "street": "Via Asmara",
+    "number": "20",
+    "city": {
+      "name": "Cernobbio",
+      "istat": "013065"
+    },
+    "latitude": 45.8483295,
+    "longitude": 9.0842841
+  },
+  {
+    "street": "Via Monte Santo",
+    "number": "28",
+    "city": {
+      "name": "Cernobbio",
+      "istat": "013065"
+    },
+    "latitude": 45.8478777,
+    "longitude": 9.081199
+  },
+  {
+    "street": "Via Monte Santo",
+    "number": "39",
+    "city": {
+      "name": "Cernobbio",
+      "istat": "013065"
+    },
+    "latitude": 45.8478274,
+    "longitude": 9.0789991
+  },
+  {
+    "street": "Via per il Bisbino",
+    "number": "25",
+    "city": {
+      "name": "Cernobbio",
+      "istat": "013065"
+    },
+    "latitude": 45.8542764,
+    "longitude": 9.0833791
+  },
+  {
+    "street": "Via Angelo Noseda",
+    "number": "5",
+    "city": {
+      "name": "Cernobbio",
+      "istat": "013065"
+    },
+    "latitude": 45.8456004,
+    "longitude": 9.069204
+  },
+  {
+    "street": "Via Angelo Noseda",
+    "number": "2",
+    "city": {
+      "name": "Cernobbio",
+      "istat": "013065"
+    },
+    "latitude": 45.8438264,
+    "longitude": 9.0708611
+  },
+  {
+    "street": "Largo Luchino Visconti",
+    "number": "4",
+    "city": {
+      "name": "Cernobbio",
+      "istat": "013065"
+    },
+    "latitude": 45.838077,
+    "longitude": 9.0771654
+  },
+  {
+    "street": "Strada provinciale 71 Vecchia Regina",
+    "number": "39",
+    "city": {
+      "name": "Cernobbio",
+      "istat": "013065"
+    },
+    "latitude": 45.8410053,
+    "longitude": 9.0759029
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "4",
+    "city": {
+      "name": "Cernobbio",
+      "istat": "013065"
+    },
+    "latitude": 45.8384861,
+    "longitude": 9.0669408
+  },
+  {
+    "street": "Strada provinciale 71 Vecchia Regina",
+    "number": "5",
+    "city": {
+      "name": "Cernobbio",
+      "istat": "013065"
+    },
+    "latitude": 45.8371337,
+    "longitude": 9.0725147
+  },
+  {
+    "street": "Strada provinciale 71 Vecchia Regina",
+    "number": "15",
+    "city": {
+      "name": "Cernobbio",
+      "istat": "013065"
+    },
+    "latitude": 45.8379215,
+    "longitude": 9.0733925
+  },
+  {
+    "street": "Via Angelo Noseda",
+    "number": "6",
+    "city": {
+      "name": "Cernobbio",
+      "istat": "013065"
+    },
+    "latitude": 45.8449438,
+    "longitude": 9.0711562
+  },
+  {
+    "street": "Via della Libertà",
+    "number": "30",
+    "city": {
+      "name": "Cernobbio",
+      "istat": "013065"
+    },
+    "latitude": 45.8465414,
+    "longitude": 9.0758705
+  },
+  {
+    "street": "Strada provinciale 71 Vecchia Regina",
+    "number": "7",
+    "city": {
+      "name": "Cernobbio",
+      "istat": "013065"
+    },
+    "latitude": 45.8373501,
+    "longitude": 9.0726895
+  }
+]

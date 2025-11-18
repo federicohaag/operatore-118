@@ -1,0 +1,162 @@
+[
+  {
+    "street": "Via del Pozzo",
+    "number": "42",
+    "city": {
+      "name": "Civate",
+      "istat": "097022"
+    },
+    "latitude": 45.8284466,
+    "longitude": 9.3323517
+  },
+  {
+    "street": "Borgonuovo",
+    "number": "4",
+    "city": {
+      "name": "Civate",
+      "istat": "097022"
+    },
+    "latitude": 45.8283163,
+    "longitude": 9.3353932
+  },
+  {
+    "street": "Via del Pozzo",
+    "number": "21",
+    "city": {
+      "name": "Civate",
+      "istat": "097022"
+    },
+    "latitude": 45.8282746,
+    "longitude": 9.3321895
+  },
+  {
+    "street": "Via del Pozzo",
+    "number": "38",
+    "city": {
+      "name": "Civate",
+      "istat": "097022"
+    },
+    "latitude": 45.8282369,
+    "longitude": 9.3323538
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "25",
+    "city": {
+      "name": "Civate",
+      "istat": "097022"
+    },
+    "latitude": 45.8295307,
+    "longitude": 9.3516222
+  },
+  {
+    "street": "Via del Pozzo",
+    "number": "40",
+    "city": {
+      "name": "Civate",
+      "istat": "097022"
+    },
+    "latitude": 45.8283889,
+    "longitude": 9.3324452
+  },
+  {
+    "street": "Via Borima",
+    "number": "1",
+    "city": {
+      "name": "Civate",
+      "istat": "097022"
+    },
+    "latitude": 45.8208304,
+    "longitude": 9.3226197
+  },
+  {
+    "street": "Piazza Garibaldi",
+    "number": "6",
+    "city": {
+      "name": "Civate",
+      "istat": "097022"
+    },
+    "latitude": 45.8273522,
+    "longitude": 9.3422894
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "3",
+    "city": {
+      "name": "Civate",
+      "istat": "097022"
+    },
+    "latitude": 45.8263168,
+    "longitude": 9.3362543
+  },
+  {
+    "street": "Via Isella",
+    "number": "34",
+    "city": {
+      "name": "Civate",
+      "istat": "097022"
+    },
+    "latitude": 45.8172155,
+    "longitude": 9.3425906
+  },
+  {
+    "street": "Via Abate Longoni",
+    "number": "2",
+    "city": {
+      "name": "Civate",
+      "istat": "097022"
+    },
+    "latitude": 45.8290235,
+    "longitude": 9.3410255
+  },
+  {
+    "street": "Piazza della Chiesa",
+    "number": "9",
+    "city": {
+      "name": "Civate",
+      "istat": "097022"
+    },
+    "latitude": 45.82728,
+    "longitude": 9.34473
+  },
+  {
+    "street": "Via Cerscera",
+    "number": "3",
+    "city": {
+      "name": "Civate",
+      "istat": "097022"
+    },
+    "latitude": 45.827307,
+    "longitude": 9.3363
+  },
+  {
+    "street": "Via Isella",
+    "number": "5",
+    "city": {
+      "name": "Civate",
+      "istat": "097022"
+    },
+    "latitude": 45.8225805,
+    "longitude": 9.34413
+  },
+  {
+    "street": "Via Papa Giovanni ventitreesimo",
+    "number": "15",
+    "city": {
+      "name": "Civate",
+      "istat": "097022"
+    },
+    "latitude": 45.8326956,
+    "longitude": 9.3506089
+  },
+  {
+    "street": "Via Como",
+    "number": "84",
+    "city": {
+      "name": "Civate",
+      "istat": "097022"
+    },
+    "latitude": 45.8346021,
+    "longitude": 9.3524409
+  }
+]

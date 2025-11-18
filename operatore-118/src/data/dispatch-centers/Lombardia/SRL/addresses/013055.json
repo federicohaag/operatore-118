@@ -1,0 +1,22 @@
+[
+  {
+    "street": "Via Risorgimento",
+    "number": "1082",
+    "city": {
+      "name": "Cassina Rizzardi",
+      "istat": "013055"
+    },
+    "latitude": 45.7527,
+    "longitude": 9.0140169
+  },
+  {
+    "street": "Via Scalabrini",
+    "number": "290",
+    "city": {
+      "name": "Cassina Rizzardi",
+      "istat": "013055"
+    },
+    "latitude": 45.7420317,
+    "longitude": 9.0375793
+  }
+]

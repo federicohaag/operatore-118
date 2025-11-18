@@ -1,0 +1,3552 @@
+[
+  {
+    "street": "Via Lungo Lago",
+    "number": "68",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9013352,
+    "longitude": 9.3311186
+  },
+  {
+    "street": "Via Cassin, 23821 Piani Resinelli",
+    "number": "3",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9061776,
+    "longitude": 9.3947824
+  },
+  {
+    "street": "Via del Viandante",
+    "number": "17",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.8992884,
+    "longitude": 9.3388796
+  },
+  {
+    "street": "Via del Viandante",
+    "number": "34",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9037581,
+    "longitude": 9.3357905
+  },
+  {
+    "street": "Via del Viandante",
+    "number": "6",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.8986119,
+    "longitude": 9.3394896
+  },
+  {
+    "street": "Via del Viandante",
+    "number": "7",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.8978649,
+    "longitude": 9.3399359
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "6",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9039181,
+    "longitude": 9.3334624
+  },
+  {
+    "street": "Via Escursionisti",
+    "number": "9",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9048854,
+    "longitude": 9.393089
+  },
+  {
+    "street": "Via Nazionale",
+    "number": "140",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.8954386,
+    "longitude": 9.3339071
+  },
+  {
+    "street": "Via Nazionale",
+    "number": "140a",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.8954832,
+    "longitude": 9.3340237
+  },
+  {
+    "street": "Via Nazionale",
+    "number": "142",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.8952919,
+    "longitude": 9.3341
+  },
+  {
+    "street": "Via Nazionale",
+    "number": "120",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.8992946,
+    "longitude": 9.3321185
+  },
+  {
+    "street": "Via Nazionale",
+    "number": "110",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.8998844,
+    "longitude": 9.3319332
+  },
+  {
+    "street": "Via Nazionale",
+    "number": "93",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9004509,
+    "longitude": 9.3319847
+  },
+  {
+    "street": "Via Salita San Giorgio",
+    "number": "2",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9076652,
+    "longitude": 9.3281385
+  },
+  {
+    "street": "Via Salita San Giorgio",
+    "number": "4",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9110678,
+    "longitude": 9.3273063
+  },
+  {
+    "street": "Via Salita San Giorgio",
+    "number": "40",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9082746,
+    "longitude": 9.3299299
+  },
+  {
+    "street": "Via Salita San Giorgio",
+    "number": "48",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9105998,
+    "longitude": 9.3281676
+  },
+  {
+    "street": "Via Salita San Giorgio",
+    "number": "50",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.910863,
+    "longitude": 9.3273417
+  },
+  {
+    "street": "Via Salita San Giorgio",
+    "number": "6",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9110209,
+    "longitude": 9.3278514
+  },
+  {
+    "street": "Via per Poino",
+    "number": "55",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9129406,
+    "longitude": 9.3358945
+  },
+  {
+    "street": "Piazza Centrale",
+    "number": "6",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9115218,
+    "longitude": 9.3350915
+  },
+  {
+    "street": "Strada per Maggiana",
+    "number": "6",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.915034,
+    "longitude": 9.3307405
+  },
+  {
+    "street": "Via Grignetta",
+    "number": "6",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9110806,
+    "longitude": 9.3354945
+  },
+  {
+    "street": "Via Pertus",
+    "number": "6",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9138444,
+    "longitude": 9.3324101
+  },
+  {
+    "street": "Via Vecchia",
+    "number": "6",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9112195,
+    "longitude": 9.3350579
+  },
+  {
+    "street": "Via alla Chiesetta",
+    "number": "6",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9066169,
+    "longitude": 9.3342338
+  },
+  {
+    "street": "Via alla Parrocchiale",
+    "number": "6",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9112106,
+    "longitude": 9.334515
+  },
+  {
+    "street": "Via degli Angeli",
+    "number": "6",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9111361,
+    "longitude": 9.3353085
+  },
+  {
+    "street": "Via del Pozzo",
+    "number": "6",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9141507,
+    "longitude": 9.3325852
+  },
+  {
+    "street": "Via per Poino",
+    "number": "6",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9125846,
+    "longitude": 9.3339798
+  },
+  {
+    "street": "Via per Zana",
+    "number": "6",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9130798,
+    "longitude": 9.3351738
+  },
+  {
+    "street": "Via Grignetta",
+    "number": "1",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9114497,
+    "longitude": 9.3352366
+  },
+  {
+    "street": "Via Pertus",
+    "number": "1",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9133895,
+    "longitude": 9.3322567
+  },
+  {
+    "street": "Via Vecchia",
+    "number": "1",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9111359,
+    "longitude": 9.3351734
+  },
+  {
+    "street": "Via alla Parrocchiale",
+    "number": "1",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9112423,
+    "longitude": 9.3347362
+  },
+  {
+    "street": "Via degli Angeli",
+    "number": "1",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.911294,
+    "longitude": 9.3352191
+  },
+  {
+    "street": "Via del Pozzo",
+    "number": "1",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9142462,
+    "longitude": 9.3326081
+  },
+  {
+    "street": "Via della Costituzione",
+    "number": "1",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9130145,
+    "longitude": 9.3321579
+  },
+  {
+    "street": "Via per Poino",
+    "number": "1",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9125519,
+    "longitude": 9.333401
+  },
+  {
+    "street": "Via per Zana",
+    "number": "1",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.913069,
+    "longitude": 9.3351259
+  },
+  {
+    "street": "Via Grignetta",
+    "number": "10",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9109353,
+    "longitude": 9.3354162
+  },
+  {
+    "street": "Via Pertus",
+    "number": "10",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9138983,
+    "longitude": 9.3324048
+  },
+  {
+    "street": "Via Vecchia",
+    "number": "10",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9109944,
+    "longitude": 9.3352596
+  },
+  {
+    "street": "Via alla Chiesetta",
+    "number": "10",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9068836,
+    "longitude": 9.3340371
+  },
+  {
+    "street": "Via alla Parrocchiale",
+    "number": "10",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9112495,
+    "longitude": 9.3343358
+  },
+  {
+    "street": "Via del Pozzo",
+    "number": "10",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9139801,
+    "longitude": 9.3327688
+  },
+  {
+    "street": "Via della Costituzione",
+    "number": "10",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9115882,
+    "longitude": 9.3328222
+  },
+  {
+    "street": "Via per Poino",
+    "number": "10",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9115649,
+    "longitude": 9.3366913
+  },
+  {
+    "street": "Via alla Chiesetta",
+    "number": "10a",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9069831,
+    "longitude": 9.3339819
+  },
+  {
+    "street": "Via alla Parrocchiale",
+    "number": "11",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9110412,
+    "longitude": 9.334481
+  },
+  {
+    "street": "Via del Pozzo",
+    "number": "11",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9145231,
+    "longitude": 9.3328421
+  },
+  {
+    "street": "Via della Costituzione",
+    "number": "11",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9119269,
+    "longitude": 9.3326501
+  },
+  {
+    "street": "Via per Poino",
+    "number": "11",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9128861,
+    "longitude": 9.3345586
+  },
+  {
+    "street": "Via alla Chiesetta",
+    "number": "11a",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9063373,
+    "longitude": 9.3343218
+  },
+  {
+    "street": "Via alla Parrocchiale",
+    "number": "11a",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9109878,
+    "longitude": 9.3345505
+  },
+  {
+    "street": "Via alla Chiesetta",
+    "number": "11c",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9063657,
+    "longitude": 9.3343685
+  },
+  {
+    "street": "Via alla Chiesetta",
+    "number": "11d",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.906396,
+    "longitude": 9.3344109
+  },
+  {
+    "street": "Via Grignetta",
+    "number": "12",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9108985,
+    "longitude": 9.3354205
+  },
+  {
+    "street": "Via Pertus",
+    "number": "12",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9139312,
+    "longitude": 9.3324018
+  },
+  {
+    "street": "Via del Pozzo",
+    "number": "12",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9139556,
+    "longitude": 9.3327807
+  },
+  {
+    "street": "Via della Costituzione",
+    "number": "12",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9115538,
+    "longitude": 9.3328608
+  },
+  {
+    "street": "Via per Poino",
+    "number": "12",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9124858,
+    "longitude": 9.3346738
+  },
+  {
+    "street": "Via alla Chiesetta",
+    "number": "13",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9065052,
+    "longitude": 9.3343743
+  },
+  {
+    "street": "Via alla Parrocchiale",
+    "number": "13",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9118821,
+    "longitude": 9.3339869
+  },
+  {
+    "street": "Via per Poino",
+    "number": "13",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9128951,
+    "longitude": 9.3345982
+  },
+  {
+    "street": "Via alla Chiesetta",
+    "number": "13a",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9064551,
+    "longitude": 9.3343478
+  },
+  {
+    "street": "Via alla Chiesetta",
+    "number": "13b",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9063868,
+    "longitude": 9.3342472
+  },
+  {
+    "street": "Via Grignetta",
+    "number": "14",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9108652,
+    "longitude": 9.3354351
+  },
+  {
+    "street": "Via del Pozzo",
+    "number": "14",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9139189,
+    "longitude": 9.3328093
+  },
+  {
+    "street": "Via della Costituzione",
+    "number": "14",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9113749,
+    "longitude": 9.3330224
+  },
+  {
+    "street": "Via per Poino",
+    "number": "14",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9124124,
+    "longitude": 9.3347549
+  },
+  {
+    "street": "Via Grignetta",
+    "number": "15",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9112745,
+    "longitude": 9.3354793
+  },
+  {
+    "street": "Via alla Chiesetta",
+    "number": "15",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.906599,
+    "longitude": 9.3342167
+  },
+  {
+    "street": "Via alla Parrocchiale",
+    "number": "15",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9127709,
+    "longitude": 9.3331131
+  },
+  {
+    "street": "Via della Costituzione",
+    "number": "15",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9119311,
+    "longitude": 9.3327707
+  },
+  {
+    "street": "Via per Poino",
+    "number": "15",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9129445,
+    "longitude": 9.3348775
+  },
+  {
+    "street": "Via alla Chiesetta",
+    "number": "15a",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9066065,
+    "longitude": 9.3342079
+  },
+  {
+    "street": "Via alla Chiesetta",
+    "number": "15b",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9067226,
+    "longitude": 9.3340709
+  },
+  {
+    "street": "Via alla Chiesetta",
+    "number": "15c",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9067617,
+    "longitude": 9.3340091
+  },
+  {
+    "street": "Via Grignetta",
+    "number": "16",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9109041,
+    "longitude": 9.3354978
+  },
+  {
+    "street": "Via alla Parrocchiale",
+    "number": "16",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9121448,
+    "longitude": 9.3337397
+  },
+  {
+    "street": "Via del Pozzo",
+    "number": "16",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.914233,
+    "longitude": 9.3328833
+  },
+  {
+    "street": "Via della Costituzione",
+    "number": "16",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.911328,
+    "longitude": 9.3330549
+  },
+  {
+    "street": "Via per Poino",
+    "number": "16",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9123529,
+    "longitude": 9.3348074
+  },
+  {
+    "street": "Via Grignetta",
+    "number": "17",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9111844,
+    "longitude": 9.3355008
+  },
+  {
+    "street": "Via alla Chiesetta",
+    "number": "17",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9067778,
+    "longitude": 9.3339051
+  },
+  {
+    "street": "Via alla Parrocchiale",
+    "number": "17",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9121502,
+    "longitude": 9.3336073
+  },
+  {
+    "street": "Via del Pozzo",
+    "number": "17",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9143018,
+    "longitude": 9.3329664
+  },
+  {
+    "street": "Via per Zana",
+    "number": "17",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9129921,
+    "longitude": 9.3350801
+  },
+  {
+    "street": "Via Grignetta",
+    "number": "18",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9108395,
+    "longitude": 9.3355968
+  },
+  {
+    "street": "Via alla Parrocchiale",
+    "number": "18",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9122793,
+    "longitude": 9.3334903
+  },
+  {
+    "street": "Via del Pozzo",
+    "number": "18",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9142285,
+    "longitude": 9.3329707
+  },
+  {
+    "street": "Via della Costituzione",
+    "number": "18",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9112524,
+    "longitude": 9.3331291
+  },
+  {
+    "street": "Via per Poino",
+    "number": "18",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9123001,
+    "longitude": 9.3348539
+  },
+  {
+    "street": "Via per Poino",
+    "number": "18b",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9125898,
+    "longitude": 9.3346732
+  },
+  {
+    "street": "Via Grignetta",
+    "number": "19",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9110737,
+    "longitude": 9.3355682
+  },
+  {
+    "street": "Via alla Chiesetta",
+    "number": "19",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9068648,
+    "longitude": 9.3339778
+  },
+  {
+    "street": "Via alla Parrocchiale",
+    "number": "19",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9122244,
+    "longitude": 9.3333787
+  },
+  {
+    "street": "Via del Pozzo",
+    "number": "19",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9143401,
+    "longitude": 9.3330609
+  },
+  {
+    "street": "Via per Zana",
+    "number": "19",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9130599,
+    "longitude": 9.3350145
+  },
+  {
+    "street": "Via alla Chiesetta",
+    "number": "19a",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9070129,
+    "longitude": 9.3337822
+  },
+  {
+    "street": "Strada per Maggiana",
+    "number": "2",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9150971,
+    "longitude": 9.3306185
+  },
+  {
+    "street": "Via Pertus",
+    "number": "2",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.913451,
+    "longitude": 9.3323274
+  },
+  {
+    "street": "Via Vecchia",
+    "number": "2",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9112901,
+    "longitude": 9.3349104
+  },
+  {
+    "street": "Via al Lavatoio",
+    "number": "2",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9109418,
+    "longitude": 9.3337391
+  },
+  {
+    "street": "Via alla Parrocchiale",
+    "number": "2",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9112992,
+    "longitude": 9.3347639
+  },
+  {
+    "street": "Via degli Angeli",
+    "number": "2",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.911225,
+    "longitude": 9.3352172
+  },
+  {
+    "street": "Via della Costituzione",
+    "number": "2",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9128971,
+    "longitude": 9.331649
+  },
+  {
+    "street": "Via per Poino",
+    "number": "2",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9124694,
+    "longitude": 9.3335132
+  },
+  {
+    "street": "Via per Zana",
+    "number": "2",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9130183,
+    "longitude": 9.335215
+  },
+  {
+    "street": "Via Pertus",
+    "number": "2b",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9136754,
+    "longitude": 9.3324605
+  },
+  {
+    "street": "Via della Costituzione",
+    "number": "s.n.c.",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9129052,
+    "longitude": 9.3318595
+  },
+  {
+    "street": "Via per Poino",
+    "number": "s.n.c.",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9118266,
+    "longitude": 9.3366627
+  },
+  {
+    "street": "Via per Zana",
+    "number": "s.n.c.",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9130239,
+    "longitude": 9.3350408
+  },
+  {
+    "street": "Via Grignetta",
+    "number": "20",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9107698,
+    "longitude": 9.3356399
+  },
+  {
+    "street": "Via alla Parrocchiale",
+    "number": "20",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9123178,
+    "longitude": 9.3334634
+  },
+  {
+    "street": "Via del Pozzo",
+    "number": "20",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.914031,
+    "longitude": 9.3330544
+  },
+  {
+    "street": "Via della Costituzione",
+    "number": "20",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.910835,
+    "longitude": 9.3334781
+  },
+  {
+    "street": "Via per Poino",
+    "number": "20",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.91282,
+    "longitude": 9.3347494
+  },
+  {
+    "street": "Via per Zana",
+    "number": "20",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9140734,
+    "longitude": 9.3350421
+  },
+  {
+    "street": "Via alla Chiesetta",
+    "number": "21",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9071659,
+    "longitude": 9.3334637
+  },
+  {
+    "street": "Via alla Parrocchiale",
+    "number": "21",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9122197,
+    "longitude": 9.33311
+  },
+  {
+    "street": "Via per Zana",
+    "number": "21",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9133372,
+    "longitude": 9.3348591
+  },
+  {
+    "street": "Via Grignetta",
+    "number": "22",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9108317,
+    "longitude": 9.3356821
+  },
+  {
+    "street": "Via Lombrino",
+    "number": "22",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.912897,
+    "longitude": 9.3351382
+  },
+  {
+    "street": "Via alla Parrocchiale",
+    "number": "22",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9123839,
+    "longitude": 9.3333599
+  },
+  {
+    "street": "Via della Costituzione",
+    "number": "22",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9108412,
+    "longitude": 9.3335047
+  },
+  {
+    "street": "Via Grignetta",
+    "number": "23",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9108692,
+    "longitude": 9.3357327
+  },
+  {
+    "street": "Via alla Parrocchiale",
+    "number": "23",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9122944,
+    "longitude": 9.3332324
+  },
+  {
+    "street": "Via alla Parrocchiale",
+    "number": "24",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9126585,
+    "longitude": 9.3328905
+  },
+  {
+    "street": "Via della Costituzione",
+    "number": "24",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9108574,
+    "longitude": 9.3335267
+  },
+  {
+    "street": "Via Grignetta",
+    "number": "25",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9108297,
+    "longitude": 9.3357799
+  },
+  {
+    "street": "Via alla Parrocchiale",
+    "number": "25",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9123467,
+    "longitude": 9.3331775
+  },
+  {
+    "street": "Via della Costituzione",
+    "number": "25",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9115042,
+    "longitude": 9.3331219
+  },
+  {
+    "street": "Via per Poino",
+    "number": "25",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9130365,
+    "longitude": 9.3352734
+  },
+  {
+    "street": "Via per Poino",
+    "number": "26",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9129189,
+    "longitude": 9.3352907
+  },
+  {
+    "street": "Via alla Parrocchiale",
+    "number": "27",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9124428,
+    "longitude": 9.333141
+  },
+  {
+    "street": "Via per Poino",
+    "number": "27",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9130315,
+    "longitude": 9.3353066
+  },
+  {
+    "street": "Via del Pozzo",
+    "number": "28",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9134739,
+    "longitude": 9.333352
+  },
+  {
+    "street": "Via per Poino",
+    "number": "28",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.912815,
+    "longitude": 9.3354702
+  },
+  {
+    "street": "Via della Costituzione",
+    "number": "29",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.911251,
+    "longitude": 9.3332869
+  },
+  {
+    "street": "Via per Poino",
+    "number": "29",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9130004,
+    "longitude": 9.3353428
+  },
+  {
+    "street": "Piazza Centrale",
+    "number": "3",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9114149,
+    "longitude": 9.3348596
+  },
+  {
+    "street": "Via Grignetta",
+    "number": "3",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9114354,
+    "longitude": 9.3352592
+  },
+  {
+    "street": "Via Pertus",
+    "number": "3",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9133804,
+    "longitude": 9.3322269
+  },
+  {
+    "street": "Via Vecchia",
+    "number": "3",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9110929,
+    "longitude": 9.3352008
+  },
+  {
+    "street": "Via alla Chiesetta",
+    "number": "3",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9062148,
+    "longitude": 9.3347531
+  },
+  {
+    "street": "Via alla Parrocchiale",
+    "number": "3",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9112318,
+    "longitude": 9.3347109
+  },
+  {
+    "street": "Via degli Angeli",
+    "number": "3",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9111974,
+    "longitude": 9.3352842
+  },
+  {
+    "street": "Via del Pozzo",
+    "number": "3",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9151469,
+    "longitude": 9.3310063
+  },
+  {
+    "street": "Via della Costituzione",
+    "number": "3",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9129207,
+    "longitude": 9.3321947
+  },
+  {
+    "street": "Via per Poino",
+    "number": "3",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9125452,
+    "longitude": 9.3334371
+  },
+  {
+    "street": "Via per Zana",
+    "number": "3",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9130962,
+    "longitude": 9.3351086
+  },
+  {
+    "street": "Via della Costituzione",
+    "number": "30",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9101532,
+    "longitude": 9.3346412
+  },
+  {
+    "street": "Via per Poino",
+    "number": "30",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9127975,
+    "longitude": 9.3354984
+  },
+  {
+    "street": "Via della Costituzione",
+    "number": "31",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9110073,
+    "longitude": 9.3335156
+  },
+  {
+    "street": "Via per Poino",
+    "number": "31",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9129592,
+    "longitude": 9.335409
+  },
+  {
+    "street": "Via per Poino",
+    "number": "32",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9127755,
+    "longitude": 9.3355269
+  },
+  {
+    "street": "Via della Costituzione",
+    "number": "33",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9109837,
+    "longitude": 9.3335393
+  },
+  {
+    "street": "Via per Poino",
+    "number": "33",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9128216,
+    "longitude": 9.3355325
+  },
+  {
+    "street": "Via del Pozzo",
+    "number": "34",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9140037,
+    "longitude": 9.3331851
+  },
+  {
+    "street": "Via per Poino",
+    "number": "34",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9127052,
+    "longitude": 9.3356182
+  },
+  {
+    "street": "Via della Costituzione",
+    "number": "35",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9107603,
+    "longitude": 9.3337684
+  },
+  {
+    "street": "Via per Poino",
+    "number": "35",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9129673,
+    "longitude": 9.3356421
+  },
+  {
+    "street": "Via del Pozzo",
+    "number": "36",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9142897,
+    "longitude": 9.3333199
+  },
+  {
+    "street": "Via per Poino",
+    "number": "36",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9127302,
+    "longitude": 9.3356786
+  },
+  {
+    "street": "Via del Pozzo",
+    "number": "36d",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9143223,
+    "longitude": 9.3332332
+  },
+  {
+    "street": "Via per Poino",
+    "number": "38",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9128237,
+    "longitude": 9.3357132
+  },
+  {
+    "street": "Via della Costituzione",
+    "number": "39",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.910383,
+    "longitude": 9.3345315
+  },
+  {
+    "street": "Via per Poino",
+    "number": "39",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9129915,
+    "longitude": 9.3356623
+  },
+  {
+    "street": "Piazza Centrale",
+    "number": "4",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9114413,
+    "longitude": 9.3348959
+  },
+  {
+    "street": "Strada per Maggiana",
+    "number": "4",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9150317,
+    "longitude": 9.3306874
+  },
+  {
+    "street": "Via Grignetta",
+    "number": "4",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9112589,
+    "longitude": 9.3353716
+  },
+  {
+    "street": "Via Pertus",
+    "number": "4",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9137486,
+    "longitude": 9.3324285
+  },
+  {
+    "street": "Via Vecchia",
+    "number": "4",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9112656,
+    "longitude": 9.334985
+  },
+  {
+    "street": "Via al Lavatoio",
+    "number": "4",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9110832,
+    "longitude": 9.3339012
+  },
+  {
+    "street": "Via alla Chiesetta",
+    "number": "4",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9065697,
+    "longitude": 9.3343352
+  },
+  {
+    "street": "Via alla Parrocchiale",
+    "number": "4",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9112655,
+    "longitude": 9.334633
+  },
+  {
+    "street": "Via del Pozzo",
+    "number": "4",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9141437,
+    "longitude": 9.3325426
+  },
+  {
+    "street": "Via per Poino",
+    "number": "4",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9125467,
+    "longitude": 9.3339048
+  },
+  {
+    "street": "Via per Zana",
+    "number": "4",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9130319,
+    "longitude": 9.3352054
+  },
+  {
+    "street": "Via per Poino",
+    "number": "40",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9128233,
+    "longitude": 9.3357306
+  },
+  {
+    "street": "Via della Costituzione",
+    "number": "41",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9103319,
+    "longitude": 9.3345359
+  },
+  {
+    "street": "Via per Poino",
+    "number": "41",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9130002,
+    "longitude": 9.3357069
+  },
+  {
+    "street": "Via della Costituzione",
+    "number": "41b",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9106416,
+    "longitude": 9.334774
+  },
+  {
+    "street": "Via del Pozzo",
+    "number": "42",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9144714,
+    "longitude": 9.3329873
+  },
+  {
+    "street": "Via per Poino",
+    "number": "42",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9128071,
+    "longitude": 9.3358049
+  },
+  {
+    "street": "Via per Poino",
+    "number": "43",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9129034,
+    "longitude": 9.3358029
+  },
+  {
+    "street": "Via per Poino",
+    "number": "44",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9128948,
+    "longitude": 9.3359469
+  },
+  {
+    "street": "Via per Poino",
+    "number": "45",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9128792,
+    "longitude": 9.3358246
+  },
+  {
+    "street": "Via per Poino",
+    "number": "46",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9129634,
+    "longitude": 9.3361825
+  },
+  {
+    "street": "Via della Costituzione",
+    "number": "47",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9100876,
+    "longitude": 9.3350204
+  },
+  {
+    "street": "Via per Poino",
+    "number": "47",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9130725,
+    "longitude": 9.3357219
+  },
+  {
+    "street": "Via per Poino",
+    "number": "48",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9130068,
+    "longitude": 9.3362347
+  },
+  {
+    "street": "Via per Poino",
+    "number": "49",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9131052,
+    "longitude": 9.3356016
+  },
+  {
+    "street": "Piazza Centrale",
+    "number": "5",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9114239,
+    "longitude": 9.3349566
+  },
+  {
+    "street": "Via Grignetta",
+    "number": "5",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9113951,
+    "longitude": 9.3352667
+  },
+  {
+    "street": "Via Pertus",
+    "number": "5",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9136442,
+    "longitude": 9.3322928
+  },
+  {
+    "street": "Via alla Chiesetta",
+    "number": "5",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.906271,
+    "longitude": 9.3346833
+  },
+  {
+    "street": "Via alla Parrocchiale",
+    "number": "5",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9111919,
+    "longitude": 9.3346312
+  },
+  {
+    "street": "Via per Poino",
+    "number": "5",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9124916,
+    "longitude": 9.3365683
+  },
+  {
+    "street": "Via per Zana",
+    "number": "5",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9131242,
+    "longitude": 9.3350908
+  },
+  {
+    "street": "Via per Poino",
+    "number": "51",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9130506,
+    "longitude": 9.3358042
+  },
+  {
+    "street": "Via per Poino",
+    "number": "53",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9130086,
+    "longitude": 9.3358328
+  },
+  {
+    "street": "Via alla Chiesetta",
+    "number": "6a",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9066454,
+    "longitude": 9.3341861
+  },
+  {
+    "street": "Piazza Centrale",
+    "number": "7",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9114779,
+    "longitude": 9.335103
+  },
+  {
+    "street": "Via Grignetta",
+    "number": "7",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9113783,
+    "longitude": 9.3353655
+  },
+  {
+    "street": "Via alla Chiesetta",
+    "number": "7",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9062996,
+    "longitude": 9.3346527
+  },
+  {
+    "street": "Via alla Parrocchiale",
+    "number": "7",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9111587,
+    "longitude": 9.3345264
+  },
+  {
+    "street": "Via della Costituzione",
+    "number": "7",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9121365,
+    "longitude": 9.3324312
+  },
+  {
+    "street": "Via per Poino",
+    "number": "7",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.91231,
+    "longitude": 9.3366305
+  },
+  {
+    "street": "Via per Zana",
+    "number": "7",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9136303,
+    "longitude": 9.3348456
+  },
+  {
+    "street": "Piazza Centrale",
+    "number": "8",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9113801,
+    "longitude": 9.3350303
+  },
+  {
+    "street": "Strada per Maggiana",
+    "number": "8",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9149058,
+    "longitude": 9.3310666
+  },
+  {
+    "street": "Via Pertus",
+    "number": "8",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9138705,
+    "longitude": 9.3324073
+  },
+  {
+    "street": "Via Vecchia",
+    "number": "8",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9111151,
+    "longitude": 9.3350983
+  },
+  {
+    "street": "Via alla Chiesetta",
+    "number": "8",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9067505,
+    "longitude": 9.3340818
+  },
+  {
+    "street": "Via alla Parrocchiale",
+    "number": "8",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9112086,
+    "longitude": 9.3343755
+  },
+  {
+    "street": "Via degli Angeli",
+    "number": "8",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9110715,
+    "longitude": 9.3354201
+  },
+  {
+    "street": "Via del Pozzo",
+    "number": "8",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9141841,
+    "longitude": 9.3325867
+  },
+  {
+    "street": "Via per Poino",
+    "number": "8",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9126401,
+    "longitude": 9.3343694
+  },
+  {
+    "street": "Via per Zana",
+    "number": "8",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9132149,
+    "longitude": 9.3351852
+  },
+  {
+    "street": "Via alla Chiesetta",
+    "number": "8a",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9067931,
+    "longitude": 9.3340493
+  },
+  {
+    "street": "Via per Zana",
+    "number": "8bis",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9132128,
+    "longitude": 9.3351155
+  },
+  {
+    "street": "Via Grignetta",
+    "number": "9",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9113595,
+    "longitude": 9.3353888
+  },
+  {
+    "street": "Via alla Chiesetta",
+    "number": "9",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9063363,
+    "longitude": 9.3346159
+  },
+  {
+    "street": "Via alla Parrocchiale",
+    "number": "9",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9111101,
+    "longitude": 9.3344266
+  },
+  {
+    "street": "Via della Costituzione",
+    "number": "9",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9119708,
+    "longitude": 9.3326131
+  },
+  {
+    "street": "Via per Poino",
+    "number": "9",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9122807,
+    "longitude": 9.3366327
+  },
+  {
+    "street": "Via per Zana",
+    "number": "9",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9137586,
+    "longitude": 9.3348726
+  },
+  {
+    "street": "Via alla Chiesetta",
+    "number": "9a",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9062536,
+    "longitude": 9.3344493
+  },
+  {
+    "street": "Piazza Centrale",
+    "number": "s.n.c.",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9113806,
+    "longitude": 9.3350946
+  },
+  {
+    "street": "Via Grignetta",
+    "number": "s.n.c.",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9107454,
+    "longitude": 9.3359087
+  },
+  {
+    "street": "Via Pertus",
+    "number": "s.n.c.",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9134291,
+    "longitude": 9.3323269
+  },
+  {
+    "street": "Via Vecchia",
+    "number": "s.n.c.",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9109966,
+    "longitude": 9.335289
+  },
+  {
+    "street": "Via al Lavatoio",
+    "number": "s.n.c.",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9109894,
+    "longitude": 9.3338798
+  },
+  {
+    "street": "Via alla Chiesetta",
+    "number": "s.n.c.",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9060497,
+    "longitude": 9.3349095
+  },
+  {
+    "street": "Via alla Parrocchiale",
+    "number": "s.n.c.",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9110177,
+    "longitude": 9.3344678
+  },
+  {
+    "street": "Via degli Angeli",
+    "number": "s.n.c.",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9109859,
+    "longitude": 9.3355312
+  },
+  {
+    "street": "Via del Pozzo",
+    "number": "s.n.c.",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9139556,
+    "longitude": 9.3331998
+  },
+  {
+    "street": "Via all'Asilo",
+    "number": "1",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9006482,
+    "longitude": 9.3341631
+  },
+  {
+    "street": "Via dei Mulini",
+    "number": "1",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9002058,
+    "longitude": 9.3351863
+  },
+  {
+    "street": "Via del Viandante",
+    "number": "1",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.8969501,
+    "longitude": 9.3403553
+  },
+  {
+    "street": "Via per Linzanico",
+    "number": "1",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9031471,
+    "longitude": 9.3324147
+  },
+  {
+    "street": "Via all'Asilo",
+    "number": "10",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9007957,
+    "longitude": 9.3341879
+  },
+  {
+    "street": "Via dei Mulini",
+    "number": "10",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.8994625,
+    "longitude": 9.335598
+  },
+  {
+    "street": "Via del Viandante",
+    "number": "10",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.899289,
+    "longitude": 9.3389655
+  },
+  {
+    "street": "Via per Linzanico",
+    "number": "10",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9034046,
+    "longitude": 9.3320626
+  },
+  {
+    "street": "Via all'Asilo",
+    "number": "11",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9022545,
+    "longitude": 9.3345167
+  },
+  {
+    "street": "Via per Castello",
+    "number": "11",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.901624,
+    "longitude": 9.3358747
+  },
+  {
+    "street": "Via all'Asilo",
+    "number": "12",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9009267,
+    "longitude": 9.3342981
+  },
+  {
+    "street": "Via dei Mulini",
+    "number": "12",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.8992586,
+    "longitude": 9.3357819
+  },
+  {
+    "street": "Via del Viandante",
+    "number": "12",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.8992872,
+    "longitude": 9.3384215
+  },
+  {
+    "street": "Via per Castello",
+    "number": "12",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9016257,
+    "longitude": 9.3356164
+  },
+  {
+    "street": "Via per Linzanico",
+    "number": "12",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9034739,
+    "longitude": 9.3319992
+  },
+  {
+    "street": "Via all'Asilo",
+    "number": "13",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.902255,
+    "longitude": 9.3344721
+  },
+  {
+    "street": "Via per Castello",
+    "number": "13",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9015408,
+    "longitude": 9.3374368
+  },
+  {
+    "street": "Via dei Mulini",
+    "number": "14",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.8990164,
+    "longitude": 9.3360675
+  },
+  {
+    "street": "Via del Viandante",
+    "number": "14",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.8994099,
+    "longitude": 9.3384147
+  },
+  {
+    "street": "Via all'Asilo",
+    "number": "14a",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9011157,
+    "longitude": 9.3346263
+  },
+  {
+    "street": "Via all'Asilo",
+    "number": "14b",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9009937,
+    "longitude": 9.3344739
+  },
+  {
+    "street": "Via all'Asilo",
+    "number": "15",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9022555,
+    "longitude": 9.3344231
+  },
+  {
+    "street": "Via dei Mulini",
+    "number": "15",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.8990174,
+    "longitude": 9.3362777
+  },
+  {
+    "street": "Via all'Asilo",
+    "number": "16",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.901176,
+    "longitude": 9.3346258
+  },
+  {
+    "street": "Via dei Mulini",
+    "number": "16",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.8989343,
+    "longitude": 9.3362235
+  },
+  {
+    "street": "Via del Viandante",
+    "number": "16",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.899447,
+    "longitude": 9.3383456
+  },
+  {
+    "street": "Via per Castello",
+    "number": "16",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9015186,
+    "longitude": 9.3360116
+  },
+  {
+    "street": "Via all'Asilo",
+    "number": "17",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9022797,
+    "longitude": 9.3342486
+  },
+  {
+    "street": "Via dei Mulini",
+    "number": "18",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.8989421,
+    "longitude": 9.3363506
+  },
+  {
+    "street": "Via del Viandante",
+    "number": "18",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.8996279,
+    "longitude": 9.337927
+  },
+  {
+    "street": "Via per Castello",
+    "number": "18a",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9013464,
+    "longitude": 9.3360319
+  },
+  {
+    "street": "Via per Castello",
+    "number": "18c",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9009511,
+    "longitude": 9.3357899
+  },
+  {
+    "street": "Via per Castello",
+    "number": "18d",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9010295,
+    "longitude": 9.3358028
+  },
+  {
+    "street": "Via per Castello",
+    "number": "18e",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9011073,
+    "longitude": 9.3358486
+  },
+  {
+    "street": "Via per Castello",
+    "number": "18f",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9012603,
+    "longitude": 9.3359308
+  },
+  {
+    "street": "Via per Castello",
+    "number": "18g",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9013091,
+    "longitude": 9.3359486
+  },
+  {
+    "street": "Via all'Asilo",
+    "number": "19",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9022893,
+    "longitude": 9.3341684
+  },
+  {
+    "street": "Via del Viandante",
+    "number": "19",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.8993523,
+    "longitude": 9.3382156
+  },
+  {
+    "street": "Via all'Asilo",
+    "number": "2",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9005577,
+    "longitude": 9.3342438
+  },
+  {
+    "street": "Via dei Mulini",
+    "number": "2",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9002007,
+    "longitude": 9.3350601
+  },
+  {
+    "street": "Via del Viandante",
+    "number": "2",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.8968438,
+    "longitude": 9.3403804
+  },
+  {
+    "street": "Via per Linzanico",
+    "number": "2",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9032236,
+    "longitude": 9.3323945
+  },
+  {
+    "street": "Via per Novegolo",
+    "number": "2",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9027686,
+    "longitude": 9.331932
+  },
+  {
+    "street": "Via dei Mulini",
+    "number": "20",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.8989191,
+    "longitude": 9.3364066
+  },
+  {
+    "street": "Via per Castello",
+    "number": "20",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9015149,
+    "longitude": 9.3361435
+  },
+  {
+    "street": "Via all'Asilo",
+    "number": "21",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9023042,
+    "longitude": 9.3340905
+  },
+  {
+    "street": "Via all'Asilo",
+    "number": "22",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9017909,
+    "longitude": 9.3348044
+  },
+  {
+    "street": "Via dei Mulini",
+    "number": "22",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.8989488,
+    "longitude": 9.3364872
+  },
+  {
+    "street": "Via per Castello",
+    "number": "22",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9016587,
+    "longitude": 9.3364103
+  },
+  {
+    "street": "Via all'Asilo",
+    "number": "23",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.902376,
+    "longitude": 9.3338852
+  },
+  {
+    "street": "Via all'Asilo",
+    "number": "24",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9019083,
+    "longitude": 9.3348048
+  },
+  {
+    "street": "Via all'Asilo",
+    "number": "26",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9022444,
+    "longitude": 9.3348176
+  },
+  {
+    "street": "Via all'Asilo",
+    "number": "26a",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9024757,
+    "longitude": 9.3343953
+  },
+  {
+    "street": "Via all'Asilo",
+    "number": "26b",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9024167,
+    "longitude": 9.334351
+  },
+  {
+    "street": "Via all'Asilo",
+    "number": "26c",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9024288,
+    "longitude": 9.3341032
+  },
+  {
+    "street": "Via all'Asilo",
+    "number": "28",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9024954,
+    "longitude": 9.3337633
+  },
+  {
+    "street": "Via del Viandante",
+    "number": "28",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.903112,
+    "longitude": 9.3362137
+  },
+  {
+    "street": "Via del Viandante",
+    "number": "29",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9010189,
+    "longitude": 9.3369879
+  },
+  {
+    "street": "Via all'Asilo",
+    "number": "3",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.900786,
+    "longitude": 9.334106
+  },
+  {
+    "street": "Via dei Mulini",
+    "number": "3",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9000878,
+    "longitude": 9.3353012
+  },
+  {
+    "street": "Via del Viandante",
+    "number": "3",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.8973329,
+    "longitude": 9.3402815
+  },
+  {
+    "street": "Via per Linzanico",
+    "number": "3",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9032488,
+    "longitude": 9.3322733
+  },
+  {
+    "street": "Via per Novegolo",
+    "number": "3",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9033331,
+    "longitude": 9.3327295
+  },
+  {
+    "street": "Via del Viandante",
+    "number": "30",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9034384,
+    "longitude": 9.3358318
+  },
+  {
+    "street": "Via del Viandante",
+    "number": "31",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9010417,
+    "longitude": 9.3369794
+  },
+  {
+    "street": "Via del Viandante",
+    "number": "33",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9012988,
+    "longitude": 9.3368286
+  },
+  {
+    "street": "Via dei Mulini",
+    "number": "4",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9000898,
+    "longitude": 9.335167
+  },
+  {
+    "street": "Via del Viandante",
+    "number": "4",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.8985035,
+    "longitude": 9.3395809
+  },
+  {
+    "street": "Via per Linzanico",
+    "number": "4",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9032538,
+    "longitude": 9.3323442
+  },
+  {
+    "street": "Via per Novegolo",
+    "number": "4",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9028373,
+    "longitude": 9.3320074
+  },
+  {
+    "street": "Via dei Mulini",
+    "number": "5",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.8999933,
+    "longitude": 9.3353483
+  },
+  {
+    "street": "Via del Viandante",
+    "number": "5",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.8973634,
+    "longitude": 9.3402746
+  },
+  {
+    "street": "Via per Castello",
+    "number": "5",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9017812,
+    "longitude": 9.3351386
+  },
+  {
+    "street": "Via per Novegolo",
+    "number": "5",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.903425,
+    "longitude": 9.3327179
+  },
+  {
+    "street": "Via dei Mulini",
+    "number": "5/BIS",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.8997914,
+    "longitude": 9.3355997
+  },
+  {
+    "street": "Via all'Asilo",
+    "number": "6",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9006791,
+    "longitude": 9.3342028
+  },
+  {
+    "street": "Via per Castello",
+    "number": "6",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9014982,
+    "longitude": 9.3352593
+  },
+  {
+    "street": "Via per Novegolo",
+    "number": "6",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9032004,
+    "longitude": 9.3326975
+  },
+  {
+    "street": "Via dei Mulini",
+    "number": "7",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.8996797,
+    "longitude": 9.3355795
+  },
+  {
+    "street": "Via per Castello",
+    "number": "7",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9017037,
+    "longitude": 9.3355028
+  },
+  {
+    "street": "Via per Novegolo",
+    "number": "7",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9033973,
+    "longitude": 9.3328689
+  },
+  {
+    "street": "Via all'Asilo",
+    "number": "8",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9007344,
+    "longitude": 9.334182
+  },
+  {
+    "street": "Via dei Mulini",
+    "number": "8",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.8996228,
+    "longitude": 9.3355076
+  },
+  {
+    "street": "Via per Castello",
+    "number": "9",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9016573,
+    "longitude": 9.3357342
+  },
+  {
+    "street": "Via dei Mulini",
+    "number": "9a",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.8994883,
+    "longitude": 9.3359151
+  },
+  {
+    "street": "Via dei Mulini",
+    "number": "9b",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.899642,
+    "longitude": 9.3363745
+  },
+  {
+    "street": "Via dei Mulini",
+    "number": "9c",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.8999343,
+    "longitude": 9.3365401
+  },
+  {
+    "street": "Via dei Mulini",
+    "number": "9d",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.8997891,
+    "longitude": 9.3365781
+  },
+  {
+    "street": "Via dei Mulini",
+    "number": "9e",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.8996231,
+    "longitude": 9.3366981
+  },
+  {
+    "street": "Via dei Mulini",
+    "number": "9f",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.8995897,
+    "longitude": 9.3368315
+  },
+  {
+    "street": "Via dei Mulini",
+    "number": "9g",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.8994959,
+    "longitude": 9.3369121
+  },
+  {
+    "street": "Via all'Asilo",
+    "number": "s.n.c.",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.900624,
+    "longitude": 9.3342375
+  },
+  {
+    "street": "Via del Viandante",
+    "number": "s.n.c.",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.8968624,
+    "longitude": 9.3403924
+  },
+  {
+    "street": "Via per Castello",
+    "number": "s.n.c.",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9013328,
+    "longitude": 9.3360288
+  },
+  {
+    "street": "Via per Linzanico",
+    "number": "s.n.c.",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9032861,
+    "longitude": 9.3321315
+  },
+  {
+    "street": "Via per Novegolo",
+    "number": "s.n.c.",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9031999,
+    "longitude": 9.3326842
+  },
+  {
+    "street": "Via Sant'Antonio",
+    "number": "1",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9150852,
+    "longitude": 9.3308171
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "8",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.900264,
+    "longitude": 9.3333056
+  },
+  {
+    "street": "Piazza Papa Giovanni XXIII",
+    "number": "6",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9066175,
+    "longitude": 9.3357289
+  },
+  {
+    "street": "Piazza Papa Giovanni XXIII",
+    "number": "5",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9067846,
+    "longitude": 9.3355264
+  },
+  {
+    "street": "Via Cassin",
+    "number": "3",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9062256,
+    "longitude": 9.3947006
+  },
+  {
+    "street": "Via Parodi",
+    "number": "5",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9021847,
+    "longitude": 9.3809563
+  },
+  {
+    "street": "Via Lungo Lago",
+    "number": "26",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.8999885,
+    "longitude": 9.3316087
+  },
+  {
+    "street": "Via Nazionale",
+    "number": "152",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.8949826,
+    "longitude": 9.3348187
+  },
+  {
+    "street": "Piazzale delle Miniere",
+    "number": "1",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9004977,
+    "longitude": 9.3926618
+  },
+  {
+    "street": "Via all'Asilo",
+    "number": "20",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9015704,
+    "longitude": 9.3351105
+  },
+  {
+    "street": "Via Lungo Lago",
+    "number": "4",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.8986147,
+    "longitude": 9.3320868
+  },
+  {
+    "street": "Via Nazionale",
+    "number": "107",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.8999982,
+    "longitude": 9.3323589
+  },
+  {
+    "street": "Via della Quadra",
+    "number": "12",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.8995999,
+    "longitude": 9.332873
+  },
+  {
+    "street": "Via Nazionale",
+    "number": "65",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9015895,
+    "longitude": 9.3322779
+  },
+  {
+    "street": "Via Galbussera",
+    "number": "2",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9072118,
+    "longitude": 9.3948013
+  },
+  {
+    "street": "Via Escursionisti",
+    "number": "29",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9000629,
+    "longitude": 9.3917987
+  },
+  {
+    "street": "Strada dei Campelli",
+    "number": "31",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9010371,
+    "longitude": 9.3723054
+  },
+  {
+    "street": "Piazza della Chiesa",
+    "number": "4",
+    "city": {
+      "name": "Abbadia Lariana",
+      "istat": "097001"
+    },
+    "latitude": 45.9044947,
+    "longitude": 9.3923624
+  }
+]

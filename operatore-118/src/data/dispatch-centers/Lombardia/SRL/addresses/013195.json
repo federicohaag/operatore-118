@@ -1,0 +1,122 @@
+[
+  {
+    "street": "Via Santa Valeria",
+    "number": "43",
+    "city": {
+      "name": "Rezzago",
+      "istat": "013195"
+    },
+    "latitude": 45.8660133,
+    "longitude": 9.250786
+  },
+  {
+    "street": "Via Santa Valeria",
+    "number": "41",
+    "city": {
+      "name": "Rezzago",
+      "istat": "013195"
+    },
+    "latitude": 45.8660985,
+    "longitude": 9.2509426
+  },
+  {
+    "street": "Via per Enco",
+    "number": "1",
+    "city": {
+      "name": "Rezzago",
+      "istat": "013195"
+    },
+    "latitude": 45.8590327,
+    "longitude": 9.2392082
+  },
+  {
+    "street": "Via Annunciata Binda",
+    "number": "13",
+    "city": {
+      "name": "Rezzago",
+      "istat": "013195"
+    },
+    "latitude": 45.8655477,
+    "longitude": 9.2487273
+  },
+  {
+    "street": "Via Annunciata Binda",
+    "number": "8",
+    "city": {
+      "name": "Rezzago",
+      "istat": "013195"
+    },
+    "latitude": 45.8655659,
+    "longitude": 9.2486603
+  },
+  {
+    "street": "Via Annunciata Binda",
+    "number": "6",
+    "city": {
+      "name": "Rezzago",
+      "istat": "013195"
+    },
+    "latitude": 45.8655761,
+    "longitude": 9.2487071
+  },
+  {
+    "street": "Via S. Cosmo",
+    "number": "15",
+    "city": {
+      "name": "Rezzago",
+      "istat": "013195"
+    },
+    "latitude": 45.8655366,
+    "longitude": 9.2485534
+  },
+  {
+    "street": "Via Desiderio Binda",
+    "number": "9",
+    "city": {
+      "name": "Rezzago",
+      "istat": "013195"
+    },
+    "latitude": 45.8655763,
+    "longitude": 9.2487709
+  },
+  {
+    "street": "Via Annunciata Binda",
+    "number": "11",
+    "city": {
+      "name": "Rezzago",
+      "istat": "013195"
+    },
+    "latitude": 45.8654985,
+    "longitude": 9.248643
+  },
+  {
+    "street": "Piazza don A. Confalonieri",
+    "number": "4",
+    "city": {
+      "name": "Rezzago",
+      "istat": "013195"
+    },
+    "latitude": 45.8662282,
+    "longitude": 9.2493968
+  },
+  {
+    "street": "Via Santa Valeria",
+    "number": "74",
+    "city": {
+      "name": "Rezzago",
+      "istat": "013195"
+    },
+    "latitude": 45.8682088,
+    "longitude": 9.2482134
+  },
+  {
+    "street": "Via Santa Valeria",
+    "number": "39",
+    "city": {
+      "name": "Rezzago",
+      "istat": "013195"
+    },
+    "latitude": 45.8662488,
+    "longitude": 9.2510254
+  }
+]

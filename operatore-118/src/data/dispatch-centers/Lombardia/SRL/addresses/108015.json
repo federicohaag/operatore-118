@@ -1,0 +1,2472 @@
+[
+  {
+    "street": "Via Don Giovanni Minzoni",
+    "number": "1",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6791487,
+    "longitude": 9.2372348
+  },
+  {
+    "street": "Via Milano",
+    "number": "1",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6735725,
+    "longitude": 9.2310418
+  },
+  {
+    "street": "Piazza Cesare Battisti",
+    "number": "1",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6778281,
+    "longitude": 9.2345399
+  },
+  {
+    "street": "Via General Cantore",
+    "number": "3",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6768236,
+    "longitude": 9.2322094
+  },
+  {
+    "street": "Piazza Quattro Novembre",
+    "number": "15",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6762558,
+    "longitude": 9.2371205
+  },
+  {
+    "street": "Via Giuseppe Mascherpa",
+    "number": "14",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6718793,
+    "longitude": 9.2318216
+  },
+  {
+    "street": "Piazza Risorgimento",
+    "number": "1",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6730564,
+    "longitude": 9.2324223
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "1a",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.678004,
+    "longitude": 9.240705
+  },
+  {
+    "street": "Viale Giuseppe Mazzini",
+    "number": "1",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6786937,
+    "longitude": 9.2396857
+  },
+  {
+    "street": "Viale Brianza",
+    "number": "30",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6722034,
+    "longitude": 9.2372031
+  },
+  {
+    "street": "Viale Brianza",
+    "number": "26",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6723226,
+    "longitude": 9.2377098
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "1",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6720482,
+    "longitude": 9.2442608
+  },
+  {
+    "street": "Via Costa Lambro",
+    "number": "3",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6813652,
+    "longitude": 9.244416
+  },
+  {
+    "street": "Via Bernardo Caprotti",
+    "number": "7",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6770346,
+    "longitude": 9.2394302
+  },
+  {
+    "street": "Via Adige",
+    "number": "1",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6686999,
+    "longitude": 9.2470953
+  },
+  {
+    "street": "Via Adige",
+    "number": "2",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6692477,
+    "longitude": 9.2468594
+  },
+  {
+    "street": "Via Adige",
+    "number": "3",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6685774,
+    "longitude": 9.2471481
+  },
+  {
+    "street": "Via Brenta",
+    "number": "4",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.668882,
+    "longitude": 9.2463579
+  },
+  {
+    "street": "Viale Mosè Bianchi",
+    "number": "9",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6705684,
+    "longitude": 9.2444411
+  },
+  {
+    "street": "Viale Trento e Trieste",
+    "number": "63",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6843529,
+    "longitude": 9.2532974
+  },
+  {
+    "street": "Viale Mosè Bianchi",
+    "number": "51",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6656459,
+    "longitude": 9.246941
+  },
+  {
+    "street": "Via Stanga Busca",
+    "number": "3",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6857327,
+    "longitude": 9.2450738
+  },
+  {
+    "street": "Via Sabotino",
+    "number": "1",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6863344,
+    "longitude": 9.2475099
+  },
+  {
+    "street": "Via Cavour",
+    "number": "2",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6859048,
+    "longitude": 9.237565
+  },
+  {
+    "street": "Via Albert Schweitzer",
+    "number": "5",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6714899,
+    "longitude": 9.2481526
+  },
+  {
+    "street": "Via Albert Schweitzer",
+    "number": "1",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6718353,
+    "longitude": 9.2480084
+  },
+  {
+    "street": "Via Albert Schweitzer",
+    "number": "17",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6687622,
+    "longitude": 9.245798
+  },
+  {
+    "street": "Via Albert Schweitzer",
+    "number": "19",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6687376,
+    "longitude": 9.2457156
+  },
+  {
+    "street": "Via Albert Schweitzer",
+    "number": "7",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6712294,
+    "longitude": 9.2482563
+  },
+  {
+    "street": "Via Albert Schweitzer",
+    "number": "9",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6711431,
+    "longitude": 9.2482906
+  },
+  {
+    "street": "Via Albert Schweitzer",
+    "number": "15",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6690485,
+    "longitude": 9.2462593
+  },
+  {
+    "street": "Via Albert Schweitzer",
+    "number": "3",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6716787,
+    "longitude": 9.2480774
+  },
+  {
+    "street": "Via Tagliamento",
+    "number": "1",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6681049,
+    "longitude": 9.2456073
+  },
+  {
+    "street": "Via Brenta",
+    "number": "2",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6686893,
+    "longitude": 9.2464108
+  },
+  {
+    "street": "Via Brenta",
+    "number": "1",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6683416,
+    "longitude": 9.2462847
+  },
+  {
+    "street": "Via Tagliamento",
+    "number": "3",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6681707,
+    "longitude": 9.2459885
+  },
+  {
+    "street": "Via Brenta",
+    "number": "3",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6687066,
+    "longitude": 9.2461294
+  },
+  {
+    "street": "Viale Mosè Bianchi",
+    "number": "43",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6663217,
+    "longitude": 9.2464458
+  },
+  {
+    "street": "Viale Mosè Bianchi",
+    "number": "47",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6658611,
+    "longitude": 9.2467294
+  },
+  {
+    "street": "Viale Mosè Bianchi",
+    "number": "7",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6721265,
+    "longitude": 9.2438757
+  },
+  {
+    "street": "Viale Mosè Bianchi",
+    "number": "3",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6729523,
+    "longitude": 9.2435727
+  },
+  {
+    "street": "Viale Mosè Bianchi",
+    "number": "30",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6704664,
+    "longitude": 9.2440731
+  },
+  {
+    "street": "Viale Mosè Bianchi",
+    "number": "12",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6718806,
+    "longitude": 9.243531
+  },
+  {
+    "street": "Viale Brianza",
+    "number": "56",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6688606,
+    "longitude": 9.2278159
+  },
+  {
+    "street": "Viale Brianza",
+    "number": "44",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6705119,
+    "longitude": 9.2306797
+  },
+  {
+    "street": "Viale San Michele al Carso",
+    "number": "22",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6750346,
+    "longitude": 9.2426923
+  },
+  {
+    "street": "Via Enrico Toti",
+    "number": "41",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6754111,
+    "longitude": 9.2434056
+  },
+  {
+    "street": "Viale San Michele al Carso",
+    "number": "24",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6746403,
+    "longitude": 9.2427209
+  },
+  {
+    "street": "Viale San Michele al Carso",
+    "number": "10",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6762538,
+    "longitude": 9.2425985
+  },
+  {
+    "street": "Viale San Michele al Carso",
+    "number": "12",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6760011,
+    "longitude": 9.2426762
+  },
+  {
+    "street": "Via Enrico Toti",
+    "number": "23",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6763747,
+    "longitude": 9.2434586
+  },
+  {
+    "street": "Via Enrico Toti",
+    "number": "27",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6762494,
+    "longitude": 9.2433742
+  },
+  {
+    "street": "Via Enrico Toti",
+    "number": "9",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6766766,
+    "longitude": 9.2437089
+  },
+  {
+    "street": "Via Enrico Toti",
+    "number": "3",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6768032,
+    "longitude": 9.2438114
+  },
+  {
+    "street": "Via Enrico Toti",
+    "number": "19",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6764666,
+    "longitude": 9.2435236
+  },
+  {
+    "street": "Via Enrico Toti",
+    "number": "21",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6764256,
+    "longitude": 9.2434951
+  },
+  {
+    "street": "Via Enrico Toti",
+    "number": "15",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.676543,
+    "longitude": 9.2435949
+  },
+  {
+    "street": "Via Enrico Toti",
+    "number": "17",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6765032,
+    "longitude": 9.2435616
+  },
+  {
+    "street": "Via Enrico Toti",
+    "number": "33",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6761386,
+    "longitude": 9.2432795
+  },
+  {
+    "street": "Via Enrico Toti",
+    "number": "25",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6763027,
+    "longitude": 9.2434011
+  },
+  {
+    "street": "Viale Trento e Trieste",
+    "number": "18",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6771165,
+    "longitude": 9.2440139
+  },
+  {
+    "street": "Viale Trento e Trieste",
+    "number": "57",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6786273,
+    "longitude": 9.2448405
+  },
+  {
+    "street": "Via Nuova Valassina",
+    "number": "21",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6617362,
+    "longitude": 9.2234025
+  },
+  {
+    "street": "Viale Brianza",
+    "number": "20",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6726542,
+    "longitude": 9.2389195
+  },
+  {
+    "street": "Via Don Costante Mattavelli",
+    "number": "1",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6749512,
+    "longitude": 9.2351706
+  },
+  {
+    "street": "Via all'Isola",
+    "number": "2",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6860766,
+    "longitude": 9.2376187
+  },
+  {
+    "street": "Via Galeazzo Viganò",
+    "number": "7",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6807698,
+    "longitude": 9.2409538
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "19",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6807806,
+    "longitude": 9.2413294
+  },
+  {
+    "street": "Via alle grotte",
+    "number": "3",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6810839,
+    "longitude": 9.2439401
+  },
+  {
+    "street": "Via Corteselle",
+    "number": "16",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6799566,
+    "longitude": 9.2282011
+  },
+  {
+    "street": "Via Corteselle",
+    "number": "12",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6796758,
+    "longitude": 9.2283644
+  },
+  {
+    "street": "Via Corteselle",
+    "number": "18",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.679734,
+    "longitude": 9.2280864
+  },
+  {
+    "street": "Via Corteselle",
+    "number": "17",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.679532,
+    "longitude": 9.2281185
+  },
+  {
+    "street": "Via Corteselle",
+    "number": "14",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6798825,
+    "longitude": 9.2284988
+  },
+  {
+    "street": "Via Dante Cesana",
+    "number": "38",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6756764,
+    "longitude": 9.2389798
+  },
+  {
+    "street": "Via Dante Cesana",
+    "number": "40",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6755544,
+    "longitude": 9.2391764
+  },
+  {
+    "street": "Piazza della Madonnina",
+    "number": "1",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6765964,
+    "longitude": 9.2395537
+  },
+  {
+    "street": "Piazza Quattro Novembre",
+    "number": "3",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6767464,
+    "longitude": 9.2371536
+  },
+  {
+    "street": "Via Emilia Vergani",
+    "number": "16",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6726235,
+    "longitude": 9.2321296
+  },
+  {
+    "street": "Via Riverio",
+    "number": "3",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6762014,
+    "longitude": 9.258917
+  },
+  {
+    "street": "Via Giuseppe Marcora",
+    "number": "1",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6753981,
+    "longitude": 9.2370364
+  },
+  {
+    "street": "Viale Brianza",
+    "number": "8",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6729723,
+    "longitude": 9.2407825
+  },
+  {
+    "street": "Via Marengo",
+    "number": "26 Bis",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6736914,
+    "longitude": 9.2209612
+  },
+  {
+    "street": "Via Marengo",
+    "number": "20",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6728434,
+    "longitude": 9.2204529
+  },
+  {
+    "street": "Via Marengo",
+    "number": "24",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6730786,
+    "longitude": 9.2203644
+  },
+  {
+    "street": "Via Tiziano",
+    "number": "9",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6624572,
+    "longitude": 9.2379691
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "25",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6606789,
+    "longitude": 9.2312637
+  },
+  {
+    "street": "Via Piemonte",
+    "number": "7",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6607423,
+    "longitude": 9.2293715
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "52b",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6628444,
+    "longitude": 9.2397308
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "27",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6604284,
+    "longitude": 9.2311407
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "52a",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6630278,
+    "longitude": 9.2399417
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "52",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6631652,
+    "longitude": 9.2399862
+  },
+  {
+    "street": "Via Piemonte",
+    "number": "5",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6607807,
+    "longitude": 9.2292374
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "37",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6642572,
+    "longitude": 9.2329837
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "11",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6595953,
+    "longitude": 9.2342626
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "35",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.662642,
+    "longitude": 9.232037
+  },
+  {
+    "street": "Via Rivera",
+    "number": "54",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6592531,
+    "longitude": 9.2356934
+  },
+  {
+    "street": "Via Rivera",
+    "number": "48",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6646423,
+    "longitude": 9.2369603
+  },
+  {
+    "street": "Via Rivera",
+    "number": "75",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6612411,
+    "longitude": 9.2380707
+  },
+  {
+    "street": "Via Rivera",
+    "number": "63",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6623728,
+    "longitude": 9.2369765
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "50",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6632338,
+    "longitude": 9.2397819
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "9",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6595697,
+    "longitude": 9.2345046
+  },
+  {
+    "street": "Via Piemonte",
+    "number": "3/5",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6608955,
+    "longitude": 9.22818
+  },
+  {
+    "street": "Via della Valle",
+    "number": "39",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6626015,
+    "longitude": 9.2274332
+  },
+  {
+    "street": "Via della Valle",
+    "number": "67",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6586164,
+    "longitude": 9.2257239
+  },
+  {
+    "street": "Via Piemonte",
+    "number": "3",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6610516,
+    "longitude": 9.2279924
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "8",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6628216,
+    "longitude": 9.2311245
+  },
+  {
+    "street": "Via della Valle",
+    "number": "75",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6565958,
+    "longitude": 9.2265017
+  },
+  {
+    "street": "Via Sardegna",
+    "number": "1",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.657186,
+    "longitude": 9.2251188
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "16/20",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6616372,
+    "longitude": 9.2339912
+  },
+  {
+    "street": "Via della Valle",
+    "number": "46",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6608205,
+    "longitude": 9.2255089
+  },
+  {
+    "street": "Vicinale dell'Immacolata",
+    "number": "1",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6644725,
+    "longitude": 9.2315183
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "29",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6613627,
+    "longitude": 9.2311522
+  },
+  {
+    "street": "Via alle grotte",
+    "number": "2",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.681032,
+    "longitude": 9.2441731
+  },
+  {
+    "street": "Via Rivera",
+    "number": "56",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.658675,
+    "longitude": 9.2362509
+  },
+  {
+    "street": "Via Marengo",
+    "number": "22",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.672898,
+    "longitude": 9.2207574
+  },
+  {
+    "street": "Via della Valle",
+    "number": "71",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6572248,
+    "longitude": 9.2260736
+  },
+  {
+    "street": "Via Giuseppe Mascherpa",
+    "number": "4",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.672416,
+    "longitude": 9.2338532
+  },
+  {
+    "street": "Via Giuseppe Mascherpa",
+    "number": "6",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6723607,
+    "longitude": 9.2337164
+  },
+  {
+    "street": "Via Giuseppe Mascherpa",
+    "number": "2",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6724863,
+    "longitude": 9.2340021
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "1",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6859013,
+    "longitude": 9.237265
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "3",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6859369,
+    "longitude": 9.2373213
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "5",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6859556,
+    "longitude": 9.2373669
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "7",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6859894,
+    "longitude": 9.237446
+  },
+  {
+    "street": "Via all'Isola",
+    "number": "7",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.686307,
+    "longitude": 9.2369686
+  },
+  {
+    "street": "Via all'Isola",
+    "number": "9",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6863538,
+    "longitude": 9.2369123
+  },
+  {
+    "street": "Via all'Isola",
+    "number": "11",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6863932,
+    "longitude": 9.2368627
+  },
+  {
+    "street": "Via all'Isola",
+    "number": "17",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.686485,
+    "longitude": 9.23675
+  },
+  {
+    "street": "Via all'Isola",
+    "number": "4",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6860607,
+    "longitude": 9.2378375
+  },
+  {
+    "street": "Via Sant'Ambrogio",
+    "number": "10",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6764481,
+    "longitude": 9.236406
+  },
+  {
+    "street": "Via Buttafava",
+    "number": "1",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6770499,
+    "longitude": 9.2375374
+  },
+  {
+    "street": "Via Sant'Ambrogio",
+    "number": "1",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6765483,
+    "longitude": 9.236732
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "11",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6758799,
+    "longitude": 9.2369244
+  },
+  {
+    "street": "Via San Bernardo",
+    "number": "9",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6773773,
+    "longitude": 9.2378027
+  },
+  {
+    "street": "Piazza Quattro Novembre",
+    "number": "21",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6765428,
+    "longitude": 9.2368179
+  },
+  {
+    "street": "Via Sant'Ambrogio",
+    "number": "29bis",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6755172,
+    "longitude": 9.2356342
+  },
+  {
+    "street": "Via Rivera",
+    "number": "1",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6713638,
+    "longitude": 9.2351923
+  },
+  {
+    "street": "Viale San Michele al Carso",
+    "number": "18",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.674675,
+    "longitude": 9.2426471
+  },
+  {
+    "street": "Viale Trento e Trieste",
+    "number": "2a",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6775583,
+    "longitude": 9.2409044
+  },
+  {
+    "street": "Viale San Michele al Carso",
+    "number": "6",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6769113,
+    "longitude": 9.2419507
+  },
+  {
+    "street": "Via Cardinal Ferrari",
+    "number": "2",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6729566,
+    "longitude": 9.2405208
+  },
+  {
+    "street": "Via Marengo",
+    "number": "7",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6692131,
+    "longitude": 9.2236987
+  },
+  {
+    "street": "Viale Trento e Trieste",
+    "number": "1",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6778042,
+    "longitude": 9.2407738
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "11",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6734813,
+    "longitude": 9.2338114
+  },
+  {
+    "street": "Via Cusani",
+    "number": "2",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6769713,
+    "longitude": 9.2343662
+  },
+  {
+    "street": "Viale Trento e Trieste",
+    "number": "24",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6781325,
+    "longitude": 9.2449833
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "43",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6864484,
+    "longitude": 9.2394998
+  },
+  {
+    "street": "Via Giuseppe Parini",
+    "number": "2",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6863192,
+    "longitude": 9.2469674
+  },
+  {
+    "street": "Via Giuseppe Parini",
+    "number": "2b",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6864092,
+    "longitude": 9.2465638
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "7",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6794864,
+    "longitude": 9.242108
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "46",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6757107,
+    "longitude": 9.2319284
+  },
+  {
+    "street": "Via Tagliamento",
+    "number": "16b",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6682513,
+    "longitude": 9.2480402
+  },
+  {
+    "street": "Via Milite Ignoto",
+    "number": "7",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6811106,
+    "longitude": 9.2380886
+  },
+  {
+    "street": "Viale Trento e Trieste",
+    "number": "9",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6775595,
+    "longitude": 9.2413693
+  },
+  {
+    "street": "Via Tagliamento",
+    "number": "5",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6683187,
+    "longitude": 9.2467986
+  },
+  {
+    "street": "Via Tagliamento",
+    "number": "11",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6688342,
+    "longitude": 9.2485446
+  },
+  {
+    "street": "Via Galeazzo Viganò",
+    "number": "8",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6819034,
+    "longitude": 9.2406551
+  },
+  {
+    "street": "Via Riverio Inferiore",
+    "number": "5",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6748448,
+    "longitude": 9.2560798
+  },
+  {
+    "street": "Via Enrico Toti",
+    "number": "37",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6759867,
+    "longitude": 9.2431308
+  },
+  {
+    "street": "Viale Trento e Trieste",
+    "number": "6",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6772122,
+    "longitude": 9.2415032
+  },
+  {
+    "street": "Viale Trento e Trieste",
+    "number": "14",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6774314,
+    "longitude": 9.2416276
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "47",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6865374,
+    "longitude": 9.2398025
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "53",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6866094,
+    "longitude": 9.2399107
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "1a",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.679411,
+    "longitude": 9.2367485
+  },
+  {
+    "street": "Via Tagliamento",
+    "number": "17",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.669052,
+    "longitude": 9.2498097
+  },
+  {
+    "street": "Viale Trento e Trieste",
+    "number": "11",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6775128,
+    "longitude": 9.2414574
+  },
+  {
+    "street": "Via Don Giovanni Minzoni",
+    "number": "2",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6790907,
+    "longitude": 9.2368409
+  },
+  {
+    "street": "Via Adige",
+    "number": "1/3",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6686542,
+    "longitude": 9.2472437
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "2",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6862944,
+    "longitude": 9.240066
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "4",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6861638,
+    "longitude": 9.2406553
+  },
+  {
+    "street": "Viale Trento e Trieste",
+    "number": "12",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6770742,
+    "longitude": 9.2426604
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "1",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6793154,
+    "longitude": 9.236806
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "67",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6883237,
+    "longitude": 9.2398486
+  },
+  {
+    "street": "Viale Trento e Trieste",
+    "number": "24/A",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6778712,
+    "longitude": 9.2451155
+  },
+  {
+    "street": "Via Buttafava",
+    "number": "10",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6775494,
+    "longitude": 9.2364997
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "26",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6750773,
+    "longitude": 9.2383469
+  },
+  {
+    "street": "Via San Bernardo",
+    "number": "5",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6772486,
+    "longitude": 9.2378064
+  },
+  {
+    "street": "Via Sant'Ambrogio",
+    "number": "28",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6759794,
+    "longitude": 9.2356141
+  },
+  {
+    "street": "Piazza Quattro Novembre",
+    "number": "10",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6763251,
+    "longitude": 9.2374142
+  },
+  {
+    "street": "Via San Bernardo",
+    "number": "17",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6775874,
+    "longitude": 9.2378115
+  },
+  {
+    "street": "Piazza Quattro Novembre",
+    "number": "12",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6762451,
+    "longitude": 9.2373011
+  },
+  {
+    "street": "Piazza Risorgimento",
+    "number": "4",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6737059,
+    "longitude": 9.2323433
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "3",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6720713,
+    "longitude": 9.2444283
+  },
+  {
+    "street": "Piazza della Madonnina",
+    "number": "2",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6765813,
+    "longitude": 9.2393451
+  },
+  {
+    "street": "Viale Brianza",
+    "number": "31",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6718325,
+    "longitude": 9.2370999
+  },
+  {
+    "street": "Via Sardegna",
+    "number": "7",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6569889,
+    "longitude": 9.2247976
+  },
+  {
+    "street": "Viale San Michele al Carso",
+    "number": "28",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6737837,
+    "longitude": 9.2426923
+  },
+  {
+    "street": "Via Monsignor Caprotti",
+    "number": "7",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6771659,
+    "longitude": 9.2392308
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "5",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6716581,
+    "longitude": 9.2466508
+  },
+  {
+    "street": "Via della Valle",
+    "number": "5",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.66379,
+    "longitude": 9.228471
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "1",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6723214,
+    "longitude": 9.2351795
+  },
+  {
+    "street": "Via Luigi Azimonti",
+    "number": "3",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6779526,
+    "longitude": 9.2351002
+  },
+  {
+    "street": "Via Marengo",
+    "number": "1a",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6679029,
+    "longitude": 9.2231356
+  },
+  {
+    "street": "Viale Mosè Bianchi",
+    "number": "5",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.672363,
+    "longitude": 9.2438138
+  },
+  {
+    "street": "Viale San Michele al Carso",
+    "number": "26",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6742856,
+    "longitude": 9.2425591
+  },
+  {
+    "street": "Via Tommaso Grossi",
+    "number": "5",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6646206,
+    "longitude": 9.2260278
+  },
+  {
+    "street": "Viale Mosè Bianchi",
+    "number": "28",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6705717,
+    "longitude": 9.2438879
+  },
+  {
+    "street": "Via della Valle",
+    "number": "44",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6616092,
+    "longitude": 9.225709
+  },
+  {
+    "street": "Viale Brianza",
+    "number": "71",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6670204,
+    "longitude": 9.2263073
+  },
+  {
+    "street": "Viale Brianza",
+    "number": "65",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6679917,
+    "longitude": 9.2278678
+  },
+  {
+    "street": "Via dei Gaggioli",
+    "number": "2",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6687425,
+    "longitude": 9.2292176
+  },
+  {
+    "street": "Viale Brianza",
+    "number": "58A/60",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6686035,
+    "longitude": 9.2274591
+  },
+  {
+    "street": "Viale Brianza",
+    "number": "51",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6701162,
+    "longitude": 9.2311404
+  },
+  {
+    "street": "Via Pietro Borsieri",
+    "number": "2",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6748845,
+    "longitude": 9.2432603
+  },
+  {
+    "street": "Viale San Michele al Carso",
+    "number": "14",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6756913,
+    "longitude": 9.2426049
+  },
+  {
+    "street": "Viale San Michele al Carso",
+    "number": "20",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6750515,
+    "longitude": 9.2426018
+  },
+  {
+    "street": "Via Goito",
+    "number": "29",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.671319,
+    "longitude": 9.2249021
+  },
+  {
+    "street": "Via Solferino",
+    "number": "7",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6740156,
+    "longitude": 9.2304622
+  },
+  {
+    "street": "Via Piemonte",
+    "number": "11",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6607408,
+    "longitude": 9.2306155
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "7",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6622627,
+    "longitude": 9.2305744
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "18",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6620783,
+    "longitude": 9.2333524
+  },
+  {
+    "street": "Via Sardegna",
+    "number": "2",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6575084,
+    "longitude": 9.22433
+  },
+  {
+    "street": "Via San Salvatore",
+    "number": "24",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6609512,
+    "longitude": 9.220064
+  },
+  {
+    "street": "Via Gaetano Donizetti",
+    "number": "12",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6783913,
+    "longitude": 9.2327587
+  },
+  {
+    "street": "Via Rivera",
+    "number": "50",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6630999,
+    "longitude": 9.2362351
+  },
+  {
+    "street": "Via Rivera",
+    "number": "67",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6616403,
+    "longitude": 9.2373123
+  },
+  {
+    "street": "Via Rivera",
+    "number": "69",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6612919,
+    "longitude": 9.2369571
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "54",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6624098,
+    "longitude": 9.2394245
+  },
+  {
+    "street": "Via Tiziano",
+    "number": "11",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6632173,
+    "longitude": 9.2382669
+  },
+  {
+    "street": "Via Rivera",
+    "number": "47",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6650803,
+    "longitude": 9.2382393
+  },
+  {
+    "street": "Via del Dosso",
+    "number": "1",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6657733,
+    "longitude": 9.2365661
+  },
+  {
+    "street": "Via Piemonte",
+    "number": "30",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6596082,
+    "longitude": 9.2313447
+  },
+  {
+    "street": "Via Rivera",
+    "number": "34",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.660758,
+    "longitude": 9.2395118
+  },
+  {
+    "street": "Via Rivera",
+    "number": "115",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6553063,
+    "longitude": 9.2375172
+  },
+  {
+    "street": "Via Tiziano",
+    "number": "7",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6620623,
+    "longitude": 9.2383057
+  },
+  {
+    "street": "Via Rivera",
+    "number": "97",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6568712,
+    "longitude": 9.2370969
+  },
+  {
+    "street": "Via Rivera",
+    "number": "76",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6539379,
+    "longitude": 9.2369994
+  },
+  {
+    "street": "Via Rivera",
+    "number": "55",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6640301,
+    "longitude": 9.2389633
+  },
+  {
+    "street": "Via Tiziano",
+    "number": "19",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6638999,
+    "longitude": 9.2400022
+  },
+  {
+    "street": "Via Rivera",
+    "number": "60",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6575301,
+    "longitude": 9.2355914
+  },
+  {
+    "street": "Via Piemonte",
+    "number": "14",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6600035,
+    "longitude": 9.228574
+  },
+  {
+    "street": "Via della Valle",
+    "number": "67b",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6580192,
+    "longitude": 9.226156
+  },
+  {
+    "street": "Via del Valà",
+    "number": "22",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6597592,
+    "longitude": 9.2374333
+  },
+  {
+    "street": "Via Tiziano",
+    "number": "5",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6616804,
+    "longitude": 9.2382386
+  },
+  {
+    "street": "Via Rivera",
+    "number": "65",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.661992,
+    "longitude": 9.2373274
+  },
+  {
+    "street": "Via Rivera",
+    "number": "53",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6646699,
+    "longitude": 9.2380944
+  },
+  {
+    "street": "Via Rivera",
+    "number": "77",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.660557,
+    "longitude": 9.2374542
+  },
+  {
+    "street": "Via Piemonte",
+    "number": "3/bis",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6613531,
+    "longitude": 9.2293955
+  },
+  {
+    "street": "Via del Valà",
+    "number": "21",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6588017,
+    "longitude": 9.237216
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "64",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6602752,
+    "longitude": 9.2397068
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "24",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6659267,
+    "longitude": 9.2350883
+  },
+  {
+    "street": "Via Tiziano",
+    "number": "2",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6612393,
+    "longitude": 9.2392707
+  },
+  {
+    "street": "Via Campaccio",
+    "number": "25",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6574823,
+    "longitude": 9.222043
+  },
+  {
+    "street": "Via Sant'Ambrogio",
+    "number": "32",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6755155,
+    "longitude": 9.2349822
+  },
+  {
+    "street": "Via del Valà",
+    "number": "17",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6589713,
+    "longitude": 9.2386665
+  },
+  {
+    "street": "Via Ortigara",
+    "number": "6",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6774317,
+    "longitude": 9.2454498
+  },
+  {
+    "street": "Piazza caduti per la Liberazione",
+    "number": "2",
+    "city": {
+      "name": "Carate Brianza",
+      "istat": "108015"
+    },
+    "latitude": 45.6776137,
+    "longitude": 9.2384057
+  }
+]

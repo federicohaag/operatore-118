@@ -1,0 +1,32 @@
+[
+  {
+    "street": "Via Roma",
+    "number": "33",
+    "city": {
+      "name": "Oltrona di San Mamette",
+      "istat": "013169"
+    },
+    "latitude": 45.7558175,
+    "longitude": 8.9793102
+  },
+  {
+    "street": "Via Roma",
+    "number": "11",
+    "city": {
+      "name": "Oltrona di San Mamette",
+      "istat": "013169"
+    },
+    "latitude": 45.7562021,
+    "longitude": 8.9770919
+  },
+  {
+    "street": "Via Roma",
+    "number": "77",
+    "city": {
+      "name": "Oltrona di San Mamette",
+      "istat": "013169"
+    },
+    "latitude": 45.756394,
+    "longitude": 8.9840717
+  }
+]

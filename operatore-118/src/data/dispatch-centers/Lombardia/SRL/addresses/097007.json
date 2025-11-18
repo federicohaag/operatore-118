@@ -1,0 +1,382 @@
+[
+  {
+    "street": "Piazza Garibaldi",
+    "number": "2",
+    "city": {
+      "name": "Barzio",
+      "istat": "097007"
+    },
+    "latitude": 45.9463717,
+    "longitude": 9.4684906
+  },
+  {
+    "street": "Piazza Garibaldi",
+    "number": "10",
+    "city": {
+      "name": "Barzio",
+      "istat": "097007"
+    },
+    "latitude": 45.9463907,
+    "longitude": 9.4690926
+  },
+  {
+    "street": "Via Martiri Patrioti Barziesi",
+    "number": "36",
+    "city": {
+      "name": "Barzio",
+      "istat": "097007"
+    },
+    "latitude": 45.9462149,
+    "longitude": 9.4667626
+  },
+  {
+    "street": "Via Martiri Patrioti Barziesi",
+    "number": "22",
+    "city": {
+      "name": "Barzio",
+      "istat": "097007"
+    },
+    "latitude": 45.9460242,
+    "longitude": 9.4672198
+  },
+  {
+    "street": "Via Milano",
+    "number": "1",
+    "city": {
+      "name": "Barzio",
+      "istat": "097007"
+    },
+    "latitude": 45.9460811,
+    "longitude": 9.4664438
+  },
+  {
+    "street": "Via Milano",
+    "number": "4",
+    "city": {
+      "name": "Barzio",
+      "istat": "097007"
+    },
+    "latitude": 45.9458563,
+    "longitude": 9.465288
+  },
+  {
+    "street": "Via Roma",
+    "number": "36",
+    "city": {
+      "name": "Barzio",
+      "istat": "097007"
+    },
+    "latitude": 45.9448469,
+    "longitude": 9.4682054
+  },
+  {
+    "street": "Via Tranquillo Baruffaldi",
+    "number": "4",
+    "city": {
+      "name": "Barzio",
+      "istat": "097007"
+    },
+    "latitude": 45.9470163,
+    "longitude": 9.4679817
+  },
+  {
+    "street": "Via Milano",
+    "number": "49",
+    "city": {
+      "name": "Barzio",
+      "istat": "097007"
+    },
+    "latitude": 45.9385506,
+    "longitude": 9.4592386
+  },
+  {
+    "street": "Via Luigi Corsi",
+    "number": "8",
+    "city": {
+      "name": "Barzio",
+      "istat": "097007"
+    },
+    "latitude": 45.9437146,
+    "longitude": 9.4698546
+  },
+  {
+    "street": "Via dell'Assunta",
+    "number": "1",
+    "city": {
+      "name": "Barzio",
+      "istat": "097007"
+    },
+    "latitude": 45.9429106,
+    "longitude": 9.4782997
+  },
+  {
+    "street": "Via Roma",
+    "number": "4",
+    "city": {
+      "name": "Barzio",
+      "istat": "097007"
+    },
+    "latitude": 45.9445245,
+    "longitude": 9.468274
+  },
+  {
+    "street": "Via per Concenedo",
+    "number": "15",
+    "city": {
+      "name": "Barzio",
+      "istat": "097007"
+    },
+    "latitude": 45.9446481,
+    "longitude": 9.4726044
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "14A",
+    "city": {
+      "name": "Barzio",
+      "istat": "097007"
+    },
+    "latitude": 45.9478749,
+    "longitude": 9.4529193
+  },
+  {
+    "street": "Via Milano",
+    "number": "2",
+    "city": {
+      "name": "Barzio",
+      "istat": "097007"
+    },
+    "latitude": 45.946193,
+    "longitude": 9.4657934
+  },
+  {
+    "street": "Via Milano",
+    "number": "30",
+    "city": {
+      "name": "Barzio",
+      "istat": "097007"
+    },
+    "latitude": 45.9455082,
+    "longitude": 9.4642377
+  },
+  {
+    "street": "Via Milano",
+    "number": "22",
+    "city": {
+      "name": "Barzio",
+      "istat": "097007"
+    },
+    "latitude": 45.9455393,
+    "longitude": 9.4647596
+  },
+  {
+    "street": "Via Milano",
+    "number": "24",
+    "city": {
+      "name": "Barzio",
+      "istat": "097007"
+    },
+    "latitude": 45.9458769,
+    "longitude": 9.4647086
+  },
+  {
+    "street": "Via Milano",
+    "number": "26",
+    "city": {
+      "name": "Barzio",
+      "istat": "097007"
+    },
+    "latitude": 45.9459067,
+    "longitude": 9.4644162
+  },
+  {
+    "street": "Via Milano",
+    "number": "36",
+    "city": {
+      "name": "Barzio",
+      "istat": "097007"
+    },
+    "latitude": 45.9450429,
+    "longitude": 9.4645949
+  },
+  {
+    "street": "Via Milano",
+    "number": "32",
+    "city": {
+      "name": "Barzio",
+      "istat": "097007"
+    },
+    "latitude": 45.9452417,
+    "longitude": 9.4645316
+  },
+  {
+    "street": "Via Milano",
+    "number": "38",
+    "city": {
+      "name": "Barzio",
+      "istat": "097007"
+    },
+    "latitude": 45.9451383,
+    "longitude": 9.4643197
+  },
+  {
+    "street": "Via Milano",
+    "number": "40",
+    "city": {
+      "name": "Barzio",
+      "istat": "097007"
+    },
+    "latitude": 45.9449788,
+    "longitude": 9.4640152
+  },
+  {
+    "street": "Via Milano",
+    "number": "19",
+    "city": {
+      "name": "Barzio",
+      "istat": "097007"
+    },
+    "latitude": 45.9449649,
+    "longitude": 9.4655704
+  },
+  {
+    "street": "Via Fornace Merlo",
+    "number": "2",
+    "city": {
+      "name": "Barzio",
+      "istat": "097007"
+    },
+    "latitude": 45.9421819,
+    "longitude": 9.4533949
+  },
+  {
+    "street": "Via Colagro",
+    "number": "7",
+    "city": {
+      "name": "Barzio",
+      "istat": "097007"
+    },
+    "latitude": 45.9435804,
+    "longitude": 9.4767052
+  },
+  {
+    "street": "Via dell'Assunta",
+    "number": "5",
+    "city": {
+      "name": "Barzio",
+      "istat": "097007"
+    },
+    "latitude": 45.9430879,
+    "longitude": 9.4780255
+  },
+  {
+    "street": "Via per Moggio",
+    "number": "23",
+    "city": {
+      "name": "Barzio",
+      "istat": "097007"
+    },
+    "latitude": 45.9388864,
+    "longitude": 9.4805242
+  },
+  {
+    "street": "Via dell'Assunta",
+    "number": "10",
+    "city": {
+      "name": "Barzio",
+      "istat": "097007"
+    },
+    "latitude": 45.9434362,
+    "longitude": 9.4780545
+  },
+  {
+    "street": "Via Privata Cantello",
+    "number": "7",
+    "city": {
+      "name": "Barzio",
+      "istat": "097007"
+    },
+    "latitude": 45.9390082,
+    "longitude": 9.4770568
+  },
+  {
+    "street": "Via Privata Cantello",
+    "number": "8",
+    "city": {
+      "name": "Barzio",
+      "istat": "097007"
+    },
+    "latitude": 45.9388382,
+    "longitude": 9.4775772
+  },
+  {
+    "street": "Via Privata Cantello",
+    "number": "5",
+    "city": {
+      "name": "Barzio",
+      "istat": "097007"
+    },
+    "latitude": 45.9385234,
+    "longitude": 9.4770138
+  },
+  {
+    "street": "Via Privata Cantello",
+    "number": "4",
+    "city": {
+      "name": "Barzio",
+      "istat": "097007"
+    },
+    "latitude": 45.9387546,
+    "longitude": 9.4779684
+  },
+  {
+    "street": "Via Privata Cantello",
+    "number": "2",
+    "city": {
+      "name": "Barzio",
+      "istat": "097007"
+    },
+    "latitude": 45.9385898,
+    "longitude": 9.478388
+  },
+  {
+    "street": "Via Dante",
+    "number": "5",
+    "city": {
+      "name": "Barzio",
+      "istat": "097007"
+    },
+    "latitude": 45.9470175,
+    "longitude": 9.4670143
+  },
+  {
+    "street": "Via Pioverna",
+    "number": "3/1",
+    "city": {
+      "name": "Barzio",
+      "istat": "097007"
+    },
+    "latitude": 45.9353679,
+    "longitude": 9.4567432
+  },
+  {
+    "street": "Via per Concenedo",
+    "number": "54",
+    "city": {
+      "name": "Barzio",
+      "istat": "097007"
+    },
+    "latitude": 45.935626,
+    "longitude": 9.4822812
+  },
+  {
+    "street": "Via per Moggio",
+    "number": "16",
+    "city": {
+      "name": "Barzio",
+      "istat": "097007"
+    },
+    "latitude": 45.9413024,
+    "longitude": 9.4787448
+  }
+]

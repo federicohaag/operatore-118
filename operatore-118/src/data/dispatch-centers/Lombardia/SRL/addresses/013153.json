@@ -1,0 +1,192 @@
+[
+  {
+    "street": "Via Chiesa",
+    "number": "9",
+    "city": {
+      "name": "Monguzzo",
+      "istat": "013153"
+    },
+    "latitude": 45.7779545,
+    "longitude": 9.2297707
+  },
+  {
+    "street": "Via Roma",
+    "number": "17",
+    "city": {
+      "name": "Monguzzo",
+      "istat": "013153"
+    },
+    "latitude": 45.7782816,
+    "longitude": 9.2337297
+  },
+  {
+    "street": "Via Roma",
+    "number": "15",
+    "city": {
+      "name": "Monguzzo",
+      "istat": "013153"
+    },
+    "latitude": 45.7782441,
+    "longitude": 9.2338975
+  },
+  {
+    "street": "Via Adua",
+    "number": "3",
+    "city": {
+      "name": "Monguzzo",
+      "istat": "013153"
+    },
+    "latitude": 45.7788712,
+    "longitude": 9.2356775
+  },
+  {
+    "street": "Via Valassina",
+    "number": "18 C\\4",
+    "city": {
+      "name": "Monguzzo",
+      "istat": "013153"
+    },
+    "latitude": 45.7805455,
+    "longitude": 9.236229
+  },
+  {
+    "street": "Via per Anzano",
+    "number": "3",
+    "city": {
+      "name": "Monguzzo",
+      "istat": "013153"
+    },
+    "latitude": 45.7773663,
+    "longitude": 9.2249593
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "2",
+    "city": {
+      "name": "Monguzzo",
+      "istat": "013153"
+    },
+    "latitude": 45.7787002,
+    "longitude": 9.2278126
+  },
+  {
+    "street": "Via Buerga",
+    "number": "11",
+    "city": {
+      "name": "Monguzzo",
+      "istat": "013153"
+    },
+    "latitude": 45.7874086,
+    "longitude": 9.2386153
+  },
+  {
+    "street": "Via Fiume",
+    "number": "16",
+    "city": {
+      "name": "Monguzzo",
+      "istat": "013153"
+    },
+    "latitude": 45.7780376,
+    "longitude": 9.2354575
+  },
+  {
+    "street": "Via Chiesa",
+    "number": "14",
+    "city": {
+      "name": "Monguzzo",
+      "istat": "013153"
+    },
+    "latitude": 45.7785015,
+    "longitude": 9.2301589
+  },
+  {
+    "street": "Via Buerga",
+    "number": "6",
+    "city": {
+      "name": "Monguzzo",
+      "istat": "013153"
+    },
+    "latitude": 45.7878122,
+    "longitude": 9.2376411
+  },
+  {
+    "street": "Via Buerga",
+    "number": "8",
+    "city": {
+      "name": "Monguzzo",
+      "istat": "013153"
+    },
+    "latitude": 45.7878781,
+    "longitude": 9.2370835
+  },
+  {
+    "street": "via Sceria",
+    "number": "6",
+    "city": {
+      "name": "Monguzzo",
+      "istat": "013153"
+    },
+    "latitude": 45.7784689,
+    "longitude": 9.2322729
+  },
+  {
+    "street": "Via Chiesa",
+    "number": "16",
+    "city": {
+      "name": "Monguzzo",
+      "istat": "013153"
+    },
+    "latitude": 45.7785456,
+    "longitude": 9.2292216
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "1",
+    "city": {
+      "name": "Monguzzo",
+      "istat": "013153"
+    },
+    "latitude": 45.7808304,
+    "longitude": 9.2400909
+  },
+  {
+    "street": "Via Vallassina",
+    "number": "20",
+    "city": {
+      "name": "Monguzzo",
+      "istat": "013153"
+    },
+    "latitude": 45.7796022,
+    "longitude": 9.2349151
+  },
+  {
+    "street": "Via Vallassina",
+    "number": "22/24",
+    "city": {
+      "name": "Monguzzo",
+      "istat": "013153"
+    },
+    "latitude": 45.778027,
+    "longitude": 9.2321822
+  },
+  {
+    "street": "Via Vallassina",
+    "number": "26",
+    "city": {
+      "name": "Monguzzo",
+      "istat": "013153"
+    },
+    "latitude": 45.7735925,
+    "longitude": 9.2296205
+  },
+  {
+    "street": "Via Santuario",
+    "number": "11",
+    "city": {
+      "name": "Monguzzo",
+      "istat": "013153"
+    },
+    "latitude": 45.7828846,
+    "longitude": 9.2322241
+  }
+]

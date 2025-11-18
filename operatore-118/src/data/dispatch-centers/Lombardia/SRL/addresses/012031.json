@@ -1,0 +1,132 @@
+[
+  {
+    "street": "Via Prato",
+    "number": "1",
+    "city": {
+      "name": "Caravate",
+      "istat": "012031"
+    },
+    "latitude": 45.8784175,
+    "longitude": 8.6546508
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "6",
+    "city": {
+      "name": "Caravate",
+      "istat": "012031"
+    },
+    "latitude": 45.8830088,
+    "longitude": 8.6631178
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "80",
+    "city": {
+      "name": "Caravate",
+      "istat": "012031"
+    },
+    "latitude": 45.8794532,
+    "longitude": 8.6645477
+  },
+  {
+    "street": "Località San Clemente",
+    "number": "2",
+    "city": {
+      "name": "Caravate",
+      "istat": "012031"
+    },
+    "latitude": 45.8850784,
+    "longitude": 8.6441213
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "25",
+    "city": {
+      "name": "Caravate",
+      "istat": "012031"
+    },
+    "latitude": 45.8744046,
+    "longitude": 8.6509044
+  },
+  {
+    "street": "Piazza Giuseppe Garibaldi",
+    "number": "18",
+    "city": {
+      "name": "Caravate",
+      "istat": "012031"
+    },
+    "latitude": 45.8777551,
+    "longitude": 8.6523677
+  },
+  {
+    "street": "Località San Clemente",
+    "number": "5",
+    "city": {
+      "name": "Caravate",
+      "istat": "012031"
+    },
+    "latitude": 45.8858194,
+    "longitude": 8.6431306
+  },
+  {
+    "street": "Via 1° Maggio",
+    "number": "13",
+    "city": {
+      "name": "Caravate",
+      "istat": "012031"
+    },
+    "latitude": 45.8865706,
+    "longitude": 8.665601
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "22",
+    "city": {
+      "name": "Caravate",
+      "istat": "012031"
+    },
+    "latitude": 45.8783854,
+    "longitude": 8.6539326
+  },
+  {
+    "street": "Via Vincenzo Monti",
+    "number": "2",
+    "city": {
+      "name": "Caravate",
+      "istat": "012031"
+    },
+    "latitude": 45.8794144,
+    "longitude": 8.6591395
+  },
+  {
+    "street": "Località San Clemente",
+    "number": "4",
+    "city": {
+      "name": "Caravate",
+      "istat": "012031"
+    },
+    "latitude": 45.8851025,
+    "longitude": 8.644287
+  },
+  {
+    "street": "Località San Clemente",
+    "number": "3",
+    "city": {
+      "name": "Caravate",
+      "istat": "012031"
+    },
+    "latitude": 45.8851056,
+    "longitude": 8.6439337
+  },
+  {
+    "street": "Località San Clemente",
+    "number": "1",
+    "city": {
+      "name": "Caravate",
+      "istat": "012031"
+    },
+    "latitude": 45.8849668,
+    "longitude": 8.6432488
+  }
+]

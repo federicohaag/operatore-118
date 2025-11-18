@@ -1,0 +1,242 @@
+[
+  {
+    "street": "Via Nazionale",
+    "number": "5",
+    "city": {
+      "name": "Calco",
+      "istat": "097012"
+    },
+    "latitude": 45.719035,
+    "longitude": 9.409339
+  },
+  {
+    "street": "Via Nazionale",
+    "number": "59",
+    "city": {
+      "name": "Calco",
+      "istat": "097012"
+    },
+    "latitude": 45.725727,
+    "longitude": 9.415482
+  },
+  {
+    "street": "Largo Pomeo",
+    "number": "6",
+    "city": {
+      "name": "Calco",
+      "istat": "097012"
+    },
+    "latitude": 45.7246063,
+    "longitude": 9.4155507
+  },
+  {
+    "street": "Largo Pomeo",
+    "number": "4c",
+    "city": {
+      "name": "Calco",
+      "istat": "097012"
+    },
+    "latitude": 45.7243277,
+    "longitude": 9.4154109
+  },
+  {
+    "street": "Via Nazionale",
+    "number": "14",
+    "city": {
+      "name": "Calco",
+      "istat": "097012"
+    },
+    "latitude": 45.7210497,
+    "longitude": 9.4124427
+  },
+  {
+    "street": "Via Papa Giovanni XXIII",
+    "number": "15",
+    "city": {
+      "name": "Calco",
+      "istat": "097012"
+    },
+    "latitude": 45.7273435,
+    "longitude": 9.4368864
+  },
+  {
+    "street": "Via Nuova Provinciale",
+    "number": "10",
+    "city": {
+      "name": "Calco",
+      "istat": "097012"
+    },
+    "latitude": 45.7259577,
+    "longitude": 9.4422776
+  },
+  {
+    "street": "Via Nuova Provinciale",
+    "number": "39",
+    "city": {
+      "name": "Calco",
+      "istat": "097012"
+    },
+    "latitude": 45.7206074,
+    "longitude": 9.4457655
+  },
+  {
+    "street": "Via Nuova Provinciale",
+    "number": "33",
+    "city": {
+      "name": "Calco",
+      "istat": "097012"
+    },
+    "latitude": 45.7230802,
+    "longitude": 9.4446877
+  },
+  {
+    "street": "Via Nuova Provinciale",
+    "number": "31",
+    "city": {
+      "name": "Calco",
+      "istat": "097012"
+    },
+    "latitude": 45.7234697,
+    "longitude": 9.4442076
+  },
+  {
+    "street": "Via Nuova Provinciale",
+    "number": "29",
+    "city": {
+      "name": "Calco",
+      "istat": "097012"
+    },
+    "latitude": 45.7235783,
+    "longitude": 9.4441379
+  },
+  {
+    "street": "Via Nuova Provinciale",
+    "number": "21",
+    "city": {
+      "name": "Calco",
+      "istat": "097012"
+    },
+    "latitude": 45.725369,
+    "longitude": 9.4430402
+  },
+  {
+    "street": "Via Nuova Provinciale",
+    "number": "19",
+    "city": {
+      "name": "Calco",
+      "istat": "097012"
+    },
+    "latitude": 45.7254776,
+    "longitude": 9.442961
+  },
+  {
+    "street": "Via Nuova Provinciale",
+    "number": "7",
+    "city": {
+      "name": "Calco",
+      "istat": "097012"
+    },
+    "latitude": 45.727833,
+    "longitude": 9.4420137
+  },
+  {
+    "street": "Via Nuova Provinciale",
+    "number": "5",
+    "city": {
+      "name": "Calco",
+      "istat": "097012"
+    },
+    "latitude": 45.7286933,
+    "longitude": 9.4414942
+  },
+  {
+    "street": "Via Nuova Provinciale",
+    "number": "1",
+    "city": {
+      "name": "Calco",
+      "istat": "097012"
+    },
+    "latitude": 45.7300831,
+    "longitude": 9.4415391
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "17",
+    "city": {
+      "name": "Calco",
+      "istat": "097012"
+    },
+    "latitude": 45.7234716,
+    "longitude": 9.4032429
+  },
+  {
+    "street": "Via Fontana",
+    "number": "30",
+    "city": {
+      "name": "Calco",
+      "istat": "097012"
+    },
+    "latitude": 45.7198329,
+    "longitude": 9.4419137
+  },
+  {
+    "street": "Via Nazionale",
+    "number": "3",
+    "city": {
+      "name": "Calco",
+      "istat": "097012"
+    },
+    "latitude": 45.7182049,
+    "longitude": 9.407649
+  },
+  {
+    "street": "Via Nazionale",
+    "number": "16",
+    "city": {
+      "name": "Calco",
+      "istat": "097012"
+    },
+    "latitude": 45.7213428,
+    "longitude": 9.4134889
+  },
+  {
+    "street": "Via Italia",
+    "number": "29",
+    "city": {
+      "name": "Calco",
+      "istat": "097012"
+    },
+    "latitude": 45.7267712,
+    "longitude": 9.4186872
+  },
+  {
+    "street": "Via Nazionale",
+    "number": "25",
+    "city": {
+      "name": "Calco",
+      "istat": "097012"
+    },
+    "latitude": 45.722057,
+    "longitude": 9.4129096
+  },
+  {
+    "street": "Via Calco Superiore",
+    "number": "1",
+    "city": {
+      "name": "Calco",
+      "istat": "097012"
+    },
+    "latitude": 45.7252089,
+    "longitude": 9.4262943
+  },
+  {
+    "street": "Località Vescogna",
+    "number": "16",
+    "city": {
+      "name": "Calco",
+      "istat": "097012"
+    },
+    "latitude": 45.7236451,
+    "longitude": 9.4255009
+  }
+]

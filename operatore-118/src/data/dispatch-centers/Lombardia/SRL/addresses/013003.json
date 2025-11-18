@@ -1,0 +1,382 @@
+[
+  {
+    "street": "Via Padre Paolo Meroni",
+    "number": "4",
+    "city": {
+      "name": "Albavilla",
+      "istat": "013003"
+    },
+    "latitude": 45.7930952,
+    "longitude": 9.1763219
+  },
+  {
+    "street": "Piazza Giuseppe Garibaldi",
+    "number": "3",
+    "city": {
+      "name": "Albavilla",
+      "istat": "013003"
+    },
+    "latitude": 45.8021565,
+    "longitude": 9.1881162
+  },
+  {
+    "street": "Via Ai Crotti",
+    "number": "39",
+    "city": {
+      "name": "Albavilla",
+      "istat": "013003"
+    },
+    "latitude": 45.8066511,
+    "longitude": 9.1917193
+  },
+  {
+    "street": "Via Pietro Porro",
+    "number": "8",
+    "city": {
+      "name": "Albavilla",
+      "istat": "013003"
+    },
+    "latitude": 45.8025388,
+    "longitude": 9.1923444
+  },
+  {
+    "street": "Piazza Roma",
+    "number": "1",
+    "city": {
+      "name": "Albavilla",
+      "istat": "013003"
+    },
+    "latitude": 45.8024186,
+    "longitude": 9.1877025
+  },
+  {
+    "street": "Via Carcano",
+    "number": "6a",
+    "city": {
+      "name": "Albavilla",
+      "istat": "013003"
+    },
+    "latitude": 45.7958215,
+    "longitude": 9.1897891
+  },
+  {
+    "street": "Via Basso Formiano",
+    "number": "3",
+    "city": {
+      "name": "Albavilla",
+      "istat": "013003"
+    },
+    "latitude": 45.8007056,
+    "longitude": 9.1838942
+  },
+  {
+    "street": "Via Don Felice Ballabio",
+    "number": "11",
+    "city": {
+      "name": "Albavilla",
+      "istat": "013003"
+    },
+    "latitude": 45.801124,
+    "longitude": 9.1840537
+  },
+  {
+    "street": "Via Basso Formiano",
+    "number": "3i",
+    "city": {
+      "name": "Albavilla",
+      "istat": "013003"
+    },
+    "latitude": 45.8008143,
+    "longitude": 9.1837582
+  },
+  {
+    "street": "Via Angelo Bassi",
+    "number": "5",
+    "city": {
+      "name": "Albavilla",
+      "istat": "013003"
+    },
+    "latitude": 45.7967944,
+    "longitude": 9.1930035
+  },
+  {
+    "street": "Via Monte Bolettone",
+    "number": "8",
+    "city": {
+      "name": "Albavilla",
+      "istat": "013003"
+    },
+    "latitude": 45.7967358,
+    "longitude": 9.1850414
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "2",
+    "city": {
+      "name": "Albavilla",
+      "istat": "013003"
+    },
+    "latitude": 45.8026293,
+    "longitude": 9.1887465
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "2",
+    "city": {
+      "name": "Albavilla",
+      "istat": "013003"
+    },
+    "latitude": 45.8026467,
+    "longitude": 9.1887267
+  },
+  {
+    "street": "Via Panoramica",
+    "number": "1",
+    "city": {
+      "name": "Albavilla",
+      "istat": "013003"
+    },
+    "latitude": 45.8073898,
+    "longitude": 9.1943014
+  },
+  {
+    "street": "Via Angelo Bassi",
+    "number": "1",
+    "city": {
+      "name": "Albavilla",
+      "istat": "013003"
+    },
+    "latitude": 45.7969634,
+    "longitude": 9.192161
+  },
+  {
+    "street": "Via della valletta",
+    "number": "1",
+    "city": {
+      "name": "Albavilla",
+      "istat": "013003"
+    },
+    "latitude": 45.7950091,
+    "longitude": 9.1932499
+  },
+  {
+    "street": "Via Milano",
+    "number": "10",
+    "city": {
+      "name": "Albavilla",
+      "istat": "013003"
+    },
+    "latitude": 45.7924105,
+    "longitude": 9.1977704
+  },
+  {
+    "street": "Via delle Grigne",
+    "number": "1",
+    "city": {
+      "name": "Albavilla",
+      "istat": "013003"
+    },
+    "latitude": 45.7970999,
+    "longitude": 9.1954963
+  },
+  {
+    "street": "Via Don Felice Ballabio",
+    "number": "1",
+    "city": {
+      "name": "Albavilla",
+      "istat": "013003"
+    },
+    "latitude": 45.8006907,
+    "longitude": 9.1840577
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "12",
+    "city": {
+      "name": "Albavilla",
+      "istat": "013003"
+    },
+    "latitude": 45.8026972,
+    "longitude": 9.1889911
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "26",
+    "city": {
+      "name": "Albavilla",
+      "istat": "013003"
+    },
+    "latitude": 45.802865,
+    "longitude": 9.1892466
+  },
+  {
+    "street": "Via Milano",
+    "number": "28",
+    "city": {
+      "name": "Albavilla",
+      "istat": "013003"
+    },
+    "latitude": 45.7888854,
+    "longitude": 9.1969073
+  },
+  {
+    "street": "Via Milano",
+    "number": "30",
+    "city": {
+      "name": "Albavilla",
+      "istat": "013003"
+    },
+    "latitude": 45.7881632,
+    "longitude": 9.1966199
+  },
+  {
+    "street": "Via Milano",
+    "number": "32",
+    "city": {
+      "name": "Albavilla",
+      "istat": "013003"
+    },
+    "latitude": 45.7879999,
+    "longitude": 9.1964541
+  },
+  {
+    "street": "Via Padre Paolo Meroni",
+    "number": "4c",
+    "city": {
+      "name": "Albavilla",
+      "istat": "013003"
+    },
+    "latitude": 45.7932801,
+    "longitude": 9.176599
+  },
+  {
+    "street": "Via Milano",
+    "number": "15",
+    "city": {
+      "name": "Albavilla",
+      "istat": "013003"
+    },
+    "latitude": 45.7913332,
+    "longitude": 9.1982088
+  },
+  {
+    "street": "Via Don Carlo Belloni",
+    "number": "2",
+    "city": {
+      "name": "Albavilla",
+      "istat": "013003"
+    },
+    "latitude": 45.7899296,
+    "longitude": 9.2028618
+  },
+  {
+    "street": "10A",
+    "number": "10A",
+    "city": {
+      "name": "Albavilla",
+      "istat": "013003"
+    },
+    "latitude": 45.796,
+    "longitude": 9.185285
+  },
+  {
+    "street": "15",
+    "number": "15",
+    "city": {
+      "name": "Albavilla",
+      "istat": "013003"
+    },
+    "latitude": 45.7960458,
+    "longitude": 9.1856018
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "17",
+    "city": {
+      "name": "Albavilla",
+      "istat": "013003"
+    },
+    "latitude": 45.8013586,
+    "longitude": 9.1904898
+  },
+  {
+    "street": "Via Cavour",
+    "number": "13",
+    "city": {
+      "name": "Albavilla",
+      "istat": "013003"
+    },
+    "latitude": 45.803791,
+    "longitude": 9.189522
+  },
+  {
+    "street": "Via Milano",
+    "number": "34",
+    "city": {
+      "name": "Albavilla",
+      "istat": "013003"
+    },
+    "latitude": 45.787721,
+    "longitude": 9.195958
+  },
+  {
+    "street": "Via Milano",
+    "number": "24",
+    "city": {
+      "name": "Albavilla",
+      "istat": "013003"
+    },
+    "latitude": 45.7899145,
+    "longitude": 9.19704
+  },
+  {
+    "street": "Via Milano",
+    "number": "26",
+    "city": {
+      "name": "Albavilla",
+      "istat": "013003"
+    },
+    "latitude": 45.789354,
+    "longitude": 9.196981
+  },
+  {
+    "street": "Via Pietro Porro",
+    "number": "16",
+    "city": {
+      "name": "Albavilla",
+      "istat": "013003"
+    },
+    "latitude": 45.803803,
+    "longitude": 9.1948228
+  },
+  {
+    "street": "Via Civati",
+    "number": "29",
+    "city": {
+      "name": "Albavilla",
+      "istat": "013003"
+    },
+    "latitude": 45.7949787,
+    "longitude": 9.1797961
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "14",
+    "city": {
+      "name": "Albavilla",
+      "istat": "013003"
+    },
+    "latitude": 45.8028402,
+    "longitude": 9.1863112
+  },
+  {
+    "street": "Via Andrea Parravicini",
+    "number": "8",
+    "city": {
+      "name": "Albavilla",
+      "istat": "013003"
+    },
+    "latitude": 45.7877637,
+    "longitude": 9.1798183
+  }
+]

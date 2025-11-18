@@ -1,0 +1,1792 @@
+[
+  {
+    "street": "Via Lungolario Polti",
+    "number": "13",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1375773,
+    "longitude": 9.3682663
+  },
+  {
+    "street": "Via Nazionale",
+    "number": "121",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1395727,
+    "longitude": 9.3817933
+  },
+  {
+    "street": "Via Montecchio Nord",
+    "number": "2",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1371336,
+    "longitude": 9.3710587
+  },
+  {
+    "street": "Via Abbazia di Piona",
+    "number": "55",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1236322,
+    "longitude": 9.3302025
+  },
+  {
+    "street": "Via Montecchio Nord",
+    "number": "27",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1421054,
+    "longitude": 9.3743217
+  },
+  {
+    "street": "Via Bizzanelli",
+    "number": "22",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1328609,
+    "longitude": 9.40433
+  },
+  {
+    "street": "Via Nazionale Sud",
+    "number": "28",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1330421,
+    "longitude": 9.3660563
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "6/a",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.136305,
+    "longitude": 9.3702154
+  },
+  {
+    "street": "Via Nazionale",
+    "number": "48",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1364136,
+    "longitude": 9.3729808
+  },
+  {
+    "street": "Via Nazionale",
+    "number": "50",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1364704,
+    "longitude": 9.3730908
+  },
+  {
+    "street": "Via Campera",
+    "number": "1",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1309116,
+    "longitude": 9.3657515
+  },
+  {
+    "street": "Via Montecchio Nord",
+    "number": "32",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1376935,
+    "longitude": 9.3721785
+  },
+  {
+    "street": "Via Logasc",
+    "number": "5",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1238891,
+    "longitude": 9.3472387
+  },
+  {
+    "street": "Via Cipollina",
+    "number": "2",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1347841,
+    "longitude": 9.3698356
+  },
+  {
+    "street": "Via Cipollina",
+    "number": "4",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1344764,
+    "longitude": 9.3701441
+  },
+  {
+    "street": "Via Cipollina",
+    "number": "6",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1343682,
+    "longitude": 9.3702413
+  },
+  {
+    "street": "Via Cipollina",
+    "number": "8",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1341842,
+    "longitude": 9.3703902
+  },
+  {
+    "street": "Via Nazionale",
+    "number": "120",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1374163,
+    "longitude": 9.3751544
+  },
+  {
+    "street": "Via al Confine",
+    "number": "16",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1353777,
+    "longitude": 9.4086278
+  },
+  {
+    "street": "Vicolo la Caseta",
+    "number": "7",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1261882,
+    "longitude": 9.3533355
+  },
+  {
+    "street": "Via Laghetto",
+    "number": "15",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1233635,
+    "longitude": 9.3547511
+  },
+  {
+    "street": "Via Laghetto",
+    "number": "9",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1234476,
+    "longitude": 9.3555761
+  },
+  {
+    "street": "Via Laghetto",
+    "number": "11",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1235306,
+    "longitude": 9.3552389
+  },
+  {
+    "street": "Via Laghetto",
+    "number": "7",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1233997,
+    "longitude": 9.3557898
+  },
+  {
+    "street": "Via Nazionale",
+    "number": "52",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.136474,
+    "longitude": 9.3732022
+  },
+  {
+    "street": "Via Laghetto",
+    "number": "39B",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1231556,
+    "longitude": 9.3522086
+  },
+  {
+    "street": "Via Laghetto",
+    "number": "39A",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1231514,
+    "longitude": 9.3522387
+  },
+  {
+    "street": "Via Laghetto",
+    "number": "39C",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1231579,
+    "longitude": 9.3521916
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "5A",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1365115,
+    "longitude": 9.3696912
+  },
+  {
+    "street": "Via Laghetto",
+    "number": "1",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1235214,
+    "longitude": 9.3589545
+  },
+  {
+    "street": "Via Bassana",
+    "number": "6",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1270206,
+    "longitude": 9.3784527
+  },
+  {
+    "street": "Via Bassana",
+    "number": "14",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1271335,
+    "longitude": 9.3784247
+  },
+  {
+    "street": "Via Bassana",
+    "number": "4",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1270307,
+    "longitude": 9.378435
+  },
+  {
+    "street": "Via Bassana",
+    "number": "8",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1269367,
+    "longitude": 9.3786441
+  },
+  {
+    "street": "Via Bassana",
+    "number": "2",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1271125,
+    "longitude": 9.3782686
+  },
+  {
+    "street": "Via Forte Fuentes",
+    "number": "33",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1490621,
+    "longitude": 9.4002411
+  },
+  {
+    "street": "Via Alpe Rossa",
+    "number": "3",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1218596,
+    "longitude": 9.3880125
+  },
+  {
+    "street": "Via Abbazia di Piona",
+    "number": "57",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1237834,
+    "longitude": 9.3302311
+  },
+  {
+    "street": "Via dei Ciacc",
+    "number": "1",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.130859,
+    "longitude": 9.3581708
+  },
+  {
+    "street": "Via dei Ciacc",
+    "number": "16",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1238452,
+    "longitude": 9.3479538
+  },
+  {
+    "street": "Via dei Ciacc",
+    "number": "5",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1236864,
+    "longitude": 9.3482057
+  },
+  {
+    "street": "Via dei Ciacc",
+    "number": "14",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1239302,
+    "longitude": 9.3479982
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "18",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.136859,
+    "longitude": 9.3697321
+  },
+  {
+    "street": "Via Laghetto",
+    "number": "39",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1231005,
+    "longitude": 9.3524156
+  },
+  {
+    "street": "Via Vignolo",
+    "number": "11",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1224257,
+    "longitude": 9.3484755
+  },
+  {
+    "street": "Via dei Ciacc",
+    "number": "12",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1240745,
+    "longitude": 9.3480644
+  },
+  {
+    "street": "Via Renzo Neri",
+    "number": "3 E",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1216339,
+    "longitude": 9.3517517
+  },
+  {
+    "street": "Via al Confine",
+    "number": "6",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1393361,
+    "longitude": 9.3956352
+  },
+  {
+    "street": "Via Nazionale",
+    "number": "20C",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1354744,
+    "longitude": 9.3711661
+  },
+  {
+    "street": "Via Nazionale",
+    "number": "22A",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1354225,
+    "longitude": 9.3712387
+  },
+  {
+    "street": "Via Nazionale",
+    "number": "22C",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.135466,
+    "longitude": 9.3712367
+  },
+  {
+    "street": "Via Nazionale",
+    "number": "22",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1354201,
+    "longitude": 9.3712109
+  },
+  {
+    "street": "Via Nazionale",
+    "number": "20D",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1354501,
+    "longitude": 9.371184
+  },
+  {
+    "street": "Via Nazionale",
+    "number": "22B",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1354432,
+    "longitude": 9.3712505
+  },
+  {
+    "street": "Via Nazionale",
+    "number": "22D",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1354899,
+    "longitude": 9.3712117
+  },
+  {
+    "street": "Via Muncipio",
+    "number": "45",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.135819,
+    "longitude": 9.3741968
+  },
+  {
+    "street": "Via Nazionale",
+    "number": "4",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1367355,
+    "longitude": 9.3742571
+  },
+  {
+    "street": "Via Villatico",
+    "number": "48",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1333719,
+    "longitude": 9.3717978
+  },
+  {
+    "street": "Piazza Giuseppe Garibaldi",
+    "number": "2",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1369793,
+    "longitude": 9.3707745
+  },
+  {
+    "street": "Via alle Torri",
+    "number": "11",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1386959,
+    "longitude": 9.3741891
+  },
+  {
+    "street": "Via alle Torri",
+    "number": "7",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.138624,
+    "longitude": 9.3739364
+  },
+  {
+    "street": "Via alle Torri",
+    "number": "5",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1385939,
+    "longitude": 9.3737454
+  },
+  {
+    "street": "Via alle Torri",
+    "number": "9",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.138682,
+    "longitude": 9.3741461
+  },
+  {
+    "street": "Via alle Torri",
+    "number": "3",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1385924,
+    "longitude": 9.3734665
+  },
+  {
+    "street": "Via Vitali",
+    "number": "28",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1347729,
+    "longitude": 9.3739295
+  },
+  {
+    "street": "Via Vitali",
+    "number": "30",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1347429,
+    "longitude": 9.3739592
+  },
+  {
+    "street": "Via Montecchio Nord",
+    "number": "21",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1385455,
+    "longitude": 9.3725588
+  },
+  {
+    "street": "Via Nazionale",
+    "number": "176",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1389997,
+    "longitude": 9.3798927
+  },
+  {
+    "street": "Via Vitali",
+    "number": "11",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1349599,
+    "longitude": 9.3737724
+  },
+  {
+    "street": "Piazza Giuseppe Garibaldi",
+    "number": "26",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.137072,
+    "longitude": 9.3690439
+  },
+  {
+    "street": "Via Logasc",
+    "number": "8",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.123891,
+    "longitude": 9.3472741
+  },
+  {
+    "street": "Via Logasc",
+    "number": "2",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1235553,
+    "longitude": 9.3495127
+  },
+  {
+    "street": "Via Logasc",
+    "number": "3",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1236533,
+    "longitude": 9.348857
+  },
+  {
+    "street": "Via Forte Fuentes",
+    "number": "29",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.148401,
+    "longitude": 9.399633
+  },
+  {
+    "street": "Via al Torrente",
+    "number": "15",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1329816,
+    "longitude": 9.3709973
+  },
+  {
+    "street": "Via al Torrente",
+    "number": "3",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1335151,
+    "longitude": 9.370945
+  },
+  {
+    "street": "Via al Torrente",
+    "number": "19",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1329328,
+    "longitude": 9.3710223
+  },
+  {
+    "street": "Via al Torrente",
+    "number": "1",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1336262,
+    "longitude": 9.3707597
+  },
+  {
+    "street": "Via al Torrente",
+    "number": "7",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1331657,
+    "longitude": 9.3709328
+  },
+  {
+    "street": "Via al Torrente",
+    "number": "13",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1330315,
+    "longitude": 9.3709791
+  },
+  {
+    "street": "Via Villatico",
+    "number": "16",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1347163,
+    "longitude": 9.3712496
+  },
+  {
+    "street": "Via Villatico",
+    "number": "14",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.134762,
+    "longitude": 9.3712611
+  },
+  {
+    "street": "Via Vitali",
+    "number": "15",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1346612,
+    "longitude": 9.374141
+  },
+  {
+    "street": "Via Corte",
+    "number": "21",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1267244,
+    "longitude": 9.3546095
+  },
+  {
+    "street": "Via Corte",
+    "number": "38",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1269509,
+    "longitude": 9.3546118
+  },
+  {
+    "street": "Via Corte",
+    "number": "36",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1268305,
+    "longitude": 9.3547181
+  },
+  {
+    "street": "Via Corte",
+    "number": "20",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1248958,
+    "longitude": 9.3549766
+  },
+  {
+    "street": "Via Corte",
+    "number": "24",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1252884,
+    "longitude": 9.3549716
+  },
+  {
+    "street": "Via Corte",
+    "number": "15",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1251205,
+    "longitude": 9.3549325
+  },
+  {
+    "street": "Via Corte",
+    "number": "32",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1257196,
+    "longitude": 9.3549303
+  },
+  {
+    "street": "Via Corte",
+    "number": "6",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1258592,
+    "longitude": 9.3549792
+  },
+  {
+    "street": "Via Corte",
+    "number": "14",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1247255,
+    "longitude": 9.3550315
+  },
+  {
+    "street": "Via Corte",
+    "number": "26",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1253351,
+    "longitude": 9.3548864
+  },
+  {
+    "street": "Via Corte",
+    "number": "28B",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1255382,
+    "longitude": 9.3548776
+  },
+  {
+    "street": "Via Corte",
+    "number": "22",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1252547,
+    "longitude": 9.3550332
+  },
+  {
+    "street": "Via Corte",
+    "number": "3",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.124611,
+    "longitude": 9.3550175
+  },
+  {
+    "street": "Via al Trivio",
+    "number": "10",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1449783,
+    "longitude": 9.4089748
+  },
+  {
+    "street": "Via Nazionale Nord",
+    "number": "21/A",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1407962,
+    "longitude": 9.3907315
+  },
+  {
+    "street": "Via Nazionale Nord",
+    "number": "28",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1426966,
+    "longitude": 9.4023467
+  },
+  {
+    "street": "Via Nazionale Nord",
+    "number": "49",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1431807,
+    "longitude": 9.4008091
+  },
+  {
+    "street": "Via Legnone",
+    "number": "4",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1358253,
+    "longitude": 9.3723106
+  },
+  {
+    "street": "Via Luigi Sacco",
+    "number": "5",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1360576,
+    "longitude": 9.3712142
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "16",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1243628,
+    "longitude": 9.3764035
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "22",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1242325,
+    "longitude": 9.3766014
+  },
+  {
+    "street": "Via Prati della Rosa",
+    "number": "17",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1410954,
+    "longitude": 9.4077619
+  },
+  {
+    "street": "Via Bassana",
+    "number": "46",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1297651,
+    "longitude": 9.3819939
+  },
+  {
+    "street": "Via Lungolario Polti",
+    "number": "1",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1371179,
+    "longitude": 9.3682802
+  },
+  {
+    "street": "Via Bassana",
+    "number": "12",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1269704,
+    "longitude": 9.3787536
+  },
+  {
+    "street": "Via Municipio",
+    "number": "45",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.135679,
+    "longitude": 9.3743484
+  },
+  {
+    "street": "Via Nazionale",
+    "number": "130/134",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1376668,
+    "longitude": 9.3760261
+  },
+  {
+    "street": "Via Ombriano",
+    "number": "14",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1381231,
+    "longitude": 9.4098946
+  },
+  {
+    "street": "Via al Bas",
+    "number": "14",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1330106,
+    "longitude": 9.3930485
+  },
+  {
+    "street": "Piazza Roma",
+    "number": "1",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.13778,
+    "longitude": 9.3750639
+  },
+  {
+    "street": "Via Padre Reginaldo Giuliani",
+    "number": "13",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1358979,
+    "longitude": 9.3733749
+  },
+  {
+    "street": "Via Padre Reginaldo Giuliani",
+    "number": "6",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1362053,
+    "longitude": 9.373046
+  },
+  {
+    "street": "Via Padre Reginaldo Giuliani",
+    "number": "2",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1362611,
+    "longitude": 9.3730109
+  },
+  {
+    "street": "Via Nazionale",
+    "number": "54",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1365485,
+    "longitude": 9.3732398
+  },
+  {
+    "street": "Via Padre Reginaldo Giuliani",
+    "number": "1",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1362922,
+    "longitude": 9.3730801
+  },
+  {
+    "street": "Via Padre Reginaldo Giuliani",
+    "number": "3",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1362436,
+    "longitude": 9.3730912
+  },
+  {
+    "street": "Via Nazionale Nord",
+    "number": "32",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1425612,
+    "longitude": 9.4024753
+  },
+  {
+    "street": "Via Campione",
+    "number": "4",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1278763,
+    "longitude": 9.3758941
+  },
+  {
+    "street": "Via Lungolario Polti",
+    "number": "17",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1368229,
+    "longitude": 9.3675061
+  },
+  {
+    "street": "Via Deserto",
+    "number": "57",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1354681,
+    "longitude": 9.3872494
+  },
+  {
+    "street": "Via al Confine",
+    "number": "8",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1390986,
+    "longitude": 9.3965943
+  },
+  {
+    "street": "Piazza San Giorgio",
+    "number": "21",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1359969,
+    "longitude": 9.3723952
+  },
+  {
+    "street": "Via Nazionale Nord",
+    "number": "15/a",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1402691,
+    "longitude": 9.3887223
+  },
+  {
+    "street": "Via Laghetto",
+    "number": "24 E",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1232779,
+    "longitude": 9.3527552
+  },
+  {
+    "street": "Via Famiglia Stampa",
+    "number": "12",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1359297,
+    "longitude": 9.3593412
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "21F",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1312586,
+    "longitude": 9.3620465
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "21E",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1312198,
+    "longitude": 9.3620797
+  },
+  {
+    "street": "Via Conti Alberti",
+    "number": "16",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1306756,
+    "longitude": 9.3670913
+  },
+  {
+    "street": "Via la Gera",
+    "number": "44",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1277027,
+    "longitude": 9.3832019
+  },
+  {
+    "street": "Via San Fedele",
+    "number": "29",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1279281,
+    "longitude": 9.3629016
+  },
+  {
+    "street": "Via Posallo",
+    "number": "34",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1193435,
+    "longitude": 9.3652194
+  },
+  {
+    "street": "Via Logasc",
+    "number": "6",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1239951,
+    "longitude": 9.3475703
+  },
+  {
+    "street": "Via Palazzo",
+    "number": "30A",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1233965,
+    "longitude": 9.3494351
+  },
+  {
+    "street": "Via Palazzo",
+    "number": "24",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1214622,
+    "longitude": 9.3485949
+  },
+  {
+    "street": "Via Palazzo",
+    "number": "30",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.123048,
+    "longitude": 9.3496009
+  },
+  {
+    "street": "Via Palazzo",
+    "number": "23",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1229602,
+    "longitude": 9.3488469
+  },
+  {
+    "street": "Via Montecchio Sud",
+    "number": "6",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1263332,
+    "longitude": 9.3441203
+  },
+  {
+    "street": "Via Palazzo",
+    "number": "26",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1224599,
+    "longitude": 9.3494333
+  },
+  {
+    "street": "Via Palazzo",
+    "number": "25",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1231664,
+    "longitude": 9.3489867
+  },
+  {
+    "street": "Via Palazzo",
+    "number": "21",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1215999,
+    "longitude": 9.3481411
+  },
+  {
+    "street": "Via Palazzo",
+    "number": "28",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1227228,
+    "longitude": 9.3496834
+  },
+  {
+    "street": "Via Montecchio Sud",
+    "number": "1",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1258109,
+    "longitude": 9.3435737
+  },
+  {
+    "street": "Via dei Ciacc",
+    "number": "3",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1291742,
+    "longitude": 9.354072
+  },
+  {
+    "street": "Via Olgiasca",
+    "number": "53",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.115961,
+    "longitude": 9.3164381
+  },
+  {
+    "street": "Via alle Torri",
+    "number": "8",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.144092,
+    "longitude": 9.3823417
+  },
+  {
+    "street": "Via San Fedele",
+    "number": "23",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.132059,
+    "longitude": 9.3656022
+  },
+  {
+    "street": "Via Lido",
+    "number": "21",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1322083,
+    "longitude": 9.36512
+  },
+  {
+    "street": "Via San Fedele",
+    "number": "2",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1326414,
+    "longitude": 9.3662267
+  },
+  {
+    "street": "Via dei Ciacc",
+    "number": "7",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1286756,
+    "longitude": 9.3532329
+  },
+  {
+    "street": "Via Lungolario Polti",
+    "number": "4",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1360158,
+    "longitude": 9.3642081
+  },
+  {
+    "street": "Via Santinetta",
+    "number": "6",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1284647,
+    "longitude": 9.3773221
+  },
+  {
+    "street": "Via Campione",
+    "number": "67",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1340419,
+    "longitude": 9.3816224
+  },
+  {
+    "street": "Via dei Ciacc",
+    "number": "2",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1313571,
+    "longitude": 9.3585662
+  },
+  {
+    "street": "Via La Fabbrica",
+    "number": "14",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1362218,
+    "longitude": 9.3824715
+  },
+  {
+    "street": "Via La Fabbrica",
+    "number": "16",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1352808,
+    "longitude": 9.3834365
+  },
+  {
+    "street": "Via Campione",
+    "number": "9",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1283177,
+    "longitude": 9.3759626
+  },
+  {
+    "street": "Via al Trivio",
+    "number": "7",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1442073,
+    "longitude": 9.404008
+  },
+  {
+    "street": "Via Nazionale Nord",
+    "number": "57",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.144386,
+    "longitude": 9.4059336
+  },
+  {
+    "street": "Via Fumiarga",
+    "number": "5/B",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1229818,
+    "longitude": 9.3661711
+  },
+  {
+    "street": "Via Nazionale Nord",
+    "number": "4",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.139477,
+    "longitude": 9.387662
+  },
+  {
+    "street": "Via Renzo Neri",
+    "number": "6 L",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1225026,
+    "longitude": 9.3507584
+  },
+  {
+    "street": "Via la Croce",
+    "number": "14",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.140996,
+    "longitude": 9.4001993
+  },
+  {
+    "street": "Via alla Chiesa",
+    "number": "8",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1363187,
+    "longitude": 9.3964311
+  },
+  {
+    "street": "Via Biasett",
+    "number": "6",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1349943,
+    "longitude": 9.404683
+  },
+  {
+    "street": "Via Santinetta",
+    "number": "4",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1281961,
+    "longitude": 9.3770422
+  },
+  {
+    "street": "Via Santinetta",
+    "number": "2",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.127921,
+    "longitude": 9.3767392
+  },
+  {
+    "street": "Via Fontanedo",
+    "number": "73",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1248926,
+    "longitude": 9.3877669
+  },
+  {
+    "street": "Via Fumiarga",
+    "number": "1/A",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1242793,
+    "longitude": 9.3705092
+  },
+  {
+    "street": "Piazza Quinto Reggimento Alpini",
+    "number": "1",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1357539,
+    "longitude": 9.374748
+  },
+  {
+    "street": "Via al Trivio",
+    "number": "6",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1447738,
+    "longitude": 9.4086574
+  },
+  {
+    "street": "Via Borgonuovo",
+    "number": "3/C",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1249268,
+    "longitude": 9.3673122
+  },
+  {
+    "street": "Via La Madoneta",
+    "number": "3",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1378986,
+    "longitude": 9.3858185
+  },
+  {
+    "street": "Via al Bacco",
+    "number": "54",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1316982,
+    "longitude": 9.3763539
+  },
+  {
+    "street": "Via al Bacco",
+    "number": "52/A",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1326525,
+    "longitude": 9.3759308
+  },
+  {
+    "street": "Via Palerma",
+    "number": "3/A",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1365081,
+    "longitude": 9.3906368
+  },
+  {
+    "street": "Via Palerma",
+    "number": "3",
+    "city": {
+      "name": "Colico",
+      "istat": "097023"
+    },
+    "latitude": 46.1365172,
+    "longitude": 9.3903416
+  }
+]

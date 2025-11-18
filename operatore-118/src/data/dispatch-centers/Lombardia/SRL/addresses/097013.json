@@ -1,0 +1,1052 @@
+[
+  {
+    "street": "Via Cesare Battisti",
+    "number": "10",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.7954081,
+    "longitude": 9.4390528
+  },
+  {
+    "street": "Corso Europa",
+    "number": "71a",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.7948179,
+    "longitude": 9.4365152
+  },
+  {
+    "street": "Corso Dante",
+    "number": "25",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8022701,
+    "longitude": 9.4294244
+  },
+  {
+    "street": "Via Bartolomeo Colleoni",
+    "number": "3",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8015966,
+    "longitude": 9.4313486
+  },
+  {
+    "street": "Viale Alcide de Gasperi",
+    "number": "16",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8010861,
+    "longitude": 9.4212699
+  },
+  {
+    "street": "Corso Europa",
+    "number": "63",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.7966895,
+    "longitude": 9.4357303
+  },
+  {
+    "street": "Via Fratelli Calvi",
+    "number": "2",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.800812,
+    "longitude": 9.4321983
+  },
+  {
+    "street": "Via Bartolomeo Colleoni",
+    "number": "12",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8017472,
+    "longitude": 9.4310078
+  },
+  {
+    "street": "Via Martiri della Libertà",
+    "number": "17",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8030422,
+    "longitude": 9.4330343
+  },
+  {
+    "street": "Piazza Regazzoni",
+    "number": "8b",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8037726,
+    "longitude": 9.4326167
+  },
+  {
+    "street": "Piazza Regazzoni",
+    "number": "10a",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8037022,
+    "longitude": 9.4327392
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "3",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8037215,
+    "longitude": 9.4325087
+  },
+  {
+    "street": "Via alla Chiesa",
+    "number": "9",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8026183,
+    "longitude": 9.4304849
+  },
+  {
+    "street": "Via Bartolomeo Colleoni",
+    "number": "1",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8011962,
+    "longitude": 9.4318211
+  },
+  {
+    "street": "Via Martiri della Libertà",
+    "number": "27",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8033394,
+    "longitude": 9.4329281
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "4",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8037514,
+    "longitude": 9.4325125
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "2a",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8036808,
+    "longitude": 9.4324977
+  },
+  {
+    "street": "Via Martiri della Libertà",
+    "number": "29",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8034004,
+    "longitude": 9.432791
+  },
+  {
+    "street": "Via Bartolomeo Colleoni",
+    "number": "4",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8015506,
+    "longitude": 9.4318031
+  },
+  {
+    "street": "Via Martiri della Libertà",
+    "number": "12",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8032396,
+    "longitude": 9.4331533
+  },
+  {
+    "street": "Via Martiri della Libertà",
+    "number": "25",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8033104,
+    "longitude": 9.4329918
+  },
+  {
+    "street": "Piazza Regazzoni",
+    "number": "10",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8037199,
+    "longitude": 9.4327086
+  },
+  {
+    "street": "Piazza Regazzoni",
+    "number": "11a",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8036657,
+    "longitude": 9.4328
+  },
+  {
+    "street": "Via alla Chiesa",
+    "number": "5",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.802482,
+    "longitude": 9.4301946
+  },
+  {
+    "street": "Piazza Regazzoni",
+    "number": "11",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8036855,
+    "longitude": 9.4327745
+  },
+  {
+    "street": "Piazza Regazzoni",
+    "number": "9",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8037343,
+    "longitude": 9.4326823
+  },
+  {
+    "street": "Via Martiri della Libertà",
+    "number": "16",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8034372,
+    "longitude": 9.4327953
+  },
+  {
+    "street": "Via alla Chiesa",
+    "number": "11",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8027337,
+    "longitude": 9.4309797
+  },
+  {
+    "street": "Via Bartolomeo Colleoni",
+    "number": "5",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8017107,
+    "longitude": 9.4309268
+  },
+  {
+    "street": "Via Martiri della Libertà",
+    "number": "19",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8031271,
+    "longitude": 9.4330511
+  },
+  {
+    "street": "Via Martiri della Libertà",
+    "number": "21",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.803197,
+    "longitude": 9.4330626
+  },
+  {
+    "street": "Via Bartolomeo Colleoni",
+    "number": "10",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8016323,
+    "longitude": 9.4314344
+  },
+  {
+    "street": "Via Martiri della Libertà",
+    "number": "14",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8033887,
+    "longitude": 9.4329168
+  },
+  {
+    "street": "Via alla Chiesa",
+    "number": "7",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8025239,
+    "longitude": 9.4302886
+  },
+  {
+    "street": "Via Bartolomeo Colleoni",
+    "number": "8",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8015384,
+    "longitude": 9.4315147
+  },
+  {
+    "street": "Via Bartolomeo Colleoni",
+    "number": "14",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8017396,
+    "longitude": 9.4308669
+  },
+  {
+    "street": "Via Martiri della Libertà",
+    "number": "9a",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8024975,
+    "longitude": 9.4331518
+  },
+  {
+    "street": "Via Martiri della Libertà",
+    "number": "1",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8026782,
+    "longitude": 9.4335853
+  },
+  {
+    "street": "Via Martiri della Libertà",
+    "number": "9",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.802469,
+    "longitude": 9.4331598
+  },
+  {
+    "street": "Via Martiri della Libertà",
+    "number": "3",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8022736,
+    "longitude": 9.4332595
+  },
+  {
+    "street": "Via Don Giovanni Minzoni",
+    "number": "5a",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8062679,
+    "longitude": 9.4396028
+  },
+  {
+    "street": "Via Palmiro Togliatti",
+    "number": "2a",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.7966863,
+    "longitude": 9.4329399
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "42",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8029489,
+    "longitude": 9.4205756
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "21",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8056247,
+    "longitude": 9.4322857
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "9",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8057746,
+    "longitude": 9.4316742
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "7",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8057443,
+    "longitude": 9.4312523
+  },
+  {
+    "street": "Via Macorna",
+    "number": "2",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8056993,
+    "longitude": 9.4306641
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "10",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8055825,
+    "longitude": 9.4312491
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "12",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8056851,
+    "longitude": 9.4319691
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "15",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8060089,
+    "longitude": 9.4324308
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "17",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8059593,
+    "longitude": 9.4324698
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "19",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8058817,
+    "longitude": 9.4324305
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "13",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8057312,
+    "longitude": 9.4320628
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "23",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8052972,
+    "longitude": 9.4331275
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "14",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.805369,
+    "longitude": 9.4328594
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "16",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8052918,
+    "longitude": 9.4330379
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "21",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8042009,
+    "longitude": 9.4316629
+  },
+  {
+    "street": "Via SS Cosma e Damiano",
+    "number": "1",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.7953858,
+    "longitude": 9.4415829
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "8d",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8020217,
+    "longitude": 9.4332798
+  },
+  {
+    "street": "Via Nino Bixio",
+    "number": "7",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.805393,
+    "longitude": 9.4245369
+  },
+  {
+    "street": "Via Gavazzi",
+    "number": "3",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8046232,
+    "longitude": 9.4243368
+  },
+  {
+    "street": "Via Gavazzi",
+    "number": "1a",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8044411,
+    "longitude": 9.4245514
+  },
+  {
+    "street": "Via Industriale",
+    "number": "11",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8058152,
+    "longitude": 9.4239927
+  },
+  {
+    "street": "Via Nino Bixio",
+    "number": "1a",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8056364,
+    "longitude": 9.4241713
+  },
+  {
+    "street": "Via Gavazzi",
+    "number": "4a",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8047804,
+    "longitude": 9.4244098
+  },
+  {
+    "street": "Via Gavazzi",
+    "number": "3a",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.804493,
+    "longitude": 9.4245
+  },
+  {
+    "street": "Via Gavazzi",
+    "number": "2",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8043217,
+    "longitude": 9.4247464
+  },
+  {
+    "street": "Via Nino Bixio",
+    "number": "3",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8055146,
+    "longitude": 9.4243066
+  },
+  {
+    "street": "Via Gavazzi",
+    "number": "5a",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8049895,
+    "longitude": 9.4241066
+  },
+  {
+    "street": "Via Nino Bixio",
+    "number": "3a",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8054736,
+    "longitude": 9.4243565
+  },
+  {
+    "street": "Via Gavazzi",
+    "number": "1",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8043065,
+    "longitude": 9.4246615
+  },
+  {
+    "street": "Via Gavazzi",
+    "number": "5",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.805156,
+    "longitude": 9.4239656
+  },
+  {
+    "street": "Via Gavazzi",
+    "number": "2a",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8045607,
+    "longitude": 9.424618
+  },
+  {
+    "street": "Via Gavazzi",
+    "number": "6",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8051559,
+    "longitude": 9.4241909
+  },
+  {
+    "street": "Via Nino Bixio",
+    "number": "9",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8053692,
+    "longitude": 9.424517
+  },
+  {
+    "street": "Via Gavazzi",
+    "number": "7",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8052546,
+    "longitude": 9.4241098
+  },
+  {
+    "street": "Via Nino Bixio",
+    "number": "5",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8053904,
+    "longitude": 9.4244626
+  },
+  {
+    "street": "Via Nino Bixio",
+    "number": "1",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8056952,
+    "longitude": 9.4240982
+  },
+  {
+    "street": "Corso Europa",
+    "number": "93",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.791334,
+    "longitude": 9.4393806
+  },
+  {
+    "street": "Dante",
+    "number": "43",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8038888,
+    "longitude": 9.4265928
+  },
+  {
+    "street": "Corso Dante",
+    "number": "1",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8008693,
+    "longitude": 9.4314436
+  },
+  {
+    "street": "Corso Europa",
+    "number": "49",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.7983091,
+    "longitude": 9.4337031
+  },
+  {
+    "street": "Largo Giuseppe Garibaldi",
+    "number": "1",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8011329,
+    "longitude": 9.4317868
+  },
+  {
+    "street": "Via Fratelli Calvi",
+    "number": "4",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8005925,
+    "longitude": 9.4323474
+  },
+  {
+    "street": "Corso Europa",
+    "number": "50",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.7972461,
+    "longitude": 9.4341093
+  },
+  {
+    "street": "Via Padri Serviti",
+    "number": "21",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.7930388,
+    "longitude": 9.4370556
+  },
+  {
+    "street": "Via Palude",
+    "number": "8",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.7779602,
+    "longitude": 9.4403141
+  },
+  {
+    "street": "Via Serta",
+    "number": "23",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.7966236,
+    "longitude": 9.4436337
+  },
+  {
+    "street": "Corso Europa",
+    "number": "84",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.78893,
+    "longitude": 9.4398516
+  },
+  {
+    "street": "Corso Europa",
+    "number": "42",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.798528,
+    "longitude": 9.4333078
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "34",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8034897,
+    "longitude": 9.4223338
+  },
+  {
+    "street": "Via Antonio Locatelli",
+    "number": "1a",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8034086,
+    "longitude": 9.4272897
+  },
+  {
+    "street": "Via Erta",
+    "number": "12",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.788191,
+    "longitude": 9.4449576
+  },
+  {
+    "street": "Via Erta",
+    "number": "1",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.7883151,
+    "longitude": 9.4438384
+  },
+  {
+    "street": "via sopracornola vecchia",
+    "number": "13",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.7928605,
+    "longitude": 9.4556098
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "15",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.7945569,
+    "longitude": 9.4381019
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "21",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.7944263,
+    "longitude": 9.4375918
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "23",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.7944078,
+    "longitude": 9.437339
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "17",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.7944788,
+    "longitude": 9.4378558
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "19",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.7942265,
+    "longitude": 9.4379696
+  },
+  {
+    "street": "Via Promessi Sposi",
+    "number": "10",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8041339,
+    "longitude": 9.4343567
+  },
+  {
+    "street": "Corso Europa",
+    "number": "121",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.7801573,
+    "longitude": 9.4418941
+  },
+  {
+    "street": "Corso Europa",
+    "number": "66",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.7951875,
+    "longitude": 9.435709
+  },
+  {
+    "street": "Via Bergamo",
+    "number": "4",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.789606,
+    "longitude": 9.4408187
+  },
+  {
+    "street": "Corso Dante",
+    "number": "15",
+    "city": {
+      "name": "Calolziocorte",
+      "istat": "097013"
+    },
+    "latitude": 45.8018294,
+    "longitude": 9.4300481
+  }
+]

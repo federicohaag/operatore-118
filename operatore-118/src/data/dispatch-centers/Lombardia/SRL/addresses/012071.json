@@ -1,0 +1,52 @@
+[
+  {
+    "street": "Via Belvedere",
+    "number": "26",
+    "city": {
+      "name": "Galliate Lombardo",
+      "istat": "012071"
+    },
+    "latitude": 45.7811485,
+    "longitude": 8.7744706
+  },
+  {
+    "street": "Piazza Parrocchiale",
+    "number": "1",
+    "city": {
+      "name": "Galliate Lombardo",
+      "istat": "012071"
+    },
+    "latitude": 45.7839629,
+    "longitude": 8.7696836
+  },
+  {
+    "street": "Via Carletto Ferrari12",
+    "number": "12",
+    "city": {
+      "name": "Galliate Lombardo",
+      "istat": "012071"
+    },
+    "latitude": 45.7844114,
+    "longitude": 8.7709929
+  },
+  {
+    "street": "Via al Gaggio",
+    "number": "4",
+    "city": {
+      "name": "Galliate Lombardo",
+      "istat": "012071"
+    },
+    "latitude": 45.7928938,
+    "longitude": 8.7611119
+  },
+  {
+    "street": "Via della Novaglia",
+    "number": "60",
+    "city": {
+      "name": "Galliate Lombardo",
+      "istat": "012071"
+    },
+    "latitude": 45.7877864,
+    "longitude": 8.7812037
+  }
+]

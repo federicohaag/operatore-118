@@ -1,0 +1,2942 @@
+[
+  {
+    "street": "Piazza Libertà",
+    "number": "16",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7819806,
+    "longitude": 8.6901779
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "19",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7824885,
+    "longitude": 8.6899951
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "9",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7820328,
+    "longitude": 8.6908359
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "6",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7837464,
+    "longitude": 8.6937024
+  },
+  {
+    "street": "Via Fornaci",
+    "number": "23",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7838888,
+    "longitude": 8.6972052
+  },
+  {
+    "street": "Via Fornaci",
+    "number": "25",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7839335,
+    "longitude": 8.6972156
+  },
+  {
+    "street": "Via Roma",
+    "number": "18",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7817511,
+    "longitude": 8.6944865
+  },
+  {
+    "street": "Via Roma",
+    "number": "20",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7815425,
+    "longitude": 8.6949189
+  },
+  {
+    "street": "Via Roma",
+    "number": "3",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7821914,
+    "longitude": 8.693821
+  },
+  {
+    "street": "Via Roma",
+    "number": "31",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7819921,
+    "longitude": 8.6942159
+  },
+  {
+    "street": "Via Roma",
+    "number": "32",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7797981,
+    "longitude": 8.6978831
+  },
+  {
+    "street": "Via Roma",
+    "number": "34",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7797354,
+    "longitude": 8.6978907
+  },
+  {
+    "street": "Via Roma",
+    "number": "4",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7824653,
+    "longitude": 8.6929777
+  },
+  {
+    "street": "Via Roma",
+    "number": "5",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7820428,
+    "longitude": 8.6941085
+  },
+  {
+    "street": "Via Roma",
+    "number": "57",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7815482,
+    "longitude": 8.6950624
+  },
+  {
+    "street": "Via Roma",
+    "number": "59",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7814724,
+    "longitude": 8.6952214
+  },
+  {
+    "street": "Via Roma",
+    "number": "61",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7814127,
+    "longitude": 8.6953455
+  },
+  {
+    "street": "Via Roma",
+    "number": "79",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7802925,
+    "longitude": 8.6976313
+  },
+  {
+    "street": "Via Roma",
+    "number": "85",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7801185,
+    "longitude": 8.6982753
+  },
+  {
+    "street": "Via Roma",
+    "number": "87",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7801242,
+    "longitude": 8.6983414
+  },
+  {
+    "street": "Via Fornaci",
+    "number": "27",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7842182,
+    "longitude": 8.6972924
+  },
+  {
+    "street": "Via Fornaci",
+    "number": "29",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7842409,
+    "longitude": 8.6972978
+  },
+  {
+    "street": "Via Fornaci",
+    "number": "21",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7835914,
+    "longitude": 8.6971241
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "1",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7825664,
+    "longitude": 8.6910322
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "1",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7853516,
+    "longitude": 8.696505
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "1",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7825934,
+    "longitude": 8.6906332
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "11",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.78538,
+    "longitude": 8.6981469
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "11",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7827177,
+    "longitude": 8.6903565
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "12",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7818908,
+    "longitude": 8.6906142
+  },
+  {
+    "street": "Via Fornaci",
+    "number": "12",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7836094,
+    "longitude": 8.6956203
+  },
+  {
+    "street": "Via Fornaci",
+    "number": "13",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7834697,
+    "longitude": 8.6964511
+  },
+  {
+    "street": "Via Varese",
+    "number": "13",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7837951,
+    "longitude": 8.6916098
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "14",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7818087,
+    "longitude": 8.6905632
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "14",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7828631,
+    "longitude": 8.690365
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "15",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7827818,
+    "longitude": 8.6902646
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "16",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7828763,
+    "longitude": 8.6903347
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "17",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7828816,
+    "longitude": 8.6901452
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "18",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7828968,
+    "longitude": 8.6903101
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "2",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7825456,
+    "longitude": 8.6910418
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "2",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7837755,
+    "longitude": 8.6926946
+  },
+  {
+    "street": "Via Roma",
+    "number": "2",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7827155,
+    "longitude": 8.6923297
+  },
+  {
+    "street": "Via Carlo De Cristoforis",
+    "number": "2",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7828564,
+    "longitude": 8.691205
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "20",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7852872,
+    "longitude": 8.6964246
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "20/a",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7823633,
+    "longitude": 8.6903007
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "22",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7823568,
+    "longitude": 8.6906117
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "23",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7830316,
+    "longitude": 8.6899774
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "26",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7831949,
+    "longitude": 8.6901219
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "28",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7838833,
+    "longitude": 8.6897244
+  },
+  {
+    "street": "Via Roma",
+    "number": "29",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7819642,
+    "longitude": 8.6946797
+  },
+  {
+    "street": "Via Varese",
+    "number": "33",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7839067,
+    "longitude": 8.6922576
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "34",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7853189,
+    "longitude": 8.6981537
+  },
+  {
+    "street": "Via Fornaci",
+    "number": "39",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7845107,
+    "longitude": 8.6974713
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "4",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7837906,
+    "longitude": 8.6930893
+  },
+  {
+    "street": "Via Motta",
+    "number": "4",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7821181,
+    "longitude": 8.6900101
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "4",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7826694,
+    "longitude": 8.6905858
+  },
+  {
+    "street": "Via Fornaci",
+    "number": "41",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7840702,
+    "longitude": 8.6973719
+  },
+  {
+    "street": "Via Roma",
+    "number": "41",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7826199,
+    "longitude": 8.6949339
+  },
+  {
+    "street": "Via Roma",
+    "number": "45",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7828494,
+    "longitude": 8.695024
+  },
+  {
+    "street": "Via Roma",
+    "number": "47",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7822337,
+    "longitude": 8.6947826
+  },
+  {
+    "street": "Via Roma",
+    "number": "51",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7815812,
+    "longitude": 8.694997
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "6",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7823915,
+    "longitude": 8.6909928
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "7",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7853016,
+    "longitude": 8.6973018
+  },
+  {
+    "street": "Via Fornaci",
+    "number": "7",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.783741,
+    "longitude": 8.6955463
+  },
+  {
+    "street": "Via Roma",
+    "number": "71",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7808742,
+    "longitude": 8.6968426
+  },
+  {
+    "street": "Via Roma",
+    "number": "73",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.780838,
+    "longitude": 8.6969174
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "9",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7853129,
+    "longitude": 8.6975991
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "9",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.782682,
+    "longitude": 8.6904399
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "58",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7930255,
+    "longitude": 8.6986383
+  },
+  {
+    "street": "Via Chiusa",
+    "number": "1",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7824318,
+    "longitude": 8.6912963
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "1",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.782034,
+    "longitude": 8.6911805
+  },
+  {
+    "street": "Via Pretorio",
+    "number": "1",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7816819,
+    "longitude": 8.6904445
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "10",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7822969,
+    "longitude": 8.6919918
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "11",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7822502,
+    "longitude": 8.6919262
+  },
+  {
+    "street": "Via Dandolo",
+    "number": "11",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7814039,
+    "longitude": 8.6903483
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "12",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7819094,
+    "longitude": 8.691274
+  },
+  {
+    "street": "Via Dandolo",
+    "number": "13",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7813498,
+    "longitude": 8.6903311
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "13",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7817968,
+    "longitude": 8.6914664
+  },
+  {
+    "street": "Via Dandolo",
+    "number": "15",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.781333,
+    "longitude": 8.6903304
+  },
+  {
+    "street": "Via Varese",
+    "number": "15",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7842798,
+    "longitude": 8.6918447
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "16",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7816751,
+    "longitude": 8.6915241
+  },
+  {
+    "street": "Via Varese",
+    "number": "17",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7842128,
+    "longitude": 8.69182
+  },
+  {
+    "street": "Via Dandolo",
+    "number": "19",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7811902,
+    "longitude": 8.6903071
+  },
+  {
+    "street": "Via Varese",
+    "number": "19",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7843661,
+    "longitude": 8.6919368
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "20",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7822786,
+    "longitude": 8.6919655
+  },
+  {
+    "street": "Via Varese",
+    "number": "21",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.784585,
+    "longitude": 8.6923596
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "23",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7817134,
+    "longitude": 8.6915853
+  },
+  {
+    "street": "Via Varese",
+    "number": "23",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7847212,
+    "longitude": 8.6924492
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "31",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7822593,
+    "longitude": 8.6919403
+  },
+  {
+    "street": "Via Varese",
+    "number": "31",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7846201,
+    "longitude": 8.6924975
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "4",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7822403,
+    "longitude": 8.6915954
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "5",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7823338,
+    "longitude": 8.6914943
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "5",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7819957,
+    "longitude": 8.6912252
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "6",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7818907,
+    "longitude": 8.6913042
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "7",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7823087,
+    "longitude": 8.6916986
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "7",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7818898,
+    "longitude": 8.6913537
+  },
+  {
+    "street": "Via Pretorio",
+    "number": "7",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7815132,
+    "longitude": 8.690404
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "8",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7840654,
+    "longitude": 8.6938959
+  },
+  {
+    "street": "Via Dandolo",
+    "number": "8",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7812985,
+    "longitude": 8.690259
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "9",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7818768,
+    "longitude": 8.6913709
+  },
+  {
+    "street": "Via Pretorio",
+    "number": "9",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7814667,
+    "longitude": 8.6903778
+  },
+  {
+    "street": "Via Milano",
+    "number": "1",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7843514,
+    "longitude": 8.698546
+  },
+  {
+    "street": "Via Milano",
+    "number": "15",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.780341,
+    "longitude": 8.6986783
+  },
+  {
+    "street": "Via Milano",
+    "number": "19",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7790214,
+    "longitude": 8.6986171
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "32",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7852837,
+    "longitude": 8.6978558
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "18",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7852839,
+    "longitude": 8.6963136
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "1",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7808018,
+    "longitude": 8.6886248
+  },
+  {
+    "street": "Via Ponticello",
+    "number": "1",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7800139,
+    "longitude": 8.698883
+  },
+  {
+    "street": "Via Ponticello",
+    "number": "11",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.779815,
+    "longitude": 8.7004175
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "12",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7809576,
+    "longitude": 8.6924985
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "14",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7809056,
+    "longitude": 8.6923228
+  },
+  {
+    "street": "Via Ponticello",
+    "number": "14",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7797916,
+    "longitude": 8.6999515
+  },
+  {
+    "street": "Via Stazione",
+    "number": "14",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7817854,
+    "longitude": 8.7007381
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "16",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7808433,
+    "longitude": 8.6921286
+  },
+  {
+    "street": "Via Stazione",
+    "number": "16",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7817787,
+    "longitude": 8.7011441
+  },
+  {
+    "street": "Via Ponticello",
+    "number": "16",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7797577,
+    "longitude": 8.700198
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "18",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7807574,
+    "longitude": 8.6918412
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "18",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7815214,
+    "longitude": 8.7002133
+  },
+  {
+    "street": "Via Stazione",
+    "number": "18",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7817461,
+    "longitude": 8.701252
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "18a",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7807255,
+    "longitude": 8.6916625
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "19",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7810021,
+    "longitude": 8.6929492
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "2",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7818898,
+    "longitude": 8.6939679
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "2",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.780775,
+    "longitude": 8.6885509
+  },
+  {
+    "street": "Via Ponticello",
+    "number": "2",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7799018,
+    "longitude": 8.6987894
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "20",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7806041,
+    "longitude": 8.6913587
+  },
+  {
+    "street": "Via Stazione",
+    "number": "20",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7812232,
+    "longitude": 8.7016592
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "22",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7805383,
+    "longitude": 8.6912042
+  },
+  {
+    "street": "Via Stazione",
+    "number": "22",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7811766,
+    "longitude": 8.7016963
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "24",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7799984,
+    "longitude": 8.7001387
+  },
+  {
+    "street": "Via Stazione",
+    "number": "24",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7809314,
+    "longitude": 8.7018802
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "25",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7808827,
+    "longitude": 8.6925384
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "26",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7799871,
+    "longitude": 8.6902423
+  },
+  {
+    "street": "Via Stazione",
+    "number": "27",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7818665,
+    "longitude": 8.7012788
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "3",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7817565,
+    "longitude": 8.6939361
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "3",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7806132,
+    "longitude": 8.6887951
+  },
+  {
+    "street": "Via Ponticello",
+    "number": "3",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7799876,
+    "longitude": 8.6990856
+  },
+  {
+    "street": "Via Stazione",
+    "number": "31",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7816554,
+    "longitude": 8.7014366
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "4",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7799237,
+    "longitude": 8.6892078
+  },
+  {
+    "street": "Via Ponticello",
+    "number": "4",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7799243,
+    "longitude": 8.6989859
+  },
+  {
+    "street": "Via Stazione",
+    "number": "43",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7813613,
+    "longitude": 8.701676
+  },
+  {
+    "street": "Via Stazione",
+    "number": "47",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7811926,
+    "longitude": 8.7018133
+  },
+  {
+    "street": "Via Stazione",
+    "number": "49",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7809775,
+    "longitude": 8.7019612
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "5",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.781552,
+    "longitude": 8.6937157
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "5",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7801678,
+    "longitude": 8.6892107
+  },
+  {
+    "street": "Via Ponticello",
+    "number": "5",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7799417,
+    "longitude": 8.6994403
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "6",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7814679,
+    "longitude": 8.6934901
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "6",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.779763,
+    "longitude": 8.6893188
+  },
+  {
+    "street": "Via Ponticello",
+    "number": "6",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7799001,
+    "longitude": 8.699162
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "7",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7813356,
+    "longitude": 8.6934713
+  },
+  {
+    "street": "Via Ponticello",
+    "number": "7",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7799255,
+    "longitude": 8.6995653
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "8",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7812976,
+    "longitude": 8.693307
+  },
+  {
+    "street": "Via Ponticello",
+    "number": "8",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7798466,
+    "longitude": 8.6995515
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "9",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7812809,
+    "longitude": 8.6934052
+  },
+  {
+    "street": "Via Ponticello",
+    "number": "9",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7798617,
+    "longitude": 8.7000573
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "1",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7882002,
+    "longitude": 8.6965853
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "10",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7882747,
+    "longitude": 8.6985781
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "14",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7878146,
+    "longitude": 8.6995648
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "16",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.788288,
+    "longitude": 8.699042
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "18",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7881793,
+    "longitude": 8.6996782
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "18",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7882914,
+    "longitude": 8.6992784
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "19",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7868922,
+    "longitude": 8.6992005
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "2",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7861116,
+    "longitude": 8.6990819
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "2",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7880451,
+    "longitude": 8.6964904
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "20",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7882878,
+    "longitude": 8.6994834
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "25",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7877312,
+    "longitude": 8.6994226
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "50",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7915299,
+    "longitude": 8.6987525
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "52",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7920039,
+    "longitude": 8.698783
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "7",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.785737,
+    "longitude": 8.6988501
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "8",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7867611,
+    "longitude": 8.699265
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "8",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7882651,
+    "longitude": 8.6984536
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "9",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7862456,
+    "longitude": 8.69902
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "38",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7890583,
+    "longitude": 8.6998641
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "3",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7855542,
+    "longitude": 8.698738
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "5",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7856754,
+    "longitude": 8.6988277
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "10",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7841817,
+    "longitude": 8.6942212
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "12",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.784303,
+    "longitude": 8.6945393
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "13",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.785501,
+    "longitude": 8.6983688
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "10",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.787471,
+    "longitude": 8.6994592
+  },
+  {
+    "street": "Via Varese",
+    "number": "10",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7862829,
+    "longitude": 8.6953451
+  },
+  {
+    "street": "Via Varese",
+    "number": "101",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7917326,
+    "longitude": 8.6971445
+  },
+  {
+    "street": "Via Varese",
+    "number": "111",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.792866,
+    "longitude": 8.6977904
+  },
+  {
+    "street": "Via Varese",
+    "number": "112",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7930348,
+    "longitude": 8.6977718
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "12",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7875747,
+    "longitude": 8.6998836
+  },
+  {
+    "street": "Via Varese",
+    "number": "12",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7866022,
+    "longitude": 8.6954677
+  },
+  {
+    "street": "Via Varese",
+    "number": "14",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7868134,
+    "longitude": 8.6955539
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "14a",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.78763,
+    "longitude": 8.6998512
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "16",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7880238,
+    "longitude": 8.6996311
+  },
+  {
+    "street": "Via Varese",
+    "number": "16",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7871466,
+    "longitude": 8.6956992
+  },
+  {
+    "street": "Via Varese",
+    "number": "18",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.787545,
+    "longitude": 8.6959041
+  },
+  {
+    "street": "Via Varese",
+    "number": "2",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7841037,
+    "longitude": 8.6931489
+  },
+  {
+    "street": "Via Varese",
+    "number": "20",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7885222,
+    "longitude": 8.6964046
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "21",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7874048,
+    "longitude": 8.699336
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "23",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.78754,
+    "longitude": 8.6993738
+  },
+  {
+    "street": "Via Varese",
+    "number": "24",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.789884,
+    "longitude": 8.696378
+  },
+  {
+    "street": "Via Varese",
+    "number": "26",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7903969,
+    "longitude": 8.6964745
+  },
+  {
+    "street": "Via Varese",
+    "number": "28",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7911319,
+    "longitude": 8.6968014
+  },
+  {
+    "street": "Via Varese",
+    "number": "35",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7840227,
+    "longitude": 8.6928176
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "36",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7888261,
+    "longitude": 8.6998387
+  },
+  {
+    "street": "Via Varese",
+    "number": "37",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7846489,
+    "longitude": 8.6934492
+  },
+  {
+    "street": "Via Varese",
+    "number": "39",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7858654,
+    "longitude": 8.6950631
+  },
+  {
+    "street": "Via Varese",
+    "number": "4",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7843185,
+    "longitude": 8.6933377
+  },
+  {
+    "street": "Via Varese",
+    "number": "41",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7859575,
+    "longitude": 8.6950995
+  },
+  {
+    "street": "Via Varese",
+    "number": "45",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7869206,
+    "longitude": 8.6955088
+  },
+  {
+    "street": "Via Varese",
+    "number": "47",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7871093,
+    "longitude": 8.6955999
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "48",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7914309,
+    "longitude": 8.6987535
+  },
+  {
+    "street": "Via Varese",
+    "number": "49",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7873952,
+    "longitude": 8.6957384
+  },
+  {
+    "street": "Via Varese",
+    "number": "51",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7876553,
+    "longitude": 8.6958875
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "54",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7921777,
+    "longitude": 8.6988026
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "55",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.793727,
+    "longitude": 8.6982552
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "57",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7937535,
+    "longitude": 8.6982639
+  },
+  {
+    "street": "Via Varese",
+    "number": "6",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7848993,
+    "longitude": 8.6939506
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "60",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7941087,
+    "longitude": 8.6986667
+  },
+  {
+    "street": "Via Varese",
+    "number": "61",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7885547,
+    "longitude": 8.69633
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "62",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7942743,
+    "longitude": 8.6987622
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "64",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7948205,
+    "longitude": 8.6991022
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "66",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7951117,
+    "longitude": 8.6992826
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "68",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.795247,
+    "longitude": 8.6993649
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "68e",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7957635,
+    "longitude": 8.6997426
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "68f",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7959431,
+    "longitude": 8.6999452
+  },
+  {
+    "street": "Via Varese",
+    "number": "6b",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7857945,
+    "longitude": 8.6951592
+  },
+  {
+    "street": "Via Varese",
+    "number": "71",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7899314,
+    "longitude": 8.696287
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "72",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7963241,
+    "longitude": 8.700424
+  },
+  {
+    "street": "Via Varese",
+    "number": "73",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7900226,
+    "longitude": 8.696302
+  },
+  {
+    "street": "Via Varese",
+    "number": "79",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7907638,
+    "longitude": 8.696522
+  },
+  {
+    "street": "Via Varese",
+    "number": "8",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7861077,
+    "longitude": 8.695273
+  },
+  {
+    "street": "Via Varese",
+    "number": "83",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7908192,
+    "longitude": 8.6965434
+  },
+  {
+    "street": "Via Varese",
+    "number": "91",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7916294,
+    "longitude": 8.697065
+  },
+  {
+    "street": "Via Campo dei Fiori",
+    "number": "1",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7855778,
+    "longitude": 8.6961758
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "1",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7878745,
+    "longitude": 8.6978911
+  },
+  {
+    "street": "Via Campo dei Fiori",
+    "number": "10",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7870884,
+    "longitude": 8.6982713
+  },
+  {
+    "street": "Via Campo dei Fiori",
+    "number": "11",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7865016,
+    "longitude": 8.696177
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "11",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7872301,
+    "longitude": 8.698761
+  },
+  {
+    "street": "Via Campo dei Fiori",
+    "number": "12",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.787154,
+    "longitude": 8.6983303
+  },
+  {
+    "street": "Via Campo dei Fiori",
+    "number": "13",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7865604,
+    "longitude": 8.6961044
+  },
+  {
+    "street": "Via Campo dei Fiori",
+    "number": "15",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7865572,
+    "longitude": 8.6961627
+  },
+  {
+    "street": "Via Campo dei Fiori",
+    "number": "2",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7855079,
+    "longitude": 8.6962572
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "2",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.788064,
+    "longitude": 8.6978887
+  },
+  {
+    "street": "Via Campo dei Fiori",
+    "number": "25",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7861142,
+    "longitude": 8.6966271
+  },
+  {
+    "street": "Via Campo dei Fiori",
+    "number": "2d",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7856118,
+    "longitude": 8.6962781
+  },
+  {
+    "street": "Via Campo dei Fiori",
+    "number": "3",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7856757,
+    "longitude": 8.6962338
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "3",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7875983,
+    "longitude": 8.6977688
+  },
+  {
+    "street": "Via Campo dei Fiori",
+    "number": "37",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7869035,
+    "longitude": 8.6980423
+  },
+  {
+    "street": "Via Campo dei Fiori",
+    "number": "39",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7872156,
+    "longitude": 8.6982951
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "4",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7878423,
+    "longitude": 8.6977907
+  },
+  {
+    "street": "Via Campo dei Fiori",
+    "number": "5",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7861254,
+    "longitude": 8.6963813
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "6",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7876542,
+    "longitude": 8.6977073
+  },
+  {
+    "street": "Via Campo dei Fiori",
+    "number": "6a",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7860372,
+    "longitude": 8.6971382
+  },
+  {
+    "street": "Via Campo dei Fiori",
+    "number": "7",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7862288,
+    "longitude": 8.696407
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "7",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7873903,
+    "longitude": 8.6980711
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "7a",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7873195,
+    "longitude": 8.6983623
+  },
+  {
+    "street": "Via Campo dei Fiori",
+    "number": "8",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7865597,
+    "longitude": 8.6978463
+  },
+  {
+    "street": "Via Campo dei Fiori",
+    "number": "9",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7864831,
+    "longitude": 8.6963214
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "9",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7872954,
+    "longitude": 8.6984582
+  },
+  {
+    "street": "Via Milano",
+    "number": "2",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7848386,
+    "longitude": 8.6984997
+  },
+  {
+    "street": "Via Milano",
+    "number": "14",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7821409,
+    "longitude": 8.6987452
+  },
+  {
+    "street": "Via Milano",
+    "number": "16",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7809681,
+    "longitude": 8.6987055
+  },
+  {
+    "street": "Via Milano",
+    "number": "18",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7807493,
+    "longitude": 8.6986563
+  },
+  {
+    "street": "Via Milano",
+    "number": "28",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7789669,
+    "longitude": 8.6985372
+  },
+  {
+    "street": "Via Milano",
+    "number": "4",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7846353,
+    "longitude": 8.6984629
+  },
+  {
+    "street": "Via Milano",
+    "number": "6",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7842482,
+    "longitude": 8.6984545
+  },
+  {
+    "street": "Via Milano",
+    "number": "8",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7836431,
+    "longitude": 8.6985532
+  },
+  {
+    "street": "Via Milano",
+    "number": "3",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7832297,
+    "longitude": 8.6987057
+  },
+  {
+    "street": "Via Milano",
+    "number": "3c",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7830325,
+    "longitude": 8.6987419
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "30",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7846762,
+    "longitude": 8.697371
+  },
+  {
+    "street": "Via Fornaci",
+    "number": "1",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7840087,
+    "longitude": 8.6948256
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "70",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7961468,
+    "longitude": 8.7001561
+  },
+  {
+    "street": "Via Fornaci",
+    "number": "11a",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7836491,
+    "longitude": 8.6963113
+  },
+  {
+    "street": "Via Fornaci",
+    "number": "11b",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7836951,
+    "longitude": 8.6963297
+  },
+  {
+    "street": "Via Fornaci",
+    "number": "11c",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7838252,
+    "longitude": 8.6963839
+  },
+  {
+    "street": "Via Fornaci",
+    "number": "11d",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7838665,
+    "longitude": 8.6964043
+  },
+  {
+    "street": "Via Fornaci",
+    "number": "11e",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7839765,
+    "longitude": 8.6964541
+  },
+  {
+    "street": "Via Fornaci",
+    "number": "11f",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7844116,
+    "longitude": 8.6966944
+  },
+  {
+    "street": "Via Fornaci",
+    "number": "11h",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7839845,
+    "longitude": 8.6965259
+  },
+  {
+    "street": "Via Fornaci",
+    "number": "11i",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7838415,
+    "longitude": 8.6964591
+  },
+  {
+    "street": "Via Fornaci",
+    "number": "9",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7836097,
+    "longitude": 8.6959042
+  },
+  {
+    "street": "Via Roma",
+    "number": "30",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7791222,
+    "longitude": 8.6974168
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "20",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7882807,
+    "longitude": 8.7000877
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "26",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.788255,
+    "longitude": 8.7002969
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "28",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7884106,
+    "longitude": 8.7003089
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "30",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7885464,
+    "longitude": 8.7003239
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "4",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7866691,
+    "longitude": 8.6992396
+  },
+  {
+    "street": "Via Stazione",
+    "number": "29",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7817412,
+    "longitude": 8.7013757
+  },
+  {
+    "street": "Via Malpaga",
+    "number": "2",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7821754,
+    "longitude": 8.7015977
+  },
+  {
+    "street": "Via Roma",
+    "number": "75",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.78132,
+    "longitude": 8.696588
+  },
+  {
+    "street": "Via Roma",
+    "number": "69",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7812932,
+    "longitude": 8.696564
+  },
+  {
+    "street": "Via Motta",
+    "number": "3",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7819062,
+    "longitude": 8.6897676
+  },
+  {
+    "street": "Via Motta",
+    "number": "21",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7796517,
+    "longitude": 8.687889
+  },
+  {
+    "street": "Via Motta",
+    "number": "7",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7810584,
+    "longitude": 8.6887423
+  },
+  {
+    "street": "Via Motta",
+    "number": "25",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7794621,
+    "longitude": 8.6883824
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "16a",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7817513,
+    "longitude": 8.6999327
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "16",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7820824,
+    "longitude": 8.700213
+  },
+  {
+    "street": "Via per Travedona",
+    "number": "722",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7892716,
+    "longitude": 8.6804798
+  },
+  {
+    "street": "Pista Ciclopedonale del Lago di Comabbio",
+    "number": "23",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7795395,
+    "longitude": 8.6884737
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "12c",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7821648,
+    "longitude": 8.6992112
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "12A",
+    "city": {
+      "name": "Ternate",
+      "istat": "012126"
+    },
+    "latitude": 45.7822589,
+    "longitude": 8.699937
+  }
+]

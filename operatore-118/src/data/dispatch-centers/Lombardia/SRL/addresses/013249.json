@@ -1,0 +1,322 @@
+[
+  {
+    "street": "Viale Umberto 1",
+    "number": "12",
+    "city": {
+      "name": "Gravedona ed Uniti",
+      "istat": "013249"
+    },
+    "latitude": 46.1459578,
+    "longitude": 9.3055777
+  },
+  {
+    "street": "Via Tagliaferri",
+    "number": "12",
+    "city": {
+      "name": "Gravedona ed Uniti",
+      "istat": "013249"
+    },
+    "latitude": 46.1470833,
+    "longitude": 9.304426
+  },
+  {
+    "street": "Piazza San Rocco",
+    "number": "1",
+    "city": {
+      "name": "Gravedona ed Uniti",
+      "istat": "013249"
+    },
+    "latitude": 46.1481626,
+    "longitude": 9.3062698
+  },
+  {
+    "street": "Via Taiana",
+    "number": "1a",
+    "city": {
+      "name": "Gravedona ed Uniti",
+      "istat": "013249"
+    },
+    "latitude": 46.1434507,
+    "longitude": 9.2889109
+  },
+  {
+    "street": "Via Ballotta",
+    "number": "14",
+    "city": {
+      "name": "Gravedona ed Uniti",
+      "istat": "013249"
+    },
+    "latitude": 46.1473591,
+    "longitude": 9.3011319
+  },
+  {
+    "street": "Via Regina",
+    "number": "48",
+    "city": {
+      "name": "Gravedona ed Uniti",
+      "istat": "013249"
+    },
+    "latitude": 46.1413772,
+    "longitude": 9.2929294
+  },
+  {
+    "street": "Via Sant'Abbondio",
+    "number": "8",
+    "city": {
+      "name": "Gravedona ed Uniti",
+      "istat": "013249"
+    },
+    "latitude": 46.143788,
+    "longitude": 9.2988157
+  },
+  {
+    "street": "Via Alla Poncia",
+    "number": "84",
+    "city": {
+      "name": "Gravedona ed Uniti",
+      "istat": "013249"
+    },
+    "latitude": 46.1418205,
+    "longitude": 9.2980285
+  },
+  {
+    "street": "Via Alla Poncia",
+    "number": "82",
+    "city": {
+      "name": "Gravedona ed Uniti",
+      "istat": "013249"
+    },
+    "latitude": 46.1417175,
+    "longitude": 9.2979564
+  },
+  {
+    "street": "Via Regina Ponente",
+    "number": "21",
+    "city": {
+      "name": "Gravedona ed Uniti",
+      "istat": "013249"
+    },
+    "latitude": 46.1465395,
+    "longitude": 9.3025991
+  },
+  {
+    "street": "Via Maglio",
+    "number": "8",
+    "city": {
+      "name": "Gravedona ed Uniti",
+      "istat": "013249"
+    },
+    "latitude": 46.1433952,
+    "longitude": 9.3014368
+  },
+  {
+    "street": "Via Dispersi in Guerra",
+    "number": "23",
+    "city": {
+      "name": "Gravedona ed Uniti",
+      "istat": "013249"
+    },
+    "latitude": 46.1494047,
+    "longitude": 9.3082937
+  },
+  {
+    "street": "Piazza Giuseppe del Marco",
+    "number": "2",
+    "city": {
+      "name": "Gravedona ed Uniti",
+      "istat": "013249"
+    },
+    "latitude": 46.1431993,
+    "longitude": 9.3025119
+  },
+  {
+    "street": "Via Cerviano",
+    "number": "27",
+    "city": {
+      "name": "Gravedona ed Uniti",
+      "istat": "013249"
+    },
+    "latitude": 46.1485076,
+    "longitude": 9.3015334
+  },
+  {
+    "street": "Via Cerviano",
+    "number": "23",
+    "city": {
+      "name": "Gravedona ed Uniti",
+      "istat": "013249"
+    },
+    "latitude": 46.1483554,
+    "longitude": 9.3016412
+  },
+  {
+    "street": "Strada statale 340 diramazione Regina",
+    "number": "2",
+    "city": {
+      "name": "Gravedona ed Uniti",
+      "istat": "013249"
+    },
+    "latitude": 46.148663,
+    "longitude": 9.3089728
+  },
+  {
+    "street": "Strada statale 340 diramazione Regina",
+    "number": "4",
+    "city": {
+      "name": "Gravedona ed Uniti",
+      "istat": "013249"
+    },
+    "latitude": 46.1486662,
+    "longitude": 9.309024
+  },
+  {
+    "street": "Piazza Trento",
+    "number": "12",
+    "city": {
+      "name": "Gravedona ed Uniti",
+      "istat": "013249"
+    },
+    "latitude": 46.1435571,
+    "longitude": 9.2997017
+  },
+  {
+    "street": "Via Molo Vecchio",
+    "number": "67",
+    "city": {
+      "name": "Gravedona ed Uniti",
+      "istat": "013249"
+    },
+    "latitude": 46.1476209,
+    "longitude": 9.3033704
+  },
+  {
+    "street": "Via Molo Vecchio",
+    "number": "69",
+    "city": {
+      "name": "Gravedona ed Uniti",
+      "istat": "013249"
+    },
+    "latitude": 46.1476562,
+    "longitude": 9.3034369
+  },
+  {
+    "street": "Via Molo Vecchio",
+    "number": "65",
+    "city": {
+      "name": "Gravedona ed Uniti",
+      "istat": "013249"
+    },
+    "latitude": 46.1475602,
+    "longitude": 9.3033456
+  },
+  {
+    "street": "Via Regina",
+    "number": "73",
+    "city": {
+      "name": "Gravedona ed Uniti",
+      "istat": "013249"
+    },
+    "latitude": 46.1382157,
+    "longitude": 9.2905006
+  },
+  {
+    "street": "Scuri",
+    "number": "2",
+    "city": {
+      "name": "Gravedona ed Uniti",
+      "istat": "013249"
+    },
+    "latitude": 46.1398619,
+    "longitude": 9.3050451
+  },
+  {
+    "street": "Via alla Poncia",
+    "number": "33",
+    "city": {
+      "name": "Gravedona ed Uniti",
+      "istat": "013249"
+    },
+    "latitude": 46.1357822,
+    "longitude": 9.295401
+  },
+  {
+    "street": "Via Regina Lente",
+    "number": "37",
+    "city": {
+      "name": "Gravedona ed Uniti",
+      "istat": "013249"
+    },
+    "latitude": 46.1496135,
+    "longitude": 9.3144858
+  },
+  {
+    "street": "Via Gordotto",
+    "number": "2",
+    "city": {
+      "name": "Gravedona ed Uniti",
+      "istat": "013249"
+    },
+    "latitude": 46.1398328,
+    "longitude": 9.2906765
+  },
+  {
+    "street": "Via Trento",
+    "number": "13",
+    "city": {
+      "name": "Gravedona ed Uniti",
+      "istat": "013249"
+    },
+    "latitude": 46.1438196,
+    "longitude": 9.3002618
+  },
+  {
+    "street": "Via Regina",
+    "number": "65",
+    "city": {
+      "name": "Gravedona ed Uniti",
+      "istat": "013249"
+    },
+    "latitude": 46.1398754,
+    "longitude": 9.291826
+  },
+  {
+    "street": "Via alla Poncia",
+    "number": "17",
+    "city": {
+      "name": "Gravedona ed Uniti",
+      "istat": "013249"
+    },
+    "latitude": 46.1362926,
+    "longitude": 9.2933231
+  },
+  {
+    "street": "Via Regina",
+    "number": "6",
+    "city": {
+      "name": "Gravedona ed Uniti",
+      "istat": "013249"
+    },
+    "latitude": 46.1430153,
+    "longitude": 9.2956796
+  },
+  {
+    "street": "Via Ganda",
+    "number": "3 - 5",
+    "city": {
+      "name": "Gravedona ed Uniti",
+      "istat": "013249"
+    },
+    "latitude": 46.1410791,
+    "longitude": 9.2873264
+  },
+  {
+    "street": "Via alla Poncia",
+    "number": "59",
+    "city": {
+      "name": "Gravedona ed Uniti",
+      "istat": "013249"
+    },
+    "latitude": 46.1362974,
+    "longitude": 9.3007499
+  }
+]

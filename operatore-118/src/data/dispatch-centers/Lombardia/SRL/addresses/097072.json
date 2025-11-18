@@ -1,0 +1,422 @@
+[
+  {
+    "street": "Piazza Vittorio Emanuele II",
+    "number": "2",
+    "city": {
+      "name": "Rogeno",
+      "istat": "097072"
+    },
+    "latitude": 45.7823736,
+    "longitude": 9.273911
+  },
+  {
+    "street": "Via Vicinale Nuova",
+    "number": "2",
+    "city": {
+      "name": "Rogeno",
+      "istat": "097072"
+    },
+    "latitude": 45.7855555,
+    "longitude": 9.2734359
+  },
+  {
+    "street": "Viale Piave",
+    "number": "20",
+    "city": {
+      "name": "Rogeno",
+      "istat": "097072"
+    },
+    "latitude": 45.7849085,
+    "longitude": 9.2732974
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "30",
+    "city": {
+      "name": "Rogeno",
+      "istat": "097072"
+    },
+    "latitude": 45.781713,
+    "longitude": 9.2728717
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "39",
+    "city": {
+      "name": "Rogeno",
+      "istat": "097072"
+    },
+    "latitude": 45.7895601,
+    "longitude": 9.2676596
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "8",
+    "city": {
+      "name": "Rogeno",
+      "istat": "097072"
+    },
+    "latitude": 45.7820695,
+    "longitude": 9.2731319
+  },
+  {
+    "street": "Viale Piave",
+    "number": "9",
+    "city": {
+      "name": "Rogeno",
+      "istat": "097072"
+    },
+    "latitude": 45.7855003,
+    "longitude": 9.2758573
+  },
+  {
+    "street": "Viale Piave",
+    "number": "17",
+    "city": {
+      "name": "Rogeno",
+      "istat": "097072"
+    },
+    "latitude": 45.7856274,
+    "longitude": 9.2738059
+  },
+  {
+    "street": "Viale Piave",
+    "number": "24",
+    "city": {
+      "name": "Rogeno",
+      "istat": "097072"
+    },
+    "latitude": 45.7845365,
+    "longitude": 9.2724564
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "18",
+    "city": {
+      "name": "Rogeno",
+      "istat": "097072"
+    },
+    "latitude": 45.7820495,
+    "longitude": 9.2732677
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "10",
+    "city": {
+      "name": "Rogeno",
+      "istat": "097072"
+    },
+    "latitude": 45.7820832,
+    "longitude": 9.2730282
+  },
+  {
+    "street": "Via Don Luigi Monza",
+    "number": "20",
+    "city": {
+      "name": "Rogeno",
+      "istat": "097072"
+    },
+    "latitude": 45.7879477,
+    "longitude": 9.2887112
+  },
+  {
+    "street": "Piazza Martiri della Libertà",
+    "number": "1",
+    "city": {
+      "name": "Rogeno",
+      "istat": "097072"
+    },
+    "latitude": 45.7822525,
+    "longitude": 9.2725709
+  },
+  {
+    "street": "Via della Vigna",
+    "number": "1",
+    "city": {
+      "name": "Rogeno",
+      "istat": "097072"
+    },
+    "latitude": 45.7885348,
+    "longitude": 9.269365
+  },
+  {
+    "street": "Via L. Binda",
+    "number": "19",
+    "city": {
+      "name": "Rogeno",
+      "istat": "097072"
+    },
+    "latitude": 45.7809511,
+    "longitude": 9.2749529
+  },
+  {
+    "street": "Via Vittorio Emanuele Secondo",
+    "number": "13",
+    "city": {
+      "name": "Rogeno",
+      "istat": "097072"
+    },
+    "latitude": 45.7880382,
+    "longitude": 9.2723802
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "51",
+    "city": {
+      "name": "Rogeno",
+      "istat": "097072"
+    },
+    "latitude": 45.7890174,
+    "longitude": 9.2638686
+  },
+  {
+    "street": "Via Calvenzana Inferiore",
+    "number": "2",
+    "city": {
+      "name": "Rogeno",
+      "istat": "097072"
+    },
+    "latitude": 45.7756362,
+    "longitude": 9.280117
+  },
+  {
+    "street": "Via Spino",
+    "number": "2",
+    "city": {
+      "name": "Rogeno",
+      "istat": "097072"
+    },
+    "latitude": 45.7753799,
+    "longitude": 9.2830291
+  },
+  {
+    "street": "Via Spino",
+    "number": "4",
+    "city": {
+      "name": "Rogeno",
+      "istat": "097072"
+    },
+    "latitude": 45.7752795,
+    "longitude": 9.2836218
+  },
+  {
+    "street": "Via Calvenzana Inferiore",
+    "number": "9",
+    "city": {
+      "name": "Rogeno",
+      "istat": "097072"
+    },
+    "latitude": 45.7749239,
+    "longitude": 9.2817992
+  },
+  {
+    "street": "Via Calvenzana Inferiore",
+    "number": "11",
+    "city": {
+      "name": "Rogeno",
+      "istat": "097072"
+    },
+    "latitude": 45.7748302,
+    "longitude": 9.2811368
+  },
+  {
+    "street": "Via Vicinale dei Campi",
+    "number": "4",
+    "city": {
+      "name": "Rogeno",
+      "istat": "097072"
+    },
+    "latitude": 45.7738428,
+    "longitude": 9.2781872
+  },
+  {
+    "street": "Via ai Campi",
+    "number": "1",
+    "city": {
+      "name": "Rogeno",
+      "istat": "097072"
+    },
+    "latitude": 45.7740165,
+    "longitude": 9.2804105
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "14",
+    "city": {
+      "name": "Rogeno",
+      "istat": "097072"
+    },
+    "latitude": 45.7812912,
+    "longitude": 9.2721909
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "16",
+    "city": {
+      "name": "Rogeno",
+      "istat": "097072"
+    },
+    "latitude": 45.7813415,
+    "longitude": 9.2718279
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "18",
+    "city": {
+      "name": "Rogeno",
+      "istat": "097072"
+    },
+    "latitude": 45.7811595,
+    "longitude": 9.2713298
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "20",
+    "city": {
+      "name": "Rogeno",
+      "istat": "097072"
+    },
+    "latitude": 45.7813133,
+    "longitude": 9.2710357
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "24",
+    "city": {
+      "name": "Rogeno",
+      "istat": "097072"
+    },
+    "latitude": 45.7809544,
+    "longitude": 9.2704111
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "15",
+    "city": {
+      "name": "Rogeno",
+      "istat": "097072"
+    },
+    "latitude": 45.7806904,
+    "longitude": 9.2723636
+  },
+  {
+    "street": "Via Vicinale dei Campi",
+    "number": "5",
+    "city": {
+      "name": "Rogeno",
+      "istat": "097072"
+    },
+    "latitude": 45.7735229,
+    "longitude": 9.2791477
+  },
+  {
+    "street": "Via ai Campi",
+    "number": "5",
+    "city": {
+      "name": "Rogeno",
+      "istat": "097072"
+    },
+    "latitude": 45.7732719,
+    "longitude": 9.280912
+  },
+  {
+    "street": "Via Calvenzana Inferiore",
+    "number": "1",
+    "city": {
+      "name": "Rogeno",
+      "istat": "097072"
+    },
+    "latitude": 45.7750721,
+    "longitude": 9.2823709
+  },
+  {
+    "street": "Via ai Campi",
+    "number": "4/6",
+    "city": {
+      "name": "Rogeno",
+      "istat": "097072"
+    },
+    "latitude": 45.7729289,
+    "longitude": 9.2793608
+  },
+  {
+    "street": "Via ai Campi",
+    "number": "2",
+    "city": {
+      "name": "Rogeno",
+      "istat": "097072"
+    },
+    "latitude": 45.7736281,
+    "longitude": 9.2795376
+  },
+  {
+    "street": "Via Calvenzana Inferiore",
+    "number": "17",
+    "city": {
+      "name": "Rogeno",
+      "istat": "097072"
+    },
+    "latitude": 45.7746047,
+    "longitude": 9.2788406
+  },
+  {
+    "street": "Via Calvenzana Inferiore",
+    "number": "21",
+    "city": {
+      "name": "Rogeno",
+      "istat": "097072"
+    },
+    "latitude": 45.7744961,
+    "longitude": 9.2783669
+  },
+  {
+    "street": "Via Calvenzana Inferiore",
+    "number": "18",
+    "city": {
+      "name": "Rogeno",
+      "istat": "097072"
+    },
+    "latitude": 45.7752174,
+    "longitude": 9.2794498
+  },
+  {
+    "street": "Via Spino",
+    "number": "3",
+    "city": {
+      "name": "Rogeno",
+      "istat": "097072"
+    },
+    "latitude": 45.7765046,
+    "longitude": 9.2829557
+  },
+  {
+    "street": "Via Boscaccio",
+    "number": "21",
+    "city": {
+      "name": "Rogeno",
+      "istat": "097072"
+    },
+    "latitude": 45.7767241,
+    "longitude": 9.2514065
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "32",
+    "city": {
+      "name": "Rogeno",
+      "istat": "097072"
+    },
+    "latitude": 45.779603,
+    "longitude": 9.2680602
+  },
+  {
+    "street": "Via Enrico Fermi",
+    "number": "26",
+    "city": {
+      "name": "Rogeno",
+      "istat": "097072"
+    },
+    "latitude": 45.7755739,
+    "longitude": 9.2715455
+  }
+]

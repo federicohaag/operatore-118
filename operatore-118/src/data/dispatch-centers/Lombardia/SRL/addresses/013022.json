@@ -1,0 +1,132 @@
+[
+  {
+    "street": "Piazza Repubblica",
+    "number": "8",
+    "city": {
+      "name": "Beregazzo con Figliaro",
+      "istat": "013022"
+    },
+    "latitude": 45.7713698,
+    "longitude": 8.9589617
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "11",
+    "city": {
+      "name": "Beregazzo con Figliaro",
+      "istat": "013022"
+    },
+    "latitude": 45.7711821,
+    "longitude": 8.9581248
+  },
+  {
+    "street": "Corso Roma",
+    "number": "35",
+    "city": {
+      "name": "Beregazzo con Figliaro",
+      "istat": "013022"
+    },
+    "latitude": 45.7758574,
+    "longitude": 8.9509042
+  },
+  {
+    "street": "Corso Roma",
+    "number": "2",
+    "city": {
+      "name": "Beregazzo con Figliaro",
+      "istat": "013022"
+    },
+    "latitude": 45.7787255,
+    "longitude": 8.9457161
+  },
+  {
+    "street": "Via San Pietro",
+    "number": "18",
+    "city": {
+      "name": "Beregazzo con Figliaro",
+      "istat": "013022"
+    },
+    "latitude": 45.7729076,
+    "longitude": 8.9610888
+  },
+  {
+    "street": "Via San Pietro",
+    "number": "14",
+    "city": {
+      "name": "Beregazzo con Figliaro",
+      "istat": "013022"
+    },
+    "latitude": 45.7730533,
+    "longitude": 8.9603896
+  },
+  {
+    "street": "Via San Pietro",
+    "number": "5",
+    "city": {
+      "name": "Beregazzo con Figliaro",
+      "istat": "013022"
+    },
+    "latitude": 45.7724173,
+    "longitude": 8.9592031
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "7",
+    "city": {
+      "name": "Beregazzo con Figliaro",
+      "istat": "013022"
+    },
+    "latitude": 45.7725706,
+    "longitude": 8.9616663
+  },
+  {
+    "street": "Via San Pietro",
+    "number": "28",
+    "city": {
+      "name": "Beregazzo con Figliaro",
+      "istat": "013022"
+    },
+    "latitude": 45.7753714,
+    "longitude": 8.9603404
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "31",
+    "city": {
+      "name": "Beregazzo con Figliaro",
+      "istat": "013022"
+    },
+    "latitude": 45.7676177,
+    "longitude": 8.9615398
+  },
+  {
+    "street": "Via San Pietro",
+    "number": "20",
+    "city": {
+      "name": "Beregazzo con Figliaro",
+      "istat": "013022"
+    },
+    "latitude": 45.7733658,
+    "longitude": 8.9608843
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "33",
+    "city": {
+      "name": "Beregazzo con Figliaro",
+      "istat": "013022"
+    },
+    "latitude": 45.7670357,
+    "longitude": 8.9618843
+  },
+  {
+    "street": "Via Pozzetto",
+    "number": "4 A",
+    "city": {
+      "name": "Beregazzo con Figliaro",
+      "istat": "013022"
+    },
+    "latitude": 45.7833926,
+    "longitude": 8.9458762
+  }
+]

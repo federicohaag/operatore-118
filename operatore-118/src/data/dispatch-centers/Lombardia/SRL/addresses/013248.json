@@ -1,0 +1,172 @@
+[
+  {
+    "street": "Via Statale",
+    "number": "42",
+    "city": {
+      "name": "San Siro",
+      "istat": "013248"
+    },
+    "latitude": 46.0536212,
+    "longitude": 9.2590186
+  },
+  {
+    "street": "Via Lario",
+    "number": "6",
+    "city": {
+      "name": "San Siro",
+      "istat": "013248"
+    },
+    "latitude": 46.0531727,
+    "longitude": 9.2596648
+  },
+  {
+    "street": "Via Statale Regina",
+    "number": "41",
+    "city": {
+      "name": "San Siro",
+      "istat": "013248"
+    },
+    "latitude": 46.0701515,
+    "longitude": 9.2767716
+  },
+  {
+    "street": "Strada statale 340 diramazione Regina",
+    "number": "15",
+    "city": {
+      "name": "San Siro",
+      "istat": "013248"
+    },
+    "latitude": 46.0512828,
+    "longitude": 9.2577517
+  },
+  {
+    "street": "Via Rezzonico",
+    "number": "17",
+    "city": {
+      "name": "San Siro",
+      "istat": "013248"
+    },
+    "latitude": 46.0703273,
+    "longitude": 9.276946
+  },
+  {
+    "street": "Via Rezzonico",
+    "number": "19",
+    "city": {
+      "name": "San Siro",
+      "istat": "013248"
+    },
+    "latitude": 46.0703575,
+    "longitude": 9.2770318
+  },
+  {
+    "street": "Via Giuseppe Carozzi",
+    "number": "28",
+    "city": {
+      "name": "San Siro",
+      "istat": "013248"
+    },
+    "latitude": 46.0537504,
+    "longitude": 9.2604379
+  },
+  {
+    "street": "Via Giuseppe Carozzi",
+    "number": "24",
+    "city": {
+      "name": "San Siro",
+      "istat": "013248"
+    },
+    "latitude": 46.0537208,
+    "longitude": 9.2602463
+  },
+  {
+    "street": "Via Giuseppe Carozzi",
+    "number": "17",
+    "city": {
+      "name": "San Siro",
+      "istat": "013248"
+    },
+    "latitude": 46.053954,
+    "longitude": 9.2601097
+  },
+  {
+    "street": "Antica Strada Regina",
+    "number": "34",
+    "city": {
+      "name": "San Siro",
+      "istat": "013248"
+    },
+    "latitude": 46.0531968,
+    "longitude": 9.2597978
+  },
+  {
+    "street": "Via Statale",
+    "number": "32",
+    "city": {
+      "name": "San Siro",
+      "istat": "013248"
+    },
+    "latitude": 46.0528016,
+    "longitude": 9.2591053
+  },
+  {
+    "street": "Via Don G. Galli",
+    "number": "4",
+    "city": {
+      "name": "San Siro",
+      "istat": "013248"
+    },
+    "latitude": 46.0552931,
+    "longitude": 9.2585685
+  },
+  {
+    "street": "Via Carozzi",
+    "number": "38",
+    "city": {
+      "name": "San Siro",
+      "istat": "013248"
+    },
+    "latitude": 46.0538477,
+    "longitude": 9.2603696
+  },
+  {
+    "street": "Via Giuseppe Carozzi",
+    "number": "20",
+    "city": {
+      "name": "San Siro",
+      "istat": "013248"
+    },
+    "latitude": 46.0537396,
+    "longitude": 9.2599684
+  },
+  {
+    "street": "Via Giuseppe Carozzi",
+    "number": "26",
+    "city": {
+      "name": "San Siro",
+      "istat": "013248"
+    },
+    "latitude": 46.0537452,
+    "longitude": 9.2603694
+  },
+  {
+    "street": "Via Giuseppe Carozzi",
+    "number": "22",
+    "city": {
+      "name": "San Siro",
+      "istat": "013248"
+    },
+    "latitude": 46.0537138,
+    "longitude": 9.260166
+  },
+  {
+    "street": "Via Giuseppe Carozzi",
+    "number": "18",
+    "city": {
+      "name": "San Siro",
+      "istat": "013248"
+    },
+    "latitude": 46.0537464,
+    "longitude": 9.2599045
+  }
+]

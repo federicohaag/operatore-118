@@ -1,0 +1,522 @@
+[
+  {
+    "street": "Piazza Venticinque Aprile",
+    "number": "1",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.5940363,
+    "longitude": 9.0149474
+  },
+  {
+    "street": "Via Repubblica",
+    "number": "14",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.5993863,
+    "longitude": 9.0184734
+  },
+  {
+    "street": "Via Repubblica",
+    "number": "4",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.5990349,
+    "longitude": 9.0184042
+  },
+  {
+    "street": "Via Cascina Muschiona",
+    "number": "22",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.5854345,
+    "longitude": 9.0144637
+  },
+  {
+    "street": "Via per Caronno",
+    "number": "6",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.5998662,
+    "longitude": 9.0250181
+  },
+  {
+    "street": "Via Repubblica",
+    "number": "5",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.5988884,
+    "longitude": 9.0186069
+  },
+  {
+    "street": "Via ai Boschi",
+    "number": "17",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.5988921,
+    "longitude": 9.0163766
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "15",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.5996776,
+    "longitude": 9.0176557
+  },
+  {
+    "street": "Piazza Immacolata",
+    "number": "1",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.5979433,
+    "longitude": 9.0180155
+  },
+  {
+    "street": "Via Saronnino",
+    "number": "39",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.5984371,
+    "longitude": 9.0267819
+  },
+  {
+    "street": "Via ai Giardini",
+    "number": "14",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.5978813,
+    "longitude": 9.0170941
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "15",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.5957435,
+    "longitude": 9.0205647
+  },
+  {
+    "street": "Via Gran Paradiso",
+    "number": "2",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.5991597,
+    "longitude": 9.0143289
+  },
+  {
+    "street": "Via Repubblica",
+    "number": "54",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.5991779,
+    "longitude": 9.0193224
+  },
+  {
+    "street": "Via Repubblica",
+    "number": "22",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.5994142,
+    "longitude": 9.0186686
+  },
+  {
+    "street": "Via Repubblica",
+    "number": "1",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.598881,
+    "longitude": 9.0181388
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "12",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.6014506,
+    "longitude": 9.016493
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "32",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.5985407,
+    "longitude": 9.01811
+  },
+  {
+    "street": "Piazza Immacolata",
+    "number": "4",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.5978997,
+    "longitude": 9.0181833
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "19",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.5967576,
+    "longitude": 9.0171924
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "14",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.5966799,
+    "longitude": 9.017291
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "44",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.5981039,
+    "longitude": 9.0179819
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "38",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.5982236,
+    "longitude": 9.0180124
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "12",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.5967524,
+    "longitude": 9.0174749
+  },
+  {
+    "street": "Piazza Immacolata",
+    "number": "6",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.5979356,
+    "longitude": 9.0184326
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "85",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.5973976,
+    "longitude": 9.0177775
+  },
+  {
+    "street": "Via Gian Battista Lombardi",
+    "number": "3",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.5968774,
+    "longitude": 9.0182185
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "35",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.5989821,
+    "longitude": 9.0180296
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "63",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.5979049,
+    "longitude": 9.0174999
+  },
+  {
+    "street": "Viale Italia",
+    "number": "77",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.5808234,
+    "longitude": 9.0139377
+  },
+  {
+    "street": "Via per Lainate",
+    "number": "33",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.5849823,
+    "longitude": 9.0242179
+  },
+  {
+    "street": "Via Visconti",
+    "number": "20",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.5968552,
+    "longitude": 9.0163393
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "36",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.6024663,
+    "longitude": 9.015013
+  },
+  {
+    "street": "Via Sant'Eustorgio",
+    "number": "21",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.603086,
+    "longitude": 9.0176331
+  },
+  {
+    "street": "Via Don Ernesto Castiglioni",
+    "number": "31/8",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.5887653,
+    "longitude": 9.0143938
+  },
+  {
+    "street": "Via Don Ernesto Castiglioni",
+    "number": "31/12",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.5886972,
+    "longitude": 9.0141357
+  },
+  {
+    "street": "Via Don Ernesto Castiglioni",
+    "number": "31/24",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.5884249,
+    "longitude": 9.0134735
+  },
+  {
+    "street": "Via Don Ernesto Castiglioni",
+    "number": "31/26",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.588637,
+    "longitude": 9.0133725
+  },
+  {
+    "street": "Via Don Ernesto Castiglioni",
+    "number": "23/25",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.5888804,
+    "longitude": 9.0132528
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "5/7",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.5971607,
+    "longitude": 9.0108555
+  },
+  {
+    "street": "Via Stravazza",
+    "number": "3",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.5912705,
+    "longitude": 9.0106326
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "25",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.5965623,
+    "longitude": 9.0054954
+  },
+  {
+    "street": "Via per Lainate",
+    "number": "31",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.5856736,
+    "longitude": 9.0236809
+  },
+  {
+    "street": "Via Fontanaccia",
+    "number": "14",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.5935125,
+    "longitude": 9.0248179
+  },
+  {
+    "street": "Via Saronnino",
+    "number": "5",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.5926355,
+    "longitude": 9.0274636
+  },
+  {
+    "street": "Via Streppina",
+    "number": "20",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.6004562,
+    "longitude": 9.0111813
+  },
+  {
+    "street": "Via per Cantalupo",
+    "number": "56",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.5901195,
+    "longitude": 9.0018229
+  },
+  {
+    "street": "Via Piantanida",
+    "number": "24",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.5965331,
+    "longitude": 9.0223708
+  },
+  {
+    "street": "Largo Umberto Boccioni",
+    "number": "3",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.602374,
+    "longitude": 9.0259335
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "45",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.604211,
+    "longitude": 9.0136093
+  },
+  {
+    "street": "Via Saronnino",
+    "number": "3",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.5913477,
+    "longitude": 9.0270147
+  },
+  {
+    "street": "Via del Lavoro",
+    "number": "13",
+    "city": {
+      "name": "Origgio",
+      "istat": "012109"
+    },
+    "latitude": 45.6004528,
+    "longitude": 9.0060728
+  }
+]

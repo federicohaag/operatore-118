@@ -1,0 +1,512 @@
+[
+  {
+    "street": "Viale Regina Margherita",
+    "number": "9",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.638037,
+    "longitude": 9.2634469
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "19",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6316417,
+    "longitude": 9.249834
+  },
+  {
+    "street": "Via Graziella Fumagalli",
+    "number": "14",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6317741,
+    "longitude": 9.248149
+  },
+  {
+    "street": "Via Graziella Fumagalli",
+    "number": "12",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6318771,
+    "longitude": 9.2482334
+  },
+  {
+    "street": "Via Graziella Fumagalli",
+    "number": "10",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6319326,
+    "longitude": 9.2483542
+  },
+  {
+    "street": "Via Graziella Fumagalli",
+    "number": "6",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6319213,
+    "longitude": 9.2485949
+  },
+  {
+    "street": "Via Graziella Fumagalli",
+    "number": "2",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.631772,
+    "longitude": 9.2487051
+  },
+  {
+    "street": "Via Graziella Fumagalli",
+    "number": "13",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6310876,
+    "longitude": 9.2485359
+  },
+  {
+    "street": "Via Graziella Fumagalli",
+    "number": "11",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.630995,
+    "longitude": 9.248724
+  },
+  {
+    "street": "Via Graziella Fumagalli",
+    "number": "7",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.631122,
+    "longitude": 9.2490365
+  },
+  {
+    "street": "Via Graziella Fumagalli",
+    "number": "3",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6312264,
+    "longitude": 9.2490509
+  },
+  {
+    "street": "Via Graziella Fumagalli",
+    "number": "1",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6313203,
+    "longitude": 9.2491665
+  },
+  {
+    "street": "Via Graziella Fumagalli",
+    "number": "9",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6310427,
+    "longitude": 9.2489297
+  },
+  {
+    "street": "Via Milano",
+    "number": "14",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.640029,
+    "longitude": 9.2696719
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "4",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6383497,
+    "longitude": 9.2623541
+  },
+  {
+    "street": "Via Veneto",
+    "number": "4",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6400243,
+    "longitude": 9.2690633
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "1",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6311073,
+    "longitude": 9.2462413
+  },
+  {
+    "street": "Via Enrico Mattei",
+    "number": "10",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6361963,
+    "longitude": 9.2549944
+  },
+  {
+    "street": "Viale Regina Margherita",
+    "number": "2",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6385274,
+    "longitude": 9.2640737
+  },
+  {
+    "street": "Via Lambro",
+    "number": "72",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6458924,
+    "longitude": 9.2869127
+  },
+  {
+    "street": "Via Lambro",
+    "number": "71",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6458249,
+    "longitude": 9.2871179
+  },
+  {
+    "street": "Via Italia",
+    "number": "42",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6416663,
+    "longitude": 9.2684631
+  },
+  {
+    "street": "Via Veneto",
+    "number": "8",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6400079,
+    "longitude": 9.268828
+  },
+  {
+    "street": "Via Veneto",
+    "number": "6",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6399159,
+    "longitude": 9.2689956
+  },
+  {
+    "street": "Via Italia",
+    "number": "13",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6406132,
+    "longitude": 9.2689026
+  },
+  {
+    "street": "Via Cardinal Ferrari",
+    "number": "3",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6317287,
+    "longitude": 9.2457946
+  },
+  {
+    "street": "Via Lambro",
+    "number": "50",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6445049,
+    "longitude": 9.2867483
+  },
+  {
+    "street": "Via Enrico Toti",
+    "number": "80",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6285651,
+    "longitude": 9.2414858
+  },
+  {
+    "street": "Milano",
+    "number": "25",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6386571,
+    "longitude": 9.2701836
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "18",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6318517,
+    "longitude": 9.2496542
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "24",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6318081,
+    "longitude": 9.2494536
+  },
+  {
+    "street": "Via Enrico Toti",
+    "number": "10",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6296682,
+    "longitude": 9.246023
+  },
+  {
+    "street": "Via Enrico Toti",
+    "number": "24",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6295819,
+    "longitude": 9.2452873
+  },
+  {
+    "street": "Via Ludovico Muratori",
+    "number": "2",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6299232,
+    "longitude": 9.2470696
+  },
+  {
+    "street": "Via Ludovico Muratori",
+    "number": "5",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6299284,
+    "longitude": 9.2469616
+  },
+  {
+    "street": "Via Cardinal Ferrari",
+    "number": "19",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6299785,
+    "longitude": 9.2464898
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "8",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6333712,
+    "longitude": 9.2463304
+  },
+  {
+    "street": "Via Graziella Fumagalli",
+    "number": "4",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6318674,
+    "longitude": 9.2486626
+  },
+  {
+    "street": "Via Graziella Fumagalli",
+    "number": "8",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6319574,
+    "longitude": 9.2484716
+  },
+  {
+    "street": "Via Milano, 1, 20846 Macherio MB",
+    "number": "1",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6400396,
+    "longitude": 9.2694537
+  },
+  {
+    "street": "Via Italia, 18, 20846 Macherio MB",
+    "number": "18",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6404084,
+    "longitude": 9.2690244
+  },
+  {
+    "street": "Via Don Venanzio Corti",
+    "number": "7",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6435319,
+    "longitude": 9.2753704
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "2",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6388373,
+    "longitude": 9.2653543
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "4",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6388711,
+    "longitude": 9.2653306
+  },
+  {
+    "street": "Via Roma",
+    "number": "76",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6387828,
+    "longitude": 9.26543
+  },
+  {
+    "street": "Via Giuseppe Parini 20846 Macherio MB",
+    "number": "17",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6320359,
+    "longitude": 9.2520458
+  },
+  {
+    "street": "Via Guido Visconti di Modrone",
+    "number": "39",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6413117,
+    "longitude": 9.2711758
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "2",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6382718,
+    "longitude": 9.2651663
+  },
+  {
+    "street": "Via Sant'Ambrogio",
+    "number": "16",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6314391,
+    "longitude": 9.2445564
+  },
+  {
+    "street": "Via Vittorio Bottego",
+    "number": "15",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6287689,
+    "longitude": 9.2538197
+  },
+  {
+    "street": "Via Guido Visconti di Modrone",
+    "number": "15",
+    "city": {
+      "name": "Macherio",
+      "istat": "108029"
+    },
+    "latitude": 45.6413742,
+    "longitude": 9.2693836
+  }
+]

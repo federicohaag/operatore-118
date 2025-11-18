@@ -1,0 +1,152 @@
+[
+  {
+    "street": "Via Cesare Battisti",
+    "number": "75",
+    "city": {
+      "name": "Daverio",
+      "istat": "012064"
+    },
+    "latitude": 45.7655278,
+    "longitude": 8.7696532
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "2",
+    "city": {
+      "name": "Daverio",
+      "istat": "012064"
+    },
+    "latitude": 45.7749437,
+    "longitude": 8.7712179
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "1",
+    "city": {
+      "name": "Daverio",
+      "istat": "012064"
+    },
+    "latitude": 45.7783885,
+    "longitude": 8.7703174
+  },
+  {
+    "street": "Via Roma",
+    "number": "20",
+    "city": {
+      "name": "Daverio",
+      "istat": "012064"
+    },
+    "latitude": 45.7754229,
+    "longitude": 8.7706338
+  },
+  {
+    "street": "Via Roma",
+    "number": "7",
+    "city": {
+      "name": "Daverio",
+      "istat": "012064"
+    },
+    "latitude": 45.7762084,
+    "longitude": 8.7708524
+  },
+  {
+    "street": "Via Roma",
+    "number": "14",
+    "city": {
+      "name": "Daverio",
+      "istat": "012064"
+    },
+    "latitude": 45.7764655,
+    "longitude": 8.7705268
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "1",
+    "city": {
+      "name": "Daverio",
+      "istat": "012064"
+    },
+    "latitude": 45.7739164,
+    "longitude": 8.7707253
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "65",
+    "city": {
+      "name": "Daverio",
+      "istat": "012064"
+    },
+    "latitude": 45.7663147,
+    "longitude": 8.7705055
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "42",
+    "city": {
+      "name": "Daverio",
+      "istat": "012064"
+    },
+    "latitude": 45.7683614,
+    "longitude": 8.7713787
+  },
+  {
+    "street": "Via Piave",
+    "number": "8",
+    "city": {
+      "name": "Daverio",
+      "istat": "012064"
+    },
+    "latitude": 45.7770388,
+    "longitude": 8.7714207
+  },
+  {
+    "street": "Via Cesare Battisti32",
+    "number": "32",
+    "city": {
+      "name": "Daverio",
+      "istat": "012064"
+    },
+    "latitude": 45.7713488,
+    "longitude": 8.7770076
+  },
+  {
+    "street": "Via Frazione Dobbiate",
+    "number": "1",
+    "city": {
+      "name": "Daverio",
+      "istat": "012064"
+    },
+    "latitude": 45.7720431,
+    "longitude": 8.7817299
+  },
+  {
+    "street": "Via dell'Industria",
+    "number": "1",
+    "city": {
+      "name": "Daverio",
+      "istat": "012064"
+    },
+    "latitude": 45.7663545,
+    "longitude": 8.7684203
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "16",
+    "city": {
+      "name": "Daverio",
+      "istat": "012064"
+    },
+    "latitude": 45.7685248,
+    "longitude": 8.7678109
+  },
+  {
+    "street": "Via Roma",
+    "number": "45",
+    "city": {
+      "name": "Daverio",
+      "istat": "012064"
+    },
+    "latitude": 45.7747944,
+    "longitude": 8.7713128
+  }
+]

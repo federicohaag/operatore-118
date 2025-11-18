@@ -1,0 +1,22 @@
+[
+  {
+    "street": "Via Trieste",
+    "number": "11",
+    "city": {
+      "name": "San Bartolomeo Val Cavargna",
+      "istat": "013204"
+    },
+    "latitude": 46.08256,
+    "longitude": 9.14682
+  },
+  {
+    "street": "Via ai Monti",
+    "number": "31",
+    "city": {
+      "name": "San Bartolomeo Val Cavargna",
+      "istat": "013204"
+    },
+    "latitude": 46.0845563,
+    "longitude": 9.1513608
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "street": "Via Roma",
+    "number": "58",
+    "city": {
+      "name": "Barzanò",
+      "istat": "097006"
+    },
+    "latitude": 45.725922,
+    "longitude": 9.316476
+  },
+  {
+    "street": "Largo Diaz",
+    "number": "12",
+    "city": {
+      "name": "Barzanò",
+      "istat": "097006"
+    },
+    "latitude": 45.7347778,
+    "longitude": 9.3188009
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "20",
+    "city": {
+      "name": "Barzanò",
+      "istat": "097006"
+    },
+    "latitude": 45.7392906,
+    "longitude": 9.3212868
+  },
+  {
+    "street": "Via Pirovano",
+    "number": "5",
+    "city": {
+      "name": "Barzanò",
+      "istat": "097006"
+    },
+    "latitude": 45.7341934,
+    "longitude": 9.3148221
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "10",
+    "city": {
+      "name": "Barzanò",
+      "istat": "097006"
+    },
+    "latitude": 45.7323283,
+    "longitude": 9.3157596
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "83",
+    "city": {
+      "name": "Barzanò",
+      "istat": "097006"
+    },
+    "latitude": 45.7344319,
+    "longitude": 9.3157422
+  },
+  {
+    "street": "Via Interna",
+    "number": "3",
+    "city": {
+      "name": "Barzanò",
+      "istat": "097006"
+    },
+    "latitude": 45.7321241,
+    "longitude": 9.3058826
+  },
+  {
+    "street": "Gramsci",
+    "number": "43",
+    "city": {
+      "name": "Barzanò",
+      "istat": "097006"
+    },
+    "latitude": 45.7204153,
+    "longitude": 9.3094707
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "6",
+    "city": {
+      "name": "Barzanò",
+      "istat": "097006"
+    },
+    "latitude": 45.7185397,
+    "longitude": 9.3103926
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "2",
+    "city": {
+      "name": "Barzanò",
+      "istat": "097006"
+    },
+    "latitude": 45.7192437,
+    "longitude": 9.3088467
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "18",
+    "city": {
+      "name": "Barzanò",
+      "istat": "097006"
+    },
+    "latitude": 45.7304616,
+    "longitude": 9.3146507
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "22",
+    "city": {
+      "name": "Barzanò",
+      "istat": "097006"
+    },
+    "latitude": 45.7288542,
+    "longitude": 9.3137919
+  },
+  {
+    "street": "Via Roma",
+    "number": "86",
+    "city": {
+      "name": "Barzanò",
+      "istat": "097006"
+    },
+    "latitude": 45.7253314,
+    "longitude": 9.3166843
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "20",
+    "city": {
+      "name": "Barzanò",
+      "istat": "097006"
+    },
+    "latitude": 45.7298282,
+    "longitude": 9.314115
+  },
+  {
+    "street": "Via Don Rinaldo Beretta",
+    "number": "24",
+    "city": {
+      "name": "Barzanò",
+      "istat": "097006"
+    },
+    "latitude": 45.738469,
+    "longitude": 9.3187746
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "3",
+    "city": {
+      "name": "Barzanò",
+      "istat": "097006"
+    },
+    "latitude": 45.7353741,
+    "longitude": 9.3180359
+  },
+  {
+    "street": "Via Stabilimento Figliodoni",
+    "number": "2",
+    "city": {
+      "name": "Barzanò",
+      "istat": "097006"
+    },
+    "latitude": 45.7377774,
+    "longitude": 9.3129102
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "30",
+    "city": {
+      "name": "Barzanò",
+      "istat": "097006"
+    },
+    "latitude": 45.71746,
+    "longitude": 9.3126653
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "24",
+    "city": {
+      "name": "Barzanò",
+      "istat": "097006"
+    },
+    "latitude": 45.741869,
+    "longitude": 9.3215565
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "street": "Strada provinciale 71 Vecchia Regina",
+    "number": "87",
+    "city": {
+      "name": "Carate Urio",
+      "istat": "013044"
+    },
+    "latitude": 45.8727602,
+    "longitude": 9.1267043
+  },
+  {
+    "street": "Strada provinciale 71 Vecchia Regina",
+    "number": "45",
+    "city": {
+      "name": "Carate Urio",
+      "istat": "013044"
+    },
+    "latitude": 45.8691429,
+    "longitude": 9.1191273
+  },
+  {
+    "street": "Via Genesio",
+    "number": "7",
+    "city": {
+      "name": "Carate Urio",
+      "istat": "013044"
+    },
+    "latitude": 45.8715125,
+    "longitude": 9.1234139
+  }
+]

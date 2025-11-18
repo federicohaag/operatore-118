@@ -1,0 +1,562 @@
+[
+  {
+    "street": "Via Trento e Trieste",
+    "number": "4",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.673455,
+    "longitude": 9.0851606
+  },
+  {
+    "street": "Piazza Caduti",
+    "number": "2",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6735626,
+    "longitude": 9.0858901
+  },
+  {
+    "street": "Via Libertà",
+    "number": "3",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6732846,
+    "longitude": 9.0859915
+  },
+  {
+    "street": "Via San Lorenzo",
+    "number": "37",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6728992,
+    "longitude": 9.0853778
+  },
+  {
+    "street": "Via San Lorenzo",
+    "number": "6",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6723696,
+    "longitude": 9.0854653
+  },
+  {
+    "street": "Piazza Papa Giovanni Ventitreesimo",
+    "number": "11",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6721457,
+    "longitude": 9.0853164
+  },
+  {
+    "street": "Piazza Papa Giovanni Ventitreesimo",
+    "number": "10",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.672081,
+    "longitude": 9.085307
+  },
+  {
+    "street": "Piazza Papa Giovanni Ventitreesimo",
+    "number": "8",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6720107,
+    "longitude": 9.0853043
+  },
+  {
+    "street": "Piazza Papa Giovanni Ventitreesimo",
+    "number": "3/4",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6718505,
+    "longitude": 9.0853043
+  },
+  {
+    "street": "Piazza Papa Giovanni Ventitreesimo",
+    "number": "3",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6719461,
+    "longitude": 9.0853017
+  },
+  {
+    "street": "Via Vittorio Emanuele",
+    "number": "1",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.671642,
+    "longitude": 9.0851206
+  },
+  {
+    "street": "Piazza Papa Giovanni Ventitreesimo",
+    "number": "1",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.671641,
+    "longitude": 9.0853278
+  },
+  {
+    "street": "Via Marco Biagi",
+    "number": "1",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6844952,
+    "longitude": 9.078303
+  },
+  {
+    "street": "Via Marco Biagi",
+    "number": "17",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6827519,
+    "longitude": 9.0783112
+  },
+  {
+    "street": "Via Enzo Ferrari",
+    "number": "17",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6844191,
+    "longitude": 9.0799351
+  },
+  {
+    "street": "Via Enzo Ferrari",
+    "number": "25",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6824745,
+    "longitude": 9.0799568
+  },
+  {
+    "street": "Via San Lorenzo",
+    "number": "141",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.682815,
+    "longitude": 9.081628
+  },
+  {
+    "street": "Via San Lorenzo",
+    "number": "133",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.682563,
+    "longitude": 9.0834157
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "52",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6824836,
+    "longitude": 9.0787294
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "3",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6822164,
+    "longitude": 9.0827516
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "20",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6828998,
+    "longitude": 9.0808958
+  },
+  {
+    "street": "Via San Lorenzo",
+    "number": "135",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6827679,
+    "longitude": 9.0827374
+  },
+  {
+    "street": "Via delle Brughiere",
+    "number": "10",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6610822,
+    "longitude": 9.0970463
+  },
+  {
+    "street": "Via Vittorio Emanuele",
+    "number": "118",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6727511,
+    "longitude": 9.0750331
+  },
+  {
+    "street": "Via Adamello",
+    "number": "22",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6702867,
+    "longitude": 9.0714552
+  },
+  {
+    "street": "Via Adamello",
+    "number": "17",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6695975,
+    "longitude": 9.072656
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "43",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6703334,
+    "longitude": 9.075233
+  },
+  {
+    "street": "Via degli Artigiani",
+    "number": "7",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.670671,
+    "longitude": 9.0727211
+  },
+  {
+    "street": "Via Adamello",
+    "number": "37",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6699342,
+    "longitude": 9.0715987
+  },
+  {
+    "street": "Via Monte Bianco",
+    "number": "12",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6716261,
+    "longitude": 9.0732865
+  },
+  {
+    "street": "Via Adamello",
+    "number": "18/20",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6702499,
+    "longitude": 9.0718687
+  },
+  {
+    "street": "Via degli Artigiani",
+    "number": "1",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6709454,
+    "longitude": 9.0734206
+  },
+  {
+    "street": "Via Adamello",
+    "number": "1",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6696679,
+    "longitude": 9.0736647
+  },
+  {
+    "street": "Via degli Artigiani",
+    "number": "22",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6712139,
+    "longitude": 9.0720507
+  },
+  {
+    "street": "Via Vittorio Emanuele",
+    "number": "143",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.671736,
+    "longitude": 9.0723906
+  },
+  {
+    "street": "Via degli Artigiani",
+    "number": "18",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6710635,
+    "longitude": 9.0725726
+  },
+  {
+    "street": "Via San Lorenzo",
+    "number": "35",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6729255,
+    "longitude": 9.0853792
+  },
+  {
+    "street": "Via degli Artigiani",
+    "number": "26",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6712165,
+    "longitude": 9.0715225
+  },
+  {
+    "street": "Piazza papa Giovanni ventitreesimo",
+    "number": "9",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6714364,
+    "longitude": 9.0854142
+  },
+  {
+    "street": "Via Libertà",
+    "number": "116",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6723356,
+    "longitude": 9.0958351
+  },
+  {
+    "street": "Via Otto Marzo",
+    "number": "6",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6734,
+    "longitude": 9.0949431
+  },
+  {
+    "street": "Via Libertà",
+    "number": "105",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6729758,
+    "longitude": 9.0945786
+  },
+  {
+    "street": "Piazzetta Don Alessandro Parenti",
+    "number": "2",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6701011,
+    "longitude": 9.0852226
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "14",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.671032,
+    "longitude": 9.0849705
+  },
+  {
+    "street": "Via Roma",
+    "number": "1",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.670716,
+    "longitude": 9.0852112
+  },
+  {
+    "street": "Piazza Lombardia",
+    "number": "18",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6695976,
+    "longitude": 9.0848455
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "121",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6665849,
+    "longitude": 9.0950327
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "36",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6703765,
+    "longitude": 9.0873118
+  },
+  {
+    "street": "via V. Emanuele",
+    "number": "150",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6784212,
+    "longitude": 9.0681748
+  },
+  {
+    "street": "Via Marco Biagi",
+    "number": "5",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6842233,
+    "longitude": 9.07861
+  },
+  {
+    "street": "Via Enzo Ferrari",
+    "number": "9/11/13",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6844084,
+    "longitude": 9.080936
+  },
+  {
+    "street": "Via San Lorenzo",
+    "number": "89",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6772004,
+    "longitude": 9.0850113
+  },
+  {
+    "street": "Via San Lorenzo",
+    "number": "28/30",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.674316,
+    "longitude": 9.0856026
+  },
+  {
+    "street": "Via San Giuseppe",
+    "number": "6",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.671754,
+    "longitude": 9.0850961
+  },
+  {
+    "street": "Via Padania",
+    "number": "1",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6687999,
+    "longitude": 9.0786083
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "22",
+    "city": {
+      "name": "Lazzate",
+      "istat": "108025"
+    },
+    "latitude": 45.6832823,
+    "longitude": 9.0803882
+  }
+]

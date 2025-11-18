@@ -1,0 +1,22 @@
+[
+  {
+    "street": "Via Provinciale",
+    "number": "69",
+    "city": {
+      "name": "Montemezzo",
+      "istat": "013155"
+    },
+    "latitude": 46.1741744,
+    "longitude": 9.3744674
+  },
+  {
+    "street": "Via Chiesa",
+    "number": "1",
+    "city": {
+      "name": "Montemezzo",
+      "istat": "013155"
+    },
+    "latitude": 46.178037,
+    "longitude": 9.3751012
+  }
+]

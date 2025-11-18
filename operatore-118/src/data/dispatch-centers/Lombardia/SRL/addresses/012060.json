@@ -1,0 +1,322 @@
+[
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "10",
+    "city": {
+      "name": "Cunardo",
+      "istat": "012060"
+    },
+    "latitude": 45.936582,
+    "longitude": 8.8031753
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "14",
+    "city": {
+      "name": "Cunardo",
+      "istat": "012060"
+    },
+    "latitude": 45.9368688,
+    "longitude": 8.8036677
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "16",
+    "city": {
+      "name": "Cunardo",
+      "istat": "012060"
+    },
+    "latitude": 45.9368764,
+    "longitude": 8.8036984
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "8",
+    "city": {
+      "name": "Cunardo",
+      "istat": "012060"
+    },
+    "latitude": 45.9365494,
+    "longitude": 8.8031515
+  },
+  {
+    "street": "Via Ludovico Ariosto",
+    "number": "1",
+    "city": {
+      "name": "Cunardo",
+      "istat": "012060"
+    },
+    "latitude": 45.9357262,
+    "longitude": 8.802069
+  },
+  {
+    "street": "Via Baraggia",
+    "number": "1",
+    "city": {
+      "name": "Cunardo",
+      "istat": "012060"
+    },
+    "latitude": 45.9342022,
+    "longitude": 8.8032331
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "12",
+    "city": {
+      "name": "Cunardo",
+      "istat": "012060"
+    },
+    "latitude": 45.9363157,
+    "longitude": 8.8030156
+  },
+  {
+    "street": "Via Varesina",
+    "number": "16",
+    "city": {
+      "name": "Cunardo",
+      "istat": "012060"
+    },
+    "latitude": 45.9334878,
+    "longitude": 8.8066348
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "32",
+    "city": {
+      "name": "Cunardo",
+      "istat": "012060"
+    },
+    "latitude": 45.9362078,
+    "longitude": 8.7898906
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "36",
+    "city": {
+      "name": "Cunardo",
+      "istat": "012060"
+    },
+    "latitude": 45.935751,
+    "longitude": 8.7888743
+  },
+  {
+    "street": "Via del Ponte",
+    "number": "1",
+    "city": {
+      "name": "Cunardo",
+      "istat": "012060"
+    },
+    "latitude": 45.936139,
+    "longitude": 8.7891179
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "28",
+    "city": {
+      "name": "Cunardo",
+      "istat": "012060"
+    },
+    "latitude": 45.9363656,
+    "longitude": 8.79181
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "21",
+    "city": {
+      "name": "Cunardo",
+      "istat": "012060"
+    },
+    "latitude": 45.9364519,
+    "longitude": 8.7941765
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "24",
+    "city": {
+      "name": "Cunardo",
+      "istat": "012060"
+    },
+    "latitude": 45.9368332,
+    "longitude": 8.7944843
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "22",
+    "city": {
+      "name": "Cunardo",
+      "istat": "012060"
+    },
+    "latitude": 45.9365445,
+    "longitude": 8.7956995
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "12",
+    "city": {
+      "name": "Cunardo",
+      "istat": "012060"
+    },
+    "latitude": 45.9364247,
+    "longitude": 8.7989978
+  },
+  {
+    "street": "Via dei Giardini",
+    "number": "9",
+    "city": {
+      "name": "Cunardo",
+      "istat": "012060"
+    },
+    "latitude": 45.9380832,
+    "longitude": 8.7880067
+  },
+  {
+    "street": "Via dei Giardini",
+    "number": "4",
+    "city": {
+      "name": "Cunardo",
+      "istat": "012060"
+    },
+    "latitude": 45.9380436,
+    "longitude": 8.7882941
+  },
+  {
+    "street": "Via dei Giardini",
+    "number": "2",
+    "city": {
+      "name": "Cunardo",
+      "istat": "012060"
+    },
+    "latitude": 45.9380443,
+    "longitude": 8.7880766
+  },
+  {
+    "street": "Via dei Giardini",
+    "number": "7",
+    "city": {
+      "name": "Cunardo",
+      "istat": "012060"
+    },
+    "latitude": 45.9379638,
+    "longitude": 8.7877276
+  },
+  {
+    "street": "Via dei Giardini",
+    "number": "5",
+    "city": {
+      "name": "Cunardo",
+      "istat": "012060"
+    },
+    "latitude": 45.9379728,
+    "longitude": 8.7875561
+  },
+  {
+    "street": "Via dei Giardini",
+    "number": "3",
+    "city": {
+      "name": "Cunardo",
+      "istat": "012060"
+    },
+    "latitude": 45.937992,
+    "longitude": 8.7873487
+  },
+  {
+    "street": "Via dei Giardini",
+    "number": "1",
+    "city": {
+      "name": "Cunardo",
+      "istat": "012060"
+    },
+    "latitude": 45.9389234,
+    "longitude": 8.7862343
+  },
+  {
+    "street": "Via Luinese",
+    "number": "26",
+    "city": {
+      "name": "Cunardo",
+      "istat": "012060"
+    },
+    "latitude": 45.9431555,
+    "longitude": 8.791493
+  },
+  {
+    "street": "Via Rosolino Vaccarossi",
+    "number": "31",
+    "city": {
+      "name": "Cunardo",
+      "istat": "012060"
+    },
+    "latitude": 45.9389678,
+    "longitude": 8.7996292
+  },
+  {
+    "street": "Via Fornaci",
+    "number": "3",
+    "city": {
+      "name": "Cunardo",
+      "istat": "012060"
+    },
+    "latitude": 45.942036,
+    "longitude": 8.7870938
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "4",
+    "city": {
+      "name": "Cunardo",
+      "istat": "012060"
+    },
+    "latitude": 45.9375567,
+    "longitude": 8.8033899
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "2",
+    "city": {
+      "name": "Cunardo",
+      "istat": "012060"
+    },
+    "latitude": 45.9373809,
+    "longitude": 8.8036288
+  },
+  {
+    "street": "Via Ugo Foscolo",
+    "number": "6b",
+    "city": {
+      "name": "Cunardo",
+      "istat": "012060"
+    },
+    "latitude": 45.9346914,
+    "longitude": 8.8067278
+  },
+  {
+    "street": "Via Baraggia",
+    "number": "2-4",
+    "city": {
+      "name": "Cunardo",
+      "istat": "012060"
+    },
+    "latitude": 45.9338936,
+    "longitude": 8.8025852
+  },
+  {
+    "street": "Via Varesina",
+    "number": "14",
+    "city": {
+      "name": "Cunardo",
+      "istat": "012060"
+    },
+    "latitude": 45.9337759,
+    "longitude": 8.805137
+  },
+  {
+    "street": "Via Ronchetto",
+    "number": "1",
+    "city": {
+      "name": "Cunardo",
+      "istat": "012060"
+    },
+    "latitude": 45.9397284,
+    "longitude": 8.7987712
+  }
+]

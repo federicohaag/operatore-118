@@ -1,0 +1,132 @@
+[
+  {
+    "street": "Via Monte Rosa",
+    "number": "1",
+    "city": {
+      "name": "Grandate",
+      "istat": "013110"
+    },
+    "latitude": 45.7725198,
+    "longitude": 9.0644516
+  },
+  {
+    "street": "Via Tornese",
+    "number": "10",
+    "city": {
+      "name": "Grandate",
+      "istat": "013110"
+    },
+    "latitude": 45.7667653,
+    "longitude": 9.0557203
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "11",
+    "city": {
+      "name": "Grandate",
+      "istat": "013110"
+    },
+    "latitude": 45.7700555,
+    "longitude": 9.0551678
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "1",
+    "city": {
+      "name": "Grandate",
+      "istat": "013110"
+    },
+    "latitude": 45.7630588,
+    "longitude": 9.0567129
+  },
+  {
+    "street": "Via Statale dei Giovi",
+    "number": "62",
+    "city": {
+      "name": "Grandate",
+      "istat": "013110"
+    },
+    "latitude": 45.7625024,
+    "longitude": 9.0542008
+  },
+  {
+    "street": "SP ex SS35 Statale dei Giovi",
+    "number": "52",
+    "city": {
+      "name": "Grandate",
+      "istat": "013110"
+    },
+    "latitude": 45.7634854,
+    "longitude": 9.0555578
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "2",
+    "city": {
+      "name": "Grandate",
+      "istat": "013110"
+    },
+    "latitude": 45.7689646,
+    "longitude": 9.0568636
+  },
+  {
+    "street": "SP ex SS35 Statale dei Giovi",
+    "number": "59",
+    "city": {
+      "name": "Grandate",
+      "istat": "013110"
+    },
+    "latitude": 45.7701813,
+    "longitude": 9.0614231
+  },
+  {
+    "street": "Via Madonna della Noce",
+    "number": "32",
+    "city": {
+      "name": "Grandate",
+      "istat": "013110"
+    },
+    "latitude": 45.7727669,
+    "longitude": 9.0527707
+  },
+  {
+    "street": "Via Como",
+    "number": "12",
+    "city": {
+      "name": "Grandate",
+      "istat": "013110"
+    },
+    "latitude": 45.7735096,
+    "longitude": 9.0605697
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "2A",
+    "city": {
+      "name": "Grandate",
+      "istat": "013110"
+    },
+    "latitude": 45.7690617,
+    "longitude": 9.0585918
+  },
+  {
+    "street": "Via R. Mantero",
+    "number": "4",
+    "city": {
+      "name": "Grandate",
+      "istat": "013110"
+    },
+    "latitude": 45.7788574,
+    "longitude": 9.04884
+  },
+  {
+    "street": "SP ex SS35 Statale dei Giovi",
+    "number": "2A",
+    "city": {
+      "name": "Grandate",
+      "istat": "013110"
+    },
+    "latitude": 45.7703631,
+    "longitude": 9.0587992
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "street": "Via Ponte",
+    "number": "16",
+    "city": {
+      "name": "Annone di Brianza",
+      "istat": "097003"
+    },
+    "latitude": 45.8074649,
+    "longitude": 9.3324762
+  },
+  {
+    "street": "Via San Cristoforo",
+    "number": "10",
+    "city": {
+      "name": "Annone di Brianza",
+      "istat": "097003"
+    },
+    "latitude": 45.8081311,
+    "longitude": 9.3313734
+  },
+  {
+    "street": "Via Sant'Antonio",
+    "number": "6",
+    "city": {
+      "name": "Annone di Brianza",
+      "istat": "097003"
+    },
+    "latitude": 45.8038554,
+    "longitude": 9.3319876
+  },
+  {
+    "street": "Via Sant'Antonio",
+    "number": "2",
+    "city": {
+      "name": "Annone di Brianza",
+      "istat": "097003"
+    },
+    "latitude": 45.804008,
+    "longitude": 9.3320645
+  },
+  {
+    "street": "Via Lecco",
+    "number": "6",
+    "city": {
+      "name": "Annone di Brianza",
+      "istat": "097003"
+    },
+    "latitude": 45.8073403,
+    "longitude": 9.3304519
+  }
+]

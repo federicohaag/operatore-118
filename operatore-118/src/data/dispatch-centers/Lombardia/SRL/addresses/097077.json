@@ -1,0 +1,502 @@
+[
+  {
+    "street": "Via ai Monti",
+    "number": "2",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0853263,
+    "longitude": 9.3318747
+  },
+  {
+    "street": "Via Piave",
+    "number": "2",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0852249,
+    "longitude": 9.3317693
+  },
+  {
+    "street": "Via ai Monti",
+    "number": "1",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0853507,
+    "longitude": 9.3316611
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "3",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0854639,
+    "longitude": 9.3360768
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "1",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0854068,
+    "longitude": 9.334916
+  },
+  {
+    "street": "Via Piave",
+    "number": "10",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0852758,
+    "longitude": 9.3329666
+  },
+  {
+    "street": "Via Piave",
+    "number": "12",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0853162,
+    "longitude": 9.3332906
+  },
+  {
+    "street": "Via Piave",
+    "number": "14",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0853422,
+    "longitude": 9.3334065
+  },
+  {
+    "street": "Via Piave",
+    "number": "16",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0853523,
+    "longitude": 9.3335016
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "2",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0853042,
+    "longitude": 9.3351369
+  },
+  {
+    "street": "Via Piave",
+    "number": "20",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0853715,
+    "longitude": 9.3335773
+  },
+  {
+    "street": "Via Piave",
+    "number": "22",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0853942,
+    "longitude": 9.3336571
+  },
+  {
+    "street": "Via Piave",
+    "number": "24",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0855119,
+    "longitude": 9.3343976
+  },
+  {
+    "street": "Via Piave",
+    "number": "26",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0854252,
+    "longitude": 9.3345949
+  },
+  {
+    "street": "Via Piave",
+    "number": "28",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0854188,
+    "longitude": 9.3346223
+  },
+  {
+    "street": "Via Piave",
+    "number": "4",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0852253,
+    "longitude": 9.3320153
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "5",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0850942,
+    "longitude": 9.3352531
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "6",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.085055,
+    "longitude": 9.3346449
+  },
+  {
+    "street": "Via Piave",
+    "number": "6",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0852265,
+    "longitude": 9.3320683
+  },
+  {
+    "street": "Via Piave",
+    "number": "8",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0852277,
+    "longitude": 9.3321321
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "7",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.084994,
+    "longitude": 9.3347208
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "9",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0850181,
+    "longitude": 9.3345898
+  },
+  {
+    "street": "Via Cappelletta",
+    "number": "4",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0851782,
+    "longitude": 9.3334793
+  },
+  {
+    "street": "Via Cappelletta",
+    "number": "2",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0850999,
+    "longitude": 9.3331903
+  },
+  {
+    "street": "Via Cappelletta",
+    "number": "6",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0852843,
+    "longitude": 9.3339393
+  },
+  {
+    "street": "Via Cappelletta",
+    "number": "8",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.085293,
+    "longitude": 9.3339713
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "4",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0851509,
+    "longitude": 9.3352419
+  },
+  {
+    "street": "Via ai Monti",
+    "number": "4",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0854131,
+    "longitude": 9.3318402
+  },
+  {
+    "street": "Via alla curva",
+    "number": "2",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0862657,
+    "longitude": 9.3334119
+  },
+  {
+    "street": "Via alla Curva",
+    "number": "1",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0864334,
+    "longitude": 9.3341902
+  },
+  {
+    "street": "Via Scabiume",
+    "number": "11",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0862035,
+    "longitude": 9.3344903
+  },
+  {
+    "street": "Via Masone",
+    "number": "1",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0862128,
+    "longitude": 9.3332445
+  },
+  {
+    "street": "Via Madonna di Bondo",
+    "number": "13",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0858049,
+    "longitude": 9.3306603
+  },
+  {
+    "street": "Via Madonna di Bondo",
+    "number": "7",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0855037,
+    "longitude": 9.3313833
+  },
+  {
+    "street": "Via Madonna di Bondo",
+    "number": "11",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0857307,
+    "longitude": 9.3308161
+  },
+  {
+    "street": "Via Madonna di Bondo",
+    "number": "17",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0858437,
+    "longitude": 9.3305647
+  },
+  {
+    "street": "Via Madonna di Bondo",
+    "number": "15",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0858363,
+    "longitude": 9.3305868
+  },
+  {
+    "street": "Via Madonna di Bondo",
+    "number": "9",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0855432,
+    "longitude": 9.3313106
+  },
+  {
+    "street": "Via Madonna di Bondo",
+    "number": "2",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0853775,
+    "longitude": 9.3332393
+  },
+  {
+    "street": "Via Scabiume",
+    "number": "9",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0859823,
+    "longitude": 9.335392
+  },
+  {
+    "street": "Via Don Gaspare Vitali",
+    "number": "2",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0854847,
+    "longitude": 9.330916
+  },
+  {
+    "street": "Via al Mulino",
+    "number": "4",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0869598,
+    "longitude": 9.3375177
+  },
+  {
+    "street": "Via al Mulino",
+    "number": "2",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0869267,
+    "longitude": 9.3375203
+  },
+  {
+    "street": "Via ai Monti",
+    "number": "9",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0856069,
+    "longitude": 9.3317466
+  },
+  {
+    "street": "Via ai Monti",
+    "number": "7",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0854149,
+    "longitude": 9.3317041
+  },
+  {
+    "street": "Via ai Monti",
+    "number": "3",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0853967,
+    "longitude": 9.3317041
+  },
+  {
+    "street": "Via dei Ponti",
+    "number": "1",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0855609,
+    "longitude": 9.3339378
+  },
+  {
+    "street": "Via la Torre",
+    "number": "6",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0854635,
+    "longitude": 9.3331611
+  },
+  {
+    "street": "Via la Torre",
+    "number": "4",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0854237,
+    "longitude": 9.3331619
+  },
+  {
+    "street": "Via Piave",
+    "number": "15",
+    "city": {
+      "name": "Sueglio",
+      "istat": "097077"
+    },
+    "latitude": 46.0854934,
+    "longitude": 9.3314365
+  }
+]

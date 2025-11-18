@@ -1,0 +1,252 @@
+[
+  {
+    "street": "Via Mons. Ulderico Belli",
+    "number": "11",
+    "city": {
+      "name": "Centro Valle Intelvi",
+      "istat": "013254"
+    },
+    "latitude": 45.9715134,
+    "longitude": 9.0728102
+  },
+  {
+    "street": "Via Gemini Andreetti",
+    "number": "1",
+    "city": {
+      "name": "Centro Valle Intelvi",
+      "istat": "013254"
+    },
+    "latitude": 45.9671191,
+    "longitude": 9.0792669
+  },
+  {
+    "street": "Via ai Noci",
+    "number": "40",
+    "city": {
+      "name": "Centro Valle Intelvi",
+      "istat": "013254"
+    },
+    "latitude": 45.9603295,
+    "longitude": 9.0882774
+  },
+  {
+    "street": "Via Roma",
+    "number": "9",
+    "city": {
+      "name": "Centro Valle Intelvi",
+      "istat": "013254"
+    },
+    "latitude": 45.9679569,
+    "longitude": 9.0779356
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "167",
+    "city": {
+      "name": "Centro Valle Intelvi",
+      "istat": "013254"
+    },
+    "latitude": 45.9693224,
+    "longitude": 9.0714415
+  },
+  {
+    "street": "SP14 San Fedele - Osteno - Porlezza",
+    "number": "1",
+    "city": {
+      "name": "Centro Valle Intelvi",
+      "istat": "013254"
+    },
+    "latitude": 45.9721217,
+    "longitude": 9.0693839
+  },
+  {
+    "street": "Via Orimento",
+    "number": "98",
+    "city": {
+      "name": "Centro Valle Intelvi",
+      "istat": "013254"
+    },
+    "latitude": 45.9510046,
+    "longitude": 9.0513601
+  },
+  {
+    "street": "Via Santa Liberata",
+    "number": "21",
+    "city": {
+      "name": "Centro Valle Intelvi",
+      "istat": "013254"
+    },
+    "latitude": 45.970337,
+    "longitude": 9.0771399
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "11",
+    "city": {
+      "name": "Centro Valle Intelvi",
+      "istat": "013254"
+    },
+    "latitude": 45.9714206,
+    "longitude": 9.0742359
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "2",
+    "city": {
+      "name": "Centro Valle Intelvi",
+      "istat": "013254"
+    },
+    "latitude": 45.9707303,
+    "longitude": 9.0758189
+  },
+  {
+    "street": "via Roma",
+    "number": "58",
+    "city": {
+      "name": "Centro Valle Intelvi",
+      "istat": "013254"
+    },
+    "latitude": 45.9582307,
+    "longitude": 9.0880912
+  },
+  {
+    "street": "Via Case Sparse",
+    "number": "1",
+    "city": {
+      "name": "Centro Valle Intelvi",
+      "istat": "013254"
+    },
+    "latitude": 45.9563359,
+    "longitude": 9.0849401
+  },
+  {
+    "street": "Via Case Sparse",
+    "number": "2",
+    "city": {
+      "name": "Centro Valle Intelvi",
+      "istat": "013254"
+    },
+    "latitude": 45.9574884,
+    "longitude": 9.0841074
+  },
+  {
+    "street": "Via Case Sparse",
+    "number": "2b",
+    "city": {
+      "name": "Centro Valle Intelvi",
+      "istat": "013254"
+    },
+    "latitude": 45.9572735,
+    "longitude": 9.0845249
+  },
+  {
+    "street": "Via Case Sparse",
+    "number": "2a",
+    "city": {
+      "name": "Centro Valle Intelvi",
+      "istat": "013254"
+    },
+    "latitude": 45.9570401,
+    "longitude": 9.0844279
+  },
+  {
+    "street": "Via Case Sparse",
+    "number": "3",
+    "city": {
+      "name": "Centro Valle Intelvi",
+      "istat": "013254"
+    },
+    "latitude": 45.9565635,
+    "longitude": 9.0846944
+  },
+  {
+    "street": "Via Case Sparse",
+    "number": "5",
+    "city": {
+      "name": "Centro Valle Intelvi",
+      "istat": "013254"
+    },
+    "latitude": 45.9566411,
+    "longitude": 9.0839734
+  },
+  {
+    "street": "Via Case Sparse",
+    "number": "5a",
+    "city": {
+      "name": "Centro Valle Intelvi",
+      "istat": "013254"
+    },
+    "latitude": 45.95636,
+    "longitude": 9.0842939
+  },
+  {
+    "street": "Via Case Sparse",
+    "number": "6",
+    "city": {
+      "name": "Centro Valle Intelvi",
+      "istat": "013254"
+    },
+    "latitude": 45.9572962,
+    "longitude": 9.0805888
+  },
+  {
+    "street": "Via Case Sparse",
+    "number": "4",
+    "city": {
+      "name": "Centro Valle Intelvi",
+      "istat": "013254"
+    },
+    "latitude": 45.9571375,
+    "longitude": 9.0807465
+  },
+  {
+    "street": "Via Case Sparse",
+    "number": "7",
+    "city": {
+      "name": "Centro Valle Intelvi",
+      "istat": "013254"
+    },
+    "latitude": 45.9568408,
+    "longitude": 9.0809145
+  },
+  {
+    "street": "SP15 di Erbonne",
+    "number": "30",
+    "city": {
+      "name": "Centro Valle Intelvi",
+      "istat": "013254"
+    },
+    "latitude": 45.9573683,
+    "longitude": 9.0847221
+  },
+  {
+    "street": "SP15 di Erbonne",
+    "number": "28",
+    "city": {
+      "name": "Centro Valle Intelvi",
+      "istat": "013254"
+    },
+    "latitude": 45.9574738,
+    "longitude": 9.0854845
+  },
+  {
+    "street": "Via Campo Sportivo",
+    "number": "10",
+    "city": {
+      "name": "Centro Valle Intelvi",
+      "istat": "013254"
+    },
+    "latitude": 45.9552048,
+    "longitude": 9.0848415
+  },
+  {
+    "street": "Via Campo Sportivo",
+    "number": "12",
+    "city": {
+      "name": "Centro Valle Intelvi",
+      "istat": "013254"
+    },
+    "latitude": 45.9554487,
+    "longitude": 9.084601
+  }
+]

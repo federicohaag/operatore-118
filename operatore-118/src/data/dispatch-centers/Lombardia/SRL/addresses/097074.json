@@ -1,0 +1,52 @@
+[
+  {
+    "street": "Via Trento",
+    "number": "13bis",
+    "city": {
+      "name": "Santa Maria Hoè",
+      "istat": "097074"
+    },
+    "latitude": 45.7408993,
+    "longitude": 9.3784028
+  },
+  {
+    "street": "Via Trento",
+    "number": "13",
+    "city": {
+      "name": "Santa Maria Hoè",
+      "istat": "097074"
+    },
+    "latitude": 45.7411511,
+    "longitude": 9.3783224
+  },
+  {
+    "street": "Via Trento",
+    "number": "12",
+    "city": {
+      "name": "Santa Maria Hoè",
+      "istat": "097074"
+    },
+    "latitude": 45.7411071,
+    "longitude": 9.377916
+  },
+  {
+    "street": "Via Monsignor Mozzanica",
+    "number": "8",
+    "city": {
+      "name": "Santa Maria Hoè",
+      "istat": "097074"
+    },
+    "latitude": 45.7343191,
+    "longitude": 9.3891564
+  },
+  {
+    "street": "Via Statale",
+    "number": "47",
+    "city": {
+      "name": "Santa Maria Hoè",
+      "istat": "097074"
+    },
+    "latitude": 45.7348527,
+    "longitude": 9.3836524
+  }
+]

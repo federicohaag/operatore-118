@@ -1,0 +1,482 @@
+[
+  {
+    "street": "Via Alessandro Volta",
+    "number": "14",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9683733,
+    "longitude": 8.9717684
+  },
+  {
+    "street": "Corso Italia",
+    "number": "28a",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9639747,
+    "longitude": 8.9702384
+  },
+  {
+    "street": "Corso Italia",
+    "number": "28b",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9638703,
+    "longitude": 8.9701622
+  },
+  {
+    "street": "Via Marco da Campione",
+    "number": "6",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9681725,
+    "longitude": 8.9706986
+  },
+  {
+    "street": "Piazzale Milano",
+    "number": "2",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9708461,
+    "longitude": 8.9716398
+  },
+  {
+    "street": "Via Matteo da Campione",
+    "number": "2",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9719244,
+    "longitude": 8.9718671
+  },
+  {
+    "street": "Corso Fratelli Fusina",
+    "number": "8",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9701171,
+    "longitude": 8.9721436
+  },
+  {
+    "street": "Corso Italia",
+    "number": "28",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9642841,
+    "longitude": 8.9703611
+  },
+  {
+    "street": "Corso Fratelli Fusina",
+    "number": "1",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9694519,
+    "longitude": 8.971918
+  },
+  {
+    "street": "Corso Fratelli Fusina",
+    "number": "3",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9698488,
+    "longitude": 8.9717417
+  },
+  {
+    "street": "Corso Italia",
+    "number": "9a",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9687525,
+    "longitude": 8.9724807
+  },
+  {
+    "street": "Corso Italia",
+    "number": "13",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9683062,
+    "longitude": 8.9723259
+  },
+  {
+    "street": "Corso Italia",
+    "number": "21a",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9666299,
+    "longitude": 8.9712778
+  },
+  {
+    "street": "Corso Italia",
+    "number": "30",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9637105,
+    "longitude": 8.9700048
+  },
+  {
+    "street": "Viale Matteo da Campione",
+    "number": "9a",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9717306,
+    "longitude": 8.9724899
+  },
+  {
+    "street": "Corso Italia",
+    "number": "15",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9679421,
+    "longitude": 8.9722902
+  },
+  {
+    "street": "Corso Fratelli Fusina",
+    "number": "5",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9698905,
+    "longitude": 8.9718773
+  },
+  {
+    "street": "Corso Italia",
+    "number": "20",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9669222,
+    "longitude": 8.9712954
+  },
+  {
+    "street": "Corso Italia",
+    "number": "27",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9635294,
+    "longitude": 8.9701851
+  },
+  {
+    "street": "Corso Italia",
+    "number": "14",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9681209,
+    "longitude": 8.9719933
+  },
+  {
+    "street": "Corso Italia",
+    "number": "35 c",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.962603,
+    "longitude": 8.969545
+  },
+  {
+    "street": "Corso Italia",
+    "number": "9",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9687475,
+    "longitude": 8.9722716
+  },
+  {
+    "street": "Viale Matteo da Campione",
+    "number": "13",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9721178,
+    "longitude": 8.9726837
+  },
+  {
+    "street": "Corso Fratelli Fusina",
+    "number": "6",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9699139,
+    "longitude": 8.9721354
+  },
+  {
+    "street": "Corso Fratelli Fusina",
+    "number": "10",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9703503,
+    "longitude": 8.9721863
+  },
+  {
+    "street": "Corso Italia",
+    "number": "17",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9677389,
+    "longitude": 8.9723201
+  },
+  {
+    "street": "Corso Italia",
+    "number": "22",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.966491,
+    "longitude": 8.970584
+  },
+  {
+    "street": "Via Antonio Bezzola",
+    "number": "12",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9727004,
+    "longitude": 8.9733052
+  },
+  {
+    "street": "Viale Matteo da Campione",
+    "number": "15",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9723236,
+    "longitude": 8.9730842
+  },
+  {
+    "street": "Corso Italia",
+    "number": "25a",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9647164,
+    "longitude": 8.970698
+  },
+  {
+    "street": "Corso Italia",
+    "number": "21",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9668078,
+    "longitude": 8.9716411
+  },
+  {
+    "street": "Corso Italia",
+    "number": "25",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9651114,
+    "longitude": 8.9706078
+  },
+  {
+    "street": "Viale Matteo da Campione",
+    "number": "17",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.972465,
+    "longitude": 8.973506
+  },
+  {
+    "street": "Via Antonio Bezzola",
+    "number": "8",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9724511,
+    "longitude": 8.9722887
+  },
+  {
+    "street": "Via Antonio Bezzola",
+    "number": "11",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.972622,
+    "longitude": 8.971994
+  },
+  {
+    "street": "Corso Italia",
+    "number": "23",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9662674,
+    "longitude": 8.970842
+  },
+  {
+    "street": "Corso Italia",
+    "number": "24",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9652551,
+    "longitude": 8.9703165
+  },
+  {
+    "street": "Via Antonio Bezzola",
+    "number": "15",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9727802,
+    "longitude": 8.97235
+  },
+  {
+    "street": "Via Antonio Bezzola",
+    "number": "7",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9724072,
+    "longitude": 8.971618
+  },
+  {
+    "street": "Via Antonio Bezzola",
+    "number": "10",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9726585,
+    "longitude": 8.972786
+  },
+  {
+    "street": "Corso Italia",
+    "number": "7",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9690311,
+    "longitude": 8.972381
+  },
+  {
+    "street": "Corso Fratelli Fusina",
+    "number": "2",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9693783,
+    "longitude": 8.9722791
+  },
+  {
+    "street": "Corso Italia",
+    "number": "19",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9673637,
+    "longitude": 8.972349
+  },
+  {
+    "street": "Corso Italia",
+    "number": "16",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9679151,
+    "longitude": 8.971982
+  },
+  {
+    "street": "via Anselmo da Campione",
+    "number": "1",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9686744,
+    "longitude": 8.9709961
+  },
+  {
+    "street": "Viale Matteo da Campione",
+    "number": "20",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9720966,
+    "longitude": 8.9732223
+  },
+  {
+    "street": "Via Antonio Bezzola",
+    "number": "17",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9728916,
+    "longitude": 8.9725877
+  },
+  {
+    "street": "Via Antonio Bezzola",
+    "number": "2",
+    "city": {
+      "name": "Campione d'Italia",
+      "istat": "013040"
+    },
+    "latitude": 45.9695025,
+    "longitude": 8.9708463
+  }
+]

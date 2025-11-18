@@ -1,0 +1,12 @@
+[
+  {
+    "street": "Via delle Frazioni",
+    "number": "1/B",
+    "city": {
+      "name": "Laglio",
+      "istat": "013119"
+    },
+    "latitude": 45.8781838,
+    "longitude": 9.1343968
+  }
+]

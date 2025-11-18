@@ -1,0 +1,3302 @@
+[
+  {
+    "street": "Via Varese",
+    "number": "35",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6248547,
+    "longitude": 9.0262675
+  },
+  {
+    "street": "Via Portici",
+    "number": "6",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6260701,
+    "longitude": 9.0373986
+  },
+  {
+    "street": "Corso Italia",
+    "number": "111",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.626214,
+    "longitude": 9.032757
+  },
+  {
+    "street": "Piazza Alcide De Gasperi",
+    "number": "13",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6264786,
+    "longitude": 9.0356162
+  },
+  {
+    "street": "Via Portici",
+    "number": "12",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6262392,
+    "longitude": 9.0374927
+  },
+  {
+    "street": "Piazza Aviatori d'Italia",
+    "number": "8",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6284318,
+    "longitude": 9.0347858
+  },
+  {
+    "street": "Via Varese",
+    "number": "146",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6258488,
+    "longitude": 9.0251257
+  },
+  {
+    "street": "Via Varese",
+    "number": "140/A",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.625767,
+    "longitude": 9.0251917
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "9",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6262016,
+    "longitude": 9.0296524
+  },
+  {
+    "street": "Via Varese",
+    "number": "2/O",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6102703,
+    "longitude": 9.0352416
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "52",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6258558,
+    "longitude": 9.0371708
+  },
+  {
+    "street": "Via San Michele del Carso",
+    "number": "4",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6212607,
+    "longitude": 9.0407237
+  },
+  {
+    "street": "Via Tommaso Grossi",
+    "number": "9",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6302673,
+    "longitude": 9.0285977
+  },
+  {
+    "street": "Via Vincenzo Monti",
+    "number": "14",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6290222,
+    "longitude": 9.0311426
+  },
+  {
+    "street": "Viale delle Rimembranze",
+    "number": "42",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6281256,
+    "longitude": 9.0299973
+  },
+  {
+    "street": "Viale Santuario",
+    "number": "2",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6259283,
+    "longitude": 9.0268762
+  },
+  {
+    "street": "Via San Giuseppe",
+    "number": "21",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6271894,
+    "longitude": 9.033488
+  },
+  {
+    "street": "Via Antonio Cantore",
+    "number": "15",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6258124,
+    "longitude": 9.0305915
+  },
+  {
+    "street": "Via Novara",
+    "number": "53",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6222713,
+    "longitude": 9.0170261
+  },
+  {
+    "street": "Via Varese",
+    "number": "33",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.624823,
+    "longitude": 9.0265079
+  },
+  {
+    "street": "Via Bernardino Lanino",
+    "number": "2",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6257664,
+    "longitude": 9.0288918
+  },
+  {
+    "street": "Via Bernardino Lanino",
+    "number": "1",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6248632,
+    "longitude": 9.028582
+  },
+  {
+    "street": "Via Bernardino Lanino",
+    "number": "12",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6255494,
+    "longitude": 9.0288465
+  },
+  {
+    "street": "Via Bernardino Lanino",
+    "number": "3",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6246633,
+    "longitude": 9.0285351
+  },
+  {
+    "street": "Via Bernardino Lanino",
+    "number": "40",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6244903,
+    "longitude": 9.0286489
+  },
+  {
+    "street": "Via Bernardino Lanino",
+    "number": "6",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6256737,
+    "longitude": 9.0288721
+  },
+  {
+    "street": "Via Roma",
+    "number": "55",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6246712,
+    "longitude": 9.0431054
+  },
+  {
+    "street": "Via Venezia",
+    "number": "55a",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6405852,
+    "longitude": 9.044197
+  },
+  {
+    "street": "Via Venezia",
+    "number": "55b",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6405834,
+    "longitude": 9.0440679
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "118b",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.635282,
+    "longitude": 9.0351941
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "120a",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6357096,
+    "longitude": 9.0353742
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "140",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6374839,
+    "longitude": 9.0354502
+  },
+  {
+    "street": "Via Cesare Miola",
+    "number": "22",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6255676,
+    "longitude": 9.0461847
+  },
+  {
+    "street": "Vicolo Pozzetto",
+    "number": "11",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6273294,
+    "longitude": 9.0358049
+  },
+  {
+    "street": "Via San Francesco",
+    "number": "8",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6327464,
+    "longitude": 9.0335099
+  },
+  {
+    "street": "Via Giuseppe Frua",
+    "number": "46",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6335966,
+    "longitude": 9.0447971
+  },
+  {
+    "street": "Piazza Alcide De Gasperi",
+    "number": "15",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6264667,
+    "longitude": 9.0348848
+  },
+  {
+    "street": "Via Maestri del Lavoro",
+    "number": "25",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6217693,
+    "longitude": 9.036543
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "11;13",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6225574,
+    "longitude": 9.0364551
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "35",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6325031,
+    "longitude": 9.0354918
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "57",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6346794,
+    "longitude": 9.0354969
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "59",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6358184,
+    "longitude": 9.0350352
+  },
+  {
+    "street": "Piazza don Giuseppe Borella",
+    "number": "1",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6303691,
+    "longitude": 9.0392051
+  },
+  {
+    "street": "Via Monsignor Antonio Benetti",
+    "number": "2",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6365809,
+    "longitude": 9.0323264
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "122",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6365881,
+    "longitude": 9.0324228
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "116",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6355696,
+    "longitude": 9.034907
+  },
+  {
+    "street": "Via Gioacchino Rossini",
+    "number": "4",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6349795,
+    "longitude": 9.0344502
+  },
+  {
+    "street": "Via Caduti della Liberazione",
+    "number": "35",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6247414,
+    "longitude": 9.0334068
+  },
+  {
+    "street": "Corso Italia",
+    "number": "119",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6262307,
+    "longitude": 9.0325232
+  },
+  {
+    "street": "Viale delle Rimembranze",
+    "number": "39",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6276083,
+    "longitude": 9.0302111
+  },
+  {
+    "street": "Via Sabotino",
+    "number": "17",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6326433,
+    "longitude": 9.0336007
+  },
+  {
+    "street": "Piazza Santuario",
+    "number": "8",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6260666,
+    "longitude": 9.0248246
+  },
+  {
+    "street": "Via San Giuseppe",
+    "number": "36",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6275443,
+    "longitude": 9.033268
+  },
+  {
+    "street": "Corso Italia",
+    "number": "107",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6262035,
+    "longitude": 9.0330338
+  },
+  {
+    "street": "Via Caduti della Liberazione",
+    "number": "9",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6243552,
+    "longitude": 9.0354257
+  },
+  {
+    "street": "Via Felice Carcano",
+    "number": "12",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6252481,
+    "longitude": 9.0331205
+  },
+  {
+    "street": "Via Maestri del Lavoro",
+    "number": "49",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6214925,
+    "longitude": 9.0364002
+  },
+  {
+    "street": "Via Giovan Battista Radice",
+    "number": "10/12",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6413179,
+    "longitude": 9.048223
+  },
+  {
+    "street": "Via Don Vittorio Volpi",
+    "number": "18",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6352935,
+    "longitude": 9.0404532
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "33",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6261046,
+    "longitude": 9.0407647
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "27",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6238846,
+    "longitude": 9.0404873
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "134",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6369269,
+    "longitude": 9.0353993
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "5",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6262425,
+    "longitude": 9.0308128
+  },
+  {
+    "street": "Via Carlo Marx",
+    "number": "11",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.638826,
+    "longitude": 9.0370057
+  },
+  {
+    "street": "Via Carlo Marx",
+    "number": "13",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6385787,
+    "longitude": 9.0370926
+  },
+  {
+    "street": "Via Carlo Marx",
+    "number": "15",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6390105,
+    "longitude": 9.0372948
+  },
+  {
+    "street": "Via Carlo Marx",
+    "number": "17",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6387532,
+    "longitude": 9.0373959
+  },
+  {
+    "street": "Via Carlo Marx",
+    "number": "19",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6390955,
+    "longitude": 9.0376913
+  },
+  {
+    "street": "Via Carlo Marx",
+    "number": "21",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.638836,
+    "longitude": 9.0377213
+  },
+  {
+    "street": "Piazza Riconoscenza",
+    "number": "3",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6269115,
+    "longitude": 9.0377289
+  },
+  {
+    "street": "Vicolo delle Scuole",
+    "number": "11",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.627755,
+    "longitude": 9.0354845
+  },
+  {
+    "street": "Via Varese",
+    "number": "6",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6137039,
+    "longitude": 9.0340129
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "8",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6251004,
+    "longitude": 9.0365334
+  },
+  {
+    "street": "Via Bergamo",
+    "number": "8",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6252513,
+    "longitude": 9.0435528
+  },
+  {
+    "street": "Piazza Volontari del Sangue",
+    "number": "4",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6261305,
+    "longitude": 9.0346013
+  },
+  {
+    "street": "Via Bergamo",
+    "number": "23",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6280624,
+    "longitude": 9.0465483
+  },
+  {
+    "street": "Via Caduti della Liberazione",
+    "number": "37",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6247709,
+    "longitude": 9.0332265
+  },
+  {
+    "street": "Via Felice Carcano",
+    "number": "32",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6248191,
+    "longitude": 9.0330346
+  },
+  {
+    "street": "Piazza Santuario",
+    "number": "1",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6264386,
+    "longitude": 9.025203
+  },
+  {
+    "street": "Via Don Vittorio Volpi",
+    "number": "12",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6351479,
+    "longitude": 9.040427
+  },
+  {
+    "street": "Via Bernardino Lanino",
+    "number": "32",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6246867,
+    "longitude": 9.028897
+  },
+  {
+    "street": "Piazza Don Giuseppe Borella",
+    "number": "1",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6290428,
+    "longitude": 9.0402694
+  },
+  {
+    "street": "Via Varese",
+    "number": "71",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6314662,
+    "longitude": 9.0178576
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "28",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6381694,
+    "longitude": 9.0324959
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "26",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6381127,
+    "longitude": 9.0324959
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "24",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6380458,
+    "longitude": 9.0325017
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "22",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6379932,
+    "longitude": 9.0325017
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "20",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6379466,
+    "longitude": 9.0325133
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "18",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6378858,
+    "longitude": 9.0325191
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "16",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6378311,
+    "longitude": 9.032522
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "14",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6377804,
+    "longitude": 9.0325422
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "52",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6306589,
+    "longitude": 9.0351865
+  },
+  {
+    "street": "Via Gabriele D'Annunzio",
+    "number": "9",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6317555,
+    "longitude": 9.0332212
+  },
+  {
+    "street": "Via Carlo Marx",
+    "number": "28",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6391988,
+    "longitude": 9.0385962
+  },
+  {
+    "street": "Via Carlo Marx",
+    "number": "26",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6392636,
+    "longitude": 9.0381383
+  },
+  {
+    "street": "Via Carlo Marx",
+    "number": "24",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6392474,
+    "longitude": 9.0377065
+  },
+  {
+    "street": "Via Carlo Marx",
+    "number": "22",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6391765,
+    "longitude": 9.037153
+  },
+  {
+    "street": "Viale delle Rimembranze",
+    "number": "4",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6264099,
+    "longitude": 9.0299869
+  },
+  {
+    "street": "Viale delle Rimembranze",
+    "number": "6",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.626734,
+    "longitude": 9.0299339
+  },
+  {
+    "street": "Viale delle Rimembranze",
+    "number": "8",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6269729,
+    "longitude": 9.0299339
+  },
+  {
+    "street": "Viale delle Rimembranze",
+    "number": "10",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6272655,
+    "longitude": 9.0299312
+  },
+  {
+    "street": "Via Antonio Parma",
+    "number": "1",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.612996,
+    "longitude": 9.0338604
+  },
+  {
+    "street": "Via Padre Gian Battista Busnelli",
+    "number": "18",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6394049,
+    "longitude": 9.0492164
+  },
+  {
+    "street": "Via Venezia",
+    "number": "20",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6419517,
+    "longitude": 9.0454012
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "34",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6332968,
+    "longitude": 9.0312874
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "36",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.63352,
+    "longitude": 9.0313411
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "38",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6339063,
+    "longitude": 9.0314752
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "40",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6342739,
+    "longitude": 9.0315878
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "44",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6350016,
+    "longitude": 9.031781
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "42",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6346528,
+    "longitude": 9.0316898
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "128",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6360894,
+    "longitude": 9.0353805
+  },
+  {
+    "street": "Via Gioacchino Rossini",
+    "number": "2",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6336954,
+    "longitude": 9.0340871
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "43",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6326347,
+    "longitude": 9.0354824
+  },
+  {
+    "street": "Via Monte Pasubio",
+    "number": "14",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6339641,
+    "longitude": 9.0293956
+  },
+  {
+    "street": "Corso Italia",
+    "number": "73",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6259738,
+    "longitude": 9.0341619
+  },
+  {
+    "street": "Via Varese",
+    "number": "78",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6208493,
+    "longitude": 9.0287317
+  },
+  {
+    "street": "Via Rodolfo Bucco",
+    "number": "1",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6222428,
+    "longitude": 9.0387778
+  },
+  {
+    "street": "Via San Giacomo",
+    "number": "28",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.627503,
+    "longitude": 9.0372661
+  },
+  {
+    "street": "Via San Cristoforo",
+    "number": "55",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6281624,
+    "longitude": 9.0355877
+  },
+  {
+    "street": "Via Edvard Grieg",
+    "number": "87",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6120576,
+    "longitude": 9.043757
+  },
+  {
+    "street": "Viale Milano",
+    "number": "18a",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6216321,
+    "longitude": 9.0351183
+  },
+  {
+    "street": "Viale Milano",
+    "number": "20",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6209812,
+    "longitude": 9.0350023
+  },
+  {
+    "street": "Via Maestri del Lavoro",
+    "number": "27",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6216764,
+    "longitude": 9.0365503
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "72",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6315338,
+    "longitude": 9.0352249
+  },
+  {
+    "street": "Piazza Luigi Cadorna",
+    "number": "1",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6259268,
+    "longitude": 9.0312292
+  },
+  {
+    "street": "Viale delle Rimembranze",
+    "number": "61",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6290138,
+    "longitude": 9.0302586
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "3",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6257736,
+    "longitude": 9.0379058
+  },
+  {
+    "street": "Via Cesare Miola",
+    "number": "38",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6257362,
+    "longitude": 9.046107
+  },
+  {
+    "street": "Via Varese",
+    "number": "130",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6239441,
+    "longitude": 9.0265213
+  },
+  {
+    "street": "Via Giuseppe Ungaretti",
+    "number": "49",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6179391,
+    "longitude": 9.0530305
+  },
+  {
+    "street": "Vicolo del Caldo",
+    "number": "2",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6274148,
+    "longitude": 9.0364201
+  },
+  {
+    "street": "Via Milano",
+    "number": "3",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6228607,
+    "longitude": 9.0350786
+  },
+  {
+    "street": "Via Roma",
+    "number": "11",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6252258,
+    "longitude": 9.0398002
+  },
+  {
+    "street": "Via Gioacchino Rossini",
+    "number": "1",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6346303,
+    "longitude": 9.0343022
+  },
+  {
+    "street": "Via Sabotino",
+    "number": "47",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6358137,
+    "longitude": 9.0327626
+  },
+  {
+    "street": "Via Gioacchino Rossini",
+    "number": "10",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6346978,
+    "longitude": 9.0335378
+  },
+  {
+    "street": "Via Sabotino",
+    "number": "45",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6352848,
+    "longitude": 9.0328833
+  },
+  {
+    "street": "Via Maestri del Lavoro",
+    "number": "9",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6220126,
+    "longitude": 9.0366077
+  },
+  {
+    "street": "Via Padre Luigi Sampietro",
+    "number": "162",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6124359,
+    "longitude": 9.0233047
+  },
+  {
+    "street": "Via Antonio Parma",
+    "number": "17",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6121418,
+    "longitude": 9.0242375
+  },
+  {
+    "street": "Via Antonio Parma",
+    "number": "25",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6121833,
+    "longitude": 9.0236451
+  },
+  {
+    "street": "Via Antonio Parma",
+    "number": "23",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6121707,
+    "longitude": 9.0238252
+  },
+  {
+    "street": "Via Antonio Parma",
+    "number": "19",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6121511,
+    "longitude": 9.0241048
+  },
+  {
+    "street": "Via Antonio Parma",
+    "number": "21",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6121603,
+    "longitude": 9.0239733
+  },
+  {
+    "street": "Via Padre Agostino Gemelli",
+    "number": "8",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6374229,
+    "longitude": 9.0328303
+  },
+  {
+    "street": "Via Padre Agostino Gemelli",
+    "number": "5",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6374496,
+    "longitude": 9.0334692
+  },
+  {
+    "street": "Vicolo Santa Marta",
+    "number": "9",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6253907,
+    "longitude": 9.0343951
+  },
+  {
+    "street": "Piazza Don Giuseppe Borella",
+    "number": "13",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6285853,
+    "longitude": 9.0403345
+  },
+  {
+    "street": "Via Benedetto Croce",
+    "number": "1",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6287709,
+    "longitude": 9.0238255
+  },
+  {
+    "street": "Via Padre Reginaldo Giuliani",
+    "number": "38",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6214655,
+    "longitude": 9.0242448
+  },
+  {
+    "street": "Via Varese",
+    "number": "126",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6235425,
+    "longitude": 9.0268641
+  },
+  {
+    "street": "Via Maestri del Lavoro",
+    "number": "45",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6214657,
+    "longitude": 9.0364647
+  },
+  {
+    "street": "Via Padre Luigi Sampietro",
+    "number": "109",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6115028,
+    "longitude": 9.0222184
+  },
+  {
+    "street": "Via Padre Luigi Sampietro",
+    "number": "111",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6112714,
+    "longitude": 9.0221964
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "9",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6245057,
+    "longitude": 9.0405027
+  },
+  {
+    "street": "Via San Giuseppe",
+    "number": "100a",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6335786,
+    "longitude": 9.0339579
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "43",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6245099,
+    "longitude": 9.0357557
+  },
+  {
+    "street": "Via Varese",
+    "number": "29/F",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6244001,
+    "longitude": 9.0265183
+  },
+  {
+    "street": "Via Gaudenzio Ferrari",
+    "number": "21",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6238665,
+    "longitude": 9.0315361
+  },
+  {
+    "street": "Piazzale Santuario",
+    "number": "9",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.626796,
+    "longitude": 9.0249464
+  },
+  {
+    "street": "Giuseppe Parini",
+    "number": "54",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.626881,
+    "longitude": 9.0476
+  },
+  {
+    "street": "Via Antonio Cantore",
+    "number": "4",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.62509,
+    "longitude": 9.031126
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "9",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6283383,
+    "longitude": 9.0397318
+  },
+  {
+    "street": "Via San Giuseppe",
+    "number": "95",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6295279,
+    "longitude": 9.0341836
+  },
+  {
+    "street": "Via Sorelle Lucini",
+    "number": "22",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6192987,
+    "longitude": 9.0418927
+  },
+  {
+    "street": "Viale Santuario",
+    "number": "21",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6265652,
+    "longitude": 9.0256888
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "40",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6298318,
+    "longitude": 9.0351384
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "8",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6291777,
+    "longitude": 9.0351168
+  },
+  {
+    "street": "Via Varese",
+    "number": "136",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6250846,
+    "longitude": 9.025612
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "122",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6358561,
+    "longitude": 9.0353928
+  },
+  {
+    "street": "Piazza Unità d'Italia",
+    "number": "7",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6287028,
+    "longitude": 9.0355229
+  },
+  {
+    "street": "Via Gorizia",
+    "number": "22",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.611865,
+    "longitude": 9.0338571
+  },
+  {
+    "street": "Via Don Vittorio Volpi",
+    "number": "10",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6347406,
+    "longitude": 9.0403793
+  },
+  {
+    "street": "Via Varese",
+    "number": "2/E",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6105941,
+    "longitude": 9.0349085
+  },
+  {
+    "street": "Viale Milano",
+    "number": "3",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6234784,
+    "longitude": 9.0351378
+  },
+  {
+    "street": "Via Varese",
+    "number": "2",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6113249,
+    "longitude": 9.0351657
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "28",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6306854,
+    "longitude": 9.0373006
+  },
+  {
+    "street": "Via San Giuseppe",
+    "number": "133",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6307894,
+    "longitude": 9.0344204
+  },
+  {
+    "street": "Viale Milano",
+    "number": "3/E",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6236033,
+    "longitude": 9.0352664
+  },
+  {
+    "street": "Via Varese",
+    "number": "9",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6146726,
+    "longitude": 9.0338415
+  },
+  {
+    "street": "Via Varese",
+    "number": "3/5",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6143229,
+    "longitude": 9.0339594
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "7",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6301908,
+    "longitude": 9.0353048
+  },
+  {
+    "street": "Piazza Aviatori d'Italia",
+    "number": "2",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6284213,
+    "longitude": 9.0352252
+  },
+  {
+    "street": "Via Varese",
+    "number": "74",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6199155,
+    "longitude": 9.0279363
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "96",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6323108,
+    "longitude": 9.0352643
+  },
+  {
+    "street": "Viale Lombardia",
+    "number": "4/6",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6137608,
+    "longitude": 9.0358934
+  },
+  {
+    "street": "Piazza Unità d'Italia",
+    "number": "1",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.628483,
+    "longitude": 9.0352374
+  },
+  {
+    "street": "Via Varese",
+    "number": "11",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6149532,
+    "longitude": 9.0335792
+  },
+  {
+    "street": "Via Don Vittorio Volpi",
+    "number": "63",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6361005,
+    "longitude": 9.0397003
+  },
+  {
+    "street": "Via Ambrogio Legnani",
+    "number": "14",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6309348,
+    "longitude": 9.0368123
+  },
+  {
+    "street": "Via Varese",
+    "number": "2/A",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6113867,
+    "longitude": 9.0342685
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "101",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6367975,
+    "longitude": 9.0356384
+  },
+  {
+    "street": "Via Don Vittorio Volpi",
+    "number": "20",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6353847,
+    "longitude": 9.0404131
+  },
+  {
+    "street": "Via Varese",
+    "number": "3",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6141268,
+    "longitude": 9.0341516
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "15",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6305179,
+    "longitude": 9.0372572
+  },
+  {
+    "street": "Viale Milano",
+    "number": "28/A",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6161077,
+    "longitude": 9.0334834
+  },
+  {
+    "street": "Via Varese",
+    "number": "24",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6147793,
+    "longitude": 9.033313
+  },
+  {
+    "street": "Corso Italia",
+    "number": "23",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.625855,
+    "longitude": 9.0358057
+  },
+  {
+    "street": "Via San Giacomo",
+    "number": "26",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6275482,
+    "longitude": 9.0373171
+  },
+  {
+    "street": "Via San Giacomo",
+    "number": "24",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6275989,
+    "longitude": 9.0372868
+  },
+  {
+    "street": "Via San Giacomo",
+    "number": "34",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6272757,
+    "longitude": 9.0370843
+  },
+  {
+    "street": "Via San Giacomo",
+    "number": "28a",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6274486,
+    "longitude": 9.0372202
+  },
+  {
+    "street": "Via San Giacomo",
+    "number": "30",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6273906,
+    "longitude": 9.0371774
+  },
+  {
+    "street": "Via San Giacomo",
+    "number": "32",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6273364,
+    "longitude": 9.0371409
+  },
+  {
+    "street": "Via San Cristoforo",
+    "number": "59",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.628144,
+    "longitude": 9.0355139
+  },
+  {
+    "street": "Via San Cristoforo",
+    "number": "58",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6280781,
+    "longitude": 9.0354651
+  },
+  {
+    "street": "Via San Cristoforo",
+    "number": "54",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.628008,
+    "longitude": 9.0355861
+  },
+  {
+    "street": "Via San Cristoforo",
+    "number": "52",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6279568,
+    "longitude": 9.0356629
+  },
+  {
+    "street": "Via San Cristoforo",
+    "number": "51",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6279963,
+    "longitude": 9.0357315
+  },
+  {
+    "street": "Via San Cristoforo",
+    "number": "49",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6279444,
+    "longitude": 9.0358085
+  },
+  {
+    "street": "Via San Cristoforo",
+    "number": "48",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6278745,
+    "longitude": 9.0357929
+  },
+  {
+    "street": "Via San Cristoforo",
+    "number": "47",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6279221,
+    "longitude": 9.0358412
+  },
+  {
+    "street": "Via Gorizia",
+    "number": "47",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6102692,
+    "longitude": 9.0316815
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "66",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.623976,
+    "longitude": 9.0417238
+  },
+  {
+    "street": "Via Varese",
+    "number": "1",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6142918,
+    "longitude": 9.0351735
+  },
+  {
+    "street": "Via Roma",
+    "number": "32",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6251068,
+    "longitude": 9.041549
+  },
+  {
+    "street": "Via Roma",
+    "number": "20",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6258249,
+    "longitude": 9.0398505
+  },
+  {
+    "street": "Via Giuseppe Parini",
+    "number": "18",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6263045,
+    "longitude": 9.0433797
+  },
+  {
+    "street": "Via Roma",
+    "number": "23",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6251338,
+    "longitude": 9.040542
+  },
+  {
+    "street": "Via Roma",
+    "number": "65",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6248474,
+    "longitude": 9.0421397
+  },
+  {
+    "street": "Via Padre Luigi Sampietro",
+    "number": "84",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6161365,
+    "longitude": 9.0236968
+  },
+  {
+    "street": "Via Roma",
+    "number": "61",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6248667,
+    "longitude": 9.042037
+  },
+  {
+    "street": "Via Roma",
+    "number": "19",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6251654,
+    "longitude": 9.0403146
+  },
+  {
+    "street": "Via Visconti",
+    "number": "19",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6259054,
+    "longitude": 9.0422025
+  },
+  {
+    "street": "Via Giuseppe Parini",
+    "number": "5",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6260375,
+    "longitude": 9.0422543
+  },
+  {
+    "street": "Piazza Luigi Cadorna",
+    "number": "24",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6253622,
+    "longitude": 9.0312583
+  },
+  {
+    "street": "Via Antonio Cantore",
+    "number": "9",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6257126,
+    "longitude": 9.0307505
+  },
+  {
+    "street": "Piazza Luigi Cadorna",
+    "number": "15",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6256269,
+    "longitude": 9.0309727
+  },
+  {
+    "street": "Piazza Luigi Cadorna",
+    "number": "9/7",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6256605,
+    "longitude": 9.0310126
+  },
+  {
+    "street": "Piazza Luigi Cadorna",
+    "number": "11",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.625714,
+    "longitude": 9.0310591
+  },
+  {
+    "street": "Via Antonio Cantore",
+    "number": "5",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6252733,
+    "longitude": 9.031352
+  },
+  {
+    "street": "Via Edvard Grieg",
+    "number": "13",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6166055,
+    "longitude": 9.0394419
+  },
+  {
+    "street": "Piazza Luigi Cadorna",
+    "number": "26",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6253083,
+    "longitude": 9.0312953
+  },
+  {
+    "street": "Piazza Sandro Pertini",
+    "number": "7",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6355937,
+    "longitude": 9.0339605
+  },
+  {
+    "street": "Via Roma",
+    "number": "59",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6238921,
+    "longitude": 9.0453334
+  },
+  {
+    "street": "Corso Italia",
+    "number": "58a",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.625568,
+    "longitude": 9.0345868
+  },
+  {
+    "street": "Via Varese",
+    "number": "21",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6216515,
+    "longitude": 9.0294313
+  },
+  {
+    "street": "Via Luigi Lazzaroni",
+    "number": "25",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6229972,
+    "longitude": 9.0174933
+  },
+  {
+    "street": "Via Felice Carcano",
+    "number": "9",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6250119,
+    "longitude": 9.0327087
+  },
+  {
+    "street": "Viale Santuario",
+    "number": "11",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6263274,
+    "longitude": 9.0274167
+  },
+  {
+    "street": "Via Valletta",
+    "number": "2",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6307566,
+    "longitude": 9.027479
+  },
+  {
+    "street": "Via Paolo Mantegazza",
+    "number": "25",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6258127,
+    "longitude": 9.0186591
+  },
+  {
+    "street": "Via Carso",
+    "number": "10",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6297256,
+    "longitude": 9.0215977
+  },
+  {
+    "street": "Via Angelo Volonterio",
+    "number": "34",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6304059,
+    "longitude": 9.0217459
+  },
+  {
+    "street": "Via Antonio Parma",
+    "number": "12",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6112072,
+    "longitude": 9.0250295
+  },
+  {
+    "street": "Via Antonio Parma",
+    "number": "14",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6111341,
+    "longitude": 9.0240974
+  },
+  {
+    "street": "Via Gorizia",
+    "number": "36",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6106613,
+    "longitude": 9.0322112
+  },
+  {
+    "street": "Via Carlo Marx",
+    "number": "15-17",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.638909,
+    "longitude": 9.0374638
+  },
+  {
+    "street": "Via Milano",
+    "number": "18a",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6214607,
+    "longitude": 9.0356125
+  },
+  {
+    "street": "Piazza della Repubblica",
+    "number": "7",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6237641,
+    "longitude": 9.03625
+  },
+  {
+    "street": "Via Padre Luigi Sampietro",
+    "number": "42-44",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6182688,
+    "longitude": 9.0249471
+  },
+  {
+    "street": "Via Cristofor Colombo",
+    "number": "42",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.632029,
+    "longitude": 9.0386198
+  },
+  {
+    "street": "Via Carlo Marx",
+    "number": "1",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6375029,
+    "longitude": 9.0363134
+  },
+  {
+    "street": "Via Larga",
+    "number": "3",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6370321,
+    "longitude": 9.0472762
+  },
+  {
+    "street": "Via Ventiquattro Maggio",
+    "number": "3",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6231707,
+    "longitude": 9.0484168
+  },
+  {
+    "street": "Via Evangelista Torricelli",
+    "number": "23",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6186132,
+    "longitude": 9.0279331
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "42",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6320387,
+    "longitude": 9.0381888
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "19",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6378166,
+    "longitude": 9.0319022
+  },
+  {
+    "street": "Via Monte Podgora",
+    "number": "18",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6353273,
+    "longitude": 9.0294945
+  },
+  {
+    "street": "Via San Francesco",
+    "number": "15",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6330249,
+    "longitude": 9.0325809
+  },
+  {
+    "street": "Via Novara",
+    "number": "50;52",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.621093,
+    "longitude": 9.0178625
+  },
+  {
+    "street": "Via Beato Angelico",
+    "number": "12",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6369504,
+    "longitude": 9.0386825
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "140",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6366422,
+    "longitude": 9.0335492
+  },
+  {
+    "street": "Via Delle Grigne",
+    "number": "8",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6380034,
+    "longitude": 9.033737
+  },
+  {
+    "street": "Via Vincenzo Alliata",
+    "number": "1",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6309019,
+    "longitude": 9.0305354
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "26",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.633911,
+    "longitude": 9.0312449
+  },
+  {
+    "street": "Via Monte Podgora",
+    "number": "26",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6352855,
+    "longitude": 9.03019
+  },
+  {
+    "street": "Via Monte Podgora",
+    "number": "51",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6369742,
+    "longitude": 9.0303257
+  },
+  {
+    "street": "Via Padre Luigi Sampietro",
+    "number": "22",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6206002,
+    "longitude": 9.0248993
+  },
+  {
+    "street": "Via Don Angelo Griffanti",
+    "number": "6",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6282156,
+    "longitude": 9.0293997
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "19",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6305087,
+    "longitude": 9.0377773
+  },
+  {
+    "street": "Piazza Unità d'Italia",
+    "number": "24",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6288214,
+    "longitude": 9.0350476
+  },
+  {
+    "street": "Via Don Vittorio Volpi",
+    "number": "35",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6341779,
+    "longitude": 9.0406754
+  },
+  {
+    "street": "Via Camillo Prampolini",
+    "number": "2",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6378661,
+    "longitude": 9.0465228
+  },
+  {
+    "street": "Via Don Vittorio Volpi",
+    "number": "4",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6331124,
+    "longitude": 9.0405913
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "120",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6356727,
+    "longitude": 9.0352923
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "7a",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6304163,
+    "longitude": 9.0357328
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "40",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6315924,
+    "longitude": 9.0390743
+  },
+  {
+    "street": "Via San Giuseppe",
+    "number": "108",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6341197,
+    "longitude": 9.0340393
+  },
+  {
+    "street": "Via Padre Roberto Montoli",
+    "number": "2",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6347287,
+    "longitude": 9.0357467
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "203",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6408775,
+    "longitude": 9.0362062
+  },
+  {
+    "street": "Via Hermada",
+    "number": "2",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6322657,
+    "longitude": 9.0328922
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "211",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6416301,
+    "longitude": 9.0361368
+  },
+  {
+    "street": "Via don Domenico Bellavita",
+    "number": "2",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6325634,
+    "longitude": 9.037034
+  },
+  {
+    "street": "Viale Santuario",
+    "number": "13",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6269262,
+    "longitude": 9.0270718
+  },
+  {
+    "street": "Via Angelo Ramazzotti",
+    "number": "23",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.627747,
+    "longitude": 9.032747
+  },
+  {
+    "street": "Via Paolo Mantegazza",
+    "number": "40",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6255774,
+    "longitude": 9.0171734
+  },
+  {
+    "street": "Viale Lombardia",
+    "number": "76",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6171616,
+    "longitude": 9.0520627
+  },
+  {
+    "street": "Via San Giuseppe",
+    "number": "60",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6293054,
+    "longitude": 9.0331766
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "105",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6372811,
+    "longitude": 9.0357846
+  },
+  {
+    "street": "Via Giovanni Morandi",
+    "number": "25",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6144917,
+    "longitude": 9.0361821
+  },
+  {
+    "street": "Via Campo dei Fiori",
+    "number": "41",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.633038,
+    "longitude": 9.0225451
+  },
+  {
+    "street": "Via Padre Gian Battista Busnelli",
+    "number": "59",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6390947,
+    "longitude": 9.0502261
+  },
+  {
+    "street": "Via Padre Gian Battista Busnelli",
+    "number": "2/4",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6396945,
+    "longitude": 9.0474582
+  },
+  {
+    "street": "Via Antonio Buraschi",
+    "number": "9",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6365228,
+    "longitude": 9.0501981
+  },
+  {
+    "street": "Via Piave",
+    "number": "1",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6231131,
+    "longitude": 9.0458382
+  },
+  {
+    "street": "Via Trento",
+    "number": "32",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6363205,
+    "longitude": 9.0417325
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "7",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6187381,
+    "longitude": 9.0286283
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "10",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6261975,
+    "longitude": 9.0404034
+  },
+  {
+    "street": "Via Don Davide Albertario",
+    "number": "1",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6186651,
+    "longitude": 9.022616
+  },
+  {
+    "street": "Via Tommaso Grossi",
+    "number": "13",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6304471,
+    "longitude": 9.0280537
+  },
+  {
+    "street": "Via Giuseppe Frua",
+    "number": "18a",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6303568,
+    "longitude": 9.0425339
+  },
+  {
+    "street": "Via Angelo Ramazzotti",
+    "number": "20",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6293431,
+    "longitude": 9.0323684
+  },
+  {
+    "street": "Via Roma",
+    "number": "86",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6239937,
+    "longitude": 9.0472994
+  },
+  {
+    "street": "Via San Cristoforo",
+    "number": "53",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6280773,
+    "longitude": 9.0356696
+  },
+  {
+    "street": "Via Roma",
+    "number": "34",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6251798,
+    "longitude": 9.0415522
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "75",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6235929,
+    "longitude": 9.0447032
+  },
+  {
+    "street": "Via Giuseppe Parini",
+    "number": "54",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6261007,
+    "longitude": 9.0478354
+  },
+  {
+    "street": "Via Don Luigi Monza",
+    "number": "13a",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6228352,
+    "longitude": 9.0413081
+  },
+  {
+    "street": "Via Roma",
+    "number": "88",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6243926,
+    "longitude": 9.0473601
+  },
+  {
+    "street": "Via Don Domenico Bellavita",
+    "number": "7",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6336795,
+    "longitude": 9.0373952
+  },
+  {
+    "street": "Via Giovanni Cattaneo",
+    "number": "8",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6241034,
+    "longitude": 9.0519239
+  },
+  {
+    "street": "Via Nino Biffi",
+    "number": "11",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6255762,
+    "longitude": 9.0483444
+  },
+  {
+    "street": "Via Roma",
+    "number": "119",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6231014,
+    "longitude": 9.0477148
+  },
+  {
+    "street": "Via Edoardo Balestrini",
+    "number": "2",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.632,
+    "longitude": 9.0420232
+  },
+  {
+    "street": "Via Padre Luigi Sampietro",
+    "number": "146",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6133912,
+    "longitude": 9.0236779
+  },
+  {
+    "street": "Via Padre Luigi Sampietro",
+    "number": "82",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6165271,
+    "longitude": 9.0238399
+  },
+  {
+    "street": "Via Antonio Parma",
+    "number": "15",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6122468,
+    "longitude": 9.0246598
+  },
+  {
+    "street": "Via Padre Luigi Sampietro",
+    "number": "114",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6138849,
+    "longitude": 9.0235391
+  },
+  {
+    "street": "Via Padre Luigi Sampietro",
+    "number": "110",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6150866,
+    "longitude": 9.0237654
+  },
+  {
+    "street": "Via Padre Luigi Sampietro",
+    "number": "108",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6153324,
+    "longitude": 9.0238819
+  },
+  {
+    "street": "Via Padre Luigi Sampietro",
+    "number": "106",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6155675,
+    "longitude": 9.0236527
+  },
+  {
+    "street": "Via Guglielmo Oberdan",
+    "number": "12",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6278108,
+    "longitude": 9.0210744
+  },
+  {
+    "street": "Via Galileo Ferraris",
+    "number": "28",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6194862,
+    "longitude": 9.0281956
+  },
+  {
+    "street": "Via Padre Luigi Sampietrp",
+    "number": "111",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6112728,
+    "longitude": 9.0219926
+  },
+  {
+    "street": "Via Padre Luigi Sampietro",
+    "number": "113",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6109761,
+    "longitude": 9.0216074
+  },
+  {
+    "street": "Viale Domenico Galli",
+    "number": "5",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6114063,
+    "longitude": 9.0209593
+  },
+  {
+    "street": "Via Monte Podgora",
+    "number": "101",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.640138,
+    "longitude": 9.0264474
+  },
+  {
+    "street": "Viale Milano",
+    "number": "26",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6168566,
+    "longitude": 9.0339567
+  },
+  {
+    "street": "Via Fratelli Cervi",
+    "number": "23",
+    "city": {
+      "name": "Saronno",
+      "istat": "012119"
+    },
+    "latitude": 45.6163514,
+    "longitude": 9.0253675
+  }
+]

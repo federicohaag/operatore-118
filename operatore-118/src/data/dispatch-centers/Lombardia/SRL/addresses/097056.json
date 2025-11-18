@@ -1,0 +1,232 @@
+[
+  {
+    "street": "Piazza Caduti",
+    "number": "2",
+    "city": {
+      "name": "Nibionno",
+      "istat": "097056"
+    },
+    "latitude": 45.75222,
+    "longitude": 9.26328
+  },
+  {
+    "street": "Via Giuseppe Parini",
+    "number": "4",
+    "city": {
+      "name": "Nibionno",
+      "istat": "097056"
+    },
+    "latitude": 45.7484388,
+    "longitude": 9.2695628
+  },
+  {
+    "street": "Via Volta",
+    "number": "21",
+    "city": {
+      "name": "Nibionno",
+      "istat": "097056"
+    },
+    "latitude": 45.7486142,
+    "longitude": 9.2699821
+  },
+  {
+    "street": "Via Giuseppe Parini",
+    "number": "18",
+    "city": {
+      "name": "Nibionno",
+      "istat": "097056"
+    },
+    "latitude": 45.7472042,
+    "longitude": 9.2690719
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "1",
+    "city": {
+      "name": "Nibionno",
+      "istat": "097056"
+    },
+    "latitude": 45.7469103,
+    "longitude": 9.2691296
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "8",
+    "city": {
+      "name": "Nibionno",
+      "istat": "097056"
+    },
+    "latitude": 45.747467,
+    "longitude": 9.2710846
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "15",
+    "city": {
+      "name": "Nibionno",
+      "istat": "097056"
+    },
+    "latitude": 45.7477129,
+    "longitude": 9.2717055
+  },
+  {
+    "street": "Via Giuseppe Parini",
+    "number": "1",
+    "city": {
+      "name": "Nibionno",
+      "istat": "097056"
+    },
+    "latitude": 45.7485383,
+    "longitude": 9.2698749
+  },
+  {
+    "street": "Via Giuseppe Parini",
+    "number": "5",
+    "city": {
+      "name": "Nibionno",
+      "istat": "097056"
+    },
+    "latitude": 45.7478126,
+    "longitude": 9.2704442
+  },
+  {
+    "street": "Via Giuseppe Parini",
+    "number": "7",
+    "city": {
+      "name": "Nibionno",
+      "istat": "097056"
+    },
+    "latitude": 45.7478484,
+    "longitude": 9.270181
+  },
+  {
+    "street": "Via Volta",
+    "number": "25",
+    "city": {
+      "name": "Nibionno",
+      "istat": "097056"
+    },
+    "latitude": 45.7493416,
+    "longitude": 9.2664137
+  },
+  {
+    "street": "Via Gaggio",
+    "number": "14",
+    "city": {
+      "name": "Nibionno",
+      "istat": "097056"
+    },
+    "latitude": 45.7466816,
+    "longitude": 9.2570159
+  },
+  {
+    "street": "Via Molino Nuovo",
+    "number": "2",
+    "city": {
+      "name": "Nibionno",
+      "istat": "097056"
+    },
+    "latitude": 45.7495232,
+    "longitude": 9.2550393
+  },
+  {
+    "street": "Via Gaggio",
+    "number": "43",
+    "city": {
+      "name": "Nibionno",
+      "istat": "097056"
+    },
+    "latitude": 45.7437867,
+    "longitude": 9.2564826
+  },
+  {
+    "street": "Località Gaggio",
+    "number": "14",
+    "city": {
+      "name": "Nibionno",
+      "istat": "097056"
+    },
+    "latitude": 45.7471642,
+    "longitude": 9.2557837
+  },
+  {
+    "street": "Via Gaggio",
+    "number": "45",
+    "city": {
+      "name": "Nibionno",
+      "istat": "097056"
+    },
+    "latitude": 45.7431146,
+    "longitude": 9.2557684
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "26",
+    "city": {
+      "name": "Nibionno",
+      "istat": "097056"
+    },
+    "latitude": 45.7477623,
+    "longitude": 9.272571
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "18",
+    "city": {
+      "name": "Nibionno",
+      "istat": "097056"
+    },
+    "latitude": 45.745977,
+    "longitude": 9.2695432
+  },
+  {
+    "street": "via Gaggio",
+    "number": "5",
+    "city": {
+      "name": "Nibionno",
+      "istat": "097056"
+    },
+    "latitude": 45.7465137,
+    "longitude": 9.2586414
+  },
+  {
+    "street": "Via Località Gaggio",
+    "number": "1",
+    "city": {
+      "name": "Nibionno",
+      "istat": "097056"
+    },
+    "latitude": 45.7488728,
+    "longitude": 9.2576475
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "33",
+    "city": {
+      "name": "Nibionno",
+      "istat": "097056"
+    },
+    "latitude": 45.7450592,
+    "longitude": 9.2660791
+  },
+  {
+    "street": "Via Volta",
+    "number": "31/bis",
+    "city": {
+      "name": "Nibionno",
+      "istat": "097056"
+    },
+    "latitude": 45.7488804,
+    "longitude": 9.260033
+  },
+  {
+    "street": "Via Don Lorenzo Fumagalli",
+    "number": "4",
+    "city": {
+      "name": "Nibionno",
+      "istat": "097056"
+    },
+    "latitude": 45.756592,
+    "longitude": 9.2639755
+  }
+]

@@ -1,0 +1,442 @@
+[
+  {
+    "street": "Via Fara Forni",
+    "number": "1",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.7743184,
+    "longitude": 8.8783199
+  },
+  {
+    "street": "Via Papa Innocenzo Undicesimo",
+    "number": "37",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.7741245,
+    "longitude": 8.8789963
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "42",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.7727148,
+    "longitude": 8.8765079
+  },
+  {
+    "street": "Via Salvo D'Acquisto",
+    "number": "8",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.7553543,
+    "longitude": 8.8830659
+  },
+  {
+    "street": "Piazza San Rocco",
+    "number": "2",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.7767627,
+    "longitude": 8.8860092
+  },
+  {
+    "street": "Via dei Martiri",
+    "number": "9",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.7762889,
+    "longitude": 8.8814935
+  },
+  {
+    "street": "Strada Provinciale 233 Varesina",
+    "number": "1",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.7670864,
+    "longitude": 8.8743454
+  },
+  {
+    "street": "Via Spech",
+    "number": "1",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.7756506,
+    "longitude": 8.8810687
+  },
+  {
+    "street": "Piazza San Maurizio",
+    "number": "2",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.7766547,
+    "longitude": 8.8827179
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "11",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.7726835,
+    "longitude": 8.8857848
+  },
+  {
+    "street": "Via Adua",
+    "number": "54",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.7817163,
+    "longitude": 8.8963843
+  },
+  {
+    "street": "Via John Fitzgerald Kennedy",
+    "number": "7",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.782928,
+    "longitude": 8.8951756
+  },
+  {
+    "street": "Via John Fitzgerald Kennedy",
+    "number": "6",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.7829234,
+    "longitude": 8.8958343
+  },
+  {
+    "street": "Via Adua",
+    "number": "37",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.7821414,
+    "longitude": 8.8954474
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "22",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.7744649,
+    "longitude": 8.8774718
+  },
+  {
+    "street": "Via Piave",
+    "number": "23",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.7689295,
+    "longitude": 8.8793007
+  },
+  {
+    "street": "Via Piave",
+    "number": "11",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.7702157,
+    "longitude": 8.8787253
+  },
+  {
+    "street": "Via Piave",
+    "number": "20",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.7712635,
+    "longitude": 8.8777839
+  },
+  {
+    "street": "Via Piave",
+    "number": "24",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.7708725,
+    "longitude": 8.8779108
+  },
+  {
+    "street": "Via Piave",
+    "number": "25",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.7684859,
+    "longitude": 8.8794134
+  },
+  {
+    "street": "Via Piave",
+    "number": "7",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.7711829,
+    "longitude": 8.8783637
+  },
+  {
+    "street": "Via Piave",
+    "number": "28",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.7706394,
+    "longitude": 8.8779368
+  },
+  {
+    "street": "Via Piave",
+    "number": "9",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.7707127,
+    "longitude": 8.8785565
+  },
+  {
+    "street": "Via Piave",
+    "number": "13",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.7699888,
+    "longitude": 8.8787867
+  },
+  {
+    "street": "Via Piave",
+    "number": "21",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.7692381,
+    "longitude": 8.8791492
+  },
+  {
+    "street": "Via Piave",
+    "number": "40",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.7684739,
+    "longitude": 8.8786945
+  },
+  {
+    "street": "Vicolo San Giovanni Bosco",
+    "number": "1",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.7772696,
+    "longitude": 8.8823071
+  },
+  {
+    "street": "Via Piave",
+    "number": "5",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.77178,
+    "longitude": 8.878217
+  },
+  {
+    "street": "Via Piave",
+    "number": "3",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.7719775,
+    "longitude": 8.8781434
+  },
+  {
+    "street": "Via Piave",
+    "number": "1",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.7722394,
+    "longitude": 8.8781212
+  },
+  {
+    "street": "Via Piave",
+    "number": "1a",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.7726234,
+    "longitude": 8.8778402
+  },
+  {
+    "street": "Piazza San Maurizio",
+    "number": "10",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.7769063,
+    "longitude": 8.8822507
+  },
+  {
+    "street": "Via per Venegono",
+    "number": "20",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.7659036,
+    "longitude": 8.8857452
+  },
+  {
+    "street": "Via per Venegono",
+    "number": "24",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.764274,
+    "longitude": 8.888376
+  },
+  {
+    "street": "Via Francesco Baracca",
+    "number": "7",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.7786017,
+    "longitude": 8.8854235
+  },
+  {
+    "street": "Via Piave",
+    "number": "5a",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.7715482,
+    "longitude": 8.8781544
+  },
+  {
+    "street": "Via Piave",
+    "number": "22",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.7709724,
+    "longitude": 8.8777076
+  },
+  {
+    "street": "Via Piave",
+    "number": "14",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.7714407,
+    "longitude": 8.8779219
+  },
+  {
+    "street": "Via Piave",
+    "number": "12",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.7716133,
+    "longitude": 8.8776743
+  },
+  {
+    "street": "Via Piave",
+    "number": "10",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.7718249,
+    "longitude": 8.8778158
+  },
+  {
+    "street": "Via Piave",
+    "number": "8",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.7719357,
+    "longitude": 8.8775962
+  },
+  {
+    "street": "Via Piave",
+    "number": "6",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.7720606,
+    "longitude": 8.877515
+  },
+  {
+    "street": "Via Piave",
+    "number": "4",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.7722485,
+    "longitude": 8.8774802
+  },
+  {
+    "street": "Via Piave",
+    "number": "2",
+    "city": {
+      "name": "Vedano Olona",
+      "istat": "012134"
+    },
+    "latitude": 45.7725486,
+    "longitude": 8.8773863
+  }
+]

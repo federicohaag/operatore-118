@@ -1,0 +1,3072 @@
+[
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "2",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7745426,
+    "longitude": 8.7039103
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "6",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7749575,
+    "longitude": 8.7039852
+  },
+  {
+    "street": "Via dei Martiri",
+    "number": "13",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7677757,
+    "longitude": 8.7048859
+  },
+  {
+    "street": "Viale Repubblica",
+    "number": "16",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7764176,
+    "longitude": 8.6996978
+  },
+  {
+    "street": "Viale Repubblica",
+    "number": "2",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7696468,
+    "longitude": 8.7016442
+  },
+  {
+    "street": "Via dei Martiri",
+    "number": "23",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7664253,
+    "longitude": 8.7037387
+  },
+  {
+    "street": "Viale Repubblica",
+    "number": "24",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7775374,
+    "longitude": 8.699253
+  },
+  {
+    "street": "Via dei Martiri",
+    "number": "31",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.764018,
+    "longitude": 8.7021684
+  },
+  {
+    "street": "Via dei Martiri",
+    "number": "5",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7680122,
+    "longitude": 8.7050501
+  },
+  {
+    "street": "Viale Repubblica",
+    "number": "8",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7750975,
+    "longitude": 8.7000954
+  },
+  {
+    "street": "Via dei Martiri",
+    "number": "29",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7648234,
+    "longitude": 8.7025985
+  },
+  {
+    "street": "Via Torino",
+    "number": "1",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.764604,
+    "longitude": 8.7032129
+  },
+  {
+    "street": "Piazza Borghi",
+    "number": "3",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7735106,
+    "longitude": 8.7032512
+  },
+  {
+    "street": "Via Antonio Fogazzaro",
+    "number": "1",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7758765,
+    "longitude": 8.7057695
+  },
+  {
+    "street": "Via Cavour",
+    "number": "1",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7794722,
+    "longitude": 8.7022745
+  },
+  {
+    "street": "Via Cesare Beccaria",
+    "number": "1",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7807017,
+    "longitude": 8.7019826
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "1",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7747977,
+    "longitude": 8.7038068
+  },
+  {
+    "street": "Via Antonio Fogazzaro",
+    "number": "10",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7760281,
+    "longitude": 8.7058377
+  },
+  {
+    "street": "Via Cavour",
+    "number": "10",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7796866,
+    "longitude": 8.7011146
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "10",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7752417,
+    "longitude": 8.7039821
+  },
+  {
+    "street": "Via Antonio Fogazzaro",
+    "number": "11",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7775246,
+    "longitude": 8.7055184
+  },
+  {
+    "street": "Via Cavour",
+    "number": "12",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7797475,
+    "longitude": 8.7006773
+  },
+  {
+    "street": "Via Cesare Beccaria",
+    "number": "13",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7802935,
+    "longitude": 8.7010192
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "13",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.778047,
+    "longitude": 8.7031962
+  },
+  {
+    "street": "Via Antonio Fogazzaro",
+    "number": "14",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7764211,
+    "longitude": 8.705854
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "15",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7782135,
+    "longitude": 8.7031231
+  },
+  {
+    "street": "Via Antonio Fogazzaro",
+    "number": "16",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7771439,
+    "longitude": 8.7057715
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "19",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7784685,
+    "longitude": 8.7030081
+  },
+  {
+    "street": "Via Antonio Fogazzaro",
+    "number": "2",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7742212,
+    "longitude": 8.7056068
+  },
+  {
+    "street": "Via Cavour",
+    "number": "2",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7795026,
+    "longitude": 8.7024372
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "23",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.778661,
+    "longitude": 8.7029211
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "25",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7789433,
+    "longitude": 8.7028013
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "26",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7758609,
+    "longitude": 8.7040965
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "27",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7790463,
+    "longitude": 8.702759
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "29",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7792027,
+    "longitude": 8.7026933
+  },
+  {
+    "street": "Via Antonio Fogazzaro",
+    "number": "3",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7767771,
+    "longitude": 8.7057937
+  },
+  {
+    "street": "Via Cavour",
+    "number": "3",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.779719,
+    "longitude": 8.7005242
+  },
+  {
+    "street": "Via Cesare Beccaria",
+    "number": "3",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7806802,
+    "longitude": 8.7019052
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "3",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7751985,
+    "longitude": 8.7038845
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "31",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7794001,
+    "longitude": 8.7026065
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "32",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7764214,
+    "longitude": 8.7040311
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "33",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.779758,
+    "longitude": 8.7024634
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "35",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7800045,
+    "longitude": 8.7023544
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "37",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7801934,
+    "longitude": 8.7022772
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "39",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7803528,
+    "longitude": 8.7022026
+  },
+  {
+    "street": "Via Antonio Fogazzaro",
+    "number": "4",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7743182,
+    "longitude": 8.7056261
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "4",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7747233,
+    "longitude": 8.7038931
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "40",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7766061,
+    "longitude": 8.7039591
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "41",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.780472,
+    "longitude": 8.702148
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "48",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7769709,
+    "longitude": 8.7037887
+  },
+  {
+    "street": "Via Antonio Fogazzaro",
+    "number": "5",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7769614,
+    "longitude": 8.7057753
+  },
+  {
+    "street": "Via Cesare Beccaria",
+    "number": "5",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7806512,
+    "longitude": 8.7017986
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "5",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7754005,
+    "longitude": 8.7039136
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "56",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7773718,
+    "longitude": 8.7036018
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "58",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7775811,
+    "longitude": 8.7035108
+  },
+  {
+    "street": "Via Antonio Fogazzaro",
+    "number": "6",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7745269,
+    "longitude": 8.7056671
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "60",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7778336,
+    "longitude": 8.7033911
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "62",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7783029,
+    "longitude": 8.7031949
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "64",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7787533,
+    "longitude": 8.7029887
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "66",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7788749,
+    "longitude": 8.7029362
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "68",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7793051,
+    "longitude": 8.7027467
+  },
+  {
+    "street": "Via Antonio Fogazzaro",
+    "number": "7",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7771505,
+    "longitude": 8.705691
+  },
+  {
+    "street": "Via Cesare Beccaria",
+    "number": "7",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7804069,
+    "longitude": 8.7011785
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "7",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.775681,
+    "longitude": 8.7039689
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "70",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7797022,
+    "longitude": 8.7025735
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "72",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7798802,
+    "longitude": 8.7024898
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "74",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7803123,
+    "longitude": 8.7022975
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "78",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7807252,
+    "longitude": 8.7021249
+  },
+  {
+    "street": "Via Antonio Fogazzaro",
+    "number": "8",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7754431,
+    "longitude": 8.7057939
+  },
+  {
+    "street": "Via Antonio Fogazzaro",
+    "number": "9",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7772902,
+    "longitude": 8.7056331
+  },
+  {
+    "street": "Via Carlo Alberto Dalla Chiesa",
+    "number": "1",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7780191,
+    "longitude": 8.7021463
+  },
+  {
+    "street": "Via Giovane Italia",
+    "number": "1",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.776725,
+    "longitude": 8.7025828
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "1",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7749122,
+    "longitude": 8.7022756
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "1",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7759348,
+    "longitude": 8.7022862
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "1",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7767863,
+    "longitude": 8.7031122
+  },
+  {
+    "street": "Via San Francesco",
+    "number": "1",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7746164,
+    "longitude": 8.703249
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "10",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7777305,
+    "longitude": 8.7015898
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "10",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7780636,
+    "longitude": 8.702659
+  },
+  {
+    "street": "Via Carlo Alberto Dalla Chiesa",
+    "number": "11",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7792415,
+    "longitude": 8.7015699
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "11",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7769843,
+    "longitude": 8.7018328
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "11",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7776798,
+    "longitude": 8.7026961
+  },
+  {
+    "street": "Via San Francesco",
+    "number": "11",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7754545,
+    "longitude": 8.7030771
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "12",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7779048,
+    "longitude": 8.7015098
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "12",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7782999,
+    "longitude": 8.7025344
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "13",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7772294,
+    "longitude": 8.7017206
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "13",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7780986,
+    "longitude": 8.702494
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "13a",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7778934,
+    "longitude": 8.7014167
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "13b",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7781873,
+    "longitude": 8.7012821
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "13c",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7784177,
+    "longitude": 8.7011767
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "13d",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7785749,
+    "longitude": 8.7011047
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "14",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7781552,
+    "longitude": 8.7013948
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "14",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7784812,
+    "longitude": 8.7024561
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "15",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7787712,
+    "longitude": 8.7010149
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "15",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7782737,
+    "longitude": 8.7024083
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "16",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7784717,
+    "longitude": 8.7012495
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "16",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7787988,
+    "longitude": 8.7023096
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "17",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.779008,
+    "longitude": 8.7009065
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "17",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.778507,
+    "longitude": 8.7022914
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "18",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7787065,
+    "longitude": 8.7011416
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "18",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7789736,
+    "longitude": 8.7022291
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "19",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7791914,
+    "longitude": 8.7008225
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "19",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.778697,
+    "longitude": 8.7021971
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "1a",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7769445,
+    "longitude": 8.7030332
+  },
+  {
+    "street": "Via Giovane Italia",
+    "number": "2",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7764699,
+    "longitude": 8.7027706
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "2",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7746581,
+    "longitude": 8.7024046
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "2",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7763597,
+    "longitude": 8.7022193
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "2",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7766772,
+    "longitude": 8.7033271
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "20",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7790776,
+    "longitude": 8.7009712
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "20a",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7791225,
+    "longitude": 8.7009506
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "21",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7793186,
+    "longitude": 8.7007643
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "21",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7790895,
+    "longitude": 8.702045
+  },
+  {
+    "street": "Via Carlo Alberto Dalla Chiesa",
+    "number": "3",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7782263,
+    "longitude": 8.7020229
+  },
+  {
+    "street": "Via Giovane Italia",
+    "number": "3",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7768948,
+    "longitude": 8.7025047
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "3",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7750256,
+    "longitude": 8.7022691
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "3",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7764065,
+    "longitude": 8.7020972
+  },
+  {
+    "street": "Via San Francesco",
+    "number": "3",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7748402,
+    "longitude": 8.7032218
+  },
+  {
+    "street": "Via Giovane Italia",
+    "number": "4",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7767631,
+    "longitude": 8.7026291
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "4",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7751837,
+    "longitude": 8.7024152
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "4",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7766883,
+    "longitude": 8.7020684
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "4",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7768367,
+    "longitude": 8.7032537
+  },
+  {
+    "street": "Via Carlo Alberto Dalla Chiesa",
+    "number": "5",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7785159,
+    "longitude": 8.7018841
+  },
+  {
+    "street": "Via Giovane Italia",
+    "number": "5",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7774855,
+    "longitude": 8.7022121
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "5",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7753078,
+    "longitude": 8.7022875
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "5",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.776541,
+    "longitude": 8.7020357
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "5",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7774065,
+    "longitude": 8.7028273
+  },
+  {
+    "street": "Via San Francesco",
+    "number": "5",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7750711,
+    "longitude": 8.7031957
+  },
+  {
+    "street": "Via Giovane Italia",
+    "number": "6",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7770988,
+    "longitude": 8.7024745
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "6",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7753893,
+    "longitude": 8.7024152
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "6",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7768555,
+    "longitude": 8.7019916
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "6",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7770737,
+    "longitude": 8.703118
+  },
+  {
+    "street": "Via Carlo Alberto Dalla Chiesa",
+    "number": "7",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7787894,
+    "longitude": 8.7017764
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "7",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7767235,
+    "longitude": 8.7019521
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "7",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7774722,
+    "longitude": 8.7027961
+  },
+  {
+    "street": "Via San Francesco",
+    "number": "7",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.775196,
+    "longitude": 8.7031802
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "8",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7754942,
+    "longitude": 8.7024207
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "8",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.77698,
+    "longitude": 8.7019345
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "8",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7772092,
+    "longitude": 8.7030492
+  },
+  {
+    "street": "Via Carlo Alberto Dalla Chiesa",
+    "number": "9",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7790185,
+    "longitude": 8.7016665
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "9",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7768513,
+    "longitude": 8.7018936
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "9",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7775704,
+    "longitude": 8.7027585
+  },
+  {
+    "street": "Via San Francesco",
+    "number": "9",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7754237,
+    "longitude": 8.7030932
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "1",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.779742,
+    "longitude": 8.7030465
+  },
+  {
+    "street": "Via Sant'Andrea",
+    "number": "1",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7765905,
+    "longitude": 8.7044251
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "10",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7814695,
+    "longitude": 8.7066844
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "2",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7801361,
+    "longitude": 8.7040295
+  },
+  {
+    "street": "Via Sant'Andrea",
+    "number": "2",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7759911,
+    "longitude": 8.704195
+  },
+  {
+    "street": "Via Sant'Andrea",
+    "number": "2a",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7760924,
+    "longitude": 8.7043969
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "3",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7799671,
+    "longitude": 8.7034967
+  },
+  {
+    "street": "Via Sant'Andrea",
+    "number": "3",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7770735,
+    "longitude": 8.7042309
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "4",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.780188,
+    "longitude": 8.7041386
+  },
+  {
+    "street": "Via Sant'Andrea",
+    "number": "4",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7763564,
+    "longitude": 8.7045301
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "5",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.780103,
+    "longitude": 8.7037828
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "5a",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7803001,
+    "longitude": 8.7041367
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "6",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7803275,
+    "longitude": 8.7044168
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "6a",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7808483,
+    "longitude": 8.7054385
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "7",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7804,
+    "longitude": 8.7043636
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "8",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7810535,
+    "longitude": 8.7058223
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "8a",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.781378,
+    "longitude": 8.7064096
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "9",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7811692,
+    "longitude": 8.7057288
+  },
+  {
+    "street": "Via Don Alfonso Zona",
+    "number": "1",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7779158,
+    "longitude": 8.7053047
+  },
+  {
+    "street": "Via Don Alfonso Zona",
+    "number": "10",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7801294,
+    "longitude": 8.7044956
+  },
+  {
+    "street": "Via Don Alfonso Zona",
+    "number": "11",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7797868,
+    "longitude": 8.7045004
+  },
+  {
+    "street": "Via Don Alfonso Zona",
+    "number": "13",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7798518,
+    "longitude": 8.7044697
+  },
+  {
+    "street": "Via Antonio Fogazzaro",
+    "number": "14a",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.776867,
+    "longitude": 8.705879
+  },
+  {
+    "street": "Via Antonio Fogazzaro",
+    "number": "1a",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7762975,
+    "longitude": 8.7057675
+  },
+  {
+    "street": "Via Antonio Fogazzaro",
+    "number": "1b",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7765119,
+    "longitude": 8.7057802
+  },
+  {
+    "street": "Via Don Alfonso Zona",
+    "number": "2",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7778075,
+    "longitude": 8.7055301
+  },
+  {
+    "street": "Via Varese",
+    "number": "2",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7743746,
+    "longitude": 8.7046626
+  },
+  {
+    "street": "Via Varese",
+    "number": "2a",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7744574,
+    "longitude": 8.7046769
+  },
+  {
+    "street": "Via Don Alfonso Zona",
+    "number": "2c",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7779302,
+    "longitude": 8.7054614
+  },
+  {
+    "street": "Via Don Alfonso Zona",
+    "number": "3",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7786269,
+    "longitude": 8.7049967
+  },
+  {
+    "street": "Via Varese",
+    "number": "4",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.774553,
+    "longitude": 8.7046911
+  },
+  {
+    "street": "Via Don Alfonso Zona",
+    "number": "5",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7792669,
+    "longitude": 8.7047228
+  },
+  {
+    "street": "Via Don Alfonso Zona",
+    "number": "6",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7782608,
+    "longitude": 8.7053021
+  },
+  {
+    "street": "Via Varese",
+    "number": "6",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7746653,
+    "longitude": 8.704712
+  },
+  {
+    "street": "Via Antonio Fogazzaro",
+    "number": "6a",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7748488,
+    "longitude": 8.7057206
+  },
+  {
+    "street": "Via Don Alfonso Zona",
+    "number": "7",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7794118,
+    "longitude": 8.7046588
+  },
+  {
+    "street": "Via Varese",
+    "number": "8",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7747558,
+    "longitude": 8.7047295
+  },
+  {
+    "street": "Via Don Alfonso Zona",
+    "number": "9",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7796863,
+    "longitude": 8.7045555
+  },
+  {
+    "street": "Via Enrico Fermi",
+    "number": "1",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7761297,
+    "longitude": 8.7016497
+  },
+  {
+    "street": "Via Fiume",
+    "number": "1",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7759011,
+    "longitude": 8.7043509
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "1",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7759031,
+    "longitude": 8.703441
+  },
+  {
+    "street": "Via Fiume",
+    "number": "11",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.77582,
+    "longitude": 8.7056156
+  },
+  {
+    "street": "Via Enrico Fermi",
+    "number": "2",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.77651,
+    "longitude": 8.7030132
+  },
+  {
+    "street": "Via Fiume",
+    "number": "2",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7758315,
+    "longitude": 8.704729
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "2",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7759882,
+    "longitude": 8.7032242
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "2a",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7759642,
+    "longitude": 8.7028742
+  },
+  {
+    "street": "Via Enrico Fermi",
+    "number": "3",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7760524,
+    "longitude": 8.7012666
+  },
+  {
+    "street": "Via Fiume",
+    "number": "3",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7758909,
+    "longitude": 8.7045002
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "3",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7758678,
+    "longitude": 8.7027851
+  },
+  {
+    "street": "Via Enrico Fermi",
+    "number": "4",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7762065,
+    "longitude": 8.7015915
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "4",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7759562,
+    "longitude": 8.7026256
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "4a",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7758696,
+    "longitude": 8.7018195
+  },
+  {
+    "street": "Via Enrico Fermi",
+    "number": "5",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.775983,
+    "longitude": 8.7009095
+  },
+  {
+    "street": "Via Fiume",
+    "number": "5",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7758795,
+    "longitude": 8.7046646
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "5",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7757966,
+    "longitude": 8.7020159
+  },
+  {
+    "street": "Via Enrico Fermi",
+    "number": "6",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7760393,
+    "longitude": 8.7006972
+  },
+  {
+    "street": "Via Fiume",
+    "number": "6",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.775792,
+    "longitude": 8.7052038
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "6",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7758093,
+    "longitude": 8.701545
+  },
+  {
+    "street": "Via Enrico Fermi",
+    "number": "7",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7751572,
+    "longitude": 8.7008858
+  },
+  {
+    "street": "Via Fiume",
+    "number": "7",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7758722,
+    "longitude": 8.7047716
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "7",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7757037,
+    "longitude": 8.7013847
+  },
+  {
+    "street": "Via Enrico Fermi",
+    "number": "8",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7745548,
+    "longitude": 8.700767
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "8",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7757569,
+    "longitude": 8.7013571
+  },
+  {
+    "street": "Via Fiume",
+    "number": "9",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7758535,
+    "longitude": 8.7052153
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "1",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7774653,
+    "longitude": 8.701418
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "14",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7774913,
+    "longitude": 8.7012895
+  },
+  {
+    "street": "Via Luigi Einaudi",
+    "number": "2",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7764814,
+    "longitude": 8.7012685
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "3",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7773736,
+    "longitude": 8.7010154
+  },
+  {
+    "street": "Via Luigi Einaudi",
+    "number": "3",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7767192,
+    "longitude": 8.7010515
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "4",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7778541,
+    "longitude": 8.7029209
+  },
+  {
+    "street": "Via Luigi Einaudi",
+    "number": "4",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.77671,
+    "longitude": 8.7011613
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "6",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7777827,
+    "longitude": 8.7025998
+  },
+  {
+    "street": "Via Luigi Einaudi",
+    "number": "7",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7770918,
+    "longitude": 8.7008791
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "8",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7776867,
+    "longitude": 8.7021683
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "1",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7791831,
+    "longitude": 8.7061713
+  },
+  {
+    "street": "Via Gioacchino Rossini",
+    "number": "1",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7788625,
+    "longitude": 8.7042064
+  },
+  {
+    "street": "Via Lazzaro Morelli",
+    "number": "1",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7760725,
+    "longitude": 8.7051876
+  },
+  {
+    "street": "Via Trieste",
+    "number": "1",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7751231,
+    "longitude": 8.7040916
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "10",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7784613,
+    "longitude": 8.7068304
+  },
+  {
+    "street": "Via Lazzaro Morelli",
+    "number": "10",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7769683,
+    "longitude": 8.7049525
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "11",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7786409,
+    "longitude": 8.7069043
+  },
+  {
+    "street": "Via Lazzaro Morelli",
+    "number": "11",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7769645,
+    "longitude": 8.704792
+  },
+  {
+    "street": "Via Trieste",
+    "number": "11",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7753434,
+    "longitude": 8.7052456
+  },
+  {
+    "street": "Via Lazzaro Morelli",
+    "number": "12",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7771269,
+    "longitude": 8.7048838
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "13",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7785979,
+    "longitude": 8.706919
+  },
+  {
+    "street": "Via Lazzaro Morelli",
+    "number": "13",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7771296,
+    "longitude": 8.7047187
+  },
+  {
+    "street": "Via Trieste",
+    "number": "13",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7754839,
+    "longitude": 8.7052624
+  },
+  {
+    "street": "Via Lazzaro Morelli",
+    "number": "14",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.777295,
+    "longitude": 8.7048111
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "15",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.778488,
+    "longitude": 8.7069567
+  },
+  {
+    "street": "Via Lazzaro Morelli",
+    "number": "15",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7778148,
+    "longitude": 8.7044148
+  },
+  {
+    "street": "Via Lazzaro Morelli",
+    "number": "16",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7775508,
+    "longitude": 8.7047003
+  },
+  {
+    "street": "Via Lazzaro Morelli",
+    "number": "17",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.777933,
+    "longitude": 8.7043624
+  },
+  {
+    "street": "Via Lazzaro Morelli",
+    "number": "18",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7777998,
+    "longitude": 8.7045926
+  },
+  {
+    "street": "Via Lazzaro Morelli",
+    "number": "19",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7782055,
+    "longitude": 8.7042415
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "1a",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7776971,
+    "longitude": 8.7057858
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "2",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7789202,
+    "longitude": 8.7059052
+  },
+  {
+    "street": "Via Lazzaro Morelli",
+    "number": "2",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7763325,
+    "longitude": 8.7052263
+  },
+  {
+    "street": "Via Trieste",
+    "number": "2",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7750504,
+    "longitude": 8.7041855
+  },
+  {
+    "street": "Via Lazzaro Morelli",
+    "number": "20",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7780442,
+    "longitude": 8.7044868
+  },
+  {
+    "street": "Via Lazzaro Morelli",
+    "number": "21",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7786385,
+    "longitude": 8.7040495
+  },
+  {
+    "street": "Via Lazzaro Morelli",
+    "number": "22",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7781617,
+    "longitude": 8.704436
+  },
+  {
+    "street": "Via Trieste",
+    "number": "22",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7757424,
+    "longitude": 8.7054393
+  },
+  {
+    "street": "Via Lazzaro Morelli",
+    "number": "24",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.778313,
+    "longitude": 8.7043704
+  },
+  {
+    "street": "Via Lazzaro Morelli",
+    "number": "25",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7794379,
+    "longitude": 8.7036949
+  },
+  {
+    "street": "Via Lazzaro Morelli",
+    "number": "26",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7784882,
+    "longitude": 8.7042946
+  },
+  {
+    "street": "Via Lazzaro Morelli",
+    "number": "28",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7787251,
+    "longitude": 8.7041921
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "3",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7777736,
+    "longitude": 8.7061366
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "3",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7792832,
+    "longitude": 8.7065341
+  },
+  {
+    "street": "Via Gioacchino Rossini",
+    "number": "3",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7789071,
+    "longitude": 8.7044483
+  },
+  {
+    "street": "Via Lazzaro Morelli",
+    "number": "3",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7763724,
+    "longitude": 8.7050546
+  },
+  {
+    "street": "Via Trieste",
+    "number": "3",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7750868,
+    "longitude": 8.7046409
+  },
+  {
+    "street": "Via Lazzaro Morelli",
+    "number": "30",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7789379,
+    "longitude": 8.7041
+  },
+  {
+    "street": "Via Lazzaro Morelli",
+    "number": "32",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.779179,
+    "longitude": 8.7039956
+  },
+  {
+    "street": "Via Lazzaro Morelli",
+    "number": "34",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7794605,
+    "longitude": 8.7038738
+  },
+  {
+    "street": "Via Lazzaro Morelli",
+    "number": "36",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7797199,
+    "longitude": 8.7037615
+  },
+  {
+    "street": "Via Lazzaro Morelli",
+    "number": "38",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7798678,
+    "longitude": 8.7036975
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "4",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7789904,
+    "longitude": 8.7066433
+  },
+  {
+    "street": "Via Lazzaro Morelli",
+    "number": "4",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7765863,
+    "longitude": 8.7051178
+  },
+  {
+    "street": "Via Trieste",
+    "number": "4",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7750309,
+    "longitude": 8.7053325
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "5",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7778439,
+    "longitude": 8.7064593
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "5",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7792386,
+    "longitude": 8.7067142
+  },
+  {
+    "street": "Via Trieste",
+    "number": "5",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7750542,
+    "longitude": 8.7051349
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "6",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7788259,
+    "longitude": 8.7067015
+  },
+  {
+    "street": "Via Lazzaro Morelli",
+    "number": "6",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7766546,
+    "longitude": 8.7050883
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "7",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7788211,
+    "longitude": 8.7068424
+  },
+  {
+    "street": "Via Lazzaro Morelli",
+    "number": "7",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7766789,
+    "longitude": 8.7049186
+  },
+  {
+    "street": "Via Trieste",
+    "number": "7",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7751334,
+    "longitude": 8.7052008
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "8",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.778559,
+    "longitude": 8.7067959
+  },
+  {
+    "street": "Via Don Alfonso Zona",
+    "number": "8",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7785805,
+    "longitude": 8.7051651
+  },
+  {
+    "street": "Via Lazzaro Morelli",
+    "number": "8",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7768803,
+    "longitude": 8.7049906
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "9",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7787934,
+    "longitude": 8.7068519
+  },
+  {
+    "street": "Via Gioacchino Rossini",
+    "number": "9",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7789648,
+    "longitude": 8.704755
+  },
+  {
+    "street": "Via Lazzaro Morelli",
+    "number": "9",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7768704,
+    "longitude": 8.7048337
+  },
+  {
+    "street": "Via Trieste",
+    "number": "9",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7752342,
+    "longitude": 8.7052231
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "1",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.767115,
+    "longitude": 8.7059123
+  },
+  {
+    "street": "Via Roma",
+    "number": "1",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.765192,
+    "longitude": 8.7031484
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "10",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7662502,
+    "longitude": 8.7052317
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "11",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7652928,
+    "longitude": 8.7046384
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "12",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7660609,
+    "longitude": 8.7050946
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "14",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7658069,
+    "longitude": 8.70492
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "16",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7657122,
+    "longitude": 8.7048532
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "18",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7654392,
+    "longitude": 8.7046659
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "2",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7673024,
+    "longitude": 8.7059736
+  },
+  {
+    "street": "Via Roma",
+    "number": "2",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7650658,
+    "longitude": 8.70337
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "20",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7651231,
+    "longitude": 8.7044092
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "4",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7667248,
+    "longitude": 8.7055762
+  },
+  {
+    "street": "Via Roma",
+    "number": "4",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7649893,
+    "longitude": 8.7036191
+  },
+  {
+    "street": "Via Roma",
+    "number": "5",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7649952,
+    "longitude": 8.703895
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "6",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7666354,
+    "longitude": 8.7055094
+  },
+  {
+    "street": "Via Roma",
+    "number": "6",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7649084,
+    "longitude": 8.7038794
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "8",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7664074,
+    "longitude": 8.705344
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "9",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7662348,
+    "longitude": 8.7053391
+  },
+  {
+    "street": "Via Como",
+    "number": "1",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7671941,
+    "longitude": 8.7050151
+  },
+  {
+    "street": "Via Sant'Anna",
+    "number": "1",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7673737,
+    "longitude": 8.7055879
+  },
+  {
+    "street": "Via Como",
+    "number": "13",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7662715,
+    "longitude": 8.704278
+  },
+  {
+    "street": "Via Como",
+    "number": "21",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7654015,
+    "longitude": 8.7034575
+  },
+  {
+    "street": "Via Sant'Anna",
+    "number": "3",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7673705,
+    "longitude": 8.7050278
+  },
+  {
+    "street": "Via Boffalora",
+    "number": "6",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7682292,
+    "longitude": 8.7069083
+  },
+  {
+    "street": "Piazza Unità d'Italia",
+    "number": "7",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7670337,
+    "longitude": 8.7068975
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "2",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7767913,
+    "longitude": 8.7076167
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "1",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7745436,
+    "longitude": 8.7033443
+  },
+  {
+    "street": "Via dei Martiri",
+    "number": "12",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7608854,
+    "longitude": 8.7000029
+  },
+  {
+    "street": "Via dei Martiri",
+    "number": "10a",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7629473,
+    "longitude": 8.7011704
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "7",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7779585,
+    "longitude": 8.7066986
+  },
+  {
+    "street": "Piazza Borghi",
+    "number": "1",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7726272,
+    "longitude": 8.7037506
+  },
+  {
+    "street": "Via San Michele",
+    "number": "8",
+    "city": {
+      "name": "Varano Borghi",
+      "istat": "012132"
+    },
+    "latitude": 45.7650285,
+    "longitude": 8.705692
+  }
+]

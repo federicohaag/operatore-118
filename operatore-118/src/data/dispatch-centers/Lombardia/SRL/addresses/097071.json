@@ -1,0 +1,412 @@
+[
+  {
+    "street": "Via Milano",
+    "number": "56b",
+    "city": {
+      "name": "Robbiate",
+      "istat": "097071"
+    },
+    "latitude": 45.6772069,
+    "longitude": 9.426963
+  },
+  {
+    "street": "Via Fratelli Cervi",
+    "number": "25",
+    "city": {
+      "name": "Robbiate",
+      "istat": "097071"
+    },
+    "latitude": 45.6833943,
+    "longitude": 9.4394122
+  },
+  {
+    "street": "Via Milano",
+    "number": "74a",
+    "city": {
+      "name": "Robbiate",
+      "istat": "097071"
+    },
+    "latitude": 45.6735303,
+    "longitude": 9.4248097
+  },
+  {
+    "street": "Via Milano",
+    "number": "76",
+    "city": {
+      "name": "Robbiate",
+      "istat": "097071"
+    },
+    "latitude": 45.6734056,
+    "longitude": 9.4248508
+  },
+  {
+    "street": "Via Milano",
+    "number": "66",
+    "city": {
+      "name": "Robbiate",
+      "istat": "097071"
+    },
+    "latitude": 45.6750435,
+    "longitude": 9.4258673
+  },
+  {
+    "street": "Via Milano",
+    "number": "64",
+    "city": {
+      "name": "Robbiate",
+      "istat": "097071"
+    },
+    "latitude": 45.6750623,
+    "longitude": 9.4258781
+  },
+  {
+    "street": "Via Milano",
+    "number": "4",
+    "city": {
+      "name": "Robbiate",
+      "istat": "097071"
+    },
+    "latitude": 45.685652,
+    "longitude": 9.4325718
+  },
+  {
+    "street": "Via Milano",
+    "number": "3",
+    "city": {
+      "name": "Robbiate",
+      "istat": "097071"
+    },
+    "latitude": 45.6858148,
+    "longitude": 9.4330057
+  },
+  {
+    "street": "Strada delle Brigole",
+    "number": "22",
+    "city": {
+      "name": "Robbiate",
+      "istat": "097071"
+    },
+    "latitude": 45.679032,
+    "longitude": 9.4346451
+  },
+  {
+    "street": "Via Milano",
+    "number": "56a",
+    "city": {
+      "name": "Robbiate",
+      "istat": "097071"
+    },
+    "latitude": 45.6774391,
+    "longitude": 9.4271895
+  },
+  {
+    "street": "Via Milano",
+    "number": "56",
+    "city": {
+      "name": "Robbiate",
+      "istat": "097071"
+    },
+    "latitude": 45.6773011,
+    "longitude": 9.4271034
+  },
+  {
+    "street": "Via Mario Greppi",
+    "number": "2",
+    "city": {
+      "name": "Robbiate",
+      "istat": "097071"
+    },
+    "latitude": 45.6861439,
+    "longitude": 9.4328557
+  },
+  {
+    "street": "Via Capitano Medaglia d'Oro Mario Riva",
+    "number": "25",
+    "city": {
+      "name": "Robbiate",
+      "istat": "097071"
+    },
+    "latitude": 45.6853655,
+    "longitude": 9.4384773
+  },
+  {
+    "street": "Via Capitano Medaglia d'Oro Mario Riva",
+    "number": "42",
+    "city": {
+      "name": "Robbiate",
+      "istat": "097071"
+    },
+    "latitude": 45.6861994,
+    "longitude": 9.4364821
+  },
+  {
+    "street": "Via Capitano Medaglia d'Oro Mario Riva",
+    "number": "55",
+    "city": {
+      "name": "Robbiate",
+      "istat": "097071"
+    },
+    "latitude": 45.6859761,
+    "longitude": 9.434626
+  },
+  {
+    "street": "Via Milano",
+    "number": "1",
+    "city": {
+      "name": "Robbiate",
+      "istat": "097071"
+    },
+    "latitude": 45.6858957,
+    "longitude": 9.4330595
+  },
+  {
+    "street": "Via Giovanni Pizzagalli",
+    "number": "10",
+    "city": {
+      "name": "Robbiate",
+      "istat": "097071"
+    },
+    "latitude": 45.6913649,
+    "longitude": 9.4420543
+  },
+  {
+    "street": "Piazza Dottor Antonio Albini",
+    "number": "10",
+    "city": {
+      "name": "Robbiate",
+      "istat": "097071"
+    },
+    "latitude": 45.6905256,
+    "longitude": 9.4420543
+  },
+  {
+    "street": "Via Capitano Medaglia d'Oro Mario Riva",
+    "number": "8",
+    "city": {
+      "name": "Robbiate",
+      "istat": "097071"
+    },
+    "latitude": 45.6852455,
+    "longitude": 9.4399743
+  },
+  {
+    "street": "Via Capitano Medaglia d'Oro Mario Riva",
+    "number": "6",
+    "city": {
+      "name": "Robbiate",
+      "istat": "097071"
+    },
+    "latitude": 45.6851284,
+    "longitude": 9.4402264
+  },
+  {
+    "street": "Via Capitano Medaglia d'Oro Mario Riva",
+    "number": "18",
+    "city": {
+      "name": "Robbiate",
+      "istat": "097071"
+    },
+    "latitude": 45.6855021,
+    "longitude": 9.4391629
+  },
+  {
+    "street": "Via Capitano Medaglia d'Oro Mario Riva",
+    "number": "20",
+    "city": {
+      "name": "Robbiate",
+      "istat": "097071"
+    },
+    "latitude": 45.6855147,
+    "longitude": 9.4390875
+  },
+  {
+    "street": "Via Capitano Medaglia d'Oro Mario Riva",
+    "number": "10",
+    "city": {
+      "name": "Robbiate",
+      "istat": "097071"
+    },
+    "latitude": 45.6853828,
+    "longitude": 9.4395655
+  },
+  {
+    "street": "Via Capitano Medaglia d'Oro Mario Riva",
+    "number": "12",
+    "city": {
+      "name": "Robbiate",
+      "istat": "097071"
+    },
+    "latitude": 45.685404,
+    "longitude": 9.4394844
+  },
+  {
+    "street": "Via Capitano Medaglia d'Oro Mario Riva",
+    "number": "16",
+    "city": {
+      "name": "Robbiate",
+      "istat": "097071"
+    },
+    "latitude": 45.6855087,
+    "longitude": 9.4393185
+  },
+  {
+    "street": "Via Capitano Medaglia d'Oro Mario Riva",
+    "number": "22",
+    "city": {
+      "name": "Robbiate",
+      "istat": "097071"
+    },
+    "latitude": 45.6855263,
+    "longitude": 9.4390405
+  },
+  {
+    "street": "Via Capitano Medaglia d'Oro Mario Riva",
+    "number": "14",
+    "city": {
+      "name": "Robbiate",
+      "istat": "097071"
+    },
+    "latitude": 45.6854253,
+    "longitude": 9.4394197
+  },
+  {
+    "street": "Via Milano",
+    "number": "58",
+    "city": {
+      "name": "Robbiate",
+      "istat": "097071"
+    },
+    "latitude": 45.6758733,
+    "longitude": 9.4253471
+  },
+  {
+    "street": "Via Milano",
+    "number": "60",
+    "city": {
+      "name": "Robbiate",
+      "istat": "097071"
+    },
+    "latitude": 45.6756561,
+    "longitude": 9.4241184
+  },
+  {
+    "street": "Via Milano",
+    "number": "84",
+    "city": {
+      "name": "Robbiate",
+      "istat": "097071"
+    },
+    "latitude": 45.6761326,
+    "longitude": 9.425156
+  },
+  {
+    "street": "Via Cappelleria",
+    "number": "1",
+    "city": {
+      "name": "Robbiate",
+      "istat": "097071"
+    },
+    "latitude": 45.6840823,
+    "longitude": 9.4493915
+  },
+  {
+    "street": "Via Milano",
+    "number": "11",
+    "city": {
+      "name": "Robbiate",
+      "istat": "097071"
+    },
+    "latitude": 45.6849821,
+    "longitude": 9.4326111
+  },
+  {
+    "street": "Via Carrobbio",
+    "number": "44-46",
+    "city": {
+      "name": "Robbiate",
+      "istat": "097071"
+    },
+    "latitude": 45.6823688,
+    "longitude": 9.435237
+  },
+  {
+    "street": "Via Milano",
+    "number": "52",
+    "city": {
+      "name": "Robbiate",
+      "istat": "097071"
+    },
+    "latitude": 45.6779465,
+    "longitude": 9.4275861
+  },
+  {
+    "street": "Via MIlano",
+    "number": "8",
+    "city": {
+      "name": "Robbiate",
+      "istat": "097071"
+    },
+    "latitude": 45.6855939,
+    "longitude": 9.4324398
+  },
+  {
+    "street": "Via Milano",
+    "number": "41",
+    "city": {
+      "name": "Robbiate",
+      "istat": "097071"
+    },
+    "latitude": 45.6810687,
+    "longitude": 9.4302893
+  },
+  {
+    "street": "Via Milano",
+    "number": "55",
+    "city": {
+      "name": "Robbiate",
+      "istat": "097071"
+    },
+    "latitude": 45.676766,
+    "longitude": 9.4275671
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "33",
+    "city": {
+      "name": "Robbiate",
+      "istat": "097071"
+    },
+    "latitude": 45.686349,
+    "longitude": 9.4339089
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "2",
+    "city": {
+      "name": "Robbiate",
+      "istat": "097071"
+    },
+    "latitude": 45.6911507,
+    "longitude": 9.4419075
+  },
+  {
+    "street": "Via Milano",
+    "number": "17",
+    "city": {
+      "name": "Robbiate",
+      "istat": "097071"
+    },
+    "latitude": 45.6844343,
+    "longitude": 9.4324016
+  },
+  {
+    "street": "Via Capitano Medaglia d'Oro Mario Riva",
+    "number": "35",
+    "city": {
+      "name": "Robbiate",
+      "istat": "097071"
+    },
+    "latitude": 45.6856414,
+    "longitude": 9.4375598
+  }
+]

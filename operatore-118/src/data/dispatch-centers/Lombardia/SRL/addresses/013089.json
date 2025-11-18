@@ -1,0 +1,262 @@
+[
+  {
+    "street": "Via Case Sparse",
+    "number": "24",
+    "city": {
+      "name": "Domaso",
+      "istat": "013089"
+    },
+    "latitude": 46.1492191,
+    "longitude": 9.3329139
+  },
+  {
+    "street": "Via Case Sparse",
+    "number": "140",
+    "city": {
+      "name": "Domaso",
+      "istat": "013089"
+    },
+    "latitude": 46.1504879,
+    "longitude": 9.3371299
+  },
+  {
+    "street": "Via Case Sparse",
+    "number": "10",
+    "city": {
+      "name": "Domaso",
+      "istat": "013089"
+    },
+    "latitude": 46.149004,
+    "longitude": 9.3311709
+  },
+  {
+    "street": "Via Roma",
+    "number": "1",
+    "city": {
+      "name": "Domaso",
+      "istat": "013089"
+    },
+    "latitude": 46.1500138,
+    "longitude": 9.3286647
+  },
+  {
+    "street": "Via Regina",
+    "number": "32",
+    "city": {
+      "name": "Domaso",
+      "istat": "013089"
+    },
+    "latitude": 46.150937,
+    "longitude": 9.3260391
+  },
+  {
+    "street": "Via Regina Levante",
+    "number": "43",
+    "city": {
+      "name": "Domaso",
+      "istat": "013089"
+    },
+    "latitude": 46.1501877,
+    "longitude": 9.3238615
+  },
+  {
+    "street": "Via Case Sparse",
+    "number": "122",
+    "city": {
+      "name": "Domaso",
+      "istat": "013089"
+    },
+    "latitude": 46.1522071,
+    "longitude": 9.3340371
+  },
+  {
+    "street": "Via Antica Regina",
+    "number": "12",
+    "city": {
+      "name": "Domaso",
+      "istat": "013089"
+    },
+    "latitude": 46.154702,
+    "longitude": 9.3309986
+  },
+  {
+    "street": "Via Case Sparse",
+    "number": "20",
+    "city": {
+      "name": "Domaso",
+      "istat": "013089"
+    },
+    "latitude": 46.150636,
+    "longitude": 9.3314793
+  },
+  {
+    "street": "Via Casa Sparse",
+    "number": "80",
+    "city": {
+      "name": "Domaso",
+      "istat": "013089"
+    },
+    "latitude": 46.1497288,
+    "longitude": 9.3345897
+  },
+  {
+    "street": "Via Case Sparse",
+    "number": "22",
+    "city": {
+      "name": "Domaso",
+      "istat": "013089"
+    },
+    "latitude": 46.1506517,
+    "longitude": 9.3317752
+  },
+  {
+    "street": "Via Case Sparse",
+    "number": "128",
+    "city": {
+      "name": "Domaso",
+      "istat": "013089"
+    },
+    "latitude": 46.1521779,
+    "longitude": 9.3352044
+  },
+  {
+    "street": "Via Case Sparse",
+    "number": "18",
+    "city": {
+      "name": "Domaso",
+      "istat": "013089"
+    },
+    "latitude": 46.1502636,
+    "longitude": 9.3314242
+  },
+  {
+    "street": "Via Case Sparse",
+    "number": "7",
+    "city": {
+      "name": "Domaso",
+      "istat": "013089"
+    },
+    "latitude": 46.1508884,
+    "longitude": 9.3314881
+  },
+  {
+    "street": "Via Case Sparse",
+    "number": "105",
+    "city": {
+      "name": "Domaso",
+      "istat": "013089"
+    },
+    "latitude": 46.1530167,
+    "longitude": 9.3342032
+  },
+  {
+    "street": "Via Filatoio",
+    "number": "5",
+    "city": {
+      "name": "Domaso",
+      "istat": "013089"
+    },
+    "latitude": 46.1533039,
+    "longitude": 9.3306233
+  },
+  {
+    "street": "Via Case Sparse",
+    "number": "116",
+    "city": {
+      "name": "Domaso",
+      "istat": "013089"
+    },
+    "latitude": 46.1516475,
+    "longitude": 9.3342117
+  },
+  {
+    "street": "Via Case Sparse",
+    "number": "108",
+    "city": {
+      "name": "Domaso",
+      "istat": "013089"
+    },
+    "latitude": 46.1504217,
+    "longitude": 9.3344361
+  },
+  {
+    "street": "Via Case Sparse",
+    "number": "132",
+    "city": {
+      "name": "Domaso",
+      "istat": "013089"
+    },
+    "latitude": 46.1507536,
+    "longitude": 9.3353923
+  },
+  {
+    "street": "Via Case Sparse",
+    "number": "164",
+    "city": {
+      "name": "Domaso",
+      "istat": "013089"
+    },
+    "latitude": 46.1513424,
+    "longitude": 9.3367018
+  },
+  {
+    "street": "Via Case Sparse",
+    "number": "91bis",
+    "city": {
+      "name": "Domaso",
+      "istat": "013089"
+    },
+    "latitude": 46.1524753,
+    "longitude": 9.3335524
+  },
+  {
+    "street": "Via Regina Levante",
+    "number": "39",
+    "city": {
+      "name": "Domaso",
+      "istat": "013089"
+    },
+    "latitude": 46.1502999,
+    "longitude": 9.3239075
+  },
+  {
+    "street": "Via Regina Levante",
+    "number": "41",
+    "city": {
+      "name": "Domaso",
+      "istat": "013089"
+    },
+    "latitude": 46.1501171,
+    "longitude": 9.3236812
+  },
+  {
+    "street": "Via Regina",
+    "number": "75",
+    "city": {
+      "name": "Domaso",
+      "istat": "013089"
+    },
+    "latitude": 46.1507254,
+    "longitude": 9.3245385
+  },
+  {
+    "street": "Via Regina",
+    "number": "183",
+    "city": {
+      "name": "Domaso",
+      "istat": "013089"
+    },
+    "latitude": 46.1522456,
+    "longitude": 9.3281406
+  },
+  {
+    "street": "Via Case Sparse",
+    "number": "5",
+    "city": {
+      "name": "Domaso",
+      "istat": "013089"
+    },
+    "latitude": 46.1508701,
+    "longitude": 9.3313738
+  }
+]

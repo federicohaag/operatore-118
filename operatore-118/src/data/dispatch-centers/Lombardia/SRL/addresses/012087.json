@@ -1,0 +1,3612 @@
+[
+  {
+    "street": "Via Labiena",
+    "number": "111",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9090646,
+    "longitude": 8.6215319
+  },
+  {
+    "street": "Lungolago Perabò",
+    "number": "4",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8972904,
+    "longitude": 8.5960031
+  },
+  {
+    "street": "Piazza del Carroccio",
+    "number": "6",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8899101,
+    "longitude": 8.6236946
+  },
+  {
+    "street": "Frazione Casere",
+    "number": "2",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9187265,
+    "longitude": 8.643167
+  },
+  {
+    "street": "Via Gaggetto",
+    "number": "1",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9065457,
+    "longitude": 8.6223573
+  },
+  {
+    "street": "Via Gaggetto",
+    "number": "3",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9065793,
+    "longitude": 8.6222748
+  },
+  {
+    "street": "Via Martiri della Libertà",
+    "number": "11",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9057059,
+    "longitude": 8.622345
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "7",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9086899,
+    "longitude": 8.6192366
+  },
+  {
+    "street": "Via Labiena",
+    "number": "139",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9088108,
+    "longitude": 8.6221295
+  },
+  {
+    "street": "Via Emilia Ceretti",
+    "number": "15",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9078322,
+    "longitude": 8.623216
+  },
+  {
+    "street": "Via Fratelli Rosselli",
+    "number": "24",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.908781,
+    "longitude": 8.619879
+  },
+  {
+    "street": "Viale Edoardo Porro",
+    "number": "19",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9090845,
+    "longitude": 8.6194077
+  },
+  {
+    "street": "Via del Navello",
+    "number": "7",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9012167,
+    "longitude": 8.6093024
+  },
+  {
+    "street": "Viale Edoardo Porro",
+    "number": "3",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9096695,
+    "longitude": 8.6198053
+  },
+  {
+    "street": "Via Don Giovanni Bosco",
+    "number": "1",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9046612,
+    "longitude": 8.6189857
+  },
+  {
+    "street": "Via Luigi Russolo",
+    "number": "8",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8975081,
+    "longitude": 8.5972674
+  },
+  {
+    "street": "Via Luigi Russolo",
+    "number": "4",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8974488,
+    "longitude": 8.597158
+  },
+  {
+    "street": "Via alla Torre",
+    "number": "5",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9155363,
+    "longitude": 8.6166231
+  },
+  {
+    "street": "Via Frazione Chiso",
+    "number": "16",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9017207,
+    "longitude": 8.6103404
+  },
+  {
+    "street": "Via Labiena",
+    "number": "23",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.91069,
+    "longitude": 8.6190051
+  },
+  {
+    "street": "Viale Edoardo Porro",
+    "number": "23",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9087049,
+    "longitude": 8.6190836
+  },
+  {
+    "street": "Via Labiena",
+    "number": "66a",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9089952,
+    "longitude": 8.6211595
+  },
+  {
+    "street": "Via Labiena",
+    "number": "80",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9087898,
+    "longitude": 8.6216218
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "8",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9085145,
+    "longitude": 8.6209704
+  },
+  {
+    "street": "Piazza del Carroccio",
+    "number": "7",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8897594,
+    "longitude": 8.6236111
+  },
+  {
+    "street": "Via Labiena",
+    "number": "78",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9088248,
+    "longitude": 8.6216229
+  },
+  {
+    "street": "Via Labiena",
+    "number": "95",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9094022,
+    "longitude": 8.6209674
+  },
+  {
+    "street": "Via sul Monte",
+    "number": "61",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9024465,
+    "longitude": 8.6126756
+  },
+  {
+    "street": "Via Dalmazia",
+    "number": "5",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9056828,
+    "longitude": 8.6191755
+  },
+  {
+    "street": "Via Don Carlo Tinelli",
+    "number": "19",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9116993,
+    "longitude": 8.6185761
+  },
+  {
+    "street": "Piazza Anselmo Marchetti",
+    "number": "7",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9112439,
+    "longitude": 8.6183073
+  },
+  {
+    "street": "Viale Ernesto De Angeli",
+    "number": "18",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9119115,
+    "longitude": 8.6175076
+  },
+  {
+    "street": "Viale Ernesto De Angeli",
+    "number": "8",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9116436,
+    "longitude": 8.6176867
+  },
+  {
+    "street": "Lungolago Alessandro Volta",
+    "number": "1",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9104782,
+    "longitude": 8.6186941
+  },
+  {
+    "street": "Via Michelangelo Buonarroti",
+    "number": "18",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8971856,
+    "longitude": 8.5989671
+  },
+  {
+    "street": "Piazza Anselmo Marchetti",
+    "number": "2",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9110797,
+    "longitude": 8.6181222
+  },
+  {
+    "street": "Via Cavalcavia Boesio",
+    "number": "9",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9057929,
+    "longitude": 8.62071
+  },
+  {
+    "street": "Via Fortino",
+    "number": "40",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.906593,
+    "longitude": 8.6127865
+  },
+  {
+    "street": "Via Pradaccio",
+    "number": "21",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9007951,
+    "longitude": 8.6314445
+  },
+  {
+    "street": "Via Leggiuno",
+    "number": "32",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8875364,
+    "longitude": 8.6199524
+  },
+  {
+    "street": "Via Labiena",
+    "number": "79",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9098257,
+    "longitude": 8.6202513
+  },
+  {
+    "street": "Via Labiena",
+    "number": "38",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9095039,
+    "longitude": 8.6203335
+  },
+  {
+    "street": "Via Labiena",
+    "number": "52",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9092823,
+    "longitude": 8.6207471
+  },
+  {
+    "street": "Via Labiena",
+    "number": "101",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9092949,
+    "longitude": 8.6211334
+  },
+  {
+    "street": "Via Labiena",
+    "number": "82",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.908761,
+    "longitude": 8.6216804
+  },
+  {
+    "street": "Via Labiena",
+    "number": "129",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9089354,
+    "longitude": 8.621755
+  },
+  {
+    "street": "Piazza Anselmo Marchetti",
+    "number": "9",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9111624,
+    "longitude": 8.6186065
+  },
+  {
+    "street": "Via Fortino",
+    "number": "110",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8980137,
+    "longitude": 8.5975514
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "20",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9083333,
+    "longitude": 8.6207508
+  },
+  {
+    "street": "Piazza Alessandro Manzoni",
+    "number": "4",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8984079,
+    "longitude": 8.5967561
+  },
+  {
+    "street": "Via Professor Gian Battista Monteggia",
+    "number": "16",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.917531,
+    "longitude": 8.6186443
+  },
+  {
+    "street": "Viale Ernesto De Angeli",
+    "number": "40a",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9132761,
+    "longitude": 8.616281
+  },
+  {
+    "street": "Via Piave",
+    "number": "6",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9089768,
+    "longitude": 8.6196683
+  },
+  {
+    "street": "Via alla Torre",
+    "number": "1",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9150194,
+    "longitude": 8.6158926
+  },
+  {
+    "street": "Lungolago Perabò",
+    "number": "5",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8978968,
+    "longitude": 8.5966613
+  },
+  {
+    "street": "Via San Fermo",
+    "number": "32",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9103512,
+    "longitude": 8.620956
+  },
+  {
+    "street": "Via San Fermo",
+    "number": "30",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9103188,
+    "longitude": 8.6210153
+  },
+  {
+    "street": "Via Fratelli Rosselli",
+    "number": "18",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9088717,
+    "longitude": 8.6199736
+  },
+  {
+    "street": "Via Montecristo",
+    "number": "23",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9203847,
+    "longitude": 8.619085
+  },
+  {
+    "street": "Via Labiena",
+    "number": "83",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9096874,
+    "longitude": 8.6203806
+  },
+  {
+    "street": "Via Labiena",
+    "number": "87",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9096336,
+    "longitude": 8.6204702
+  },
+  {
+    "street": "Via Labiena",
+    "number": "107",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9091904,
+    "longitude": 8.6213028
+  },
+  {
+    "street": "Via Labiena",
+    "number": "91",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9094552,
+    "longitude": 8.6208767
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "9",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9032425,
+    "longitude": 8.6255931
+  },
+  {
+    "street": "Via Fortino",
+    "number": "18",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9061939,
+    "longitude": 8.6181529
+  },
+  {
+    "street": "Via alla Torre",
+    "number": "7",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9154147,
+    "longitude": 8.6165168
+  },
+  {
+    "street": "Via Famiglia Revelli",
+    "number": "17",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8966954,
+    "longitude": 8.63501
+  },
+  {
+    "street": "Via sul Monte",
+    "number": "61a",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9024387,
+    "longitude": 8.6129997
+  },
+  {
+    "street": "Via Marino",
+    "number": "9",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8912377,
+    "longitude": 8.6241264
+  },
+  {
+    "street": "Via Marino",
+    "number": "7c",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8912065,
+    "longitude": 8.6243248
+  },
+  {
+    "street": "Via Rovereto",
+    "number": "11",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8919352,
+    "longitude": 8.6323924
+  },
+  {
+    "street": "Vicolo del Golfo",
+    "number": "3",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9057498,
+    "longitude": 8.6110555
+  },
+  {
+    "street": "Vicolo del Golfo",
+    "number": "9",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9057354,
+    "longitude": 8.6114682
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "83",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8976156,
+    "longitude": 8.6309963
+  },
+  {
+    "street": "Via Dalmazia",
+    "number": "2",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9052441,
+    "longitude": 8.6186475
+  },
+  {
+    "street": "Via sul Monte",
+    "number": "30",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9019725,
+    "longitude": 8.6121263
+  },
+  {
+    "street": "Via sul Monte",
+    "number": "28",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.90192,
+    "longitude": 8.6122677
+  },
+  {
+    "street": "Via Nino Bixio",
+    "number": "11",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9170355,
+    "longitude": 8.6152139
+  },
+  {
+    "street": "Viale dei Tigli",
+    "number": "22",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9175649,
+    "longitude": 8.6150519
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "19",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9035199,
+    "longitude": 8.6243256
+  },
+  {
+    "street": "Via Martiri della Libertà",
+    "number": "64",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9047952,
+    "longitude": 8.6214502
+  },
+  {
+    "street": "Via sul Monte",
+    "number": "7",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9020355,
+    "longitude": 8.6007567
+  },
+  {
+    "street": "Via Fratelli Rosselli",
+    "number": "5",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9089899,
+    "longitude": 8.6201157
+  },
+  {
+    "street": "Via Fratelli Rosselli",
+    "number": "12",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9090912,
+    "longitude": 8.6202217
+  },
+  {
+    "street": "Via Vignola",
+    "number": "11",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8917131,
+    "longitude": 8.6082816
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "7",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.904743,
+    "longitude": 8.6240539
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "1",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9042943,
+    "longitude": 8.6217447
+  },
+  {
+    "street": "Via Fabio Filzi",
+    "number": "2",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9045951,
+    "longitude": 8.6215077
+  },
+  {
+    "street": "Via Emilia Ceretti",
+    "number": "8",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9073968,
+    "longitude": 8.6227612
+  },
+  {
+    "street": "Via Roma",
+    "number": "16",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9123736,
+    "longitude": 8.618671
+  },
+  {
+    "street": "Piazza Europa",
+    "number": "12",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.908363,
+    "longitude": 8.6191984
+  },
+  {
+    "street": "Via Michelangelo Buonarroti",
+    "number": "17",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8970634,
+    "longitude": 8.6039549
+  },
+  {
+    "street": "Via Bruno Buozzi",
+    "number": "1",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9046614,
+    "longitude": 8.6233758
+  },
+  {
+    "street": "Via Labiena",
+    "number": "86",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9085641,
+    "longitude": 8.6219968
+  },
+  {
+    "street": "Lungolago Perabò",
+    "number": "3",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8981013,
+    "longitude": 8.5966564
+  },
+  {
+    "street": "Via Labiena",
+    "number": "171",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9081234,
+    "longitude": 8.6234005
+  },
+  {
+    "street": "Via Fratelli de Ambrosis",
+    "number": "16",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8982557,
+    "longitude": 8.5974842
+  },
+  {
+    "street": "Via Fratelli de Ambrosis",
+    "number": "14",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8982566,
+    "longitude": 8.597396
+  },
+  {
+    "street": "Piazza Alessandro Manzoni",
+    "number": "14",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8982101,
+    "longitude": 8.5967279
+  },
+  {
+    "street": "Piazza Alessandro Manzoni",
+    "number": "7",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8984681,
+    "longitude": 8.5969407
+  },
+  {
+    "street": "Piazza Alessandro Manzoni",
+    "number": "13",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8982943,
+    "longitude": 8.5967814
+  },
+  {
+    "street": "Piazza Alessandro Manzoni",
+    "number": "5",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8984266,
+    "longitude": 8.5967971
+  },
+  {
+    "street": "Via Fratelli de Ambrosis",
+    "number": "1",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8983202,
+    "longitude": 8.5966634
+  },
+  {
+    "street": "Via sul Monte",
+    "number": "8",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9034837,
+    "longitude": 8.6033203
+  },
+  {
+    "street": "Via Fratelli de Ambrosis",
+    "number": "7",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8982837,
+    "longitude": 8.5972968
+  },
+  {
+    "street": "Via Fratelli de Ambrosis",
+    "number": "2",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8982115,
+    "longitude": 8.596816
+  },
+  {
+    "street": "Piazza Alessandro Manzoni",
+    "number": "6",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8984633,
+    "longitude": 8.5968974
+  },
+  {
+    "street": "Piazza Alessandro Manzoni",
+    "number": "3",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8983883,
+    "longitude": 8.596713
+  },
+  {
+    "street": "Via al Pozzo",
+    "number": "9",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8985008,
+    "longitude": 8.5970487
+  },
+  {
+    "street": "Piazza Alessandro Manzoni",
+    "number": "10",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8983575,
+    "longitude": 8.5969712
+  },
+  {
+    "street": "Via Luigi Russolo",
+    "number": "10",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8975768,
+    "longitude": 8.5972626
+  },
+  {
+    "street": "Via Luigi Russolo",
+    "number": "1",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8978296,
+    "longitude": 8.5972062
+  },
+  {
+    "street": "Via Luigi Russolo",
+    "number": "16",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8978848,
+    "longitude": 8.5974579
+  },
+  {
+    "street": "Via Rialto",
+    "number": "18",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8978751,
+    "longitude": 8.5975544
+  },
+  {
+    "street": "Via sul Monte",
+    "number": "46",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9019717,
+    "longitude": 8.6116846
+  },
+  {
+    "street": "Via sul Monte",
+    "number": "45",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9028195,
+    "longitude": 8.6106928
+  },
+  {
+    "street": "Via sul Monte",
+    "number": "49",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9026534,
+    "longitude": 8.6110364
+  },
+  {
+    "street": "Via sul Monte",
+    "number": "44",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9020327,
+    "longitude": 8.611605
+  },
+  {
+    "street": "Via sul Monte",
+    "number": "47",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.90275,
+    "longitude": 8.6108692
+  },
+  {
+    "street": "Via San Fermo",
+    "number": "58",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9111195,
+    "longitude": 8.6199397
+  },
+  {
+    "street": "Via Famiglia Revelli",
+    "number": "36",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.897183,
+    "longitude": 8.6344852
+  },
+  {
+    "street": "Via sul Monte",
+    "number": "61c",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9025994,
+    "longitude": 8.614404
+  },
+  {
+    "street": "Via sul Monte",
+    "number": "61b",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.902413,
+    "longitude": 8.6137055
+  },
+  {
+    "street": "Via Profarè",
+    "number": "55",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9018063,
+    "longitude": 8.6121872
+  },
+  {
+    "street": "Via Frazione Chiso",
+    "number": "10",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.901671,
+    "longitude": 8.610608
+  },
+  {
+    "street": "Via Frazione Chiso",
+    "number": "7",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9015891,
+    "longitude": 8.6107629
+  },
+  {
+    "street": "Via Frazione Chiso",
+    "number": "1",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9017131,
+    "longitude": 8.6118475
+  },
+  {
+    "street": "Via Frazione Chiso",
+    "number": "12",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9016877,
+    "longitude": 8.6105178
+  },
+  {
+    "street": "Via Frazione Chiso",
+    "number": "8",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9016703,
+    "longitude": 8.6109595
+  },
+  {
+    "street": "Via del Navello",
+    "number": "4",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.901379,
+    "longitude": 8.6094076
+  },
+  {
+    "street": "Via Frazione Chiso",
+    "number": "8a",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9017441,
+    "longitude": 8.6109383
+  },
+  {
+    "street": "Via Frazione Chiso",
+    "number": "18",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9017392,
+    "longitude": 8.6102591
+  },
+  {
+    "street": "Via Frazione Chiso",
+    "number": "14",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9017086,
+    "longitude": 8.6104052
+  },
+  {
+    "street": "Via Frazione Chiso",
+    "number": "11",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9018442,
+    "longitude": 8.6100549
+  },
+  {
+    "street": "Via sul Monte",
+    "number": "53",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9023707,
+    "longitude": 8.6121757
+  },
+  {
+    "street": "Via sul Monte",
+    "number": "55",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9025092,
+    "longitude": 8.6123357
+  },
+  {
+    "street": "Vicolo Profaré",
+    "number": "12",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9000799,
+    "longitude": 8.609399
+  },
+  {
+    "street": "Via Profarè",
+    "number": "20",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9000316,
+    "longitude": 8.6110756
+  },
+  {
+    "street": "Vicolo Profaré",
+    "number": "5",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8992987,
+    "longitude": 8.6105393
+  },
+  {
+    "street": "Via Profarè",
+    "number": "37",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9007973,
+    "longitude": 8.6113296
+  },
+  {
+    "street": "Via Profarè",
+    "number": "26",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9007578,
+    "longitude": 8.6114778
+  },
+  {
+    "street": "Via Profarè",
+    "number": "32",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9014621,
+    "longitude": 8.6120905
+  },
+  {
+    "street": "Vicolo Profaré",
+    "number": "9",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8995723,
+    "longitude": 8.6099522
+  },
+  {
+    "street": "Vicolo Profaré",
+    "number": "10",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8997282,
+    "longitude": 8.610014
+  },
+  {
+    "street": "Via Profarè",
+    "number": "24",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9005655,
+    "longitude": 8.6113232
+  },
+  {
+    "street": "Via Profarè",
+    "number": "53",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9015624,
+    "longitude": 8.611983
+  },
+  {
+    "street": "Via Profarè",
+    "number": "28",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9010001,
+    "longitude": 8.6116557
+  },
+  {
+    "street": "Via Profarè",
+    "number": "30",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9011228,
+    "longitude": 8.6117589
+  },
+  {
+    "street": "Via Profarè",
+    "number": "49",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9011899,
+    "longitude": 8.6116197
+  },
+  {
+    "street": "Vicolo Profaré",
+    "number": "13",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8999873,
+    "longitude": 8.6093384
+  },
+  {
+    "street": "Vicolo Profaré",
+    "number": "11",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8997668,
+    "longitude": 8.6095751
+  },
+  {
+    "street": "Via Profarè",
+    "number": "51",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9012722,
+    "longitude": 8.6116869
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "13",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9075553,
+    "longitude": 8.6215597
+  },
+  {
+    "street": "Via Martiri della Libertà",
+    "number": "12",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9063234,
+    "longitude": 8.6222666
+  },
+  {
+    "street": "Via Martiri della Libertà",
+    "number": "3",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9060238,
+    "longitude": 8.622409
+  },
+  {
+    "street": "Via Martiri della Libertà",
+    "number": "36",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9059441,
+    "longitude": 8.6219873
+  },
+  {
+    "street": "Via Martiri della Libertà",
+    "number": "34",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9059865,
+    "longitude": 8.6220072
+  },
+  {
+    "street": "Via Martiri della Libertà",
+    "number": "21",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.905122,
+    "longitude": 8.622956
+  },
+  {
+    "street": "Via Martiri della Libertà",
+    "number": "19",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9054031,
+    "longitude": 8.6230262
+  },
+  {
+    "street": "Via Cavalier Gerolamo Pirinoli",
+    "number": "4",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8930208,
+    "longitude": 8.5955408
+  },
+  {
+    "street": "Via Cavalier Gerolamo Pirinoli",
+    "number": "13",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8923693,
+    "longitude": 8.5960708
+  },
+  {
+    "street": "Via dei Pescatori",
+    "number": "12",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8986148,
+    "longitude": 8.5966176
+  },
+  {
+    "street": "Via Emilia Ceretti",
+    "number": "13",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9074111,
+    "longitude": 8.62322
+  },
+  {
+    "street": "Piazza Nazareno Ferrari",
+    "number": "1",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9067535,
+    "longitude": 8.6232524
+  },
+  {
+    "street": "Via Emilia Ceretti",
+    "number": "3",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9079111,
+    "longitude": 8.6230559
+  },
+  {
+    "street": "Via Martiri della Libertà",
+    "number": "15",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9057115,
+    "longitude": 8.6227598
+  },
+  {
+    "street": "Via Martiri della Libertà",
+    "number": "17",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9053915,
+    "longitude": 8.6227036
+  },
+  {
+    "street": "Via Labiena",
+    "number": "153",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9085714,
+    "longitude": 8.6223344
+  },
+  {
+    "street": "Via Labiena",
+    "number": "149",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9086023,
+    "longitude": 8.6222729
+  },
+  {
+    "street": "Via Labiena",
+    "number": "159",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9084761,
+    "longitude": 8.6225239
+  },
+  {
+    "street": "Via Labiena",
+    "number": "90",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9084111,
+    "longitude": 8.6224468
+  },
+  {
+    "street": "Via Labiena",
+    "number": "147",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9086323,
+    "longitude": 8.6222133
+  },
+  {
+    "street": "Via Labiena",
+    "number": "155",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.908568,
+    "longitude": 8.6224053
+  },
+  {
+    "street": "Via Labiena",
+    "number": "157",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9085063,
+    "longitude": 8.6224638
+  },
+  {
+    "street": "Via Labiena",
+    "number": "94",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9083551,
+    "longitude": 8.6225558
+  },
+  {
+    "street": "Via Labiena",
+    "number": "96",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9083298,
+    "longitude": 8.622605
+  },
+  {
+    "street": "Via Labiena",
+    "number": "92",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9083885,
+    "longitude": 8.6224909
+  },
+  {
+    "street": "Via Labiena",
+    "number": "151",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9085843,
+    "longitude": 8.6223088
+  },
+  {
+    "street": "Via Labiena",
+    "number": "161",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9084425,
+    "longitude": 8.6225909
+  },
+  {
+    "street": "Via Labiena",
+    "number": "100",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9079876,
+    "longitude": 8.6231682
+  },
+  {
+    "street": "Viale Edoardo Porro",
+    "number": "25",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.908731,
+    "longitude": 8.6190922
+  },
+  {
+    "street": "Via Labiena",
+    "number": "181",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9079202,
+    "longitude": 8.6236716
+  },
+  {
+    "street": "Via Labiena",
+    "number": "175",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9080147,
+    "longitude": 8.6234818
+  },
+  {
+    "street": "Via Labiena",
+    "number": "173",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9080564,
+    "longitude": 8.6233789
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "5",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9085929,
+    "longitude": 8.6207738
+  },
+  {
+    "street": "Via Labiena",
+    "number": "163",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9084076,
+    "longitude": 8.6226659
+  },
+  {
+    "street": "Via Labiena",
+    "number": "179",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9079445,
+    "longitude": 8.6236235
+  },
+  {
+    "street": "Via Labiena",
+    "number": "131",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9088658,
+    "longitude": 8.6218053
+  },
+  {
+    "street": "Via Piave",
+    "number": "1",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9091768,
+    "longitude": 8.619656
+  },
+  {
+    "street": "Via Labiena",
+    "number": "183",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9078963,
+    "longitude": 8.623719
+  },
+  {
+    "street": "Via Labiena",
+    "number": "133",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9088754,
+    "longitude": 8.6218504
+  },
+  {
+    "street": "Via Labiena",
+    "number": "106",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9078288,
+    "longitude": 8.6235475
+  },
+  {
+    "street": "Via Labiena",
+    "number": "104",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9078608,
+    "longitude": 8.6234806
+  },
+  {
+    "street": "Via Labiena",
+    "number": "177",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9079679,
+    "longitude": 8.6235677
+  },
+  {
+    "street": "Via Piave",
+    "number": "8",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9089608,
+    "longitude": 8.6198333
+  },
+  {
+    "street": "Via Labiena",
+    "number": "187",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9077894,
+    "longitude": 8.6239082
+  },
+  {
+    "street": "Via Labiena",
+    "number": "110",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9076905,
+    "longitude": 8.6238108
+  },
+  {
+    "street": "Via Labiena",
+    "number": "185",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9078557,
+    "longitude": 8.6237961
+  },
+  {
+    "street": "Via Labiena",
+    "number": "108",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9077251,
+    "longitude": 8.6237678
+  },
+  {
+    "street": "Via Labiena",
+    "number": "112",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.907598,
+    "longitude": 8.623869
+  },
+  {
+    "street": "Via Ronco Santa Maria",
+    "number": "9",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9060819,
+    "longitude": 8.6256298
+  },
+  {
+    "street": "Via Labiena",
+    "number": "197",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9071685,
+    "longitude": 8.6244233
+  },
+  {
+    "street": "Via Labiena",
+    "number": "203",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9070588,
+    "longitude": 8.6245108
+  },
+  {
+    "street": "Via Labiena",
+    "number": "124",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.90746,
+    "longitude": 8.6239903
+  },
+  {
+    "street": "Via Labiena",
+    "number": "195",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9072702,
+    "longitude": 8.6243858
+  },
+  {
+    "street": "Via Labiena",
+    "number": "199",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9071262,
+    "longitude": 8.6244615
+  },
+  {
+    "street": "Via Labiena",
+    "number": "126",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9074047,
+    "longitude": 8.6240362
+  },
+  {
+    "street": "Via Labiena",
+    "number": "191",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9074136,
+    "longitude": 8.6242636
+  },
+  {
+    "street": "Via Labiena",
+    "number": "201",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9070914,
+    "longitude": 8.6244909
+  },
+  {
+    "street": "Via Ronco Santa Maria",
+    "number": "1",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9076666,
+    "longitude": 8.6241788
+  },
+  {
+    "street": "Via Labiena",
+    "number": "205",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9069444,
+    "longitude": 8.6245786
+  },
+  {
+    "street": "Via Varese",
+    "number": "4",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9059859,
+    "longitude": 8.6248381
+  },
+  {
+    "street": "Via Varese",
+    "number": "2",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9061075,
+    "longitude": 8.6247604
+  },
+  {
+    "street": "Via Labiena",
+    "number": "130",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9068939,
+    "longitude": 8.6244792
+  },
+  {
+    "street": "Via Fratelli Rosselli",
+    "number": "22",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9087767,
+    "longitude": 8.619917
+  },
+  {
+    "street": "Via Fratelli Rosselli",
+    "number": "28",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9086595,
+    "longitude": 8.6197961
+  },
+  {
+    "street": "Via Fratelli Rosselli",
+    "number": "20",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9088173,
+    "longitude": 8.6199589
+  },
+  {
+    "street": "Via Fratelli Rosselli",
+    "number": "30",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9086395,
+    "longitude": 8.6197754
+  },
+  {
+    "street": "Via Fratelli Rosselli",
+    "number": "26",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.908693,
+    "longitude": 8.6198307
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "25",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9085809,
+    "longitude": 8.6202833
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "15",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9082176,
+    "longitude": 8.6209874
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "18",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9082861,
+    "longitude": 8.6208438
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "21",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.908373,
+    "longitude": 8.6206915
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "13",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9081752,
+    "longitude": 8.6210881
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "14",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9082014,
+    "longitude": 8.6210375
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "12",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9081476,
+    "longitude": 8.6211127
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "16",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9082509,
+    "longitude": 8.6209232
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "10",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9080468,
+    "longitude": 8.6212902
+  },
+  {
+    "street": "Via Ventiquattro Maggio",
+    "number": "5",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9080815,
+    "longitude": 8.6214235
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "15",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9084886,
+    "longitude": 8.6195331
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "13",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9085392,
+    "longitude": 8.6194374
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "9",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9085668,
+    "longitude": 8.6193462
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "97",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9071089,
+    "longitude": 8.6224576
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "93",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9071757,
+    "longitude": 8.6223124
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "85",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9074117,
+    "longitude": 8.6218228
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "55",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.907755,
+    "longitude": 8.6210459
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "47",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9079379,
+    "longitude": 8.6206932
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "57",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9077133,
+    "longitude": 8.6211322
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "13",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9077679,
+    "longitude": 8.6221191
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "41",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9079969,
+    "longitude": 8.6205712
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "100",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9070822,
+    "longitude": 8.6225155
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "67",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9076056,
+    "longitude": 8.6213567
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "10a",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9080656,
+    "longitude": 8.6213095
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "11",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9076527,
+    "longitude": 8.6216634
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "59",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9077029,
+    "longitude": 8.6211538
+  },
+  {
+    "street": "Via Emilia Ceretti",
+    "number": "29",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9071316,
+    "longitude": 8.6229967
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "37",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9080608,
+    "longitude": 8.6204393
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "9",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9078031,
+    "longitude": 8.6220781
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "63",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9076575,
+    "longitude": 8.6212493
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "81",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9074494,
+    "longitude": 8.6217379
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "12",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9071693,
+    "longitude": 8.6220449
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "53",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9078509,
+    "longitude": 8.6208731
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "9",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9077187,
+    "longitude": 8.6217228
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "45",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9079664,
+    "longitude": 8.6206342
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "61",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9076776,
+    "longitude": 8.6212072
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "65",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9076372,
+    "longitude": 8.6212913
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "95",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9071412,
+    "longitude": 8.6223874
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "39",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9080255,
+    "longitude": 8.6205121
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "89",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9073192,
+    "longitude": 8.622023
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "91",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.907203,
+    "longitude": 8.6222531
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "43",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9079834,
+    "longitude": 8.620599
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "83",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9074285,
+    "longitude": 8.6217851
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "8",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9075461,
+    "longitude": 8.6222286
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "51",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9078875,
+    "longitude": 8.6207974
+  },
+  {
+    "street": "Via Labiena",
+    "number": "44",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.909453,
+    "longitude": 8.6204914
+  },
+  {
+    "street": "Via Labiena",
+    "number": "46",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9094348,
+    "longitude": 8.6205255
+  },
+  {
+    "street": "Via Labiena",
+    "number": "54",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9092742,
+    "longitude": 8.6208043
+  },
+  {
+    "street": "Via Labiena",
+    "number": "68",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9089926,
+    "longitude": 8.6213099
+  },
+  {
+    "street": "Via Labiena",
+    "number": "50",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9093175,
+    "longitude": 8.62072
+  },
+  {
+    "street": "Via Fratelli Rosselli",
+    "number": "3",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9092756,
+    "longitude": 8.6205725
+  },
+  {
+    "street": "Via Labiena",
+    "number": "48",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9093347,
+    "longitude": 8.6206865
+  },
+  {
+    "street": "Via Labiena",
+    "number": "60",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9092135,
+    "longitude": 8.620924
+  },
+  {
+    "street": "Via Labiena",
+    "number": "58",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9092373,
+    "longitude": 8.6208787
+  },
+  {
+    "street": "Via Labiena",
+    "number": "105",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9091885,
+    "longitude": 8.6212548
+  },
+  {
+    "street": "Via Labiena",
+    "number": "89",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9094713,
+    "longitude": 8.6207436
+  },
+  {
+    "street": "Via Labiena",
+    "number": "103",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9092139,
+    "longitude": 8.6212077
+  },
+  {
+    "street": "Via Fratelli Rosselli",
+    "number": "1",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9093307,
+    "longitude": 8.6206342
+  },
+  {
+    "street": "Via Fratelli Rosselli",
+    "number": "7",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.909158,
+    "longitude": 8.6204674
+  },
+  {
+    "street": "Via Labiena",
+    "number": "113",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9091842,
+    "longitude": 8.6214367
+  },
+  {
+    "street": "Via Labiena",
+    "number": "93",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9093952,
+    "longitude": 8.6208902
+  },
+  {
+    "street": "Via Fratelli Rosselli",
+    "number": "8",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9091636,
+    "longitude": 8.6203234
+  },
+  {
+    "street": "Via Fratelli Rosselli",
+    "number": "14",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.90897,
+    "longitude": 8.6201565
+  },
+  {
+    "street": "Via Labiena",
+    "number": "76",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9088478,
+    "longitude": 8.6215779
+  },
+  {
+    "street": "Via Fratelli Rosselli",
+    "number": "6",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9092152,
+    "longitude": 8.6203718
+  },
+  {
+    "street": "Via Labiena",
+    "number": "117",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9091432,
+    "longitude": 8.6215157
+  },
+  {
+    "street": "Via Labiena",
+    "number": "56",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9092582,
+    "longitude": 8.6208377
+  },
+  {
+    "street": "Via Labiena",
+    "number": "72",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9089298,
+    "longitude": 8.6214288
+  },
+  {
+    "street": "Via Fratelli Rosselli",
+    "number": "4",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9092778,
+    "longitude": 8.6204305
+  },
+  {
+    "street": "Via Labiena",
+    "number": "74",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9088687,
+    "longitude": 8.6215369
+  },
+  {
+    "street": "Via Labiena",
+    "number": "119",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9091257,
+    "longitude": 8.6215916
+  },
+  {
+    "street": "Via Fratelli Rosselli",
+    "number": "10",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9091239,
+    "longitude": 8.6202841
+  },
+  {
+    "street": "Via Labiena",
+    "number": "115",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.909166,
+    "longitude": 8.6214723
+  },
+  {
+    "street": "Via Labiena",
+    "number": "70",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9089651,
+    "longitude": 8.6213619
+  },
+  {
+    "street": "Via Labiena",
+    "number": "121",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9090893,
+    "longitude": 8.6216189
+  },
+  {
+    "street": "Via Labiena",
+    "number": "63",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9100277,
+    "longitude": 8.6198825
+  },
+  {
+    "street": "Via Labiena",
+    "number": "57",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9100925,
+    "longitude": 8.6198024
+  },
+  {
+    "street": "Piazza Alessandro Volta",
+    "number": "2",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9102038,
+    "longitude": 8.6194951
+  },
+  {
+    "street": "Via Labiena",
+    "number": "69",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9099082,
+    "longitude": 8.6200298
+  },
+  {
+    "street": "Via Labiena",
+    "number": "55",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9101105,
+    "longitude": 8.6197802
+  },
+  {
+    "street": "Via Labiena",
+    "number": "59",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9100782,
+    "longitude": 8.6198201
+  },
+  {
+    "street": "Via Labiena",
+    "number": "75",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.909919,
+    "longitude": 8.6203106
+  },
+  {
+    "street": "Via Labiena",
+    "number": "73",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9099596,
+    "longitude": 8.620283
+  },
+  {
+    "street": "Via Labiena",
+    "number": "61",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9100673,
+    "longitude": 8.6198336
+  },
+  {
+    "street": "Via Labiena",
+    "number": "65",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9099861,
+    "longitude": 8.6199338
+  },
+  {
+    "street": "Via Labiena",
+    "number": "49",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9102926,
+    "longitude": 8.6195427
+  },
+  {
+    "street": "Via Labiena",
+    "number": "51",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9102713,
+    "longitude": 8.6195741
+  },
+  {
+    "street": "Via Labiena",
+    "number": "67",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9099504,
+    "longitude": 8.6199778
+  },
+  {
+    "street": "Piazza Alessandro Volta",
+    "number": "4",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9101438,
+    "longitude": 8.6194195
+  },
+  {
+    "street": "Via Labiena",
+    "number": "53",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9101568,
+    "longitude": 8.619744
+  },
+  {
+    "street": "Via Labiena",
+    "number": "18",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9101386,
+    "longitude": 8.6196653
+  },
+  {
+    "street": "Via Labiena",
+    "number": "97",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9093474,
+    "longitude": 8.6209824
+  },
+  {
+    "street": "Via Labiena",
+    "number": "81",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9097378,
+    "longitude": 8.6203063
+  },
+  {
+    "street": "Via Labiena",
+    "number": "85",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9096633,
+    "longitude": 8.6204189
+  },
+  {
+    "street": "Via Labiena",
+    "number": "22",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9097112,
+    "longitude": 8.6200074
+  },
+  {
+    "street": "Via Labiena",
+    "number": "34",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9095435,
+    "longitude": 8.620322
+  },
+  {
+    "street": "Via Labiena",
+    "number": "42",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.909471,
+    "longitude": 8.6204577
+  },
+  {
+    "street": "Via Labiena",
+    "number": "28",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9095966,
+    "longitude": 8.6202226
+  },
+  {
+    "street": "Via Labiena",
+    "number": "30",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9095688,
+    "longitude": 8.6202746
+  },
+  {
+    "street": "Via Labiena",
+    "number": "26",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9096437,
+    "longitude": 8.6201341
+  },
+  {
+    "street": "Via Labiena",
+    "number": "32",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9095515,
+    "longitude": 8.620307
+  },
+  {
+    "street": "Via Labiena",
+    "number": "40",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9094913,
+    "longitude": 8.6204196
+  },
+  {
+    "street": "Via Labiena",
+    "number": "20",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9097386,
+    "longitude": 8.6199558
+  },
+  {
+    "street": "Via Labiena",
+    "number": "36",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9095339,
+    "longitude": 8.6203399
+  },
+  {
+    "street": "Via Labiena",
+    "number": "99",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9093308,
+    "longitude": 8.6210143
+  },
+  {
+    "street": "Via Labiena",
+    "number": "24",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.909688,
+    "longitude": 8.6200509
+  },
+  {
+    "street": "Via Dalmazia",
+    "number": "11",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.905411,
+    "longitude": 8.6191885
+  },
+  {
+    "street": "Via Lungolago Volta",
+    "number": "11",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9100798,
+    "longitude": 8.6196301
+  },
+  {
+    "street": "Via Famiglia Revelli",
+    "number": "32",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8969386,
+    "longitude": 8.6343126
+  },
+  {
+    "street": "Via Famiglia Revelli",
+    "number": "30",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8969221,
+    "longitude": 8.6343687
+  },
+  {
+    "street": "Via Famiglia Revelli",
+    "number": "28b",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.896906,
+    "longitude": 8.6346242
+  },
+  {
+    "street": "Via Famiglia Revelli",
+    "number": "28",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8969029,
+    "longitude": 8.6346357
+  },
+  {
+    "street": "Via Famiglia Revelli",
+    "number": "15",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8968219,
+    "longitude": 8.6349811
+  },
+  {
+    "street": "Via Roma",
+    "number": "32",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9137701,
+    "longitude": 8.6178036
+  },
+  {
+    "street": "Via Luigi Bellorini",
+    "number": "66",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8949913,
+    "longitude": 8.6139906
+  },
+  {
+    "street": "Frazione Casere",
+    "number": "26",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9214501,
+    "longitude": 8.6455463
+  },
+  {
+    "street": "Frazione Casere",
+    "number": "24",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9215175,
+    "longitude": 8.6445445
+  },
+  {
+    "street": "Frazione Casere",
+    "number": "22",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9226433,
+    "longitude": 8.6450431
+  },
+  {
+    "street": "Frazione Casere",
+    "number": "21",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9229689,
+    "longitude": 8.6451097
+  },
+  {
+    "street": "Frazione Casere",
+    "number": "20",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9227226,
+    "longitude": 8.6454273
+  },
+  {
+    "street": "Vicolo Molino",
+    "number": "6",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8969891,
+    "longitude": 8.6374491
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "21",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9032648,
+    "longitude": 8.6244074
+  },
+  {
+    "street": "Via Martiri della Libertà",
+    "number": "35",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9051133,
+    "longitude": 8.6219708
+  },
+  {
+    "street": "Via Don Carlo Tinelli",
+    "number": "15",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.912238,
+    "longitude": 8.6207348
+  },
+  {
+    "street": "Località Poggio Sant'Elsa",
+    "number": "snc",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9110541,
+    "longitude": 8.6371647
+  },
+  {
+    "street": "Via Avvocato Franco Bassani",
+    "number": "61",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9038789,
+    "longitude": 8.6150466
+  },
+  {
+    "street": "Via Roma",
+    "number": "16a",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.911454,
+    "longitude": 8.6181032
+  },
+  {
+    "street": "Via Molinetto",
+    "number": "1",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9034222,
+    "longitude": 8.6259299
+  },
+  {
+    "street": "Via Repubblica",
+    "number": "1",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9141231,
+    "longitude": 8.6185534
+  },
+  {
+    "street": "Via alla Torre",
+    "number": "4",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9158377,
+    "longitude": 8.6162497
+  },
+  {
+    "street": "Via alla Torre",
+    "number": "2",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9160924,
+    "longitude": 8.6163614
+  },
+  {
+    "street": "Via San Michele",
+    "number": "13",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9163717,
+    "longitude": 8.6117802
+  },
+  {
+    "street": "Via sul Monte",
+    "number": "36",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9024404,
+    "longitude": 8.610911
+  },
+  {
+    "street": "Via sul Monte",
+    "number": "42",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9020861,
+    "longitude": 8.6114124
+  },
+  {
+    "street": "Via sul Monte",
+    "number": "48",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9018544,
+    "longitude": 8.6118138
+  },
+  {
+    "street": "Via Fortino",
+    "number": "44",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9066852,
+    "longitude": 8.6067798
+  },
+  {
+    "street": "Via sul Monte",
+    "number": "4",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9001215,
+    "longitude": 8.5986737
+  },
+  {
+    "street": "Via dei Pescatori",
+    "number": "3",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.8984004,
+    "longitude": 8.5962364
+  },
+  {
+    "street": "Via Varese",
+    "number": "26",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9014778,
+    "longitude": 8.638388
+  },
+  {
+    "street": "Via San Fermo",
+    "number": "35",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9113904,
+    "longitude": 8.6192005
+  },
+  {
+    "street": "Via Fortino",
+    "number": "54",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9065147,
+    "longitude": 8.6006364
+  },
+  {
+    "street": "Via Valdinacca",
+    "number": "1",
+    "city": {
+      "name": "Laveno-Mombello",
+      "istat": "012087"
+    },
+    "latitude": 45.9148052,
+    "longitude": 8.6198298
+  }
+]

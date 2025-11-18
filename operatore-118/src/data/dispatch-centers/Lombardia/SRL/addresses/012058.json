@@ -1,0 +1,152 @@
+[
+  {
+    "street": "Via Scampini",
+    "number": "92",
+    "city": {
+      "name": "Cuasso al Monte",
+      "istat": "012058"
+    },
+    "latitude": 45.9109532,
+    "longitude": 8.8753185
+  },
+  {
+    "street": "Via Madonna",
+    "number": "2A",
+    "city": {
+      "name": "Cuasso al Monte",
+      "istat": "012058"
+    },
+    "latitude": 45.8948377,
+    "longitude": 8.8774034
+  },
+  {
+    "street": "Via Madonna",
+    "number": "22",
+    "city": {
+      "name": "Cuasso al Monte",
+      "istat": "012058"
+    },
+    "latitude": 45.8937194,
+    "longitude": 8.8790906
+  },
+  {
+    "street": "Via degli Storti",
+    "number": "7",
+    "city": {
+      "name": "Cuasso al Monte",
+      "istat": "012058"
+    },
+    "latitude": 45.8962218,
+    "longitude": 8.8822622
+  },
+  {
+    "street": "Via Molino del Torchio",
+    "number": "17",
+    "city": {
+      "name": "Cuasso al Monte",
+      "istat": "012058"
+    },
+    "latitude": 45.8910465,
+    "longitude": 8.8823992
+  },
+  {
+    "street": "Via Bozzonaccio",
+    "number": "3",
+    "city": {
+      "name": "Cuasso al Monte",
+      "istat": "012058"
+    },
+    "latitude": 45.9114696,
+    "longitude": 8.8867752
+  },
+  {
+    "street": "Via per Ganna",
+    "number": "26",
+    "city": {
+      "name": "Cuasso al Monte",
+      "istat": "012058"
+    },
+    "latitude": 45.8991108,
+    "longitude": 8.8424433
+  },
+  {
+    "street": "Via Roma",
+    "number": "60",
+    "city": {
+      "name": "Cuasso al Monte",
+      "istat": "012058"
+    },
+    "latitude": 45.9146067,
+    "longitude": 8.8793722
+  },
+  {
+    "street": "Via Roma",
+    "number": "99",
+    "city": {
+      "name": "Cuasso al Monte",
+      "istat": "012058"
+    },
+    "latitude": 45.9093442,
+    "longitude": 8.8759077
+  },
+  {
+    "street": "Via de Ville",
+    "number": "2",
+    "city": {
+      "name": "Cuasso al Monte",
+      "istat": "012058"
+    },
+    "latitude": 45.9152711,
+    "longitude": 8.8793052
+  },
+  {
+    "street": "Via Roma",
+    "number": "33",
+    "city": {
+      "name": "Cuasso al Monte",
+      "istat": "012058"
+    },
+    "latitude": 45.9155193,
+    "longitude": 8.8796446
+  },
+  {
+    "street": "Via Roma",
+    "number": "14",
+    "city": {
+      "name": "Cuasso al Monte",
+      "istat": "012058"
+    },
+    "latitude": 45.9157901,
+    "longitude": 8.8816456
+  },
+  {
+    "street": "Via Cacciatore delle Alpi",
+    "number": "3",
+    "city": {
+      "name": "Cuasso al Monte",
+      "istat": "012058"
+    },
+    "latitude": 45.9129188,
+    "longitude": 8.8798436
+  },
+  {
+    "street": "Via Madonna",
+    "number": "19",
+    "city": {
+      "name": "Cuasso al Monte",
+      "istat": "012058"
+    },
+    "latitude": 45.8940401,
+    "longitude": 8.8806153
+  },
+  {
+    "street": "Via per Cuasso al Piano",
+    "number": "10",
+    "city": {
+      "name": "Cuasso al Monte",
+      "istat": "012058"
+    },
+    "latitude": 45.9051998,
+    "longitude": 8.8730564
+  }
+]

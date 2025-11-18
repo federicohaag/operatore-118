@@ -1,0 +1,512 @@
+[
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "29",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8450237,
+    "longitude": 8.6652768
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "4",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8478622,
+    "longitude": 8.6694029
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "2",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8478011,
+    "longitude": 8.6692677
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "8",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8401015,
+    "longitude": 8.6685238
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "1",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8484429,
+    "longitude": 8.66802
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "8",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8485568,
+    "longitude": 8.6684655
+  },
+  {
+    "street": "Via San Alessandro",
+    "number": "2",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8490132,
+    "longitude": 8.6686578
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "12",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.845097,
+    "longitude": 8.6649861
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "1",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8413934,
+    "longitude": 8.6697569
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "46",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8444007,
+    "longitude": 8.6639553
+  },
+  {
+    "street": "Via Montello",
+    "number": "6",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8463402,
+    "longitude": 8.6660702
+  },
+  {
+    "street": "Via Brugnoni",
+    "number": "2a",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8604146,
+    "longitude": 8.6457407
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "3",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8468391,
+    "longitude": 8.6717538
+  },
+  {
+    "street": "Via Brugnoni",
+    "number": "1",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8600015,
+    "longitude": 8.6470878
+  },
+  {
+    "street": "Via Brugnoni",
+    "number": "3",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8599585,
+    "longitude": 8.6469631
+  },
+  {
+    "street": "Via Brugnoni",
+    "number": "5",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8598483,
+    "longitude": 8.6464696
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "24",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8484846,
+    "longitude": 8.6702552
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "7",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8472511,
+    "longitude": 8.6700105
+  },
+  {
+    "street": "Via Antonio Gorini",
+    "number": "2",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8509849,
+    "longitude": 8.6745979
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "10",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8486815,
+    "longitude": 8.6687887
+  },
+  {
+    "street": "Via Marino Miglierina",
+    "number": "10",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8472688,
+    "longitude": 8.6676118
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "13",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8489115,
+    "longitude": 8.6690514
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "12",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8487338,
+    "longitude": 8.6688637
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "4",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8485197,
+    "longitude": 8.6682151
+  },
+  {
+    "street": "Via Giulio Adamoli",
+    "number": "4",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8467602,
+    "longitude": 8.6687862
+  },
+  {
+    "street": "Via Giulio Adamoli",
+    "number": "15",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8468134,
+    "longitude": 8.668939
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "10",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8480559,
+    "longitude": 8.6696168
+  },
+  {
+    "street": "Via Padre Bellorini",
+    "number": "5",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8440416,
+    "longitude": 8.6843963
+  },
+  {
+    "street": "Via del Pozzo",
+    "number": "19",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.860051,
+    "longitude": 8.6539752
+  },
+  {
+    "street": "Via del Pozzo",
+    "number": "21",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8598991,
+    "longitude": 8.6541173
+  },
+  {
+    "street": "Via Roncari",
+    "number": "55",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8443425,
+    "longitude": 8.6694858
+  },
+  {
+    "street": "Via Roncari",
+    "number": "57",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8443158,
+    "longitude": 8.6695824
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "1A",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8436752,
+    "longitude": 8.6711295
+  },
+  {
+    "street": "Via degli Orti",
+    "number": "5",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8471035,
+    "longitude": 8.6670472
+  },
+  {
+    "street": "Via degli Orti",
+    "number": "9-11",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8470878,
+    "longitude": 8.6657557
+  },
+  {
+    "street": "Via degli Orti",
+    "number": "19",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8475456,
+    "longitude": 8.6659105
+  },
+  {
+    "street": "Via degli Orti",
+    "number": "17",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8475005,
+    "longitude": 8.6662211
+  },
+  {
+    "street": "Via degli Orti",
+    "number": "15",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8473518,
+    "longitude": 8.6664024
+  },
+  {
+    "street": "Via Brugnoni",
+    "number": "19",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8600146,
+    "longitude": 8.6458174
+  },
+  {
+    "street": "Via Cascina Selva",
+    "number": "5",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8610767,
+    "longitude": 8.6456703
+  },
+  {
+    "street": "Via Cascina Selva",
+    "number": "3",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8610049,
+    "longitude": 8.6460456
+  },
+  {
+    "street": "Via Beolchi",
+    "number": "50,52",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.860642,
+    "longitude": 8.648036
+  },
+  {
+    "street": "Località Bozza",
+    "number": "119",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8410678,
+    "longitude": 8.6280092
+  },
+  {
+    "street": "Località Bozza",
+    "number": "115",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8413717,
+    "longitude": 8.6277248
+  },
+  {
+    "street": "Via Trento",
+    "number": "19",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8571821,
+    "longitude": 8.6604669
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "42",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8486186,
+    "longitude": 8.6738799
+  },
+  {
+    "street": "Località Bozza",
+    "number": "117",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8411109,
+    "longitude": 8.6276248
+  },
+  {
+    "street": "Località Bozza",
+    "number": "121A",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8405163,
+    "longitude": 8.6277513
+  },
+  {
+    "street": "Località Bozza",
+    "number": "133",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8414382,
+    "longitude": 8.6265965
+  },
+  {
+    "street": "Località Bozza",
+    "number": "131",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8414446,
+    "longitude": 8.6269645
+  },
+  {
+    "street": "Via Trieste",
+    "number": "29 A",
+    "city": {
+      "name": "Besozzo",
+      "istat": "012013"
+    },
+    "latitude": 45.8563251,
+    "longitude": 8.6730378
+  }
+]

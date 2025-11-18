@@ -1,0 +1,242 @@
+[
+  {
+    "street": "Viale Vittorio Veneto",
+    "number": "14",
+    "city": {
+      "name": "Solbiate Olona",
+      "istat": "012122"
+    },
+    "latitude": 45.6514169,
+    "longitude": 8.885839
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "16",
+    "city": {
+      "name": "Solbiate Olona",
+      "istat": "012122"
+    },
+    "latitude": 45.6537522,
+    "longitude": 8.8869184
+  },
+  {
+    "street": "Via dei Patrioti",
+    "number": "31",
+    "city": {
+      "name": "Solbiate Olona",
+      "istat": "012122"
+    },
+    "latitude": 45.6517345,
+    "longitude": 8.8840857
+  },
+  {
+    "street": "Via dei Patrioti",
+    "number": "3",
+    "city": {
+      "name": "Solbiate Olona",
+      "istat": "012122"
+    },
+    "latitude": 45.6480065,
+    "longitude": 8.8856864
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "1",
+    "city": {
+      "name": "Solbiate Olona",
+      "istat": "012122"
+    },
+    "latitude": 45.6507121,
+    "longitude": 8.8880789
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "3",
+    "city": {
+      "name": "Solbiate Olona",
+      "istat": "012122"
+    },
+    "latitude": 45.6506277,
+    "longitude": 8.8881513
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "17",
+    "city": {
+      "name": "Solbiate Olona",
+      "istat": "012122"
+    },
+    "latitude": 45.650009,
+    "longitude": 8.8883901
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "29",
+    "city": {
+      "name": "Solbiate Olona",
+      "istat": "012122"
+    },
+    "latitude": 45.6495909,
+    "longitude": 8.8885778
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "37",
+    "city": {
+      "name": "Solbiate Olona",
+      "istat": "012122"
+    },
+    "latitude": 45.6494653,
+    "longitude": 8.8886341
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "39",
+    "city": {
+      "name": "Solbiate Olona",
+      "istat": "012122"
+    },
+    "latitude": 45.6493434,
+    "longitude": 8.8886958
+  },
+  {
+    "street": "Via San Vito",
+    "number": "18",
+    "city": {
+      "name": "Solbiate Olona",
+      "istat": "012122"
+    },
+    "latitude": 45.6487528,
+    "longitude": 8.8859734
+  },
+  {
+    "street": "Via Don Giovanni Calvi",
+    "number": "6",
+    "city": {
+      "name": "Solbiate Olona",
+      "istat": "012122"
+    },
+    "latitude": 45.6527183,
+    "longitude": 8.8893127
+  },
+  {
+    "street": "Via Don Giovanni Calvi",
+    "number": "4",
+    "city": {
+      "name": "Solbiate Olona",
+      "istat": "012122"
+    },
+    "latitude": 45.6527501,
+    "longitude": 8.889361
+  },
+  {
+    "street": "Via Novara",
+    "number": "61",
+    "city": {
+      "name": "Solbiate Olona",
+      "istat": "012122"
+    },
+    "latitude": 45.6467652,
+    "longitude": 8.87963
+  },
+  {
+    "street": "Via per Busto Arsizio",
+    "number": "11",
+    "city": {
+      "name": "Solbiate Olona",
+      "istat": "012122"
+    },
+    "latitude": 45.6413598,
+    "longitude": 8.8637625
+  },
+  {
+    "street": "Via per Fagnano Olona;Via Busto Fagnano",
+    "number": "11",
+    "city": {
+      "name": "Solbiate Olona",
+      "istat": "012122"
+    },
+    "latitude": 45.6415101,
+    "longitude": 8.8626455
+  },
+  {
+    "street": "Via per Busto",
+    "number": "9",
+    "city": {
+      "name": "Solbiate Olona",
+      "istat": "012122"
+    },
+    "latitude": 45.6434443,
+    "longitude": 8.8745132
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "104",
+    "city": {
+      "name": "Solbiate Olona",
+      "istat": "012122"
+    },
+    "latitude": 45.6431578,
+    "longitude": 8.8879766
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "2",
+    "city": {
+      "name": "Solbiate Olona",
+      "istat": "012122"
+    },
+    "latitude": 45.652913,
+    "longitude": 8.8868099
+  },
+  {
+    "street": "Piazza della Chiesa",
+    "number": "1",
+    "city": {
+      "name": "Solbiate Olona",
+      "istat": "012122"
+    },
+    "latitude": 45.6507744,
+    "longitude": 8.8866842
+  },
+  {
+    "street": "Via dei Patrioti",
+    "number": "33",
+    "city": {
+      "name": "Solbiate Olona",
+      "istat": "012122"
+    },
+    "latitude": 45.6520592,
+    "longitude": 8.8836962
+  },
+  {
+    "street": "Via Martiri della Libertà",
+    "number": "2",
+    "city": {
+      "name": "Solbiate Olona",
+      "istat": "012122"
+    },
+    "latitude": 45.6518277,
+    "longitude": 8.8794127
+  },
+  {
+    "street": "Via Gioacchino Rossini",
+    "number": "20",
+    "city": {
+      "name": "Solbiate Olona",
+      "istat": "012122"
+    },
+    "latitude": 45.6474751,
+    "longitude": 8.8873048
+  },
+  {
+    "street": "Via dei Combattenti",
+    "number": "1",
+    "city": {
+      "name": "Solbiate Olona",
+      "istat": "012122"
+    },
+    "latitude": 45.6475311,
+    "longitude": 8.8594115
+  }
+]

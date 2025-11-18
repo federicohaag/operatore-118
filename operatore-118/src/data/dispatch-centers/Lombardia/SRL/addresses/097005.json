@@ -1,0 +1,342 @@
+[
+  {
+    "street": "Via Giuseppe Parini",
+    "number": "8",
+    "city": {
+      "name": "Barzago",
+      "istat": "097005"
+    },
+    "latitude": 45.7539614,
+    "longitude": 9.3044368
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "3a",
+    "city": {
+      "name": "Barzago",
+      "istat": "097005"
+    },
+    "latitude": 45.751095,
+    "longitude": 9.3149878
+  },
+  {
+    "street": "Via Roma",
+    "number": "95",
+    "city": {
+      "name": "Barzago",
+      "istat": "097005"
+    },
+    "latitude": 45.7566953,
+    "longitude": 9.3118568
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "29d",
+    "city": {
+      "name": "Barzago",
+      "istat": "097005"
+    },
+    "latitude": 45.7525372,
+    "longitude": 9.3247114
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "3",
+    "city": {
+      "name": "Barzago",
+      "istat": "097005"
+    },
+    "latitude": 45.7515197,
+    "longitude": 9.3147342
+  },
+  {
+    "street": "Via Roma",
+    "number": "87",
+    "city": {
+      "name": "Barzago",
+      "istat": "097005"
+    },
+    "latitude": 45.7567382,
+    "longitude": 9.3121579
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "8",
+    "city": {
+      "name": "Barzago",
+      "istat": "097005"
+    },
+    "latitude": 45.75335,
+    "longitude": 9.311821
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "44",
+    "city": {
+      "name": "Barzago",
+      "istat": "097005"
+    },
+    "latitude": 45.7536154,
+    "longitude": 9.3211629
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "36",
+    "city": {
+      "name": "Barzago",
+      "istat": "097005"
+    },
+    "latitude": 45.7506837,
+    "longitude": 9.3154203
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "28",
+    "city": {
+      "name": "Barzago",
+      "istat": "097005"
+    },
+    "latitude": 45.7509011,
+    "longitude": 9.3149619
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "38",
+    "city": {
+      "name": "Barzago",
+      "istat": "097005"
+    },
+    "latitude": 45.750615,
+    "longitude": 9.315565
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "44",
+    "city": {
+      "name": "Barzago",
+      "istat": "097005"
+    },
+    "latitude": 45.7505274,
+    "longitude": 9.3158356
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "22",
+    "city": {
+      "name": "Barzago",
+      "istat": "097005"
+    },
+    "latitude": 45.7510695,
+    "longitude": 9.3144517
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "7",
+    "city": {
+      "name": "Barzago",
+      "istat": "097005"
+    },
+    "latitude": 45.7506117,
+    "longitude": 9.3160345
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "5",
+    "city": {
+      "name": "Barzago",
+      "istat": "097005"
+    },
+    "latitude": 45.7509396,
+    "longitude": 9.3153402
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "30",
+    "city": {
+      "name": "Barzago",
+      "istat": "097005"
+    },
+    "latitude": 45.7507926,
+    "longitude": 9.3151872
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "32",
+    "city": {
+      "name": "Barzago",
+      "istat": "097005"
+    },
+    "latitude": 45.7507728,
+    "longitude": 9.3152324
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "34",
+    "city": {
+      "name": "Barzago",
+      "istat": "097005"
+    },
+    "latitude": 45.7507359,
+    "longitude": 9.3153101
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "24",
+    "city": {
+      "name": "Barzago",
+      "istat": "097005"
+    },
+    "latitude": 45.7510391,
+    "longitude": 9.3145493
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "42",
+    "city": {
+      "name": "Barzago",
+      "istat": "097005"
+    },
+    "latitude": 45.750565,
+    "longitude": 9.3157566
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "20",
+    "city": {
+      "name": "Barzago",
+      "istat": "097005"
+    },
+    "latitude": 45.7511491,
+    "longitude": 9.3143708
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "26",
+    "city": {
+      "name": "Barzago",
+      "istat": "097005"
+    },
+    "latitude": 45.7510365,
+    "longitude": 9.3146149
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "40",
+    "city": {
+      "name": "Barzago",
+      "istat": "097005"
+    },
+    "latitude": 45.7505693,
+    "longitude": 9.3156615
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "18",
+    "city": {
+      "name": "Barzago",
+      "istat": "097005"
+    },
+    "latitude": 45.7511727,
+    "longitude": 9.3142618
+  },
+  {
+    "street": "Via Giuseppe Parini",
+    "number": "6",
+    "city": {
+      "name": "Barzago",
+      "istat": "097005"
+    },
+    "latitude": 45.7548357,
+    "longitude": 9.3056634
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "7",
+    "city": {
+      "name": "Barzago",
+      "istat": "097005"
+    },
+    "latitude": 45.7542995,
+    "longitude": 9.3340997
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "5",
+    "city": {
+      "name": "Barzago",
+      "istat": "097005"
+    },
+    "latitude": 45.7541411,
+    "longitude": 9.3337123
+  },
+  {
+    "street": "Via Statale",
+    "number": "11",
+    "city": {
+      "name": "Barzago",
+      "istat": "097005"
+    },
+    "latitude": 45.7528828,
+    "longitude": 9.3193504
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "1",
+    "city": {
+      "name": "Barzago",
+      "istat": "097005"
+    },
+    "latitude": 45.7536421,
+    "longitude": 9.312295
+  },
+  {
+    "street": "Via Santuario Superiore",
+    "number": "1",
+    "city": {
+      "name": "Barzago",
+      "istat": "097005"
+    },
+    "latitude": 45.753158,
+    "longitude": 9.3334398
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "1",
+    "city": {
+      "name": "Barzago",
+      "istat": "097005"
+    },
+    "latitude": 45.7519017,
+    "longitude": 9.3245407
+  },
+  {
+    "street": "Via San Giuseppe",
+    "number": "2",
+    "city": {
+      "name": "Barzago",
+      "istat": "097005"
+    },
+    "latitude": 45.7553745,
+    "longitude": 9.3178629
+  },
+  {
+    "street": "Via Vignale",
+    "number": "8",
+    "city": {
+      "name": "Barzago",
+      "istat": "097005"
+    },
+    "latitude": 45.7533539,
+    "longitude": 9.3106395
+  },
+  {
+    "street": "Via Vignale",
+    "number": "7",
+    "city": {
+      "name": "Barzago",
+      "istat": "097005"
+    },
+    "latitude": 45.7525675,
+    "longitude": 9.3109861
+  }
+]

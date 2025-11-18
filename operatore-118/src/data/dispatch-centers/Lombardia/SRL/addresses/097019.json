@@ -1,0 +1,52 @@
+[
+  {
+    "street": "Via Roma",
+    "number": "13",
+    "city": {
+      "name": "Castello di Brianza",
+      "istat": "097019"
+    },
+    "latitude": 45.7546207,
+    "longitude": 9.3494511
+  },
+  {
+    "street": "Via Lecco",
+    "number": "5",
+    "city": {
+      "name": "Castello di Brianza",
+      "istat": "097019"
+    },
+    "latitude": 45.7620243,
+    "longitude": 9.3386397
+  },
+  {
+    "street": "Via Dante",
+    "number": "28",
+    "city": {
+      "name": "Castello di Brianza",
+      "istat": "097019"
+    },
+    "latitude": 45.7588756,
+    "longitude": 9.3458276
+  },
+  {
+    "street": "Via Dante",
+    "number": "14",
+    "city": {
+      "name": "Castello di Brianza",
+      "istat": "097019"
+    },
+    "latitude": 45.7586877,
+    "longitude": 9.3458555
+  },
+  {
+    "street": "Via Papa Giovanni ventitreesimo",
+    "number": "38c",
+    "city": {
+      "name": "Castello di Brianza",
+      "istat": "097019"
+    },
+    "latitude": 45.7642934,
+    "longitude": 9.3475633
+  }
+]

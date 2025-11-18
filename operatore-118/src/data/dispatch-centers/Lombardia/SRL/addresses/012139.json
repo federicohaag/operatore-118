@@ -1,0 +1,92 @@
+[
+  {
+    "street": "Via Clivio",
+    "number": "41",
+    "city": {
+      "name": "Viggiù",
+      "istat": "012139"
+    },
+    "latitude": 45.8712164,
+    "longitude": 8.912436
+  },
+  {
+    "street": "Via Antonio Bottinelli",
+    "number": "9",
+    "city": {
+      "name": "Viggiù",
+      "istat": "012139"
+    },
+    "latitude": 45.8558357,
+    "longitude": 8.906076
+  },
+  {
+    "street": "Via Roma",
+    "number": "13",
+    "city": {
+      "name": "Viggiù",
+      "istat": "012139"
+    },
+    "latitude": 45.8714179,
+    "longitude": 8.9060263
+  },
+  {
+    "street": "Via Sant'Elia",
+    "number": "37",
+    "city": {
+      "name": "Viggiù",
+      "istat": "012139"
+    },
+    "latitude": 45.873117,
+    "longitude": 8.9047173
+  },
+  {
+    "street": "Via Roma",
+    "number": "33",
+    "city": {
+      "name": "Viggiù",
+      "istat": "012139"
+    },
+    "latitude": 45.8716954,
+    "longitude": 8.9072424
+  },
+  {
+    "street": "Viale Varese",
+    "number": "4",
+    "city": {
+      "name": "Viggiù",
+      "istat": "012139"
+    },
+    "latitude": 45.8695144,
+    "longitude": 8.9078051
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "16",
+    "city": {
+      "name": "Viggiù",
+      "istat": "012139"
+    },
+    "latitude": 45.8560254,
+    "longitude": 8.9045392
+  },
+  {
+    "street": "Via Ospedale",
+    "number": "1",
+    "city": {
+      "name": "Viggiù",
+      "istat": "012139"
+    },
+    "latitude": 45.8676667,
+    "longitude": 8.9084545
+  },
+  {
+    "street": "Via Roma",
+    "number": "27",
+    "city": {
+      "name": "Viggiù",
+      "istat": "012139"
+    },
+    "latitude": 45.8720073,
+    "longitude": 8.9066945
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "street": "Piazza della Chiesa",
+    "number": "2",
+    "city": {
+      "name": "Lomagna",
+      "istat": "097044"
+    },
+    "latitude": 45.6712598,
+    "longitude": 9.3741758
+  },
+  {
+    "street": "Piazza della Chiesa",
+    "number": "1",
+    "city": {
+      "name": "Lomagna",
+      "istat": "097044"
+    },
+    "latitude": 45.6712512,
+    "longitude": 9.3742368
+  },
+  {
+    "street": "Via Roma",
+    "number": "2",
+    "city": {
+      "name": "Lomagna",
+      "istat": "097044"
+    },
+    "latitude": 45.6704598,
+    "longitude": 9.3742487
+  },
+  {
+    "street": "Via Martiri della Libertà",
+    "number": "9",
+    "city": {
+      "name": "Lomagna",
+      "istat": "097044"
+    },
+    "latitude": 45.6697733,
+    "longitude": 9.3695194
+  },
+  {
+    "street": "Via Mirasole, 1, 21014 Cascina VA",
+    "number": "1",
+    "city": {
+      "name": "Lomagna",
+      "istat": "097044"
+    },
+    "latitude": 45.675143,
+    "longitude": 9.3627956
+  },
+  {
+    "street": "Via Federico Garcia Lorca",
+    "number": "25",
+    "city": {
+      "name": "Lomagna",
+      "istat": "097044"
+    },
+    "latitude": 45.668248,
+    "longitude": 9.3794137
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "1",
+    "city": {
+      "name": "Lomagna",
+      "istat": "097044"
+    },
+    "latitude": 45.6784356,
+    "longitude": 9.3768856
+  },
+  {
+    "street": "Via Camperia",
+    "number": "10",
+    "city": {
+      "name": "Lomagna",
+      "istat": "097044"
+    },
+    "latitude": 45.6592889,
+    "longitude": 9.37998
+  },
+  {
+    "street": "Via Valletta",
+    "number": "17",
+    "city": {
+      "name": "Lomagna",
+      "istat": "097044"
+    },
+    "latitude": 45.6685894,
+    "longitude": 9.3715067
+  }
+]

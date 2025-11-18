@@ -1,0 +1,52 @@
+[
+  {
+    "street": "Via Fogazzaro",
+    "number": "14",
+    "city": {
+      "name": "Valsolda",
+      "istat": "013234"
+    },
+    "latitude": 46.0214005,
+    "longitude": 9.0333362
+  },
+  {
+    "street": "Strada Sasso Rosso-Dasio",
+    "number": "25",
+    "city": {
+      "name": "Valsolda",
+      "istat": "013234"
+    },
+    "latitude": 46.026717,
+    "longitude": 9.0629605
+  },
+  {
+    "street": "Strada Sasso Rosso-Dasio",
+    "number": "11",
+    "city": {
+      "name": "Valsolda",
+      "istat": "013234"
+    },
+    "latitude": 46.0251612,
+    "longitude": 9.0686805
+  },
+  {
+    "street": "Via del Pino",
+    "number": "2",
+    "city": {
+      "name": "Valsolda",
+      "istat": "013234"
+    },
+    "latitude": 46.0255953,
+    "longitude": 9.0704294
+  },
+  {
+    "street": "Via delle Robinie",
+    "number": "13",
+    "city": {
+      "name": "Valsolda",
+      "istat": "013234"
+    },
+    "latitude": 46.0258277,
+    "longitude": 9.069548
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "74",
+    "city": {
+      "name": "Cassina Valsassina",
+      "istat": "097018"
+    },
+    "latitude": 45.937093,
+    "longitude": 9.4789269
+  },
+  {
+    "street": "Viale delle Grigne",
+    "number": "59",
+    "city": {
+      "name": "Cassina Valsassina",
+      "istat": "097018"
+    },
+    "latitude": 45.9333871,
+    "longitude": 9.4801649
+  },
+  {
+    "street": "Via Sensinallo",
+    "number": "24",
+    "city": {
+      "name": "Cassina Valsassina",
+      "istat": "097018"
+    },
+    "latitude": 45.9329251,
+    "longitude": 9.480308
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "70",
+    "city": {
+      "name": "Cassina Valsassina",
+      "istat": "097018"
+    },
+    "latitude": 45.9369124,
+    "longitude": 9.4793813
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "66",
+    "city": {
+      "name": "Cassina Valsassina",
+      "istat": "097018"
+    },
+    "latitude": 45.9368201,
+    "longitude": 9.4791097
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "62",
+    "city": {
+      "name": "Cassina Valsassina",
+      "istat": "097018"
+    },
+    "latitude": 45.9364535,
+    "longitude": 9.4793008
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "64",
+    "city": {
+      "name": "Cassina Valsassina",
+      "istat": "097018"
+    },
+    "latitude": 45.9365613,
+    "longitude": 9.4792378
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "21",
+    "city": {
+      "name": "Cassina Valsassina",
+      "istat": "097018"
+    },
+    "latitude": 45.9364825,
+    "longitude": 9.4791386
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "60",
+    "city": {
+      "name": "Cassina Valsassina",
+      "istat": "097018"
+    },
+    "latitude": 45.9363911,
+    "longitude": 9.4792143
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "58",
+    "city": {
+      "name": "Cassina Valsassina",
+      "istat": "097018"
+    },
+    "latitude": 45.9363976,
+    "longitude": 9.4791238
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "56",
+    "city": {
+      "name": "Cassina Valsassina",
+      "istat": "097018"
+    },
+    "latitude": 45.9365314,
+    "longitude": 9.4788455
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "13",
+    "city": {
+      "name": "Cassina Valsassina",
+      "istat": "097018"
+    },
+    "latitude": 45.9372351,
+    "longitude": 9.4778819
+  },
+  {
+    "street": "Via Sensinallo",
+    "number": "2",
+    "city": {
+      "name": "Cassina Valsassina",
+      "istat": "097018"
+    },
+    "latitude": 45.932581,
+    "longitude": 9.4794802
+  }
+]

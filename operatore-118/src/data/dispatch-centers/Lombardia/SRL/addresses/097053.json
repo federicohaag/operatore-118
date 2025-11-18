@@ -1,0 +1,472 @@
+[
+  {
+    "street": "Via Bergamo",
+    "number": "10",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.6953463,
+    "longitude": 9.3781009
+  },
+  {
+    "street": "Via privata Spiazzolo",
+    "number": "25",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.7115864,
+    "longitude": 9.3572877
+  },
+  {
+    "street": "Via privata Spiazzolo",
+    "number": "1",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.7123715,
+    "longitude": 9.3577664
+  },
+  {
+    "street": "Via Alta Collina",
+    "number": "40",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.7132442,
+    "longitude": 9.3573341
+  },
+  {
+    "street": "Via Alta Collina",
+    "number": "42",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.7132442,
+    "longitude": 9.3572568
+  },
+  {
+    "street": "Via Alta Collina",
+    "number": "44",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.7132442,
+    "longitude": 9.357163
+  },
+  {
+    "street": "Via Alta Collina",
+    "number": "46",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.7132442,
+    "longitude": 9.3570968
+  },
+  {
+    "street": "Via Alta Collina",
+    "number": "50",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.7132405,
+    "longitude": 9.3567914
+  },
+  {
+    "street": "Via Alta Collina",
+    "number": "47",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.7126665,
+    "longitude": 9.3567289
+  },
+  {
+    "street": "Via Alta Collina",
+    "number": "49",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.7126702,
+    "longitude": 9.3566479
+  },
+  {
+    "street": "Via Alta Collina",
+    "number": "51",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.7126812,
+    "longitude": 9.3565155
+  },
+  {
+    "street": "Via Alta Collina",
+    "number": "53",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.712707,
+    "longitude": 9.3561255
+  },
+  {
+    "street": "Via Alta Collina",
+    "number": "55",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.7130639,
+    "longitude": 9.3551983
+  },
+  {
+    "street": "Via Alta Collina",
+    "number": "57",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.7131338,
+    "longitude": 9.3551247
+  },
+  {
+    "street": "Via Alta Collina",
+    "number": "58",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.7135827,
+    "longitude": 9.3553528
+  },
+  {
+    "street": "Via Alta Collina",
+    "number": "62",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.713863,
+    "longitude": 9.3541708
+  },
+  {
+    "street": "Via Alta Collina",
+    "number": "64",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.7138597,
+    "longitude": 9.3541049
+  },
+  {
+    "street": "Via Alta Collina",
+    "number": "66",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.7156271,
+    "longitude": 9.3555373
+  },
+  {
+    "street": "Via Bergamo",
+    "number": "20",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.6951673,
+    "longitude": 9.3781585
+  },
+  {
+    "street": "Via degli Artigiani",
+    "number": "37",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.6944922,
+    "longitude": 9.3713944
+  },
+  {
+    "street": "Via Como",
+    "number": "5",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.6963748,
+    "longitude": 9.3759433
+  },
+  {
+    "street": "Via Bergamo",
+    "number": "24",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.6952246,
+    "longitude": 9.378525
+  },
+  {
+    "street": "Via Passone",
+    "number": "4",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.70141,
+    "longitude": 9.3854768
+  },
+  {
+    "street": "Via Donizelli",
+    "number": "17",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.7047599,
+    "longitude": 9.3827613
+  },
+  {
+    "street": "Via Bergamo",
+    "number": "16",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.6953786,
+    "longitude": 9.3777505
+  },
+  {
+    "street": "Via Alta Collina",
+    "number": "27",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.7093327,
+    "longitude": 9.365902
+  },
+  {
+    "street": "Via Alta Collina",
+    "number": "19",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.7081881,
+    "longitude": 9.3692837
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "33",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.7053798,
+    "longitude": 9.3806427
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "41",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.7051917,
+    "longitude": 9.381175
+  },
+  {
+    "street": "Via Bergamo",
+    "number": "5",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.6954005,
+    "longitude": 9.3788092
+  },
+  {
+    "street": "Via Bergamo",
+    "number": "12",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.6953373,
+    "longitude": 9.3777969
+  },
+  {
+    "street": "Via del Fontanile",
+    "number": "8",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.6937575,
+    "longitude": 9.3798715
+  },
+  {
+    "street": "Località Vertaggera",
+    "number": "1",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.7047554,
+    "longitude": 9.3661656
+  },
+  {
+    "street": "località Vertaggera",
+    "number": "1",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.7048248,
+    "longitude": 9.3660859
+  },
+  {
+    "street": "Largo Gaetana Agnesi",
+    "number": "7",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.7056637,
+    "longitude": 9.3750308
+  },
+  {
+    "street": "Largo Gaetana Agnesi",
+    "number": "2",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.7056889,
+    "longitude": 9.3760721
+  },
+  {
+    "street": "Largo Gaetana Agnesi",
+    "number": "12",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.7059483,
+    "longitude": 9.3752002
+  },
+  {
+    "street": "Piazza privata, proprietà Albertoni",
+    "number": "1",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.7060177,
+    "longitude": 9.3760708
+  },
+  {
+    "street": "Largo Gaetana Agnesi",
+    "number": "10",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.7059809,
+    "longitude": 9.3750916
+  },
+  {
+    "street": "Largo Gaetana Agnesi",
+    "number": "6",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.7059192,
+    "longitude": 9.3753112
+  },
+  {
+    "street": "Largo Gaetana Agnesi",
+    "number": "4",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.705883,
+    "longitude": 9.3754224
+  },
+  {
+    "street": "Via delle Robinie",
+    "number": "3",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.6938951,
+    "longitude": 9.3742327
+  },
+  {
+    "street": "Via Alta Collina",
+    "number": "12bis",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.7086195,
+    "longitude": 9.369086
+  },
+  {
+    "street": "Via privata Spiazzolo",
+    "number": "27",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.710808,
+    "longitude": 9.3559641
+  },
+  {
+    "street": "Via Alta Collina",
+    "number": "52",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.713247,
+    "longitude": 9.3561974
+  },
+  {
+    "street": "Via dei Gelsi",
+    "number": "6",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.6894198,
+    "longitude": 9.3735557
+  },
+  {
+    "street": "Via del Pertevano",
+    "number": "10",
+    "city": {
+      "name": "Montevecchia",
+      "istat": "097053"
+    },
+    "latitude": 45.7018301,
+    "longitude": 9.3856848
+  }
+]

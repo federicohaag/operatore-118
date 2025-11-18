@@ -1,0 +1,492 @@
+[
+  {
+    "street": "Via Umberto I",
+    "number": "6",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.7252046,
+    "longitude": 9.2798892
+  },
+  {
+    "street": "Via Vittorio Emanuele",
+    "number": "7",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.725411,
+    "longitude": 9.2807884
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "29",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.7315114,
+    "longitude": 9.2812917
+  },
+  {
+    "street": "Via Sirtori",
+    "number": "3",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.724504,
+    "longitude": 9.2787158
+  },
+  {
+    "street": "Via Sirtori",
+    "number": "1",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.724444,
+    "longitude": 9.2786219
+  },
+  {
+    "street": "Via Roma",
+    "number": "16",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.727975,
+    "longitude": 9.2805035
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "8",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.7236178,
+    "longitude": 9.2736394
+  },
+  {
+    "street": "Via Camisasca",
+    "number": "2",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.7200244,
+    "longitude": 9.2761994
+  },
+  {
+    "street": "Via Papa Giovanni XXIII",
+    "number": "4",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.727174,
+    "longitude": 9.2803144
+  },
+  {
+    "street": "Via Fratelli Bandiera",
+    "number": "4",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.7261155,
+    "longitude": 9.2858882
+  },
+  {
+    "street": "Via Umberto I",
+    "number": "80",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.7242169,
+    "longitude": 9.2786869
+  },
+  {
+    "street": "Via Sirtori",
+    "number": "18",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.7254353,
+    "longitude": 9.2744787
+  },
+  {
+    "street": "Via Giovanni Pirovano",
+    "number": "2",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.7243528,
+    "longitude": 9.278732
+  },
+  {
+    "street": "Via Sirtori",
+    "number": "33",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.7250676,
+    "longitude": 9.2754318
+  },
+  {
+    "street": "Via Sirtori",
+    "number": "35",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.7250789,
+    "longitude": 9.2752259
+  },
+  {
+    "street": "Via Sirtori",
+    "number": "14",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.7250957,
+    "longitude": 9.2759648
+  },
+  {
+    "street": "Via Sirtori",
+    "number": "31",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.7250021,
+    "longitude": 9.2759876
+  },
+  {
+    "street": "Via Sirtori",
+    "number": "29",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.7249899,
+    "longitude": 9.2760976
+  },
+  {
+    "street": "Via Sirtori",
+    "number": "23",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.7248205,
+    "longitude": 9.2769546
+  },
+  {
+    "street": "Via Sirtori",
+    "number": "21",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.7247924,
+    "longitude": 9.2771222
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "17",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.7323392,
+    "longitude": 9.2796554
+  },
+  {
+    "street": "Via Luciano Manara",
+    "number": "8",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.7249438,
+    "longitude": 9.2842267
+  },
+  {
+    "street": "Via Luciano Manara",
+    "number": "6",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.7248681,
+    "longitude": 9.2844767
+  },
+  {
+    "street": "Via Vittorio Emanuele",
+    "number": "4",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.7252777,
+    "longitude": 9.2810629
+  },
+  {
+    "street": "Via Roma",
+    "number": "6",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.7270954,
+    "longitude": 9.2821007
+  },
+  {
+    "street": "Via Roma",
+    "number": "38",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.7300649,
+    "longitude": 9.2796918
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "1",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.7270592,
+    "longitude": 9.2825803
+  },
+  {
+    "street": "Via Roma",
+    "number": "5",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.7270825,
+    "longitude": 9.2816244
+  },
+  {
+    "street": "Via Roma",
+    "number": "44",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.7305635,
+    "longitude": 9.2795767
+  },
+  {
+    "street": "Via Francesco Petrarca",
+    "number": "10",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.7312926,
+    "longitude": 9.2838103
+  },
+  {
+    "street": "Via Roma",
+    "number": "32",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.728836,
+    "longitude": 9.2799402
+  },
+  {
+    "street": "Via Roma",
+    "number": "34",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.7291098,
+    "longitude": 9.279944
+  },
+  {
+    "street": "Via Roma",
+    "number": "1",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.7268173,
+    "longitude": 9.2820253
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "2",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.7266345,
+    "longitude": 9.2826658
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "10",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.7312912,
+    "longitude": 9.2797547
+  },
+  {
+    "street": "Via Roma",
+    "number": "46",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.7308376,
+    "longitude": 9.2790868
+  },
+  {
+    "street": "Via Roma",
+    "number": "42",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.7303771,
+    "longitude": 9.2790046
+  },
+  {
+    "street": "Via Rivabella",
+    "number": "115",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.713786,
+    "longitude": 9.2734671
+  },
+  {
+    "street": "Via Tripoli",
+    "number": "3",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.7262829,
+    "longitude": 9.2834996
+  },
+  {
+    "street": "Via Roma",
+    "number": "2",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.7270467,
+    "longitude": 9.2823051
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "21",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.7317908,
+    "longitude": 9.2795228
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "23",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.7320352,
+    "longitude": 9.2799422
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "19",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.7321704,
+    "longitude": 9.2796925
+  },
+  {
+    "street": "Via XXV Aprile",
+    "number": "17",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.7324178,
+    "longitude": 9.2798486
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "2",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.7312633,
+    "longitude": 9.2789607
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "4",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.7312081,
+    "longitude": 9.2793243
+  },
+  {
+    "street": "Via Roma",
+    "number": "36",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.7293849,
+    "longitude": 9.2797262
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "6",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.7308572,
+    "longitude": 9.2796436
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "25",
+    "city": {
+      "name": "Renate",
+      "istat": "108037"
+    },
+    "latitude": 45.7315806,
+    "longitude": 9.2800035
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "street": "Via Ermizada",
+    "number": "12",
+    "city": {
+      "name": "Clivio",
+      "istat": "012052"
+    },
+    "latitude": 45.8645045,
+    "longitude": 8.9308504
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "21",
+    "city": {
+      "name": "Clivio",
+      "istat": "012052"
+    },
+    "latitude": 45.8625088,
+    "longitude": 8.9281555
+  },
+  {
+    "street": "Via Albuzzi",
+    "number": "3",
+    "city": {
+      "name": "Clivio",
+      "istat": "012052"
+    },
+    "latitude": 45.8646515,
+    "longitude": 8.9302374
+  },
+  {
+    "street": "Via E. Trentini",
+    "number": "20",
+    "city": {
+      "name": "Clivio",
+      "istat": "012052"
+    },
+    "latitude": 45.8643949,
+    "longitude": 8.9317189
+  },
+  {
+    "street": "Via delle Sorgenti",
+    "number": "7",
+    "city": {
+      "name": "Clivio",
+      "istat": "012052"
+    },
+    "latitude": 45.8634665,
+    "longitude": 8.9330589
+  },
+  {
+    "street": "Via Brella",
+    "number": "1",
+    "city": {
+      "name": "Clivio",
+      "istat": "012052"
+    },
+    "latitude": 45.862265,
+    "longitude": 8.9220562
+  },
+  {
+    "street": "via Cantello",
+    "number": "30",
+    "city": {
+      "name": "Clivio",
+      "istat": "012052"
+    },
+    "latitude": 45.8433018,
+    "longitude": 8.9083699
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "street": "Via Trieste",
+    "number": "136",
+    "city": {
+      "name": "Ferno",
+      "istat": "012068"
+    },
+    "latitude": 45.6182078,
+    "longitude": 8.7667952
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "24",
+    "city": {
+      "name": "Ferno",
+      "istat": "012068"
+    },
+    "latitude": 45.6191269,
+    "longitude": 8.7633137
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "1",
+    "city": {
+      "name": "Ferno",
+      "istat": "012068"
+    },
+    "latitude": 45.6202227,
+    "longitude": 8.758556
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "9",
+    "city": {
+      "name": "Ferno",
+      "istat": "012068"
+    },
+    "latitude": 45.6159138,
+    "longitude": 8.7551848
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "7",
+    "city": {
+      "name": "Ferno",
+      "istat": "012068"
+    },
+    "latitude": 45.6189186,
+    "longitude": 8.7566827
+  },
+  {
+    "street": "Via Marzabotto",
+    "number": "7",
+    "city": {
+      "name": "Ferno",
+      "istat": "012068"
+    },
+    "latitude": 45.6132532,
+    "longitude": 8.7635466
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "14",
+    "city": {
+      "name": "Ferno",
+      "istat": "012068"
+    },
+    "latitude": 45.6126021,
+    "longitude": 8.7561111
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "3",
+    "city": {
+      "name": "Ferno",
+      "istat": "012068"
+    },
+    "latitude": 45.6116641,
+    "longitude": 8.7589422
+  },
+  {
+    "street": "Via per Tornavento",
+    "number": "15",
+    "city": {
+      "name": "Ferno",
+      "istat": "012068"
+    },
+    "latitude": 45.6304649,
+    "longitude": 8.7071497
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "16",
+    "city": {
+      "name": "Ferno",
+      "istat": "012068"
+    },
+    "latitude": 45.6118854,
+    "longitude": 8.759214
+  },
+  {
+    "street": "Via Marco Polo",
+    "number": "9",
+    "city": {
+      "name": "Ferno",
+      "istat": "012068"
+    },
+    "latitude": 45.6105461,
+    "longitude": 8.7590484
+  },
+  {
+    "street": "Viale Giovanni Agusta",
+    "number": "520",
+    "city": {
+      "name": "Ferno",
+      "istat": "012068"
+    },
+    "latitude": 45.6314816,
+    "longitude": 8.7430465
+  },
+  {
+    "street": "Via Cinque Martiri",
+    "number": "1",
+    "city": {
+      "name": "Ferno",
+      "istat": "012068"
+    },
+    "latitude": 45.6149949,
+    "longitude": 8.7525571
+  },
+  {
+    "street": "via Arno",
+    "number": "10",
+    "city": {
+      "name": "Ferno",
+      "istat": "012068"
+    },
+    "latitude": 45.6094041,
+    "longitude": 8.7702037
+  },
+  {
+    "street": "Via Ticino",
+    "number": "91",
+    "city": {
+      "name": "Ferno",
+      "istat": "012068"
+    },
+    "latitude": 45.6170036,
+    "longitude": 8.7630431
+  }
+]

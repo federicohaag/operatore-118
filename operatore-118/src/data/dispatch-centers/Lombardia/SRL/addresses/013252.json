@@ -1,0 +1,342 @@
+[
+  {
+    "street": "Via Pasquale Castelli",
+    "number": "5",
+    "city": {
+      "name": "Tremezzina",
+      "istat": "013252"
+    },
+    "latitude": 45.97469,
+    "longitude": 9.1810281
+  },
+  {
+    "street": "Viale Rimembranze",
+    "number": "2/A",
+    "city": {
+      "name": "Tremezzina",
+      "istat": "013252"
+    },
+    "latitude": 45.9814704,
+    "longitude": 9.2083437
+  },
+  {
+    "street": "Piazza Undici Febbraio",
+    "number": "13/15",
+    "city": {
+      "name": "Tremezzina",
+      "istat": "013252"
+    },
+    "latitude": 45.9729714,
+    "longitude": 9.1962175
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "13",
+    "city": {
+      "name": "Tremezzina",
+      "istat": "013252"
+    },
+    "latitude": 45.973404,
+    "longitude": 9.1924678
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "14",
+    "city": {
+      "name": "Tremezzina",
+      "istat": "013252"
+    },
+    "latitude": 45.9837783,
+    "longitude": 9.2262648
+  },
+  {
+    "street": "Via Regina",
+    "number": "23",
+    "city": {
+      "name": "Tremezzina",
+      "istat": "013252"
+    },
+    "latitude": 45.970632,
+    "longitude": 9.1936488
+  },
+  {
+    "street": "Strada statale 340 Regina",
+    "number": "46",
+    "city": {
+      "name": "Tremezzina",
+      "istat": "013252"
+    },
+    "latitude": 45.9707561,
+    "longitude": 9.193655
+  },
+  {
+    "street": "Via Sant'Abbondio",
+    "number": "8",
+    "city": {
+      "name": "Tremezzina",
+      "istat": "013252"
+    },
+    "latitude": 45.9815846,
+    "longitude": 9.2071209
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "27",
+    "city": {
+      "name": "Tremezzina",
+      "istat": "013252"
+    },
+    "latitude": 45.9872671,
+    "longitude": 9.2120339
+  },
+  {
+    "street": "Strada statale 340 Regina",
+    "number": "8",
+    "city": {
+      "name": "Tremezzina",
+      "istat": "013252"
+    },
+    "latitude": 45.9848932,
+    "longitude": 9.2284382
+  },
+  {
+    "street": "Via Portici Sampietro",
+    "number": "18",
+    "city": {
+      "name": "Tremezzina",
+      "istat": "013252"
+    },
+    "latitude": 45.983541,
+    "longitude": 9.2264023
+  },
+  {
+    "street": "Piazza Filzi Fabio",
+    "number": "14A",
+    "city": {
+      "name": "Tremezzina",
+      "istat": "013252"
+    },
+    "latitude": 45.983491,
+    "longitude": 9.2261724
+  },
+  {
+    "street": "Via Portici Sampietro",
+    "number": "16",
+    "city": {
+      "name": "Tremezzina",
+      "istat": "013252"
+    },
+    "latitude": 45.9836295,
+    "longitude": 9.2265958
+  },
+  {
+    "street": "Via Statale Regina",
+    "number": "8",
+    "city": {
+      "name": "Tremezzina",
+      "istat": "013252"
+    },
+    "latitude": 45.98471,
+    "longitude": 9.2278992
+  },
+  {
+    "street": "Via Portici Sampietro",
+    "number": "2",
+    "city": {
+      "name": "Tremezzina",
+      "istat": "013252"
+    },
+    "latitude": 45.9841062,
+    "longitude": 9.2275256
+  },
+  {
+    "street": "Piazza Fabio Filzi",
+    "number": "2",
+    "city": {
+      "name": "Tremezzina",
+      "istat": "013252"
+    },
+    "latitude": 45.984329,
+    "longitude": 9.2279541
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "3",
+    "city": {
+      "name": "Tremezzina",
+      "istat": "013252"
+    },
+    "latitude": 45.9846728,
+    "longitude": 9.2275751
+  },
+  {
+    "street": "Piazza Fabio Filzi",
+    "number": "4",
+    "city": {
+      "name": "Tremezzina",
+      "istat": "013252"
+    },
+    "latitude": 45.9842483,
+    "longitude": 9.2278597
+  },
+  {
+    "street": "Via Statale Regina",
+    "number": "26",
+    "city": {
+      "name": "Tremezzina",
+      "istat": "013252"
+    },
+    "latitude": 45.9832697,
+    "longitude": 9.225806
+  },
+  {
+    "street": "Via Portici Sampietro",
+    "number": "1",
+    "city": {
+      "name": "Tremezzina",
+      "istat": "013252"
+    },
+    "latitude": 45.9840304,
+    "longitude": 9.227553
+  },
+  {
+    "street": "Via Tommaso Grossi",
+    "number": "3",
+    "city": {
+      "name": "Tremezzina",
+      "istat": "013252"
+    },
+    "latitude": 45.9861114,
+    "longitude": 9.2192955
+  },
+  {
+    "street": "Via Portici Sampietro",
+    "number": "12a",
+    "city": {
+      "name": "Tremezzina",
+      "istat": "013252"
+    },
+    "latitude": 45.9837892,
+    "longitude": 9.2268052
+  },
+  {
+    "street": "Via Giovanni Castelli",
+    "number": "25",
+    "city": {
+      "name": "Tremezzina",
+      "istat": "013252"
+    },
+    "latitude": 45.9706826,
+    "longitude": 9.1827788
+  },
+  {
+    "street": "Via Rima",
+    "number": "4",
+    "city": {
+      "name": "Tremezzina",
+      "istat": "013252"
+    },
+    "latitude": 45.9698688,
+    "longitude": 9.1918869
+  },
+  {
+    "street": "Via Regina",
+    "number": "2",
+    "city": {
+      "name": "Tremezzina",
+      "istat": "013252"
+    },
+    "latitude": 45.9864017,
+    "longitude": 9.2308356
+  },
+  {
+    "street": "Via al Santuario",
+    "number": "50",
+    "city": {
+      "name": "Tremezzina",
+      "istat": "013252"
+    },
+    "latitude": 45.9748845,
+    "longitude": 9.1771502
+  },
+  {
+    "street": "Via Statale",
+    "number": "36",
+    "city": {
+      "name": "Tremezzina",
+      "istat": "013252"
+    },
+    "latitude": 45.9827723,
+    "longitude": 9.2143198
+  },
+  {
+    "street": "Via Patrizio Peduzzi",
+    "number": "6",
+    "city": {
+      "name": "Tremezzina",
+      "istat": "013252"
+    },
+    "latitude": 45.9837198,
+    "longitude": 9.2209338
+  },
+  {
+    "street": "Via Comoedia",
+    "number": "5",
+    "city": {
+      "name": "Tremezzina",
+      "istat": "013252"
+    },
+    "latitude": 45.9650922,
+    "longitude": 9.2025118
+  },
+  {
+    "street": "Via Pasquale Castelli",
+    "number": "30",
+    "city": {
+      "name": "Tremezzina",
+      "istat": "013252"
+    },
+    "latitude": 45.9731587,
+    "longitude": 9.1818693
+  },
+  {
+    "street": "Via Fratelli Brentano",
+    "number": "49",
+    "city": {
+      "name": "Tremezzina",
+      "istat": "013252"
+    },
+    "latitude": 45.9836101,
+    "longitude": 9.2057287
+  },
+  {
+    "street": "Via San Martino",
+    "number": "2",
+    "city": {
+      "name": "Tremezzina",
+      "istat": "013252"
+    },
+    "latitude": 45.9874964,
+    "longitude": 9.2260234
+  },
+  {
+    "street": "Piazza Trieste",
+    "number": "4",
+    "city": {
+      "name": "Tremezzina",
+      "istat": "013252"
+    },
+    "latitude": 45.9831347,
+    "longitude": 9.2252077
+  },
+  {
+    "street": "Via Regina",
+    "number": "19",
+    "city": {
+      "name": "Tremezzina",
+      "istat": "013252"
+    },
+    "latitude": 45.9709797,
+    "longitude": 9.1948647
+  }
+]

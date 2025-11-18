@@ -1,0 +1,172 @@
+[
+  {
+    "street": "Via San Martino",
+    "number": "10",
+    "city": {
+      "name": "Besnate",
+      "istat": "012012"
+    },
+    "latitude": 45.70013,
+    "longitude": 8.7679498
+  },
+  {
+    "street": "Via Emilia Tomasetto",
+    "number": "2",
+    "city": {
+      "name": "Besnate",
+      "istat": "012012"
+    },
+    "latitude": 45.7017945,
+    "longitude": 8.7686058
+  },
+  {
+    "street": "Via Antonio Pacinotti",
+    "number": "9",
+    "city": {
+      "name": "Besnate",
+      "istat": "012012"
+    },
+    "latitude": 45.6961204,
+    "longitude": 8.7658224
+  },
+  {
+    "street": "Via Antonio Pacinotti",
+    "number": "7",
+    "city": {
+      "name": "Besnate",
+      "istat": "012012"
+    },
+    "latitude": 45.6962257,
+    "longitude": 8.7664407
+  },
+  {
+    "street": "Via Antonio Pacinotti",
+    "number": "4",
+    "city": {
+      "name": "Besnate",
+      "istat": "012012"
+    },
+    "latitude": 45.6962435,
+    "longitude": 8.7663938
+  },
+  {
+    "street": "Via Antonio Pacinotti",
+    "number": "11",
+    "city": {
+      "name": "Besnate",
+      "istat": "012012"
+    },
+    "latitude": 45.696077,
+    "longitude": 8.7656274
+  },
+  {
+    "street": "Via Antonio Pacinotti",
+    "number": "10",
+    "city": {
+      "name": "Besnate",
+      "istat": "012012"
+    },
+    "latitude": 45.696219,
+    "longitude": 8.765665
+  },
+  {
+    "street": "Via Emilia Tomasetto",
+    "number": "3",
+    "city": {
+      "name": "Besnate",
+      "istat": "012012"
+    },
+    "latitude": 45.7023189,
+    "longitude": 8.767492
+  },
+  {
+    "street": "Via Giuseppe Parini",
+    "number": "21",
+    "city": {
+      "name": "Besnate",
+      "istat": "012012"
+    },
+    "latitude": 45.697927,
+    "longitude": 8.7578496
+  },
+  {
+    "street": "Via Giuseppe Parini",
+    "number": "17",
+    "city": {
+      "name": "Besnate",
+      "istat": "012012"
+    },
+    "latitude": 45.6974231,
+    "longitude": 8.7579086
+  },
+  {
+    "street": "Via Giuseppe Parini",
+    "number": "19",
+    "city": {
+      "name": "Besnate",
+      "istat": "012012"
+    },
+    "latitude": 45.6975898,
+    "longitude": 8.7577503
+  },
+  {
+    "street": "Piazza Giuseppe Mazzini",
+    "number": "16",
+    "city": {
+      "name": "Besnate",
+      "istat": "012012"
+    },
+    "latitude": 45.700377,
+    "longitude": 8.7693762
+  },
+  {
+    "street": "Via Jerago",
+    "number": "16",
+    "city": {
+      "name": "Besnate",
+      "istat": "012012"
+    },
+    "latitude": 45.7026653,
+    "longitude": 8.7716091
+  },
+  {
+    "street": "Via Don Angelo Molteni",
+    "number": "5",
+    "city": {
+      "name": "Besnate",
+      "istat": "012012"
+    },
+    "latitude": 45.6975108,
+    "longitude": 8.770204
+  },
+  {
+    "street": "Via Magenta",
+    "number": "11",
+    "city": {
+      "name": "Besnate",
+      "istat": "012012"
+    },
+    "latitude": 45.6985072,
+    "longitude": 8.7676343
+  },
+  {
+    "street": "Via Magenta",
+    "number": "9",
+    "city": {
+      "name": "Besnate",
+      "istat": "012012"
+    },
+    "latitude": 45.6984298,
+    "longitude": 8.7678661
+  },
+  {
+    "street": "Via San Gaetano",
+    "number": "23",
+    "city": {
+      "name": "Besnate",
+      "istat": "012012"
+    },
+    "latitude": 45.7015645,
+    "longitude": 8.7672048
+  }
+]

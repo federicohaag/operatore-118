@@ -1,0 +1,22 @@
+[
+  {
+    "street": "Via del Bono",
+    "number": "1",
+    "city": {
+      "name": "Cremella",
+      "istat": "097028"
+    },
+    "latitude": 45.7423098,
+    "longitude": 9.3046761
+  },
+  {
+    "street": "Via Valle di Sotto",
+    "number": "3/E",
+    "city": {
+      "name": "Cremella",
+      "istat": "097028"
+    },
+    "latitude": 45.7458072,
+    "longitude": 9.2969857
+  }
+]

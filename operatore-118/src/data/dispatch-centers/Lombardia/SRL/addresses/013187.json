@@ -1,0 +1,12 @@
+[
+  {
+    "street": "Via Trento",
+    "number": "2",
+    "city": {
+      "name": "Ponna",
+      "istat": "013187"
+    },
+    "latitude": 45.989345,
+    "longitude": 9.094056
+  }
+]

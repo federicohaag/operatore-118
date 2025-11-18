@@ -1,0 +1,482 @@
+[
+  {
+    "street": "Via Monte Santo",
+    "number": "5",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.7385432,
+    "longitude": 9.2081002
+  },
+  {
+    "street": "Via al Gigante",
+    "number": "19",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.7443171,
+    "longitude": 9.2216644
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "19",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.7412418,
+    "longitude": 9.2245672
+  },
+  {
+    "street": "Via Don Carlo Gnocchi",
+    "number": "39",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.7288362,
+    "longitude": 9.2143526
+  },
+  {
+    "street": "Strada provinciale 41 Vallassina",
+    "number": "24",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.7248247,
+    "longitude": 9.2155398
+  },
+  {
+    "street": "Strada provinciale 41 Vallassina",
+    "number": "14",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.7241845,
+    "longitude": 9.2154149
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "11",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.7269909,
+    "longitude": 9.2187618
+  },
+  {
+    "street": "Via Roma",
+    "number": "64",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.7381539,
+    "longitude": 9.2069494
+  },
+  {
+    "street": "Via Garibaldi",
+    "number": "1",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.7392454,
+    "longitude": 9.2044125
+  },
+  {
+    "street": "Via Don Carlo Gnocchi",
+    "number": "51",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.730307,
+    "longitude": 9.2137152
+  },
+  {
+    "street": "Via Alberto da Giussano",
+    "number": "2",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.7522369,
+    "longitude": 9.2357986
+  },
+  {
+    "street": "Via Sormani",
+    "number": "1",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.7513342,
+    "longitude": 9.2354829
+  },
+  {
+    "street": "Via Sormani",
+    "number": "3",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.7511857,
+    "longitude": 9.2356262
+  },
+  {
+    "street": "Via Sormani",
+    "number": "5",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.7505846,
+    "longitude": 9.2362626
+  },
+  {
+    "street": "Via Valsorda",
+    "number": "3",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.7336267,
+    "longitude": 9.1976323
+  },
+  {
+    "street": "Via Trento",
+    "number": "3",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.7447646,
+    "longitude": 9.2301508
+  },
+  {
+    "street": "Via Roma",
+    "number": "97",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.7375089,
+    "longitude": 9.2070627
+  },
+  {
+    "street": "Piazza Sant'Ambrogio",
+    "number": "4",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.7409272,
+    "longitude": 9.2257936
+  },
+  {
+    "street": "Rocchina",
+    "number": "8",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.7454091,
+    "longitude": 9.227499
+  },
+  {
+    "street": "Via Fornacetta",
+    "number": "98",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.7288,
+    "longitude": 9.2410079
+  },
+  {
+    "street": "Via Fornacetta",
+    "number": "92",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.7299663,
+    "longitude": 9.2419265
+  },
+  {
+    "street": "Via Roma",
+    "number": "60",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.7376417,
+    "longitude": 9.2072537
+  },
+  {
+    "street": "Via General Cantore",
+    "number": "2",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.7313393,
+    "longitude": 9.2145848
+  },
+  {
+    "street": "Via Don Carlo Gnocchi",
+    "number": "47",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.7307625,
+    "longitude": 9.2141384
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "1",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.7323736,
+    "longitude": 9.2278215
+  },
+  {
+    "street": "Via Zara",
+    "number": "10",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.7271242,
+    "longitude": 9.2190604
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "19",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.7371607,
+    "longitude": 9.201093
+  },
+  {
+    "street": "Via Roma",
+    "number": "98",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.7394398,
+    "longitude": 9.2054306
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "15",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.7394088,
+    "longitude": 9.2021636
+  },
+  {
+    "street": "Via Roma",
+    "number": "84",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.738943,
+    "longitude": 9.2059897
+  },
+  {
+    "street": "Via Roma",
+    "number": "76",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.7386886,
+    "longitude": 9.2062422
+  },
+  {
+    "street": "Via Roma",
+    "number": "105",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.7383378,
+    "longitude": 9.2065316
+  },
+  {
+    "street": "Via Aristide Magni",
+    "number": "101",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.751542,
+    "longitude": 9.2491154
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "20",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.738311,
+    "longitude": 9.2106475
+  },
+  {
+    "street": "Via al Gigante",
+    "number": "23",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.745114,
+    "longitude": 9.2200583
+  },
+  {
+    "street": "Via Don Carlo Gnocchi",
+    "number": "28",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.7259652,
+    "longitude": 9.2152561
+  },
+  {
+    "street": "Via Don Carlo Gnocchi",
+    "number": "81",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.7458467,
+    "longitude": 9.2186619
+  },
+  {
+    "street": "Via Aristide Magni",
+    "number": "113",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.7519002,
+    "longitude": 9.2525587
+  },
+  {
+    "street": "Via Valsorda",
+    "number": "42",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.7425812,
+    "longitude": 9.1972956
+  },
+  {
+    "street": "Via Fugazza",
+    "number": "19",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.725886,
+    "longitude": 9.2142051
+  },
+  {
+    "street": "Via Aristide Magni",
+    "number": "115",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.7518374,
+    "longitude": 9.2548893
+  },
+  {
+    "street": "Strada provinciale 41 Vallassina",
+    "number": "23",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.7213693,
+    "longitude": 9.2150731
+  },
+  {
+    "street": "Strada provinciale 41 Vallassina",
+    "number": "30",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.722139,
+    "longitude": 9.2151105
+  },
+  {
+    "street": "Via Don Carlo Gnocchi",
+    "number": "70",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.736676,
+    "longitude": 9.2140872
+  },
+  {
+    "street": "Via Don Carlo Gnocchi",
+    "number": "67",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.7361377,
+    "longitude": 9.2130388
+  },
+  {
+    "street": "Via Valsorda",
+    "number": "9",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.7341001,
+    "longitude": 9.1997841
+  },
+  {
+    "street": "Via Don Carlo Gnocchi",
+    "number": "108",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.7491458,
+    "longitude": 9.2208206
+  },
+  {
+    "street": "Via Roma",
+    "number": "54",
+    "city": {
+      "name": "Inverigo",
+      "istat": "013118"
+    },
+    "latitude": 45.7356666,
+    "longitude": 9.2071172
+  }
+]

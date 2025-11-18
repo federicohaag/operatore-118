@@ -1,0 +1,402 @@
+[
+  {
+    "street": "Località Polgina",
+    "number": "1",
+    "city": {
+      "name": "Galbiate",
+      "istat": "097036"
+    },
+    "latitude": 45.7855769,
+    "longitude": 9.3783879
+  },
+  {
+    "street": "Via Ettore Monti",
+    "number": "39",
+    "city": {
+      "name": "Galbiate",
+      "istat": "097036"
+    },
+    "latitude": 45.8457772,
+    "longitude": 9.3939501
+  },
+  {
+    "street": "Via Ettore Monti",
+    "number": "23",
+    "city": {
+      "name": "Galbiate",
+      "istat": "097036"
+    },
+    "latitude": 45.844992,
+    "longitude": 9.3941803
+  },
+  {
+    "street": "Via Lecco",
+    "number": "61",
+    "city": {
+      "name": "Galbiate",
+      "istat": "097036"
+    },
+    "latitude": 45.8183379,
+    "longitude": 9.3835737
+  },
+  {
+    "street": "Via Lecco",
+    "number": "37",
+    "city": {
+      "name": "Galbiate",
+      "istat": "097036"
+    },
+    "latitude": 45.8177415,
+    "longitude": 9.381514
+  },
+  {
+    "street": "Largo indipendenza",
+    "number": "2",
+    "city": {
+      "name": "Galbiate",
+      "istat": "097036"
+    },
+    "latitude": 45.8168045,
+    "longitude": 9.3760867
+  },
+  {
+    "street": "Via Ettore Monti",
+    "number": "8",
+    "city": {
+      "name": "Galbiate",
+      "istat": "097036"
+    },
+    "latitude": 45.8459369,
+    "longitude": 9.3940558
+  },
+  {
+    "street": "Via Camporeso",
+    "number": "7",
+    "city": {
+      "name": "Galbiate",
+      "istat": "097036"
+    },
+    "latitude": 45.8254917,
+    "longitude": 9.3684707
+  },
+  {
+    "street": "Via Lecco",
+    "number": "63",
+    "city": {
+      "name": "Galbiate",
+      "istat": "097036"
+    },
+    "latitude": 45.81839,
+    "longitude": 9.3841267
+  },
+  {
+    "street": "Via Lecco",
+    "number": "59",
+    "city": {
+      "name": "Galbiate",
+      "istat": "097036"
+    },
+    "latitude": 45.818461,
+    "longitude": 9.3834025
+  },
+  {
+    "street": "Via Lecco",
+    "number": "57",
+    "city": {
+      "name": "Galbiate",
+      "istat": "097036"
+    },
+    "latitude": 45.8186741,
+    "longitude": 9.3832576
+  },
+  {
+    "street": "Via Lecco",
+    "number": "55",
+    "city": {
+      "name": "Galbiate",
+      "istat": "097036"
+    },
+    "latitude": 45.8186498,
+    "longitude": 9.3831798
+  },
+  {
+    "street": "Via Lecco",
+    "number": "45a",
+    "city": {
+      "name": "Galbiate",
+      "istat": "097036"
+    },
+    "latitude": 45.8183171,
+    "longitude": 9.3828499
+  },
+  {
+    "street": "Via Lecco",
+    "number": "47",
+    "city": {
+      "name": "Galbiate",
+      "istat": "097036"
+    },
+    "latitude": 45.8183918,
+    "longitude": 9.3829411
+  },
+  {
+    "street": "Via Lecco",
+    "number": "49",
+    "city": {
+      "name": "Galbiate",
+      "istat": "097036"
+    },
+    "latitude": 45.8182535,
+    "longitude": 9.3830001
+  },
+  {
+    "street": "Via Lecco",
+    "number": "51",
+    "city": {
+      "name": "Galbiate",
+      "istat": "097036"
+    },
+    "latitude": 45.8180479,
+    "longitude": 9.3830913
+  },
+  {
+    "street": "Via Lecco",
+    "number": "53",
+    "city": {
+      "name": "Galbiate",
+      "istat": "097036"
+    },
+    "latitude": 45.8180479,
+    "longitude": 9.3835232
+  },
+  {
+    "street": "Via Lecco",
+    "number": "74",
+    "city": {
+      "name": "Galbiate",
+      "istat": "097036"
+    },
+    "latitude": 45.8178422,
+    "longitude": 9.3833274
+  },
+  {
+    "street": "Via Lecco",
+    "number": "72",
+    "city": {
+      "name": "Galbiate",
+      "istat": "097036"
+    },
+    "latitude": 45.8178011,
+    "longitude": 9.3831503
+  },
+  {
+    "street": "Via Lecco",
+    "number": "70",
+    "city": {
+      "name": "Galbiate",
+      "istat": "097036"
+    },
+    "latitude": 45.8177581,
+    "longitude": 9.3829948
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "3a",
+    "city": {
+      "name": "Galbiate",
+      "istat": "097036"
+    },
+    "latitude": 45.817991,
+    "longitude": 9.384897
+  },
+  {
+    "street": "Via Lecco",
+    "number": "3",
+    "city": {
+      "name": "Galbiate",
+      "istat": "097036"
+    },
+    "latitude": 45.8199916,
+    "longitude": 9.3933304
+  },
+  {
+    "street": "Piazza Don G. Zucca",
+    "number": "7",
+    "city": {
+      "name": "Galbiate",
+      "istat": "097036"
+    },
+    "latitude": 45.8057018,
+    "longitude": 9.3749467
+  },
+  {
+    "street": "Via Ettore Monti",
+    "number": "3/5",
+    "city": {
+      "name": "Galbiate",
+      "istat": "097036"
+    },
+    "latitude": 45.8440966,
+    "longitude": 9.3958173
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "29",
+    "city": {
+      "name": "Galbiate",
+      "istat": "097036"
+    },
+    "latitude": 45.8150522,
+    "longitude": 9.3776381
+  },
+  {
+    "street": "Viale Rimembranze",
+    "number": "4",
+    "city": {
+      "name": "Galbiate",
+      "istat": "097036"
+    },
+    "latitude": 45.8219979,
+    "longitude": 9.3602838
+  },
+  {
+    "street": "Via Lecco",
+    "number": "18",
+    "city": {
+      "name": "Galbiate",
+      "istat": "097036"
+    },
+    "latitude": 45.8169194,
+    "longitude": 9.3793301
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "4",
+    "city": {
+      "name": "Galbiate",
+      "istat": "097036"
+    },
+    "latitude": 45.8168203,
+    "longitude": 9.3774456
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "25",
+    "city": {
+      "name": "Galbiate",
+      "istat": "097036"
+    },
+    "latitude": 45.8152711,
+    "longitude": 9.3775905
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "37",
+    "city": {
+      "name": "Galbiate",
+      "istat": "097036"
+    },
+    "latitude": 45.8141074,
+    "longitude": 9.3778494
+  },
+  {
+    "street": "Via Bergamo",
+    "number": "15",
+    "city": {
+      "name": "Galbiate",
+      "istat": "097036"
+    },
+    "latitude": 45.8133622,
+    "longitude": 9.3802238
+  },
+  {
+    "street": "Via Largo Indipendenza",
+    "number": "16",
+    "city": {
+      "name": "Galbiate",
+      "istat": "097036"
+    },
+    "latitude": 45.8165944,
+    "longitude": 9.3751635
+  },
+  {
+    "street": "Via Unità d'Italia",
+    "number": "9",
+    "city": {
+      "name": "Galbiate",
+      "istat": "097036"
+    },
+    "latitude": 45.8193567,
+    "longitude": 9.3763637
+  },
+  {
+    "street": "Via Emilio Alessandrini",
+    "number": "1",
+    "city": {
+      "name": "Galbiate",
+      "istat": "097036"
+    },
+    "latitude": 45.8141822,
+    "longitude": 9.3760213
+  },
+  {
+    "street": "Via Lecco",
+    "number": "1",
+    "city": {
+      "name": "Galbiate",
+      "istat": "097036"
+    },
+    "latitude": 45.816952,
+    "longitude": 9.3782756
+  },
+  {
+    "street": "Via San Giuseppe",
+    "number": "4",
+    "city": {
+      "name": "Galbiate",
+      "istat": "097036"
+    },
+    "latitude": 45.8134035,
+    "longitude": 9.3733239
+  },
+  {
+    "street": "Via Don Giovanni Minzoni",
+    "number": "1",
+    "city": {
+      "name": "Galbiate",
+      "istat": "097036"
+    },
+    "latitude": 45.792736,
+    "longitude": 9.3758709
+  },
+  {
+    "street": "Via Mozzana",
+    "number": "1",
+    "city": {
+      "name": "Galbiate",
+      "istat": "097036"
+    },
+    "latitude": 45.8063876,
+    "longitude": 9.3765092
+  },
+  {
+    "street": "Via Unità d'Italia",
+    "number": "7",
+    "city": {
+      "name": "Galbiate",
+      "istat": "097036"
+    },
+    "latitude": 45.8189825,
+    "longitude": 9.3757957
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "17",
+    "city": {
+      "name": "Galbiate",
+      "istat": "097036"
+    },
+    "latitude": 45.8168926,
+    "longitude": 9.3736366
+  }
+]

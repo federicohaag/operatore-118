@@ -1,0 +1,272 @@
+[
+  {
+    "street": "Via Osteno",
+    "number": "1",
+    "city": {
+      "name": "Porlezza",
+      "istat": "013189"
+    },
+    "latitude": 46.0368341,
+    "longitude": 9.1261135
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "31",
+    "city": {
+      "name": "Porlezza",
+      "istat": "013189"
+    },
+    "latitude": 46.036657,
+    "longitude": 9.1180409
+  },
+  {
+    "street": "Via Avanzone",
+    "number": "5",
+    "city": {
+      "name": "Porlezza",
+      "istat": "013189"
+    },
+    "latitude": 46.0372601,
+    "longitude": 9.1193411
+  },
+  {
+    "street": "Via Prati",
+    "number": "50",
+    "city": {
+      "name": "Porlezza",
+      "istat": "013189"
+    },
+    "latitude": 46.03316,
+    "longitude": 9.1225321
+  },
+  {
+    "street": "Lungo Lago Matteotti",
+    "number": "15",
+    "city": {
+      "name": "Porlezza",
+      "istat": "013189"
+    },
+    "latitude": 46.0349612,
+    "longitude": 9.1183125
+  },
+  {
+    "street": "Via Ceresio",
+    "number": "54/b",
+    "city": {
+      "name": "Porlezza",
+      "istat": "013189"
+    },
+    "latitude": 46.03981,
+    "longitude": 9.1374
+  },
+  {
+    "street": "Via al Portico",
+    "number": "3",
+    "city": {
+      "name": "Porlezza",
+      "istat": "013189"
+    },
+    "latitude": 46.0412379,
+    "longitude": 9.1267079
+  },
+  {
+    "street": "via Köln",
+    "number": "8",
+    "city": {
+      "name": "Porlezza",
+      "istat": "013189"
+    },
+    "latitude": 46.0295944,
+    "longitude": 9.1243826
+  },
+  {
+    "street": "Via Osteno",
+    "number": "2",
+    "city": {
+      "name": "Porlezza",
+      "istat": "013189"
+    },
+    "latitude": 46.0371731,
+    "longitude": 9.1253605
+  },
+  {
+    "street": "Via Prati",
+    "number": "9",
+    "city": {
+      "name": "Porlezza",
+      "istat": "013189"
+    },
+    "latitude": 46.0353302,
+    "longitude": 9.1204051
+  },
+  {
+    "street": "Via Emilinana Tencalla",
+    "number": "7",
+    "city": {
+      "name": "Porlezza",
+      "istat": "013189"
+    },
+    "latitude": 46.0371454,
+    "longitude": 9.122429
+  },
+  {
+    "street": "Via Carlo Vanetti",
+    "number": "16",
+    "city": {
+      "name": "Porlezza",
+      "istat": "013189"
+    },
+    "latitude": 46.0381972,
+    "longitude": 9.1247717
+  },
+  {
+    "street": "Via Osteno",
+    "number": "30",
+    "city": {
+      "name": "Porlezza",
+      "istat": "013189"
+    },
+    "latitude": 46.0289599,
+    "longitude": 9.1293171
+  },
+  {
+    "street": "Via Ferrovia",
+    "number": "10",
+    "city": {
+      "name": "Porlezza",
+      "istat": "013189"
+    },
+    "latitude": 46.0364893,
+    "longitude": 9.1303699
+  },
+  {
+    "street": "localita cini 44 22018",
+    "number": "44",
+    "city": {
+      "name": "Porlezza",
+      "istat": "013189"
+    },
+    "latitude": 46.0314716,
+    "longitude": 9.1042466
+  },
+  {
+    "street": "Via Porto Letizia",
+    "number": "1",
+    "city": {
+      "name": "Porlezza",
+      "istat": "013189"
+    },
+    "latitude": 46.0356206,
+    "longitude": 9.1138501
+  },
+  {
+    "street": "Via Porto Letizia",
+    "number": "3A",
+    "city": {
+      "name": "Porlezza",
+      "istat": "013189"
+    },
+    "latitude": 46.0344432,
+    "longitude": 9.110747
+  },
+  {
+    "street": "Via Porto Letizia",
+    "number": "3",
+    "city": {
+      "name": "Porlezza",
+      "istat": "013189"
+    },
+    "latitude": 46.0342632,
+    "longitude": 9.110474
+  },
+  {
+    "street": "Via Osteno",
+    "number": "16",
+    "city": {
+      "name": "Porlezza",
+      "istat": "013189"
+    },
+    "latitude": 46.0351012,
+    "longitude": 9.1267679
+  },
+  {
+    "street": "Via Ghiacciaia",
+    "number": "7",
+    "city": {
+      "name": "Porlezza",
+      "istat": "013189"
+    },
+    "latitude": 46.0363044,
+    "longitude": 9.1245741
+  },
+  {
+    "street": "Via Ceresio",
+    "number": "51",
+    "city": {
+      "name": "Porlezza",
+      "istat": "013189"
+    },
+    "latitude": 46.0398251,
+    "longitude": 9.1347119
+  },
+  {
+    "street": "Via Minetti",
+    "number": "7",
+    "city": {
+      "name": "Porlezza",
+      "istat": "013189"
+    },
+    "latitude": 46.0358963,
+    "longitude": 9.1361339
+  },
+  {
+    "street": "Via Cuccio",
+    "number": "1",
+    "city": {
+      "name": "Porlezza",
+      "istat": "013189"
+    },
+    "latitude": 46.0337297,
+    "longitude": 9.128559
+  },
+  {
+    "street": "Via Osteno",
+    "number": "29",
+    "city": {
+      "name": "Porlezza",
+      "istat": "013189"
+    },
+    "latitude": 46.0250198,
+    "longitude": 9.1268897
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "11",
+    "city": {
+      "name": "Porlezza",
+      "istat": "013189"
+    },
+    "latitude": 46.0363815,
+    "longitude": 9.1175945
+  },
+  {
+    "street": "Via Osteno",
+    "number": "4",
+    "city": {
+      "name": "Porlezza",
+      "istat": "013189"
+    },
+    "latitude": 46.0369152,
+    "longitude": 9.125484
+  },
+  {
+    "street": "Via per Osteno",
+    "number": "46",
+    "city": {
+      "name": "Porlezza",
+      "istat": "013189"
+    },
+    "latitude": 46.0279775,
+    "longitude": 9.128682
+  }
+]

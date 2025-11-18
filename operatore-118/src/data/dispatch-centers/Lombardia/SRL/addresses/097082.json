@@ -1,0 +1,32 @@
+[
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "15",
+    "city": {
+      "name": "Valgreghentino",
+      "istat": "097082"
+    },
+    "latitude": 45.7690992,
+    "longitude": 9.4125352
+  },
+  {
+    "street": "Via Fratelli Kennedy",
+    "number": "30",
+    "city": {
+      "name": "Valgreghentino",
+      "istat": "097082"
+    },
+    "latitude": 45.7742972,
+    "longitude": 9.4108202
+  },
+  {
+    "street": "Via Luigi Tavola",
+    "number": "6",
+    "city": {
+      "name": "Valgreghentino",
+      "istat": "097082"
+    },
+    "latitude": 45.7831004,
+    "longitude": 9.4154107
+  }
+]

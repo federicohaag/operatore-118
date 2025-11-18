@@ -1,0 +1,152 @@
+[
+  {
+    "street": "Via Montemezzo",
+    "number": "30",
+    "city": {
+      "name": "Gera Lario",
+      "istat": "013107"
+    },
+    "latitude": 46.1722472,
+    "longitude": 9.3694175
+  },
+  {
+    "street": "Via Aquaforte",
+    "number": "2",
+    "city": {
+      "name": "Gera Lario",
+      "istat": "013107"
+    },
+    "latitude": 46.1693479,
+    "longitude": 9.3649797
+  },
+  {
+    "street": "Via Statale Regina",
+    "number": "85",
+    "city": {
+      "name": "Gera Lario",
+      "istat": "013107"
+    },
+    "latitude": 46.1687762,
+    "longitude": 9.3697605
+  },
+  {
+    "street": "Piazza Risorgimento",
+    "number": "1",
+    "city": {
+      "name": "Gera Lario",
+      "istat": "013107"
+    },
+    "latitude": 46.1694041,
+    "longitude": 9.3717649
+  },
+  {
+    "street": "Via Statale Regina",
+    "number": "18",
+    "city": {
+      "name": "Gera Lario",
+      "istat": "013107"
+    },
+    "latitude": 46.1702876,
+    "longitude": 9.3712104
+  },
+  {
+    "street": "Via Vecchia Regina",
+    "number": "13",
+    "city": {
+      "name": "Gera Lario",
+      "istat": "013107"
+    },
+    "latitude": 46.1705235,
+    "longitude": 9.3708858
+  },
+  {
+    "street": "Via Vecchia Regina",
+    "number": "53",
+    "city": {
+      "name": "Gera Lario",
+      "istat": "013107"
+    },
+    "latitude": 46.1697446,
+    "longitude": 9.3684369
+  },
+  {
+    "street": "Via Vecchia Regina",
+    "number": "50",
+    "city": {
+      "name": "Gera Lario",
+      "istat": "013107"
+    },
+    "latitude": 46.1699288,
+    "longitude": 9.3684201
+  },
+  {
+    "street": "Via Vecchia Regina",
+    "number": "2",
+    "city": {
+      "name": "Gera Lario",
+      "istat": "013107"
+    },
+    "latitude": 46.1709474,
+    "longitude": 9.3710771
+  },
+  {
+    "street": "Località Pian di Spagna",
+    "number": "1",
+    "city": {
+      "name": "Gera Lario",
+      "istat": "013107"
+    },
+    "latitude": 46.1553297,
+    "longitude": 9.4082976
+  },
+  {
+    "street": "Via dei Tre Confini",
+    "number": "5",
+    "city": {
+      "name": "Gera Lario",
+      "istat": "013107"
+    },
+    "latitude": 46.1409763,
+    "longitude": 9.4151323
+  },
+  {
+    "street": "Via La Rosa",
+    "number": "354",
+    "city": {
+      "name": "Gera Lario",
+      "istat": "013107"
+    },
+    "latitude": 46.1412472,
+    "longitude": 9.4158874
+  },
+  {
+    "street": "Via Olonio Antica",
+    "number": "3",
+    "city": {
+      "name": "Gera Lario",
+      "istat": "013107"
+    },
+    "latitude": 46.1684169,
+    "longitude": 9.4052119
+  },
+  {
+    "street": "Via Franzoso",
+    "number": "2",
+    "city": {
+      "name": "Gera Lario",
+      "istat": "013107"
+    },
+    "latitude": 46.1704591,
+    "longitude": 9.3711587
+  },
+  {
+    "street": "Via Cinque Case",
+    "number": "107",
+    "city": {
+      "name": "Gera Lario",
+      "istat": "013107"
+    },
+    "latitude": 46.1663535,
+    "longitude": 9.3528435
+  }
+]

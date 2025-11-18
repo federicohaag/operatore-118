@@ -1,0 +1,362 @@
+[
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "2",
+    "city": {
+      "name": "Lonate Pozzolo",
+      "istat": "012090"
+    },
+    "latitude": 45.5829738,
+    "longitude": 8.7092386
+  },
+  {
+    "street": "Piazza privata Parravicino",
+    "number": "1",
+    "city": {
+      "name": "Lonate Pozzolo",
+      "istat": "012090"
+    },
+    "latitude": 45.5830934,
+    "longitude": 8.7082804
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "3",
+    "city": {
+      "name": "Lonate Pozzolo",
+      "istat": "012090"
+    },
+    "latitude": 45.5984348,
+    "longitude": 8.7559022
+  },
+  {
+    "street": "Via Francia",
+    "number": "12",
+    "city": {
+      "name": "Lonate Pozzolo",
+      "istat": "012090"
+    },
+    "latitude": 45.5883093,
+    "longitude": 8.7433191
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "21",
+    "city": {
+      "name": "Lonate Pozzolo",
+      "istat": "012090"
+    },
+    "latitude": 45.6003208,
+    "longitude": 8.7519076
+  },
+  {
+    "street": "Via Novara",
+    "number": "5",
+    "city": {
+      "name": "Lonate Pozzolo",
+      "istat": "012090"
+    },
+    "latitude": 45.5966783,
+    "longitude": 8.7527641
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "32",
+    "city": {
+      "name": "Lonate Pozzolo",
+      "istat": "012090"
+    },
+    "latitude": 45.5973889,
+    "longitude": 8.7507258
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "18",
+    "city": {
+      "name": "Lonate Pozzolo",
+      "istat": "012090"
+    },
+    "latitude": 45.5836802,
+    "longitude": 8.7093619
+  },
+  {
+    "street": "Via Luigi Pirandello",
+    "number": "34",
+    "city": {
+      "name": "Lonate Pozzolo",
+      "istat": "012090"
+    },
+    "latitude": 45.5823408,
+    "longitude": 8.7158993
+  },
+  {
+    "street": "Via del Gregge",
+    "number": "27",
+    "city": {
+      "name": "Lonate Pozzolo",
+      "istat": "012090"
+    },
+    "latitude": 45.5830382,
+    "longitude": 8.7166643
+  },
+  {
+    "street": "Via Giovanni Verga",
+    "number": "6",
+    "city": {
+      "name": "Lonate Pozzolo",
+      "istat": "012090"
+    },
+    "latitude": 45.5823427,
+    "longitude": 8.7095645
+  },
+  {
+    "street": "Via Giovanni Verga",
+    "number": "5",
+    "city": {
+      "name": "Lonate Pozzolo",
+      "istat": "012090"
+    },
+    "latitude": 45.5819325,
+    "longitude": 8.7095833
+  },
+  {
+    "street": "Via Ventiquattro Maggio",
+    "number": "201",
+    "city": {
+      "name": "Lonate Pozzolo",
+      "istat": "012090"
+    },
+    "latitude": 45.5736916,
+    "longitude": 8.7393668
+  },
+  {
+    "street": "Via Lungarno",
+    "number": "65",
+    "city": {
+      "name": "Lonate Pozzolo",
+      "istat": "012090"
+    },
+    "latitude": 45.6010136,
+    "longitude": 8.7710708
+  },
+  {
+    "street": "Via Padre Luigi Rosa",
+    "number": "44",
+    "city": {
+      "name": "Lonate Pozzolo",
+      "istat": "012090"
+    },
+    "latitude": 45.5964361,
+    "longitude": 8.7662879
+  },
+  {
+    "street": "Via Padre Luigi Rosa",
+    "number": "42",
+    "city": {
+      "name": "Lonate Pozzolo",
+      "istat": "012090"
+    },
+    "latitude": 45.5968096,
+    "longitude": 8.7664595
+  },
+  {
+    "street": "Via Padre Luigi Rosa",
+    "number": "40",
+    "city": {
+      "name": "Lonate Pozzolo",
+      "istat": "012090"
+    },
+    "latitude": 45.5968434,
+    "longitude": 8.7659419
+  },
+  {
+    "street": "Via Europa",
+    "number": "66",
+    "city": {
+      "name": "Lonate Pozzolo",
+      "istat": "012090"
+    },
+    "latitude": 45.5902341,
+    "longitude": 8.7413368
+  },
+  {
+    "street": "Via Europa",
+    "number": "74",
+    "city": {
+      "name": "Lonate Pozzolo",
+      "istat": "012090"
+    },
+    "latitude": 45.5901137,
+    "longitude": 8.7405963
+  },
+  {
+    "street": "Via Europa",
+    "number": "80",
+    "city": {
+      "name": "Lonate Pozzolo",
+      "istat": "012090"
+    },
+    "latitude": 45.5900114,
+    "longitude": 8.7402358
+  },
+  {
+    "street": "Via Europa",
+    "number": "79",
+    "city": {
+      "name": "Lonate Pozzolo",
+      "istat": "012090"
+    },
+    "latitude": 45.5903455,
+    "longitude": 8.7397291
+  },
+  {
+    "street": "Via Europa",
+    "number": "90",
+    "city": {
+      "name": "Lonate Pozzolo",
+      "istat": "012090"
+    },
+    "latitude": 45.5892374,
+    "longitude": 8.7367527
+  },
+  {
+    "street": "Via del gregge",
+    "number": "100",
+    "city": {
+      "name": "Lonate Pozzolo",
+      "istat": "012090"
+    },
+    "latitude": 45.5961605,
+    "longitude": 8.7107584
+  },
+  {
+    "street": "Via del Gregge",
+    "number": "100",
+    "city": {
+      "name": "Lonate Pozzolo",
+      "istat": "012090"
+    },
+    "latitude": 45.5955516,
+    "longitude": 8.7122838
+  },
+  {
+    "street": "Via Giovanni XXIII",
+    "number": "59",
+    "city": {
+      "name": "Lonate Pozzolo",
+      "istat": "012090"
+    },
+    "latitude": 45.5987737,
+    "longitude": 8.760219
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "1",
+    "city": {
+      "name": "Lonate Pozzolo",
+      "istat": "012090"
+    },
+    "latitude": 45.5941784,
+    "longitude": 8.7565698
+  },
+  {
+    "street": "Via Giovanni Verga",
+    "number": "1",
+    "city": {
+      "name": "Lonate Pozzolo",
+      "istat": "012090"
+    },
+    "latitude": 45.5826712,
+    "longitude": 8.7090913
+  },
+  {
+    "street": "Via Sant'Anna",
+    "number": "25",
+    "city": {
+      "name": "Lonate Pozzolo",
+      "istat": "012090"
+    },
+    "latitude": 45.5835276,
+    "longitude": 8.7226603
+  },
+  {
+    "street": "Via Luigi Pirandello",
+    "number": "16",
+    "city": {
+      "name": "Lonate Pozzolo",
+      "istat": "012090"
+    },
+    "latitude": 45.5823197,
+    "longitude": 8.712538
+  },
+  {
+    "street": "Via Adamello",
+    "number": "1",
+    "city": {
+      "name": "Lonate Pozzolo",
+      "istat": "012090"
+    },
+    "latitude": 45.5858817,
+    "longitude": 8.7573652
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "4",
+    "city": {
+      "name": "Lonate Pozzolo",
+      "istat": "012090"
+    },
+    "latitude": 45.6003432,
+    "longitude": 8.750165
+  },
+  {
+    "street": "Viale Ticino",
+    "number": "85",
+    "city": {
+      "name": "Lonate Pozzolo",
+      "istat": "012090"
+    },
+    "latitude": 45.5924448,
+    "longitude": 8.749411
+  },
+  {
+    "street": "Via Gelada",
+    "number": "15",
+    "city": {
+      "name": "Lonate Pozzolo",
+      "istat": "012090"
+    },
+    "latitude": 45.5953667,
+    "longitude": 8.7769934
+  },
+  {
+    "street": "Via Monte Bianco",
+    "number": "5",
+    "city": {
+      "name": "Lonate Pozzolo",
+      "istat": "012090"
+    },
+    "latitude": 45.5822728,
+    "longitude": 8.75697
+  },
+  {
+    "street": "Via del gregge",
+    "number": "220",
+    "city": {
+      "name": "Lonate Pozzolo",
+      "istat": "012090"
+    },
+    "latitude": 45.6140734,
+    "longitude": 8.7068464
+  },
+  {
+    "street": "Via del gregge",
+    "number": "113",
+    "city": {
+      "name": "Lonate Pozzolo",
+      "istat": "012090"
+    },
+    "latitude": 45.5987583,
+    "longitude": 8.7112215
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "29",
+    "city": {
+      "name": "Bisuschio",
+      "istat": "012015"
+    },
+    "latitude": 45.872094,
+    "longitude": 8.8700927
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "22",
+    "city": {
+      "name": "Bisuschio",
+      "istat": "012015"
+    },
+    "latitude": 45.8747342,
+    "longitude": 8.8726259
+  },
+  {
+    "street": "Via Roma",
+    "number": "57",
+    "city": {
+      "name": "Bisuschio",
+      "istat": "012015"
+    },
+    "latitude": 45.8741197,
+    "longitude": 8.8839663
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "100",
+    "city": {
+      "name": "Bisuschio",
+      "istat": "012015"
+    },
+    "latitude": 45.8832612,
+    "longitude": 8.8796175
+  },
+  {
+    "street": "Via Arturo Toscanini",
+    "number": "32",
+    "city": {
+      "name": "Bisuschio",
+      "istat": "012015"
+    },
+    "latitude": 45.8710818,
+    "longitude": 8.8873118
+  },
+  {
+    "street": "Via Arturo Toscanini",
+    "number": "30",
+    "city": {
+      "name": "Bisuschio",
+      "istat": "012015"
+    },
+    "latitude": 45.8712032,
+    "longitude": 8.8873011
+  },
+  {
+    "street": "Via Arturo Toscanini",
+    "number": "28",
+    "city": {
+      "name": "Bisuschio",
+      "istat": "012015"
+    },
+    "latitude": 45.8713302,
+    "longitude": 8.8872796
+  },
+  {
+    "street": "Via Arturo Toscanini",
+    "number": "26",
+    "city": {
+      "name": "Bisuschio",
+      "istat": "012015"
+    },
+    "latitude": 45.871122,
+    "longitude": 8.8876752
+  },
+  {
+    "street": "Via Arturo Toscanini",
+    "number": "24 bis",
+    "city": {
+      "name": "Bisuschio",
+      "istat": "012015"
+    },
+    "latitude": 45.8717149,
+    "longitude": 8.8871992
+  },
+  {
+    "street": "Via Arturo Toscanini",
+    "number": "24",
+    "city": {
+      "name": "Bisuschio",
+      "istat": "012015"
+    },
+    "latitude": 45.8717579,
+    "longitude": 8.887167
+  },
+  {
+    "street": "Via Arturo Toscanini",
+    "number": "22",
+    "city": {
+      "name": "Bisuschio",
+      "istat": "012015"
+    },
+    "latitude": 45.8718251,
+    "longitude": 8.8871589
+  },
+  {
+    "street": "Via Arturo Toscanini",
+    "number": "20",
+    "city": {
+      "name": "Bisuschio",
+      "istat": "012015"
+    },
+    "latitude": 45.8718587,
+    "longitude": 8.8871402
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "14",
+    "city": {
+      "name": "Bisuschio",
+      "istat": "012015"
+    },
+    "latitude": 45.8736582,
+    "longitude": 8.870457
+  },
+  {
+    "street": "Viale Cicogna",
+    "number": "8",
+    "city": {
+      "name": "Bisuschio",
+      "istat": "012015"
+    },
+    "latitude": 45.8759903,
+    "longitude": 8.8702962
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "16",
+    "city": {
+      "name": "Bisuschio",
+      "istat": "012015"
+    },
+    "latitude": 45.8733716,
+    "longitude": 8.870477
+  },
+  {
+    "street": "Via degli Alpini",
+    "number": "1",
+    "city": {
+      "name": "Bisuschio",
+      "istat": "012015"
+    },
+    "latitude": 45.8778614,
+    "longitude": 8.8727328
+  }
+]

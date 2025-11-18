@@ -1,0 +1,5282 @@
+[
+  {
+    "street": "Via Friuli",
+    "number": "53",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6314929,
+    "longitude": 9.1298921
+  },
+  {
+    "street": "Via Monte Resegone",
+    "number": "67/69",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6253774,
+    "longitude": 9.1673828
+  },
+  {
+    "street": "Via Sardegna",
+    "number": "8",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6349348,
+    "longitude": 9.1234305
+  },
+  {
+    "street": "Via Friuli",
+    "number": "41",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6315007,
+    "longitude": 9.1306467
+  },
+  {
+    "street": "Corso Europa",
+    "number": "12",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6281547,
+    "longitude": 9.1624944
+  },
+  {
+    "street": "Via Milano",
+    "number": "95",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6211964,
+    "longitude": 9.1504257
+  },
+  {
+    "street": "Via Sant'Antonio",
+    "number": "1",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6290153,
+    "longitude": 9.1468116
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "1",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6285264,
+    "longitude": 9.1464952
+  },
+  {
+    "street": "Via Torquato Tasso",
+    "number": "3",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6268109,
+    "longitude": 9.1425261
+  },
+  {
+    "street": "Piazza Arese",
+    "number": "22",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6275366,
+    "longitude": 9.1468833
+  },
+  {
+    "street": "Piazza Venticinque Aprile",
+    "number": "2",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6254779,
+    "longitude": 9.1457473
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "50",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.621267,
+    "longitude": 9.1369006
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "10",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6207259,
+    "longitude": 9.1511997
+  },
+  {
+    "street": "Via Padre Egidio Boga",
+    "number": "8",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6243533,
+    "longitude": 9.1402983
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "112",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6214392,
+    "longitude": 9.1671691
+  },
+  {
+    "street": "Via Sardegna",
+    "number": "20",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6360888,
+    "longitude": 9.1230123
+  },
+  {
+    "street": "Via Borromeo",
+    "number": "6",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6304531,
+    "longitude": 9.1456963
+  },
+  {
+    "street": "Via Don Luigi Viganò",
+    "number": "102/B",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6402054,
+    "longitude": 9.1900299
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "73",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6242849,
+    "longitude": 9.1364508
+  },
+  {
+    "street": "Via G. Marconato",
+    "number": "8",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6308459,
+    "longitude": 9.1106271
+  },
+  {
+    "street": "Via San Carlo Borromeo",
+    "number": "37a",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6312672,
+    "longitude": 9.1494936
+  },
+  {
+    "street": "Via San Carlo Borromeo",
+    "number": "33a",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6311486,
+    "longitude": 9.1482573
+  },
+  {
+    "street": "Via San Carlo Borromeo",
+    "number": "21a",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6310222,
+    "longitude": 9.1473075
+  },
+  {
+    "street": "Via San Carlo Borromeo",
+    "number": "19",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6310168,
+    "longitude": 9.1471665
+  },
+  {
+    "street": "Via San Carlo Borromeo",
+    "number": "17",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6310038,
+    "longitude": 9.1470482
+  },
+  {
+    "street": "Via San Carlo Borromeo",
+    "number": "9",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6309756,
+    "longitude": 9.1466566
+  },
+  {
+    "street": "Via San Carlo Borromeo",
+    "number": "5",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.630833,
+    "longitude": 9.1458469
+  },
+  {
+    "street": "Via Groane",
+    "number": "28",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6294401,
+    "longitude": 9.1166816
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "114",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6295954,
+    "longitude": 9.1619134
+  },
+  {
+    "street": "Corso Europa",
+    "number": "10",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6291377,
+    "longitude": 9.1620314
+  },
+  {
+    "street": "Via Santa Lucia",
+    "number": "2 C",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6227451,
+    "longitude": 9.1684687
+  },
+  {
+    "street": "Via delle Campiane",
+    "number": "8",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6181527,
+    "longitude": 9.1593277
+  },
+  {
+    "street": "Via delle Campiane",
+    "number": "12",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6179801,
+    "longitude": 9.1582977
+  },
+  {
+    "street": "Via delle Campiane",
+    "number": "14",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6179276,
+    "longitude": 9.1576218
+  },
+  {
+    "street": "Via Giuseppe Mariani",
+    "number": "22",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6343441,
+    "longitude": 9.1530147
+  },
+  {
+    "street": "Via Antonio Locatelli",
+    "number": "17",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6337487,
+    "longitude": 9.1497238
+  },
+  {
+    "street": "Via Novara",
+    "number": "60",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6335475,
+    "longitude": 9.1464598
+  },
+  {
+    "street": "Via Elisabetta Borromeo",
+    "number": "37",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6349877,
+    "longitude": 9.1526426
+  },
+  {
+    "street": "Via Novara",
+    "number": "8b",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6312034,
+    "longitude": 9.1464559
+  },
+  {
+    "street": "Via San Carlo Borromeo",
+    "number": "55",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6314842,
+    "longitude": 9.1518383
+  },
+  {
+    "street": "Via San Carlo Borromeo",
+    "number": "59",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6315101,
+    "longitude": 9.1521076
+  },
+  {
+    "street": "Via Giuseppe Ronzoni",
+    "number": "10",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6306978,
+    "longitude": 9.1454293
+  },
+  {
+    "street": "Piazza Ercole Procaccini",
+    "number": "5",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6296557,
+    "longitude": 9.1470789
+  },
+  {
+    "street": "Via San Carlo Borromeo",
+    "number": "45b",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6313327,
+    "longitude": 9.150627
+  },
+  {
+    "street": "Via San Carlo Borromeo",
+    "number": "48",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6310366,
+    "longitude": 9.1517231
+  },
+  {
+    "street": "Via della Liberazione",
+    "number": "6",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.634955,
+    "longitude": 9.1420185
+  },
+  {
+    "street": "Via Giuseppe Parini",
+    "number": "9",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6266111,
+    "longitude": 9.1420822
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "114",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6218314,
+    "longitude": 9.1674619
+  },
+  {
+    "street": "Via San Luigi",
+    "number": "15",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6222733,
+    "longitude": 9.1675841
+  },
+  {
+    "street": "Via Don Luigi Viganò",
+    "number": "4",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6384805,
+    "longitude": 9.1792944
+  },
+  {
+    "street": "Via Roberto Cozzi",
+    "number": "12",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6271816,
+    "longitude": 9.1473436
+  },
+  {
+    "street": "Via San Benedetto",
+    "number": "134",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6288497,
+    "longitude": 9.1648616
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "97",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6219099,
+    "longitude": 9.1637765
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "83",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6225739,
+    "longitude": 9.1360304
+  },
+  {
+    "street": "Corso della Libertà",
+    "number": "98",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6262828,
+    "longitude": 9.1372105
+  },
+  {
+    "street": "Corso Europa",
+    "number": "12b",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6280727,
+    "longitude": 9.1625946
+  },
+  {
+    "street": "Via Novara",
+    "number": "62",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6342237,
+    "longitude": 9.1462614
+  },
+  {
+    "street": "Via Sandro Pertini",
+    "number": "6",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6375427,
+    "longitude": 9.183583
+  },
+  {
+    "street": "Via San Carlo Borromeo",
+    "number": "39",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6314103,
+    "longitude": 9.1497107
+  },
+  {
+    "street": "Via Po",
+    "number": "45",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6357975,
+    "longitude": 9.1708863
+  },
+  {
+    "street": "Via Po",
+    "number": "37",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6360413,
+    "longitude": 9.1707476
+  },
+  {
+    "street": "Via Po",
+    "number": "41",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6358474,
+    "longitude": 9.1702888
+  },
+  {
+    "street": "Via Po",
+    "number": "39",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6360723,
+    "longitude": 9.170103
+  },
+  {
+    "street": "Via Privata Don Natale Remartini",
+    "number": "4",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6306729,
+    "longitude": 9.1471593
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "70",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6216895,
+    "longitude": 9.1457618
+  },
+  {
+    "street": "Via Monte Resegone",
+    "number": "64",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6250867,
+    "longitude": 9.1671091
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "152",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6223964,
+    "longitude": 9.1769353
+  },
+  {
+    "street": "Via Giuseppe Ronzoni",
+    "number": "8",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6307353,
+    "longitude": 9.144868
+  },
+  {
+    "street": "Via della Liberazione",
+    "number": "16",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6357445,
+    "longitude": 9.143608
+  },
+  {
+    "street": "Corso Roma",
+    "number": "144",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6172877,
+    "longitude": 9.1464895
+  },
+  {
+    "street": "Corso della Libertà",
+    "number": "76",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6266589,
+    "longitude": 9.1389084
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "26",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6340244,
+    "longitude": 9.1380581
+  },
+  {
+    "street": "Via Don Luigi Viganò",
+    "number": "17",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6398029,
+    "longitude": 9.1800051
+  },
+  {
+    "street": "Via Don Luigi Viganò",
+    "number": "23",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6398208,
+    "longitude": 9.1807454
+  },
+  {
+    "street": "Via Don Luigi Viganò",
+    "number": "63",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6401846,
+    "longitude": 9.1847928
+  },
+  {
+    "street": "Via Don Luigi Viganò",
+    "number": "74",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6399474,
+    "longitude": 9.1854519
+  },
+  {
+    "street": "Via Bernina",
+    "number": "2",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.629227,
+    "longitude": 9.1702442
+  },
+  {
+    "street": "Via San Marco",
+    "number": "18",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6293176,
+    "longitude": 9.1697588
+  },
+  {
+    "street": "Via Novara",
+    "number": "1",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6309499,
+    "longitude": 9.1463097
+  },
+  {
+    "street": "Via San Carlo Borromeo",
+    "number": "35",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6313334,
+    "longitude": 9.1486063
+  },
+  {
+    "street": "Via Friuli",
+    "number": "9",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6300952,
+    "longitude": 9.136245
+  },
+  {
+    "street": "Via Giovanni Donghi",
+    "number": "27",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6250142,
+    "longitude": 9.161218
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "6a",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6305479,
+    "longitude": 9.1407611
+  },
+  {
+    "street": "Corso Roma",
+    "number": "2",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6276762,
+    "longitude": 9.1441995
+  },
+  {
+    "street": "Corso della Libertà",
+    "number": "4",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6280519,
+    "longitude": 9.1452022
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "6",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6280073,
+    "longitude": 9.1482154
+  },
+  {
+    "street": "Piazza Monsignor Ambrogio Arrigoni",
+    "number": "2",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6281186,
+    "longitude": 9.1454798
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "2",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6279645,
+    "longitude": 9.1453393
+  },
+  {
+    "street": "Piazza Monsignor Ambrogio Arrigoni",
+    "number": "1",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6280977,
+    "longitude": 9.1453947
+  },
+  {
+    "street": "Corso della Libertà",
+    "number": "8",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6279727,
+    "longitude": 9.1448519
+  },
+  {
+    "street": "Corso della Libertà",
+    "number": "18",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6279316,
+    "longitude": 9.1446896
+  },
+  {
+    "street": "Corso della Libertà",
+    "number": "16",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6279034,
+    "longitude": 9.1445635
+  },
+  {
+    "street": "Corso della Libertà",
+    "number": "17",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6278012,
+    "longitude": 9.1445605
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "5",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6302474,
+    "longitude": 9.1462317
+  },
+  {
+    "street": "Via Borromeo",
+    "number": "16a",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6300936,
+    "longitude": 9.145942
+  },
+  {
+    "street": "Via Borromeo",
+    "number": "16c",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6300045,
+    "longitude": 9.1460158
+  },
+  {
+    "street": "Via Borromeo",
+    "number": "18",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6298864,
+    "longitude": 9.1461123
+  },
+  {
+    "street": "Corso della Libertà",
+    "number": "27",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6276069,
+    "longitude": 9.1436766
+  },
+  {
+    "street": "Corso della Libertà",
+    "number": "23",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6276644,
+    "longitude": 9.1439405
+  },
+  {
+    "street": "Corso della Libertà",
+    "number": "34",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6276947,
+    "longitude": 9.1435107
+  },
+  {
+    "street": "Corso della Libertà",
+    "number": "53",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.627335,
+    "longitude": 9.1425245
+  },
+  {
+    "street": "Corso della Libertà",
+    "number": "49",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6273941,
+    "longitude": 9.1427019
+  },
+  {
+    "street": "Corso della Libertà",
+    "number": "45",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6274353,
+    "longitude": 9.1428824
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "8",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6280406,
+    "longitude": 9.1483515
+  },
+  {
+    "street": "Corso della Libertà",
+    "number": "37",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6274832,
+    "longitude": 9.14311
+  },
+  {
+    "street": "Corso della Libertà",
+    "number": "5",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6278642,
+    "longitude": 9.1449909
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "10",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6280556,
+    "longitude": 9.1484173
+  },
+  {
+    "street": "Via Santa Eurosia",
+    "number": "33",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6239971,
+    "longitude": 9.1604064
+  },
+  {
+    "street": "Via Santa Eurosia",
+    "number": "29a",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6240478,
+    "longitude": 9.1607098
+  },
+  {
+    "street": "Via Enrico Fermi",
+    "number": "10",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6235954,
+    "longitude": 9.1604929
+  },
+  {
+    "street": "Via Claudio Monteverdi",
+    "number": "2",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6265403,
+    "longitude": 9.1409091
+  },
+  {
+    "street": "Via Toscana",
+    "number": "13",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6202191,
+    "longitude": 9.1332999
+  },
+  {
+    "street": "Via Giuseppe Parini",
+    "number": "5",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6269314,
+    "longitude": 9.1420802
+  },
+  {
+    "street": "Via Solferino",
+    "number": "30",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6272644,
+    "longitude": 9.1415473
+  },
+  {
+    "street": "Via Molino Arese",
+    "number": "17",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6315131,
+    "longitude": 9.1688781
+  },
+  {
+    "street": "Via Borromeo",
+    "number": "12",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6303936,
+    "longitude": 9.1457842
+  },
+  {
+    "street": "Via Basento",
+    "number": "1c",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6343452,
+    "longitude": 9.1759121
+  },
+  {
+    "street": "Via Brembo",
+    "number": "2",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6347503,
+    "longitude": 9.1790906
+  },
+  {
+    "street": "Via San Bernardo",
+    "number": "41",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6377735,
+    "longitude": 9.1818559
+  },
+  {
+    "street": "Via San Bernardo",
+    "number": "39",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6378241,
+    "longitude": 9.1818345
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "3",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6305054,
+    "longitude": 9.1419714
+  },
+  {
+    "street": "Via Sardegna",
+    "number": "16",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6358643,
+    "longitude": 9.1233784
+  },
+  {
+    "street": "Via Sardegna",
+    "number": "16a",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6358962,
+    "longitude": 9.1236573
+  },
+  {
+    "street": "Via Sardegna",
+    "number": "16b",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6359187,
+    "longitude": 9.1238397
+  },
+  {
+    "street": "Via Sardegna",
+    "number": "16c",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6359375,
+    "longitude": 9.1240382
+  },
+  {
+    "street": "Piazza Esedra",
+    "number": "2",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6282075,
+    "longitude": 9.1466667
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "77b",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6232544,
+    "longitude": 9.1364104
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "114",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6231411,
+    "longitude": 9.1357639
+  },
+  {
+    "street": "Via Borromeo",
+    "number": "18/B",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6299435,
+    "longitude": 9.1460602
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "77",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6235325,
+    "longitude": 9.1362983
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "12a",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6300509,
+    "longitude": 9.1470681
+  },
+  {
+    "street": "Via Ada Negri",
+    "number": "3",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6250185,
+    "longitude": 9.1483524
+  },
+  {
+    "street": "Via Torrazzo",
+    "number": "16",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6279502,
+    "longitude": 9.1472205
+  },
+  {
+    "street": "Piazza Arese",
+    "number": "2",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6278057,
+    "longitude": 9.1471019
+  },
+  {
+    "street": "Piazza Arese",
+    "number": "3",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6277382,
+    "longitude": 9.1471171
+  },
+  {
+    "street": "Piazza Monsignor Ambrogio Arrigoni",
+    "number": "6",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6283616,
+    "longitude": 9.1453902
+  },
+  {
+    "street": "Piazza Arese",
+    "number": "12",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.627068,
+    "longitude": 9.147802
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "3",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6285931,
+    "longitude": 9.1465707
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "5",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6286779,
+    "longitude": 9.1466489
+  },
+  {
+    "street": "Via Borromeo",
+    "number": "28",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6293893,
+    "longitude": 9.1465868
+  },
+  {
+    "street": "Via Borromeo",
+    "number": "29",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6295983,
+    "longitude": 9.1477818
+  },
+  {
+    "street": "Piazza Arese",
+    "number": "4",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6276587,
+    "longitude": 9.1471488
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "8",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6287924,
+    "longitude": 9.1470055
+  },
+  {
+    "street": "Via Borromeo",
+    "number": "50",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6286513,
+    "longitude": 9.1470567
+  },
+  {
+    "street": "Via Don Luigi Viganò",
+    "number": "93",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6404833,
+    "longitude": 9.1896657
+  },
+  {
+    "street": "Via Groane",
+    "number": "6",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6313433,
+    "longitude": 9.1181705
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "16",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6306307,
+    "longitude": 9.1388857
+  },
+  {
+    "street": "Via Friuli",
+    "number": "22",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.631797,
+    "longitude": 9.1308137
+  },
+  {
+    "street": "Via San Carlo Borromeo",
+    "number": "13",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.630977,
+    "longitude": 9.1468227
+  },
+  {
+    "street": "Via A. Martinelli",
+    "number": "54",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6316191,
+    "longitude": 9.110896
+  },
+  {
+    "street": "Via Giuseppe Ronzoni",
+    "number": "2",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6305478,
+    "longitude": 9.1432095
+  },
+  {
+    "street": "Via John Fitzgerald Kennedy",
+    "number": "1e",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6392788,
+    "longitude": 9.178688
+  },
+  {
+    "street": "Via Don Luigi Viganò",
+    "number": "29",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6398441,
+    "longitude": 9.1813725
+  },
+  {
+    "street": "Via Don Luigi Viganò",
+    "number": "102/A",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.640199,
+    "longitude": 9.1898053
+  },
+  {
+    "street": "Via Calabria",
+    "number": "24",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6182586,
+    "longitude": 9.1375726
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "46",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6311868,
+    "longitude": 9.1383719
+  },
+  {
+    "street": "Via Molino Arese",
+    "number": "66",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6308135,
+    "longitude": 9.173466
+  },
+  {
+    "street": "Via Don Luigi Viganò",
+    "number": "72",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.639902,
+    "longitude": 9.1851081
+  },
+  {
+    "street": "Via Giovanni de' Medici",
+    "number": "59 A",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6351261,
+    "longitude": 9.1627539
+  },
+  {
+    "street": "Via Lucania",
+    "number": "30",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6333019,
+    "longitude": 9.126361
+  },
+  {
+    "street": "Via Stelvio",
+    "number": "18",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6333806,
+    "longitude": 9.169091
+  },
+  {
+    "street": "Corso Europa",
+    "number": "20",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6269966,
+    "longitude": 9.1631114
+  },
+  {
+    "street": "Via San Carlo Borromeo",
+    "number": "3",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6312066,
+    "longitude": 9.1459659
+  },
+  {
+    "street": "Via Costantino",
+    "number": "6",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6194132,
+    "longitude": 9.1644767
+  },
+  {
+    "street": "Via Padre Egidio Boga",
+    "number": "6",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.624362,
+    "longitude": 9.1403971
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "6",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6305515,
+    "longitude": 9.1408545
+  },
+  {
+    "street": "Via Luigi Mercantini",
+    "number": "14",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6232396,
+    "longitude": 9.1521433
+  },
+  {
+    "street": "Via Quarto",
+    "number": "10c",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6289529,
+    "longitude": 9.154712
+  },
+  {
+    "street": "Via delle Campiane",
+    "number": "3",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.617623,
+    "longitude": 9.1599749
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "130",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6217475,
+    "longitude": 9.1741696
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "144g",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6200528,
+    "longitude": 9.1740262
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "134/140",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.621794,
+    "longitude": 9.174533
+  },
+  {
+    "street": "Via Molino Arese",
+    "number": "18",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6308385,
+    "longitude": 9.1688982
+  },
+  {
+    "street": "Via Molino Arese",
+    "number": "16",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.630743,
+    "longitude": 9.1686809
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "142",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6209398,
+    "longitude": 9.1754821
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "154",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6217112,
+    "longitude": 9.1770629
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "144l",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6206437,
+    "longitude": 9.1739292
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "150",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6224193,
+    "longitude": 9.1758372
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "144/E-F",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.620449,
+    "longitude": 9.1744753
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "144c",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6204716,
+    "longitude": 9.1747516
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "144",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6205001,
+    "longitude": 9.1751116
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "146h",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6209582,
+    "longitude": 9.1762731
+  },
+  {
+    "street": "Via delle Campiane",
+    "number": "1/1A",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6175293,
+    "longitude": 9.1607083
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "87",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6218198,
+    "longitude": 9.1628246
+  },
+  {
+    "street": "Via Costantino",
+    "number": "4",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6201299,
+    "longitude": 9.1630773
+  },
+  {
+    "street": "Via delle Campiane",
+    "number": "11",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.617416,
+    "longitude": 9.1585376
+  },
+  {
+    "street": "Via delle Campiane",
+    "number": "7",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6175047,
+    "longitude": 9.1591208
+  },
+  {
+    "street": "Via delle Campiane",
+    "number": "15",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6173531,
+    "longitude": 9.1580102
+  },
+  {
+    "street": "Via delle Campiane",
+    "number": "2",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6181958,
+    "longitude": 9.1605257
+  },
+  {
+    "street": "Via degli Artigiani",
+    "number": "12",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6336703,
+    "longitude": 9.1483361
+  },
+  {
+    "street": "Via delle Campiane",
+    "number": "9",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6174373,
+    "longitude": 9.1587106
+  },
+  {
+    "street": "Via delle Campiane",
+    "number": "12b",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6177683,
+    "longitude": 9.1580681
+  },
+  {
+    "street": "Corso Roma",
+    "number": "143",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6177074,
+    "longitude": 9.1466464
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "18",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6300987,
+    "longitude": 9.147362
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "16/18",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6300839,
+    "longitude": 9.1472491
+  },
+  {
+    "street": "Via San Carlo Borromeo",
+    "number": "46a",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6310555,
+    "longitude": 9.1516353
+  },
+  {
+    "street": "Via Giovanni de' Medici",
+    "number": "7",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6353172,
+    "longitude": 9.155406
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "81",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6333449,
+    "longitude": 9.1402727
+  },
+  {
+    "street": "Via Giovanni Virginio Schiapparelli",
+    "number": "2",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6328426,
+    "longitude": 9.1406034
+  },
+  {
+    "street": "Via Ludovico Necchi",
+    "number": "8",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6348854,
+    "longitude": 9.144083
+  },
+  {
+    "street": "Via dei Mille",
+    "number": "8",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6320715,
+    "longitude": 9.1595906
+  },
+  {
+    "street": "Via San Carlo Borromeo",
+    "number": "51",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6313956,
+    "longitude": 9.1512497
+  },
+  {
+    "street": "Via dei Mille",
+    "number": "18/20",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6330976,
+    "longitude": 9.1594506
+  },
+  {
+    "street": "Via San Carlo Borromeo",
+    "number": "131",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6318761,
+    "longitude": 9.1592883
+  },
+  {
+    "street": "Via Como",
+    "number": "69a",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6341349,
+    "longitude": 9.1425508
+  },
+  {
+    "street": "Via San Carlo Borromeo",
+    "number": "45c",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.631345,
+    "longitude": 9.1507489
+  },
+  {
+    "street": "Via San Carlo Borromeo",
+    "number": "91",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.632112,
+    "longitude": 9.1558123
+  },
+  {
+    "street": "Via San Carlo Borromeo",
+    "number": "121",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6318285,
+    "longitude": 9.1579409
+  },
+  {
+    "street": "Via San Carlo Borromeo",
+    "number": "88",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6315542,
+    "longitude": 9.1588166
+  },
+  {
+    "street": "Via Ludovico Necchi",
+    "number": "3c",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6344572,
+    "longitude": 9.1440285
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "13",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6303326,
+    "longitude": 9.1480264
+  },
+  {
+    "street": "Via Giovanni de' Medici",
+    "number": "8",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6344625,
+    "longitude": 9.1571684
+  },
+  {
+    "street": "Via Ludovico Necchi",
+    "number": "3",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6343313,
+    "longitude": 9.1440732
+  },
+  {
+    "street": "Via San Carlo Borromeo",
+    "number": "42",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6312352,
+    "longitude": 9.1507308
+  },
+  {
+    "street": "Via don Luigi Sturzo",
+    "number": "34",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6368279,
+    "longitude": 9.1541415
+  },
+  {
+    "street": "Via San Carlo Borromeo",
+    "number": "72",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6311916,
+    "longitude": 9.1560649
+  },
+  {
+    "street": "Via Como",
+    "number": "69",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6340508,
+    "longitude": 9.1426431
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "78",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6331224,
+    "longitude": 9.1408336
+  },
+  {
+    "street": "Via dei Mille",
+    "number": "16",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6327599,
+    "longitude": 9.1592233
+  },
+  {
+    "street": "Via San Carlo Borromeo",
+    "number": "101",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6316367,
+    "longitude": 9.1562604
+  },
+  {
+    "street": "Via della Liberazione",
+    "number": "14",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6356964,
+    "longitude": 9.1428219
+  },
+  {
+    "street": "Via Giovanni de' Medici",
+    "number": "9",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6350571,
+    "longitude": 9.1565665
+  },
+  {
+    "street": "Via San Carlo Borromeo",
+    "number": "85",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6316223,
+    "longitude": 9.1550023
+  },
+  {
+    "street": "Via San Carlo Borromeo",
+    "number": "45",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.631342,
+    "longitude": 9.1506925
+  },
+  {
+    "street": "Via San Carlo Borromeo",
+    "number": "22",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6308185,
+    "longitude": 9.1477333
+  },
+  {
+    "street": "Via Francesco Ferrucci",
+    "number": "18",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6355077,
+    "longitude": 9.1542598
+  },
+  {
+    "street": "Via Federico Ozanam",
+    "number": "11",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6340497,
+    "longitude": 9.1438517
+  },
+  {
+    "street": "Via Orsini",
+    "number": "34",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6362383,
+    "longitude": 9.1546941
+  },
+  {
+    "street": "Via San Carlo Borromeo",
+    "number": "109",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6316646,
+    "longitude": 9.1571692
+  },
+  {
+    "street": "Via Ludovico Necchi",
+    "number": "2",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6339943,
+    "longitude": 9.1443934
+  },
+  {
+    "street": "Via Sardegna",
+    "number": "24",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6363433,
+    "longitude": 9.1232225
+  },
+  {
+    "street": "Via Friuli",
+    "number": "22d",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6317899,
+    "longitude": 9.1307264
+  },
+  {
+    "street": "Via Marche",
+    "number": "14",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6344037,
+    "longitude": 9.1255454
+  },
+  {
+    "street": "Via Marche",
+    "number": "8",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6342138,
+    "longitude": 9.1253035
+  },
+  {
+    "street": "Via Friuli",
+    "number": "13",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6307724,
+    "longitude": 9.134747
+  },
+  {
+    "street": "Via Lucania",
+    "number": "47",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6332224,
+    "longitude": 9.1257692
+  },
+  {
+    "street": "Via Marche",
+    "number": "4",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6339602,
+    "longitude": 9.1250741
+  },
+  {
+    "street": "Via Lucania",
+    "number": "49",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6336802,
+    "longitude": 9.1251936
+  },
+  {
+    "street": "Via Julia",
+    "number": "1",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6315284,
+    "longitude": 9.1309785
+  },
+  {
+    "street": "Piazza Risorgimento",
+    "number": "52",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6331069,
+    "longitude": 9.1240229
+  },
+  {
+    "street": "Via Moncenisio",
+    "number": "19",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6327561,
+    "longitude": 9.1719569
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "32",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6329639,
+    "longitude": 9.1381541
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "28",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6335328,
+    "longitude": 9.1380722
+  },
+  {
+    "street": "Viale Indipendenza",
+    "number": "30",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6249438,
+    "longitude": 9.1557076
+  },
+  {
+    "street": "Via Niccolò Copernico",
+    "number": "13",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6317881,
+    "longitude": 9.139398
+  },
+  {
+    "street": "Via Niccolò Copernico",
+    "number": "19",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6317313,
+    "longitude": 9.1391308
+  },
+  {
+    "street": "Via Toscana",
+    "number": "2",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6171718,
+    "longitude": 9.1327952
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "33",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6324108,
+    "longitude": 9.1386184
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "29",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.633056,
+    "longitude": 9.1386605
+  },
+  {
+    "street": "Via Toscana",
+    "number": "4",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6171631,
+    "longitude": 9.133029
+  },
+  {
+    "street": "Via Toscana",
+    "number": "6",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6172024,
+    "longitude": 9.1329806
+  },
+  {
+    "street": "Via Toscana",
+    "number": "8",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6172269,
+    "longitude": 9.1327343
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "13",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6338305,
+    "longitude": 9.1384353
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "108",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6359644,
+    "longitude": 9.1385825
+  },
+  {
+    "street": "Via delle Campiane",
+    "number": "5a",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6176157,
+    "longitude": 9.1596507
+  },
+  {
+    "street": "Via delle Campiane",
+    "number": "13",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6174547,
+    "longitude": 9.1581657
+  },
+  {
+    "street": "Via delle Campiane",
+    "number": "10",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6178012,
+    "longitude": 9.1588016
+  },
+  {
+    "street": "Via delle Campiane",
+    "number": "6",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6179848,
+    "longitude": 9.1600901
+  },
+  {
+    "street": "Via delle Campiane",
+    "number": "4",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6180094,
+    "longitude": 9.1603371
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "31",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.632876,
+    "longitude": 9.1386511
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "15",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6336105,
+    "longitude": 9.1384642
+  },
+  {
+    "street": "Via Antonio Meucci",
+    "number": "5",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6164778,
+    "longitude": 9.1508462
+  },
+  {
+    "street": "Via Antonio Meucci",
+    "number": "7",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6166429,
+    "longitude": 9.1508147
+  },
+  {
+    "street": "Via Antonio Meucci",
+    "number": "14",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.616657,
+    "longitude": 9.1509099
+  },
+  {
+    "street": "Via Antonio Meucci",
+    "number": "12",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6164881,
+    "longitude": 9.1509864
+  },
+  {
+    "street": "Via Antonio Meucci",
+    "number": "3",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6163812,
+    "longitude": 9.1515812
+  },
+  {
+    "street": "Via Antonio Meucci",
+    "number": "4",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.616475,
+    "longitude": 9.1515107
+  },
+  {
+    "street": "Via Antonio Meucci",
+    "number": "1",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6164243,
+    "longitude": 9.15185
+  },
+  {
+    "street": "Via Antonio Meucci",
+    "number": "2",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6165242,
+    "longitude": 9.1518105
+  },
+  {
+    "street": "Via Gaetana Agnesi",
+    "number": "59",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6165303,
+    "longitude": 9.15219
+  },
+  {
+    "street": "Via Gaetana Agnesi",
+    "number": "61",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6162785,
+    "longitude": 9.1522551
+  },
+  {
+    "street": "Via Gaetana Agnesi",
+    "number": "63",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6161621,
+    "longitude": 9.1522946
+  },
+  {
+    "street": "Via Gaetana Agnesi",
+    "number": "71",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6156791,
+    "longitude": 9.1524623
+  },
+  {
+    "street": "Via Gaetana Agnesi",
+    "number": "40",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6166692,
+    "longitude": 9.151964
+  },
+  {
+    "street": "Via Gaetana Agnesi",
+    "number": "40a",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6167752,
+    "longitude": 9.1519298
+  },
+  {
+    "street": "Via Gaetana Agnesi",
+    "number": "38b",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6168197,
+    "longitude": 9.1519171
+  },
+  {
+    "street": "Via Gaetana Agnesi",
+    "number": "38a",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6168779,
+    "longitude": 9.1518997
+  },
+  {
+    "street": "Via Gaetana Agnesi",
+    "number": "38",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6169238,
+    "longitude": 9.1518889
+  },
+  {
+    "street": "Via Gaetana Agnesi",
+    "number": "57",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6168005,
+    "longitude": 9.1520914
+  },
+  {
+    "street": "Via Gaetana Agnesi",
+    "number": "55",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6169159,
+    "longitude": 9.1520512
+  },
+  {
+    "street": "Via Monte Ortigara",
+    "number": "1",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6165871,
+    "longitude": 9.153045
+  },
+  {
+    "street": "Via Monte Ortigara",
+    "number": "3",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6163629,
+    "longitude": 9.1530436
+  },
+  {
+    "street": "Via Asiago",
+    "number": "3",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6168957,
+    "longitude": 9.1530262
+  },
+  {
+    "street": "Via Asiago",
+    "number": "4",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6168319,
+    "longitude": 9.1531697
+  },
+  {
+    "street": "Via Asiago",
+    "number": "2",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6167517,
+    "longitude": 9.1526654
+  },
+  {
+    "street": "Via Asiago",
+    "number": "1",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6168366,
+    "longitude": 9.1526138
+  },
+  {
+    "street": "Via Asiago",
+    "number": "5",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6169173,
+    "longitude": 9.1532508
+  },
+  {
+    "street": "Via Asiago",
+    "number": "7",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6169773,
+    "longitude": 9.1535646
+  },
+  {
+    "street": "Via Asiago",
+    "number": "6",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6168797,
+    "longitude": 9.1535318
+  },
+  {
+    "street": "Via Alpe di Siusi",
+    "number": "7",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.616966,
+    "longitude": 9.1568229
+  },
+  {
+    "street": "Via Alpe di Siusi",
+    "number": "3",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6176555,
+    "longitude": 9.1565841
+  },
+  {
+    "street": "Via Alpe di Siusi",
+    "number": "1",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6178018,
+    "longitude": 9.1565251
+  },
+  {
+    "street": "Via Gaetana Agnesi",
+    "number": "65a",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6161462,
+    "longitude": 9.1526178
+  },
+  {
+    "street": "Via Gaetana Agnesi",
+    "number": "65",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.616088,
+    "longitude": 9.1527486
+  },
+  {
+    "street": "Via Gaetana Agnesi",
+    "number": "69",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6160289,
+    "longitude": 9.15241
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "34",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6324567,
+    "longitude": 9.1382304
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "30",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6332137,
+    "longitude": 9.1380759
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "153",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6231281,
+    "longitude": 9.17728
+  },
+  {
+    "street": "Via Giovanni de' Medici",
+    "number": "59",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.635124,
+    "longitude": 9.1629657
+  },
+  {
+    "street": "Via Trento",
+    "number": "34",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6345889,
+    "longitude": 9.1795019
+  },
+  {
+    "street": "Via Trento",
+    "number": "38",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6341647,
+    "longitude": 9.1793865
+  },
+  {
+    "street": "Via Gian Domenico Romagnosi",
+    "number": "13",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6226499,
+    "longitude": 9.1523486
+  },
+  {
+    "street": "Via Mulinello",
+    "number": "23",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6321877,
+    "longitude": 9.1763496
+  },
+  {
+    "street": "Via San Tarcisio",
+    "number": "42",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6354042,
+    "longitude": 9.185315
+  },
+  {
+    "street": "Via Claudio Monteverdi",
+    "number": "28",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6211742,
+    "longitude": 9.1412903
+  },
+  {
+    "street": "Via Claudio Monteverdi",
+    "number": "18",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.622766,
+    "longitude": 9.1409995
+  },
+  {
+    "street": "Via delle Groane",
+    "number": "28",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6294664,
+    "longitude": 9.117553
+  },
+  {
+    "street": "Via Borromeo",
+    "number": "54",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6280688,
+    "longitude": 9.1473212
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "55",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6264157,
+    "longitude": 9.1368953
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "51",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6270309,
+    "longitude": 9.1371144
+  },
+  {
+    "street": "Corso della Libertà",
+    "number": "104",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6260957,
+    "longitude": 9.135939
+  },
+  {
+    "street": "Via Don Luigi Viganò",
+    "number": "64",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6398702,
+    "longitude": 9.1842063
+  },
+  {
+    "street": "Via San Carlo Borromeo",
+    "number": "21/A",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6310359,
+    "longitude": 9.1474294
+  },
+  {
+    "street": "Via San Carlo Borromeo",
+    "number": "6",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6308175,
+    "longitude": 9.1462913
+  },
+  {
+    "street": "Corso della Libertà",
+    "number": "58",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.627448,
+    "longitude": 9.1420387
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "61",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6302091,
+    "longitude": 9.142557
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "61e",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6302713,
+    "longitude": 9.142549
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "61d",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6301303,
+    "longitude": 9.1426522
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "12",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6300902,
+    "longitude": 9.1471556
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "9",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6288049,
+    "longitude": 9.1468208
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "21a",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6204138,
+    "longitude": 9.1424462
+  },
+  {
+    "street": "Via Po",
+    "number": "10",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6348084,
+    "longitude": 9.1701223
+  },
+  {
+    "street": "Via Po",
+    "number": "14",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.634659,
+    "longitude": 9.1705333
+  },
+  {
+    "street": "Via Selvetto",
+    "number": "37",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6360726,
+    "longitude": 9.1803033
+  },
+  {
+    "street": "Via Trento",
+    "number": "29",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6358469,
+    "longitude": 9.1795955
+  },
+  {
+    "street": "Via Trento",
+    "number": "12",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6373449,
+    "longitude": 9.1789785
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "2",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6284218,
+    "longitude": 9.1462654
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "4",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6285738,
+    "longitude": 9.1458288
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "20",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6283521,
+    "longitude": 9.1493659
+  },
+  {
+    "street": "Corso della Libertà",
+    "number": "3",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6279204,
+    "longitude": 9.1450965
+  },
+  {
+    "street": "Via della Liberazione",
+    "number": "8",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6350597,
+    "longitude": 9.142012
+  },
+  {
+    "street": "Via Don Luigi Viganò",
+    "number": "10",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6386313,
+    "longitude": 9.1792628
+  },
+  {
+    "street": "Via Don Luigi Viganò",
+    "number": "2",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6384778,
+    "longitude": 9.1794029
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "7b",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6280863,
+    "longitude": 9.1462751
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "7",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6280526,
+    "longitude": 9.1464253
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "4",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6284352,
+    "longitude": 9.1463864
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "3",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6284075,
+    "longitude": 9.1463374
+  },
+  {
+    "street": "Via Don Luigi Orione",
+    "number": "43",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6227581,
+    "longitude": 9.1323557
+  },
+  {
+    "street": "Via Don Luigi Orione",
+    "number": "22",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6235376,
+    "longitude": 9.1302422
+  },
+  {
+    "street": "Via Venaria Reale",
+    "number": "44",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6329278,
+    "longitude": 9.1256496
+  },
+  {
+    "street": "Via Venaria Reale",
+    "number": "42",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.632917,
+    "longitude": 9.1256361
+  },
+  {
+    "street": "Via Venaria Reale",
+    "number": "40",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6327322,
+    "longitude": 9.1260428
+  },
+  {
+    "street": "Via Venaria Reale",
+    "number": "38",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6327217,
+    "longitude": 9.1260328
+  },
+  {
+    "street": "Via Venaria Reale",
+    "number": "30",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6322878,
+    "longitude": 9.1268646
+  },
+  {
+    "street": "Via Friuli",
+    "number": "71",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6314076,
+    "longitude": 9.1287683
+  },
+  {
+    "street": "Via Julia",
+    "number": "20",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6310377,
+    "longitude": 9.1288414
+  },
+  {
+    "street": "Via Julia",
+    "number": "22",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6311952,
+    "longitude": 9.1287898
+  },
+  {
+    "street": "Via Julia",
+    "number": "17",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6307315,
+    "longitude": 9.1287683
+  },
+  {
+    "street": "Via Julia",
+    "number": "18",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6307376,
+    "longitude": 9.12917
+  },
+  {
+    "street": "Via Julia",
+    "number": "13",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6308684,
+    "longitude": 9.1306063
+  },
+  {
+    "street": "Via Julia",
+    "number": "12",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6307329,
+    "longitude": 9.1304158
+  },
+  {
+    "street": "Via Julia",
+    "number": "16",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6307258,
+    "longitude": 9.1293644
+  },
+  {
+    "street": "Via Julia",
+    "number": "14",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.630709,
+    "longitude": 9.1295515
+  },
+  {
+    "street": "Via Brigata Sassari",
+    "number": "9",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.629517,
+    "longitude": 9.1297661
+  },
+  {
+    "street": "Via Brigata Sassari",
+    "number": "3",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6302499,
+    "longitude": 9.1302264
+  },
+  {
+    "street": "Via Brigata Sassari",
+    "number": "5",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6297754,
+    "longitude": 9.1299371
+  },
+  {
+    "street": "Via Brigata Sassari",
+    "number": "7",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6297477,
+    "longitude": 9.129923
+  },
+  {
+    "street": "Piazza Risorgimento",
+    "number": "24",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6326404,
+    "longitude": 9.1235728
+  },
+  {
+    "street": "Piazza Risorgimento",
+    "number": "9",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6330389,
+    "longitude": 9.1232952
+  },
+  {
+    "street": "Via Torviscosa",
+    "number": "51",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6330604,
+    "longitude": 9.1245921
+  },
+  {
+    "street": "Via Friuli",
+    "number": "69",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6314193,
+    "longitude": 9.128826
+  },
+  {
+    "street": "Via Friuli",
+    "number": "67",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.631425,
+    "longitude": 9.128887
+  },
+  {
+    "street": "Via Friuli",
+    "number": "65",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6314358,
+    "longitude": 9.1289721
+  },
+  {
+    "street": "Via Friuli",
+    "number": "63",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6314461,
+    "longitude": 9.129064
+  },
+  {
+    "street": "Via Friuli",
+    "number": "61",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6314522,
+    "longitude": 9.1291438
+  },
+  {
+    "street": "Via Friuli",
+    "number": "59",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6314578,
+    "longitude": 9.1292115
+  },
+  {
+    "street": "Via Friuli",
+    "number": "51",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6314719,
+    "longitude": 9.1298177
+  },
+  {
+    "street": "Via Friuli",
+    "number": "53 C",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6314841,
+    "longitude": 9.1297305
+  },
+  {
+    "street": "Via Friuli",
+    "number": "53 B",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6314634,
+    "longitude": 9.1293906
+  },
+  {
+    "street": "Via Lucania",
+    "number": "2",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6317344,
+    "longitude": 9.1295703
+  },
+  {
+    "street": "Via Lucania",
+    "number": "4",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6317973,
+    "longitude": 9.1294187
+  },
+  {
+    "street": "Via Lucania",
+    "number": "6",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6319389,
+    "longitude": 9.1290969
+  },
+  {
+    "street": "Via Lucania",
+    "number": "8",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6320144,
+    "longitude": 9.1289413
+  },
+  {
+    "street": "Via Lucania",
+    "number": "10",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6321382,
+    "longitude": 9.128663
+  },
+  {
+    "street": "Via Lucania",
+    "number": "12 A",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6322624,
+    "longitude": 9.1284344
+  },
+  {
+    "street": "Via Lucania",
+    "number": "12 B",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6323262,
+    "longitude": 9.1282781
+  },
+  {
+    "street": "Via Lucania",
+    "number": "14",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6324148,
+    "longitude": 9.1281058
+  },
+  {
+    "street": "Via Lucania",
+    "number": "14 B",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6328532,
+    "longitude": 9.1282245
+  },
+  {
+    "street": "Via Lucania",
+    "number": "14 A",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6327163,
+    "longitude": 9.1281031
+  },
+  {
+    "street": "Via Lucania",
+    "number": "14 F",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6327201,
+    "longitude": 9.1282184
+  },
+  {
+    "street": "Via Lucania",
+    "number": "14 E",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6329278,
+    "longitude": 9.1284478
+  },
+  {
+    "street": "Via Lucania",
+    "number": "14 D",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6329761,
+    "longitude": 9.1283968
+  },
+  {
+    "street": "Via Lucania",
+    "number": "16",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6325222,
+    "longitude": 9.1278597
+  },
+  {
+    "street": "Via Lucania",
+    "number": "18",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6327219,
+    "longitude": 9.1274554
+  },
+  {
+    "street": "Via Lucania",
+    "number": "18 A",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6327463,
+    "longitude": 9.1274004
+  },
+  {
+    "street": "Via Lucania",
+    "number": "37",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6326052,
+    "longitude": 9.1273843
+  },
+  {
+    "street": "Via Lucania",
+    "number": "20",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6328002,
+    "longitude": 9.1272877
+  },
+  {
+    "street": "Via Lucania",
+    "number": "22",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6328982,
+    "longitude": 9.1270865
+  },
+  {
+    "street": "Via Lucania",
+    "number": "28",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6330816,
+    "longitude": 9.1267231
+  },
+  {
+    "street": "Via Lucania",
+    "number": "26",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6330004,
+    "longitude": 9.1268773
+  },
+  {
+    "street": "Via Lucania",
+    "number": "24",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6329906,
+    "longitude": 9.1269028
+  },
+  {
+    "street": "Via Lucania",
+    "number": "39",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6326708,
+    "longitude": 9.1272401
+  },
+  {
+    "street": "Via Lucania",
+    "number": "41",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.632781,
+    "longitude": 9.1270141
+  },
+  {
+    "street": "Via Lucania",
+    "number": "45",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.633051,
+    "longitude": 9.1264965
+  },
+  {
+    "street": "Via Puglie",
+    "number": "2",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6336067,
+    "longitude": 9.1258279
+  },
+  {
+    "street": "Via Lucania",
+    "number": "32",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6333202,
+    "longitude": 9.1262705
+  },
+  {
+    "street": "Via Lucania",
+    "number": "34",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6333568,
+    "longitude": 9.1261994
+  },
+  {
+    "street": "Via Lucania",
+    "number": "36",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6334093,
+    "longitude": 9.1260941
+  },
+  {
+    "street": "Via Lucania",
+    "number": "52",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6337821,
+    "longitude": 9.1253384
+  },
+  {
+    "street": "Via Lucania",
+    "number": "54",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6338238,
+    "longitude": 9.1252499
+  },
+  {
+    "street": "Via Lucania",
+    "number": "56",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.633874,
+    "longitude": 9.1251406
+  },
+  {
+    "street": "Via Lucania",
+    "number": "58",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6338993,
+    "longitude": 9.1250923
+  },
+  {
+    "street": "Via Lucania",
+    "number": "60",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6339209,
+    "longitude": 9.1250461
+  },
+  {
+    "street": "Via Venaria Reale",
+    "number": "50",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6335612,
+    "longitude": 9.1253793
+  },
+  {
+    "street": "Via Venaria Reale",
+    "number": "47",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6334027,
+    "longitude": 9.1252197
+  },
+  {
+    "street": "Via Venaria Reale",
+    "number": "48",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6334684,
+    "longitude": 9.1250896
+  },
+  {
+    "street": "Via Venaria Reale",
+    "number": "49",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6336175,
+    "longitude": 9.1252425
+  },
+  {
+    "street": "Via Marche",
+    "number": "6",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6340015,
+    "longitude": 9.1250843
+  },
+  {
+    "street": "Via Marche",
+    "number": "46",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6338088,
+    "longitude": 9.1248878
+  },
+  {
+    "street": "Via Marche",
+    "number": "44",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6336513,
+    "longitude": 9.1247242
+  },
+  {
+    "street": "Via Marche",
+    "number": "43",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6337155,
+    "longitude": 9.1245887
+  },
+  {
+    "street": "Via Marche",
+    "number": "45",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6338749,
+    "longitude": 9.1247517
+  },
+  {
+    "street": "Via Udine",
+    "number": "29",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6341464,
+    "longitude": 9.1225053
+  },
+  {
+    "street": "Via Udine",
+    "number": "27",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6337929,
+    "longitude": 9.1221473
+  },
+  {
+    "street": "Via Udine",
+    "number": "25",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6334534,
+    "longitude": 9.1218013
+  },
+  {
+    "street": "Via Pavia",
+    "number": "30",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6343443,
+    "longitude": 9.1221178
+  },
+  {
+    "street": "Via Pavia",
+    "number": "28",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6339776,
+    "longitude": 9.1217463
+  },
+  {
+    "street": "Via Pavia",
+    "number": "26",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6336297,
+    "longitude": 9.1213976
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "31",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6335007,
+    "longitude": 9.121012
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "32",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6336166,
+    "longitude": 9.120782
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "34",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6337099,
+    "longitude": 9.1208772
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "33",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6335959,
+    "longitude": 9.1211079
+  },
+  {
+    "street": "Via Pavia",
+    "number": "36",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6339692,
+    "longitude": 9.1211347
+  },
+  {
+    "street": "Via Pavia",
+    "number": "35",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6338538,
+    "longitude": 9.1213667
+  },
+  {
+    "street": "Via Pavia",
+    "number": "38",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6340601,
+    "longitude": 9.1212353
+  },
+  {
+    "street": "Via Pavia",
+    "number": "37",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6339466,
+    "longitude": 9.1214593
+  },
+  {
+    "street": "Via Pavia",
+    "number": "40",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6343105,
+    "longitude": 9.1215089
+  },
+  {
+    "street": "Via Pavia",
+    "number": "39",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6342102,
+    "longitude": 9.1217074
+  },
+  {
+    "street": "Via Pavia",
+    "number": "42",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6344015,
+    "longitude": 9.1216028
+  },
+  {
+    "street": "Via Pavia",
+    "number": "41",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6343002,
+    "longitude": 9.1218039
+  },
+  {
+    "street": "Via Magenta",
+    "number": "3",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6341717,
+    "longitude": 9.1230847
+  },
+  {
+    "street": "Via Torino",
+    "number": "4",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6338118,
+    "longitude": 9.1230562
+  },
+  {
+    "street": "Via Marche",
+    "number": "6 A",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6340582,
+    "longitude": 9.1251326
+  },
+  {
+    "street": "Via Liguria",
+    "number": "7",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6335228,
+    "longitude": 9.1268854
+  },
+  {
+    "street": "Via Liguria",
+    "number": "9",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6334759,
+    "longitude": 9.126994
+  },
+  {
+    "street": "Via Liguria",
+    "number": "11 A",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6335359,
+    "longitude": 9.1273682
+  },
+  {
+    "street": "Via Liguria",
+    "number": "11",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6334403,
+    "longitude": 9.1272274
+  },
+  {
+    "street": "Via Liguria",
+    "number": "13",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6333934,
+    "longitude": 9.1272703
+  },
+  {
+    "street": "Via Liguria",
+    "number": "12",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6332752,
+    "longitude": 9.1272609
+  },
+  {
+    "street": "Via Liguria",
+    "number": "10",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6333634,
+    "longitude": 9.1270463
+  },
+  {
+    "street": "Via Liguria",
+    "number": "8",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6334684,
+    "longitude": 9.1268559
+  },
+  {
+    "street": "Via Liguria",
+    "number": "6",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6335772,
+    "longitude": 9.1266587
+  },
+  {
+    "street": "Via Liguria",
+    "number": "4",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6336878,
+    "longitude": 9.1264535
+  },
+  {
+    "street": "Via Liguria",
+    "number": "5",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6336109,
+    "longitude": 9.1267245
+  },
+  {
+    "street": "Via Liguria",
+    "number": "3",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6337413,
+    "longitude": 9.1264683
+  },
+  {
+    "street": "Via Puglie",
+    "number": "13",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6343743,
+    "longitude": 9.1266051
+  },
+  {
+    "street": "Via Puglie",
+    "number": "11",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.634348,
+    "longitude": 9.1265246
+  },
+  {
+    "street": "Via Puglie",
+    "number": "10",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6343358,
+    "longitude": 9.1265756
+  },
+  {
+    "street": "Via Puglie",
+    "number": "8",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6341267,
+    "longitude": 9.1263503
+  },
+  {
+    "street": "Via Puglie",
+    "number": "9",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6340911,
+    "longitude": 9.1262041
+  },
+  {
+    "street": "Via Puglie",
+    "number": "6",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6340235,
+    "longitude": 9.1262604
+  },
+  {
+    "street": "Via Puglie",
+    "number": "4",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6338304,
+    "longitude": 9.1260593
+  },
+  {
+    "street": "Via Puglie",
+    "number": "7",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6339241,
+    "longitude": 9.1260727
+  },
+  {
+    "street": "Via Puglie",
+    "number": "2 A",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6337216,
+    "longitude": 9.125956
+  },
+  {
+    "street": "Via Puglie",
+    "number": "5",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6338229,
+    "longitude": 9.1259788
+  },
+  {
+    "street": "Via Puglie",
+    "number": "3",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.633776,
+    "longitude": 9.1259225
+  },
+  {
+    "street": "Via Lucania",
+    "number": "44",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6336616,
+    "longitude": 9.1255604
+  },
+  {
+    "street": "Via Lucania",
+    "number": "38",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6334796,
+    "longitude": 9.1259386
+  },
+  {
+    "street": "Via Lucania",
+    "number": "47 A",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6334102,
+    "longitude": 9.1258058
+  },
+  {
+    "street": "Via Lucania",
+    "number": "43",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6330117,
+    "longitude": 9.126593
+  },
+  {
+    "street": "Via Venaria Reale",
+    "number": "36",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6325679,
+    "longitude": 9.126411
+  },
+  {
+    "street": "Via Venaria Reale",
+    "number": "34",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6325557,
+    "longitude": 9.1264381
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "18",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6322821,
+    "longitude": 9.1236493
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "53",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6335359,
+    "longitude": 9.1236627
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "10",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6335003,
+    "longitude": 9.123369
+  },
+  {
+    "street": "Via Torre Viscosa",
+    "number": "12",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6328513,
+    "longitude": 9.1227333
+  },
+  {
+    "street": "Via Torino",
+    "number": "11",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6332424,
+    "longitude": 9.1228648
+  },
+  {
+    "street": "Via Torino",
+    "number": "13",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6330426,
+    "longitude": 9.1224571
+  },
+  {
+    "street": "Via Torino",
+    "number": "14",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6332752,
+    "longitude": 9.1226985
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "20",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6332311,
+    "longitude": 9.1218334
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "19",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6331214,
+    "longitude": 9.1220467
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "17",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6330239,
+    "longitude": 9.1219595
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "18",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6331402,
+    "longitude": 9.1217329
+  },
+  {
+    "street": "Via Udine",
+    "number": "15",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6327754,
+    "longitude": 9.1216859
+  },
+  {
+    "street": "Via Udine",
+    "number": "16",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6328785,
+    "longitude": 9.1214834
+  },
+  {
+    "street": "Via Udine",
+    "number": "21",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6334787,
+    "longitude": 9.122398
+  },
+  {
+    "street": "Via Udine",
+    "number": "22",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6335725,
+    "longitude": 9.1222076
+  },
+  {
+    "street": "Via Udine",
+    "number": "23",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6334768,
+    "longitude": 9.1221151
+  },
+  {
+    "street": "Via Udine",
+    "number": "24",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6333849,
+    "longitude": 9.1223001
+  },
+  {
+    "street": "Via Lazio",
+    "number": "3",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6176889,
+    "longitude": 9.136049
+  },
+  {
+    "street": "Via Borromeo",
+    "number": "5",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6300972,
+    "longitude": 9.1465139
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "6",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6225781,
+    "longitude": 9.1426779
+  },
+  {
+    "street": "Via San Carlo Borromeo",
+    "number": "20",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6305659,
+    "longitude": 9.1475793
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "22/24",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6347851,
+    "longitude": 9.1376893
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "136",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6219493,
+    "longitude": 9.1752056
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "146",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.620416,
+    "longitude": 9.1762375
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "149",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6232855,
+    "longitude": 9.1765385
+  },
+  {
+    "street": "Via Po",
+    "number": "19a",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6359793,
+    "longitude": 9.169133
+  },
+  {
+    "street": "Via Po",
+    "number": "33/35",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6365116,
+    "longitude": 9.1701556
+  },
+  {
+    "street": "Via Po",
+    "number": "47",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6359035,
+    "longitude": 9.1713751
+  },
+  {
+    "street": "Via Moncenisio",
+    "number": "57",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6359229,
+    "longitude": 9.1718287
+  },
+  {
+    "street": "Via Po",
+    "number": "27",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.636505,
+    "longitude": 9.1695191
+  },
+  {
+    "street": "Via Po",
+    "number": "17",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6355699,
+    "longitude": 9.1692914
+  },
+  {
+    "street": "Via Po",
+    "number": "15",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6355798,
+    "longitude": 9.1688976
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "99/bis",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6228009,
+    "longitude": 9.1657901
+  },
+  {
+    "street": "Piazza Don Antonio Borghi",
+    "number": "5",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6201291,
+    "longitude": 9.1505668
+  },
+  {
+    "street": "Via Molino Arese",
+    "number": "19",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6312799,
+    "longitude": 9.1684656
+  },
+  {
+    "street": "Via San Marco",
+    "number": "1",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6301511,
+    "longitude": 9.167209
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "88",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6213374,
+    "longitude": 9.1622005
+  },
+  {
+    "street": "Via San Bernardo",
+    "number": "65",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6367637,
+    "longitude": 9.1808962
+  },
+  {
+    "street": "Via San Marco",
+    "number": "88",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6289875,
+    "longitude": 9.1763357
+  },
+  {
+    "street": "Via Sicilia",
+    "number": "30",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6352801,
+    "longitude": 9.1281075
+  },
+  {
+    "street": "Via Elisabetta Borromeo",
+    "number": "43",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6366999,
+    "longitude": 9.1526067
+  },
+  {
+    "street": "Via Alfonso Lamarmora",
+    "number": "3",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6360593,
+    "longitude": 9.1490754
+  },
+  {
+    "street": "Via Custoza",
+    "number": "15",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6342404,
+    "longitude": 9.1451281
+  },
+  {
+    "street": "Via Novara",
+    "number": "41",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6347049,
+    "longitude": 9.1457176
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "85",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6312894,
+    "longitude": 9.1626686
+  },
+  {
+    "street": "Via San Carlo Borromeo",
+    "number": "2",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.630612,
+    "longitude": 9.1460517
+  },
+  {
+    "street": "Via G. Marconato",
+    "number": "19",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6308352,
+    "longitude": 9.1134569
+  },
+  {
+    "street": "Via G. Marconato",
+    "number": "2",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6305912,
+    "longitude": 9.1148672
+  },
+  {
+    "street": "Via G. Marconato",
+    "number": "6",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6308405,
+    "longitude": 9.1146592
+  },
+  {
+    "street": "Via Don Luigi Viganò",
+    "number": "96",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6400952,
+    "longitude": 9.1885171
+  },
+  {
+    "street": "Corso della Libertà",
+    "number": "42a",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6276325,
+    "longitude": 9.1429886
+  },
+  {
+    "street": "Corso della Libertà",
+    "number": "5a",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6278543,
+    "longitude": 9.1449032
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "1",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6274081,
+    "longitude": 9.1458736
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "143",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6232477,
+    "longitude": 9.173816
+  },
+  {
+    "street": "Via San Bernardo",
+    "number": "58",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6387937,
+    "longitude": 9.1807388
+  },
+  {
+    "street": "Via Monte Zebio",
+    "number": "8",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6238478,
+    "longitude": 9.1669697
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "108",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6235093,
+    "longitude": 9.1357384
+  },
+  {
+    "street": "Via Como",
+    "number": "36",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6336005,
+    "longitude": 9.1442602
+  },
+  {
+    "street": "Via Don Luigi Viganò",
+    "number": "47",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6400262,
+    "longitude": 9.1833474
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "126",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6301814,
+    "longitude": 9.1637416
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "6/8",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6309901,
+    "longitude": 9.1406457
+  },
+  {
+    "street": "Via Trento",
+    "number": "61",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6315774,
+    "longitude": 9.175947
+  },
+  {
+    "street": "Via Novara",
+    "number": "27",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6335344,
+    "longitude": 9.1461459
+  },
+  {
+    "street": "Via Giuliana Ronzoni",
+    "number": "3",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6298105,
+    "longitude": 9.1443843
+  },
+  {
+    "street": "Via Gian Domenico Romagnosi",
+    "number": "40",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6228644,
+    "longitude": 9.1564946
+  },
+  {
+    "street": "Via Felice Cavallotti",
+    "number": "13",
+    "city": {
+      "name": "Cesano Maderno",
+      "istat": "108019"
+    },
+    "latitude": 45.6228282,
+    "longitude": 9.1565505
+  }
+]

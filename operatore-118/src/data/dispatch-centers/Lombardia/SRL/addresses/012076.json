@@ -1,0 +1,672 @@
+[
+  {
+    "street": "Piazza Venti Settembre",
+    "number": "37",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9947868,
+    "longitude": 8.7269597
+  },
+  {
+    "street": "Via Goffredo Mameli",
+    "number": "14",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9950626,
+    "longitude": 8.7270148
+  },
+  {
+    "street": "Piazza Venti Settembre",
+    "number": "27",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9943003,
+    "longitude": 8.7277385
+  },
+  {
+    "street": "Via ai Ronchi",
+    "number": "3",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9894853,
+    "longitude": 8.7237086
+  },
+  {
+    "street": "Via Goffredo Mameli",
+    "number": "20",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.995287,
+    "longitude": 8.7264808
+  },
+  {
+    "street": "Piazza Venti Settembre",
+    "number": "7",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9939874,
+    "longitude": 8.7285635
+  },
+  {
+    "street": "Via Cazzane",
+    "number": "2",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9923607,
+    "longitude": 8.7253574
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "14",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.992862,
+    "longitude": 8.7255282
+  },
+  {
+    "street": "Via Fabio Filzi",
+    "number": "22",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9919642,
+    "longitude": 8.7266216
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "27",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9931341,
+    "longitude": 8.7269643
+  },
+  {
+    "street": "Piazza Venti Settembre",
+    "number": "5",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9939459,
+    "longitude": 8.7287426
+  },
+  {
+    "street": "Armando Diaz",
+    "number": "13",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9933528,
+    "longitude": 8.7256642
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "3",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9910508,
+    "longitude": 8.7354532
+  },
+  {
+    "street": "Piazza Venti Settembre",
+    "number": "48",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9942752,
+    "longitude": 8.7285212
+  },
+  {
+    "street": "Vicolo del Torchio",
+    "number": "2",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.993686,
+    "longitude": 8.7260503
+  },
+  {
+    "street": "Via Vincenzo Bellini",
+    "number": "14",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9884747,
+    "longitude": 8.7391663
+  },
+  {
+    "street": "Via Vincenzo Bellini",
+    "number": "16",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9885075,
+    "longitude": 8.7392583
+  },
+  {
+    "street": "Via Goffredo Mameli",
+    "number": "42",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9956073,
+    "longitude": 8.72545
+  },
+  {
+    "street": "Via Goffredo Mameli",
+    "number": "40",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9955486,
+    "longitude": 8.7255741
+  },
+  {
+    "street": "Via Goffredo Mameli",
+    "number": "38",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9954817,
+    "longitude": 8.7256898
+  },
+  {
+    "street": "Via Goffredo Mameli",
+    "number": "32",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9954318,
+    "longitude": 8.7258115
+  },
+  {
+    "street": "Via Goffredo Mameli",
+    "number": "30",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.995396,
+    "longitude": 8.725879
+  },
+  {
+    "street": "Via Goffredo Mameli",
+    "number": "28",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9953456,
+    "longitude": 8.726004
+  },
+  {
+    "street": "Via Goffredo Mameli",
+    "number": "26",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9952916,
+    "longitude": 8.7261586
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "59",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9834579,
+    "longitude": 8.740444
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "89",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9835432,
+    "longitude": 8.7401985
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "53",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9836477,
+    "longitude": 8.7398698
+  },
+  {
+    "street": "Via San Giovanni",
+    "number": "1",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9912045,
+    "longitude": 8.7236616
+  },
+  {
+    "street": "Via San Giovanni",
+    "number": "32",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9887301,
+    "longitude": 8.7186103
+  },
+  {
+    "street": "Via San Giov1anni",
+    "number": "30",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.988717,
+    "longitude": 8.7187317
+  },
+  {
+    "street": "Vicolo Carla Zetkin",
+    "number": "3",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9887701,
+    "longitude": 8.7185399
+  },
+  {
+    "street": "Vicolo Carla Zetkin",
+    "number": "1",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9888325,
+    "longitude": 8.718662
+  },
+  {
+    "street": "Via San Giov1anni",
+    "number": "26",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9888073,
+    "longitude": 8.7188712
+  },
+  {
+    "street": "Vicolo Carla Zetkin",
+    "number": "14",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9888446,
+    "longitude": 8.7181537
+  },
+  {
+    "street": "Vicolo Carla Zetkin",
+    "number": "12",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9889331,
+    "longitude": 8.7183455
+  },
+  {
+    "street": "Vicolo Carla Zetkin",
+    "number": "4",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9890058,
+    "longitude": 8.7186016
+  },
+  {
+    "street": "Vicolo Carla Zetkin",
+    "number": "10",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9890692,
+    "longitude": 8.7181939
+  },
+  {
+    "street": "Vicolo Carla Zetkin",
+    "number": "8",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9891493,
+    "longitude": 8.7183709
+  },
+  {
+    "street": "Vicolo Carla Zetkin",
+    "number": "6",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9892388,
+    "longitude": 8.7186217
+  },
+  {
+    "street": "Vicolo Carla Zetkin",
+    "number": "2",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9890226,
+    "longitude": 8.7188041
+  },
+  {
+    "street": "Via San Giov1anni",
+    "number": "34",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9886527,
+    "longitude": 8.718607
+  },
+  {
+    "street": "Via San Giov1anni",
+    "number": "36",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9886545,
+    "longitude": 8.7184997
+  },
+  {
+    "street": "Via San Giov1anni",
+    "number": "40",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9885846,
+    "longitude": 8.7183857
+  },
+  {
+    "street": "Via San Giov1anni",
+    "number": "38",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9885874,
+    "longitude": 8.7184849
+  },
+  {
+    "street": "Via San Giov1anni",
+    "number": "42",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9885101,
+    "longitude": 8.7183562
+  },
+  {
+    "street": "Via San Giov1anni",
+    "number": "44",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.988511,
+    "longitude": 8.7182422
+  },
+  {
+    "street": "Via San Giov1anni",
+    "number": "46",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9884188,
+    "longitude": 8.7182355
+  },
+  {
+    "street": "Via San Giov1anni",
+    "number": "48",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9884253,
+    "longitude": 8.7181362
+  },
+  {
+    "street": "Via San Giov1anni",
+    "number": "28",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9888027,
+    "longitude": 8.7187612
+  },
+  {
+    "street": "Via Piero Gobetti",
+    "number": "9",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9872327,
+    "longitude": 8.7203299
+  },
+  {
+    "street": "Via ai Ronchi",
+    "number": "39",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9870251,
+    "longitude": 8.7239446
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "11",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.993296,
+    "longitude": 8.7257588
+  },
+  {
+    "street": "Via Cazzane",
+    "number": "11",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9925141,
+    "longitude": 8.7261369
+  },
+  {
+    "street": "Via Cazzane",
+    "number": "9",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9926194,
+    "longitude": 8.7259423
+  },
+  {
+    "street": "Via Fabio Filzi",
+    "number": "17",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.992385,
+    "longitude": 8.7278866
+  },
+  {
+    "street": "Via Fabio Filzi",
+    "number": "19",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.99194,
+    "longitude": 8.7276819
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "22",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9929669,
+    "longitude": 8.7263115
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "25",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9931783,
+    "longitude": 8.7267848
+  },
+  {
+    "street": "Via Giacomo Puccini",
+    "number": "31",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9882721,
+    "longitude": 8.7406805
+  },
+  {
+    "street": "Via Rossinelli",
+    "number": "20",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9885319,
+    "longitude": 8.7211467
+  },
+  {
+    "street": "Via Giosuè Carducci",
+    "number": "12",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9903262,
+    "longitude": 8.7265122
+  },
+  {
+    "street": "Via don Luigi Sturzo",
+    "number": "12",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9885905,
+    "longitude": 8.7226595
+  },
+  {
+    "street": "Via ai Ronchi",
+    "number": "49",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.98598,
+    "longitude": 8.7232249
+  },
+  {
+    "street": "Via ai Ronchi",
+    "number": "28",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9869047,
+    "longitude": 8.723272
+  },
+  {
+    "street": "Via Piero Gobetti",
+    "number": "1",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9870432,
+    "longitude": 8.7188632
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "81",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.983048,
+    "longitude": 8.742839
+  },
+  {
+    "street": "Via Bodmer",
+    "number": "41A",
+    "city": {
+      "name": "Germignaga",
+      "istat": "012076"
+    },
+    "latitude": 45.9913401,
+    "longitude": 8.7194084
+  }
+]

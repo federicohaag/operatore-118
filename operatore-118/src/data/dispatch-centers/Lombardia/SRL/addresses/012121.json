@@ -1,0 +1,302 @@
+[
+  {
+    "street": "Via per Carnago",
+    "number": "3",
+    "city": {
+      "name": "Solbiate Arno",
+      "istat": "012121"
+    },
+    "latitude": 45.7179615,
+    "longitude": 8.82138
+  },
+  {
+    "street": "Via del Lavoro",
+    "number": "26",
+    "city": {
+      "name": "Solbiate Arno",
+      "istat": "012121"
+    },
+    "latitude": 45.7194769,
+    "longitude": 8.811408
+  },
+  {
+    "street": "Via Caronno Varesino",
+    "number": "17",
+    "city": {
+      "name": "Solbiate Arno",
+      "istat": "012121"
+    },
+    "latitude": 45.7270831,
+    "longitude": 8.8173652
+  },
+  {
+    "street": "Via del Lavoro",
+    "number": "1",
+    "city": {
+      "name": "Solbiate Arno",
+      "istat": "012121"
+    },
+    "latitude": 45.7191443,
+    "longitude": 8.8101126
+  },
+  {
+    "street": "Via del Lavoro",
+    "number": "45",
+    "city": {
+      "name": "Solbiate Arno",
+      "istat": "012121"
+    },
+    "latitude": 45.7188892,
+    "longitude": 8.8098492
+  },
+  {
+    "street": "Largo della Repubblica",
+    "number": "1",
+    "city": {
+      "name": "Solbiate Arno",
+      "istat": "012121"
+    },
+    "latitude": 45.7195716,
+    "longitude": 8.8153233
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "1",
+    "city": {
+      "name": "Solbiate Arno",
+      "istat": "012121"
+    },
+    "latitude": 45.7184116,
+    "longitude": 8.8153847
+  },
+  {
+    "street": "Piazza Sant'Agata",
+    "number": "1",
+    "city": {
+      "name": "Solbiate Arno",
+      "istat": "012121"
+    },
+    "latitude": 45.7151942,
+    "longitude": 8.8222298
+  },
+  {
+    "street": "Via Caronno Varesino",
+    "number": "92",
+    "city": {
+      "name": "Solbiate Arno",
+      "istat": "012121"
+    },
+    "latitude": 45.7276951,
+    "longitude": 8.8187948
+  },
+  {
+    "street": "Via Caronno Varesino",
+    "number": "64",
+    "city": {
+      "name": "Solbiate Arno",
+      "istat": "012121"
+    },
+    "latitude": 45.7288278,
+    "longitude": 8.8193124
+  },
+  {
+    "street": "Via Caronno Varesino",
+    "number": "94",
+    "city": {
+      "name": "Solbiate Arno",
+      "istat": "012121"
+    },
+    "latitude": 45.7277793,
+    "longitude": 8.8186097
+  },
+  {
+    "street": "Via Caronno Varesino",
+    "number": "90",
+    "city": {
+      "name": "Solbiate Arno",
+      "istat": "012121"
+    },
+    "latitude": 45.7276576,
+    "longitude": 8.8185534
+  },
+  {
+    "street": "Via Antonio Grandi",
+    "number": "44",
+    "city": {
+      "name": "Solbiate Arno",
+      "istat": "012121"
+    },
+    "latitude": 45.713497,
+    "longitude": 8.8095573
+  },
+  {
+    "street": "Via Antonio Grandi",
+    "number": "3",
+    "city": {
+      "name": "Solbiate Arno",
+      "istat": "012121"
+    },
+    "latitude": 45.718353,
+    "longitude": 8.8113973
+  },
+  {
+    "street": "Piazza San Giovanni Ventitreesimo",
+    "number": "8",
+    "city": {
+      "name": "Solbiate Arno",
+      "istat": "012121"
+    },
+    "latitude": 45.7190765,
+    "longitude": 8.8156319
+  },
+  {
+    "street": "Via del Lavoro",
+    "number": "32",
+    "city": {
+      "name": "Solbiate Arno",
+      "istat": "012121"
+    },
+    "latitude": 45.7200282,
+    "longitude": 8.8111604
+  },
+  {
+    "street": "Via del Lavoro",
+    "number": "40",
+    "city": {
+      "name": "Solbiate Arno",
+      "istat": "012121"
+    },
+    "latitude": 45.722203,
+    "longitude": 8.8103664
+  },
+  {
+    "street": "Via Oggiona",
+    "number": "1",
+    "city": {
+      "name": "Solbiate Arno",
+      "istat": "012121"
+    },
+    "latitude": 45.712057,
+    "longitude": 8.8108177
+  },
+  {
+    "street": "Via per Carnago",
+    "number": "16",
+    "city": {
+      "name": "Solbiate Arno",
+      "istat": "012121"
+    },
+    "latitude": 45.71955,
+    "longitude": 8.8241357
+  },
+  {
+    "street": "Via Lazzaretto",
+    "number": "31",
+    "city": {
+      "name": "Solbiate Arno",
+      "istat": "012121"
+    },
+    "latitude": 45.728466,
+    "longitude": 8.8211216
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "16",
+    "city": {
+      "name": "Solbiate Arno",
+      "istat": "012121"
+    },
+    "latitude": 45.7140304,
+    "longitude": 8.8058165
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "13",
+    "city": {
+      "name": "Solbiate Arno",
+      "istat": "012121"
+    },
+    "latitude": 45.7165641,
+    "longitude": 8.8227322
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "26",
+    "city": {
+      "name": "Solbiate Arno",
+      "istat": "012121"
+    },
+    "latitude": 45.7148053,
+    "longitude": 8.8057724
+  },
+  {
+    "street": "Via Molinello",
+    "number": "52/54",
+    "city": {
+      "name": "Solbiate Arno",
+      "istat": "012121"
+    },
+    "latitude": 45.7115996,
+    "longitude": 8.8060231
+  },
+  {
+    "street": "Via Molinello",
+    "number": "52",
+    "city": {
+      "name": "Solbiate Arno",
+      "istat": "012121"
+    },
+    "latitude": 45.7122825,
+    "longitude": 8.8058008
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "30",
+    "city": {
+      "name": "Solbiate Arno",
+      "istat": "012121"
+    },
+    "latitude": 45.7195988,
+    "longitude": 8.8185755
+  },
+  {
+    "street": "Via Felice Chinetti",
+    "number": "1",
+    "city": {
+      "name": "Solbiate Arno",
+      "istat": "012121"
+    },
+    "latitude": 45.7194785,
+    "longitude": 8.8183192
+  },
+  {
+    "street": "Via Claudio Perin",
+    "number": "10",
+    "city": {
+      "name": "Solbiate Arno",
+      "istat": "012121"
+    },
+    "latitude": 45.7178025,
+    "longitude": 8.8147111
+  },
+  {
+    "street": "Via Felice Chinetti",
+    "number": "11",
+    "city": {
+      "name": "Solbiate Arno",
+      "istat": "012121"
+    },
+    "latitude": 45.7198077,
+    "longitude": 8.8171877
+  },
+  {
+    "street": "Via Felice Chinetti",
+    "number": "8",
+    "city": {
+      "name": "Solbiate Arno",
+      "istat": "012121"
+    },
+    "latitude": 45.7195159,
+    "longitude": 8.8176543
+  }
+]

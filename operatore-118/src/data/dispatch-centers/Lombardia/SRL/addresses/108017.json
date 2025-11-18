@@ -1,0 +1,172 @@
+[
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "10",
+    "city": {
+      "name": "Cavenago di Brianza",
+      "istat": "108017"
+    },
+    "latitude": 45.5839775,
+    "longitude": 9.4168149
+  },
+  {
+    "street": "Via delle Foppe",
+    "number": "12",
+    "city": {
+      "name": "Cavenago di Brianza",
+      "istat": "108017"
+    },
+    "latitude": 45.5878457,
+    "longitude": 9.4125141
+  },
+  {
+    "street": "Via Piave",
+    "number": "10",
+    "city": {
+      "name": "Cavenago di Brianza",
+      "istat": "108017"
+    },
+    "latitude": 45.5831128,
+    "longitude": 9.4165547
+  },
+  {
+    "street": "Via Pierre de Coubertin",
+    "number": "4",
+    "city": {
+      "name": "Cavenago di Brianza",
+      "istat": "108017"
+    },
+    "latitude": 45.5845516,
+    "longitude": 9.4073907
+  },
+  {
+    "street": "Viale delle Industrie",
+    "number": "9",
+    "city": {
+      "name": "Cavenago di Brianza",
+      "istat": "108017"
+    },
+    "latitude": 45.5791407,
+    "longitude": 9.4193292
+  },
+  {
+    "street": "Via Cascina Trivulzina",
+    "number": "12",
+    "city": {
+      "name": "Cavenago di Brianza",
+      "istat": "108017"
+    },
+    "latitude": 45.577087,
+    "longitude": 9.4024027
+  },
+  {
+    "street": "Via Albert Bruce Sabin",
+    "number": "17",
+    "city": {
+      "name": "Cavenago di Brianza",
+      "istat": "108017"
+    },
+    "latitude": 45.5827668,
+    "longitude": 9.4021719
+  },
+  {
+    "street": "Vicolo Autostradale",
+    "number": "6",
+    "city": {
+      "name": "Cavenago di Brianza",
+      "istat": "108017"
+    },
+    "latitude": 45.5796448,
+    "longitude": 9.4163046
+  },
+  {
+    "street": "Vicolo Autostradale",
+    "number": "3",
+    "city": {
+      "name": "Cavenago di Brianza",
+      "istat": "108017"
+    },
+    "latitude": 45.5800735,
+    "longitude": 9.4173222
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "12",
+    "city": {
+      "name": "Cavenago di Brianza",
+      "istat": "108017"
+    },
+    "latitude": 45.5845323,
+    "longitude": 9.4159209
+  },
+  {
+    "street": "Via Santa Maria in Campo",
+    "number": "6",
+    "city": {
+      "name": "Cavenago di Brianza",
+      "istat": "108017"
+    },
+    "latitude": 45.5805509,
+    "longitude": 9.408376
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "29",
+    "city": {
+      "name": "Cavenago di Brianza",
+      "istat": "108017"
+    },
+    "latitude": 45.5836939,
+    "longitude": 9.4170024
+  },
+  {
+    "street": "Largo Kennedy",
+    "number": "1",
+    "city": {
+      "name": "Cavenago di Brianza",
+      "istat": "108017"
+    },
+    "latitude": 45.5801213,
+    "longitude": 9.4166176
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "15",
+    "city": {
+      "name": "Cavenago di Brianza",
+      "istat": "108017"
+    },
+    "latitude": 45.5859328,
+    "longitude": 9.418648
+  },
+  {
+    "street": "Via San Giulio",
+    "number": "16",
+    "city": {
+      "name": "Cavenago di Brianza",
+      "istat": "108017"
+    },
+    "latitude": 45.5817842,
+    "longitude": 9.4184898
+  },
+  {
+    "street": "Via San Giulio",
+    "number": "20",
+    "city": {
+      "name": "Cavenago di Brianza",
+      "istat": "108017"
+    },
+    "latitude": 45.581879,
+    "longitude": 9.4199288
+  },
+  {
+    "street": "Viale delle Industrie",
+    "number": "15",
+    "city": {
+      "name": "Cavenago di Brianza",
+      "istat": "108017"
+    },
+    "latitude": 45.5794809,
+    "longitude": 9.4210345
+  }
+]

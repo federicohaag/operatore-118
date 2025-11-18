@@ -1,0 +1,52 @@
+[
+  {
+    "street": "Via Gorizia",
+    "number": "3",
+    "city": {
+      "name": "Luisago",
+      "istat": "013135"
+    },
+    "latitude": 45.7590965,
+    "longitude": 9.0524356
+  },
+  {
+    "street": "Via Gorizia",
+    "number": "15",
+    "city": {
+      "name": "Luisago",
+      "istat": "013135"
+    },
+    "latitude": 45.758895,
+    "longitude": 9.0580582
+  },
+  {
+    "street": "Via Adige",
+    "number": "4",
+    "city": {
+      "name": "Luisago",
+      "istat": "013135"
+    },
+    "latitude": 45.7583089,
+    "longitude": 9.0584624
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "1",
+    "city": {
+      "name": "Luisago",
+      "istat": "013135"
+    },
+    "latitude": 45.7604189,
+    "longitude": 9.0440247
+  },
+  {
+    "street": "Via Raffaello Sanzio",
+    "number": "162",
+    "city": {
+      "name": "Luisago",
+      "istat": "013135"
+    },
+    "latitude": 45.7603567,
+    "longitude": 9.036834
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "street": "Piazza Giancarlo Puecher",
+    "number": "6",
+    "city": {
+      "name": "Ponte Lambro",
+      "istat": "013188"
+    },
+    "latitude": 45.8310811,
+    "longitude": 9.2260756
+  },
+  {
+    "street": "Piazza Giancarlo Puecher",
+    "number": "11",
+    "city": {
+      "name": "Ponte Lambro",
+      "istat": "013188"
+    },
+    "latitude": 45.8307798,
+    "longitude": 9.2256497
+  },
+  {
+    "street": "Via Roma",
+    "number": "56",
+    "city": {
+      "name": "Ponte Lambro",
+      "istat": "013188"
+    },
+    "latitude": 45.8295377,
+    "longitude": 9.2246052
+  },
+  {
+    "street": "Via Roma",
+    "number": "62",
+    "city": {
+      "name": "Ponte Lambro",
+      "istat": "013188"
+    },
+    "latitude": 45.8296145,
+    "longitude": 9.2248277
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "22",
+    "city": {
+      "name": "Ponte Lambro",
+      "istat": "013188"
+    },
+    "latitude": 45.8250571,
+    "longitude": 9.2230535
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "8",
+    "city": {
+      "name": "Ponte Lambro",
+      "istat": "013188"
+    },
+    "latitude": 45.8235015,
+    "longitude": 9.2200488
+  },
+  {
+    "street": "Via Castelletti",
+    "number": "5",
+    "city": {
+      "name": "Ponte Lambro",
+      "istat": "013188"
+    },
+    "latitude": 45.8280923,
+    "longitude": 9.2233785
+  },
+  {
+    "street": "Piazza Giancarlo Puecher",
+    "number": "16",
+    "city": {
+      "name": "Ponte Lambro",
+      "istat": "013188"
+    },
+    "latitude": 45.8309411,
+    "longitude": 9.2260643
+  },
+  {
+    "street": "Piazza Giancarlo Puecher",
+    "number": "8",
+    "city": {
+      "name": "Ponte Lambro",
+      "istat": "013188"
+    },
+    "latitude": 45.8310313,
+    "longitude": 9.2256295
+  },
+  {
+    "street": "Piazza Giancarlo Puecher",
+    "number": "14",
+    "city": {
+      "name": "Ponte Lambro",
+      "istat": "013188"
+    },
+    "latitude": 45.8308934,
+    "longitude": 9.2260487
+  },
+  {
+    "street": "Piazza Giancarlo Puecher",
+    "number": "10",
+    "city": {
+      "name": "Ponte Lambro",
+      "istat": "013188"
+    },
+    "latitude": 45.8308308,
+    "longitude": 9.2255875
+  },
+  {
+    "street": "Piazza Giancarlo Puecher",
+    "number": "2",
+    "city": {
+      "name": "Ponte Lambro",
+      "istat": "013188"
+    },
+    "latitude": 45.8311057,
+    "longitude": 9.2254407
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "2",
+    "city": {
+      "name": "Ponte Lambro",
+      "istat": "013188"
+    },
+    "latitude": 45.8305533,
+    "longitude": 9.2268551
+  },
+  {
+    "street": "Via Roma",
+    "number": "70",
+    "city": {
+      "name": "Ponte Lambro",
+      "istat": "013188"
+    },
+    "latitude": 45.8298933,
+    "longitude": 9.225308
+  },
+  {
+    "street": "Via Roma",
+    "number": "17",
+    "city": {
+      "name": "Ponte Lambro",
+      "istat": "013188"
+    },
+    "latitude": 45.8294813,
+    "longitude": 9.2243163
+  },
+  {
+    "street": "Via Roma",
+    "number": "72",
+    "city": {
+      "name": "Ponte Lambro",
+      "istat": "013188"
+    },
+    "latitude": 45.8300418,
+    "longitude": 9.2254374
+  },
+  {
+    "street": "Via Roma",
+    "number": "32",
+    "city": {
+      "name": "Ponte Lambro",
+      "istat": "013188"
+    },
+    "latitude": 45.8294712,
+    "longitude": 9.2244258
+  },
+  {
+    "street": "Piazza Giancarlo Puecher",
+    "number": "12",
+    "city": {
+      "name": "Ponte Lambro",
+      "istat": "013188"
+    },
+    "latitude": 45.830765,
+    "longitude": 9.2259106
+  },
+  {
+    "street": "Piazza Giancarlo Puecher",
+    "number": "15",
+    "city": {
+      "name": "Ponte Lambro",
+      "istat": "013188"
+    },
+    "latitude": 45.8309207,
+    "longitude": 9.2260737
+  },
+  {
+    "street": "Via Damiano Chiesa",
+    "number": "12/14",
+    "city": {
+      "name": "Ponte Lambro",
+      "istat": "013188"
+    },
+    "latitude": 45.8223786,
+    "longitude": 9.2197819
+  },
+  {
+    "street": "Via Ventiquattro Maggio",
+    "number": "29",
+    "city": {
+      "name": "Ponte Lambro",
+      "istat": "013188"
+    },
+    "latitude": 45.8195414,
+    "longitude": 9.2228343
+  },
+  {
+    "street": "Via Geret al Lambro",
+    "number": "2",
+    "city": {
+      "name": "Ponte Lambro",
+      "istat": "013188"
+    },
+    "latitude": 45.82705,
+    "longitude": 9.2226384
+  }
+]

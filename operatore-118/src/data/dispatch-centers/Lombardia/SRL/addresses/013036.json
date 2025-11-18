@@ -1,0 +1,212 @@
+[
+  {
+    "street": "Via Cesare Cantù",
+    "number": "9",
+    "city": {
+      "name": "Cadorago",
+      "istat": "013036"
+    },
+    "latitude": 45.72477,
+    "longitude": 9.0383907
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "53",
+    "city": {
+      "name": "Cadorago",
+      "istat": "013036"
+    },
+    "latitude": 45.7169267,
+    "longitude": 9.0395018
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "9",
+    "city": {
+      "name": "Cadorago",
+      "istat": "013036"
+    },
+    "latitude": 45.7110575,
+    "longitude": 9.0419023
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "30",
+    "city": {
+      "name": "Cadorago",
+      "istat": "013036"
+    },
+    "latitude": 45.718714,
+    "longitude": 9.0386305
+  },
+  {
+    "street": "Via Caio Plinio II",
+    "number": "2",
+    "city": {
+      "name": "Cadorago",
+      "istat": "013036"
+    },
+    "latitude": 45.7179264,
+    "longitude": 9.0386806
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "34",
+    "city": {
+      "name": "Cadorago",
+      "istat": "013036"
+    },
+    "latitude": 45.7178178,
+    "longitude": 9.0386779
+  },
+  {
+    "street": "Via Roma",
+    "number": "3",
+    "city": {
+      "name": "Cadorago",
+      "istat": "013036"
+    },
+    "latitude": 45.7290674,
+    "longitude": 9.0398666
+  },
+  {
+    "street": "Via Dottor C. B. Borgonovo",
+    "number": "9",
+    "city": {
+      "name": "Cadorago",
+      "istat": "013036"
+    },
+    "latitude": 45.7222857,
+    "longitude": 9.0528072
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "8",
+    "city": {
+      "name": "Cadorago",
+      "istat": "013036"
+    },
+    "latitude": 45.7245032,
+    "longitude": 9.0398373
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "6",
+    "city": {
+      "name": "Cadorago",
+      "istat": "013036"
+    },
+    "latitude": 45.7245187,
+    "longitude": 9.039623
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "12",
+    "city": {
+      "name": "Cadorago",
+      "istat": "013036"
+    },
+    "latitude": 45.7170058,
+    "longitude": 9.0531915
+  },
+  {
+    "street": "Via Sandro Pertini",
+    "number": "2",
+    "city": {
+      "name": "Cadorago",
+      "istat": "013036"
+    },
+    "latitude": 45.7173098,
+    "longitude": 9.040135
+  },
+  {
+    "street": "Via Marinotti",
+    "number": "14",
+    "city": {
+      "name": "Cadorago",
+      "istat": "013036"
+    },
+    "latitude": 45.7316489,
+    "longitude": 9.0414576
+  },
+  {
+    "street": "Via Marinotti",
+    "number": "12",
+    "city": {
+      "name": "Cadorago",
+      "istat": "013036"
+    },
+    "latitude": 45.7315559,
+    "longitude": 9.0416249
+  },
+  {
+    "street": "Via Marinotti",
+    "number": "10",
+    "city": {
+      "name": "Cadorago",
+      "istat": "013036"
+    },
+    "latitude": 45.7315265,
+    "longitude": 9.0416245
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "15",
+    "city": {
+      "name": "Cadorago",
+      "istat": "013036"
+    },
+    "latitude": 45.7228015,
+    "longitude": 9.052795
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "1",
+    "city": {
+      "name": "Cadorago",
+      "istat": "013036"
+    },
+    "latitude": 45.7237397,
+    "longitude": 9.0541795
+  },
+  {
+    "street": "Via Giuseppe Parini",
+    "number": "1",
+    "city": {
+      "name": "Cadorago",
+      "istat": "013036"
+    },
+    "latitude": 45.7241047,
+    "longitude": 9.0395172
+  },
+  {
+    "street": "Via Caio Plinio Secondo",
+    "number": "1",
+    "city": {
+      "name": "Cadorago",
+      "istat": "013036"
+    },
+    "latitude": 45.7173777,
+    "longitude": 9.0386814
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "42/1",
+    "city": {
+      "name": "Cadorago",
+      "istat": "013036"
+    },
+    "latitude": 45.7165286,
+    "longitude": 9.0396876
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "13",
+    "city": {
+      "name": "Cadorago",
+      "istat": "013036"
+    },
+    "latitude": 45.7343806,
+    "longitude": 9.0355766
+  }
+]

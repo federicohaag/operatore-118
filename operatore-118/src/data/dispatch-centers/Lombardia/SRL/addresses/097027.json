@@ -1,0 +1,42 @@
+[
+  {
+    "street": "Piazza IV Novembre",
+    "number": "1",
+    "city": {
+      "name": "Crandola Valsassina",
+      "istat": "097027"
+    },
+    "latitude": 46.0222771,
+    "longitude": 9.3791345
+  },
+  {
+    "street": "Via ai Maggenghi",
+    "number": "2",
+    "city": {
+      "name": "Crandola Valsassina",
+      "istat": "097027"
+    },
+    "latitude": 46.0217656,
+    "longitude": 9.380289
+  },
+  {
+    "street": "Piazza IV Novembre",
+    "number": "4",
+    "city": {
+      "name": "Crandola Valsassina",
+      "istat": "097027"
+    },
+    "latitude": 46.0224064,
+    "longitude": 9.3787219
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "1",
+    "city": {
+      "name": "Crandola Valsassina",
+      "istat": "097027"
+    },
+    "latitude": 46.0244989,
+    "longitude": 9.3731827
+  }
+]

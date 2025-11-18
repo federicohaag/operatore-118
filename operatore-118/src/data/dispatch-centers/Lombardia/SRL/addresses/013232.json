@@ -1,0 +1,42 @@
+[
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "432",
+    "city": {
+      "name": "Valmorea",
+      "istat": "013232"
+    },
+    "latitude": 45.8152554,
+    "longitude": 8.9348825
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "95",
+    "city": {
+      "name": "Valmorea",
+      "istat": "013232"
+    },
+    "latitude": 45.822529,
+    "longitude": 8.9376223
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "99",
+    "city": {
+      "name": "Valmorea",
+      "istat": "013232"
+    },
+    "latitude": 45.8225642,
+    "longitude": 8.9377285
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "105",
+    "city": {
+      "name": "Valmorea",
+      "istat": "013232"
+    },
+    "latitude": 45.8225598,
+    "longitude": 8.9377922
+  }
+]

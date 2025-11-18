@@ -1,0 +1,82 @@
+[
+  {
+    "street": "Via San Vito",
+    "number": "3",
+    "city": {
+      "name": "Luvinate",
+      "istat": "012093"
+    },
+    "latitude": 45.8404349,
+    "longitude": 8.7682766
+  },
+  {
+    "street": "Via San Vito",
+    "number": "1",
+    "city": {
+      "name": "Luvinate",
+      "istat": "012093"
+    },
+    "latitude": 45.8399146,
+    "longitude": 8.7684
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "18",
+    "city": {
+      "name": "Luvinate",
+      "istat": "012093"
+    },
+    "latitude": 45.8396511,
+    "longitude": 8.7680498
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "14",
+    "city": {
+      "name": "Luvinate",
+      "istat": "012093"
+    },
+    "latitude": 45.8393958,
+    "longitude": 8.7691666
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "7",
+    "city": {
+      "name": "Luvinate",
+      "istat": "012093"
+    },
+    "latitude": 45.8384339,
+    "longitude": 8.7721091
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "28",
+    "city": {
+      "name": "Luvinate",
+      "istat": "012093"
+    },
+    "latitude": 45.8399873,
+    "longitude": 8.7626715
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "33",
+    "city": {
+      "name": "Luvinate",
+      "istat": "012093"
+    },
+    "latitude": 45.8393574,
+    "longitude": 8.7670313
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "3",
+    "city": {
+      "name": "Luvinate",
+      "istat": "012093"
+    },
+    "latitude": 45.8383011,
+    "longitude": 8.7728209
+  }
+]

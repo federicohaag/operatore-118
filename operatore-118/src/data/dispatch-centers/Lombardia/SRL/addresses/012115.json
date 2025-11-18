@@ -1,0 +1,122 @@
+[
+  {
+    "street": "Piazza Don Luigi Malcotti",
+    "number": "3",
+    "city": {
+      "name": "Rancio Valcuvia",
+      "istat": "012115"
+    },
+    "latitude": 45.9164073,
+    "longitude": 8.7703649
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "8",
+    "city": {
+      "name": "Rancio Valcuvia",
+      "istat": "012115"
+    },
+    "latitude": 45.9162459,
+    "longitude": 8.7704578
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "35",
+    "city": {
+      "name": "Rancio Valcuvia",
+      "istat": "012115"
+    },
+    "latitude": 45.91502,
+    "longitude": 8.7570638
+  },
+  {
+    "street": "Via per Cantevria",
+    "number": "7",
+    "city": {
+      "name": "Rancio Valcuvia",
+      "istat": "012115"
+    },
+    "latitude": 45.9149408,
+    "longitude": 8.7566751
+  },
+  {
+    "street": "Via Roma",
+    "number": "21",
+    "city": {
+      "name": "Rancio Valcuvia",
+      "istat": "012115"
+    },
+    "latitude": 45.9145238,
+    "longitude": 8.7731622
+  },
+  {
+    "street": "Via IV Novembre",
+    "number": "4",
+    "city": {
+      "name": "Rancio Valcuvia",
+      "istat": "012115"
+    },
+    "latitude": 45.9201192,
+    "longitude": 8.7625951
+  },
+  {
+    "street": "Piazza Don Luigi Malcotti",
+    "number": "1",
+    "city": {
+      "name": "Rancio Valcuvia",
+      "istat": "012115"
+    },
+    "latitude": 45.9163703,
+    "longitude": 8.7702448
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "13",
+    "city": {
+      "name": "Rancio Valcuvia",
+      "istat": "012115"
+    },
+    "latitude": 45.914972,
+    "longitude": 8.7600489
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "15",
+    "city": {
+      "name": "Rancio Valcuvia",
+      "istat": "012115"
+    },
+    "latitude": 45.9147458,
+    "longitude": 8.7597054
+  },
+  {
+    "street": "Via per Cavona",
+    "number": "1",
+    "city": {
+      "name": "Rancio Valcuvia",
+      "istat": "012115"
+    },
+    "latitude": 45.9117097,
+    "longitude": 8.7614174
+  },
+  {
+    "street": "Via per Cavona",
+    "number": "3",
+    "city": {
+      "name": "Rancio Valcuvia",
+      "istat": "012115"
+    },
+    "latitude": 45.9115488,
+    "longitude": 8.7609621
+  },
+  {
+    "street": "Via San Pietro",
+    "number": "16",
+    "city": {
+      "name": "Rancio Valcuvia",
+      "istat": "012115"
+    },
+    "latitude": 45.9201256,
+    "longitude": 8.7626134
+  }
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "20",
+    "city": {
+      "name": "Buguggiate",
+      "istat": "012025"
+    },
+    "latitude": 45.7800643,
+    "longitude": 8.8091558
+  },
+  {
+    "street": "Via Cavour",
+    "number": "2",
+    "city": {
+      "name": "Buguggiate",
+      "istat": "012025"
+    },
+    "latitude": 45.7854947,
+    "longitude": 8.805167
+  },
+  {
+    "street": "Piazza Aldo Moro",
+    "number": "1",
+    "city": {
+      "name": "Buguggiate",
+      "istat": "012025"
+    },
+    "latitude": 45.7857469,
+    "longitude": 8.8056246
+  },
+  {
+    "street": "Via Cavour",
+    "number": "71",
+    "city": {
+      "name": "Buguggiate",
+      "istat": "012025"
+    },
+    "latitude": 45.7810108,
+    "longitude": 8.8098178
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "31",
+    "city": {
+      "name": "Buguggiate",
+      "istat": "012025"
+    },
+    "latitude": 45.7806625,
+    "longitude": 8.8095372
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "30",
+    "city": {
+      "name": "Buguggiate",
+      "istat": "012025"
+    },
+    "latitude": 45.7803874,
+    "longitude": 8.8096687
+  },
+  {
+    "street": "Via Montello",
+    "number": "1",
+    "city": {
+      "name": "Buguggiate",
+      "istat": "012025"
+    },
+    "latitude": 45.7805102,
+    "longitude": 8.8103175
+  },
+  {
+    "street": "Via Sardegna",
+    "number": "10",
+    "city": {
+      "name": "Buguggiate",
+      "istat": "012025"
+    },
+    "latitude": 45.7843755,
+    "longitude": 8.8072748
+  },
+  {
+    "street": "Via Cavour",
+    "number": "5",
+    "city": {
+      "name": "Buguggiate",
+      "istat": "012025"
+    },
+    "latitude": 45.7853917,
+    "longitude": 8.8056162
+  },
+  {
+    "street": "Via Cavour",
+    "number": "15",
+    "city": {
+      "name": "Buguggiate",
+      "istat": "012025"
+    },
+    "latitude": 45.7849406,
+    "longitude": 8.8058633
+  },
+  {
+    "street": "Via Cavour",
+    "number": "8",
+    "city": {
+      "name": "Buguggiate",
+      "istat": "012025"
+    },
+    "latitude": 45.7849164,
+    "longitude": 8.8055463
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "4",
+    "city": {
+      "name": "Buguggiate",
+      "istat": "012025"
+    },
+    "latitude": 45.7851909,
+    "longitude": 8.8054216
+  },
+  {
+    "street": "Via Cavour",
+    "number": "10",
+    "city": {
+      "name": "Buguggiate",
+      "istat": "012025"
+    },
+    "latitude": 45.7848421,
+    "longitude": 8.8055802
+  },
+  {
+    "street": "Via Cavour",
+    "number": "4",
+    "city": {
+      "name": "Buguggiate",
+      "istat": "012025"
+    },
+    "latitude": 45.7851069,
+    "longitude": 8.8054774
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "10",
+    "city": {
+      "name": "Buguggiate",
+      "istat": "012025"
+    },
+    "latitude": 45.7866585,
+    "longitude": 8.8052698
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "36",
+    "city": {
+      "name": "Buguggiate",
+      "istat": "012025"
+    },
+    "latitude": 45.7804726,
+    "longitude": 8.8097851
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "33",
+    "city": {
+      "name": "Buguggiate",
+      "istat": "012025"
+    },
+    "latitude": 45.7811948,
+    "longitude": 8.8105926
+  },
+  {
+    "street": "Via Pozzolo",
+    "number": "4",
+    "city": {
+      "name": "Buguggiate",
+      "istat": "012025"
+    },
+    "latitude": 45.7855082,
+    "longitude": 8.8109896
+  },
+  {
+    "street": "Via Trieste",
+    "number": "47",
+    "city": {
+      "name": "Buguggiate",
+      "istat": "012025"
+    },
+    "latitude": 45.7851808,
+    "longitude": 8.8104424
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "88",
+    "city": {
+      "name": "Buguggiate",
+      "istat": "012025"
+    },
+    "latitude": 45.7845565,
+    "longitude": 8.8183081
+  },
+  {
+    "street": "Via XXV Aprile",
+    "number": "14",
+    "city": {
+      "name": "Buguggiate",
+      "istat": "012025"
+    },
+    "latitude": 45.779061,
+    "longitude": 8.8078618
+  },
+  {
+    "street": "Via Valle Peschiera",
+    "number": "2",
+    "city": {
+      "name": "Buguggiate",
+      "istat": "012025"
+    },
+    "latitude": 45.7789025,
+    "longitude": 8.8076293
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "26",
+    "city": {
+      "name": "Buguggiate",
+      "istat": "012025"
+    },
+    "latitude": 45.7930641,
+    "longitude": 8.8016297
+  }
+]

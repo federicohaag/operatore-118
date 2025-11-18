@@ -1,0 +1,132 @@
+[
+  {
+    "street": "Via Olgelasca",
+    "number": "1",
+    "city": {
+      "name": "Brenna",
+      "istat": "013029"
+    },
+    "latitude": 45.7370055,
+    "longitude": 9.1805849
+  },
+  {
+    "street": "Via Grimello",
+    "number": "2",
+    "city": {
+      "name": "Brenna",
+      "istat": "013029"
+    },
+    "latitude": 45.7432287,
+    "longitude": 9.1853097
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "7",
+    "city": {
+      "name": "Brenna",
+      "istat": "013029"
+    },
+    "latitude": 45.7438561,
+    "longitude": 9.18635
+  },
+  {
+    "street": "Via Italia",
+    "number": "28",
+    "city": {
+      "name": "Brenna",
+      "istat": "013029"
+    },
+    "latitude": 45.7470483,
+    "longitude": 9.1856121
+  },
+  {
+    "street": "Via Italia",
+    "number": "3a",
+    "city": {
+      "name": "Brenna",
+      "istat": "013029"
+    },
+    "latitude": 45.7439967,
+    "longitude": 9.1864036
+  },
+  {
+    "street": "Via Monte Bianco",
+    "number": "1",
+    "city": {
+      "name": "Brenna",
+      "istat": "013029"
+    },
+    "latitude": 45.7406293,
+    "longitude": 9.18644
+  },
+  {
+    "street": "Via Moriolo",
+    "number": "2",
+    "city": {
+      "name": "Brenna",
+      "istat": "013029"
+    },
+    "latitude": 45.747161,
+    "longitude": 9.1845593
+  },
+  {
+    "street": "Via Moriolo",
+    "number": "7",
+    "city": {
+      "name": "Brenna",
+      "istat": "013029"
+    },
+    "latitude": 45.7467803,
+    "longitude": 9.1840389
+  },
+  {
+    "street": "Via Moriolo",
+    "number": "9",
+    "city": {
+      "name": "Brenna",
+      "istat": "013029"
+    },
+    "latitude": 45.7462291,
+    "longitude": 9.1837454
+  },
+  {
+    "street": "Via del fontanile",
+    "number": "7",
+    "city": {
+      "name": "Brenna",
+      "istat": "013029"
+    },
+    "latitude": 45.7373424,
+    "longitude": 9.1932655
+  },
+  {
+    "street": "Via del Castagno",
+    "number": "2",
+    "city": {
+      "name": "Brenna",
+      "istat": "013029"
+    },
+    "latitude": 45.7322687,
+    "longitude": 9.192555
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "1",
+    "city": {
+      "name": "Brenna",
+      "istat": "013029"
+    },
+    "latitude": 45.7439243,
+    "longitude": 9.1854559
+  },
+  {
+    "street": "Via Trieste",
+    "number": "7",
+    "city": {
+      "name": "Brenna",
+      "istat": "013029"
+    },
+    "latitude": 45.7443761,
+    "longitude": 9.186213
+  }
+]

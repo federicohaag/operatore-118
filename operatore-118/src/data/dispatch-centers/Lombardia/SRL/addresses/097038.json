@@ -1,0 +1,222 @@
+[
+  {
+    "street": "Via Statale",
+    "number": "1733",
+    "city": {
+      "name": "Garlate",
+      "istat": "097038"
+    },
+    "latitude": 45.8182106,
+    "longitude": 9.3960249
+  },
+  {
+    "street": "Via Statale",
+    "number": "1157",
+    "city": {
+      "name": "Garlate",
+      "istat": "097038"
+    },
+    "latitude": 45.8123219,
+    "longitude": 9.3991953
+  },
+  {
+    "street": "Via Statale",
+    "number": "1755",
+    "city": {
+      "name": "Garlate",
+      "istat": "097038"
+    },
+    "latitude": 45.8186742,
+    "longitude": 9.3958693
+  },
+  {
+    "street": "Via Statale",
+    "number": "1122",
+    "city": {
+      "name": "Garlate",
+      "istat": "097038"
+    },
+    "latitude": 45.8114012,
+    "longitude": 9.4000492
+  },
+  {
+    "street": "Via Antonio Stoppani",
+    "number": "540",
+    "city": {
+      "name": "Garlate",
+      "istat": "097038"
+    },
+    "latitude": 45.8114718,
+    "longitude": 9.3989211
+  },
+  {
+    "street": "Via alla Chiesa",
+    "number": "37",
+    "city": {
+      "name": "Garlate",
+      "istat": "097038"
+    },
+    "latitude": 45.8062626,
+    "longitude": 9.4025705
+  },
+  {
+    "street": "Via Statale",
+    "number": "1963",
+    "city": {
+      "name": "Garlate",
+      "istat": "097038"
+    },
+    "latitude": 45.8204985,
+    "longitude": 9.3949031
+  },
+  {
+    "street": "Via Statale",
+    "number": "1937",
+    "city": {
+      "name": "Garlate",
+      "istat": "097038"
+    },
+    "latitude": 45.820293,
+    "longitude": 9.3950903
+  },
+  {
+    "street": "Via Statale",
+    "number": "1933",
+    "city": {
+      "name": "Garlate",
+      "istat": "097038"
+    },
+    "latitude": 45.8202455,
+    "longitude": 9.3951486
+  },
+  {
+    "street": "Via Statale",
+    "number": "1923",
+    "city": {
+      "name": "Garlate",
+      "istat": "097038"
+    },
+    "latitude": 45.8201858,
+    "longitude": 9.395222
+  },
+  {
+    "street": "Via Statale",
+    "number": "1911",
+    "city": {
+      "name": "Garlate",
+      "istat": "097038"
+    },
+    "latitude": 45.8200985,
+    "longitude": 9.3953188
+  },
+  {
+    "street": "Via Statale",
+    "number": "1835",
+    "city": {
+      "name": "Garlate",
+      "istat": "097038"
+    },
+    "latitude": 45.8193104,
+    "longitude": 9.3957335
+  },
+  {
+    "street": "Via Foppaola",
+    "number": "113",
+    "city": {
+      "name": "Garlate",
+      "istat": "097038"
+    },
+    "latitude": 45.815799,
+    "longitude": 9.4005605
+  },
+  {
+    "street": "Via Statale",
+    "number": "884",
+    "city": {
+      "name": "Garlate",
+      "istat": "097038"
+    },
+    "latitude": 45.809851,
+    "longitude": 9.4011898
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "1",
+    "city": {
+      "name": "Garlate",
+      "istat": "097038"
+    },
+    "latitude": 45.8064538,
+    "longitude": 9.4013645
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "146",
+    "city": {
+      "name": "Garlate",
+      "istat": "097038"
+    },
+    "latitude": 45.8068535,
+    "longitude": 9.3999943
+  },
+  {
+    "street": "Piazza Foppa",
+    "number": "2",
+    "city": {
+      "name": "Garlate",
+      "istat": "097038"
+    },
+    "latitude": 45.8064803,
+    "longitude": 9.4027668
+  },
+  {
+    "street": "Via Statale",
+    "number": "703",
+    "city": {
+      "name": "Garlate",
+      "istat": "097038"
+    },
+    "latitude": 45.8076332,
+    "longitude": 9.4010458
+  },
+  {
+    "street": "Via Alzaia",
+    "number": "16",
+    "city": {
+      "name": "Garlate",
+      "istat": "097038"
+    },
+    "latitude": 45.8046554,
+    "longitude": 9.4053478
+  },
+  {
+    "street": "Vicolo Glorietta",
+    "number": "65",
+    "city": {
+      "name": "Garlate",
+      "istat": "097038"
+    },
+    "latitude": 45.8058401,
+    "longitude": 9.4011178
+  },
+  {
+    "street": "Via Statale",
+    "number": "892",
+    "city": {
+      "name": "Garlate",
+      "istat": "097038"
+    },
+    "latitude": 45.8102539,
+    "longitude": 9.4009237
+  },
+  {
+    "street": "Via Roma",
+    "number": "192",
+    "city": {
+      "name": "Garlate",
+      "istat": "097038"
+    },
+    "latitude": 45.8043865,
+    "longitude": 9.4063628
+  }
+]

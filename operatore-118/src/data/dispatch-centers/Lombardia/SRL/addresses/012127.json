@@ -1,0 +1,822 @@
+[
+  {
+    "street": "Via Bruno Passerini",
+    "number": "1",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.709667,
+    "longitude": 8.90149
+  },
+  {
+    "street": "Via della Fornace Cortellezzi",
+    "number": "20",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6987267,
+    "longitude": 8.9101457
+  },
+  {
+    "street": "Via Bruno Passerini",
+    "number": "16",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.7094543,
+    "longitude": 8.9010129
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "8",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.7032276,
+    "longitude": 8.9194137
+  },
+  {
+    "street": "Via Dorligo Albisetti",
+    "number": "11",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.7085658,
+    "longitude": 8.9030972
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "10",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.7144898,
+    "longitude": 8.9039532
+  },
+  {
+    "street": "Via dei Colombini",
+    "number": "12",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6989414,
+    "longitude": 8.9065624
+  },
+  {
+    "street": "Via Europa",
+    "number": "6",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.7034199,
+    "longitude": 8.9054039
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "4",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.7143533,
+    "longitude": 8.9043835
+  },
+  {
+    "street": "Via della Fornace Cortellezzi",
+    "number": "14",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6987804,
+    "longitude": 8.911641
+  },
+  {
+    "street": "Corso Paolo Bernacchi",
+    "number": "28",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.7133402,
+    "longitude": 8.9050486
+  },
+  {
+    "street": "Via della Fornace Cortellezzi",
+    "number": "32",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6983388,
+    "longitude": 8.910737
+  },
+  {
+    "street": "Via Giacomo Bianchi",
+    "number": "78",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.7103805,
+    "longitude": 8.8910441
+  },
+  {
+    "street": "Via Goffredo Mameli",
+    "number": "13",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.7138001,
+    "longitude": 8.9072671
+  },
+  {
+    "street": "Via Como",
+    "number": "5",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6921476,
+    "longitude": 8.9064833
+  },
+  {
+    "street": "Via Como",
+    "number": "10",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6922999,
+    "longitude": 8.906082
+  },
+  {
+    "street": "Via Como",
+    "number": "14",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6920319,
+    "longitude": 8.9052121
+  },
+  {
+    "street": "Via Como",
+    "number": "16",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6919187,
+    "longitude": 8.9048404
+  },
+  {
+    "street": "Via Como",
+    "number": "11",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6918481,
+    "longitude": 8.9049708
+  },
+  {
+    "street": "Via Como",
+    "number": "13",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6918106,
+    "longitude": 8.9048045
+  },
+  {
+    "street": "Via Como",
+    "number": "15",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6915746,
+    "longitude": 8.9041447
+  },
+  {
+    "street": "Via Brescia",
+    "number": "13",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6908557,
+    "longitude": 8.9065411
+  },
+  {
+    "street": "Via Brescia",
+    "number": "11",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6909319,
+    "longitude": 8.9067704
+  },
+  {
+    "street": "Via Brescia",
+    "number": "9",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.690975,
+    "longitude": 8.9069578
+  },
+  {
+    "street": "Via Brescia",
+    "number": "10",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6911699,
+    "longitude": 8.9069289
+  },
+  {
+    "street": "Via Brescia",
+    "number": "8",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6913406,
+    "longitude": 8.9076623
+  },
+  {
+    "street": "Via Brescia",
+    "number": "8a",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6914476,
+    "longitude": 8.9081182
+  },
+  {
+    "street": "Via Brescia",
+    "number": "6",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6917638,
+    "longitude": 8.9093753
+  },
+  {
+    "street": "Via Brescia",
+    "number": "5",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6916614,
+    "longitude": 8.9096228
+  },
+  {
+    "street": "Via Brescia",
+    "number": "1",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6918252,
+    "longitude": 8.9102676
+  },
+  {
+    "street": "Via Brescia",
+    "number": "3",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6918275,
+    "longitude": 8.9102025
+  },
+  {
+    "street": "Via Mantova",
+    "number": "1",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6904671,
+    "longitude": 8.9036825
+  },
+  {
+    "street": "Via Mantova",
+    "number": "3",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6903306,
+    "longitude": 8.9032233
+  },
+  {
+    "street": "Via Lecco",
+    "number": "6",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6910909,
+    "longitude": 8.905998
+  },
+  {
+    "street": "Via Lecco",
+    "number": "4",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6913997,
+    "longitude": 8.9057734
+  },
+  {
+    "street": "Via Carlo Magni",
+    "number": "15",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.689978,
+    "longitude": 8.9074893
+  },
+  {
+    "street": "Via Carlo Magni",
+    "number": "1a",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6907911,
+    "longitude": 8.9115341
+  },
+  {
+    "street": "Via Carlo Magni",
+    "number": "1",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6905475,
+    "longitude": 8.9105095
+  },
+  {
+    "street": "Via Carlo Magni",
+    "number": "3",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6901578,
+    "longitude": 8.9089055
+  },
+  {
+    "street": "Via Carlo Magni",
+    "number": "5",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6899592,
+    "longitude": 8.9078916
+  },
+  {
+    "street": "Via Carlo Magni",
+    "number": "2",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6908398,
+    "longitude": 8.9112068
+  },
+  {
+    "street": "Via Carlo Magni",
+    "number": "4",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6908061,
+    "longitude": 8.9110459
+  },
+  {
+    "street": "Via Carlo Magni",
+    "number": "6",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6906112,
+    "longitude": 8.9100535
+  },
+  {
+    "street": "Via Sondrio",
+    "number": "2",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6897157,
+    "longitude": 8.9083905
+  },
+  {
+    "street": "Via Sondrio",
+    "number": "5",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6893222,
+    "longitude": 8.9083959
+  },
+  {
+    "street": "Via Sondrio",
+    "number": "7",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6890149,
+    "longitude": 8.9085407
+  },
+  {
+    "street": "Via Pavia",
+    "number": "18",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6886814,
+    "longitude": 8.9087607
+  },
+  {
+    "street": "Via Pavia",
+    "number": "26",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6891948,
+    "longitude": 8.91118
+  },
+  {
+    "street": "Via Pavia",
+    "number": "28",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6893709,
+    "longitude": 8.9118989
+  },
+  {
+    "street": "Via Pavia",
+    "number": "30",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6895096,
+    "longitude": 8.9125479
+  },
+  {
+    "street": "Via Pavia",
+    "number": "34",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6897981,
+    "longitude": 8.9135511
+  },
+  {
+    "street": "Via Salvador allende",
+    "number": "9",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6906337,
+    "longitude": 8.9042546
+  },
+  {
+    "street": "Via Salvador allende",
+    "number": "7",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6908436,
+    "longitude": 8.9041419
+  },
+  {
+    "street": "Via Tagliamento",
+    "number": "2",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.7065059,
+    "longitude": 8.9060133
+  },
+  {
+    "street": "Via Giacomo Bianchi",
+    "number": "1",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.713703,
+    "longitude": 8.9026514
+  },
+  {
+    "street": "Via Vincenzo Bellini",
+    "number": "1",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.7064846,
+    "longitude": 8.9213839
+  },
+  {
+    "street": "Via Evangelista Torricelli",
+    "number": "3",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6969175,
+    "longitude": 8.9222686
+  },
+  {
+    "street": "Via Archimede",
+    "number": "1",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6963821,
+    "longitude": 8.9235198
+  },
+  {
+    "street": "Via Fiume",
+    "number": "66",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6972134,
+    "longitude": 8.9231379
+  },
+  {
+    "street": "Piazzale Angelo Zanaboni",
+    "number": "1",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.7227653,
+    "longitude": 8.900958
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "17",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.7184053,
+    "longitude": 8.8977466
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "39a",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.7149203,
+    "longitude": 8.9050949
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "1",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.7200085,
+    "longitude": 8.9137986
+  },
+  {
+    "street": "Via Giacomo Bianchi",
+    "number": "25b",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.7129763,
+    "longitude": 8.9009508
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "28",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.7185232,
+    "longitude": 8.8977053
+  },
+  {
+    "street": "Via Gorizia",
+    "number": "42",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.7014701,
+    "longitude": 8.910124
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "90",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.7168014,
+    "longitude": 8.900948
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "57",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.7165234,
+    "longitude": 8.9009361
+  },
+  {
+    "street": "Via Gaetano Donizetti",
+    "number": "17",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.7041985,
+    "longitude": 8.9243853
+  },
+  {
+    "street": "Via della Fornace Cortellezzi",
+    "number": "12",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.6985674,
+    "longitude": 8.9119794
+  },
+  {
+    "street": "Via Gradisca d'Isonzo",
+    "number": "16",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.7085433,
+    "longitude": 8.9125648
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "75A",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.7235108,
+    "longitude": 8.892293
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "11",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.7032822,
+    "longitude": 8.919146
+  },
+  {
+    "street": "Via Cesare Beccaria",
+    "number": "1",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.7010452,
+    "longitude": 8.9078162
+  },
+  {
+    "street": "Via Bruno Passerini",
+    "number": "14",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.7100634,
+    "longitude": 8.9005483
+  },
+  {
+    "street": "Piazza Stazione",
+    "number": "1",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.7104322,
+    "longitude": 8.9069433
+  },
+  {
+    "street": "Piazza del Popolo",
+    "number": "1",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.7111998,
+    "longitude": 8.9050991
+  },
+  {
+    "street": "Via Antonio Rosmini",
+    "number": "1",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.7207534,
+    "longitude": 8.8889997
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "10",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.7182948,
+    "longitude": 8.8996544
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "70",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.7224071,
+    "longitude": 8.8942728
+  },
+  {
+    "street": "Via Zara",
+    "number": "37",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.711919,
+    "longitude": 8.9103153
+  },
+  {
+    "street": "Via San Francesco d'Assisi",
+    "number": "7-10",
+    "city": {
+      "name": "Tradate",
+      "istat": "012127"
+    },
+    "latitude": 45.7095724,
+    "longitude": 8.8989361
+  }
+]

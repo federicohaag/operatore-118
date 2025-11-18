@@ -1,0 +1,1092 @@
+[
+  {
+    "street": "Via Misurina",
+    "number": "4",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8414022,
+    "longitude": 8.8336286
+  },
+  {
+    "street": "Via Misurina",
+    "number": "5",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8412691,
+    "longitude": 8.8335584
+  },
+  {
+    "street": "Via Gian Pietro Porro",
+    "number": "194",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8578512,
+    "longitude": 8.8537799
+  },
+  {
+    "street": "Via Valganna",
+    "number": "24",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8647615,
+    "longitude": 8.8333666
+  },
+  {
+    "street": "Via Gian Pietro Porro",
+    "number": "32",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8505447,
+    "longitude": 8.8387973
+  },
+  {
+    "street": "Via Gian Pietro Porro",
+    "number": "30",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8503398,
+    "longitude": 8.838852
+  },
+  {
+    "street": "Via Gian Pietro Porro",
+    "number": "40",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8511667,
+    "longitude": 8.8391117
+  },
+  {
+    "street": "Via Spagnoletto",
+    "number": "10",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.848181,
+    "longitude": 8.8398428
+  },
+  {
+    "street": "Via Gian Pietro Porro",
+    "number": "35",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8519016,
+    "longitude": 8.8385049
+  },
+  {
+    "street": "Via Monte Bisbino",
+    "number": "37",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8559406,
+    "longitude": 8.8523531
+  },
+  {
+    "street": "Via Monte Bisbino",
+    "number": "7",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.857213,
+    "longitude": 8.8533529
+  },
+  {
+    "street": "Via Felice Piffaretti",
+    "number": "12",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8500417,
+    "longitude": 8.8397723
+  },
+  {
+    "street": "Via Trento",
+    "number": "27",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8408222,
+    "longitude": 8.8350652
+  },
+  {
+    "street": "Via Cortina",
+    "number": "21",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8413955,
+    "longitude": 8.8343573
+  },
+  {
+    "street": "Via Arturo Ferrarin",
+    "number": "25",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8402375,
+    "longitude": 8.8451922
+  },
+  {
+    "street": "Via Campo dei Fiori",
+    "number": "20",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8403705,
+    "longitude": 8.8374722
+  },
+  {
+    "street": "Via Olona",
+    "number": "38",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8466959,
+    "longitude": 8.8266993
+  },
+  {
+    "street": "Via Pavia",
+    "number": "86",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8417104,
+    "longitude": 8.8359273
+  },
+  {
+    "street": "Via Gian Pietro Porro",
+    "number": "146",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8556285,
+    "longitude": 8.8481054
+  },
+  {
+    "street": "Via Bruno Jamoretti",
+    "number": "124",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8409993,
+    "longitude": 8.8410704
+  },
+  {
+    "street": "Via Olona",
+    "number": "23",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8457098,
+    "longitude": 8.8298419
+  },
+  {
+    "street": "Via Campagna",
+    "number": "24",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8405263,
+    "longitude": 8.8399955
+  },
+  {
+    "street": "Via Ronchetti",
+    "number": "20",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8466907,
+    "longitude": 8.840753
+  },
+  {
+    "street": "Via Bruno Jamoretti",
+    "number": "145",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8378601,
+    "longitude": 8.8422247
+  },
+  {
+    "street": "Largo Edoardo Bulgheroni",
+    "number": "1",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8434142,
+    "longitude": 8.8247717
+  },
+  {
+    "street": "Via Gaetano Previati",
+    "number": "9",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.854827,
+    "longitude": 8.8422734
+  },
+  {
+    "street": "Via Gaetano Previati",
+    "number": "14",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8551869,
+    "longitude": 8.843144
+  },
+  {
+    "street": "Via Martinelli Foscarini",
+    "number": "18",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8526424,
+    "longitude": 8.8378082
+  },
+  {
+    "street": "Via Maria Croci",
+    "number": "2",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8484068,
+    "longitude": 8.8373409
+  },
+  {
+    "street": "Via Andreoli",
+    "number": "7",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8489953,
+    "longitude": 8.8377834
+  },
+  {
+    "street": "Via Martinelli Foscarini",
+    "number": "2",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8526718,
+    "longitude": 8.8392538
+  },
+  {
+    "street": "Via Gian Pietro Porro",
+    "number": "14",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8492807,
+    "longitude": 8.8391106
+  },
+  {
+    "street": "Via Bidino",
+    "number": "10",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8394723,
+    "longitude": 8.8392858
+  },
+  {
+    "street": "Via Piave",
+    "number": "18",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8359542,
+    "longitude": 8.8472244
+  },
+  {
+    "street": "Via Tagliamento",
+    "number": "21",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.835323,
+    "longitude": 8.8458789
+  },
+  {
+    "street": "Via Dobbiaco",
+    "number": "47",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8354375,
+    "longitude": 8.8482027
+  },
+  {
+    "street": "Via Edoardo Tabacchi",
+    "number": "20",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8501787,
+    "longitude": 8.8358449
+  },
+  {
+    "street": "Via Dobbiaco",
+    "number": "33",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.834601,
+    "longitude": 8.8461296
+  },
+  {
+    "street": "Via Dobbiaco",
+    "number": "35",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8346552,
+    "longitude": 8.8465827
+  },
+  {
+    "street": "Via Tagliamento",
+    "number": "8",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.835693,
+    "longitude": 8.8466844
+  },
+  {
+    "street": "Via Dobbiaco",
+    "number": "61",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8360261,
+    "longitude": 8.8492057
+  },
+  {
+    "street": "Via Dobbiaco",
+    "number": "59",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8359219,
+    "longitude": 8.8489435
+  },
+  {
+    "street": "Via Dobbiaco",
+    "number": "37",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.83461,
+    "longitude": 8.8468214
+  },
+  {
+    "street": "Via Dobbiaco",
+    "number": "31",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8348437,
+    "longitude": 8.8460925
+  },
+  {
+    "street": "Via Dobbiaco",
+    "number": "60",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.837078,
+    "longitude": 8.8511893
+  },
+  {
+    "street": "Via Dobbiaco",
+    "number": "57",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8358196,
+    "longitude": 8.8486967
+  },
+  {
+    "street": "Via Dobbiaco",
+    "number": "45",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8352413,
+    "longitude": 8.8480309
+  },
+  {
+    "street": "Via Piave",
+    "number": "27",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8355575,
+    "longitude": 8.8479851
+  },
+  {
+    "street": "Via Piave",
+    "number": "25",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8357275,
+    "longitude": 8.8478927
+  },
+  {
+    "street": "Via Dobbiaco",
+    "number": "65",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8362863,
+    "longitude": 8.8487424
+  },
+  {
+    "street": "Via Tagliamento",
+    "number": "2",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8357364,
+    "longitude": 8.8474908
+  },
+  {
+    "street": "Via Tagliamento",
+    "number": "3",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8354296,
+    "longitude": 8.8473364
+  },
+  {
+    "street": "Via Tagliamento",
+    "number": "4",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8356633,
+    "longitude": 8.8472953
+  },
+  {
+    "street": "Via Piave",
+    "number": "20",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8355105,
+    "longitude": 8.8476663
+  },
+  {
+    "street": "Via Dobbiaco",
+    "number": "43",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8351462,
+    "longitude": 8.847367
+  },
+  {
+    "street": "Via Piave",
+    "number": "22",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8351895,
+    "longitude": 8.8476058
+  },
+  {
+    "street": "Via Dobbiaco",
+    "number": "41",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8347699,
+    "longitude": 8.8472527
+  },
+  {
+    "street": "Via Tagliamento",
+    "number": "15",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.835141,
+    "longitude": 8.8466414
+  },
+  {
+    "street": "Via Dobbiaco",
+    "number": "15",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8339785,
+    "longitude": 8.8456962
+  },
+  {
+    "street": "Via Dobbiaco",
+    "number": "19",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8342581,
+    "longitude": 8.8460553
+  },
+  {
+    "street": "Via Dobbiaco",
+    "number": "21",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.834177,
+    "longitude": 8.8451965
+  },
+  {
+    "street": "Via Dobbiaco",
+    "number": "23",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8345185,
+    "longitude": 8.845224
+  },
+  {
+    "street": "Via Dobbiaco",
+    "number": "25",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8344336,
+    "longitude": 8.845558
+  },
+  {
+    "street": "Via Dobbiaco",
+    "number": "27",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8347452,
+    "longitude": 8.8455601
+  },
+  {
+    "street": "Via Dobbiaco",
+    "number": "29",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8350682,
+    "longitude": 8.8460135
+  },
+  {
+    "street": "Via Tagliamento",
+    "number": "19",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8352335,
+    "longitude": 8.8463227
+  },
+  {
+    "street": "Via Tagliamento",
+    "number": "36",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8358209,
+    "longitude": 8.8452829
+  },
+  {
+    "street": "Via Tagliamento",
+    "number": "13",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8354432,
+    "longitude": 8.8465606
+  },
+  {
+    "street": "Via Tagliamento",
+    "number": "6",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8358366,
+    "longitude": 8.8469843
+  },
+  {
+    "street": "Via Piave",
+    "number": "16",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8361354,
+    "longitude": 8.8471702
+  },
+  {
+    "street": "Via Ca Zena",
+    "number": "7",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8552451,
+    "longitude": 8.8443286
+  },
+  {
+    "street": "Via Ca Zena",
+    "number": "1",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8550027,
+    "longitude": 8.8434242
+  },
+  {
+    "street": "Via Ca Zena",
+    "number": "3",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8549891,
+    "longitude": 8.843911
+  },
+  {
+    "street": "Via Gian Pietro Porro",
+    "number": "180",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8567443,
+    "longitude": 8.8511151
+  },
+  {
+    "street": "Via Galeazzo Alessi",
+    "number": "4",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8552375,
+    "longitude": 8.8455695
+  },
+  {
+    "street": "Via Gaetano Previati",
+    "number": "1",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8542432,
+    "longitude": 8.8429078
+  },
+  {
+    "street": "Via Gaetano Previati",
+    "number": "3",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8541149,
+    "longitude": 8.8424632
+  },
+  {
+    "street": "Via Gian Pietro Porro",
+    "number": "34",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8507101,
+    "longitude": 8.8387456
+  },
+  {
+    "street": "Via Gian Pietro Porro",
+    "number": "17",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8500464,
+    "longitude": 8.8385908
+  },
+  {
+    "street": "Via Ca Zena",
+    "number": "5",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8547685,
+    "longitude": 8.8442876
+  },
+  {
+    "street": "Via Galeazzo Alessi",
+    "number": "15",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.856102,
+    "longitude": 8.8456055
+  },
+  {
+    "street": "Via Ca Zena",
+    "number": "21",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8557112,
+    "longitude": 8.8462063
+  },
+  {
+    "street": "Via Ca Zena",
+    "number": "23",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8557271,
+    "longitude": 8.846472
+  },
+  {
+    "street": "Via Gaetano Previati",
+    "number": "7",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8545048,
+    "longitude": 8.8419798
+  },
+  {
+    "street": "Via Gaetano Previati",
+    "number": "5",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8548014,
+    "longitude": 8.8429796
+  },
+  {
+    "street": "Via Arturo Ferrarin",
+    "number": "18",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8386106,
+    "longitude": 8.8451291
+  },
+  {
+    "street": "Via Arturo Ferrarin",
+    "number": "20",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8381379,
+    "longitude": 8.8454307
+  },
+  {
+    "street": "Via Piave",
+    "number": "2",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8376325,
+    "longitude": 8.8462439
+  },
+  {
+    "street": "Via Piave",
+    "number": "4",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8373471,
+    "longitude": 8.8464021
+  },
+  {
+    "street": "Via Piave",
+    "number": "3",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8373814,
+    "longitude": 8.8468712
+  },
+  {
+    "street": "Via Piave",
+    "number": "10",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8370375,
+    "longitude": 8.8465498
+  },
+  {
+    "street": "Via Piave",
+    "number": "12",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.836719,
+    "longitude": 8.84669
+  },
+  {
+    "street": "Via Piave",
+    "number": "14",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8365105,
+    "longitude": 8.8467933
+  },
+  {
+    "street": "Via Piave",
+    "number": "5",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8369728,
+    "longitude": 8.8472728
+  },
+  {
+    "street": "Via Piave",
+    "number": "13",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8362705,
+    "longitude": 8.8475002
+  },
+  {
+    "street": "Via Dobbiaco",
+    "number": "12",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8340038,
+    "longitude": 8.8463543
+  },
+  {
+    "street": "Largo Edoardo bulgheroni",
+    "number": "1",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8430097,
+    "longitude": 8.8250149
+  },
+  {
+    "street": "Via Ca Zena",
+    "number": "22",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8553824,
+    "longitude": 8.8458474
+  },
+  {
+    "street": "Via Bruno Jamoretti",
+    "number": "2",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8473741,
+    "longitude": 8.8392076
+  },
+  {
+    "street": "Via Ca Zena",
+    "number": "6",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8544712,
+    "longitude": 8.8436198
+  },
+  {
+    "street": "Via Ca Zena",
+    "number": "8",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8545421,
+    "longitude": 8.8438327
+  },
+  {
+    "street": "Via Ca Zena",
+    "number": "10",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.85461,
+    "longitude": 8.844022
+  },
+  {
+    "street": "Via Galeazzo Alessi",
+    "number": "11",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8559135,
+    "longitude": 8.8451745
+  },
+  {
+    "street": "Via Galeazzo Alessi",
+    "number": "9",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8561788,
+    "longitude": 8.8449635
+  },
+  {
+    "street": "Via Ca Zena",
+    "number": "16",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8549,
+    "longitude": 8.8447844
+  },
+  {
+    "street": "Via Galeazzo Alessi",
+    "number": "1",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8550081,
+    "longitude": 8.8452976
+  },
+  {
+    "street": "Via Galeazzo Alessi",
+    "number": "7",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8557172,
+    "longitude": 8.8444099
+  },
+  {
+    "street": "Via Ca Zena",
+    "number": "26",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8554545,
+    "longitude": 8.8460607
+  },
+  {
+    "street": "Via Carlo Maciachini",
+    "number": "0",
+    "city": {
+      "name": "Induno Olona",
+      "istat": "012083"
+    },
+    "latitude": 45.8513808,
+    "longitude": 8.8410973
+  }
+]

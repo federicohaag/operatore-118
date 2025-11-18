@@ -1,0 +1,192 @@
+[
+  {
+    "street": "Via Provinciale",
+    "number": "46",
+    "city": {
+      "name": "Tavernerio",
+      "istat": "013222"
+    },
+    "latitude": 45.7981608,
+    "longitude": 9.148334
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "12B",
+    "city": {
+      "name": "Tavernerio",
+      "istat": "013222"
+    },
+    "latitude": 45.8006529,
+    "longitude": 9.1523861
+  },
+  {
+    "street": "Via Roma",
+    "number": "65",
+    "city": {
+      "name": "Tavernerio",
+      "istat": "013222"
+    },
+    "latitude": 45.8023216,
+    "longitude": 9.1457722
+  },
+  {
+    "street": "Via Briantea",
+    "number": "14",
+    "city": {
+      "name": "Tavernerio",
+      "istat": "013222"
+    },
+    "latitude": 45.7952335,
+    "longitude": 9.1396862
+  },
+  {
+    "street": "Via Briantea",
+    "number": "16a",
+    "city": {
+      "name": "Tavernerio",
+      "istat": "013222"
+    },
+    "latitude": 45.7951288,
+    "longitude": 9.1388386
+  },
+  {
+    "street": "Via Urago",
+    "number": "10",
+    "city": {
+      "name": "Tavernerio",
+      "istat": "013222"
+    },
+    "latitude": 45.7940311,
+    "longitude": 9.1462576
+  },
+  {
+    "street": "Via Briantea",
+    "number": "10a",
+    "city": {
+      "name": "Tavernerio",
+      "istat": "013222"
+    },
+    "latitude": 45.7950328,
+    "longitude": 9.1439767
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "37",
+    "city": {
+      "name": "Tavernerio",
+      "istat": "013222"
+    },
+    "latitude": 45.8003523,
+    "longitude": 9.151041
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "20",
+    "city": {
+      "name": "Tavernerio",
+      "istat": "013222"
+    },
+    "latitude": 45.8005097,
+    "longitude": 9.1513371
+  },
+  {
+    "street": "Via Briantea",
+    "number": "45",
+    "city": {
+      "name": "Tavernerio",
+      "istat": "013222"
+    },
+    "latitude": 45.7946821,
+    "longitude": 9.1348792
+  },
+  {
+    "street": "Via Roma",
+    "number": "63",
+    "city": {
+      "name": "Tavernerio",
+      "istat": "013222"
+    },
+    "latitude": 45.8023159,
+    "longitude": 9.1458239
+  },
+  {
+    "street": "Via Roma",
+    "number": "61",
+    "city": {
+      "name": "Tavernerio",
+      "istat": "013222"
+    },
+    "latitude": 45.8023129,
+    "longitude": 9.1458758
+  },
+  {
+    "street": "Via Briantea",
+    "number": "3",
+    "city": {
+      "name": "Tavernerio",
+      "istat": "013222"
+    },
+    "latitude": 45.7936082,
+    "longitude": 9.14899
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "56",
+    "city": {
+      "name": "Tavernerio",
+      "istat": "013222"
+    },
+    "latitude": 45.8012644,
+    "longitude": 9.1418018
+  },
+  {
+    "street": "Via Briantea",
+    "number": "4",
+    "city": {
+      "name": "Tavernerio",
+      "istat": "013222"
+    },
+    "latitude": 45.7950012,
+    "longitude": 9.1476864
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "84",
+    "city": {
+      "name": "Tavernerio",
+      "istat": "013222"
+    },
+    "latitude": 45.7956248,
+    "longitude": 9.1408833
+  },
+  {
+    "street": "Via Briantea",
+    "number": "10",
+    "city": {
+      "name": "Tavernerio",
+      "istat": "013222"
+    },
+    "latitude": 45.7951975,
+    "longitude": 9.1392736
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "4",
+    "city": {
+      "name": "Tavernerio",
+      "istat": "013222"
+    },
+    "latitude": 45.8061618,
+    "longitude": 9.1251365
+  },
+  {
+    "street": "Via Briantea",
+    "number": "1",
+    "city": {
+      "name": "Tavernerio",
+      "istat": "013222"
+    },
+    "latitude": 45.7936566,
+    "longitude": 9.1501602
+  }
+]

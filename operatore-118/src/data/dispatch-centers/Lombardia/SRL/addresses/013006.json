@@ -1,0 +1,92 @@
+[
+  {
+    "street": "Via Carcano",
+    "number": "9",
+    "city": {
+      "name": "Alserio",
+      "istat": "013006"
+    },
+    "latitude": 45.7816023,
+    "longitude": 9.1994367
+  },
+  {
+    "street": "Via Cascinette",
+    "number": "1",
+    "city": {
+      "name": "Alserio",
+      "istat": "013006"
+    },
+    "latitude": 45.7768081,
+    "longitude": 9.1959938
+  },
+  {
+    "street": "Via Carcano",
+    "number": "8",
+    "city": {
+      "name": "Alserio",
+      "istat": "013006"
+    },
+    "latitude": 45.781593,
+    "longitude": 9.2004229
+  },
+  {
+    "street": "Via Carcano",
+    "number": "12",
+    "city": {
+      "name": "Alserio",
+      "istat": "013006"
+    },
+    "latitude": 45.7818273,
+    "longitude": 9.2000348
+  },
+  {
+    "street": "Via Milanese",
+    "number": "6",
+    "city": {
+      "name": "Alserio",
+      "istat": "013006"
+    },
+    "latitude": 45.7783666,
+    "longitude": 9.1943414
+  },
+  {
+    "street": "Via Milanese",
+    "number": "4",
+    "city": {
+      "name": "Alserio",
+      "istat": "013006"
+    },
+    "latitude": 45.7777195,
+    "longitude": 9.1945078
+  },
+  {
+    "street": "Via Milanese",
+    "number": "18",
+    "city": {
+      "name": "Alserio",
+      "istat": "013006"
+    },
+    "latitude": 45.7820716,
+    "longitude": 9.1946047
+  },
+  {
+    "street": "Via Milano",
+    "number": "20",
+    "city": {
+      "name": "Alserio",
+      "istat": "013006"
+    },
+    "latitude": 45.7825485,
+    "longitude": 9.1950915
+  },
+  {
+    "street": "Via Milanese",
+    "number": "10",
+    "city": {
+      "name": "Alserio",
+      "istat": "013006"
+    },
+    "latitude": 45.7808456,
+    "longitude": 9.1936075
+  }
+]

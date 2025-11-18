@@ -1,0 +1,132 @@
+[
+  {
+    "street": "Largo Alcide De Gasperi",
+    "number": "1",
+    "city": {
+      "name": "Casciago",
+      "istat": "012038"
+    },
+    "latitude": 45.8350046,
+    "longitude": 8.7817922
+  },
+  {
+    "street": "Largo Alcide De Gasperi",
+    "number": "6",
+    "city": {
+      "name": "Casciago",
+      "istat": "012038"
+    },
+    "latitude": 45.8350408,
+    "longitude": 8.7822301
+  },
+  {
+    "street": "Via Giuseppe Pozzi",
+    "number": "1",
+    "city": {
+      "name": "Casciago",
+      "istat": "012038"
+    },
+    "latitude": 45.8377611,
+    "longitude": 8.7821679
+  },
+  {
+    "street": "Via Montello",
+    "number": "4",
+    "city": {
+      "name": "Casciago",
+      "istat": "012038"
+    },
+    "latitude": 45.8242343,
+    "longitude": 8.7631555
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "43",
+    "city": {
+      "name": "Casciago",
+      "istat": "012038"
+    },
+    "latitude": 45.8365221,
+    "longitude": 8.7851284
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "11",
+    "city": {
+      "name": "Casciago",
+      "istat": "012038"
+    },
+    "latitude": 45.837582,
+    "longitude": 8.7810588
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "17",
+    "city": {
+      "name": "Casciago",
+      "istat": "012038"
+    },
+    "latitude": 45.8372898,
+    "longitude": 8.7827724
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "54",
+    "city": {
+      "name": "Casciago",
+      "istat": "012038"
+    },
+    "latitude": 45.8370151,
+    "longitude": 8.7828114
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "13",
+    "city": {
+      "name": "Casciago",
+      "istat": "012038"
+    },
+    "latitude": 45.837641,
+    "longitude": 8.7812079
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "31",
+    "city": {
+      "name": "Casciago",
+      "istat": "012038"
+    },
+    "latitude": 45.8368407,
+    "longitude": 8.7842309
+  },
+  {
+    "street": "Via Vasche",
+    "number": "2",
+    "city": {
+      "name": "Casciago",
+      "istat": "012038"
+    },
+    "latitude": 45.8378175,
+    "longitude": 8.7814883
+  },
+  {
+    "street": "Via Valtinella",
+    "number": "19a",
+    "city": {
+      "name": "Casciago",
+      "istat": "012038"
+    },
+    "latitude": 45.8366336,
+    "longitude": 8.7744762
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "84",
+    "city": {
+      "name": "Casciago",
+      "istat": "012038"
+    },
+    "latitude": 45.8358308,
+    "longitude": 8.7865262
+  }
+]

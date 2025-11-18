@@ -1,0 +1,812 @@
+[
+  {
+    "street": "Via Careno",
+    "number": "31",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8859922,
+    "longitude": 9.1574807
+  },
+  {
+    "street": "Via Careno",
+    "number": "33A",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8861838,
+    "longitude": 9.1574945
+  },
+  {
+    "street": "Via Matteotti",
+    "number": "25",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8793925,
+    "longitude": 9.15772
+  },
+  {
+    "street": "Via Imbarcadero",
+    "number": "15",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8783594,
+    "longitude": 9.1559194
+  },
+  {
+    "street": "Via Mateotti",
+    "number": "36",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.878897,
+    "longitude": 9.1580366
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "30",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8786409,
+    "longitude": 9.1580051
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "32",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8787064,
+    "longitude": 9.1580241
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "34",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8787944,
+    "longitude": 9.1580972
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "36",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8789242,
+    "longitude": 9.1580817
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "38",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8791497,
+    "longitude": 9.1580294
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "14",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8762097,
+    "longitude": 9.1571233
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "18",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8764914,
+    "longitude": 9.1573034
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "3-27",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8760952,
+    "longitude": 9.1583106
+  },
+  {
+    "street": "Via Castello",
+    "number": "14",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8784371,
+    "longitude": 9.1590623
+  },
+  {
+    "street": "Via Castello",
+    "number": "16",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8783388,
+    "longitude": 9.1590382
+  },
+  {
+    "street": "Via Castello",
+    "number": "20",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8782712,
+    "longitude": 9.1590301
+  },
+  {
+    "street": "Via Castello",
+    "number": "18",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8783045,
+    "longitude": 9.159031
+  },
+  {
+    "street": "Via Castello",
+    "number": "22",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8782364,
+    "longitude": 9.1590306
+  },
+  {
+    "street": "Via Canzaga",
+    "number": "11",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8784218,
+    "longitude": 9.1584398
+  },
+  {
+    "street": "Via Burana",
+    "number": "1",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8784728,
+    "longitude": 9.1584785
+  },
+  {
+    "street": "Via Canzaga",
+    "number": "3",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8781527,
+    "longitude": 9.1582846
+  },
+  {
+    "street": "Via Canzaga",
+    "number": "5",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8782202,
+    "longitude": 9.1583348
+  },
+  {
+    "street": "Via Canzaga",
+    "number": "7",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8782988,
+    "longitude": 9.1583532
+  },
+  {
+    "street": "Via Castello",
+    "number": "17",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8781937,
+    "longitude": 9.1591077
+  },
+  {
+    "street": "Via Canzaga",
+    "number": "18",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8780552,
+    "longitude": 9.1588224
+  },
+  {
+    "street": "Via Canzaga",
+    "number": "25",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8781939,
+    "longitude": 9.1588772
+  },
+  {
+    "street": "Via Torchio",
+    "number": "2",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8778831,
+    "longitude": 9.15876
+  },
+  {
+    "street": "Via Castello",
+    "number": "5",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8787425,
+    "longitude": 9.1591776
+  },
+  {
+    "street": "Via Castello",
+    "number": "4",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8786015,
+    "longitude": 9.159037
+  },
+  {
+    "street": "Via Castello",
+    "number": "10",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8785628,
+    "longitude": 9.1590834
+  },
+  {
+    "street": "Via Castello",
+    "number": "3",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8788392,
+    "longitude": 9.1590274
+  },
+  {
+    "street": "Via Castello",
+    "number": "1",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8788368,
+    "longitude": 9.1589174
+  },
+  {
+    "street": "Via Quarzano",
+    "number": "5",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8787869,
+    "longitude": 9.1587895
+  },
+  {
+    "street": "Via Quarzano",
+    "number": "8",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8787503,
+    "longitude": 9.1588841
+  },
+  {
+    "street": "Via Quarzano",
+    "number": "6",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8786762,
+    "longitude": 9.1588488
+  },
+  {
+    "street": "Via Quarzano",
+    "number": "3",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8786775,
+    "longitude": 9.1587351
+  },
+  {
+    "street": "Via Quarzano",
+    "number": "4",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8786069,
+    "longitude": 9.1588309
+  },
+  {
+    "street": "Via Quarzano",
+    "number": "1",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8785364,
+    "longitude": 9.1586967
+  },
+  {
+    "street": "Via Torchio",
+    "number": "4",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.877812,
+    "longitude": 9.1586864
+  },
+  {
+    "street": "Via Castello",
+    "number": "9",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8783329,
+    "longitude": 9.1591178
+  },
+  {
+    "street": "Via Castello",
+    "number": "13",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8783286,
+    "longitude": 9.1592021
+  },
+  {
+    "street": "Via Castello",
+    "number": "13A",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.878326,
+    "longitude": 9.1592442
+  },
+  {
+    "street": "Via Pioda Bella",
+    "number": "1",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.876701,
+    "longitude": 9.1599642
+  },
+  {
+    "street": "Via Canzaga",
+    "number": "31",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8769412,
+    "longitude": 9.1598654
+  },
+  {
+    "street": "Via Canzaga",
+    "number": "38",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8764371,
+    "longitude": 9.1599104
+  },
+  {
+    "street": "Via Canzaga",
+    "number": "36",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8765033,
+    "longitude": 9.159905
+  },
+  {
+    "street": "Via Castello",
+    "number": "11",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8783306,
+    "longitude": 9.1591626
+  },
+  {
+    "street": "Via Canzaga",
+    "number": "23",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8784138,
+    "longitude": 9.1588488
+  },
+  {
+    "street": "Via Canzaga",
+    "number": "21",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8783869,
+    "longitude": 9.158797
+  },
+  {
+    "street": "Via Imbarcadero",
+    "number": "10",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.878474,
+    "longitude": 9.1565865
+  },
+  {
+    "street": "Via Imbarcadero",
+    "number": "10A",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8784733,
+    "longitude": 9.1564961
+  },
+  {
+    "street": "Via San Fedele",
+    "number": "1",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8784518,
+    "longitude": 9.1563154
+  },
+  {
+    "street": "Via Imbarcadero",
+    "number": "18",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.878379,
+    "longitude": 9.1561265
+  },
+  {
+    "street": "Via Canzaga",
+    "number": "10",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8784003,
+    "longitude": 9.1586728
+  },
+  {
+    "street": "Via Canzaga",
+    "number": "6",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.878436,
+    "longitude": 9.1586474
+  },
+  {
+    "street": "Via Canzaga",
+    "number": "4",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8784477,
+    "longitude": 9.1586577
+  },
+  {
+    "street": "Via S. Antonio",
+    "number": "9",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8783709,
+    "longitude": 9.1585777
+  },
+  {
+    "street": "Via S. Antonio",
+    "number": "7",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8782847,
+    "longitude": 9.1585336
+  },
+  {
+    "street": "Via S. Antonio",
+    "number": "5A",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.878186,
+    "longitude": 9.1585508
+  },
+  {
+    "street": "Via S. Antonio",
+    "number": "3",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8780849,
+    "longitude": 9.1585164
+  },
+  {
+    "street": "Via Burana",
+    "number": "5",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8785971,
+    "longitude": 9.1583681
+  },
+  {
+    "street": "Via Burana",
+    "number": "3",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8785902,
+    "longitude": 9.1583953
+  },
+  {
+    "street": "Via Burana",
+    "number": "13",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.878895,
+    "longitude": 9.1584248
+  },
+  {
+    "street": "Via Burana",
+    "number": "11",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8787359,
+    "longitude": 9.1586118
+  },
+  {
+    "street": "Via Burana",
+    "number": "9",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8786462,
+    "longitude": 9.1585853
+  },
+  {
+    "street": "Via Burana",
+    "number": "7",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.878599,
+    "longitude": 9.1585719
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "7",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.875796,
+    "longitude": 9.1568214
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "1",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8756862,
+    "longitude": 9.1572382
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "24",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8774091,
+    "longitude": 9.1579401
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "22",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8770643,
+    "longitude": 9.15832
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "26",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8777516,
+    "longitude": 9.1578156
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "12",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8763222,
+    "longitude": 9.1590517
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "28",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8779397,
+    "longitude": 9.1579209
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "6",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8750381,
+    "longitude": 9.1574953
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "8",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8751657,
+    "longitude": 9.1574264
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "4",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8749785,
+    "longitude": 9.1576078
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "11",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8760425,
+    "longitude": 9.1568878
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "2",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8745094,
+    "longitude": 9.1581289
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "19",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8789582,
+    "longitude": 9.1578601
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "25",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8793802,
+    "longitude": 9.1576832
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "1/a",
+    "city": {
+      "name": "Pognana Lario",
+      "istat": "013186"
+    },
+    "latitude": 45.8754037,
+    "longitude": 9.1581075
+  }
+]

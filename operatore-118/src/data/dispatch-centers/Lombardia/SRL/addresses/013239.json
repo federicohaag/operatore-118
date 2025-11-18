@@ -1,0 +1,12 @@
+[
+  {
+    "street": "Via Vico",
+    "number": "28C",
+    "city": {
+      "name": "Vercana",
+      "istat": "013239"
+    },
+    "latitude": 46.1605034,
+    "longitude": 9.3295223
+  }
+]

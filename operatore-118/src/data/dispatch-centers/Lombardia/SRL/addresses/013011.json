@@ -1,0 +1,72 @@
+[
+  {
+    "street": "Piazza Roma",
+    "number": "14",
+    "city": {
+      "name": "Argegno",
+      "istat": "013011"
+    },
+    "latitude": 45.9433924,
+    "longitude": 9.1283722
+  },
+  {
+    "street": "Via Cacciatori delle Alpi",
+    "number": "20",
+    "city": {
+      "name": "Argegno",
+      "istat": "013011"
+    },
+    "latitude": 45.9435499,
+    "longitude": 9.127756
+  },
+  {
+    "street": "Via Spluga",
+    "number": "42",
+    "city": {
+      "name": "Argegno",
+      "istat": "013011"
+    },
+    "latitude": 45.9464282,
+    "longitude": 9.1303592
+  },
+  {
+    "street": "Via Schignano",
+    "number": "55",
+    "city": {
+      "name": "Argegno",
+      "istat": "013011"
+    },
+    "latitude": 45.9410469,
+    "longitude": 9.1240902
+  },
+  {
+    "street": "Via Cacciatori delle Alpi",
+    "number": "37",
+    "city": {
+      "name": "Argegno",
+      "istat": "013011"
+    },
+    "latitude": 45.9440697,
+    "longitude": 9.1273638
+  },
+  {
+    "street": "Salita Andrea Brenta",
+    "number": "14",
+    "city": {
+      "name": "Argegno",
+      "istat": "013011"
+    },
+    "latitude": 45.9436287,
+    "longitude": 9.1266078
+  },
+  {
+    "street": "Via Schignano",
+    "number": "111",
+    "city": {
+      "name": "Argegno",
+      "istat": "013011"
+    },
+    "latitude": 45.9347531,
+    "longitude": 9.1057096
+  }
+]

@@ -1,0 +1,952 @@
+[
+  {
+    "street": "Via Taverna",
+    "number": "3",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6988235,
+    "longitude": 9.1207381
+  },
+  {
+    "street": "Via Provinciale Novedratese",
+    "number": "23",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.7008679,
+    "longitude": 9.1394991
+  },
+  {
+    "street": "Via Provinciale Novedratese",
+    "number": "7",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6964121,
+    "longitude": 9.126745
+  },
+  {
+    "street": "Via Meda",
+    "number": "6",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6983676,
+    "longitude": 9.1407628
+  },
+  {
+    "street": "Via dell'Artigiano",
+    "number": "17",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6977291,
+    "longitude": 9.1297482
+  },
+  {
+    "street": "Via Provinciale Novedratese",
+    "number": "19",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6998636,
+    "longitude": 9.1315052
+  },
+  {
+    "street": "Via dell'Artigiano",
+    "number": "23",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6977905,
+    "longitude": 9.1301054
+  },
+  {
+    "street": "Via della Risera",
+    "number": "5",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6951918,
+    "longitude": 9.1296843
+  },
+  {
+    "street": "Via Cimnago",
+    "number": "27",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6925211,
+    "longitude": 9.1255502
+  },
+  {
+    "street": "Via Europa Unita",
+    "number": "15",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6960643,
+    "longitude": 9.1232537
+  },
+  {
+    "street": "Via dell'Artigiano",
+    "number": "15",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6975988,
+    "longitude": 9.1295532
+  },
+  {
+    "street": "Via dell'Artigiano",
+    "number": "3",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6969548,
+    "longitude": 9.1285141
+  },
+  {
+    "street": "Via Provinciale Novedratese",
+    "number": "14/16",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.7001695,
+    "longitude": 9.1335695
+  },
+  {
+    "street": "Via Vecchia Canturina",
+    "number": "1",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6958831,
+    "longitude": 9.1281693
+  },
+  {
+    "street": "Via Provinciale Novedratese",
+    "number": "1",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6959069,
+    "longitude": 9.1253107
+  },
+  {
+    "street": "Via Provinciale Novedratese",
+    "number": "1e",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6959586,
+    "longitude": 9.1254649
+  },
+  {
+    "street": "Via Cimnago",
+    "number": "2",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6940711,
+    "longitude": 9.1239651
+  },
+  {
+    "street": "Piazza Umberto Primo",
+    "number": "14",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6994064,
+    "longitude": 9.1201574
+  },
+  {
+    "street": "Via Brughiera",
+    "number": "20",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.694987,
+    "longitude": 9.146321
+  },
+  {
+    "street": "Via Piave",
+    "number": "5",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6952324,
+    "longitude": 9.1405404
+  },
+  {
+    "street": "Via Piave",
+    "number": "3",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6955416,
+    "longitude": 9.1406485
+  },
+  {
+    "street": "Via Piave",
+    "number": "1",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6956308,
+    "longitude": 9.1409156
+  },
+  {
+    "street": "Via Piave",
+    "number": "7",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.695032,
+    "longitude": 9.1404165
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "18",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6957706,
+    "longitude": 9.137436
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "16",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6956718,
+    "longitude": 9.1374637
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "14",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6956103,
+    "longitude": 9.1374901
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "33",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6951688,
+    "longitude": 9.1377715
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "31",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6951976,
+    "longitude": 9.1378777
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "29",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6952181,
+    "longitude": 9.1379622
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "25",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.695301,
+    "longitude": 9.1382291
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "27",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6952466,
+    "longitude": 9.1380426
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "19",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6953748,
+    "longitude": 9.1384871
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "15",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6954023,
+    "longitude": 9.1386753
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "6",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.695389,
+    "longitude": 9.1381272
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "8",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6953015,
+    "longitude": 9.1378423
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "2",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6957719,
+    "longitude": 9.1386514
+  },
+  {
+    "street": "Via Piave",
+    "number": "4",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6959363,
+    "longitude": 9.1394376
+  },
+  {
+    "street": "Via Piave",
+    "number": "2F",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6959101,
+    "longitude": 9.1396053
+  },
+  {
+    "street": "Via Piave",
+    "number": "2E",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6958875,
+    "longitude": 9.1397468
+  },
+  {
+    "street": "Via Piave",
+    "number": "7A",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6958004,
+    "longitude": 9.1397234
+  },
+  {
+    "street": "Via Piave",
+    "number": "9",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6958586,
+    "longitude": 9.139321
+  },
+  {
+    "street": "Via Piave",
+    "number": "2",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6957951,
+    "longitude": 9.1404066
+  },
+  {
+    "street": "Via Piave",
+    "number": "11",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6960351,
+    "longitude": 9.1382843
+  },
+  {
+    "street": "Via Piave",
+    "number": "13",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6960753,
+    "longitude": 9.1380443
+  },
+  {
+    "street": "Via Meda",
+    "number": "31",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6973522,
+    "longitude": 9.1419196
+  },
+  {
+    "street": "Via Brughiera",
+    "number": "4",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6956404,
+    "longitude": 9.1441336
+  },
+  {
+    "street": "Via Brughiera",
+    "number": "6",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6956521,
+    "longitude": 9.144348
+  },
+  {
+    "street": "Via Brughiera",
+    "number": "8",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6956848,
+    "longitude": 9.1445944
+  },
+  {
+    "street": "Via Brughiera",
+    "number": "10",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6956899,
+    "longitude": 9.144624
+  },
+  {
+    "street": "Via Brughiera",
+    "number": "12",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6957296,
+    "longitude": 9.144645
+  },
+  {
+    "street": "Via Brughiera",
+    "number": "14",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.69576,
+    "longitude": 9.1448374
+  },
+  {
+    "street": "Via Brughiera",
+    "number": "16",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6957927,
+    "longitude": 9.1452143
+  },
+  {
+    "street": "Via Brughiera",
+    "number": "13",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6959319,
+    "longitude": 9.145501
+  },
+  {
+    "street": "Via Brughiera",
+    "number": "24",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6964218,
+    "longitude": 9.1457381
+  },
+  {
+    "street": "Via Meda",
+    "number": "33",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6955342,
+    "longitude": 9.142554
+  },
+  {
+    "street": "Via Meda",
+    "number": "7",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6990907,
+    "longitude": 9.1407465
+  },
+  {
+    "street": "Via Meda",
+    "number": "5",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6989005,
+    "longitude": 9.1408705
+  },
+  {
+    "street": "Via Dei Poppi",
+    "number": "1",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6988154,
+    "longitude": 9.1411097
+  },
+  {
+    "street": "Via Dei Poppi",
+    "number": "5",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6988382,
+    "longitude": 9.1412468
+  },
+  {
+    "street": "Via Dei Poppi",
+    "number": "8",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6987999,
+    "longitude": 9.1413653
+  },
+  {
+    "street": "Via Dei Poppi",
+    "number": "7",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.698846,
+    "longitude": 9.1413263
+  },
+  {
+    "street": "Via Dei Poppi",
+    "number": "10",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6988101,
+    "longitude": 9.1414298
+  },
+  {
+    "street": "Via Giovanni XXIII",
+    "number": "8",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6984868,
+    "longitude": 9.1419938
+  },
+  {
+    "street": "Via Giovanni XXIII",
+    "number": "13",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6985981,
+    "longitude": 9.1420598
+  },
+  {
+    "street": "Via Giovanni XXIII",
+    "number": "15",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6986038,
+    "longitude": 9.1421039
+  },
+  {
+    "street": "Via Giovanni XXIII",
+    "number": "12",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6985173,
+    "longitude": 9.1422472
+  },
+  {
+    "street": "Via Giovanni XXIII",
+    "number": "20a",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6985736,
+    "longitude": 9.1428654
+  },
+  {
+    "street": "Via Giovanni XXIII",
+    "number": "20",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6985877,
+    "longitude": 9.1430342
+  },
+  {
+    "street": "Via Giovanni XXIII",
+    "number": "22",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6985958,
+    "longitude": 9.1431056
+  },
+  {
+    "street": "Via Giovanni XXIII",
+    "number": "20b",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.698618,
+    "longitude": 9.1433013
+  },
+  {
+    "street": "Via Giovanni XXIII",
+    "number": "33",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6987694,
+    "longitude": 9.1434725
+  },
+  {
+    "street": "Via Giovanni XXIII",
+    "number": "24",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6987374,
+    "longitude": 9.1440191
+  },
+  {
+    "street": "Via delle Betulle",
+    "number": "3",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.696264,
+    "longitude": 9.143626
+  },
+  {
+    "street": "Via delle Betulle",
+    "number": "7",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6966153,
+    "longitude": 9.1463803
+  },
+  {
+    "street": "Via Meda",
+    "number": "1",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.699777,
+    "longitude": 9.1403559
+  },
+  {
+    "street": "Via Cimnago",
+    "number": "18",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.691156,
+    "longitude": 9.1237004
+  },
+  {
+    "street": "Via Provinciale Novedratese",
+    "number": "10",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6960341,
+    "longitude": 9.1322502
+  },
+  {
+    "street": "Via della Risera",
+    "number": "9",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6952146,
+    "longitude": 9.1301629
+  },
+  {
+    "street": "Via dell'Artigiano",
+    "number": "1",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.696646,
+    "longitude": 9.1281695
+  },
+  {
+    "street": "Via dell'Artigiano",
+    "number": "29",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6967245,
+    "longitude": 9.1304061
+  },
+  {
+    "street": "Via Meda",
+    "number": "2",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.7003146,
+    "longitude": 9.139386
+  },
+  {
+    "street": "Via Provinciale Novedratese",
+    "number": "46",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6998661,
+    "longitude": 9.143096
+  },
+  {
+    "street": "Via Provinciale Novedratese",
+    "number": "36",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.7000702,
+    "longitude": 9.1414472
+  },
+  {
+    "street": "Via Meda",
+    "number": "35",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6952081,
+    "longitude": 9.1430352
+  },
+  {
+    "street": "Via Europa",
+    "number": "25",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.7081058,
+    "longitude": 9.1223473
+  },
+  {
+    "street": "Via Provinciale Novedratese",
+    "number": "15",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6984604,
+    "longitude": 9.1279912
+  },
+  {
+    "street": "Via Provinciale Novedratese",
+    "number": "31",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.7022395,
+    "longitude": 9.1440575
+  },
+  {
+    "street": "Via Meda",
+    "number": "2/b",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.7000098,
+    "longitude": 9.1396288
+  },
+  {
+    "street": "Via Provinciale Novedratese",
+    "number": "17a",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6994562,
+    "longitude": 9.1295445
+  },
+  {
+    "street": "Via Vico Necchi",
+    "number": "63",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.7014782,
+    "longitude": 9.1416982
+  },
+  {
+    "street": "Via Provinciale Novedratese",
+    "number": "35",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.7019188,
+    "longitude": 9.1460992
+  },
+  {
+    "street": "Via Provinciale Novedratese",
+    "number": "1b",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6957384,
+    "longitude": 9.1244547
+  },
+  {
+    "street": "Via Provinciale Novedratese",
+    "number": "27",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.7016569,
+    "longitude": 9.1431603
+  },
+  {
+    "street": "Via Brughiera",
+    "number": "9",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6961829,
+    "longitude": 9.1449284
+  },
+  {
+    "street": "Via Provinciale Novedratese",
+    "number": "2",
+    "city": {
+      "name": "Novedrate",
+      "istat": "013163"
+    },
+    "latitude": 45.6946221,
+    "longitude": 9.1252451
+  }
+]

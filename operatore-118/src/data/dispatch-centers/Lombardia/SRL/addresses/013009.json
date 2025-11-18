@@ -1,0 +1,162 @@
+[
+  {
+    "street": "Via Cavognetto",
+    "number": "4",
+    "city": {
+      "name": "Anzano del Parco",
+      "istat": "013009"
+    },
+    "latitude": 45.7717773,
+    "longitude": 9.2128974
+  },
+  {
+    "street": "Via Cavolto",
+    "number": "1b",
+    "city": {
+      "name": "Anzano del Parco",
+      "istat": "013009"
+    },
+    "latitude": 45.7635284,
+    "longitude": 9.2047104
+  },
+  {
+    "street": "Via Ortelli",
+    "number": "20",
+    "city": {
+      "name": "Anzano del Parco",
+      "istat": "013009"
+    },
+    "latitude": 45.7698437,
+    "longitude": 9.1974199
+  },
+  {
+    "street": "Via Ortelli",
+    "number": "1",
+    "city": {
+      "name": "Anzano del Parco",
+      "istat": "013009"
+    },
+    "latitude": 45.7696711,
+    "longitude": 9.197595
+  },
+  {
+    "street": "Via Ortelli",
+    "number": "16",
+    "city": {
+      "name": "Anzano del Parco",
+      "istat": "013009"
+    },
+    "latitude": 45.7698341,
+    "longitude": 9.1978765
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "7",
+    "city": {
+      "name": "Anzano del Parco",
+      "istat": "013009"
+    },
+    "latitude": 45.7695329,
+    "longitude": 9.1977321
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "2",
+    "city": {
+      "name": "Anzano del Parco",
+      "istat": "013009"
+    },
+    "latitude": 45.7686346,
+    "longitude": 9.1986192
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "11",
+    "city": {
+      "name": "Anzano del Parco",
+      "istat": "013009"
+    },
+    "latitude": 45.7699106,
+    "longitude": 9.1973434
+  },
+  {
+    "street": "Via Ortelli",
+    "number": "1a",
+    "city": {
+      "name": "Anzano del Parco",
+      "istat": "013009"
+    },
+    "latitude": 45.7696578,
+    "longitude": 9.1974681
+  },
+  {
+    "street": "Via per Cavolto",
+    "number": "1",
+    "city": {
+      "name": "Anzano del Parco",
+      "istat": "013009"
+    },
+    "latitude": 45.7639524,
+    "longitude": 9.2055589
+  },
+  {
+    "street": "Via Stazione",
+    "number": "2",
+    "city": {
+      "name": "Anzano del Parco",
+      "istat": "013009"
+    },
+    "latitude": 45.7657829,
+    "longitude": 9.2004248
+  },
+  {
+    "street": "Via Diaz",
+    "number": "16b",
+    "city": {
+      "name": "Anzano del Parco",
+      "istat": "013009"
+    },
+    "latitude": 45.7716909,
+    "longitude": 9.1953209
+  },
+  {
+    "street": "Via Cavolto",
+    "number": "1",
+    "city": {
+      "name": "Anzano del Parco",
+      "istat": "013009"
+    },
+    "latitude": 45.7641967,
+    "longitude": 9.2042536
+  },
+  {
+    "street": "Via Villa San Giuseppe",
+    "number": "3",
+    "city": {
+      "name": "Anzano del Parco",
+      "istat": "013009"
+    },
+    "latitude": 45.7631069,
+    "longitude": 9.2009314
+  },
+  {
+    "street": "Strada Provinciale ex Strada Statale 342 Briantea",
+    "number": "4",
+    "city": {
+      "name": "Anzano del Parco",
+      "istat": "013009"
+    },
+    "latitude": 45.7629918,
+    "longitude": 9.204375
+  },
+  {
+    "street": "Strada Provinciale ex Strada Statale 342 Briantea",
+    "number": "2",
+    "city": {
+      "name": "Anzano del Parco",
+      "istat": "013009"
+    },
+    "latitude": 45.7623519,
+    "longitude": 9.206148
+  }
+]

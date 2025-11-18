@@ -1,0 +1,762 @@
+[
+  {
+    "street": "Via Aristide Gabelli",
+    "number": "16",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7774983,
+    "longitude": 8.9728397
+  },
+  {
+    "street": "Via Aristide Gabelli",
+    "number": "16a",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7772913,
+    "longitude": 8.9734607
+  },
+  {
+    "street": "Via V Alpini",
+    "number": "2",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7737063,
+    "longitude": 8.9752673
+  },
+  {
+    "street": "Via V Alpini",
+    "number": "11",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7738433,
+    "longitude": 8.9752132
+  },
+  {
+    "street": "Via V Alpini",
+    "number": "13",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7738305,
+    "longitude": 8.975399
+  },
+  {
+    "street": "Via V Alpini",
+    "number": "6",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7735922,
+    "longitude": 8.9763535
+  },
+  {
+    "street": "Via V Alpini",
+    "number": "35",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7735682,
+    "longitude": 8.9765883
+  },
+  {
+    "street": "Via V Alpini",
+    "number": "37",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7733004,
+    "longitude": 8.9765382
+  },
+  {
+    "street": "Via Repubblica",
+    "number": "39",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7736601,
+    "longitude": 8.9747624
+  },
+  {
+    "street": "Via santi Ippolito e Cassiano",
+    "number": "4",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7730764,
+    "longitude": 8.9750361
+  },
+  {
+    "street": "Via santi Ippolito e Cassiano",
+    "number": "3",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7730479,
+    "longitude": 8.9758513
+  },
+  {
+    "street": "Via santi Ippolito e Cassiano",
+    "number": "5",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7730111,
+    "longitude": 8.9761181
+  },
+  {
+    "street": "Via don Lorenzo Milani",
+    "number": "18",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7734236,
+    "longitude": 8.9780536
+  },
+  {
+    "street": "Via don Lorenzo Milani",
+    "number": "1",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7732386,
+    "longitude": 8.9774597
+  },
+  {
+    "street": "Via don Lorenzo Milani",
+    "number": "3",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7734461,
+    "longitude": 8.9775564
+  },
+  {
+    "street": "Via don Lorenzo Milani",
+    "number": "16",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7733405,
+    "longitude": 8.9777029
+  },
+  {
+    "street": "Via don Lorenzo Milani",
+    "number": "38",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7739159,
+    "longitude": 8.9779169
+  },
+  {
+    "street": "Via don Lorenzo Milani",
+    "number": "40",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7739432,
+    "longitude": 8.9779357
+  },
+  {
+    "street": "Via don Lorenzo Milani",
+    "number": "9",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7742525,
+    "longitude": 8.9780027
+  },
+  {
+    "street": "Via don Lorenzo Milani",
+    "number": "10",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7746957,
+    "longitude": 8.9780309
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "5",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7740927,
+    "longitude": 8.9779568
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "9",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7741627,
+    "longitude": 8.9774506
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "11",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7742032,
+    "longitude": 8.9773743
+  },
+  {
+    "street": "Via Cascina del Pe'",
+    "number": "3",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7745602,
+    "longitude": 8.978982
+  },
+  {
+    "street": "Via Cascina del Pe'",
+    "number": "10",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7746484,
+    "longitude": 8.9788418
+  },
+  {
+    "street": "Via Cascina del Pe'",
+    "number": "20",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7733177,
+    "longitude": 8.9784058
+  },
+  {
+    "street": "Via Cascina del Pe'",
+    "number": "22",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7731971,
+    "longitude": 8.9783637
+  },
+  {
+    "street": "Via Cascina del Pe'",
+    "number": "24",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7728641,
+    "longitude": 8.9783712
+  },
+  {
+    "street": "Via Enrico De Nicola",
+    "number": "3",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7736965,
+    "longitude": 8.9791299
+  },
+  {
+    "street": "Via Enrico De Nicola",
+    "number": "3a",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7737252,
+    "longitude": 8.9792851
+  },
+  {
+    "street": "Via Enrico De Nicola",
+    "number": "8",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7734435,
+    "longitude": 8.9798658
+  },
+  {
+    "street": "Via della Fametta",
+    "number": "9",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7725082,
+    "longitude": 8.9798061
+  },
+  {
+    "street": "Via della Fametta",
+    "number": "15",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7724408,
+    "longitude": 8.980899
+  },
+  {
+    "street": "Via della Fametta",
+    "number": "19",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7730445,
+    "longitude": 8.9813072
+  },
+  {
+    "street": "Via dei Caduti della Resistenza",
+    "number": "12",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7720087,
+    "longitude": 8.9760369
+  },
+  {
+    "street": "Via dei Caduti della Resistenza",
+    "number": "2",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7727717,
+    "longitude": 8.9762031
+  },
+  {
+    "street": "Via dei Caduti della Resistenza",
+    "number": "4",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7726366,
+    "longitude": 8.9761743
+  },
+  {
+    "street": "Via dei Caduti della Resistenza",
+    "number": "7",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7713476,
+    "longitude": 8.9769673
+  },
+  {
+    "street": "Via dei Caduti della Resistenza",
+    "number": "9",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7713902,
+    "longitude": 8.9766595
+  },
+  {
+    "street": "Via dei Caduti della Resistenza",
+    "number": "17",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7710107,
+    "longitude": 8.9765583
+  },
+  {
+    "street": "Via dei Caduti della Resistenza",
+    "number": "21",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7710302,
+    "longitude": 8.9764496
+  },
+  {
+    "street": "Via dei Caduti della Resistenza",
+    "number": "18",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7718705,
+    "longitude": 8.975199
+  },
+  {
+    "street": "Via Luraschi",
+    "number": "25",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7849401,
+    "longitude": 8.9741241
+  },
+  {
+    "street": "Via Luraschi",
+    "number": "1",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7853226,
+    "longitude": 8.9718907
+  },
+  {
+    "street": "Via Vittorio Emanuele Secondo",
+    "number": "11",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7830195,
+    "longitude": 8.9710918
+  },
+  {
+    "street": "Via Rongio",
+    "number": "22",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7776932,
+    "longitude": 8.9661692
+  },
+  {
+    "street": "Via Torino",
+    "number": "50",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7764844,
+    "longitude": 8.9623648
+  },
+  {
+    "street": "Piazza Alessandro Volta",
+    "number": "4",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7853471,
+    "longitude": 8.9691252
+  },
+  {
+    "street": "Via Roma",
+    "number": "84",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7857668,
+    "longitude": 8.9598143
+  },
+  {
+    "street": "Via Angelo e Mary Roncoroni",
+    "number": "18",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7849766,
+    "longitude": 8.966825
+  },
+  {
+    "street": "Via Michelangelo Buonarroti",
+    "number": "21",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7859263,
+    "longitude": 8.9611356
+  },
+  {
+    "street": "Via Michelangelo Buonarroti",
+    "number": "6",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7866378,
+    "longitude": 8.9632989
+  },
+  {
+    "street": "Via Roma",
+    "number": "155",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7866754,
+    "longitude": 8.955713
+  },
+  {
+    "street": "Via Roma",
+    "number": "155c",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7860442,
+    "longitude": 8.9555958
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "2",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7858065,
+    "longitude": 8.9562711
+  },
+  {
+    "street": "Via Angelo e Mary Roncoroni",
+    "number": "20",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.785005,
+    "longitude": 8.9659998
+  },
+  {
+    "street": "Via Fornaci",
+    "number": "10",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7871922,
+    "longitude": 8.9849195
+  },
+  {
+    "street": "Via della Scaletta",
+    "number": "69/71",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7891956,
+    "longitude": 8.9543237
+  },
+  {
+    "street": "Via Bizzarone",
+    "number": "43",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7976311,
+    "longitude": 8.9553771
+  },
+  {
+    "street": "Via Repubblica",
+    "number": "80",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7709972,
+    "longitude": 8.973522
+  },
+  {
+    "street": "Piazza Alessandro Volta",
+    "number": "4/a",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7851343,
+    "longitude": 8.968211
+  },
+  {
+    "street": "Via Torino",
+    "number": "65",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7752554,
+    "longitude": 8.9630055
+  },
+  {
+    "street": "Via Roma",
+    "number": "97",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7842078,
+    "longitude": 8.9632032
+  },
+  {
+    "street": "Via Roma",
+    "number": "118",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.788212,
+    "longitude": 8.9530524
+  },
+  {
+    "street": "Via delle Fontane",
+    "number": "1",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7877197,
+    "longitude": 8.9542657
+  },
+  {
+    "street": "Via Achille Grandi",
+    "number": "5",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7856186,
+    "longitude": 8.9481674
+  },
+  {
+    "street": "Via San Gerardo",
+    "number": "12",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7835381,
+    "longitude": 8.97158
+  },
+  {
+    "street": "Via Giovanni Segantini",
+    "number": "41",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7806493,
+    "longitude": 8.9651802
+  },
+  {
+    "street": "Via Boscone",
+    "number": "68",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.8013823,
+    "longitude": 8.985348
+  },
+  {
+    "street": "Via Lomazzo",
+    "number": "40",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7814706,
+    "longitude": 8.9570614
+  },
+  {
+    "street": "Via Giosuè Carducci",
+    "number": "20",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7814384,
+    "longitude": 8.9768944
+  },
+  {
+    "street": "Via Pio Roncoroni",
+    "number": "4",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7856164,
+    "longitude": 8.9658692
+  },
+  {
+    "street": "Via Variola",
+    "number": "1",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7762187,
+    "longitude": 8.9883471
+  },
+  {
+    "street": "Via Roma",
+    "number": "80",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7856734,
+    "longitude": 8.9603019
+  },
+  {
+    "street": "Via Giovanni Tarchini",
+    "number": "19",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.785626,
+    "longitude": 8.966669
+  },
+  {
+    "street": "Via Don Anacleto Bracchetti",
+    "number": "165",
+    "city": {
+      "name": "Olgiate Comasco",
+      "istat": "013165"
+    },
+    "latitude": 45.7874272,
+    "longitude": 8.955384
+  }
+]

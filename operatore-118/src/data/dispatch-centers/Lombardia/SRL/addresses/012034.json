@@ -1,0 +1,462 @@
+[
+  {
+    "street": "Viale Cinque Giornate",
+    "number": "2056",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.581642,
+    "longitude": 9.060003
+  },
+  {
+    "street": "Via Enrico Toti",
+    "number": "417",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.5941242,
+    "longitude": 9.0646527
+  },
+  {
+    "street": "Via Milano",
+    "number": "78",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.5910602,
+    "longitude": 9.0464962
+  },
+  {
+    "street": "Viale Cinque Giornate",
+    "number": "7",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.5970547,
+    "longitude": 9.0453896
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "360",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.600056,
+    "longitude": 9.0494371
+  },
+  {
+    "street": "Corso della Vittoria",
+    "number": "916",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.6048755,
+    "longitude": 9.0403989
+  },
+  {
+    "street": "Via Pierluigi da Palestrina",
+    "number": "12",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.5973513,
+    "longitude": 9.0410614
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "445",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.5821329,
+    "longitude": 9.0532305
+  },
+  {
+    "street": "Corso della Vittoria",
+    "number": "999",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.6059012,
+    "longitude": 9.0379965
+  },
+  {
+    "street": "Piazza Sandro Pertini",
+    "number": "115",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.5981169,
+    "longitude": 9.0570706
+  },
+  {
+    "street": "Viale Italia",
+    "number": "990",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.5967395,
+    "longitude": 9.0576901
+  },
+  {
+    "street": "Via Pierluigi da Palestrina",
+    "number": "1",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.5978545,
+    "longitude": 9.0402757
+  },
+  {
+    "street": "Via Adua",
+    "number": "169",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.5976567,
+    "longitude": 9.0433097
+  },
+  {
+    "street": "Piazza Sandro Pertini",
+    "number": "59",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.5975113,
+    "longitude": 9.057116
+  },
+  {
+    "street": "Via Lainate",
+    "number": "1179",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.5829902,
+    "longitude": 9.0428676
+  },
+  {
+    "street": "Via Mantegna",
+    "number": "223",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.599074,
+    "longitude": 9.051961
+  },
+  {
+    "street": "Via San Michele",
+    "number": "139",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.593429,
+    "longitude": 9.0466757
+  },
+  {
+    "street": "Via al Cimitero",
+    "number": "200",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.594073,
+    "longitude": 9.0425241
+  },
+  {
+    "street": "Via Sant'Alessandro",
+    "number": "441",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.5936857,
+    "longitude": 9.0540508
+  },
+  {
+    "street": "Via Capo Sile",
+    "number": "77",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.5956383,
+    "longitude": 9.0478667
+  },
+  {
+    "street": "Via Enrico Fermi",
+    "number": "55",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.6089081,
+    "longitude": 9.0383662
+  },
+  {
+    "street": "Corso della Vittoria",
+    "number": "1275",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.6074902,
+    "longitude": 9.0377595
+  },
+  {
+    "street": "Viale Europa",
+    "number": "1415",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.6084377,
+    "longitude": 9.0370894
+  },
+  {
+    "street": "Via Bergamo",
+    "number": "965",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.5941545,
+    "longitude": 9.038738
+  },
+  {
+    "street": "Via Enrico Fermi",
+    "number": "335",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.6086894,
+    "longitude": 9.0428443
+  },
+  {
+    "street": "Via Giosuè Carducci",
+    "number": "705",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.6080708,
+    "longitude": 9.0435565
+  },
+  {
+    "street": "Via Bergamo",
+    "number": "619",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.5924633,
+    "longitude": 9.0433038
+  },
+  {
+    "street": "Via Uboldo",
+    "number": "112",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.6014302,
+    "longitude": 9.0377448
+  },
+  {
+    "street": "Viale Europa",
+    "number": "1375",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.6081562,
+    "longitude": 9.0370893
+  },
+  {
+    "street": "Corso della Vittoria",
+    "number": "1534",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.6097163,
+    "longitude": 9.037345
+  },
+  {
+    "street": "Via privata Turconi",
+    "number": "134",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.596489,
+    "longitude": 9.0391741
+  },
+  {
+    "street": "Viale Europa",
+    "number": "1373",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.6081262,
+    "longitude": 9.0365367
+  },
+  {
+    "street": "Via Asiago",
+    "number": "212",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.6000644,
+    "longitude": 9.0374518
+  },
+  {
+    "street": "Viale Europa",
+    "number": "1391",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.6082795,
+    "longitude": 9.0370917
+  },
+  {
+    "street": "Corso della Vittoria",
+    "number": "1265",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.6077132,
+    "longitude": 9.0377626
+  },
+  {
+    "street": "Via Bergamo",
+    "number": "519",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.591836,
+    "longitude": 9.0443773
+  },
+  {
+    "street": "Corso della Vittoria",
+    "number": "1512",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.6097145,
+    "longitude": 9.0378714
+  },
+  {
+    "street": "Corso della Vittoria",
+    "number": "1621",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.6102891,
+    "longitude": 9.0364149
+  },
+  {
+    "street": "Via Asiago",
+    "number": "244",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.5996651,
+    "longitude": 9.0366565
+  },
+  {
+    "street": "Viale Europa",
+    "number": "1429",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.6085139,
+    "longitude": 9.0370858
+  },
+  {
+    "street": "Corso della Vittoria",
+    "number": "1585",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.6094385,
+    "longitude": 9.0361985
+  },
+  {
+    "street": "Corso della Vittoria",
+    "number": "1725",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.6079633,
+    "longitude": 9.0377104
+  },
+  {
+    "street": "Località Osteria dei Passeggeri",
+    "number": "1",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.5858157,
+    "longitude": 9.0276968
+  },
+  {
+    "street": "Via Bariola",
+    "number": "30",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.576174,
+    "longitude": 9.0494625
+  },
+  {
+    "street": "Piazza Aldo Moro",
+    "number": "1",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.5972663,
+    "longitude": 9.0489068
+  },
+  {
+    "street": "Via Bergamo",
+    "number": "605",
+    "city": {
+      "name": "Caronno Pertusella",
+      "istat": "012034"
+    },
+    "latitude": 45.5921759,
+    "longitude": 9.0438013
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "street": "Via donatori di sangue",
+    "number": "18",
+    "city": {
+      "name": "Suello",
+      "istat": "097078"
+    },
+    "latitude": 45.8183008,
+    "longitude": 9.3170859
+  },
+  {
+    "street": "Via San Quirico",
+    "number": "4",
+    "city": {
+      "name": "Suello",
+      "istat": "097078"
+    },
+    "latitude": 45.8194192,
+    "longitude": 9.3092953
+  },
+  {
+    "street": "Strada Provinciale 639 dei Laghi di Pusiano e Garlate",
+    "number": "10",
+    "city": {
+      "name": "Suello",
+      "istat": "097078"
+    },
+    "latitude": 45.8175441,
+    "longitude": 9.3087197
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "54",
+    "city": {
+      "name": "Suello",
+      "istat": "097078"
+    },
+    "latitude": 45.8200786,
+    "longitude": 9.3178461
+  },
+  {
+    "street": "Strada Provinciale 639 dei Laghi di Pusiano e Garlate",
+    "number": "31",
+    "city": {
+      "name": "Suello",
+      "istat": "097078"
+    },
+    "latitude": 45.8204418,
+    "longitude": 9.3171
+  }
+]

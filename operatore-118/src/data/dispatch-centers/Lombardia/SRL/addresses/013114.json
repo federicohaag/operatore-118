@@ -1,0 +1,252 @@
+[
+  {
+    "street": "Viale Rimembranze",
+    "number": "1",
+    "city": {
+      "name": "Guanzate",
+      "istat": "013114"
+    },
+    "latitude": 45.7257338,
+    "longitude": 9.00994
+  },
+  {
+    "street": "Via Roma",
+    "number": "4",
+    "city": {
+      "name": "Guanzate",
+      "istat": "013114"
+    },
+    "latitude": 45.7257493,
+    "longitude": 9.0134054
+  },
+  {
+    "street": "Via Roma",
+    "number": "20",
+    "city": {
+      "name": "Guanzate",
+      "istat": "013114"
+    },
+    "latitude": 45.7258815,
+    "longitude": 9.0129726
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "57",
+    "city": {
+      "name": "Guanzate",
+      "istat": "013114"
+    },
+    "latitude": 45.7186007,
+    "longitude": 9.0172089
+  },
+  {
+    "street": "Via Cascina Cinq Fo",
+    "number": "1",
+    "city": {
+      "name": "Guanzate",
+      "istat": "013114"
+    },
+    "latitude": 45.7341781,
+    "longitude": 9.0219892
+  },
+  {
+    "street": "Via Cascina Cinq Fo",
+    "number": "4",
+    "city": {
+      "name": "Guanzate",
+      "istat": "013114"
+    },
+    "latitude": 45.7340964,
+    "longitude": 9.021828
+  },
+  {
+    "street": "Via Cascina Cinq Fo",
+    "number": "6",
+    "city": {
+      "name": "Guanzate",
+      "istat": "013114"
+    },
+    "latitude": 45.7340575,
+    "longitude": 9.0217739
+  },
+  {
+    "street": "Via Cascina Cinq Fo",
+    "number": "8",
+    "city": {
+      "name": "Guanzate",
+      "istat": "013114"
+    },
+    "latitude": 45.7340221,
+    "longitude": 9.0217266
+  },
+  {
+    "street": "Via Cascina Cinq Fo",
+    "number": "10",
+    "city": {
+      "name": "Guanzate",
+      "istat": "013114"
+    },
+    "latitude": 45.7339832,
+    "longitude": 9.0216776
+  },
+  {
+    "street": "Via Cascina Cinq Fo",
+    "number": "12",
+    "city": {
+      "name": "Guanzate",
+      "istat": "013114"
+    },
+    "latitude": 45.7339454,
+    "longitude": 9.0216337
+  },
+  {
+    "street": "Via Cascina Cinq Fo",
+    "number": "11",
+    "city": {
+      "name": "Guanzate",
+      "istat": "013114"
+    },
+    "latitude": 45.7339887,
+    "longitude": 9.0218235
+  },
+  {
+    "street": "Via Cascina Cinq Fo",
+    "number": "9",
+    "city": {
+      "name": "Guanzate",
+      "istat": "013114"
+    },
+    "latitude": 45.7340131,
+    "longitude": 9.0218575
+  },
+  {
+    "street": "Via Cascina Cinq Fo",
+    "number": "7",
+    "city": {
+      "name": "Guanzate",
+      "istat": "013114"
+    },
+    "latitude": 45.7340401,
+    "longitude": 9.0218915
+  },
+  {
+    "street": "Via Cascina Cinq Fo",
+    "number": "5",
+    "city": {
+      "name": "Guanzate",
+      "istat": "013114"
+    },
+    "latitude": 45.7340639,
+    "longitude": 9.0219225
+  },
+  {
+    "street": "Via Cascina Cinq Fo",
+    "number": "13",
+    "city": {
+      "name": "Guanzate",
+      "istat": "013114"
+    },
+    "latitude": 45.7339611,
+    "longitude": 9.0217948
+  },
+  {
+    "street": "Via Cascina Cinq Fo",
+    "number": "15",
+    "city": {
+      "name": "Guanzate",
+      "istat": "013114"
+    },
+    "latitude": 45.7339354,
+    "longitude": 9.021764
+  },
+  {
+    "street": "Via Berina",
+    "number": "2",
+    "city": {
+      "name": "Guanzate",
+      "istat": "013114"
+    },
+    "latitude": 45.7117981,
+    "longitude": 9.0056304
+  },
+  {
+    "street": "Via Roma",
+    "number": "15",
+    "city": {
+      "name": "Guanzate",
+      "istat": "013114"
+    },
+    "latitude": 45.7268864,
+    "longitude": 9.007785
+  },
+  {
+    "street": "Via Roma",
+    "number": "21",
+    "city": {
+      "name": "Guanzate",
+      "istat": "013114"
+    },
+    "latitude": 45.7269492,
+    "longitude": 9.0070376
+  },
+  {
+    "street": "Via Roma",
+    "number": "27",
+    "city": {
+      "name": "Guanzate",
+      "istat": "013114"
+    },
+    "latitude": 45.7272834,
+    "longitude": 9.0052672
+  },
+  {
+    "street": "Via Quirico",
+    "number": "6",
+    "city": {
+      "name": "Guanzate",
+      "istat": "013114"
+    },
+    "latitude": 45.7247143,
+    "longitude": 9.0106503
+  },
+  {
+    "street": "Via Madonna",
+    "number": "17",
+    "city": {
+      "name": "Guanzate",
+      "istat": "013114"
+    },
+    "latitude": 45.7261478,
+    "longitude": 9.0181429
+  },
+  {
+    "street": "Viale Rimembranze",
+    "number": "3",
+    "city": {
+      "name": "Guanzate",
+      "istat": "013114"
+    },
+    "latitude": 45.7259713,
+    "longitude": 9.009944
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "73b",
+    "city": {
+      "name": "Guanzate",
+      "istat": "013114"
+    },
+    "latitude": 45.7161057,
+    "longitude": 9.0215588
+  },
+  {
+    "street": "Via Libertà",
+    "number": "4",
+    "city": {
+      "name": "Guanzate",
+      "istat": "013114"
+    },
+    "latitude": 45.7192666,
+    "longitude": 9.0157462
+  }
+]

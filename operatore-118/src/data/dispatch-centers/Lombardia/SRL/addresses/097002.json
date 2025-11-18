@@ -1,0 +1,12 @@
+[
+  {
+    "street": "Via Archimede",
+    "number": "3",
+    "city": {
+      "name": "Airuno",
+      "istat": "097002"
+    },
+    "latitude": 45.7539471,
+    "longitude": 9.432924
+  }
+]

@@ -1,0 +1,2832 @@
+[
+  {
+    "street": "Piazza Cinque Giornate",
+    "number": "5",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6027991,
+    "longitude": 9.123302
+  },
+  {
+    "street": "Via Trieste",
+    "number": "31",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5973354,
+    "longitude": 9.1240001
+  },
+  {
+    "street": "Via Monte Bianco",
+    "number": "48",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6177235,
+    "longitude": 9.119554
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "38",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6002076,
+    "longitude": 9.1191559
+  },
+  {
+    "street": "Viale Piave",
+    "number": "9",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6017296,
+    "longitude": 9.1231346
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "10",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.603755,
+    "longitude": 9.1246285
+  },
+  {
+    "street": "Via Milite Ignoto",
+    "number": "7",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6011887,
+    "longitude": 9.1220327
+  },
+  {
+    "street": "Via Napoleone Bonaparte",
+    "number": "14 bis",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6152767,
+    "longitude": 9.1349737
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "5",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6088611,
+    "longitude": 9.1308494
+  },
+  {
+    "street": "Via Napoleone Bonaparte",
+    "number": "14",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.615236,
+    "longitude": 9.1350775
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "19",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6111221,
+    "longitude": 9.1243138
+  },
+  {
+    "street": "Via Salerno",
+    "number": "38",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6066638,
+    "longitude": 9.1396154
+  },
+  {
+    "street": "Via Monza",
+    "number": "75",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6053994,
+    "longitude": 9.13735
+  },
+  {
+    "street": "Via Luciano Manara",
+    "number": "1",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6094569,
+    "longitude": 9.1375251
+  },
+  {
+    "street": "Corso Como",
+    "number": "20",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6113511,
+    "longitude": 9.1370415
+  },
+  {
+    "street": "Via Montello",
+    "number": "17",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6115985,
+    "longitude": 9.1377888
+  },
+  {
+    "street": "Via Achille Grandi",
+    "number": "8",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5908174,
+    "longitude": 9.1433278
+  },
+  {
+    "street": "Corso Milano",
+    "number": "8",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5941578,
+    "longitude": 9.1453126
+  },
+  {
+    "street": "Piazza della Repubblica",
+    "number": "8",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6026198,
+    "longitude": 9.1223314
+  },
+  {
+    "street": "Viale dei Mille",
+    "number": "74",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5989999,
+    "longitude": 9.1339467
+  },
+  {
+    "street": "Via Giotto",
+    "number": "28",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.588057,
+    "longitude": 9.1165624
+  },
+  {
+    "street": "Via Tito Speri",
+    "number": "6",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5912499,
+    "longitude": 9.1429591
+  },
+  {
+    "street": "Via Renato Cartesio",
+    "number": "12",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.592202,
+    "longitude": 9.1384578
+  },
+  {
+    "street": "Corso Como",
+    "number": "9c",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6124428,
+    "longitude": 9.1381116
+  },
+  {
+    "street": "Corso Como",
+    "number": "9d",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.612424,
+    "longitude": 9.1382753
+  },
+  {
+    "street": "Via Lampedusa",
+    "number": "9",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5949942,
+    "longitude": 9.1468838
+  },
+  {
+    "street": "Corso Como",
+    "number": "8",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.61318,
+    "longitude": 9.1368806
+  },
+  {
+    "street": "Corso Como",
+    "number": "32",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6088364,
+    "longitude": 9.1384846
+  },
+  {
+    "street": "Corso Como",
+    "number": "25",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6088477,
+    "longitude": 9.1389164
+  },
+  {
+    "street": "Via Fratelli Cairoli",
+    "number": "23",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6040351,
+    "longitude": 9.1189273
+  },
+  {
+    "street": "Via Enrico Toti",
+    "number": "5",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5978174,
+    "longitude": 9.1236493
+  },
+  {
+    "street": "Via Trieste",
+    "number": "93",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5955258,
+    "longitude": 9.131423
+  },
+  {
+    "street": "Viale dei Mille",
+    "number": "70",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5990721,
+    "longitude": 9.1323844
+  },
+  {
+    "street": "Via Marsala",
+    "number": "36",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5958253,
+    "longitude": 9.1426407
+  },
+  {
+    "street": "Via Marsala",
+    "number": "34",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5959257,
+    "longitude": 9.1426406
+  },
+  {
+    "street": "Via Trieste",
+    "number": "192",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.592019,
+    "longitude": 9.1441313
+  },
+  {
+    "street": "Via Trieste",
+    "number": "190",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5920847,
+    "longitude": 9.1439596
+  },
+  {
+    "street": "Via Trieste",
+    "number": "194",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5919726,
+    "longitude": 9.1445075
+  },
+  {
+    "street": "Via Trieste",
+    "number": "188",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5921081,
+    "longitude": 9.143839
+  },
+  {
+    "street": "Corso Milano",
+    "number": "16",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.595128,
+    "longitude": 9.1453658
+  },
+  {
+    "street": "Corso Milano",
+    "number": "14",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5952219,
+    "longitude": 9.1453604
+  },
+  {
+    "street": "Corso Milano",
+    "number": "12",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5953148,
+    "longitude": 9.1453618
+  },
+  {
+    "street": "Corso Milano",
+    "number": "10",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.595402,
+    "longitude": 9.1453658
+  },
+  {
+    "street": "Via Toscana",
+    "number": "18",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5950483,
+    "longitude": 9.1438088
+  },
+  {
+    "street": "Via Toscana",
+    "number": "16",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5950483,
+    "longitude": 9.1438383
+  },
+  {
+    "street": "Via Toscana",
+    "number": "14",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5950347,
+    "longitude": 9.1439513
+  },
+  {
+    "street": "Via Toscana",
+    "number": "12",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5950337,
+    "longitude": 9.1439999
+  },
+  {
+    "street": "Via Toscana",
+    "number": "10",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5950147,
+    "longitude": 9.1441169
+  },
+  {
+    "street": "Via Toscana",
+    "number": "8",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5950154,
+    "longitude": 9.1441571
+  },
+  {
+    "street": "Via Toscana",
+    "number": "2",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5949854,
+    "longitude": 9.1446456
+  },
+  {
+    "street": "Via Francesco Crispi",
+    "number": "1",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5955156,
+    "longitude": 9.144773
+  },
+  {
+    "street": "Corso Milano",
+    "number": "21",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5945453,
+    "longitude": 9.1458459
+  },
+  {
+    "street": "Corso Milano",
+    "number": "19a",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5946391,
+    "longitude": 9.1458459
+  },
+  {
+    "street": "Corso Milano",
+    "number": "19",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5948568,
+    "longitude": 9.145854
+  },
+  {
+    "street": "Corso Milano",
+    "number": "17",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5951337,
+    "longitude": 9.1458526
+  },
+  {
+    "street": "Via Lampedusa",
+    "number": "7",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5948424,
+    "longitude": 9.1468151
+  },
+  {
+    "street": "Via Lampedusa",
+    "number": "5",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5945685,
+    "longitude": 9.1468154
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "11",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5955644,
+    "longitude": 9.146904
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "11a",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5955606,
+    "longitude": 9.1468196
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "11b",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5955578,
+    "longitude": 9.1467203
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "13",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5955569,
+    "longitude": 9.1465983
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "17",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5955043,
+    "longitude": 9.1459197
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "15",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5955484,
+    "longitude": 9.1464105
+  },
+  {
+    "street": "Via Monte Bianco",
+    "number": "44",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6171051,
+    "longitude": 9.1203644
+  },
+  {
+    "street": "Via Francesco Crispi",
+    "number": "5",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5955292,
+    "longitude": 9.1438343
+  },
+  {
+    "street": "Via Cesare Beccaria",
+    "number": "10",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.591134,
+    "longitude": 9.1443184
+  },
+  {
+    "street": "Via Cesare Beccaria",
+    "number": "8",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5911613,
+    "longitude": 9.1441722
+  },
+  {
+    "street": "Via Cesare Beccaria",
+    "number": "3",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5913199,
+    "longitude": 9.1440274
+  },
+  {
+    "street": "Via Cesare Beccaria",
+    "number": "6",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5911941,
+    "longitude": 9.1439965
+  },
+  {
+    "street": "Via Cesare Beccaria",
+    "number": "4",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5912373,
+    "longitude": 9.1437605
+  },
+  {
+    "street": "Via Cesare Beccaria",
+    "number": "1",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.591348,
+    "longitude": 9.1437189
+  },
+  {
+    "street": "Via Niccolò Machiavelli",
+    "number": "17",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5912955,
+    "longitude": 9.144651
+  },
+  {
+    "street": "Via Niccolò Machiavelli",
+    "number": "19",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5914831,
+    "longitude": 9.1447248
+  },
+  {
+    "street": "Via Niccolò Machiavelli",
+    "number": "21",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5918496,
+    "longitude": 9.1448233
+  },
+  {
+    "street": "Corso Milano",
+    "number": "24",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5905437,
+    "longitude": 9.1453591
+  },
+  {
+    "street": "Corso Milano",
+    "number": "28",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5903729,
+    "longitude": 9.1453792
+  },
+  {
+    "street": "Corso Milano",
+    "number": "30",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5901252,
+    "longitude": 9.1453779
+  },
+  {
+    "street": "Corso Como",
+    "number": "52",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6051206,
+    "longitude": 9.1395058
+  },
+  {
+    "street": "Corso Como",
+    "number": "7",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6133293,
+    "longitude": 9.137208
+  },
+  {
+    "street": "Via Quarnaro",
+    "number": "3",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5961507,
+    "longitude": 9.1390973
+  },
+  {
+    "street": "Viale dei Mille",
+    "number": "117a",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5973903,
+    "longitude": 9.1421881
+  },
+  {
+    "street": "Via Leone Tolstoi",
+    "number": "18",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5887315,
+    "longitude": 9.1380423
+  },
+  {
+    "street": "Via Filippo Turati",
+    "number": "42",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5908014,
+    "longitude": 9.1407925
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "2",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6018175,
+    "longitude": 9.1223428
+  },
+  {
+    "street": "Via Raffaello Sanzio",
+    "number": "3",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.589029,
+    "longitude": 9.1189452
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "40",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6148118,
+    "longitude": 9.1256441
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "2",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5998351,
+    "longitude": 9.1190093
+  },
+  {
+    "street": "Via Sant'Ambrogio",
+    "number": "2",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6003837,
+    "longitude": 9.1211306
+  },
+  {
+    "street": "Via Napoleone Bonaparte",
+    "number": "18",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6147486,
+    "longitude": 9.1363049
+  },
+  {
+    "street": "Viale dei Mille",
+    "number": "1",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6008202,
+    "longitude": 9.1289371
+  },
+  {
+    "street": "Viale Lombardia",
+    "number": "52",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5938445,
+    "longitude": 9.1270365
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "98",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6121068,
+    "longitude": 9.1315493
+  },
+  {
+    "street": "Via Monte Bianco",
+    "number": "11",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6048078,
+    "longitude": 9.1227741
+  },
+  {
+    "street": "Corso Como",
+    "number": "18",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6120729,
+    "longitude": 9.1368709
+  },
+  {
+    "street": "Via Valcamonica",
+    "number": "25/27",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5961212,
+    "longitude": 9.1149643
+  },
+  {
+    "street": "Via Valsugana",
+    "number": "1",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5919088,
+    "longitude": 9.1189072
+  },
+  {
+    "street": "Via Giotto",
+    "number": "16",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.588582,
+    "longitude": 9.1183928
+  },
+  {
+    "street": "Via Giotto",
+    "number": "18",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5885885,
+    "longitude": 9.1182554
+  },
+  {
+    "street": "Via Giotto",
+    "number": "20",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5886147,
+    "longitude": 9.1180164
+  },
+  {
+    "street": "Viale dei Mille",
+    "number": "8",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.602119,
+    "longitude": 9.1243526
+  },
+  {
+    "street": "Viale dei Mille",
+    "number": "6",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6022483,
+    "longitude": 9.1240273
+  },
+  {
+    "street": "Viale Piave",
+    "number": "2",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6024742,
+    "longitude": 9.1232731
+  },
+  {
+    "street": "Via Fratelli Cervi",
+    "number": "1",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6026271,
+    "longitude": 9.1231837
+  },
+  {
+    "street": "Via Fratelli Cervi",
+    "number": "3",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6027371,
+    "longitude": 9.1229439
+  },
+  {
+    "street": "Via Fratelli Cervi",
+    "number": "2",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.602838,
+    "longitude": 9.1231488
+  },
+  {
+    "street": "Via Fratelli Cervi",
+    "number": "5",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6030357,
+    "longitude": 9.1218876
+  },
+  {
+    "street": "Via Fratelli Cervi",
+    "number": "9",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6032519,
+    "longitude": 9.1216701
+  },
+  {
+    "street": "Via Fratelli Cervi",
+    "number": "10",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6033686,
+    "longitude": 9.1217601
+  },
+  {
+    "street": "Via Fratelli Cervi",
+    "number": "12",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6035711,
+    "longitude": 9.1211191
+  },
+  {
+    "street": "Piazza Francesco Solari",
+    "number": "11",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6034269,
+    "longitude": 9.1210341
+  },
+  {
+    "street": "Piazza Francesco Solari",
+    "number": "9",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6033201,
+    "longitude": 9.120925
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "1",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6029934,
+    "longitude": 9.1205935
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "18",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6023301,
+    "longitude": 9.1201822
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "30",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6021599,
+    "longitude": 9.1203026
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "21",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6020394,
+    "longitude": 9.1201916
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "28",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.60215,
+    "longitude": 9.1203569
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "11",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6020939,
+    "longitude": 9.1207252
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "14",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.602112,
+    "longitude": 9.1210345
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "12",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.602079,
+    "longitude": 9.1211998
+  },
+  {
+    "street": "Piazza della Repubblica",
+    "number": "5",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6023466,
+    "longitude": 9.1215586
+  },
+  {
+    "street": "Piazza della Repubblica",
+    "number": "12",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6022392,
+    "longitude": 9.1220592
+  },
+  {
+    "street": "Piazza della Repubblica",
+    "number": "10a",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6023152,
+    "longitude": 9.1225763
+  },
+  {
+    "street": "Piazza della Repubblica",
+    "number": "9",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6024143,
+    "longitude": 9.1226022
+  },
+  {
+    "street": "Piazza della Repubblica",
+    "number": "11",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6022442,
+    "longitude": 9.1223756
+  },
+  {
+    "street": "Viale Piave",
+    "number": "4",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6023832,
+    "longitude": 9.1232095
+  },
+  {
+    "street": "Viale Piave",
+    "number": "7",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6019099,
+    "longitude": 9.1231638
+  },
+  {
+    "street": "Viale Piave",
+    "number": "11",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6015836,
+    "longitude": 9.1229991
+  },
+  {
+    "street": "Viale Piave",
+    "number": "13",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6014418,
+    "longitude": 9.1228902
+  },
+  {
+    "street": "Via Bainsizza",
+    "number": "2",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.60155,
+    "longitude": 9.1231689
+  },
+  {
+    "street": "Via Bainsizza",
+    "number": "3",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6016581,
+    "longitude": 9.1233083
+  },
+  {
+    "street": "Via Bainsizza",
+    "number": "5",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6015641,
+    "longitude": 9.1236402
+  },
+  {
+    "street": "Via Giotto",
+    "number": "5",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5884649,
+    "longitude": 9.1178663
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "36",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6117992,
+    "longitude": 9.1253598
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "34",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.611648,
+    "longitude": 9.1252291
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "24",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6101798,
+    "longitude": 9.1249882
+  },
+  {
+    "street": "Viale Piave",
+    "number": "14",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6013025,
+    "longitude": 9.1225405
+  },
+  {
+    "street": "Viale Piave",
+    "number": "16",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6011568,
+    "longitude": 9.1224616
+  },
+  {
+    "street": "Via San Giorgio",
+    "number": "2",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.600855,
+    "longitude": 9.1219983
+  },
+  {
+    "street": "Via San Giorgio",
+    "number": "16",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6011525,
+    "longitude": 9.120989
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "19",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6012903,
+    "longitude": 9.119846
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "15",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6015073,
+    "longitude": 9.1199194
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "21",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6010622,
+    "longitude": 9.1197524
+  },
+  {
+    "street": "Via Trento",
+    "number": "21",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.598265,
+    "longitude": 9.1195407
+  },
+  {
+    "street": "Via Trento",
+    "number": "22",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5982202,
+    "longitude": 9.1201101
+  },
+  {
+    "street": "Via Trento",
+    "number": "11",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5980598,
+    "longitude": 9.1203985
+  },
+  {
+    "street": "Via Trento",
+    "number": "5",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5979955,
+    "longitude": 9.1206763
+  },
+  {
+    "street": "Via Trento",
+    "number": "2",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.598002,
+    "longitude": 9.1211538
+  },
+  {
+    "street": "Via Trento",
+    "number": "3",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5978909,
+    "longitude": 9.1211578
+  },
+  {
+    "street": "Via Raffaello Sanzio",
+    "number": "28",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5891942,
+    "longitude": 9.1172599
+  },
+  {
+    "street": "Via Raffaello Sanzio",
+    "number": "25",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5892359,
+    "longitude": 9.1173392
+  },
+  {
+    "street": "Via Raffaello Sanzio",
+    "number": "22",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5893046,
+    "longitude": 9.1174702
+  },
+  {
+    "street": "Via Giovanni Segantini",
+    "number": "6",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5894903,
+    "longitude": 9.1169876
+  },
+  {
+    "street": "Via Giovanni Segantini",
+    "number": "8",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5898365,
+    "longitude": 9.1169316
+  },
+  {
+    "street": "Via Valsugana",
+    "number": "3",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5914512,
+    "longitude": 9.1180131
+  },
+  {
+    "street": "Via Monte Sabotino",
+    "number": "28",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6143603,
+    "longitude": 9.1229927
+  },
+  {
+    "street": "Via Donato Bramante",
+    "number": "10",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5866177,
+    "longitude": 9.116848
+  },
+  {
+    "street": "Viale dei Mille",
+    "number": "5",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6023545,
+    "longitude": 9.1243971
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "22",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6133804,
+    "longitude": 9.1223519
+  },
+  {
+    "street": "Corso Como",
+    "number": "23",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6090447,
+    "longitude": 9.1387635
+  },
+  {
+    "street": "Corso Como",
+    "number": "36",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6087553,
+    "longitude": 9.1385838
+  },
+  {
+    "street": "Corso Como",
+    "number": "42",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6080445,
+    "longitude": 9.1391879
+  },
+  {
+    "street": "Corso Como",
+    "number": "42a",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.607935,
+    "longitude": 9.1392628
+  },
+  {
+    "street": "Corso Como",
+    "number": "31",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6081006,
+    "longitude": 9.1393885
+  },
+  {
+    "street": "Piazza Francesco Solari",
+    "number": "2",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6036647,
+    "longitude": 9.1208504
+  },
+  {
+    "street": "Via Margherita Pusterla",
+    "number": "46",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6193165,
+    "longitude": 9.1254885
+  },
+  {
+    "street": "Via Margherita Pusterla",
+    "number": "48a",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6189557,
+    "longitude": 9.1258748
+  },
+  {
+    "street": "Via Margherita Pusterla",
+    "number": "48",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6191153,
+    "longitude": 9.1258082
+  },
+  {
+    "street": "Via Napoleone Bonaparte",
+    "number": "4",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6155083,
+    "longitude": 9.1342775
+  },
+  {
+    "street": "Via Napoleone Bonaparte",
+    "number": "6",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6154258,
+    "longitude": 9.1344355
+  },
+  {
+    "street": "Via Napoleone Bonaparte",
+    "number": "8",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6150641,
+    "longitude": 9.1343884
+  },
+  {
+    "street": "Via Napoleone Bonaparte",
+    "number": "16",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6151004,
+    "longitude": 9.1353668
+  },
+  {
+    "street": "Via Napoleone Bonaparte",
+    "number": "20",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.614959,
+    "longitude": 9.1357822
+  },
+  {
+    "street": "Via Napoleone Bonaparte",
+    "number": "22",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6147734,
+    "longitude": 9.1363072
+  },
+  {
+    "street": "Via Napoleone Bonaparte",
+    "number": "24",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6147352,
+    "longitude": 9.1363409
+  },
+  {
+    "street": "Via Napoleone Bonaparte",
+    "number": "26",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6147224,
+    "longitude": 9.1363324
+  },
+  {
+    "street": "Via Fratelli Cairoli",
+    "number": "2",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6036706,
+    "longitude": 9.1207016
+  },
+  {
+    "street": "Via Gaetano Salvemini",
+    "number": "8",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6040243,
+    "longitude": 9.1402183
+  },
+  {
+    "street": "Via Fratelli Cairoli",
+    "number": "1",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.603733,
+    "longitude": 9.1201957
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "13a",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6018987,
+    "longitude": 9.1201036
+  },
+  {
+    "street": "Via Fratelli Cairoli",
+    "number": "3",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6038052,
+    "longitude": 9.11996
+  },
+  {
+    "street": "Via Fratelli Cairoli",
+    "number": "5",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6038252,
+    "longitude": 9.1198849
+  },
+  {
+    "street": "Corso Como",
+    "number": "15",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6123326,
+    "longitude": 9.1381248
+  },
+  {
+    "street": "Via Montello",
+    "number": "32",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.612468,
+    "longitude": 9.1380632
+  },
+  {
+    "street": "Via Edgardo Sogno",
+    "number": "3",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6021619,
+    "longitude": 9.1405043
+  },
+  {
+    "street": "Corso Como",
+    "number": "44",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6078532,
+    "longitude": 9.1393233
+  },
+  {
+    "street": "Corso Como",
+    "number": "5",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6133165,
+    "longitude": 9.1371522
+  },
+  {
+    "street": "Corso Como",
+    "number": "3",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.61365,
+    "longitude": 9.1371227
+  },
+  {
+    "street": "Corso Como",
+    "number": "4",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6138104,
+    "longitude": 9.1368277
+  },
+  {
+    "street": "Corso Como",
+    "number": "6",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6136861,
+    "longitude": 9.1368645
+  },
+  {
+    "street": "Corso Como",
+    "number": "10",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6128873,
+    "longitude": 9.1369517
+  },
+  {
+    "street": "Corso Como",
+    "number": "9",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6123971,
+    "longitude": 9.1375807
+  },
+  {
+    "street": "Corso Como",
+    "number": "14",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6124389,
+    "longitude": 9.1368867
+  },
+  {
+    "street": "Corso Como",
+    "number": "16",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6120801,
+    "longitude": 9.1369685
+  },
+  {
+    "street": "Corso Como",
+    "number": "13",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6115116,
+    "longitude": 9.1375673
+  },
+  {
+    "street": "Corso Como",
+    "number": "11",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6117705,
+    "longitude": 9.1373782
+  },
+  {
+    "street": "Via Caserta",
+    "number": "6",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6094809,
+    "longitude": 9.1391686
+  },
+  {
+    "street": "Via Luigi Settembrini",
+    "number": "3",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6088113,
+    "longitude": 9.1404034
+  },
+  {
+    "street": "Via Luigi Settembrini",
+    "number": "1",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6088707,
+    "longitude": 9.1404507
+  },
+  {
+    "street": "Via Luigi Settembrini",
+    "number": "7",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6085371,
+    "longitude": 9.1401932
+  },
+  {
+    "street": "Via Luigi Settembrini",
+    "number": "9",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6082071,
+    "longitude": 9.139761
+  },
+  {
+    "street": "Via Luigi Settembrini",
+    "number": "11",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6082578,
+    "longitude": 9.1396098
+  },
+  {
+    "street": "Via Luigi Settembrini",
+    "number": "13",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6082279,
+    "longitude": 9.1394299
+  },
+  {
+    "street": "Corso Como",
+    "number": "19",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6101986,
+    "longitude": 9.1378744
+  },
+  {
+    "street": "Corso Como",
+    "number": "21",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6093524,
+    "longitude": 9.1385047
+  },
+  {
+    "street": "Corso Como",
+    "number": "21a",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6092905,
+    "longitude": 9.1385517
+  },
+  {
+    "street": "Corso Como",
+    "number": "34",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6090353,
+    "longitude": 9.1383331
+  },
+  {
+    "street": "Corso Como",
+    "number": "36b",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6086274,
+    "longitude": 9.1385138
+  },
+  {
+    "street": "Via Monte Bianco",
+    "number": "2",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6036894,
+    "longitude": 9.1236956
+  },
+  {
+    "street": "Via Gargano",
+    "number": "22",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5948172,
+    "longitude": 9.1396755
+  },
+  {
+    "street": "Via Gargano",
+    "number": "2",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5963761,
+    "longitude": 9.1403445
+  },
+  {
+    "street": "Via Gargano",
+    "number": "12",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5967548,
+    "longitude": 9.1395208
+  },
+  {
+    "street": "Via Gargano",
+    "number": "4",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5961856,
+    "longitude": 9.1402408
+  },
+  {
+    "street": "Via Gargano",
+    "number": "14",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5966999,
+    "longitude": 9.1397665
+  },
+  {
+    "street": "Via Gargano",
+    "number": "28",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5946075,
+    "longitude": 9.1395336
+  },
+  {
+    "street": "Via Gargano",
+    "number": "8",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5968341,
+    "longitude": 9.1391434
+  },
+  {
+    "street": "Via Gargano",
+    "number": "24",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5947134,
+    "longitude": 9.1395754
+  },
+  {
+    "street": "Via Gargano",
+    "number": "6",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5959981,
+    "longitude": 9.1401128
+  },
+  {
+    "street": "Via Gargano",
+    "number": "13",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5967279,
+    "longitude": 9.1400913
+  },
+  {
+    "street": "Via Istria",
+    "number": "8a",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5969269,
+    "longitude": 9.1386953
+  },
+  {
+    "street": "Via Gargano",
+    "number": "7",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5967652,
+    "longitude": 9.1398776
+  },
+  {
+    "street": "Via Gargano",
+    "number": "18",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5966314,
+    "longitude": 9.1401268
+  },
+  {
+    "street": "Via Gargano",
+    "number": "16",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5966641,
+    "longitude": 9.1399556
+  },
+  {
+    "street": "Via Stromboli",
+    "number": "1",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.618807,
+    "longitude": 9.1171995
+  },
+  {
+    "street": "Via Stelvio",
+    "number": "67",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6239673,
+    "longitude": 9.1186585
+  },
+  {
+    "street": "Via Monte Bianco",
+    "number": "131",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6172225,
+    "longitude": 9.1191136
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "33",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5883257,
+    "longitude": 9.1311056
+  },
+  {
+    "street": "Via Leone Tolstoi",
+    "number": "65",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5879755,
+    "longitude": 9.1337043
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "35",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5881437,
+    "longitude": 9.1324171
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "115/bis",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5868118,
+    "longitude": 9.1437484
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "17",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5888356,
+    "longitude": 9.1253495
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "37",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.588044,
+    "longitude": 9.1332111
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "51",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5878419,
+    "longitude": 9.1347498
+  },
+  {
+    "street": "Via Otto Marzo",
+    "number": "193",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5873267,
+    "longitude": 9.1203593
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "29/31",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5885165,
+    "longitude": 9.1305033
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "25",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5885425,
+    "longitude": 9.1289263
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "23",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5885117,
+    "longitude": 9.1279727
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "21",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.588607,
+    "longitude": 9.1272895
+  },
+  {
+    "street": "Via Monte Bianco",
+    "number": "52",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6182141,
+    "longitude": 9.1188594
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "27",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6134255,
+    "longitude": 9.1157526
+  },
+  {
+    "street": "Via Monte Bianco",
+    "number": "1",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6087087,
+    "longitude": 9.1208451
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "527",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6083075,
+    "longitude": 9.1309593
+  },
+  {
+    "street": "Via Fratelli Casati",
+    "number": "12",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6042897,
+    "longitude": 9.1216607
+  },
+  {
+    "street": "Via Monte Bianco",
+    "number": "83",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6125587,
+    "longitude": 9.1208152
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "3",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6063078,
+    "longitude": 9.1167248
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "1",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6069141,
+    "longitude": 9.1165624
+  },
+  {
+    "street": "Via Fratelli Casati",
+    "number": "14",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6048315,
+    "longitude": 9.1220792
+  },
+  {
+    "street": "Via Monte Bianco",
+    "number": "85",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.61285,
+    "longitude": 9.1207524
+  },
+  {
+    "street": "Via Monte Bianco",
+    "number": "101",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6141543,
+    "longitude": 9.1205686
+  },
+  {
+    "street": "Viale dei Mille",
+    "number": "29",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6012521,
+    "longitude": 9.1274075
+  },
+  {
+    "street": "Viale dei Mille",
+    "number": "30",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6010043,
+    "longitude": 9.1275121
+  },
+  {
+    "street": "Viale dei Mille",
+    "number": "28",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6010464,
+    "longitude": 9.1274168
+  },
+  {
+    "street": "Via Margherita Pusterla",
+    "number": "50",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6189875,
+    "longitude": 9.1260345
+  },
+  {
+    "street": "Piazza Monsignor Lorenzo Radaelli",
+    "number": "1",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6006124,
+    "longitude": 9.1216005
+  },
+  {
+    "street": "Via Fiume",
+    "number": "3",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6026896,
+    "longitude": 9.127103
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "73",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5930437,
+    "longitude": 9.1286059
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "115",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6145109,
+    "longitude": 9.1283504
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "38",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6118315,
+    "longitude": 9.1255164
+  },
+  {
+    "street": "Viale dei Mille",
+    "number": "126",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5958566,
+    "longitude": 9.1413146
+  },
+  {
+    "street": "Via Tito Speri",
+    "number": "7",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5916489,
+    "longitude": 9.1431862
+  },
+  {
+    "street": "Via Ravenna",
+    "number": "2",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5983562,
+    "longitude": 9.1401293
+  },
+  {
+    "street": "Viale dei Mille",
+    "number": "34",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6004267,
+    "longitude": 9.1286809
+  },
+  {
+    "street": "Viale dei Mille",
+    "number": "106",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5977068,
+    "longitude": 9.1386359
+  },
+  {
+    "street": "Via Monza",
+    "number": "10",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6067783,
+    "longitude": 9.1251429
+  },
+  {
+    "street": "Viale dei Mille",
+    "number": "22",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6012708,
+    "longitude": 9.1262438
+  },
+  {
+    "street": "Via Fratelli Bandiera",
+    "number": "3",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.604836,
+    "longitude": 9.1166304
+  },
+  {
+    "street": "Via Napoleone Bonaparte",
+    "number": "2/bis",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6172658,
+    "longitude": 9.1261905
+  },
+  {
+    "street": "Via Fratelli Cervi",
+    "number": "6",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6033336,
+    "longitude": 9.1225039
+  },
+  {
+    "street": "Via Pace",
+    "number": "38",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5950221,
+    "longitude": 9.1259662
+  },
+  {
+    "street": "Via Pace",
+    "number": "11",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5964441,
+    "longitude": 9.1232339
+  },
+  {
+    "street": "Vicolo del Giglio",
+    "number": "6",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6033526,
+    "longitude": 9.1194795
+  },
+  {
+    "street": "Via Umberto Giordano",
+    "number": "10",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6129246,
+    "longitude": 9.1070975
+  },
+  {
+    "street": "Via Napoleone Bonaparte",
+    "number": "40",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6165754,
+    "longitude": 9.1254056
+  },
+  {
+    "street": "Via Napoleone Bonaparte",
+    "number": "2",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6159426,
+    "longitude": 9.1251521
+  },
+  {
+    "street": "Via Bainsizza",
+    "number": "4a",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6012506,
+    "longitude": 9.1236097
+  },
+  {
+    "street": "via gorki m.",
+    "number": "150",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5865694,
+    "longitude": 9.1400259
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "12",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.614756,
+    "longitude": 9.1190647
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "134",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6155815,
+    "longitude": 9.1340355
+  },
+  {
+    "street": "Viale dei Mille",
+    "number": "33",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6012475,
+    "longitude": 9.1278676
+  },
+  {
+    "street": "Via del Laghetto",
+    "number": "6",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5968806,
+    "longitude": 9.1023035
+  },
+  {
+    "street": "Via Guglielmo Oberdan",
+    "number": "34",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.6090799,
+    "longitude": 9.1102856
+  },
+  {
+    "street": "Via Tito Speri",
+    "number": "4",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.591116,
+    "longitude": 9.1426969
+  },
+  {
+    "street": "Via Trieste",
+    "number": "129",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5942757,
+    "longitude": 9.1386471
+  },
+  {
+    "street": "Via Filippo Meda",
+    "number": "5",
+    "city": {
+      "name": "Limbiate",
+      "istat": "108027"
+    },
+    "latitude": 45.5963208,
+    "longitude": 9.1250831
+  }
+]

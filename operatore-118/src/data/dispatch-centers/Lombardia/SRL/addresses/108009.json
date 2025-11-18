@@ -1,0 +1,952 @@
+[
+  {
+    "street": "Via San Martino",
+    "number": "9",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6306692,
+    "longitude": 9.2748536
+  },
+  {
+    "street": "Via Cascina Campello",
+    "number": "1",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6347769,
+    "longitude": 9.2989562
+  },
+  {
+    "street": "Via Porta Mugnaia",
+    "number": "54",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6328673,
+    "longitude": 9.2770256
+  },
+  {
+    "street": "Via al Parco",
+    "number": "51",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6305507,
+    "longitude": 9.2857165
+  },
+  {
+    "street": "Via del Carroccio",
+    "number": "4",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6301657,
+    "longitude": 9.2617644
+  },
+  {
+    "street": "Via Cesana e Villa",
+    "number": "170",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6221311,
+    "longitude": 9.2755356
+  },
+  {
+    "street": "Via Cesana e Villa",
+    "number": "148",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6234156,
+    "longitude": 9.2761516
+  },
+  {
+    "street": "Via Cesana e Villa",
+    "number": "132",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6240605,
+    "longitude": 9.2762477
+  },
+  {
+    "street": "Via Cesana e Villa",
+    "number": "146",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6235912,
+    "longitude": 9.2762201
+  },
+  {
+    "street": "Via Cesana e Villa",
+    "number": "152",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.623155,
+    "longitude": 9.2760663
+  },
+  {
+    "street": "Via Cesana e Villa",
+    "number": "89",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6247427,
+    "longitude": 9.2762043
+  },
+  {
+    "street": "Via Cesana e Villa",
+    "number": "122",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6244643,
+    "longitude": 9.276074
+  },
+  {
+    "street": "Via Cesana e Villa",
+    "number": "114",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.624928,
+    "longitude": 9.2758101
+  },
+  {
+    "street": "Via Cesana e Villa",
+    "number": "154",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6231218,
+    "longitude": 9.2760568
+  },
+  {
+    "street": "Via Cesana e Villa",
+    "number": "162",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.622438,
+    "longitude": 9.2757776
+  },
+  {
+    "street": "Via Cesana e Villa",
+    "number": "92",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6255746,
+    "longitude": 9.2755506
+  },
+  {
+    "street": "Via Cesana e Villa",
+    "number": "80",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.625941,
+    "longitude": 9.2753777
+  },
+  {
+    "street": "Via Gerardo dei Tintori",
+    "number": "2",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6269459,
+    "longitude": 9.2758043
+  },
+  {
+    "street": "Via Cesana e Villa",
+    "number": "118",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6247923,
+    "longitude": 9.2759052
+  },
+  {
+    "street": "Via Cesana e Villa",
+    "number": "73",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6255939,
+    "longitude": 9.2759213
+  },
+  {
+    "street": "Via Cesana e Villa",
+    "number": "78",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6261112,
+    "longitude": 9.2753383
+  },
+  {
+    "street": "Via Cesana e Villa",
+    "number": "47",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6265013,
+    "longitude": 9.275729
+  },
+  {
+    "street": "Via Cesana e Villa",
+    "number": "120",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6246384,
+    "longitude": 9.2759643
+  },
+  {
+    "street": "Via dell'Olmo",
+    "number": "1",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6244599,
+    "longitude": 9.2760207
+  },
+  {
+    "street": "Via Cesana e Villa",
+    "number": "130",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6241151,
+    "longitude": 9.2762287
+  },
+  {
+    "street": "Via Cesana e Villa",
+    "number": "138",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.623805,
+    "longitude": 9.2762601
+  },
+  {
+    "street": "Via Cesana e Villa",
+    "number": "52",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6279018,
+    "longitude": 9.2746012
+  },
+  {
+    "street": "Via Cesana e Villa",
+    "number": "12",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6293018,
+    "longitude": 9.2741885
+  },
+  {
+    "street": "Via Cesana e Villa",
+    "number": "13",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6288989,
+    "longitude": 9.2746761
+  },
+  {
+    "street": "Via Cesana e Villa",
+    "number": "23",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6286493,
+    "longitude": 9.2747143
+  },
+  {
+    "street": "Via Cesana e Villa",
+    "number": "15",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6288586,
+    "longitude": 9.2746964
+  },
+  {
+    "street": "Via Cesana e Villa",
+    "number": "11",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6289433,
+    "longitude": 9.2746646
+  },
+  {
+    "street": "Piazza Italia",
+    "number": "2",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6298421,
+    "longitude": 9.2740132
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "3",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6291619,
+    "longitude": 9.2742622
+  },
+  {
+    "street": "Via Cesana e Villa",
+    "number": "18",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6289665,
+    "longitude": 9.2742991
+  },
+  {
+    "street": "Via Cesana e Villa",
+    "number": "46",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.628016,
+    "longitude": 9.2745599
+  },
+  {
+    "street": "Via Cesana e Villa",
+    "number": "10",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6294604,
+    "longitude": 9.2741763
+  },
+  {
+    "street": "Via Porta D'Arnolfo",
+    "number": "15",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6316634,
+    "longitude": 9.2735826
+  },
+  {
+    "street": "Via Porta D'Arnolfo",
+    "number": "27",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6320923,
+    "longitude": 9.273452
+  },
+  {
+    "street": "Via Porta D'Arnolfo",
+    "number": "26",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6314693,
+    "longitude": 9.2737942
+  },
+  {
+    "street": "Via Porta D'Arnolfo",
+    "number": "24",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6313956,
+    "longitude": 9.2738205
+  },
+  {
+    "street": "Via Porta D'Arnolfo",
+    "number": "40",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6321861,
+    "longitude": 9.2735693
+  },
+  {
+    "street": "Via Porta D'Arnolfo",
+    "number": "23",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6319842,
+    "longitude": 9.2734836
+  },
+  {
+    "street": "Via Porta D'Arnolfo",
+    "number": "38",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6321066,
+    "longitude": 9.2735973
+  },
+  {
+    "street": "Via Porta D'Arnolfo",
+    "number": "29",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6323216,
+    "longitude": 9.2732567
+  },
+  {
+    "street": "Via Libertà",
+    "number": "15",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6358823,
+    "longitude": 9.2706783
+  },
+  {
+    "street": "Via Libertà",
+    "number": "1",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6351493,
+    "longitude": 9.2715854
+  },
+  {
+    "street": "Via Porta D'Arnolfo",
+    "number": "92",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6352837,
+    "longitude": 9.2713182
+  },
+  {
+    "street": "Via Gerardo dei Tintori",
+    "number": "23",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6275255,
+    "longitude": 9.2772916
+  },
+  {
+    "street": "Via Gerardo dei Tintori",
+    "number": "21",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6274936,
+    "longitude": 9.2770797
+  },
+  {
+    "street": "Via Gerardo dei Tintori",
+    "number": "20",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6273792,
+    "longitude": 9.2770851
+  },
+  {
+    "street": "Via Gerardo dei Tintori",
+    "number": "19",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6274345,
+    "longitude": 9.2768289
+  },
+  {
+    "street": "Via Gerardo dei Tintori",
+    "number": "13",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6273754,
+    "longitude": 9.2764306
+  },
+  {
+    "street": "Via Gerardo dei Tintori",
+    "number": "7",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6272741,
+    "longitude": 9.2760712
+  },
+  {
+    "street": "Via Gerardo dei Tintori",
+    "number": "5",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.627231,
+    "longitude": 9.2758325
+  },
+  {
+    "street": "Via Cesana e Villa",
+    "number": "39",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.627186,
+    "longitude": 9.2754838
+  },
+  {
+    "street": "Via Gerardo dei Tintori",
+    "number": "3",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6272216,
+    "longitude": 9.2757225
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "1",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6258692,
+    "longitude": 9.2768544
+  },
+  {
+    "street": "Via Enrico Fermi",
+    "number": "18",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6345778,
+    "longitude": 9.2774606
+  },
+  {
+    "street": "Via Cesana e Villa",
+    "number": "174",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6219912,
+    "longitude": 9.2753628
+  },
+  {
+    "street": "Via Trento e Trieste",
+    "number": "120",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6293162,
+    "longitude": 9.2601822
+  },
+  {
+    "street": "via Trento e Trieste",
+    "number": "15",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6295954,
+    "longitude": 9.2721198
+  },
+  {
+    "street": "Via Europa 20853 Biassono MB",
+    "number": "4",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6238022,
+    "longitude": 9.2679726
+  },
+  {
+    "street": "Via al Parco",
+    "number": "75",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6313728,
+    "longitude": 9.2934585
+  },
+  {
+    "street": "Via P. D'Arnolfo 20853 Biassono MB",
+    "number": "41",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6327108,
+    "longitude": 9.2727587
+  },
+  {
+    "street": "via porta d'arnolfo Biassono",
+    "number": "21",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6325558,
+    "longitude": 9.272881
+  },
+  {
+    "street": "Via Brenno",
+    "number": "21",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6342186,
+    "longitude": 9.2896507
+  },
+  {
+    "street": "Piazza Libertà, 1, 20853 Biassono MB",
+    "number": "1",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6273337,
+    "longitude": 9.2690408
+  },
+  {
+    "street": "Via dei Celti",
+    "number": "10/11",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6380653,
+    "longitude": 9.292384
+  },
+  {
+    "street": "Via Trento e Trieste",
+    "number": "112",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6283593,
+    "longitude": 9.2616285
+  },
+  {
+    "street": "Via Trento e Trieste",
+    "number": "93",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6280482,
+    "longitude": 9.264367
+  },
+  {
+    "street": "Piazza Italia",
+    "number": "11",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6297941,
+    "longitude": 9.2735039
+  },
+  {
+    "street": "Via Trento e Trieste",
+    "number": "97",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.628832,
+    "longitude": 9.2639551
+  },
+  {
+    "street": "Via Trento e Trieste",
+    "number": "27",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6295227,
+    "longitude": 9.2710198
+  },
+  {
+    "street": "Via al Parco",
+    "number": "47",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6303867,
+    "longitude": 9.2834782
+  },
+  {
+    "street": "Via Trento e Trieste",
+    "number": "96",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6292634,
+    "longitude": 9.263282
+  },
+  {
+    "street": "Via Trento e Trieste",
+    "number": "28",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6297934,
+    "longitude": 9.2718868
+  },
+  {
+    "street": "Via Trento e Trieste",
+    "number": "109",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6276048,
+    "longitude": 9.2613154
+  },
+  {
+    "street": "Via Trento e Trieste",
+    "number": "6",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6299478,
+    "longitude": 9.2728927
+  },
+  {
+    "street": "Via Cesana e Villa",
+    "number": "3",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6292675,
+    "longitude": 9.2745398
+  },
+  {
+    "street": "Via Trento e Trieste",
+    "number": "100",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6285482,
+    "longitude": 9.2633804
+  },
+  {
+    "street": "Via Trento e Trieste",
+    "number": "114",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6285212,
+    "longitude": 9.2610033
+  },
+  {
+    "street": "Via Pietro Verri",
+    "number": "21",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6303458,
+    "longitude": 9.2754927
+  },
+  {
+    "street": "Viale Mulini di San Giorgio",
+    "number": "2",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6152894,
+    "longitude": 9.2946925
+  },
+  {
+    "street": "Via al Parco",
+    "number": "57",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.63082,
+    "longitude": 9.2877517
+  },
+  {
+    "street": "Via Trento e Trieste",
+    "number": "128",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6282571,
+    "longitude": 9.2579731
+  },
+  {
+    "street": "Via San Martino",
+    "number": "1",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6304812,
+    "longitude": 9.2744456
+  },
+  {
+    "street": "Piazza Italia",
+    "number": "1",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6308189,
+    "longitude": 9.2735082
+  },
+  {
+    "street": "Via Porta D'Arnolfo",
+    "number": "87",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6348385,
+    "longitude": 9.2709237
+  },
+  {
+    "street": "Via al Parco",
+    "number": "51/57",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6317877,
+    "longitude": 9.2864759
+  },
+  {
+    "street": "Via Antonio Locatelli",
+    "number": "131",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6229766,
+    "longitude": 9.2599127
+  },
+  {
+    "street": "Via Luigi Segramora",
+    "number": "16",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6308691,
+    "longitude": 9.277178
+  },
+  {
+    "street": "Via Vittorio Bottego",
+    "number": "15",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6287689,
+    "longitude": 9.2538197
+  },
+  {
+    "street": "Via Antonio Locatelli",
+    "number": "41",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6261384,
+    "longitude": 9.2712987
+  },
+  {
+    "street": "Via Cesana e Villa",
+    "number": "70",
+    "city": {
+      "name": "Biassono",
+      "istat": "108009"
+    },
+    "latitude": 45.6267929,
+    "longitude": 9.2747829
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "street": "Via Parlaschino",
+    "number": "6",
+    "city": {
+      "name": "Parlasco",
+      "istat": "097064"
+    },
+    "latitude": 46.0180783,
+    "longitude": 9.3444528
+  },
+  {
+    "street": "Via Vittorio Emanuele II",
+    "number": "12",
+    "city": {
+      "name": "Parlasco",
+      "istat": "097064"
+    },
+    "latitude": 46.0184017,
+    "longitude": 9.3446169
+  }
+]

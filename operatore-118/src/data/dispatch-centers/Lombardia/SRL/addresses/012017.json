@@ -1,0 +1,412 @@
+[
+  {
+    "street": "Via Trento",
+    "number": "21",
+    "city": {
+      "name": "Brebbia",
+      "istat": "012017"
+    },
+    "latitude": 45.8255968,
+    "longitude": 8.6445123
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "1",
+    "city": {
+      "name": "Brebbia",
+      "istat": "012017"
+    },
+    "latitude": 45.8283172,
+    "longitude": 8.6517981
+  },
+  {
+    "street": "Via della Chiesa",
+    "number": "2",
+    "city": {
+      "name": "Brebbia",
+      "istat": "012017"
+    },
+    "latitude": 45.8285701,
+    "longitude": 8.6499272
+  },
+  {
+    "street": "Piazza Aldo Moro",
+    "number": "2",
+    "city": {
+      "name": "Brebbia",
+      "istat": "012017"
+    },
+    "latitude": 45.8304318,
+    "longitude": 8.6538948
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "2",
+    "city": {
+      "name": "Brebbia",
+      "istat": "012017"
+    },
+    "latitude": 45.826691,
+    "longitude": 8.6527461
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "3",
+    "city": {
+      "name": "Brebbia",
+      "istat": "012017"
+    },
+    "latitude": 45.8269043,
+    "longitude": 8.652727
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "4",
+    "city": {
+      "name": "Brebbia",
+      "istat": "012017"
+    },
+    "latitude": 45.8266078,
+    "longitude": 8.6528172
+  },
+  {
+    "street": "Via Sandro Pertini",
+    "number": "5",
+    "city": {
+      "name": "Brebbia",
+      "istat": "012017"
+    },
+    "latitude": 45.8285761,
+    "longitude": 8.6530102
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "5",
+    "city": {
+      "name": "Brebbia",
+      "istat": "012017"
+    },
+    "latitude": 45.8265707,
+    "longitude": 8.6529389
+  },
+  {
+    "street": "Via Sandro Pertini",
+    "number": "7",
+    "city": {
+      "name": "Brebbia",
+      "istat": "012017"
+    },
+    "latitude": 45.8285266,
+    "longitude": 8.652747
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "7",
+    "city": {
+      "name": "Brebbia",
+      "istat": "012017"
+    },
+    "latitude": 45.8258108,
+    "longitude": 8.6537522
+  },
+  {
+    "street": "Via Sandro Pertini",
+    "number": "9",
+    "city": {
+      "name": "Brebbia",
+      "istat": "012017"
+    },
+    "latitude": 45.8284715,
+    "longitude": 8.6524707
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "2",
+    "city": {
+      "name": "Brebbia",
+      "istat": "012017"
+    },
+    "latitude": 45.8295802,
+    "longitude": 8.653255
+  },
+  {
+    "street": "Via Francesco Petrarca",
+    "number": "33",
+    "city": {
+      "name": "Brebbia",
+      "istat": "012017"
+    },
+    "latitude": 45.833292,
+    "longitude": 8.6589515
+  },
+  {
+    "street": "Via Per Cadrezzate",
+    "number": "21/C",
+    "city": {
+      "name": "Brebbia",
+      "istat": "012017"
+    },
+    "latitude": 45.8194936,
+    "longitude": 8.6470975
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "12",
+    "city": {
+      "name": "Brebbia",
+      "istat": "012017"
+    },
+    "latitude": 45.8279886,
+    "longitude": 8.6441456
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "14",
+    "city": {
+      "name": "Brebbia",
+      "istat": "012017"
+    },
+    "latitude": 45.8278838,
+    "longitude": 8.6444837
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "10",
+    "city": {
+      "name": "Brebbia",
+      "istat": "012017"
+    },
+    "latitude": 45.8278934,
+    "longitude": 8.6438148
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "8",
+    "city": {
+      "name": "Brebbia",
+      "istat": "012017"
+    },
+    "latitude": 45.827664,
+    "longitude": 8.6436798
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "6",
+    "city": {
+      "name": "Brebbia",
+      "istat": "012017"
+    },
+    "latitude": 45.827426,
+    "longitude": 8.6438079
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "4",
+    "city": {
+      "name": "Brebbia",
+      "istat": "012017"
+    },
+    "latitude": 45.8273284,
+    "longitude": 8.6441437
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "2",
+    "city": {
+      "name": "Brebbia",
+      "istat": "012017"
+    },
+    "latitude": 45.8274237,
+    "longitude": 8.6444819
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "16",
+    "city": {
+      "name": "Brebbia",
+      "istat": "012017"
+    },
+    "latitude": 45.8276467,
+    "longitude": 8.644616
+  },
+  {
+    "street": "Via Lago",
+    "number": "9",
+    "city": {
+      "name": "Brebbia",
+      "istat": "012017"
+    },
+    "latitude": 45.8378368,
+    "longitude": 8.6268065
+  },
+  {
+    "street": "Via Lago",
+    "number": "11",
+    "city": {
+      "name": "Brebbia",
+      "istat": "012017"
+    },
+    "latitude": 45.8375807,
+    "longitude": 8.6261329
+  },
+  {
+    "street": "Via Lago",
+    "number": "7",
+    "city": {
+      "name": "Brebbia",
+      "istat": "012017"
+    },
+    "latitude": 45.8381408,
+    "longitude": 8.6274113
+  },
+  {
+    "street": "Via Lago",
+    "number": "13",
+    "city": {
+      "name": "Brebbia",
+      "istat": "012017"
+    },
+    "latitude": 45.8373989,
+    "longitude": 8.6259363
+  },
+  {
+    "street": "Via Lago",
+    "number": "5",
+    "city": {
+      "name": "Brebbia",
+      "istat": "012017"
+    },
+    "latitude": 45.8379707,
+    "longitude": 8.6276449
+  },
+  {
+    "street": "Via Lago",
+    "number": "3",
+    "city": {
+      "name": "Brebbia",
+      "istat": "012017"
+    },
+    "latitude": 45.8377829,
+    "longitude": 8.6278762
+  },
+  {
+    "street": "Via Lago",
+    "number": "27",
+    "city": {
+      "name": "Brebbia",
+      "istat": "012017"
+    },
+    "latitude": 45.8377087,
+    "longitude": 8.6251725
+  },
+  {
+    "street": "Via Lago",
+    "number": "1",
+    "city": {
+      "name": "Brebbia",
+      "istat": "012017"
+    },
+    "latitude": 45.8373986,
+    "longitude": 8.6277122
+  },
+  {
+    "street": "Via Lago",
+    "number": "31",
+    "city": {
+      "name": "Brebbia",
+      "istat": "012017"
+    },
+    "latitude": 45.8377121,
+    "longitude": 8.6256137
+  },
+  {
+    "street": "Via Lago",
+    "number": "29",
+    "city": {
+      "name": "Brebbia",
+      "istat": "012017"
+    },
+    "latitude": 45.8378672,
+    "longitude": 8.6254548
+  },
+  {
+    "street": "Via Lago",
+    "number": "2",
+    "city": {
+      "name": "Brebbia",
+      "istat": "012017"
+    },
+    "latitude": 45.8383974,
+    "longitude": 8.6279967
+  },
+  {
+    "street": "Via Lago",
+    "number": "25",
+    "city": {
+      "name": "Brebbia",
+      "istat": "012017"
+    },
+    "latitude": 45.8376191,
+    "longitude": 8.6247292
+  },
+  {
+    "street": "Via Piave",
+    "number": "21",
+    "city": {
+      "name": "Brebbia",
+      "istat": "012017"
+    },
+    "latitude": 45.8341718,
+    "longitude": 8.6494584
+  },
+  {
+    "street": "Via Lago",
+    "number": "10",
+    "city": {
+      "name": "Brebbia",
+      "istat": "012017"
+    },
+    "latitude": 45.8389252,
+    "longitude": 8.6264333
+  },
+  {
+    "street": "Via Lago",
+    "number": "14",
+    "city": {
+      "name": "Brebbia",
+      "istat": "012017"
+    },
+    "latitude": 45.8387946,
+    "longitude": 8.6260494
+  },
+  {
+    "street": "Via Pasubio",
+    "number": "13",
+    "city": {
+      "name": "Brebbia",
+      "istat": "012017"
+    },
+    "latitude": 45.8367597,
+    "longitude": 8.6296644
+  },
+  {
+    "street": "Via Pasubio",
+    "number": "16",
+    "city": {
+      "name": "Brebbia",
+      "istat": "012017"
+    },
+    "latitude": 45.8377453,
+    "longitude": 8.6290626
+  },
+  {
+    "street": "Via Pasubio",
+    "number": "9",
+    "city": {
+      "name": "Brebbia",
+      "istat": "012017"
+    },
+    "latitude": 45.8374428,
+    "longitude": 8.6303881
+  }
+]

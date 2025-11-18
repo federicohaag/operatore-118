@@ -1,0 +1,92 @@
+[
+  {
+    "street": "funivia",
+    "number": "1",
+    "city": {
+      "name": "Pigra",
+      "istat": "013184"
+    },
+    "latitude": 45.9557308,
+    "longitude": 9.1287413
+  },
+  {
+    "street": "Via Santa Margherita",
+    "number": "22",
+    "city": {
+      "name": "Pigra",
+      "istat": "013184"
+    },
+    "latitude": 45.9558834,
+    "longitude": 9.1281456
+  },
+  {
+    "street": "Via Blessagno",
+    "number": "35",
+    "city": {
+      "name": "Pigra",
+      "istat": "013184"
+    },
+    "latitude": 45.9566629,
+    "longitude": 9.1253733
+  },
+  {
+    "street": "Via Roma",
+    "number": "11",
+    "city": {
+      "name": "Pigra",
+      "istat": "013184"
+    },
+    "latitude": 45.9563837,
+    "longitude": 9.1258449
+  },
+  {
+    "street": "Via Funivia",
+    "number": "5",
+    "city": {
+      "name": "Pigra",
+      "istat": "013184"
+    },
+    "latitude": 45.9553695,
+    "longitude": 9.1288483
+  },
+  {
+    "street": "Via Verdi",
+    "number": "25",
+    "city": {
+      "name": "Pigra",
+      "istat": "013184"
+    },
+    "latitude": 45.9570386,
+    "longitude": 9.1287529
+  },
+  {
+    "street": "Via Sociale",
+    "number": "3",
+    "city": {
+      "name": "Pigra",
+      "istat": "013184"
+    },
+    "latitude": 45.9576828,
+    "longitude": 9.1278037
+  },
+  {
+    "street": "Via Villaggio Alpino",
+    "number": "11",
+    "city": {
+      "name": "Pigra",
+      "istat": "013184"
+    },
+    "latitude": 45.9574647,
+    "longitude": 9.1261118
+  },
+  {
+    "street": "Via Narcisi",
+    "number": "1",
+    "city": {
+      "name": "Pigra",
+      "istat": "013184"
+    },
+    "latitude": 45.9574375,
+    "longitude": 9.1289566
+  }
+]

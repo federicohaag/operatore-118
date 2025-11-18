@@ -1,0 +1,382 @@
+[
+  {
+    "street": "Via Libertà",
+    "number": "19",
+    "city": {
+      "name": "Samarate",
+      "istat": "012118"
+    },
+    "latitude": 45.629933,
+    "longitude": 8.7866913
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "54",
+    "city": {
+      "name": "Samarate",
+      "istat": "012118"
+    },
+    "latitude": 45.6327615,
+    "longitude": 8.7918814
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "10",
+    "city": {
+      "name": "Samarate",
+      "istat": "012118"
+    },
+    "latitude": 45.6362725,
+    "longitude": 8.7927379
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "9",
+    "city": {
+      "name": "Samarate",
+      "istat": "012118"
+    },
+    "latitude": 45.6350431,
+    "longitude": 8.7926301
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "331",
+    "city": {
+      "name": "Samarate",
+      "istat": "012118"
+    },
+    "latitude": 45.6188447,
+    "longitude": 8.7785073
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "67",
+    "city": {
+      "name": "Samarate",
+      "istat": "012118"
+    },
+    "latitude": 45.6380818,
+    "longitude": 8.7876259
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "48",
+    "city": {
+      "name": "Samarate",
+      "istat": "012118"
+    },
+    "latitude": 45.6379091,
+    "longitude": 8.7876787
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "32",
+    "city": {
+      "name": "Samarate",
+      "istat": "012118"
+    },
+    "latitude": 45.6374708,
+    "longitude": 8.7875141
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "19",
+    "city": {
+      "name": "Samarate",
+      "istat": "012118"
+    },
+    "latitude": 45.6356095,
+    "longitude": 8.7875901
+  },
+  {
+    "street": "Via Moncenisio",
+    "number": "7",
+    "city": {
+      "name": "Samarate",
+      "istat": "012118"
+    },
+    "latitude": 45.6328006,
+    "longitude": 8.7866313
+  },
+  {
+    "street": "Via Cinque Giornate",
+    "number": "7",
+    "city": {
+      "name": "Samarate",
+      "istat": "012118"
+    },
+    "latitude": 45.6282616,
+    "longitude": 8.7870906
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "16",
+    "city": {
+      "name": "Samarate",
+      "istat": "012118"
+    },
+    "latitude": 45.6338303,
+    "longitude": 8.7866365
+  },
+  {
+    "street": "Piazza Italia",
+    "number": "7",
+    "city": {
+      "name": "Samarate",
+      "istat": "012118"
+    },
+    "latitude": 45.6279728,
+    "longitude": 8.7844504
+  },
+  {
+    "street": "Viale Giovanni Agusta",
+    "number": "463",
+    "city": {
+      "name": "Samarate",
+      "istat": "012118"
+    },
+    "latitude": 45.6314719,
+    "longitude": 8.7481266
+  },
+  {
+    "street": "Via Giovanni Agusta",
+    "number": "520",
+    "city": {
+      "name": "Samarate",
+      "istat": "012118"
+    },
+    "latitude": 45.6312631,
+    "longitude": 8.7456772
+  },
+  {
+    "street": "Via Giosuè Borsi",
+    "number": "1",
+    "city": {
+      "name": "Samarate",
+      "istat": "012118"
+    },
+    "latitude": 45.6300331,
+    "longitude": 8.7913609
+  },
+  {
+    "street": "Via Locarno",
+    "number": "1",
+    "city": {
+      "name": "Samarate",
+      "istat": "012118"
+    },
+    "latitude": 45.6348864,
+    "longitude": 8.7882659
+  },
+  {
+    "street": "Via Contardo Ferrini",
+    "number": "42",
+    "city": {
+      "name": "Samarate",
+      "istat": "012118"
+    },
+    "latitude": 45.6103003,
+    "longitude": 8.7815324
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "35",
+    "city": {
+      "name": "Samarate",
+      "istat": "012118"
+    },
+    "latitude": 45.6306274,
+    "longitude": 8.7843653
+  },
+  {
+    "street": "Via Eusebio Pastori",
+    "number": "5",
+    "city": {
+      "name": "Samarate",
+      "istat": "012118"
+    },
+    "latitude": 45.6360111,
+    "longitude": 8.7922343
+  },
+  {
+    "street": "Via Michelangelo Buonarroti",
+    "number": "1",
+    "city": {
+      "name": "Samarate",
+      "istat": "012118"
+    },
+    "latitude": 45.6042576,
+    "longitude": 8.8015089
+  },
+  {
+    "street": "Viale Giovanni Agusta",
+    "number": "510",
+    "city": {
+      "name": "Samarate",
+      "istat": "012118"
+    },
+    "latitude": 45.631845,
+    "longitude": 8.7479567
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "35",
+    "city": {
+      "name": "Samarate",
+      "istat": "012118"
+    },
+    "latitude": 45.6341238,
+    "longitude": 8.7930904
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "40",
+    "city": {
+      "name": "Samarate",
+      "istat": "012118"
+    },
+    "latitude": 45.6302027,
+    "longitude": 8.7841164
+  },
+  {
+    "street": "Viale Giovanni Agusta",
+    "number": "520",
+    "city": {
+      "name": "Samarate",
+      "istat": "012118"
+    },
+    "latitude": 45.6314816,
+    "longitude": 8.7430465
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "10",
+    "city": {
+      "name": "Samarate",
+      "istat": "012118"
+    },
+    "latitude": 45.6336568,
+    "longitude": 8.7868576
+  },
+  {
+    "street": "Via Contardo Ferrini",
+    "number": "23",
+    "city": {
+      "name": "Samarate",
+      "istat": "012118"
+    },
+    "latitude": 45.6108034,
+    "longitude": 8.7824994
+  },
+  {
+    "street": "Via Monte Bianco",
+    "number": "1",
+    "city": {
+      "name": "Samarate",
+      "istat": "012118"
+    },
+    "latitude": 45.6382058,
+    "longitude": 8.7916407
+  },
+  {
+    "street": "Via Monte Bianco",
+    "number": "32",
+    "city": {
+      "name": "Samarate",
+      "istat": "012118"
+    },
+    "latitude": 45.6389647,
+    "longitude": 8.7901371
+  },
+  {
+    "street": "Via Monte Bianco",
+    "number": "24",
+    "city": {
+      "name": "Samarate",
+      "istat": "012118"
+    },
+    "latitude": 45.6387326,
+    "longitude": 8.790522
+  },
+  {
+    "street": "Via Monte Bianco",
+    "number": "20",
+    "city": {
+      "name": "Samarate",
+      "istat": "012118"
+    },
+    "latitude": 45.6386972,
+    "longitude": 8.7907805
+  },
+  {
+    "street": "Via Monte Bianco",
+    "number": "5",
+    "city": {
+      "name": "Samarate",
+      "istat": "012118"
+    },
+    "latitude": 45.6383125,
+    "longitude": 8.7913089
+  },
+  {
+    "street": "Via Monte Bianco",
+    "number": "19",
+    "city": {
+      "name": "Samarate",
+      "istat": "012118"
+    },
+    "latitude": 45.6383061,
+    "longitude": 8.7903732
+  },
+  {
+    "street": "Via Beata Giuliana",
+    "number": "34",
+    "city": {
+      "name": "Samarate",
+      "istat": "012118"
+    },
+    "latitude": 45.6372585,
+    "longitude": 8.788251
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "4/6",
+    "city": {
+      "name": "Samarate",
+      "istat": "012118"
+    },
+    "latitude": 45.6340205,
+    "longitude": 8.7874322
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "8",
+    "city": {
+      "name": "Samarate",
+      "istat": "012118"
+    },
+    "latitude": 45.6339536,
+    "longitude": 8.7870349
+  },
+  {
+    "street": "Via Trento",
+    "number": "9",
+    "city": {
+      "name": "Samarate",
+      "istat": "012118"
+    },
+    "latitude": 45.6103555,
+    "longitude": 8.7831827
+  },
+  {
+    "street": "Via Samarate",
+    "number": "150/5",
+    "city": {
+      "name": "Samarate",
+      "istat": "012118"
+    },
+    "latitude": 45.6183232,
+    "longitude": 8.8126606
+  }
+]

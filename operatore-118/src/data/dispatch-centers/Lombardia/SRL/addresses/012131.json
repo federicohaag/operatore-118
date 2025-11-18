@@ -1,0 +1,182 @@
+[
+  {
+    "street": "Via Giovanni Chini",
+    "number": "11",
+    "city": {
+      "name": "Valganna",
+      "istat": "012131"
+    },
+    "latitude": 45.9132121,
+    "longitude": 8.8350492
+  },
+  {
+    "street": "Piazza G. Grandi",
+    "number": "1",
+    "city": {
+      "name": "Valganna",
+      "istat": "012131"
+    },
+    "latitude": 45.9020921,
+    "longitude": 8.8252772
+  },
+  {
+    "street": "Via G. Andreani",
+    "number": "31",
+    "city": {
+      "name": "Valganna",
+      "istat": "012131"
+    },
+    "latitude": 45.9276687,
+    "longitude": 8.8242175
+  },
+  {
+    "street": "Via Francesco Rigamonti",
+    "number": "2",
+    "city": {
+      "name": "Valganna",
+      "istat": "012131"
+    },
+    "latitude": 45.9265061,
+    "longitude": 8.8223682
+  },
+  {
+    "street": "Via Montello",
+    "number": "3",
+    "city": {
+      "name": "Valganna",
+      "istat": "012131"
+    },
+    "latitude": 45.9268097,
+    "longitude": 8.8200905
+  },
+  {
+    "street": "Via Ugo Perego",
+    "number": "3",
+    "city": {
+      "name": "Valganna",
+      "istat": "012131"
+    },
+    "latitude": 45.9024486,
+    "longitude": 8.8223715
+  },
+  {
+    "street": "Via Roma",
+    "number": "4",
+    "city": {
+      "name": "Valganna",
+      "istat": "012131"
+    },
+    "latitude": 45.9027658,
+    "longitude": 8.8257005
+  },
+  {
+    "street": "Via D. Andreani",
+    "number": "10",
+    "city": {
+      "name": "Valganna",
+      "istat": "012131"
+    },
+    "latitude": 45.9229111,
+    "longitude": 8.8232772
+  },
+  {
+    "street": "Via Guido Andreani",
+    "number": "2",
+    "city": {
+      "name": "Valganna",
+      "istat": "012131"
+    },
+    "latitude": 45.9249597,
+    "longitude": 8.8221481
+  },
+  {
+    "street": "Piazza Giuseppe Perucchetti",
+    "number": "8",
+    "city": {
+      "name": "Valganna",
+      "istat": "012131"
+    },
+    "latitude": 45.9250256,
+    "longitude": 8.8217047
+  },
+  {
+    "street": "Piazza Giuseppe Perucchetti",
+    "number": "5",
+    "city": {
+      "name": "Valganna",
+      "istat": "012131"
+    },
+    "latitude": 45.9253551,
+    "longitude": 8.8217064
+  },
+  {
+    "street": "Piazza Giuseppe Perucchetti",
+    "number": "9",
+    "city": {
+      "name": "Valganna",
+      "istat": "012131"
+    },
+    "latitude": 45.9250944,
+    "longitude": 8.8215651
+  },
+  {
+    "street": "Piazza Pietro, Rocco, Giacomo Salvadori",
+    "number": "1",
+    "city": {
+      "name": "Valganna",
+      "istat": "012131"
+    },
+    "latitude": 45.9137312,
+    "longitude": 8.8355736
+  },
+  {
+    "street": "Via Odoardo Tabacchi",
+    "number": "7",
+    "city": {
+      "name": "Valganna",
+      "istat": "012131"
+    },
+    "latitude": 45.9026889,
+    "longitude": 8.8269534
+  },
+  {
+    "street": "Via Gerolamo Isella",
+    "number": "19",
+    "city": {
+      "name": "Valganna",
+      "istat": "012131"
+    },
+    "latitude": 45.9190926,
+    "longitude": 8.8240335
+  },
+  {
+    "street": "Via Gerolamo Isella",
+    "number": "8",
+    "city": {
+      "name": "Valganna",
+      "istat": "012131"
+    },
+    "latitude": 45.9209498,
+    "longitude": 8.8230519
+  },
+  {
+    "street": "Via Guido Andreani",
+    "number": "12",
+    "city": {
+      "name": "Valganna",
+      "istat": "012131"
+    },
+    "latitude": 45.926071,
+    "longitude": 8.8230689
+  },
+  {
+    "street": "Via F. Comolli",
+    "number": "7",
+    "city": {
+      "name": "Valganna",
+      "istat": "012131"
+    },
+    "latitude": 45.9048288,
+    "longitude": 8.8281318
+  }
+]

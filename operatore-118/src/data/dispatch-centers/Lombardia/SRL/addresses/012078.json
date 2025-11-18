@@ -1,0 +1,142 @@
+[
+  {
+    "street": "Via Dante Alighieri",
+    "number": "21",
+    "city": {
+      "name": "Gorla Maggiore",
+      "istat": "012078"
+    },
+    "latitude": 45.665725,
+    "longitude": 8.8933741
+  },
+  {
+    "street": "Viale Italia",
+    "number": "9",
+    "city": {
+      "name": "Gorla Maggiore",
+      "istat": "012078"
+    },
+    "latitude": 45.6601641,
+    "longitude": 8.8936065
+  },
+  {
+    "street": "Piazza Martiri della Libertà",
+    "number": "19",
+    "city": {
+      "name": "Gorla Maggiore",
+      "istat": "012078"
+    },
+    "latitude": 45.6644322,
+    "longitude": 8.8907873
+  },
+  {
+    "street": "Piazza Martiri della Libertà",
+    "number": "3",
+    "city": {
+      "name": "Gorla Maggiore",
+      "istat": "012078"
+    },
+    "latitude": 45.6635447,
+    "longitude": 8.8900959
+  },
+  {
+    "street": "Via Roma",
+    "number": "41",
+    "city": {
+      "name": "Gorla Maggiore",
+      "istat": "012078"
+    },
+    "latitude": 45.6661071,
+    "longitude": 8.8897808
+  },
+  {
+    "street": "Via Roma",
+    "number": "35",
+    "city": {
+      "name": "Gorla Maggiore",
+      "istat": "012078"
+    },
+    "latitude": 45.6659468,
+    "longitude": 8.8898438
+  },
+  {
+    "street": "Via Roma",
+    "number": "12",
+    "city": {
+      "name": "Gorla Maggiore",
+      "istat": "012078"
+    },
+    "latitude": 45.6647425,
+    "longitude": 8.8904084
+  },
+  {
+    "street": "Via Roma",
+    "number": "14",
+    "city": {
+      "name": "Gorla Maggiore",
+      "istat": "012078"
+    },
+    "latitude": 45.6648053,
+    "longitude": 8.8903776
+  },
+  {
+    "street": "Via Roma",
+    "number": "10",
+    "city": {
+      "name": "Gorla Maggiore",
+      "istat": "012078"
+    },
+    "latitude": 45.6646797,
+    "longitude": 8.8904366
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "15",
+    "city": {
+      "name": "Gorla Maggiore",
+      "istat": "012078"
+    },
+    "latitude": 45.6683413,
+    "longitude": 8.8909194
+  },
+  {
+    "street": "Via Palmiro Togliatti 6",
+    "number": "6",
+    "city": {
+      "name": "Gorla Maggiore",
+      "istat": "012078"
+    },
+    "latitude": 45.6624227,
+    "longitude": 8.8983205
+  },
+  {
+    "street": "Viale Italia",
+    "number": "24",
+    "city": {
+      "name": "Gorla Maggiore",
+      "istat": "012078"
+    },
+    "latitude": 45.66147,
+    "longitude": 8.8970197
+  },
+  {
+    "street": "Via Sally Mayer",
+    "number": "1",
+    "city": {
+      "name": "Gorla Maggiore",
+      "istat": "012078"
+    },
+    "latitude": 45.6654039,
+    "longitude": 8.8912025
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "1",
+    "city": {
+      "name": "Gorla Maggiore",
+      "istat": "012078"
+    },
+    "latitude": 45.6699898,
+    "longitude": 8.8945256
+  }
+]

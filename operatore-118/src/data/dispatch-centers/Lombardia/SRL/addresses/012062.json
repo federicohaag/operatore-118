@@ -1,0 +1,372 @@
+[
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "13",
+    "city": {
+      "name": "Cuveglio",
+      "istat": "012062"
+    },
+    "latitude": 45.90259,
+    "longitude": 8.7341101
+  },
+  {
+    "street": "Via Battaglia di San Martino",
+    "number": "108",
+    "city": {
+      "name": "Cuveglio",
+      "istat": "012062"
+    },
+    "latitude": 45.9047684,
+    "longitude": 8.7399648
+  },
+  {
+    "street": "Via Milano",
+    "number": "48",
+    "city": {
+      "name": "Cuveglio",
+      "istat": "012062"
+    },
+    "latitude": 45.9080346,
+    "longitude": 8.7356203
+  },
+  {
+    "street": "Via Ernesto Teodoro Moneta",
+    "number": "25",
+    "city": {
+      "name": "Cuveglio",
+      "istat": "012062"
+    },
+    "latitude": 45.9066903,
+    "longitude": 8.7231556
+  },
+  {
+    "street": "Via Ernesto Teodoro Moneta",
+    "number": "23",
+    "city": {
+      "name": "Cuveglio",
+      "istat": "012062"
+    },
+    "latitude": 45.9067537,
+    "longitude": 8.7231774
+  },
+  {
+    "street": "Via Ernesto Teodoro Moneta",
+    "number": "1a",
+    "city": {
+      "name": "Cuveglio",
+      "istat": "012062"
+    },
+    "latitude": 45.9070045,
+    "longitude": 8.723508
+  },
+  {
+    "street": "Via Ernesto Teodoro Moneta",
+    "number": "1b",
+    "city": {
+      "name": "Cuveglio",
+      "istat": "012062"
+    },
+    "latitude": 45.9070316,
+    "longitude": 8.7235978
+  },
+  {
+    "street": "Via Ernesto Teodoro Moneta",
+    "number": "1c",
+    "city": {
+      "name": "Cuveglio",
+      "istat": "012062"
+    },
+    "latitude": 45.9070392,
+    "longitude": 8.7234107
+  },
+  {
+    "street": "Via Asilo",
+    "number": "12",
+    "city": {
+      "name": "Cuveglio",
+      "istat": "012062"
+    },
+    "latitude": 45.9051617,
+    "longitude": 8.7389563
+  },
+  {
+    "street": "Via Monte Colonna",
+    "number": "1",
+    "city": {
+      "name": "Cuveglio",
+      "istat": "012062"
+    },
+    "latitude": 45.9076082,
+    "longitude": 8.726155
+  },
+  {
+    "street": "Via Stazione",
+    "number": "20",
+    "city": {
+      "name": "Cuveglio",
+      "istat": "012062"
+    },
+    "latitude": 45.9056827,
+    "longitude": 8.7273835
+  },
+  {
+    "street": "Via Battaglia San Martino",
+    "number": "53",
+    "city": {
+      "name": "Cuveglio",
+      "istat": "012062"
+    },
+    "latitude": 45.9045681,
+    "longitude": 8.7343086
+  },
+  {
+    "street": "Via Vidoletti Emilio",
+    "number": "73",
+    "city": {
+      "name": "Cuveglio",
+      "istat": "012062"
+    },
+    "latitude": 45.9082261,
+    "longitude": 8.726884
+  },
+  {
+    "street": "Via Vidoletti Emilio",
+    "number": "64",
+    "city": {
+      "name": "Cuveglio",
+      "istat": "012062"
+    },
+    "latitude": 45.9081862,
+    "longitude": 8.7262838
+  },
+  {
+    "street": "Via Vidoletti Emilio",
+    "number": "77",
+    "city": {
+      "name": "Cuveglio",
+      "istat": "012062"
+    },
+    "latitude": 45.9081934,
+    "longitude": 8.7266102
+  },
+  {
+    "street": "Via Vidoletti Emilio",
+    "number": "66",
+    "city": {
+      "name": "Cuveglio",
+      "istat": "012062"
+    },
+    "latitude": 45.9080448,
+    "longitude": 8.7262331
+  },
+  {
+    "street": "Via Vidoletti Emilio",
+    "number": "58",
+    "city": {
+      "name": "Cuveglio",
+      "istat": "012062"
+    },
+    "latitude": 45.9082712,
+    "longitude": 8.7268496
+  },
+  {
+    "street": "Via Monte Colonna",
+    "number": "1c",
+    "city": {
+      "name": "Cuveglio",
+      "istat": "012062"
+    },
+    "latitude": 45.9076636,
+    "longitude": 8.7266504
+  },
+  {
+    "street": "Via Monte Colonna",
+    "number": "1b",
+    "city": {
+      "name": "Cuveglio",
+      "istat": "012062"
+    },
+    "latitude": 45.9077069,
+    "longitude": 8.7264576
+  },
+  {
+    "street": "Via Monte Colonna",
+    "number": "1a",
+    "city": {
+      "name": "Cuveglio",
+      "istat": "012062"
+    },
+    "latitude": 45.9077516,
+    "longitude": 8.7263059
+  },
+  {
+    "street": "Località Piana",
+    "number": "1",
+    "city": {
+      "name": "Cuveglio",
+      "istat": "012062"
+    },
+    "latitude": 45.9076749,
+    "longitude": 8.7548457
+  },
+  {
+    "street": "Via Molino Galli",
+    "number": "14",
+    "city": {
+      "name": "Cuveglio",
+      "istat": "012062"
+    },
+    "latitude": 45.9099051,
+    "longitude": 8.7573733
+  },
+  {
+    "street": "Via Molino Galli",
+    "number": "15",
+    "city": {
+      "name": "Cuveglio",
+      "istat": "012062"
+    },
+    "latitude": 45.9099857,
+    "longitude": 8.7577165
+  },
+  {
+    "street": "Via Molino Galli",
+    "number": "17",
+    "city": {
+      "name": "Cuveglio",
+      "istat": "012062"
+    },
+    "latitude": 45.9102586,
+    "longitude": 8.7580864
+  },
+  {
+    "street": "Via Molino Galli",
+    "number": "11",
+    "city": {
+      "name": "Cuveglio",
+      "istat": "012062"
+    },
+    "latitude": 45.9108249,
+    "longitude": 8.7567299
+  },
+  {
+    "street": "Via per Arcumeggia",
+    "number": "1",
+    "city": {
+      "name": "Cuveglio",
+      "istat": "012062"
+    },
+    "latitude": 45.9108985,
+    "longitude": 8.717077
+  },
+  {
+    "street": "Via per Arcumeggia",
+    "number": "3",
+    "city": {
+      "name": "Cuveglio",
+      "istat": "012062"
+    },
+    "latitude": 45.9112523,
+    "longitude": 8.7169222
+  },
+  {
+    "street": "Via San Martino",
+    "number": "16",
+    "city": {
+      "name": "Cuveglio",
+      "istat": "012062"
+    },
+    "latitude": 45.9265116,
+    "longitude": 8.7446962
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "15",
+    "city": {
+      "name": "Cuveglio",
+      "istat": "012062"
+    },
+    "latitude": 45.9022174,
+    "longitude": 8.7341295
+  },
+  {
+    "street": "Via per Arcumeggia",
+    "number": "7",
+    "city": {
+      "name": "Cuveglio",
+      "istat": "012062"
+    },
+    "latitude": 45.9115231,
+    "longitude": 8.7166605
+  },
+  {
+    "street": "Via per Arcumeggia",
+    "number": "5",
+    "city": {
+      "name": "Cuveglio",
+      "istat": "012062"
+    },
+    "latitude": 45.9116205,
+    "longitude": 8.7167493
+  },
+  {
+    "street": "Piazza Guglielmo Marconi",
+    "number": "1",
+    "city": {
+      "name": "Cuveglio",
+      "istat": "012062"
+    },
+    "latitude": 45.9051809,
+    "longitude": 8.7346815
+  },
+  {
+    "street": "Via Battaglia di San Martino",
+    "number": "124",
+    "city": {
+      "name": "Cuveglio",
+      "istat": "012062"
+    },
+    "latitude": 45.9058072,
+    "longitude": 8.745671
+  },
+  {
+    "street": "Via Battaglia di San Martino",
+    "number": "68",
+    "city": {
+      "name": "Cuveglio",
+      "istat": "012062"
+    },
+    "latitude": 45.904433,
+    "longitude": 8.736247
+  },
+  {
+    "street": "Via Marianne",
+    "number": "1",
+    "city": {
+      "name": "Cuveglio",
+      "istat": "012062"
+    },
+    "latitude": 45.9094322,
+    "longitude": 8.7186435
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "53",
+    "city": {
+      "name": "Cuveglio",
+      "istat": "012062"
+    },
+    "latitude": 45.9028438,
+    "longitude": 8.7375761
+  },
+  {
+    "street": "Via Sant'Anna",
+    "number": "snc",
+    "city": {
+      "name": "Cuveglio",
+      "istat": "012062"
+    },
+    "latitude": 45.9094471,
+    "longitude": 8.7370383
+  }
+]

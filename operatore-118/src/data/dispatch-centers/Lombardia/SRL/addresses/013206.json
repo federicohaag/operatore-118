@@ -1,0 +1,262 @@
+[
+  {
+    "street": "Piazza Don Pietro Prayer",
+    "number": "1",
+    "city": {
+      "name": "San Fermo della Battaglia",
+      "istat": "013206"
+    },
+    "latitude": 45.8069591,
+    "longitude": 9.0513939
+  },
+  {
+    "street": "Via Mornago",
+    "number": "1",
+    "city": {
+      "name": "San Fermo della Battaglia",
+      "istat": "013206"
+    },
+    "latitude": 45.8056897,
+    "longitude": 9.0489981
+  },
+  {
+    "street": "Via Luigi Rigamonti",
+    "number": "17b",
+    "city": {
+      "name": "San Fermo della Battaglia",
+      "istat": "013206"
+    },
+    "latitude": 45.8046496,
+    "longitude": 9.0508391
+  },
+  {
+    "street": "Via Carlo Riboni",
+    "number": "10",
+    "city": {
+      "name": "San Fermo della Battaglia",
+      "istat": "013206"
+    },
+    "latitude": 45.8088813,
+    "longitude": 9.0402467
+  },
+  {
+    "street": "Via Giuseppe Fioravanti",
+    "number": "2",
+    "city": {
+      "name": "San Fermo della Battaglia",
+      "istat": "013206"
+    },
+    "latitude": 45.8101118,
+    "longitude": 9.0392098
+  },
+  {
+    "street": "Via Henry Dunant",
+    "number": "11",
+    "city": {
+      "name": "San Fermo della Battaglia",
+      "istat": "013206"
+    },
+    "latitude": 45.8134475,
+    "longitude": 9.0330774
+  },
+  {
+    "street": "Via per Montano",
+    "number": "32",
+    "city": {
+      "name": "San Fermo della Battaglia",
+      "istat": "013206"
+    },
+    "latitude": 45.8118483,
+    "longitude": 9.0311909
+  },
+  {
+    "street": "Via per Montano",
+    "number": "40",
+    "city": {
+      "name": "San Fermo della Battaglia",
+      "istat": "013206"
+    },
+    "latitude": 45.8117535,
+    "longitude": 9.0313044
+  },
+  {
+    "street": "Via per Montano",
+    "number": "34",
+    "city": {
+      "name": "San Fermo della Battaglia",
+      "istat": "013206"
+    },
+    "latitude": 45.8118106,
+    "longitude": 9.0312687
+  },
+  {
+    "street": "Via Giuseppe Parini",
+    "number": "3",
+    "city": {
+      "name": "San Fermo della Battaglia",
+      "istat": "013206"
+    },
+    "latitude": 45.8074717,
+    "longitude": 9.0304947
+  },
+  {
+    "street": "Via per Montano",
+    "number": "42",
+    "city": {
+      "name": "San Fermo della Battaglia",
+      "istat": "013206"
+    },
+    "latitude": 45.811401,
+    "longitude": 9.0312495
+  },
+  {
+    "street": "Via per Montano",
+    "number": "38",
+    "city": {
+      "name": "San Fermo della Battaglia",
+      "istat": "013206"
+    },
+    "latitude": 45.8116967,
+    "longitude": 9.0312297
+  },
+  {
+    "street": "Via Roma",
+    "number": "10",
+    "city": {
+      "name": "San Fermo della Battaglia",
+      "istat": "013206"
+    },
+    "latitude": 45.8070891,
+    "longitude": 9.0514989
+  },
+  {
+    "street": "Via Carlo Imbonati",
+    "number": "1",
+    "city": {
+      "name": "San Fermo della Battaglia",
+      "istat": "013206"
+    },
+    "latitude": 45.8135656,
+    "longitude": 9.033172
+  },
+  {
+    "street": "Via Luigi Rigamonti",
+    "number": "17 C",
+    "city": {
+      "name": "San Fermo della Battaglia",
+      "istat": "013206"
+    },
+    "latitude": 45.8046985,
+    "longitude": 9.0507057
+  },
+  {
+    "street": "Via per Montano",
+    "number": "48",
+    "city": {
+      "name": "San Fermo della Battaglia",
+      "istat": "013206"
+    },
+    "latitude": 45.8109025,
+    "longitude": 9.0310268
+  },
+  {
+    "street": "Via per Montano",
+    "number": "50",
+    "city": {
+      "name": "San Fermo della Battaglia",
+      "istat": "013206"
+    },
+    "latitude": 45.8109822,
+    "longitude": 9.0310021
+  },
+  {
+    "street": "Via Carlo Imbonati",
+    "number": "14",
+    "city": {
+      "name": "San Fermo della Battaglia",
+      "istat": "013206"
+    },
+    "latitude": 45.8040279,
+    "longitude": 9.0343519
+  },
+  {
+    "street": "via per san fermo",
+    "number": "38",
+    "city": {
+      "name": "San Fermo della Battaglia",
+      "istat": "013206"
+    },
+    "latitude": 45.8148389,
+    "longitude": 9.0310388
+  },
+  {
+    "street": "Via Santa Maria Nullate",
+    "number": "29",
+    "city": {
+      "name": "San Fermo della Battaglia",
+      "istat": "013206"
+    },
+    "latitude": 45.8057704,
+    "longitude": 9.0484886
+  },
+  {
+    "street": "Piazza Giuseppe Garibaldi",
+    "number": "8",
+    "city": {
+      "name": "San Fermo della Battaglia",
+      "istat": "013206"
+    },
+    "latitude": 45.814614,
+    "longitude": 9.0323226
+  },
+  {
+    "street": "Via Fittavolo",
+    "number": "2",
+    "city": {
+      "name": "San Fermo della Battaglia",
+      "istat": "013206"
+    },
+    "latitude": 45.8030055,
+    "longitude": 9.0510162
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "22",
+    "city": {
+      "name": "San Fermo della Battaglia",
+      "istat": "013206"
+    },
+    "latitude": 45.8088358,
+    "longitude": 9.0517283
+  },
+  {
+    "street": "Via Figino",
+    "number": "8/a",
+    "city": {
+      "name": "San Fermo della Battaglia",
+      "istat": "013206"
+    },
+    "latitude": 45.8071673,
+    "longitude": 9.045438
+  },
+  {
+    "street": "Via Portea",
+    "number": "2",
+    "city": {
+      "name": "San Fermo della Battaglia",
+      "istat": "013206"
+    },
+    "latitude": 45.8052729,
+    "longitude": 9.0317788
+  },
+  {
+    "street": "Via Ravona",
+    "number": "3",
+    "city": {
+      "name": "San Fermo della Battaglia",
+      "istat": "013206"
+    },
+    "latitude": 45.7961452,
+    "longitude": 9.0453962
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "street": "Via Stazione",
+    "number": "27",
+    "city": {
+      "name": "Molteno",
+      "istat": "097051"
+    },
+    "latitude": 45.7805833,
+    "longitude": 9.3037184
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "8",
+    "city": {
+      "name": "Molteno",
+      "istat": "097051"
+    },
+    "latitude": 45.7787606,
+    "longitude": 9.3063177
+  },
+  {
+    "street": "Via Don Luigi Monza",
+    "number": "1",
+    "city": {
+      "name": "Molteno",
+      "istat": "097051"
+    },
+    "latitude": 45.7821964,
+    "longitude": 9.2922594
+  },
+  {
+    "street": "Via Don Luigi Monza",
+    "number": "3",
+    "city": {
+      "name": "Molteno",
+      "istat": "097051"
+    },
+    "latitude": 45.7825593,
+    "longitude": 9.2922567
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "21",
+    "city": {
+      "name": "Molteno",
+      "istat": "097051"
+    },
+    "latitude": 45.778054,
+    "longitude": 9.2977184
+  },
+  {
+    "street": "Piazza Risorgimento",
+    "number": "6",
+    "city": {
+      "name": "Molteno",
+      "istat": "097051"
+    },
+    "latitude": 45.7789354,
+    "longitude": 9.3068546
+  },
+  {
+    "street": "Via della Vittoria",
+    "number": "1",
+    "city": {
+      "name": "Molteno",
+      "istat": "097051"
+    },
+    "latitude": 45.7783829,
+    "longitude": 9.3071075
+  },
+  {
+    "street": "Piazza Risorgimento",
+    "number": "15",
+    "city": {
+      "name": "Molteno",
+      "istat": "097051"
+    },
+    "latitude": 45.7791315,
+    "longitude": 9.3069931
+  },
+  {
+    "street": "Via Achille Grandi",
+    "number": "4",
+    "city": {
+      "name": "Molteno",
+      "istat": "097051"
+    },
+    "latitude": 45.7767502,
+    "longitude": 9.3063976
+  },
+  {
+    "street": "Piazza Risorgimento",
+    "number": "18",
+    "city": {
+      "name": "Molteno",
+      "istat": "097051"
+    },
+    "latitude": 45.7791525,
+    "longitude": 9.3069255
+  },
+  {
+    "street": "Piazza Risorgimento",
+    "number": "11",
+    "city": {
+      "name": "Molteno",
+      "istat": "097051"
+    },
+    "latitude": 45.7788961,
+    "longitude": 9.306883
+  },
+  {
+    "street": "Via Roma",
+    "number": "31",
+    "city": {
+      "name": "Molteno",
+      "istat": "097051"
+    },
+    "latitude": 45.7786794,
+    "longitude": 9.3082357
+  },
+  {
+    "street": "Via Roma",
+    "number": "4",
+    "city": {
+      "name": "Molteno",
+      "istat": "097051"
+    },
+    "latitude": 45.7783895,
+    "longitude": 9.307938
+  },
+  {
+    "street": "Via Roma",
+    "number": "18",
+    "city": {
+      "name": "Molteno",
+      "istat": "097051"
+    },
+    "latitude": 45.7781868,
+    "longitude": 9.3081645
+  },
+  {
+    "street": "Via Roma",
+    "number": "28",
+    "city": {
+      "name": "Molteno",
+      "istat": "097051"
+    },
+    "latitude": 45.7781054,
+    "longitude": 9.3086757
+  },
+  {
+    "street": "Via Roma",
+    "number": "51",
+    "city": {
+      "name": "Molteno",
+      "istat": "097051"
+    },
+    "latitude": 45.7784038,
+    "longitude": 9.309227
+  },
+  {
+    "street": "Via Roma",
+    "number": "53",
+    "city": {
+      "name": "Molteno",
+      "istat": "097051"
+    },
+    "latitude": 45.7786379,
+    "longitude": 9.310165
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "10",
+    "city": {
+      "name": "Molteno",
+      "istat": "097051"
+    },
+    "latitude": 45.777703,
+    "longitude": 9.3106047
+  },
+  {
+    "street": "Via Achille Grandi",
+    "number": "23",
+    "city": {
+      "name": "Molteno",
+      "istat": "097051"
+    },
+    "latitude": 45.7755903,
+    "longitude": 9.3086304
+  },
+  {
+    "street": "Via Achille Grandi",
+    "number": "34",
+    "city": {
+      "name": "Molteno",
+      "istat": "097051"
+    },
+    "latitude": 45.7739884,
+    "longitude": 9.3093211
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "5",
+    "city": {
+      "name": "Molteno",
+      "istat": "097051"
+    },
+    "latitude": 45.7784107,
+    "longitude": 9.3019919
+  },
+  {
+    "street": "Via Adolfo Consolini",
+    "number": "9",
+    "city": {
+      "name": "Molteno",
+      "istat": "097051"
+    },
+    "latitude": 45.7818408,
+    "longitude": 9.3010395
+  },
+  {
+    "street": "Via Don Luigi Monza",
+    "number": "11/13",
+    "city": {
+      "name": "Molteno",
+      "istat": "097051"
+    },
+    "latitude": 45.7832843,
+    "longitude": 9.2915381
+  },
+  {
+    "street": "Viale Lombardia",
+    "number": "8",
+    "city": {
+      "name": "Molteno",
+      "istat": "097051"
+    },
+    "latitude": 45.786391,
+    "longitude": 9.2965892
+  },
+  {
+    "street": "Viale Lombardia",
+    "number": "10",
+    "city": {
+      "name": "Molteno",
+      "istat": "097051"
+    },
+    "latitude": 45.7874338,
+    "longitude": 9.2979168
+  },
+  {
+    "street": "Giancarlo Puecher",
+    "number": "sn",
+    "city": {
+      "name": "Molteno",
+      "istat": "097051"
+    },
+    "latitude": 45.7881404,
+    "longitude": 9.3070147
+  },
+  {
+    "street": "Piazza Stazione",
+    "number": "2",
+    "city": {
+      "name": "Molteno",
+      "istat": "097051"
+    },
+    "latitude": 45.7808349,
+    "longitude": 9.3017175
+  },
+  {
+    "street": "Via Don Luigi Monza",
+    "number": "20",
+    "city": {
+      "name": "Molteno",
+      "istat": "097051"
+    },
+    "latitude": 45.7879477,
+    "longitude": 9.2887112
+  },
+  {
+    "street": "Via Gioacchino Rossini",
+    "number": "10",
+    "city": {
+      "name": "Molteno",
+      "istat": "097051"
+    },
+    "latitude": 45.7847813,
+    "longitude": 9.3032305
+  },
+  {
+    "street": "Via Don Giuseppe Biffi",
+    "number": "3",
+    "city": {
+      "name": "Molteno",
+      "istat": "097051"
+    },
+    "latitude": 45.7793928,
+    "longitude": 9.30606
+  },
+  {
+    "street": "Via Don Giuseppe Biffi",
+    "number": "1",
+    "city": {
+      "name": "Molteno",
+      "istat": "097051"
+    },
+    "latitude": 45.7791367,
+    "longitude": 9.3054339
+  },
+  {
+    "street": "Viale Lombardia",
+    "number": "4",
+    "city": {
+      "name": "Molteno",
+      "istat": "097051"
+    },
+    "latitude": 45.784879,
+    "longitude": 9.2959299
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "14",
+    "city": {
+      "name": "Molteno",
+      "istat": "097051"
+    },
+    "latitude": 45.7773338,
+    "longitude": 9.3095796
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "13",
+    "city": {
+      "name": "Molteno",
+      "istat": "097051"
+    },
+    "latitude": 45.7779061,
+    "longitude": 9.3121517
+  }
+]

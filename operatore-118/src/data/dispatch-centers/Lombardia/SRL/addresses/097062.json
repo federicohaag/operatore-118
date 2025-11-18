@@ -1,0 +1,3082 @@
+[
+  {
+    "street": "Via Leopoldo Gasparotto",
+    "number": "3",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6781246,
+    "longitude": 9.4400403
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "21",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6786182,
+    "longitude": 9.4471787
+  },
+  {
+    "street": "Via Leopoldo Gasparotto",
+    "number": "1",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.676601,
+    "longitude": 9.4393631
+  },
+  {
+    "street": "Via Leopoldo Gasparotto",
+    "number": "10",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6770088,
+    "longitude": 9.4396948
+  },
+  {
+    "street": "Via Leopoldo Gasparotto",
+    "number": "11",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6774903,
+    "longitude": 9.4401158
+  },
+  {
+    "street": "Via Leopoldo Gasparotto",
+    "number": "12",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6760212,
+    "longitude": 9.4397125
+  },
+  {
+    "street": "Via Leopoldo Gasparotto",
+    "number": "15",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6770164,
+    "longitude": 9.4403435
+  },
+  {
+    "street": "Via Leopoldo Gasparotto",
+    "number": "16",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6760726,
+    "longitude": 9.4396385
+  },
+  {
+    "street": "Via Leopoldo Gasparotto",
+    "number": "18",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6759039,
+    "longitude": 9.4396375
+  },
+  {
+    "street": "Via Leopoldo Gasparotto",
+    "number": "19",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6768479,
+    "longitude": 9.4403961
+  },
+  {
+    "street": "Via Leopoldo Gasparotto",
+    "number": "2",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6771677,
+    "longitude": 9.438614
+  },
+  {
+    "street": "Via Leopoldo Gasparotto",
+    "number": "20",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6758363,
+    "longitude": 9.4391816
+  },
+  {
+    "street": "Via Leopoldo Gasparotto",
+    "number": "21",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6766832,
+    "longitude": 9.4404213
+  },
+  {
+    "street": "Via Leopoldo Gasparotto",
+    "number": "24",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6758266,
+    "longitude": 9.4386696
+  },
+  {
+    "street": "Via Leopoldo Gasparotto",
+    "number": "28",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6757267,
+    "longitude": 9.4394825
+  },
+  {
+    "street": "Via Leopoldo Gasparotto",
+    "number": "29",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6766218,
+    "longitude": 9.4407164
+  },
+  {
+    "street": "Via Leopoldo Gasparotto",
+    "number": "2a,2a",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6778221,
+    "longitude": 9.4392511
+  },
+  {
+    "street": "Via Leopoldo Gasparotto",
+    "number": "2b",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6777986,
+    "longitude": 9.4390759
+  },
+  {
+    "street": "Via Leopoldo Gasparotto",
+    "number": "2c",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6776177,
+    "longitude": 9.4387604
+  },
+  {
+    "street": "Via Leopoldo Gasparotto",
+    "number": "32",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6757697,
+    "longitude": 9.4400674
+  },
+  {
+    "street": "Via Leopoldo Gasparotto",
+    "number": "33",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6761583,
+    "longitude": 9.4405635
+  },
+  {
+    "street": "Via Leopoldo Gasparotto",
+    "number": "35",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6759911,
+    "longitude": 9.4406048
+  },
+  {
+    "street": "Via Leopoldo Gasparotto",
+    "number": "37",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6757975,
+    "longitude": 9.440624
+  },
+  {
+    "street": "Via Leopoldo Gasparotto",
+    "number": "4b,4a",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6777324,
+    "longitude": 9.439147
+  },
+  {
+    "street": "Via Leopoldo Gasparotto",
+    "number": "4d,4c",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6777581,
+    "longitude": 9.4393208
+  },
+  {
+    "street": "Strada dei Roncà",
+    "number": "5",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6765869,
+    "longitude": 9.4389162
+  },
+  {
+    "street": "Via Leopoldo Gasparotto",
+    "number": "5",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6780132,
+    "longitude": 9.4400678
+  },
+  {
+    "street": "Strada dei Roncà",
+    "number": "7",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6765762,
+    "longitude": 9.4386142
+  },
+  {
+    "street": "Via Leopoldo Gasparotto",
+    "number": "8",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6766729,
+    "longitude": 9.4401084
+  },
+  {
+    "street": "Via Leopoldo Gasparotto",
+    "number": "9",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6778296,
+    "longitude": 9.4401223
+  },
+  {
+    "street": "Via Leopoldo Gasparotto",
+    "number": "9a",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6777083,
+    "longitude": 9.4401554
+  },
+  {
+    "street": "Via Andrea Manzoni",
+    "number": "63;65",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6800829,
+    "longitude": 9.4444058
+  },
+  {
+    "street": "Via Ugo Festini",
+    "number": "1",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6733426,
+    "longitude": 9.4417735
+  },
+  {
+    "street": "Via Balfredo",
+    "number": "21",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6808219,
+    "longitude": 9.4462824
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "23",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6813914,
+    "longitude": 9.4450354
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "21a",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6818387,
+    "longitude": 9.4448474
+  },
+  {
+    "street": "Via Matteotti",
+    "number": "6",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6799117,
+    "longitude": 9.4390748
+  },
+  {
+    "street": "Strada Fornace",
+    "number": "11",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6734649,
+    "longitude": 9.4570048
+  },
+  {
+    "street": "Strada Fornace",
+    "number": "13",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6688981,
+    "longitude": 9.4579355
+  },
+  {
+    "street": "Strada Fornace",
+    "number": "15",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6687496,
+    "longitude": 9.458037
+  },
+  {
+    "street": "Strada Fornace",
+    "number": "17",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6684618,
+    "longitude": 9.45833
+  },
+  {
+    "street": "Strada Fornace",
+    "number": "19",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6683695,
+    "longitude": 9.459257
+  },
+  {
+    "street": "Strada Fornace",
+    "number": "23",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6682129,
+    "longitude": 9.461042
+  },
+  {
+    "street": "Strada Fornace",
+    "number": "9",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6740896,
+    "longitude": 9.4574862
+  },
+  {
+    "street": "Strada Fornace",
+    "number": "21",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6682249,
+    "longitude": 9.4609463
+  },
+  {
+    "street": "Via Fornace",
+    "number": "12c",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.671537,
+    "longitude": 9.4532847
+  },
+  {
+    "street": "Viale Roma",
+    "number": "25",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6786496,
+    "longitude": 9.4399802
+  },
+  {
+    "street": "Viale Roma",
+    "number": "16",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6787942,
+    "longitude": 9.4399965
+  },
+  {
+    "street": "Via Ugo Festini",
+    "number": "67",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6736414,
+    "longitude": 9.4426156
+  },
+  {
+    "street": "Via Ugo Festini",
+    "number": "65",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.673664,
+    "longitude": 9.4426955
+  },
+  {
+    "street": "Strada Fornace",
+    "number": "1",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6755692,
+    "longitude": 9.4525541
+  },
+  {
+    "street": "Strada Fornace",
+    "number": "4",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6750189,
+    "longitude": 9.4538266
+  },
+  {
+    "street": "Strada Fornace",
+    "number": "6",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6749971,
+    "longitude": 9.4539845
+  },
+  {
+    "street": "Strada Fornace",
+    "number": "8",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6749361,
+    "longitude": 9.4544043
+  },
+  {
+    "street": "Via Ugo Festini",
+    "number": "4",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6745231,
+    "longitude": 9.444206
+  },
+  {
+    "street": "Via Ugo Festini",
+    "number": "4a",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6746111,
+    "longitude": 9.4443978
+  },
+  {
+    "street": "Via Ugo Festini",
+    "number": "6",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6746242,
+    "longitude": 9.444497
+  },
+  {
+    "street": "Via Ugo Festini",
+    "number": "8",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.674718,
+    "longitude": 9.4446285
+  },
+  {
+    "street": "Via Cascina Sant'Antonio",
+    "number": "1a",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6761803,
+    "longitude": 9.4445774
+  },
+  {
+    "street": "Via Cascina Sant'Antonio",
+    "number": "1b",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6761958,
+    "longitude": 9.4446875
+  },
+  {
+    "street": "Via Cascina Sant'Antonio",
+    "number": "5a",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6762419,
+    "longitude": 9.4450142
+  },
+  {
+    "street": "Via Cascina Sant'Antonio",
+    "number": "5b",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6762578,
+    "longitude": 9.4451272
+  },
+  {
+    "street": "Via Cascina Sant'Antonio",
+    "number": "15",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6764398,
+    "longitude": 9.4462077
+  },
+  {
+    "street": "Via Cascina Sant'Antonio",
+    "number": "11",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6763874,
+    "longitude": 9.4457578
+  },
+  {
+    "street": "Via Cascina Sant'Antonio",
+    "number": "13",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6763808,
+    "longitude": 9.4458242
+  },
+  {
+    "street": "Via Cascina Sant'Antonio",
+    "number": "17",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6764417,
+    "longitude": 9.4462413
+  },
+  {
+    "street": "Via Cascina Sant'Antonio",
+    "number": "10",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6763077,
+    "longitude": 9.446311
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "11",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.676824,
+    "longitude": 9.4465443
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "13",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6767828,
+    "longitude": 9.4465537
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "15",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6767144,
+    "longitude": 9.4465792
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "22",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6768025,
+    "longitude": 9.4462171
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "20",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6772807,
+    "longitude": 9.4464523
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "26",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6766685,
+    "longitude": 9.4464464
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "17",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6764904,
+    "longitude": 9.446649
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "19",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.676354,
+    "longitude": 9.4466946
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "32",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6762161,
+    "longitude": 9.4465912
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "34",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6761457,
+    "longitude": 9.4465999
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "21",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6762309,
+    "longitude": 9.4470687
+  },
+  {
+    "street": "Via Ugo Festini",
+    "number": "11",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6766119,
+    "longitude": 9.4479821
+  },
+  {
+    "street": "Via Ugo Festini",
+    "number": "13a",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6766422,
+    "longitude": 9.448045
+  },
+  {
+    "street": "Via Ugo Festini",
+    "number": "20",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6764352,
+    "longitude": 9.448045
+  },
+  {
+    "street": "Via Ugo Festini",
+    "number": "18",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6763686,
+    "longitude": 9.4479056
+  },
+  {
+    "street": "Via Ugo Festini",
+    "number": "16c",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6758914,
+    "longitude": 9.4477955
+  },
+  {
+    "street": "Via Ugo Festini",
+    "number": "16b",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6759589,
+    "longitude": 9.4477764
+  },
+  {
+    "street": "Via Ugo Festini",
+    "number": "16a",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6760011,
+    "longitude": 9.4477645
+  },
+  {
+    "street": "Via Ugo Festini",
+    "number": "16",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6760606,
+    "longitude": 9.4477477
+  },
+  {
+    "street": "Via Ugo Festini",
+    "number": "14c",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6758195,
+    "longitude": 9.4477326
+  },
+  {
+    "street": "Via Ugo Festini",
+    "number": "14b",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6759095,
+    "longitude": 9.4477004
+  },
+  {
+    "street": "Via Ugo Festini",
+    "number": "14a",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6759788,
+    "longitude": 9.4476829
+  },
+  {
+    "street": "Via Ugo Festini",
+    "number": "14",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6761081,
+    "longitude": 9.4474335
+  },
+  {
+    "street": "Via Ugo Festini",
+    "number": "12",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6759563,
+    "longitude": 9.4471532
+  },
+  {
+    "street": "Via Ugo Festini",
+    "number": "10",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6758176,
+    "longitude": 9.4468059
+  },
+  {
+    "street": "Via Ugo Festini",
+    "number": "7",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6760855,
+    "longitude": 9.447045
+  },
+  {
+    "street": "Via Cascina Sant'Antonio",
+    "number": "3",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6762459,
+    "longitude": 9.4448347
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "18",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.677437,
+    "longitude": 9.4464699
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "16",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.677508,
+    "longitude": 9.4464659
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "9",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6776018,
+    "longitude": 9.4466141
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "12",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6776177,
+    "longitude": 9.4461943
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "14",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.677589,
+    "longitude": 9.4461912
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "10",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6776627,
+    "longitude": 9.4464947
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "8",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6777371,
+    "longitude": 9.4464914
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "6",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6778154,
+    "longitude": 9.4462171
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "1a",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6780384,
+    "longitude": 9.4466208
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "4",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6780525,
+    "longitude": 9.4461675
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "3",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6780993,
+    "longitude": 9.4462929
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "2",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6782905,
+    "longitude": 9.4461313
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "1",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6784554,
+    "longitude": 9.4462466
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "8a",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6784919,
+    "longitude": 9.446543
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "8b",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6785303,
+    "longitude": 9.4468354
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "12",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6785219,
+    "longitude": 9.446936
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "15",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6786016,
+    "longitude": 9.446885
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "13",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6785941,
+    "longitude": 9.4468246
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "9",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6786962,
+    "longitude": 9.4459757
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "11",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6786771,
+    "longitude": 9.446055
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "7",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6787112,
+    "longitude": 9.4456807
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "5",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6787327,
+    "longitude": 9.4455425
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "2b",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6789492,
+    "longitude": 9.4448881
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "2a",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6790007,
+    "longitude": 9.4448747
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "2",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6790569,
+    "longitude": 9.4448546
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "3",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6790796,
+    "longitude": 9.4451117
+  },
+  {
+    "street": "Via Mazzini",
+    "number": "2",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6792454,
+    "longitude": 9.4452274
+  },
+  {
+    "street": "Via Mazzini",
+    "number": "4",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6792617,
+    "longitude": 9.4453404
+  },
+  {
+    "street": "Via Mazzini",
+    "number": "6",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6792774,
+    "longitude": 9.4454489
+  },
+  {
+    "street": "Via Mazzini",
+    "number": "8",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6793193,
+    "longitude": 9.4457292
+  },
+  {
+    "street": "Via Mazzini",
+    "number": "10",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6794458,
+    "longitude": 9.446193
+  },
+  {
+    "street": "Via Mazzini",
+    "number": "12",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6794149,
+    "longitude": 9.4463271
+  },
+  {
+    "street": "Via Mazzini",
+    "number": "1",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6794449,
+    "longitude": 9.4470339
+  },
+  {
+    "street": "Via Mazzini",
+    "number": "9",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6795966,
+    "longitude": 9.448446
+  },
+  {
+    "street": "Via Mazzini",
+    "number": "22h",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6794758,
+    "longitude": 9.4488873
+  },
+  {
+    "street": "Via Mazzini",
+    "number": "22g",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.679456,
+    "longitude": 9.4487605
+  },
+  {
+    "street": "Via Mazzini",
+    "number": "22f",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6794495,
+    "longitude": 9.4487186
+  },
+  {
+    "street": "Via Mazzini",
+    "number": "22e",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6794329,
+    "longitude": 9.4486123
+  },
+  {
+    "street": "Via Mazzini",
+    "number": "22d",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6793979,
+    "longitude": 9.4483879
+  },
+  {
+    "street": "Via Mazzini",
+    "number": "22c",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6793788,
+    "longitude": 9.4482653
+  },
+  {
+    "street": "Via Mazzini",
+    "number": "22b",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6793709,
+    "longitude": 9.448215
+  },
+  {
+    "street": "Via Mazzini",
+    "number": "22a",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6793587,
+    "longitude": 9.4481362
+  },
+  {
+    "street": "Via Mazzini",
+    "number": "5",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6794833,
+    "longitude": 9.4476964
+  },
+  {
+    "street": "Via Mazzini",
+    "number": "7",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6794983,
+    "longitude": 9.4480249
+  },
+  {
+    "street": "Via Mazzini",
+    "number": "20",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6793774,
+    "longitude": 9.4477071
+  },
+  {
+    "street": "Via Mazzini",
+    "number": "18",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6794046,
+    "longitude": 9.4476454
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "12",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6783921,
+    "longitude": 9.4475804
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "8",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6787479,
+    "longitude": 9.4473476
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "11",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6792819,
+    "longitude": 9.4473255
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "13",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6788633,
+    "longitude": 9.4475203
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "15",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6787272,
+    "longitude": 9.4475762
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "17",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6785791,
+    "longitude": 9.4476441
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "17a",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6784563,
+    "longitude": 9.4477151
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "17b",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6782895,
+    "longitude": 9.4478412
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "14",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6781312,
+    "longitude": 9.4477768
+  },
+  {
+    "street": "Via San Martino",
+    "number": "11",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6779232,
+    "longitude": 9.4479123
+  },
+  {
+    "street": "Via delle Variselle",
+    "number": "1",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6771885,
+    "longitude": 9.4484045
+  },
+  {
+    "street": "Via delle Variselle",
+    "number": "3",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6771276,
+    "longitude": 9.4485292
+  },
+  {
+    "street": "Via San Martino",
+    "number": "16",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6773703,
+    "longitude": 9.4480719
+  },
+  {
+    "street": "Via San Martino",
+    "number": "14",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6772054,
+    "longitude": 9.4481081
+  },
+  {
+    "street": "Via San Martino",
+    "number": "12",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6772729,
+    "longitude": 9.4478063
+  },
+  {
+    "street": "Via San Martino",
+    "number": "9",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6773544,
+    "longitude": 9.4476628
+  },
+  {
+    "street": "Via San Martino",
+    "number": "5",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6776599,
+    "longitude": 9.4475931
+  },
+  {
+    "street": "Via San Martino",
+    "number": "10a",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6772551,
+    "longitude": 9.4476145
+  },
+  {
+    "street": "Via San Martino",
+    "number": "10",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6772344,
+    "longitude": 9.4472618
+  },
+  {
+    "street": "Via San Martino",
+    "number": "3",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6773356,
+    "longitude": 9.4474684
+  },
+  {
+    "street": "Via San Martino",
+    "number": "8",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6772326,
+    "longitude": 9.4471076
+  },
+  {
+    "street": "Via San Martino",
+    "number": "1",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.67733,
+    "longitude": 9.4468997
+  },
+  {
+    "street": "Via San Martino",
+    "number": "6",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.677256,
+    "longitude": 9.4468165
+  },
+  {
+    "street": "Via San Martino",
+    "number": "4",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6772701,
+    "longitude": 9.4467106
+  },
+  {
+    "street": "Via San Martino",
+    "number": "2",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6772719,
+    "longitude": 9.4466315
+  },
+  {
+    "street": "Via Cascina Sant'Antonio",
+    "number": "2",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6760051,
+    "longitude": 9.4444294
+  },
+  {
+    "street": "Via Ugo Festini",
+    "number": "3a",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6733691,
+    "longitude": 9.441876
+  },
+  {
+    "street": "Via Ugo Festini",
+    "number": "3",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6733681,
+    "longitude": 9.4418438
+  },
+  {
+    "street": "Via Ugo Festini",
+    "number": "1a",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6733588,
+    "longitude": 9.4418049
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "26",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6742218,
+    "longitude": 9.4427115
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "24",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6742462,
+    "longitude": 9.4427235
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "63b",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6753454,
+    "longitude": 9.4433311
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "63d",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6751645,
+    "longitude": 9.44326
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "63e",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6751233,
+    "longitude": 9.4432412
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "63f",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6749623,
+    "longitude": 9.4431517
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "63",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6753782,
+    "longitude": 9.4433404
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "61",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6755965,
+    "longitude": 9.4433914
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "59",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6757708,
+    "longitude": 9.443441
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "57",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6759273,
+    "longitude": 9.4434893
+  },
+  {
+    "street": "Piazzetta Cascina Sant'Antonio",
+    "number": "1",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.675976,
+    "longitude": 9.443669
+  },
+  {
+    "street": "Piazzetta Cascina Sant'Antonio",
+    "number": "2",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6759476,
+    "longitude": 9.4438348
+  },
+  {
+    "street": "Piazzetta Cascina Sant'Antonio",
+    "number": "3",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6759409,
+    "longitude": 9.4438737
+  },
+  {
+    "street": "Piazzetta Cascina Sant'Antonio",
+    "number": "4",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6759217,
+    "longitude": 9.4439862
+  },
+  {
+    "street": "Piazzetta Cascina Sant'Antonio",
+    "number": "5",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.675916,
+    "longitude": 9.444019
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "53",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6764989,
+    "longitude": 9.4437133
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "55",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6763021,
+    "longitude": 9.4436489
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "49",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6768906,
+    "longitude": 9.4438072
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "20",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6767524,
+    "longitude": 9.4436467
+  },
+  {
+    "street": "Via Giuseppe Parini",
+    "number": "1",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6768189,
+    "longitude": 9.443531
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "51",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6765667,
+    "longitude": 9.4436853
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "47",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6770517,
+    "longitude": 9.443846
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "45",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6771363,
+    "longitude": 9.443857
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "43",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6771716,
+    "longitude": 9.4438645
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "35",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6773881,
+    "longitude": 9.4439305
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "33",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6775943,
+    "longitude": 9.4439641
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "31",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6777554,
+    "longitude": 9.4439895
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "29",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6778238,
+    "longitude": 9.4440271
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "27",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6779035,
+    "longitude": 9.4440187
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "25",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6779597,
+    "longitude": 9.4442739
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "23",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.678004,
+    "longitude": 9.4442839
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "21",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6780668,
+    "longitude": 9.4442942
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "19",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6781181,
+    "longitude": 9.4443026
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "13",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.678267,
+    "longitude": 9.4441592
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "11",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6783027,
+    "longitude": 9.4441651
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "9",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6783335,
+    "longitude": 9.4441702
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "7",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6784872,
+    "longitude": 9.4441223
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "8",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6787824,
+    "longitude": 9.4440673
+  },
+  {
+    "street": "Via Balfredo",
+    "number": "17",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6807473,
+    "longitude": 9.4458872
+  },
+  {
+    "street": "Via Balfredo",
+    "number": "15",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6807501,
+    "longitude": 9.4458523
+  },
+  {
+    "street": "Via Balfredo",
+    "number": "13",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6807257,
+    "longitude": 9.4458215
+  },
+  {
+    "street": "Via Balfredo",
+    "number": "19",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.680781,
+    "longitude": 9.4461662
+  },
+  {
+    "street": "Via Balfredo",
+    "number": "12",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6807135,
+    "longitude": 9.4460575
+  },
+  {
+    "street": "Via Balfredo",
+    "number": "12b",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6807117,
+    "longitude": 9.4464116
+  },
+  {
+    "street": "Via Balfredo",
+    "number": "23",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6807679,
+    "longitude": 9.4469319
+  },
+  {
+    "street": "Via Balfredo",
+    "number": "14",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6807173,
+    "longitude": 9.4469708
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "4",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6804877,
+    "longitude": 9.4470003
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "7",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6803734,
+    "longitude": 9.4471706
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "5",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6806629,
+    "longitude": 9.4471277
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "9",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6800492,
+    "longitude": 9.4473383
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "6a",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6801851,
+    "longitude": 9.4470164
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "6b",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6800998,
+    "longitude": 9.4469963
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "6c",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6799349,
+    "longitude": 9.4464827
+  },
+  {
+    "street": "Via Andrea Manzoni",
+    "number": "80",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.680261,
+    "longitude": 9.4443543
+  },
+  {
+    "street": "Via Balfredo",
+    "number": "2",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6802675,
+    "longitude": 9.4446883
+  },
+  {
+    "street": "Via Balfredo",
+    "number": "4",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.680289,
+    "longitude": 9.4447245
+  },
+  {
+    "street": "Via Balfredo",
+    "number": "6",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6803885,
+    "longitude": 9.444898
+  },
+  {
+    "street": "Via Balfredo",
+    "number": "10",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6804231,
+    "longitude": 9.4454125
+  },
+  {
+    "street": "Via Balfredo",
+    "number": "5",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6804156,
+    "longitude": 9.4448733
+  },
+  {
+    "street": "Via Balfredo",
+    "number": "11",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.680483,
+    "longitude": 9.4453347
+  },
+  {
+    "street": "Via Balfredo",
+    "number": "1",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6803889,
+    "longitude": 9.4445782
+  },
+  {
+    "street": "Via Francesco Airoldi",
+    "number": "10",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6812578,
+    "longitude": 9.4451103
+  },
+  {
+    "street": "Via Francesco Airoldi",
+    "number": "1",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.681309,
+    "longitude": 9.4450812
+  },
+  {
+    "street": "Via Francesco Airoldi",
+    "number": "2",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6812427,
+    "longitude": 9.4446457
+  },
+  {
+    "street": "Via Francesco Airoldi",
+    "number": "8",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6812675,
+    "longitude": 9.4451305
+  },
+  {
+    "street": "Via Francesco Airoldi",
+    "number": "12",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6813032,
+    "longitude": 9.4455086
+  },
+  {
+    "street": "Via Francesco Airoldi",
+    "number": "14",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6813166,
+    "longitude": 9.4456876
+  },
+  {
+    "street": "Via Francesco Airoldi",
+    "number": "16",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6813404,
+    "longitude": 9.4458367
+  },
+  {
+    "street": "Via Francesco Airoldi",
+    "number": "18",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6813954,
+    "longitude": 9.44612
+  },
+  {
+    "street": "Via Francesco Airoldi",
+    "number": "20",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6814624,
+    "longitude": 9.4466334
+  },
+  {
+    "street": "Via Francesco Airoldi",
+    "number": "3",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6813925,
+    "longitude": 9.4452615
+  },
+  {
+    "street": "Viale Roma",
+    "number": "1",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6799879,
+    "longitude": 9.4442837
+  },
+  {
+    "street": "Via Andrea Manzoni",
+    "number": "3",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6794542,
+    "longitude": 9.4443557
+  },
+  {
+    "street": "Via Andrea Manzoni",
+    "number": "4a",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6794518,
+    "longitude": 9.4442156
+  },
+  {
+    "street": "Via Roma",
+    "number": "3",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6799359,
+    "longitude": 9.4436559
+  },
+  {
+    "street": "Via Andrea Manzoni",
+    "number": "4",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6796088,
+    "longitude": 9.4442403
+  },
+  {
+    "street": "Via Roma",
+    "number": "1",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.679993,
+    "longitude": 9.4444053
+  },
+  {
+    "street": "Via Andrea Manzoni",
+    "number": "63",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6802171,
+    "longitude": 9.4444186
+  },
+  {
+    "street": "Via Andrea Manzoni",
+    "number": "61",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6803402,
+    "longitude": 9.4444421
+  },
+  {
+    "street": "Via Andrea Manzoni",
+    "number": "46",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6812171,
+    "longitude": 9.4445448
+  },
+  {
+    "street": "Via al Ponte",
+    "number": "12",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6817236,
+    "longitude": 9.4460884
+  },
+  {
+    "street": "Via al Ponte",
+    "number": "16",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6816608,
+    "longitude": 9.4464572
+  },
+  {
+    "street": "Via al Ponte",
+    "number": "10",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6817408,
+    "longitude": 9.4459882
+  },
+  {
+    "street": "Via al Ponte",
+    "number": "8",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6818582,
+    "longitude": 9.445362
+  },
+  {
+    "street": "Via al Ponte",
+    "number": "6",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6819228,
+    "longitude": 9.4452346
+  },
+  {
+    "street": "Via al Ponte",
+    "number": "4",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6819331,
+    "longitude": 9.4451513
+  },
+  {
+    "street": "Via al Ponte",
+    "number": "2",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.681961,
+    "longitude": 9.4450531
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "21b",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6817154,
+    "longitude": 9.4448649
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "30",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6821018,
+    "longitude": 9.4446706
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "40",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6818422,
+    "longitude": 9.4446385
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "38",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6819073,
+    "longitude": 9.4446472
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "36",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6819587,
+    "longitude": 9.4446534
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "34",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6820073,
+    "longitude": 9.4446592
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "42",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6817937,
+    "longitude": 9.4446316
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "44",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.681732,
+    "longitude": 9.4446228
+  },
+  {
+    "street": "Piazza della Vittoria",
+    "number": "15",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6815462,
+    "longitude": 9.4445782
+  },
+  {
+    "street": "Piazza della Vittoria",
+    "number": "14",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6815503,
+    "longitude": 9.444519
+  },
+  {
+    "street": "Piazza della Vittoria",
+    "number": "13",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6815541,
+    "longitude": 9.4444627
+  },
+  {
+    "street": "Piazza della Vittoria",
+    "number": "12",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6815579,
+    "longitude": 9.4444079
+  },
+  {
+    "street": "Piazza della Vittoria",
+    "number": "10",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6815283,
+    "longitude": 9.44433
+  },
+  {
+    "street": "Piazza della Vittoria",
+    "number": "9",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6814695,
+    "longitude": 9.444195
+  },
+  {
+    "street": "Piazza della Vittoria",
+    "number": "8",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6814134,
+    "longitude": 9.4441881
+  },
+  {
+    "street": "Piazza della Vittoria",
+    "number": "7",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6813486,
+    "longitude": 9.4441802
+  },
+  {
+    "street": "Piazza della Vittoria",
+    "number": "5",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6813328,
+    "longitude": 9.444216
+  },
+  {
+    "street": "Piazza della Vittoria",
+    "number": "4",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6813263,
+    "longitude": 9.4443248
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "32",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6820602,
+    "longitude": 9.4446656
+  },
+  {
+    "street": "Piazza della Vittoria",
+    "number": "11",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6815687,
+    "longitude": 9.4443452
+  },
+  {
+    "street": "Via Francesco Airoldi",
+    "number": "13a",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6818163,
+    "longitude": 9.4482985
+  },
+  {
+    "street": "Via Francesco Airoldi",
+    "number": "13",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6817526,
+    "longitude": 9.4478855
+  },
+  {
+    "street": "Via Balfredo",
+    "number": "8",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6803892,
+    "longitude": 9.4451999
+  },
+  {
+    "street": "Via Thomas Alva Edison",
+    "number": "36",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6806396,
+    "longitude": 9.4528481
+  },
+  {
+    "street": "Via Fornace",
+    "number": "12a",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6711734,
+    "longitude": 9.4541793
+  },
+  {
+    "street": "Via Thomas Alva Edison",
+    "number": "38",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.680503,
+    "longitude": 9.4531553
+  },
+  {
+    "street": "Via Thomas Alva Edison",
+    "number": "32",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6811455,
+    "longitude": 9.451957
+  },
+  {
+    "street": "Via Ugo Festini",
+    "number": "29",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6812598,
+    "longitude": 9.451316
+  },
+  {
+    "street": "Via Thomas Alva Edison",
+    "number": "40",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6804154,
+    "longitude": 9.4533278
+  },
+  {
+    "street": "Via Ugo Festini",
+    "number": "19",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6772583,
+    "longitude": 9.4492674
+  },
+  {
+    "street": "Via Ugo Festini",
+    "number": "17",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6771936,
+    "longitude": 9.4491422
+  },
+  {
+    "street": "Via Ugo Festini",
+    "number": "15",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6771173,
+    "longitude": 9.4489945
+  },
+  {
+    "street": "Via Ugo Festini",
+    "number": "34",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6784732,
+    "longitude": 9.4513871
+  },
+  {
+    "street": "Via Ugo Festini",
+    "number": "32",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6783772,
+    "longitude": 9.451352
+  },
+  {
+    "street": "Via Ugo Festini",
+    "number": "30",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6781705,
+    "longitude": 9.4511175
+  },
+  {
+    "street": "Via Ugo Festini",
+    "number": "28",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6779288,
+    "longitude": 9.4508962
+  },
+  {
+    "street": "Via Ugo Festini",
+    "number": "26",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6777123,
+    "longitude": 9.4505757
+  },
+  {
+    "street": "Via Tommaso Edison",
+    "number": "28",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6816276,
+    "longitude": 9.4507518
+  },
+  {
+    "street": "Via Francesco Airoldi",
+    "number": "22",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6814288,
+    "longitude": 9.4473053
+  },
+  {
+    "street": "Via Cappelleria",
+    "number": "1",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6840823,
+    "longitude": 9.4493915
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "3",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6808594,
+    "longitude": 9.4472005
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "1",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6810793,
+    "longitude": 9.4470997
+  },
+  {
+    "street": "Via Enrico Airoldi",
+    "number": "24",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6808907,
+    "longitude": 9.4482992
+  },
+  {
+    "street": "Via Mohandas Karamchand Gandhi",
+    "number": "3",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6818509,
+    "longitude": 9.4439352
+  },
+  {
+    "street": "Strada Fornace",
+    "number": "14",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6678095,
+    "longitude": 9.4597732
+  },
+  {
+    "street": "Strada Fornace",
+    "number": "16",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6680771,
+    "longitude": 9.4606109
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "7",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6777608,
+    "longitude": 9.446802
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "1",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6791836,
+    "longitude": 9.4451417
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "41",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6772819,
+    "longitude": 9.4439595
+  },
+  {
+    "street": "Piazza della Vittoria",
+    "number": "2",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6812948,
+    "longitude": 9.4444793
+  },
+  {
+    "street": "Via Thomas Alva Edison",
+    "number": "34",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6799826,
+    "longitude": 9.4532391
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "10;12",
+    "city": {
+      "name": "Paderno d'Adda",
+      "istat": "097062"
+    },
+    "latitude": 45.6792291,
+    "longitude": 9.4494628
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "street": "Via Roma",
+    "number": "7",
+    "city": {
+      "name": "Taceno",
+      "istat": "097079"
+    },
+    "latitude": 46.0227714,
+    "longitude": 9.3636382
+  },
+  {
+    "street": "Via Provinciale Sud",
+    "number": "4",
+    "city": {
+      "name": "Taceno",
+      "istat": "097079"
+    },
+    "latitude": 46.0162367,
+    "longitude": 9.3695381
+  },
+  {
+    "street": "Via Provinciale Nord",
+    "number": "6",
+    "city": {
+      "name": "Taceno",
+      "istat": "097079"
+    },
+    "latitude": 46.0226178,
+    "longitude": 9.3649708
+  },
+  {
+    "street": "Via Roma",
+    "number": "1",
+    "city": {
+      "name": "Taceno",
+      "istat": "097079"
+    },
+    "latitude": 46.0230138,
+    "longitude": 9.3639529
+  },
+  {
+    "street": "Via Roma",
+    "number": "11",
+    "city": {
+      "name": "Taceno",
+      "istat": "097079"
+    },
+    "latitude": 46.0226635,
+    "longitude": 9.363518
+  },
+  {
+    "street": "Strada Provinciale 62 della Valsassina",
+    "number": "5",
+    "city": {
+      "name": "Taceno",
+      "istat": "097079"
+    },
+    "latitude": 46.0231788,
+    "longitude": 9.3587318
+  },
+  {
+    "street": "Via Roma",
+    "number": "4",
+    "city": {
+      "name": "Taceno",
+      "istat": "097079"
+    },
+    "latitude": 46.022985,
+    "longitude": 9.3635421
+  }
+]

@@ -1,0 +1,3612 @@
+[
+  {
+    "street": "Via Morazzoni",
+    "number": "37",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9679175,
+    "longitude": 8.8554011
+  },
+  {
+    "street": "Via Luino",
+    "number": "43",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9677865,
+    "longitude": 8.8528022
+  },
+  {
+    "street": "Viale Ungheria",
+    "number": "21",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9613727,
+    "longitude": 8.8613435
+  },
+  {
+    "street": "Via Luino",
+    "number": "53",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9691689,
+    "longitude": 8.8509601
+  },
+  {
+    "street": "Viale Ungheria",
+    "number": "1",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9664168,
+    "longitude": 8.8585939
+  },
+  {
+    "street": "Via Zanoni",
+    "number": "7",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9666634,
+    "longitude": 8.8572246
+  },
+  {
+    "street": "Piazza Cesare Battisti",
+    "number": "10",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9669534,
+    "longitude": 8.8584382
+  },
+  {
+    "street": "Piazza Antonio Gramsci",
+    "number": "14",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9671719,
+    "longitude": 8.8573676
+  },
+  {
+    "street": "Via Morazzoni",
+    "number": "17",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.967352,
+    "longitude": 8.8564281
+  },
+  {
+    "street": "Via Moalli",
+    "number": "6",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9674308,
+    "longitude": 8.8576774
+  },
+  {
+    "street": "Via Valle",
+    "number": "3",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9655763,
+    "longitude": 8.8534477
+  },
+  {
+    "street": "Via Valle",
+    "number": "12",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9662481,
+    "longitude": 8.8545772
+  },
+  {
+    "street": "Via Libertà",
+    "number": "28",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9611254,
+    "longitude": 8.8604066
+  },
+  {
+    "street": "Via Varese",
+    "number": "15",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9657573,
+    "longitude": 8.8542219
+  },
+  {
+    "street": "Via Grumello",
+    "number": "4",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9615329,
+    "longitude": 8.8570188
+  },
+  {
+    "street": "Via Luigi Colombo",
+    "number": "7",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9666341,
+    "longitude": 8.8561356
+  },
+  {
+    "street": "Via Luino",
+    "number": "9",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9670636,
+    "longitude": 8.8562595
+  },
+  {
+    "street": "Via Trolli",
+    "number": "4",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9584166,
+    "longitude": 8.8728695
+  },
+  {
+    "street": "Via Trolli",
+    "number": "2",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9583173,
+    "longitude": 8.8728185
+  },
+  {
+    "street": "Via Zanzi",
+    "number": "30",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9582413,
+    "longitude": 8.8728839
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "20",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9601097,
+    "longitude": 8.8627701
+  },
+  {
+    "street": "Via Libertà",
+    "number": "9",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9630678,
+    "longitude": 8.8593829
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "12",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9580265,
+    "longitude": 8.8680789
+  },
+  {
+    "street": "Via Brusimpiano",
+    "number": "8b",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9535859,
+    "longitude": 8.8761943
+  },
+  {
+    "street": "Piazza Antonio Gramsci",
+    "number": "18",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9669875,
+    "longitude": 8.85706
+  },
+  {
+    "street": "Via Luigi Colombo",
+    "number": "10",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9668092,
+    "longitude": 8.8563059
+  },
+  {
+    "street": "Piazza Cesare Battisti",
+    "number": "6",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9670017,
+    "longitude": 8.8583489
+  },
+  {
+    "street": "Via Repubblica",
+    "number": "20",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9671029,
+    "longitude": 8.8579851
+  },
+  {
+    "street": "Piazza Antonio Gramsci",
+    "number": "8",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9672807,
+    "longitude": 8.857199
+  },
+  {
+    "street": "Via Valico",
+    "number": "31",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9667517,
+    "longitude": 8.8582818
+  },
+  {
+    "street": "Via Valle",
+    "number": "6",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9664248,
+    "longitude": 8.8548586
+  },
+  {
+    "street": "Via Valle",
+    "number": "2",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.966527,
+    "longitude": 8.8554407
+  },
+  {
+    "street": "Via Valle",
+    "number": "4",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9665144,
+    "longitude": 8.8553523
+  },
+  {
+    "street": "Lungolago Venticinque Aprile",
+    "number": "2",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9592691,
+    "longitude": 8.8713137
+  },
+  {
+    "street": "Lungolago Venticinque Aprile",
+    "number": "8",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9588994,
+    "longitude": 8.8724149
+  },
+  {
+    "street": "Via Dosi",
+    "number": "6",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9587248,
+    "longitude": 8.8725248
+  },
+  {
+    "street": "Via Zanzi",
+    "number": "13",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9585333,
+    "longitude": 8.8700317
+  },
+  {
+    "street": "Via Dosi",
+    "number": "4",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9587575,
+    "longitude": 8.8723875
+  },
+  {
+    "street": "Via Mina",
+    "number": "6",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9584828,
+    "longitude": 8.8683235
+  },
+  {
+    "street": "Via Zanzi",
+    "number": "43",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9580571,
+    "longitude": 8.8737413
+  },
+  {
+    "street": "Piazza Giacomo Matteotti",
+    "number": "5",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9581735,
+    "longitude": 8.8689693
+  },
+  {
+    "street": "Piazza Diaz",
+    "number": "2",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9581258,
+    "longitude": 8.8727666
+  },
+  {
+    "street": "Via Zanzi",
+    "number": "9",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9584749,
+    "longitude": 8.8692816
+  },
+  {
+    "street": "Via Beverina",
+    "number": "2",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9586958,
+    "longitude": 8.8690542
+  },
+  {
+    "street": "Via Mina",
+    "number": "9",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9587648,
+    "longitude": 8.868769
+  },
+  {
+    "street": "Via Zanzi",
+    "number": "23",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9586192,
+    "longitude": 8.8711253
+  },
+  {
+    "street": "Piazza Giacomo Matteotti",
+    "number": "6",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.958127,
+    "longitude": 8.8687535
+  },
+  {
+    "street": "Via Zanzi",
+    "number": "19",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9585207,
+    "longitude": 8.8704521
+  },
+  {
+    "street": "Piazza Diaz",
+    "number": "1",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9581791,
+    "longitude": 8.8727727
+  },
+  {
+    "street": "Piazza Giacomo Matteotti",
+    "number": "3",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9582596,
+    "longitude": 8.8686142
+  },
+  {
+    "street": "Via Zanzi",
+    "number": "45",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9581402,
+    "longitude": 8.8740888
+  },
+  {
+    "street": "Piazza Giacomo Matteotti",
+    "number": "1a",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.958237,
+    "longitude": 8.8682516
+  },
+  {
+    "street": "Via Zanzi",
+    "number": "8",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9582684,
+    "longitude": 8.8698168
+  },
+  {
+    "street": "Via Zanzi",
+    "number": "28",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9581953,
+    "longitude": 8.8725447
+  },
+  {
+    "street": "Piazza Giacomo Matteotti",
+    "number": "4",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9583126,
+    "longitude": 8.8687792
+  },
+  {
+    "street": "Via Zanzi",
+    "number": "11",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9586116,
+    "longitude": 8.8698605
+  },
+  {
+    "street": "Via Brusimpiano",
+    "number": "16",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.953676,
+    "longitude": 8.8775844
+  },
+  {
+    "street": "Via Zanzi",
+    "number": "20",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.958437,
+    "longitude": 8.8702355
+  },
+  {
+    "street": "Via Covini",
+    "number": "1",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9582913,
+    "longitude": 8.8734912
+  },
+  {
+    "street": "Via Zanzi",
+    "number": "25",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.95848,
+    "longitude": 8.8718108
+  },
+  {
+    "street": "Via Mina",
+    "number": "3",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9584982,
+    "longitude": 8.86828
+  },
+  {
+    "street": "Via Zanzi",
+    "number": "17",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9585412,
+    "longitude": 8.8702807
+  },
+  {
+    "street": "Via Luigi Colombo",
+    "number": "9",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9665581,
+    "longitude": 8.8560034
+  },
+  {
+    "street": "Piazza Antonio Gramsci",
+    "number": "7",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9671877,
+    "longitude": 8.8570594
+  },
+  {
+    "street": "Via del Chioso",
+    "number": "12",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9592562,
+    "longitude": 8.8674218
+  },
+  {
+    "street": "Via del Chioso",
+    "number": "5",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9594462,
+    "longitude": 8.8673231
+  },
+  {
+    "street": "Piazza Quattro Novembre",
+    "number": "2",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9585195,
+    "longitude": 8.8721779
+  },
+  {
+    "street": "Via Guarneri E.",
+    "number": "1",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9585372,
+    "longitude": 8.8730253
+  },
+  {
+    "street": "Via Zanzi",
+    "number": "31",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9582936,
+    "longitude": 8.8725292
+  },
+  {
+    "street": "Via Zanzi",
+    "number": "27",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9583279,
+    "longitude": 8.8723517
+  },
+  {
+    "street": "Via Zanzi",
+    "number": "29",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9583111,
+    "longitude": 8.8724379
+  },
+  {
+    "street": "Via del Chioso",
+    "number": "10",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9590653,
+    "longitude": 8.8674896
+  },
+  {
+    "street": "Via del Chioso",
+    "number": "8",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9590182,
+    "longitude": 8.8675219
+  },
+  {
+    "street": "Via Zanzi",
+    "number": "21",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9586639,
+    "longitude": 8.8706988
+  },
+  {
+    "street": "Via Beverina",
+    "number": "4",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9586962,
+    "longitude": 8.8690146
+  },
+  {
+    "street": "Via Mina",
+    "number": "7",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9587563,
+    "longitude": 8.8686841
+  },
+  {
+    "street": "Via Mina",
+    "number": "14",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9587363,
+    "longitude": 8.8686922
+  },
+  {
+    "street": "Via Zanzi",
+    "number": "3",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9583007,
+    "longitude": 8.8688727
+  },
+  {
+    "street": "Via Mina",
+    "number": "5",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9587769,
+    "longitude": 8.8686072
+  },
+  {
+    "street": "Via Aldo Jori",
+    "number": "4",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9591083,
+    "longitude": 8.8693095
+  },
+  {
+    "street": "Via Aldo Jori",
+    "number": "6",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9592316,
+    "longitude": 8.8693623
+  },
+  {
+    "street": "Via Aldo Jori",
+    "number": "3",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9590854,
+    "longitude": 8.869211
+  },
+  {
+    "street": "Via Zanoni",
+    "number": "3",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9667904,
+    "longitude": 8.8570534
+  },
+  {
+    "street": "Via Zanoni",
+    "number": "27",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9665431,
+    "longitude": 8.8578241
+  },
+  {
+    "street": "Via Zanoni",
+    "number": "17",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9665895,
+    "longitude": 8.8577127
+  },
+  {
+    "street": "Via Zanoni",
+    "number": "1",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9667934,
+    "longitude": 8.8569276
+  },
+  {
+    "street": "Via Zanoni",
+    "number": "11",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9666395,
+    "longitude": 8.8572959
+  },
+  {
+    "street": "Via Provini",
+    "number": "1",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9673602,
+    "longitude": 8.8573934
+  },
+  {
+    "street": "Via Provini",
+    "number": "6",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9675488,
+    "longitude": 8.8578686
+  },
+  {
+    "street": "Via Provini",
+    "number": "4",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9674242,
+    "longitude": 8.8576242
+  },
+  {
+    "street": "Via Provini",
+    "number": "7",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9674955,
+    "longitude": 8.8576342
+  },
+  {
+    "street": "Via Meneganti",
+    "number": "2",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9676743,
+    "longitude": 8.8576692
+  },
+  {
+    "street": "Via Ribolzi",
+    "number": "23",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.967681,
+    "longitude": 8.8574064
+  },
+  {
+    "street": "Via Provini",
+    "number": "2",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9673549,
+    "longitude": 8.8574853
+  },
+  {
+    "street": "Via Provini",
+    "number": "3",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9674007,
+    "longitude": 8.8574757
+  },
+  {
+    "street": "Via Provini",
+    "number": "5",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9674721,
+    "longitude": 8.8575857
+  },
+  {
+    "street": "Via Moalli",
+    "number": "1",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9673805,
+    "longitude": 8.8576901
+  },
+  {
+    "street": "Via Moalli",
+    "number": "4",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9673771,
+    "longitude": 8.8577194
+  },
+  {
+    "street": "Piazza Antonio Gramsci",
+    "number": "10",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9673378,
+    "longitude": 8.8572866
+  },
+  {
+    "street": "Piazza Antonio Gramsci",
+    "number": "6",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9670681,
+    "longitude": 8.8569495
+  },
+  {
+    "street": "Piazza Antonio Gramsci",
+    "number": "15",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9671338,
+    "longitude": 8.8572889
+  },
+  {
+    "street": "Piazza Antonio Gramsci",
+    "number": "11",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9672634,
+    "longitude": 8.8573852
+  },
+  {
+    "street": "Piazza Antonio Gramsci",
+    "number": "12",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.967196,
+    "longitude": 8.8575213
+  },
+  {
+    "street": "Piazza Antonio Gramsci",
+    "number": "16",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9670933,
+    "longitude": 8.8572053
+  },
+  {
+    "street": "Piazza Antonio Gramsci",
+    "number": "9",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9673273,
+    "longitude": 8.8572372
+  },
+  {
+    "street": "Piazza Antonio Gramsci",
+    "number": "13",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9671793,
+    "longitude": 8.8573982
+  },
+  {
+    "street": "Via Ribolzi",
+    "number": "7",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9674589,
+    "longitude": 8.857155
+  },
+  {
+    "street": "Via Ribolzi",
+    "number": "19",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9676222,
+    "longitude": 8.8571091
+  },
+  {
+    "street": "Via Ribolzi",
+    "number": "13",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9676226,
+    "longitude": 8.8570793
+  },
+  {
+    "street": "Via Ribolzi",
+    "number": "8",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9675904,
+    "longitude": 8.8573225
+  },
+  {
+    "street": "Via Ribolzi",
+    "number": "2",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9674357,
+    "longitude": 8.8572735
+  },
+  {
+    "street": "Via Ribolzi",
+    "number": "5",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9674338,
+    "longitude": 8.8571619
+  },
+  {
+    "street": "Via Ribolzi",
+    "number": "11",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9676066,
+    "longitude": 8.8570671
+  },
+  {
+    "street": "Via Ribolzi",
+    "number": "4",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.96747,
+    "longitude": 8.8572133
+  },
+  {
+    "street": "Via Aldo Jori",
+    "number": "9",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9593008,
+    "longitude": 8.8708664
+  },
+  {
+    "street": "Via Aldo Jori",
+    "number": "11",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9594456,
+    "longitude": 8.870967
+  },
+  {
+    "street": "Via Repubblica",
+    "number": "1",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9672681,
+    "longitude": 8.8574985
+  },
+  {
+    "street": "Via Repubblica",
+    "number": "16",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9671459,
+    "longitude": 8.8578386
+  },
+  {
+    "street": "Via Repubblica",
+    "number": "6",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9671251,
+    "longitude": 8.8576452
+  },
+  {
+    "street": "Via Repubblica",
+    "number": "9",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9672255,
+    "longitude": 8.8577668
+  },
+  {
+    "street": "Via Repubblica",
+    "number": "8",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9671159,
+    "longitude": 8.8576374
+  },
+  {
+    "street": "Via Repubblica",
+    "number": "18",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9671213,
+    "longitude": 8.8578714
+  },
+  {
+    "street": "Piazza Cesare Battisti",
+    "number": "5",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9671909,
+    "longitude": 8.8581579
+  },
+  {
+    "street": "Piazza Cesare Battisti",
+    "number": "3",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9673166,
+    "longitude": 8.8579959
+  },
+  {
+    "street": "Piazza Cesare Battisti",
+    "number": "8",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9669794,
+    "longitude": 8.8584074
+  },
+  {
+    "street": "Piazza Cesare Battisti",
+    "number": "7",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9672182,
+    "longitude": 8.8581305
+  },
+  {
+    "street": "Via Luigi Colombo",
+    "number": "19",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.966216,
+    "longitude": 8.8554809
+  },
+  {
+    "street": "Via Luigi Colombo",
+    "number": "17a",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9662958,
+    "longitude": 8.8555607
+  },
+  {
+    "street": "Via Zanoni",
+    "number": "2",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9668305,
+    "longitude": 8.8566266
+  },
+  {
+    "street": "Via Morazzoni",
+    "number": "29",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9676664,
+    "longitude": 8.8559045
+  },
+  {
+    "street": "Via Morazzoni",
+    "number": "14",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9678438,
+    "longitude": 8.8564803
+  },
+  {
+    "street": "Via Malcotti",
+    "number": "22",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9676128,
+    "longitude": 8.855507
+  },
+  {
+    "street": "Via Morazzoni",
+    "number": "6",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9675033,
+    "longitude": 8.8564367
+  },
+  {
+    "street": "Via Morazzoni",
+    "number": "5",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9672047,
+    "longitude": 8.8568371
+  },
+  {
+    "street": "Via Morazzoni",
+    "number": "27",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9676325,
+    "longitude": 8.8560007
+  },
+  {
+    "street": "Via Morazzoni",
+    "number": "23",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9676073,
+    "longitude": 8.8560492
+  },
+  {
+    "street": "Via Morazzoni",
+    "number": "35",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9678482,
+    "longitude": 8.8555751
+  },
+  {
+    "street": "Via Morazzoni",
+    "number": "9",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.967246,
+    "longitude": 8.8567631
+  },
+  {
+    "street": "Via Morazzoni",
+    "number": "3",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9671566,
+    "longitude": 8.8569222
+  },
+  {
+    "street": "Via Morazzoni",
+    "number": "4",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9674053,
+    "longitude": 8.8568518
+  },
+  {
+    "street": "Via Morazzoni",
+    "number": "31",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9677365,
+    "longitude": 8.8557873
+  },
+  {
+    "street": "Via Morazzoni",
+    "number": "33",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9678043,
+    "longitude": 8.8556581
+  },
+  {
+    "street": "Via Morazzoni",
+    "number": "10",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9675789,
+    "longitude": 8.8562303
+  },
+  {
+    "street": "Via Morazzoni",
+    "number": "22",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9677112,
+    "longitude": 8.8560819
+  },
+  {
+    "street": "Via Morazzoni",
+    "number": "7",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9672294,
+    "longitude": 8.8567931
+  },
+  {
+    "street": "Via Morazzoni",
+    "number": "8",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9675598,
+    "longitude": 8.8562716
+  },
+  {
+    "street": "Via Morazzoni",
+    "number": "12",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9675963,
+    "longitude": 8.8561928
+  },
+  {
+    "street": "Via Morazzoni",
+    "number": "11",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9672634,
+    "longitude": 8.8567317
+  },
+  {
+    "street": "Via Morazzoni",
+    "number": "39",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9679512,
+    "longitude": 8.855362
+  },
+  {
+    "street": "Via Malcotti",
+    "number": "24",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9676279,
+    "longitude": 8.8554121
+  },
+  {
+    "street": "Via Luino",
+    "number": "11",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9670824,
+    "longitude": 8.8561785
+  },
+  {
+    "street": "Via Luino",
+    "number": "16",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9671478,
+    "longitude": 8.8562554
+  },
+  {
+    "street": "Via Luino",
+    "number": "12",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9670977,
+    "longitude": 8.8563441
+  },
+  {
+    "street": "Via Luino",
+    "number": "8",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9669995,
+    "longitude": 8.8565303
+  },
+  {
+    "street": "Via Luino",
+    "number": "10",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9670149,
+    "longitude": 8.856499
+  },
+  {
+    "street": "Via Luino",
+    "number": "23",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9668631,
+    "longitude": 8.8567763
+  },
+  {
+    "street": "Via Malcotti",
+    "number": "6",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.967265,
+    "longitude": 8.8560568
+  },
+  {
+    "street": "Via Malcotti",
+    "number": "18",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9675601,
+    "longitude": 8.8557597
+  },
+  {
+    "street": "Via Malcotti",
+    "number": "16",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9674192,
+    "longitude": 8.8558011
+  },
+  {
+    "street": "Via Malcotti",
+    "number": "1",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9674982,
+    "longitude": 8.8554916
+  },
+  {
+    "street": "Via Malcotti",
+    "number": "8",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9674756,
+    "longitude": 8.8560545
+  },
+  {
+    "street": "Via Luigi Colombo",
+    "number": "5b",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9666176,
+    "longitude": 8.8562479
+  },
+  {
+    "street": "Via Luigi Colombo",
+    "number": "6",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9668395,
+    "longitude": 8.8564464
+  },
+  {
+    "street": "Via Luigi Colombo",
+    "number": "1",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9668094,
+    "longitude": 8.8565562
+  },
+  {
+    "street": "Via Luigi Colombo",
+    "number": "4",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9668551,
+    "longitude": 8.8564848
+  },
+  {
+    "street": "Via Luigi Colombo",
+    "number": "5",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.966699,
+    "longitude": 8.8563336
+  },
+  {
+    "street": "Via Luigi Colombo",
+    "number": "8",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9668179,
+    "longitude": 8.8563934
+  },
+  {
+    "street": "Via Luigi Colombo",
+    "number": "3a",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9667545,
+    "longitude": 8.8564308
+  },
+  {
+    "street": "Via Luigi Colombo",
+    "number": "5a",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9666359,
+    "longitude": 8.8562925
+  },
+  {
+    "street": "Via Luigi Colombo",
+    "number": "16",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9668569,
+    "longitude": 8.8560266
+  },
+  {
+    "street": "Via Luigi Colombo",
+    "number": "12",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.966754,
+    "longitude": 8.8561186
+  },
+  {
+    "street": "Via Luigi Colombo",
+    "number": "14",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9667994,
+    "longitude": 8.856078
+  },
+  {
+    "street": "Via Luigi Colombo",
+    "number": "13a",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9664757,
+    "longitude": 8.8558632
+  },
+  {
+    "street": "Via Luigi Colombo",
+    "number": "11",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9665064,
+    "longitude": 8.8558987
+  },
+  {
+    "street": "Via Luigi Colombo",
+    "number": "15",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9664693,
+    "longitude": 8.8558039
+  },
+  {
+    "street": "Via Luigi Colombo",
+    "number": "17",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9663281,
+    "longitude": 8.8556397
+  },
+  {
+    "street": "Via Luigi Colombo",
+    "number": "15a",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9663688,
+    "longitude": 8.8557611
+  },
+  {
+    "street": "Via Zoni",
+    "number": "17",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9664902,
+    "longitude": 8.8565211
+  },
+  {
+    "street": "Via Zoni",
+    "number": "4",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9663997,
+    "longitude": 8.8563019
+  },
+  {
+    "street": "Via Zoni",
+    "number": "9",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9663912,
+    "longitude": 8.8567754
+  },
+  {
+    "street": "Via Zoni",
+    "number": "11",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9663385,
+    "longitude": 8.8567217
+  },
+  {
+    "street": "Via Zoni",
+    "number": "7",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9665263,
+    "longitude": 8.8567598
+  },
+  {
+    "street": "Via Zoni",
+    "number": "21",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9664138,
+    "longitude": 8.856385
+  },
+  {
+    "street": "Via Zoni",
+    "number": "31",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9662567,
+    "longitude": 8.8559686
+  },
+  {
+    "street": "Via Zoni",
+    "number": "15",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9665506,
+    "longitude": 8.8566282
+  },
+  {
+    "street": "Via Zoni",
+    "number": "6",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9663124,
+    "longitude": 8.8560561
+  },
+  {
+    "street": "Via Zoni",
+    "number": "17a",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9664751,
+    "longitude": 8.8564944
+  },
+  {
+    "street": "Via Zoni",
+    "number": "5",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9665457,
+    "longitude": 8.856769
+  },
+  {
+    "street": "Via Zoni",
+    "number": "3",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.966575,
+    "longitude": 8.85674
+  },
+  {
+    "street": "Via Malcotti",
+    "number": "12",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9675083,
+    "longitude": 8.8559295
+  },
+  {
+    "street": "Via Gibilisco",
+    "number": "20",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9665903,
+    "longitude": 8.8555385
+  },
+  {
+    "street": "Via Luino",
+    "number": "13",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9671458,
+    "longitude": 8.8557116
+  },
+  {
+    "street": "Via Luino",
+    "number": "17",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9671635,
+    "longitude": 8.8556264
+  },
+  {
+    "street": "Via Morazzoni",
+    "number": "16",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9678429,
+    "longitude": 8.8562609
+  },
+  {
+    "street": "Via Morazzoni",
+    "number": "18",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9677683,
+    "longitude": 8.8561868
+  },
+  {
+    "street": "Via Luino",
+    "number": "15",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9671539,
+    "longitude": 8.8556725
+  },
+  {
+    "street": "Via Luino",
+    "number": "27",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.967227,
+    "longitude": 8.8552097
+  },
+  {
+    "street": "Via Luino",
+    "number": "21",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9671917,
+    "longitude": 8.8554273
+  },
+  {
+    "street": "Via Gibilisco",
+    "number": "18",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9666981,
+    "longitude": 8.8555246
+  },
+  {
+    "street": "Via Luino",
+    "number": "25",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9672071,
+    "longitude": 8.8553416
+  },
+  {
+    "street": "Via Luino",
+    "number": "19",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9671728,
+    "longitude": 8.8555818
+  },
+  {
+    "street": "Via Gibilisco",
+    "number": "20a",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9666202,
+    "longitude": 8.8555556
+  },
+  {
+    "street": "Piazza Antonio Gramsci",
+    "number": "22",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9669261,
+    "longitude": 8.8568846
+  },
+  {
+    "street": "Viale Ungheria",
+    "number": "14",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9621199,
+    "longitude": 8.8603633
+  },
+  {
+    "street": "Via Boschiva",
+    "number": "4",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.969894,
+    "longitude": 8.8521898
+  },
+  {
+    "street": "Via Boschiva",
+    "number": "8",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9699086,
+    "longitude": 8.851968
+  },
+  {
+    "street": "Via Luino",
+    "number": "48",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.967806,
+    "longitude": 8.8534391
+  },
+  {
+    "street": "Via Luino",
+    "number": "35",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9674924,
+    "longitude": 8.8538508
+  },
+  {
+    "street": "Via Valle",
+    "number": "18",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9651434,
+    "longitude": 8.8522061
+  },
+  {
+    "street": "Via Valle",
+    "number": "14l",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9653466,
+    "longitude": 8.8526468
+  },
+  {
+    "street": "Via Valle",
+    "number": "22",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9650213,
+    "longitude": 8.8521123
+  },
+  {
+    "street": "Via Valle",
+    "number": "20",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9650645,
+    "longitude": 8.8521276
+  },
+  {
+    "street": "Via Valle",
+    "number": "16",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9652295,
+    "longitude": 8.8523395
+  },
+  {
+    "street": "Via Viconago",
+    "number": "4",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9659766,
+    "longitude": 8.8513256
+  },
+  {
+    "street": "Via Valle",
+    "number": "24",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9648968,
+    "longitude": 8.8519885
+  },
+  {
+    "street": "Via Viconago",
+    "number": "2a",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9655395,
+    "longitude": 8.8514847
+  },
+  {
+    "street": "Via Viconago",
+    "number": "6",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9653013,
+    "longitude": 8.8509706
+  },
+  {
+    "street": "Via delle Rimembranze",
+    "number": "2",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9582419,
+    "longitude": 8.8679235
+  },
+  {
+    "street": "Via delle Rimembranze",
+    "number": "6",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9582628,
+    "longitude": 8.8676945
+  },
+  {
+    "street": "Via delle Rimembranze",
+    "number": "4",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9582254,
+    "longitude": 8.8678431
+  },
+  {
+    "street": "Via Roncoroni",
+    "number": "3",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9588521,
+    "longitude": 8.8686727
+  },
+  {
+    "street": "Via Luigi Antonini",
+    "number": "1",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9584665,
+    "longitude": 8.8695362
+  },
+  {
+    "street": "Via Roncoroni",
+    "number": "2",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9588971,
+    "longitude": 8.8685413
+  },
+  {
+    "street": "Via Roncoroni",
+    "number": "8",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9591218,
+    "longitude": 8.8680902
+  },
+  {
+    "street": "Via Roncoroni",
+    "number": "4",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9590409,
+    "longitude": 8.8683003
+  },
+  {
+    "street": "Via Luigi Antonini",
+    "number": "7",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9588713,
+    "longitude": 8.8692284
+  },
+  {
+    "street": "Via Luigi Antonini",
+    "number": "4",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.958806,
+    "longitude": 8.8695064
+  },
+  {
+    "street": "Via Luigi Antonini",
+    "number": "10",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9588441,
+    "longitude": 8.8694926
+  },
+  {
+    "street": "Via Luigi Antonini",
+    "number": "12",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9589026,
+    "longitude": 8.8693141
+  },
+  {
+    "street": "Via Ribolzi",
+    "number": "1",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9583292,
+    "longitude": 8.8679895
+  },
+  {
+    "street": "Via Luigi Antonini",
+    "number": "5",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9588573,
+    "longitude": 8.8692697
+  },
+  {
+    "street": "Via Roncoroni",
+    "number": "14",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9590159,
+    "longitude": 8.867979
+  },
+  {
+    "street": "Via Roncoroni",
+    "number": "18",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.958948,
+    "longitude": 8.8678363
+  },
+  {
+    "street": "Via Luigi Antonini",
+    "number": "3",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.958576,
+    "longitude": 8.8694116
+  },
+  {
+    "street": "Via Roncoroni",
+    "number": "16",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9590039,
+    "longitude": 8.8679316
+  },
+  {
+    "street": "Via Aldo Jori",
+    "number": "1",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9589279,
+    "longitude": 8.8690663
+  },
+  {
+    "street": "Via Roncoroni",
+    "number": "10",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9592003,
+    "longitude": 8.8680314
+  },
+  {
+    "street": "Via Roncoroni",
+    "number": "12",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9591949,
+    "longitude": 8.8679477
+  },
+  {
+    "street": "Piazza Monte Grappa",
+    "number": "2",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9588697,
+    "longitude": 8.8690956
+  },
+  {
+    "street": "Piazza Monte Grappa",
+    "number": "1",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9588051,
+    "longitude": 8.8690185
+  },
+  {
+    "street": "Via Roncoroni",
+    "number": "1",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9588198,
+    "longitude": 8.8688647
+  },
+  {
+    "street": "Via Roncoroni",
+    "number": "6",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9590713,
+    "longitude": 8.8681077
+  },
+  {
+    "street": "Via Zanoni",
+    "number": "5",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9667648,
+    "longitude": 8.8570887
+  },
+  {
+    "street": "Via Valle",
+    "number": "1",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9662135,
+    "longitude": 8.8548788
+  },
+  {
+    "street": "Via Valle",
+    "number": "1a",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9661681,
+    "longitude": 8.854766
+  },
+  {
+    "street": "Via Mina",
+    "number": "2",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9583403,
+    "longitude": 8.8683703
+  },
+  {
+    "street": "Via Mina",
+    "number": "8",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9585773,
+    "longitude": 8.8686599
+  },
+  {
+    "street": "Via Mina",
+    "number": "1",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9584504,
+    "longitude": 8.8682977
+  },
+  {
+    "street": "Via Mina",
+    "number": "10",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9586227,
+    "longitude": 8.8687252
+  },
+  {
+    "street": "Via Mina",
+    "number": "4",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9584239,
+    "longitude": 8.8683288
+  },
+  {
+    "street": "Via Dossena",
+    "number": "8",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.957977,
+    "longitude": 8.8735467
+  },
+  {
+    "street": "Via Dossena",
+    "number": "10",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9579703,
+    "longitude": 8.8736439
+  },
+  {
+    "street": "Via Dossena",
+    "number": "2",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9580452,
+    "longitude": 8.8727748
+  },
+  {
+    "street": "Via Dossena",
+    "number": "4",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.958023,
+    "longitude": 8.8728701
+  },
+  {
+    "street": "Via Zanzi",
+    "number": "42",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9579155,
+    "longitude": 8.8738047
+  },
+  {
+    "street": "Via Zanzi",
+    "number": "33",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9582894,
+    "longitude": 8.873088
+  },
+  {
+    "street": "Via Zanzi",
+    "number": "40",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9581025,
+    "longitude": 8.8735051
+  },
+  {
+    "street": "Via Zanzi",
+    "number": "32",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9582209,
+    "longitude": 8.8731275
+  },
+  {
+    "street": "Via Zanzi",
+    "number": "39",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9582706,
+    "longitude": 8.8732941
+  },
+  {
+    "street": "Via Zanzi",
+    "number": "36",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9582242,
+    "longitude": 8.8734575
+  },
+  {
+    "street": "Via Zanzi",
+    "number": "35",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9583419,
+    "longitude": 8.873182
+  },
+  {
+    "street": "Via Zanzi",
+    "number": "37",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9583386,
+    "longitude": 8.8732388
+  },
+  {
+    "street": "Via Zanzi",
+    "number": "34",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9581636,
+    "longitude": 8.8731076
+  },
+  {
+    "street": "Piazza Dell'Oca",
+    "number": "1",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.958734,
+    "longitude": 8.8737685
+  },
+  {
+    "street": "Via Zanzi",
+    "number": "48",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9572225,
+    "longitude": 8.8738434
+  },
+  {
+    "street": "Via Zanzi",
+    "number": "58",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9566063,
+    "longitude": 8.8737462
+  },
+  {
+    "street": "Via Zanzi",
+    "number": "46",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9572897,
+    "longitude": 8.8738679
+  },
+  {
+    "street": "Via Zanzi",
+    "number": "50",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9570985,
+    "longitude": 8.8738025
+  },
+  {
+    "street": "Via Zanzi",
+    "number": "52",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9570395,
+    "longitude": 8.8737983
+  },
+  {
+    "street": "Via Valle",
+    "number": "11a",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9653335,
+    "longitude": 8.8529429
+  },
+  {
+    "street": "Via Valle",
+    "number": "5",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.96503,
+    "longitude": 8.8531657
+  },
+  {
+    "street": "Via Valle",
+    "number": "7b",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9645903,
+    "longitude": 8.8527091
+  },
+  {
+    "street": "Via Valle",
+    "number": "3a",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9654148,
+    "longitude": 8.8530317
+  },
+  {
+    "street": "Via Valle",
+    "number": "9",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9648324,
+    "longitude": 8.8527791
+  },
+  {
+    "street": "Via Valle",
+    "number": "7a",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9646425,
+    "longitude": 8.8525971
+  },
+  {
+    "street": "Via Valle",
+    "number": "7",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9646435,
+    "longitude": 8.8529021
+  },
+  {
+    "street": "Via Valle",
+    "number": "11",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9651861,
+    "longitude": 8.8530239
+  },
+  {
+    "street": "Via Paolo Locatelli",
+    "number": "1",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9673442,
+    "longitude": 8.8577863
+  },
+  {
+    "street": "Via Paolo Locatelli",
+    "number": "7",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9674093,
+    "longitude": 8.8579987
+  },
+  {
+    "street": "Via Paolo Locatelli",
+    "number": "3",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9673738,
+    "longitude": 8.8579341
+  },
+  {
+    "street": "Via Paolo Locatelli",
+    "number": "4",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9673156,
+    "longitude": 8.857933
+  },
+  {
+    "street": "Via Paolo Locatelli",
+    "number": "2",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9672994,
+    "longitude": 8.8578588
+  },
+  {
+    "street": "Via Zanoni",
+    "number": "19",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9665987,
+    "longitude": 8.8575362
+  },
+  {
+    "street": "Via Zanoni",
+    "number": "13",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9665986,
+    "longitude": 8.857439
+  },
+  {
+    "street": "Via Zanoni",
+    "number": "15",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9666878,
+    "longitude": 8.8575658
+  },
+  {
+    "street": "Via Luigi Colombo",
+    "number": "3",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9667793,
+    "longitude": 8.8564874
+  },
+  {
+    "street": "Piazza Antonio Gramsci",
+    "number": "4",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9670158,
+    "longitude": 8.8568653
+  },
+  {
+    "street": "Piazza Antonio Gramsci",
+    "number": "17",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9670604,
+    "longitude": 8.8571374
+  },
+  {
+    "street": "Piazza Antonio Gramsci",
+    "number": "19",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9669584,
+    "longitude": 8.8570184
+  },
+  {
+    "street": "Piazza Don Attilio Sangiorgio",
+    "number": "1",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.968179,
+    "longitude": 8.854671
+  },
+  {
+    "street": "Via Luino",
+    "number": "14",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9671097,
+    "longitude": 8.8563235
+  },
+  {
+    "street": "Via Viconago",
+    "number": "2",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9655692,
+    "longitude": 8.8527574
+  },
+  {
+    "street": "Via Viconago",
+    "number": "4c",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9654347,
+    "longitude": 8.8505589
+  },
+  {
+    "street": "Via Viconago",
+    "number": "5",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9654709,
+    "longitude": 8.8520807
+  },
+  {
+    "street": "Via Viconago",
+    "number": "1",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.965516,
+    "longitude": 8.8525727
+  },
+  {
+    "street": "Via Viconago",
+    "number": "9",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9651725,
+    "longitude": 8.8508192
+  },
+  {
+    "street": "Via Viconago",
+    "number": "4a",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9653561,
+    "longitude": 8.8507942
+  },
+  {
+    "street": "Via Viconago",
+    "number": "3",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9655243,
+    "longitude": 8.8524071
+  },
+  {
+    "street": "Via Viconago",
+    "number": "4b",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9654195,
+    "longitude": 8.8506161
+  },
+  {
+    "street": "Piazza Cesare Battisti",
+    "number": "2",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9671019,
+    "longitude": 8.8581266
+  },
+  {
+    "street": "Via Valle",
+    "number": "14i",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9661513,
+    "longitude": 8.8539551
+  },
+  {
+    "street": "Via Delle Sorgenti",
+    "number": "9",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9566987,
+    "longitude": 8.8535494
+  },
+  {
+    "street": "Via Luino",
+    "number": "111",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9716729,
+    "longitude": 8.846768
+  },
+  {
+    "street": "Via Varese",
+    "number": "23",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9654788,
+    "longitude": 8.8540749
+  },
+  {
+    "street": "Via Piacco",
+    "number": "11",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.95742,
+    "longitude": 8.8528301
+  },
+  {
+    "street": "Via Somneggio",
+    "number": "3",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9742239,
+    "longitude": 8.8449542
+  },
+  {
+    "street": "Via Taiana",
+    "number": "15",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9575063,
+    "longitude": 8.8721925
+  },
+  {
+    "street": "Via Luigi Colombo",
+    "number": "25a",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9652508,
+    "longitude": 8.8544309
+  },
+  {
+    "street": "Via Luigi Colombo",
+    "number": "15b",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.96634,
+    "longitude": 8.8557061
+  },
+  {
+    "street": "Via Luino",
+    "number": "38",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9675618,
+    "longitude": 8.8544122
+  },
+  {
+    "street": "Via Brusimpiano",
+    "number": "8",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9536198,
+    "longitude": 8.8761952
+  },
+  {
+    "street": "Via Brusimpiano",
+    "number": "18",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9538203,
+    "longitude": 8.8779343
+  },
+  {
+    "street": "Piazza Cesare Battisti",
+    "number": "14",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9668502,
+    "longitude": 8.8581368
+  },
+  {
+    "street": "Piazza Cesare Battisti",
+    "number": "22",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9669096,
+    "longitude": 8.8581061
+  },
+  {
+    "street": "Piazza Cesare Battisti",
+    "number": "24",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9669735,
+    "longitude": 8.858116
+  },
+  {
+    "street": "Piazza Cesare Battisti",
+    "number": "16",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9667427,
+    "longitude": 8.8580677
+  },
+  {
+    "street": "Piazza Cesare Battisti",
+    "number": "18",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9667768,
+    "longitude": 8.8579766
+  },
+  {
+    "street": "Piazza Cesare Battisti",
+    "number": "12",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9668819,
+    "longitude": 8.8582274
+  },
+  {
+    "street": "Piazza Cesare Battisti",
+    "number": "20",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9667969,
+    "longitude": 8.8580367
+  },
+  {
+    "street": "Via Valle",
+    "number": "30",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9642568,
+    "longitude": 8.8509568
+  },
+  {
+    "street": "Via Libertà",
+    "number": "30",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9610603,
+    "longitude": 8.8608425
+  },
+  {
+    "street": "Via Nolina",
+    "number": "1",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.960726,
+    "longitude": 8.8607286
+  },
+  {
+    "street": "Viale Ungheria",
+    "number": "19",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9618121,
+    "longitude": 8.8612142
+  },
+  {
+    "street": "Viale Ungheria",
+    "number": "23",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9613046,
+    "longitude": 8.8614989
+  },
+  {
+    "street": "Via Luigi Colombo",
+    "number": "18b",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9662132,
+    "longitude": 8.8551314
+  },
+  {
+    "street": "Via Luigi Colombo",
+    "number": "18c",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9661293,
+    "longitude": 8.855126
+  },
+  {
+    "street": "Via Valle",
+    "number": "10",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9663263,
+    "longitude": 8.8549976
+  },
+  {
+    "street": "Piazza Giacomo Matteotti",
+    "number": "7",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9581006,
+    "longitude": 8.8685831
+  },
+  {
+    "street": "Via Luino",
+    "number": "52",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9682451,
+    "longitude": 8.8530191
+  },
+  {
+    "street": "Via Luino",
+    "number": "69",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9700296,
+    "longitude": 8.8499346
+  },
+  {
+    "street": "Via Luino",
+    "number": "64",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9688917,
+    "longitude": 8.851914
+  },
+  {
+    "street": "Via Luino",
+    "number": "50",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9679476,
+    "longitude": 8.853344
+  },
+  {
+    "street": "Via Luino",
+    "number": "57",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9692147,
+    "longitude": 8.8509763
+  },
+  {
+    "street": "Via Luino",
+    "number": "70",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9692285,
+    "longitude": 8.8514484
+  },
+  {
+    "street": "Via Luino",
+    "number": "58b",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.968456,
+    "longitude": 8.8523785
+  },
+  {
+    "street": "Via Luino",
+    "number": "59",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.969244,
+    "longitude": 8.850928
+  },
+  {
+    "street": "Via Luino",
+    "number": "61",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9694594,
+    "longitude": 8.8507399
+  },
+  {
+    "street": "Via Luino",
+    "number": "62",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9688492,
+    "longitude": 8.8519751
+  },
+  {
+    "street": "Via Luino",
+    "number": "51a",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9682918,
+    "longitude": 8.852225
+  },
+  {
+    "street": "Via Luino",
+    "number": "51c",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9683789,
+    "longitude": 8.8521124
+  },
+  {
+    "street": "Via Luino",
+    "number": "51",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9686344,
+    "longitude": 8.8515996
+  },
+  {
+    "street": "Via Luino",
+    "number": "72",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9694627,
+    "longitude": 8.8511843
+  },
+  {
+    "street": "Via Luino",
+    "number": "55",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9691862,
+    "longitude": 8.8510233
+  },
+  {
+    "street": "Via Luino",
+    "number": "49",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9681258,
+    "longitude": 8.8523937
+  },
+  {
+    "street": "Via Luino",
+    "number": "60",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9686197,
+    "longitude": 8.8521909
+  },
+  {
+    "street": "Via Luino",
+    "number": "65",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9697014,
+    "longitude": 8.8505042
+  },
+  {
+    "street": "Via Luino",
+    "number": "74",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9695391,
+    "longitude": 8.8510991
+  },
+  {
+    "street": "Via Luino",
+    "number": "42",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9677088,
+    "longitude": 8.8536589
+  },
+  {
+    "street": "Via Luino",
+    "number": "40",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9676843,
+    "longitude": 8.8537498
+  },
+  {
+    "street": "Via Luino",
+    "number": "73",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9703386,
+    "longitude": 8.8495221
+  },
+  {
+    "street": "Via Luino",
+    "number": "75",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9707904,
+    "longitude": 8.8488835
+  },
+  {
+    "street": "Via Luigi Colombo",
+    "number": "42a",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.963792,
+    "longitude": 8.852595
+  },
+  {
+    "street": "Via Varese",
+    "number": "2b",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9668733,
+    "longitude": 8.8532621
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "57",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.96038,
+    "longitude": 8.8618278
+  },
+  {
+    "street": "Via Pezzalunga",
+    "number": "16",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9591547,
+    "longitude": 8.8605124
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "18",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9604334,
+    "longitude": 8.8633028
+  },
+  {
+    "street": "Via Trolli",
+    "number": "3",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9587605,
+    "longitude": 8.8734662
+  },
+  {
+    "street": "Via Aldo Jori",
+    "number": "7",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9594298,
+    "longitude": 8.8708952
+  },
+  {
+    "street": "Via Zanzi",
+    "number": "24",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9582015,
+    "longitude": 8.8718619
+  },
+  {
+    "street": "Via Taiana",
+    "number": "26",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9580265,
+    "longitude": 8.8722193
+  },
+  {
+    "street": "Via Zanzi",
+    "number": "26",
+    "city": {
+      "name": "Lavena Ponte Tresa",
+      "istat": "012086"
+    },
+    "latitude": 45.9581762,
+    "longitude": 8.8722614
+  }
+]

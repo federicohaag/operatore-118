@@ -1,0 +1,2192 @@
+[
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "36",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6753229,
+    "longitude": 8.8226114
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "6",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6774499,
+    "longitude": 8.8227913
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "45",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6759039,
+    "longitude": 8.8222117
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "29",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6746032,
+    "longitude": 8.8227109
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "6",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6734267,
+    "longitude": 8.8245182
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "10",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6735785,
+    "longitude": 8.8242984
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "4",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.673288,
+    "longitude": 8.8246898
+  },
+  {
+    "street": "Via Mantova",
+    "number": "4",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6665072,
+    "longitude": 8.8262435
+  },
+  {
+    "street": "Via Gioacchino Rossini",
+    "number": "36",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6640602,
+    "longitude": 8.8159543
+  },
+  {
+    "street": "Via Giovanni Boccaccio",
+    "number": "1",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6677559,
+    "longitude": 8.8427029
+  },
+  {
+    "street": "Via Caprera",
+    "number": "1",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6683408,
+    "longitude": 8.8261556
+  },
+  {
+    "street": "Via Caprera",
+    "number": "10",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6680173,
+    "longitude": 8.8245854
+  },
+  {
+    "street": "Via Caprera",
+    "number": "3",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6682305,
+    "longitude": 8.8257865
+  },
+  {
+    "street": "Via Caprera",
+    "number": "12",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6679177,
+    "longitude": 8.8242096
+  },
+  {
+    "street": "Via Caprera",
+    "number": "14",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6678344,
+    "longitude": 8.823978
+  },
+  {
+    "street": "Via Caprera",
+    "number": "4",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6683557,
+    "longitude": 8.8256543
+  },
+  {
+    "street": "Via Caprera",
+    "number": "5",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6681723,
+    "longitude": 8.825426
+  },
+  {
+    "street": "Via Caprera",
+    "number": "7",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6681261,
+    "longitude": 8.825251
+  },
+  {
+    "street": "Via Caprera",
+    "number": "13",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6678761,
+    "longitude": 8.8244544
+  },
+  {
+    "street": "Via Caprera",
+    "number": "2",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6684064,
+    "longitude": 8.825842
+  },
+  {
+    "street": "Via Caprera",
+    "number": "6",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.668232,
+    "longitude": 8.8252596
+  },
+  {
+    "street": "Via Caprera",
+    "number": "8",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.668138,
+    "longitude": 8.824963
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "51",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6771969,
+    "longitude": 8.8223795
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "2",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6768417,
+    "longitude": 8.8225933
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "4",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6771507,
+    "longitude": 8.8226877
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "47",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6764076,
+    "longitude": 8.8220057
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "32",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6746499,
+    "longitude": 8.822946
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "21",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6742419,
+    "longitude": 8.8229488
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "15",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6740324,
+    "longitude": 8.8232062
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "19",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6741445,
+    "longitude": 8.8230552
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "11",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6738014,
+    "longitude": 8.8235218
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "76",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6733261,
+    "longitude": 8.8258938
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "63",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6737215,
+    "longitude": 8.8269135
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "69",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6739504,
+    "longitude": 8.8274682
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "71",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.674097,
+    "longitude": 8.8278487
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "53",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6736083,
+    "longitude": 8.8263949
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "85",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6745877,
+    "longitude": 8.8290777
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "81",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6745348,
+    "longitude": 8.8287612
+  },
+  {
+    "street": "Via Mario Albino Bonicalza",
+    "number": "42",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.67169,
+    "longitude": 8.8328431
+  },
+  {
+    "street": "Via Mario Albino Bonicalza",
+    "number": "36",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6722822,
+    "longitude": 8.8326769
+  },
+  {
+    "street": "Via Mario Albino Bonicalza",
+    "number": "13",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6743072,
+    "longitude": 8.8311178
+  },
+  {
+    "street": "Via Mario Albino Bonicalza",
+    "number": "58",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6701062,
+    "longitude": 8.834573
+  },
+  {
+    "street": "Via Mario Albino Bonicalza",
+    "number": "142",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6551802,
+    "longitude": 8.845991
+  },
+  {
+    "street": "Via Vincenzo Bellini",
+    "number": "14",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6601358,
+    "longitude": 8.8228413
+  },
+  {
+    "street": "Via Vincenzo Bellini",
+    "number": "14a",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6603213,
+    "longitude": 8.8228413
+  },
+  {
+    "street": "Via Vincenzo Bellini",
+    "number": "14b",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6604435,
+    "longitude": 8.8227706
+  },
+  {
+    "street": "Via Vincenzo Bellini",
+    "number": "14d",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6608238,
+    "longitude": 8.8225228
+  },
+  {
+    "street": "Via Vincenzo Bellini",
+    "number": "16c",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6604686,
+    "longitude": 8.8221463
+  },
+  {
+    "street": "Via Vincenzo Bellini",
+    "number": "12",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6602734,
+    "longitude": 8.8232041
+  },
+  {
+    "street": "Via Vincenzo Bellini",
+    "number": "12b",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6603677,
+    "longitude": 8.8228944
+  },
+  {
+    "street": "Via Vincenzo Bellini",
+    "number": "12c",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6605161,
+    "longitude": 8.8228037
+  },
+  {
+    "street": "Via Vincenzo Bellini",
+    "number": "16a",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6600947,
+    "longitude": 8.822384
+  },
+  {
+    "street": "Via Vincenzo Bellini",
+    "number": "16b",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6602981,
+    "longitude": 8.822262
+  },
+  {
+    "street": "Via Gian Lorenzo Bernini",
+    "number": "24",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6601398,
+    "longitude": 8.819809
+  },
+  {
+    "street": "Via Vincenzo Bellini",
+    "number": "14c",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6605733,
+    "longitude": 8.8226799
+  },
+  {
+    "street": "Via Vincenzo Bellini",
+    "number": "16",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6600182,
+    "longitude": 8.8225373
+  },
+  {
+    "street": "Via Vincenzo Bellini",
+    "number": "12a",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6602456,
+    "longitude": 8.8229697
+  },
+  {
+    "street": "Via Vincenzo Bellini",
+    "number": "12d",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6606445,
+    "longitude": 8.8227175
+  },
+  {
+    "street": "Via Vincenzo Bellini",
+    "number": "18c",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6603389,
+    "longitude": 8.8221459
+  },
+  {
+    "street": "Via Vincenzo Bellini",
+    "number": "18d",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6604131,
+    "longitude": 8.8220973
+  },
+  {
+    "street": "Via Vincenzo Bellini",
+    "number": "18f",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6606219,
+    "longitude": 8.8219601
+  },
+  {
+    "street": "Via Vincenzo Bellini",
+    "number": "18g",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6606744,
+    "longitude": 8.8219159
+  },
+  {
+    "street": "Via Vincenzo Bellini",
+    "number": "20",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6598401,
+    "longitude": 8.8219773
+  },
+  {
+    "street": "Via Vincenzo Bellini",
+    "number": "12e",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6608223,
+    "longitude": 8.8226024
+  },
+  {
+    "street": "Via Vincenzo Bellini",
+    "number": "16d",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6605856,
+    "longitude": 8.822076
+  },
+  {
+    "street": "Via Vincenzo Bellini",
+    "number": "16e",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6606784,
+    "longitude": 8.8220119
+  },
+  {
+    "street": "Via Vincenzo Bellini",
+    "number": "18",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6599375,
+    "longitude": 8.8223092
+  },
+  {
+    "street": "Via Vincenzo Bellini",
+    "number": "18a",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6600838,
+    "longitude": 8.8222942
+  },
+  {
+    "street": "Via Vincenzo Bellini",
+    "number": "18b",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6601704,
+    "longitude": 8.8222322
+  },
+  {
+    "street": "Via Vincenzo Bellini",
+    "number": "18e",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6605337,
+    "longitude": 8.8220066
+  },
+  {
+    "street": "Via Mauro Venegoni",
+    "number": "12",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6688283,
+    "longitude": 8.8173276
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "37",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.672466,
+    "longitude": 8.8236516
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "38",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6694834,
+    "longitude": 8.8188617
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "17",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6740837,
+    "longitude": 8.8231358
+  },
+  {
+    "street": "Piazza della Libertà",
+    "number": "4",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6709417,
+    "longitude": 8.8204704
+  },
+  {
+    "street": "Via San Pio Decimo",
+    "number": "10",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6592836,
+    "longitude": 8.8266591
+  },
+  {
+    "street": "Via San Pio Decimo",
+    "number": "72",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6624854,
+    "longitude": 8.8368471
+  },
+  {
+    "street": "Via Tintoretto",
+    "number": "15",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6538195,
+    "longitude": 8.8260739
+  },
+  {
+    "street": "Via Tintoretto",
+    "number": "12",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6548019,
+    "longitude": 8.8269308
+  },
+  {
+    "street": "Via Genova",
+    "number": "13a",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6678633,
+    "longitude": 8.8278716
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "92",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6749518,
+    "longitude": 8.8302693
+  },
+  {
+    "street": "Via Mario Albino Bonicalza",
+    "number": "57",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6700845,
+    "longitude": 8.8347942
+  },
+  {
+    "street": "Via Mario Albino Bonicalza",
+    "number": "91",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6663254,
+    "longitude": 8.8382515
+  },
+  {
+    "street": "Via Carlo Porta",
+    "number": "2",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6746763,
+    "longitude": 8.8309264
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "40",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6694191,
+    "longitude": 8.8186767
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "3",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6767903,
+    "longitude": 8.8331097
+  },
+  {
+    "street": "Piazza Venticinque Aprile",
+    "number": "1",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6717733,
+    "longitude": 8.8251926
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "98",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.687885,
+    "longitude": 8.8220565
+  },
+  {
+    "street": "Via San Pio Decimo",
+    "number": "35",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6614872,
+    "longitude": 8.8307954
+  },
+  {
+    "street": "Via Pellegrino Tibaldi",
+    "number": "9",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6603316,
+    "longitude": 8.8184005
+  },
+  {
+    "street": "Via Pellegrino Tibaldi",
+    "number": "7",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6603373,
+    "longitude": 8.8184354
+  },
+  {
+    "street": "Via Pellegrino Tibaldi",
+    "number": "3a",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6606934,
+    "longitude": 8.8186258
+  },
+  {
+    "street": "Via Pellegrino Tibaldi",
+    "number": "3",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.660626,
+    "longitude": 8.8184085
+  },
+  {
+    "street": "Via Pellegrino Tibaldi",
+    "number": "5",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6604741,
+    "longitude": 8.8183281
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "28e",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6611152,
+    "longitude": 8.8180733
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "28d",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6611621,
+    "longitude": 8.8182047
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "28c",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6612183,
+    "longitude": 8.8183361
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "28b",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6612689,
+    "longitude": 8.8184729
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "26b",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.661209,
+    "longitude": 8.8180813
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "28",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6613252,
+    "longitude": 8.8185883
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "31",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6617076,
+    "longitude": 8.8188618
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "29b",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6618257,
+    "longitude": 8.8187626
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "24",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6617657,
+    "longitude": 8.8186258
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "20d",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6617545,
+    "longitude": 8.8177165
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "20c",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6618313,
+    "longitude": 8.8179177
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "20b",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6618969,
+    "longitude": 8.8180652
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "22",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6619419,
+    "longitude": 8.8185105
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "29",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6619944,
+    "longitude": 8.8186258
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "20",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6620806,
+    "longitude": 8.8183898
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "27",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6621275,
+    "longitude": 8.8185132
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "25",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6622578,
+    "longitude": 8.8185252
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "18c",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.662046,
+    "longitude": 8.8174523
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "16c",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6620788,
+    "longitude": 8.8174282
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "16b",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6621987,
+    "longitude": 8.8177018
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "16a",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6623093,
+    "longitude": 8.8179754
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "18b",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6621406,
+    "longitude": 8.8177554
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "18",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6622418,
+    "longitude": 8.8180156
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "14d",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6623075,
+    "longitude": 8.8172914
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "14c",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6623974,
+    "longitude": 8.8174979
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "14b",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6624734,
+    "longitude": 8.8176911
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "14",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6625333,
+    "longitude": 8.8178426
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "23",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6623524,
+    "longitude": 8.8183469
+  },
+  {
+    "street": "Via Andrea Palladio",
+    "number": "9",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6628173,
+    "longitude": 8.8189074
+  },
+  {
+    "street": "Via Andrea Palladio",
+    "number": "11",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6627405,
+    "longitude": 8.8186929
+  },
+  {
+    "street": "Via Andrea Palladio",
+    "number": "13",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6626449,
+    "longitude": 8.8184702
+  },
+  {
+    "street": "Via Andrea Palladio",
+    "number": "15",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6625512,
+    "longitude": 8.8182396
+  },
+  {
+    "street": "Via Andrea Palladio",
+    "number": "12",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6629467,
+    "longitude": 8.818886
+  },
+  {
+    "street": "Via Andrea Palladio",
+    "number": "14",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6627574,
+    "longitude": 8.818379
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "12c",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6625886,
+    "longitude": 8.8172042
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "12b",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6627049,
+    "longitude": 8.8174537
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "12",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6627742,
+    "longitude": 8.8176817
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "15",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6630029,
+    "longitude": 8.8179177
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "10",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6631004,
+    "longitude": 8.8176468
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "8b",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6630254,
+    "longitude": 8.8170594
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "8",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.663181,
+    "longitude": 8.8173893
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "13b",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6632841,
+    "longitude": 8.8180974
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "13",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6632429,
+    "longitude": 8.8177273
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "11",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6634622,
+    "longitude": 8.817569
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "9",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6636234,
+    "longitude": 8.8174564
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "4b",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.663494,
+    "longitude": 8.8167214
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "4",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.663644,
+    "longitude": 8.8170809
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "7",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6637302,
+    "longitude": 8.8173491
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "5",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6639177,
+    "longitude": 8.8172337
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "3",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6640264,
+    "longitude": 8.8171801
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "1",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6641932,
+    "longitude": 8.817113
+  },
+  {
+    "street": "Via Leon Battista Alberti",
+    "number": "2",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6640095,
+    "longitude": 8.8168341
+  },
+  {
+    "street": "Via Gioacchino Rossini",
+    "number": "30",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6643432,
+    "longitude": 8.8170004
+  },
+  {
+    "street": "Via Gioacchino Rossini",
+    "number": "34",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6648381,
+    "longitude": 8.816016
+  },
+  {
+    "street": "Via Gioacchino Rossini",
+    "number": "32",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6642157,
+    "longitude": 8.8166168
+  },
+  {
+    "street": "Via Gioacchino Rossini",
+    "number": "37",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.663957,
+    "longitude": 8.8161287
+  },
+  {
+    "street": "Via Gian Lorenzo Bernini",
+    "number": "13c",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6586505,
+    "longitude": 8.8197385
+  },
+  {
+    "street": "Via Gian Lorenzo Bernini",
+    "number": "15c",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6591356,
+    "longitude": 8.8196696
+  },
+  {
+    "street": "Via Gian Lorenzo Bernini",
+    "number": "15b",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6591954,
+    "longitude": 8.8198669
+  },
+  {
+    "street": "Via Gian Lorenzo Bernini",
+    "number": "15a",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6592386,
+    "longitude": 8.8199905
+  },
+  {
+    "street": "Via Gian Lorenzo Bernini",
+    "number": "15",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6593831,
+    "longitude": 8.8201545
+  },
+  {
+    "street": "Via Gian Lorenzo Bernini",
+    "number": "13b",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6590209,
+    "longitude": 8.8197433
+  },
+  {
+    "street": "Via Gian Lorenzo Bernini",
+    "number": "13",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6591472,
+    "longitude": 8.8204064
+  },
+  {
+    "street": "Via Gian Lorenzo Bernini",
+    "number": "16",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6592253,
+    "longitude": 8.820511
+  },
+  {
+    "street": "Via Gian Lorenzo Bernini",
+    "number": "18",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6593831,
+    "longitude": 8.8203517
+  },
+  {
+    "street": "Via Gian Lorenzo Bernini",
+    "number": "19",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6596173,
+    "longitude": 8.8199905
+  },
+  {
+    "street": "Via Gian Lorenzo Bernini",
+    "number": "21",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.659717,
+    "longitude": 8.8199192
+  },
+  {
+    "street": "Via Gian Lorenzo Bernini",
+    "number": "21b",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6597801,
+    "longitude": 8.8198669
+  },
+  {
+    "street": "Via Gian Lorenzo Bernini",
+    "number": "20",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6599136,
+    "longitude": 8.8199481
+  },
+  {
+    "street": "Via Gian Lorenzo Bernini",
+    "number": "22",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.659952,
+    "longitude": 8.8199227
+  },
+  {
+    "street": "Via Gian Lorenzo Bernini",
+    "number": "23",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6598892,
+    "longitude": 8.8197872
+  },
+  {
+    "street": "Via Pellegrino Tibaldi",
+    "number": "5l",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6594206,
+    "longitude": 8.8195364
+  },
+  {
+    "street": "Via Pellegrino Tibaldi",
+    "number": "5i",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6595077,
+    "longitude": 8.8194801
+  },
+  {
+    "street": "Via Pellegrino Tibaldi",
+    "number": "5h",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6596268,
+    "longitude": 8.8193876
+  },
+  {
+    "street": "Via Pellegrino Tibaldi",
+    "number": "5g",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6597205,
+    "longitude": 8.8193057
+  },
+  {
+    "street": "Via Pellegrino Tibaldi",
+    "number": "5f",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6598367,
+    "longitude": 8.819228
+  },
+  {
+    "street": "Via Pellegrino Tibaldi",
+    "number": "5e",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6599202,
+    "longitude": 8.8191663
+  },
+  {
+    "street": "Via Pellegrino Tibaldi",
+    "number": "5d",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6600654,
+    "longitude": 8.8193259
+  },
+  {
+    "street": "Via Pellegrino Tibaldi",
+    "number": "5c",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6602379,
+    "longitude": 8.8189517
+  },
+  {
+    "street": "Via Pellegrino Tibaldi",
+    "number": "5b",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6604404,
+    "longitude": 8.81878
+  },
+  {
+    "street": "Via Pellegrino Tibaldi",
+    "number": "7b",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6604066,
+    "longitude": 8.8186218
+  },
+  {
+    "street": "Via San Giulio",
+    "number": "198",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6755956,
+    "longitude": 8.8256787
+  },
+  {
+    "street": "Via Giovanni Gasparoli",
+    "number": "181",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.652422,
+    "longitude": 8.8406713
+  },
+  {
+    "street": "Via Giovanni Mazzel",
+    "number": "56",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6821624,
+    "longitude": 8.8217191
+  },
+  {
+    "street": "Via Mario Albino Bonicalza",
+    "number": "114",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6621806,
+    "longitude": 8.8413383
+  },
+  {
+    "street": "Via Mario Albino Bonicalza",
+    "number": "53",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6706341,
+    "longitude": 8.8347117
+  },
+  {
+    "street": "Via Mario Albino Bonicalza",
+    "number": "44",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6712395,
+    "longitude": 8.8330568
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "28",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6745477,
+    "longitude": 8.8229697
+  },
+  {
+    "street": "Via Mario Albino Bonicalza",
+    "number": "100",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6650538,
+    "longitude": 8.8387086
+  },
+  {
+    "street": "Via Mario Albino Bonicalza",
+    "number": "97",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6657493,
+    "longitude": 8.8391569
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "66",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.67409,
+    "longitude": 8.828183
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "46",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6733174,
+    "longitude": 8.8264685
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "81",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6836026,
+    "longitude": 8.8208816
+  },
+  {
+    "street": "Via Giuseppe Ungaretti",
+    "number": "2",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6667771,
+    "longitude": 8.8323166
+  },
+  {
+    "street": "Via Giuseppe Di Vittorio",
+    "number": "7",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.654158,
+    "longitude": 8.8444812
+  },
+  {
+    "street": "Via Morazzone",
+    "number": "11",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6553121,
+    "longitude": 8.8226746
+  },
+  {
+    "street": "Via Mario Albino Bonicalza",
+    "number": "152",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.65285,
+    "longitude": 8.8474689
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "49",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6764511,
+    "longitude": 8.8340995
+  },
+  {
+    "street": "Piazza Santa Maria",
+    "number": "5",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6716162,
+    "longitude": 8.8169105
+  },
+  {
+    "street": "Via Milanello",
+    "number": "25",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.70615,
+    "longitude": 8.8326095
+  },
+  {
+    "street": "Via Luigi Galvani",
+    "number": "15",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6687371,
+    "longitude": 8.8245826
+  },
+  {
+    "street": "Via Carlo Goldoni",
+    "number": "1",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6773051,
+    "longitude": 8.8362858
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "16",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6716622,
+    "longitude": 8.8228678
+  },
+  {
+    "street": "Via Mario Albino Bonicalza",
+    "number": "63",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6697494,
+    "longitude": 8.8354174
+  },
+  {
+    "street": "Via Mario Albino Bonicalza",
+    "number": "81",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6677945,
+    "longitude": 8.8381664
+  },
+  {
+    "street": "Via Mario Albino Bonicalza",
+    "number": "127",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6603279,
+    "longitude": 8.8435119
+  },
+  {
+    "street": "Via Ortigara",
+    "number": "8",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6961532,
+    "longitude": 8.8289058
+  },
+  {
+    "street": "Via San Bernardo",
+    "number": "4",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6573604,
+    "longitude": 8.8228818
+  },
+  {
+    "street": "Via Carabelli",
+    "number": "12",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6450467,
+    "longitude": 8.842781
+  },
+  {
+    "street": "Via Giuseppe Ungaretti",
+    "number": "1",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6666641,
+    "longitude": 8.8321025
+  },
+  {
+    "street": "Via Santa Caterina",
+    "number": "1",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6693664,
+    "longitude": 8.8301207
+  },
+  {
+    "street": "Via Luigi Galvani",
+    "number": "10",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6689556,
+    "longitude": 8.8235656
+  },
+  {
+    "street": "Via Mauro Venegoni",
+    "number": "14/16",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.668615,
+    "longitude": 8.8169095
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "125",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6905405,
+    "longitude": 8.8211112
+  },
+  {
+    "street": "Via San Pio Decimo",
+    "number": "55",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6627335,
+    "longitude": 8.8360176
+  },
+  {
+    "street": "Via Sant'Anna",
+    "number": "1",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6810189,
+    "longitude": 8.8228365
+  },
+  {
+    "street": "Via San Giulio",
+    "number": "34",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6736889,
+    "longitude": 8.8230125
+  },
+  {
+    "street": "Via Trento",
+    "number": "44",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6834295,
+    "longitude": 8.8317726
+  },
+  {
+    "street": "Piazzale Lega Lombarda",
+    "number": "1",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6698498,
+    "longitude": 8.8228022
+  },
+  {
+    "street": "Via Pietro Nenni",
+    "number": "8",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6622317,
+    "longitude": 8.8213671
+  },
+  {
+    "street": "Via Giovanni Gasparoli",
+    "number": "172d",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6501874,
+    "longitude": 8.837131
+  },
+  {
+    "street": "Via Mario Albino Bonicalza",
+    "number": "98",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6653917,
+    "longitude": 8.8386843
+  },
+  {
+    "street": "Via Filippo Brunelleschi",
+    "number": "23",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6628194,
+    "longitude": 8.8210194
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "76",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.6632017,
+    "longitude": 8.8222769
+  },
+  {
+    "street": "Via Mario Albino Bonicalza",
+    "number": "45",
+    "city": {
+      "name": "Cassano Magnago",
+      "istat": "012040"
+    },
+    "latitude": 45.671559,
+    "longitude": 8.8348297
+  }
+]

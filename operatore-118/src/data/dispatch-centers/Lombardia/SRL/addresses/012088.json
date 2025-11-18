@@ -1,0 +1,252 @@
+[
+  {
+    "street": "Via Santa Caterina",
+    "number": "13",
+    "city": {
+      "name": "Leggiuno",
+      "istat": "012088"
+    },
+    "latitude": 45.8767386,
+    "longitude": 8.5968886
+  },
+  {
+    "street": "Via Brughiera",
+    "number": "2",
+    "city": {
+      "name": "Leggiuno",
+      "istat": "012088"
+    },
+    "latitude": 45.8812034,
+    "longitude": 8.6022205
+  },
+  {
+    "street": "Via Vincenzo Gioberti",
+    "number": "10",
+    "city": {
+      "name": "Leggiuno",
+      "istat": "012088"
+    },
+    "latitude": 45.8757303,
+    "longitude": 8.6212534
+  },
+  {
+    "street": "Via Europa",
+    "number": "23",
+    "city": {
+      "name": "Leggiuno",
+      "istat": "012088"
+    },
+    "latitude": 45.8719001,
+    "longitude": 8.6099556
+  },
+  {
+    "street": "Via Lungolago",
+    "number": "14",
+    "city": {
+      "name": "Leggiuno",
+      "istat": "012088"
+    },
+    "latitude": 45.8825745,
+    "longitude": 8.6004615
+  },
+  {
+    "street": "Via Santa Caterina",
+    "number": "25",
+    "city": {
+      "name": "Leggiuno",
+      "istat": "012088"
+    },
+    "latitude": 45.8798064,
+    "longitude": 8.6006411
+  },
+  {
+    "street": "Via Santa Caterina",
+    "number": "27",
+    "city": {
+      "name": "Leggiuno",
+      "istat": "012088"
+    },
+    "latitude": 45.8798225,
+    "longitude": 8.6007436
+  },
+  {
+    "street": "Via Verbano",
+    "number": "48",
+    "city": {
+      "name": "Leggiuno",
+      "istat": "012088"
+    },
+    "latitude": 45.8809231,
+    "longitude": 8.6022063
+  },
+  {
+    "street": "Via Verbano",
+    "number": "46",
+    "city": {
+      "name": "Leggiuno",
+      "istat": "012088"
+    },
+    "latitude": 45.8809514,
+    "longitude": 8.6022718
+  },
+  {
+    "street": "Via Verbano",
+    "number": "44",
+    "city": {
+      "name": "Leggiuno",
+      "istat": "012088"
+    },
+    "latitude": 45.8809231,
+    "longitude": 8.6023353
+  },
+  {
+    "street": "Piazza Guglielmo Marconi",
+    "number": "1",
+    "city": {
+      "name": "Leggiuno",
+      "istat": "012088"
+    },
+    "latitude": 45.8749692,
+    "longitude": 8.6205079
+  },
+  {
+    "street": "via monte piaggio",
+    "number": "10",
+    "city": {
+      "name": "Leggiuno",
+      "istat": "012088"
+    },
+    "latitude": 45.8660416,
+    "longitude": 8.6078398
+  },
+  {
+    "street": "Via Santa Caterina",
+    "number": "36",
+    "city": {
+      "name": "Leggiuno",
+      "istat": "012088"
+    },
+    "latitude": 45.880093,
+    "longitude": 8.6026333
+  },
+  {
+    "street": "Via Santa Caterina",
+    "number": "37",
+    "city": {
+      "name": "Leggiuno",
+      "istat": "012088"
+    },
+    "latitude": 45.8803337,
+    "longitude": 8.6022794
+  },
+  {
+    "street": "Via Santa Caterina",
+    "number": "23",
+    "city": {
+      "name": "Leggiuno",
+      "istat": "012088"
+    },
+    "latitude": 45.8798058,
+    "longitude": 8.6003177
+  },
+  {
+    "street": "Via Santa Caterina",
+    "number": "32",
+    "city": {
+      "name": "Leggiuno",
+      "istat": "012088"
+    },
+    "latitude": 45.8793162,
+    "longitude": 8.6007165
+  },
+  {
+    "street": "Via Brughiera",
+    "number": "1",
+    "city": {
+      "name": "Leggiuno",
+      "istat": "012088"
+    },
+    "latitude": 45.8812269,
+    "longitude": 8.6019043
+  },
+  {
+    "street": "Via Max Hotz",
+    "number": "4",
+    "city": {
+      "name": "Leggiuno",
+      "istat": "012088"
+    },
+    "latitude": 45.8817788,
+    "longitude": 8.6006763
+  },
+  {
+    "street": "Via Max Hotz",
+    "number": "2",
+    "city": {
+      "name": "Leggiuno",
+      "istat": "012088"
+    },
+    "latitude": 45.8816851,
+    "longitude": 8.600794
+  },
+  {
+    "street": "Via Verbano",
+    "number": "13",
+    "city": {
+      "name": "Leggiuno",
+      "istat": "012088"
+    },
+    "latitude": 45.8810611,
+    "longitude": 8.6016364
+  },
+  {
+    "street": "Via Lungolago",
+    "number": "1",
+    "city": {
+      "name": "Leggiuno",
+      "istat": "012088"
+    },
+    "latitude": 45.8808892,
+    "longitude": 8.5991656
+  },
+  {
+    "street": "Via Santa Caterina",
+    "number": "20",
+    "city": {
+      "name": "Leggiuno",
+      "istat": "012088"
+    },
+    "latitude": 45.8774685,
+    "longitude": 8.5979368
+  },
+  {
+    "street": "Via Santa Caterina",
+    "number": "12",
+    "city": {
+      "name": "Leggiuno",
+      "istat": "012088"
+    },
+    "latitude": 45.8768077,
+    "longitude": 8.5985448
+  },
+  {
+    "street": "Via Santa Caterina",
+    "number": "11",
+    "city": {
+      "name": "Leggiuno",
+      "istat": "012088"
+    },
+    "latitude": 45.8763871,
+    "longitude": 8.599603
+  },
+  {
+    "street": "Via Verbano",
+    "number": "36",
+    "city": {
+      "name": "Leggiuno",
+      "istat": "012088"
+    },
+    "latitude": 45.8808623,
+    "longitude": 8.602406
+  }
+]

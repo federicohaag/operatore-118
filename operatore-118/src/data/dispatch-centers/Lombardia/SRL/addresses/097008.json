@@ -1,0 +1,1262 @@
+[
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "12",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.041029,
+    "longitude": 9.3006512
+  },
+  {
+    "street": "Via per Taceno",
+    "number": "2",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0410197,
+    "longitude": 9.3024057
+  },
+  {
+    "street": "Strada Provinciale N. 72",
+    "number": "13",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0523442,
+    "longitude": 9.3113061
+  },
+  {
+    "street": "Strada Provinciale N. 72",
+    "number": "2",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0447157,
+    "longitude": 9.3040029
+  },
+  {
+    "street": "Strada Provinciale N. 72",
+    "number": "28",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0445606,
+    "longitude": 9.3039053
+  },
+  {
+    "street": "Strada Provinciale N. 72",
+    "number": "29",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0446884,
+    "longitude": 9.3037272
+  },
+  {
+    "street": "Strada Provinciale N. 72",
+    "number": "50",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0546343,
+    "longitude": 9.3126498
+  },
+  {
+    "street": "Strada Provinciale N. 72",
+    "number": "52",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0552494,
+    "longitude": 9.3129579
+  },
+  {
+    "street": "Strada Provinciale N. 72",
+    "number": "54",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0570818,
+    "longitude": 9.3131392
+  },
+  {
+    "street": "Strada Provinciale N. 72",
+    "number": "58",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.058898,
+    "longitude": 9.3125535
+  },
+  {
+    "street": "Strada Provinciale N. 72",
+    "number": "60",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0591154,
+    "longitude": 9.3125253
+  },
+  {
+    "street": "Strada Provinciale N. 72",
+    "number": "62A",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.059047,
+    "longitude": 9.3125666
+  },
+  {
+    "street": "Strada Provinciale N. 72",
+    "number": "62B",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0589823,
+    "longitude": 9.3125786
+  },
+  {
+    "street": "Via Sandro Pertini",
+    "number": "5",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0428159,
+    "longitude": 9.3028462
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "29",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0446104,
+    "longitude": 9.3038401
+  },
+  {
+    "street": "Piazza Giuseppe Verdi",
+    "number": "7",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0428038,
+    "longitude": 9.2998359
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "27",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0439656,
+    "longitude": 9.3031486
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "52",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0436616,
+    "longitude": 9.3037793
+  },
+  {
+    "street": "Piazza Santa Marta",
+    "number": "2",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0434831,
+    "longitude": 9.3033776
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "15",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.043938,
+    "longitude": 9.3031025
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "13",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0438611,
+    "longitude": 9.3029525
+  },
+  {
+    "street": "Via Martiri della Libertà",
+    "number": "2",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0415379,
+    "longitude": 9.3015831
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "5",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0437923,
+    "longitude": 9.3027154
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "7",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0437723,
+    "longitude": 9.3027404
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "6",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0418993,
+    "longitude": 9.3052267
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "1",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0427641,
+    "longitude": 9.3045469
+  },
+  {
+    "street": "Via 25 aprile",
+    "number": "2",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0427547,
+    "longitude": 9.3042525
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "5",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0422011,
+    "longitude": 9.3053225
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "3",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0424349,
+    "longitude": 9.3054793
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "28",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0445748,
+    "longitude": 9.3038901
+  },
+  {
+    "street": "Via Pietro Boldoni",
+    "number": "27",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0444676,
+    "longitude": 9.3038855
+  },
+  {
+    "street": "Via Carlo Porta",
+    "number": "3",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0443959,
+    "longitude": 9.303771
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "26",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0413316,
+    "longitude": 9.3021062
+  },
+  {
+    "street": "Via Gavazzi",
+    "number": "1",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0449068,
+    "longitude": 9.3044569
+  },
+  {
+    "street": "Via Pietro Boldoni",
+    "number": "9",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.044526,
+    "longitude": 9.3042295
+  },
+  {
+    "street": "Via Pietro Boldoni",
+    "number": "14",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0442921,
+    "longitude": 9.3042194
+  },
+  {
+    "street": "Piazza Santa Marta",
+    "number": "3",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0434059,
+    "longitude": 9.3033801
+  },
+  {
+    "street": "Via Plinio",
+    "number": "6",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0441683,
+    "longitude": 9.3045227
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "51/53",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0439998,
+    "longitude": 9.303942
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "47",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0439346,
+    "longitude": 9.3038911
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "45",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0438313,
+    "longitude": 9.3038227
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "37",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.04366,
+    "longitude": 9.3036269
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "20",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.043377,
+    "longitude": 9.3031736
+  },
+  {
+    "street": "Via Parrocchiale",
+    "number": "1",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0342285,
+    "longitude": 9.3304127
+  },
+  {
+    "street": "Via Privata dell'Achille",
+    "number": "7",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0432534,
+    "longitude": 9.3025902
+  },
+  {
+    "street": "Strada di Lezzeno",
+    "number": "17A",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.046959,
+    "longitude": 9.3126368
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "7",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0404484,
+    "longitude": 9.3016142
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "23",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0442269,
+    "longitude": 9.3035142
+  },
+  {
+    "street": "Via Carlo Alberto",
+    "number": "19",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0476302,
+    "longitude": 9.3052696
+  },
+  {
+    "street": "Via Gavazzi",
+    "number": "6",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0445639,
+    "longitude": 9.304513
+  },
+  {
+    "street": "Via Roma",
+    "number": "3",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0426912,
+    "longitude": 9.302904
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "47",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0407638,
+    "longitude": 9.3025668
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "18",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0437859,
+    "longitude": 9.3037148
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "35",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0435463,
+    "longitude": 9.3035368
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "41",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0437057,
+    "longitude": 9.3037361
+  },
+  {
+    "street": "Via Antonio Stoppani",
+    "number": "13",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0438934,
+    "longitude": 9.3038721
+  },
+  {
+    "street": "Via Giuseppe Parini",
+    "number": "18",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0435652,
+    "longitude": 9.3035297
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "50",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0436539,
+    "longitude": 9.3037242
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "54",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0437504,
+    "longitude": 9.3038476
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "33",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0435019,
+    "longitude": 9.3034571
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "42",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0433741,
+    "longitude": 9.3032819
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "31",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0434836,
+    "longitude": 9.3034241
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "46",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0436203,
+    "longitude": 9.3036804
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "58",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0438152,
+    "longitude": 9.3039135
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "39",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.043676,
+    "longitude": 9.3036995
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "43",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0437312,
+    "longitude": 9.3037676
+  },
+  {
+    "street": "Piazza Santa Marta",
+    "number": "4",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0433484,
+    "longitude": 9.3036664
+  },
+  {
+    "street": "Piazza Santa Marta",
+    "number": "44",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0434042,
+    "longitude": 9.303571
+  },
+  {
+    "street": "Piazza Santa Marta",
+    "number": "6",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.043366,
+    "longitude": 9.3036511
+  },
+  {
+    "street": "Piazza Santa Marta",
+    "number": "10",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0434484,
+    "longitude": 9.3035262
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "7",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0436421,
+    "longitude": 9.3025762
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "4",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0435914,
+    "longitude": 9.3025186
+  },
+  {
+    "street": "Via Giuseppe Parini",
+    "number": "1",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0438662,
+    "longitude": 9.3030874
+  },
+  {
+    "street": "Via Martiri della Libertà",
+    "number": "34",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0409381,
+    "longitude": 9.2999338
+  },
+  {
+    "street": "Via Martiri della Libertà",
+    "number": "36",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0409181,
+    "longitude": 9.2998728
+  },
+  {
+    "street": "Via Martiri della Libertà",
+    "number": "38",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0408967,
+    "longitude": 9.2998077
+  },
+  {
+    "street": "Via Martiri della Libertà",
+    "number": "30",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0409646,
+    "longitude": 9.3000147
+  },
+  {
+    "street": "Via Antonio Stoppani",
+    "number": "6",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0440444,
+    "longitude": 9.3034595
+  },
+  {
+    "street": "Via Giuseppe Parini",
+    "number": "3",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0438461,
+    "longitude": 9.3031165
+  },
+  {
+    "street": "Strada di Lezzeno",
+    "number": "35",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.047244,
+    "longitude": 9.3121893
+  },
+  {
+    "street": "Strada di Lezzeno",
+    "number": "18",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0471648,
+    "longitude": 9.31201
+  },
+  {
+    "street": "Strada di Lezzeno",
+    "number": "31",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0473355,
+    "longitude": 9.3122035
+  },
+  {
+    "street": "Strada di Lezzeno",
+    "number": "32",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0473768,
+    "longitude": 9.3122516
+  },
+  {
+    "street": "Strada di Lezzeno",
+    "number": "30",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0473025,
+    "longitude": 9.3122602
+  },
+  {
+    "street": "Strada di Lezzeno",
+    "number": "57",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0472675,
+    "longitude": 9.3122646
+  },
+  {
+    "street": "Strada di Lezzeno",
+    "number": "23",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0463956,
+    "longitude": 9.3114572
+  },
+  {
+    "street": "Strada di Lezzeno",
+    "number": "20",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0461877,
+    "longitude": 9.3110932
+  },
+  {
+    "street": "Strada di Lezzeno",
+    "number": "25",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0466044,
+    "longitude": 9.3116258
+  },
+  {
+    "street": "Via al Santuario",
+    "number": "32",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0455905,
+    "longitude": 9.3108063
+  },
+  {
+    "street": "Strada di Lezzeno",
+    "number": "17",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0470908,
+    "longitude": 9.3120914
+  },
+  {
+    "street": "Strada di Lezzeno",
+    "number": "37",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0471504,
+    "longitude": 9.3122
+  },
+  {
+    "street": "Strada di Lezzeno",
+    "number": "29",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0472512,
+    "longitude": 9.3125637
+  },
+  {
+    "street": "Strada di Lezzeno",
+    "number": "27",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0472131,
+    "longitude": 9.3124284
+  },
+  {
+    "street": "Strada di Lezzeno",
+    "number": "28",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0472796,
+    "longitude": 9.3125577
+  },
+  {
+    "street": "Via al Santuario",
+    "number": "33",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0457615,
+    "longitude": 9.3111332
+  },
+  {
+    "street": "Strada di Lezzeno",
+    "number": "26",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0472474,
+    "longitude": 9.3124344
+  },
+  {
+    "street": "Strada di Lezzeno",
+    "number": "10",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0474325,
+    "longitude": 9.3119734
+  },
+  {
+    "street": "Via al Santuario",
+    "number": "29",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0455517,
+    "longitude": 9.3102959
+  },
+  {
+    "street": "Strada di Lezzeno",
+    "number": "19",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0463709,
+    "longitude": 9.3110506
+  },
+  {
+    "street": "Strada di Lezzeno",
+    "number": "39",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0471797,
+    "longitude": 9.3122867
+  },
+  {
+    "street": "Strada di Lezzeno",
+    "number": "12G",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0477677,
+    "longitude": 9.3117711
+  },
+  {
+    "street": "Via del Santuario",
+    "number": "27",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0456109,
+    "longitude": 9.3102016
+  },
+  {
+    "street": "Strada di Lezzeno",
+    "number": "40",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0470701,
+    "longitude": 9.3123261
+  },
+  {
+    "street": "Strada di Lezzeno",
+    "number": "22",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0472125,
+    "longitude": 9.3131195
+  },
+  {
+    "street": "Strada di Lezzeno",
+    "number": "38A",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.047784,
+    "longitude": 9.3112033
+  },
+  {
+    "street": "Strada di Lezzeno",
+    "number": "14C",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.047532,
+    "longitude": 9.3115639
+  },
+  {
+    "street": "Strada di Lezzeno",
+    "number": "14B",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0474584,
+    "longitude": 9.3114438
+  },
+  {
+    "street": "Strada di Lezzeno",
+    "number": "66B",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0478562,
+    "longitude": 9.3127159
+  },
+  {
+    "street": "Strada di Lezzeno",
+    "number": "13",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0476431,
+    "longitude": 9.3119268
+  },
+  {
+    "street": "Strada di Lezzeno",
+    "number": "14A",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0473624,
+    "longitude": 9.3113454
+  },
+  {
+    "street": "Strada di Lezzeno",
+    "number": "38",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0471638,
+    "longitude": 9.3122621
+  },
+  {
+    "street": "Strada di Lezzeno",
+    "number": "33",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0473093,
+    "longitude": 9.3121185
+  },
+  {
+    "street": "Strada di Lezzeno",
+    "number": "66",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0472932,
+    "longitude": 9.3128781
+  },
+  {
+    "street": "Strada di Lezzeno",
+    "number": "12A",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0473664,
+    "longitude": 9.3106625
+  },
+  {
+    "street": "Strada di Lezzeno",
+    "number": "41",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0469549,
+    "longitude": 9.3123596
+  },
+  {
+    "street": "Via al Santuario",
+    "number": "18",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0464938,
+    "longitude": 9.3107072
+  },
+  {
+    "street": "SP72",
+    "number": "5",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0507494,
+    "longitude": 9.3100005
+  },
+  {
+    "street": "Via Martiri della Libertà",
+    "number": "20",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0412308,
+    "longitude": 9.3004269
+  },
+  {
+    "street": "Via Martiri della Libertà",
+    "number": "28",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0409932,
+    "longitude": 9.3001906
+  },
+  {
+    "street": "Via Martiri della Libertà",
+    "number": "7",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0408257,
+    "longitude": 9.3002247
+  },
+  {
+    "street": "Via Martiri della Libertà",
+    "number": "14",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0414518,
+    "longitude": 9.3011025
+  },
+  {
+    "street": "Via privata Denti",
+    "number": "11",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0397662,
+    "longitude": 9.3012364
+  },
+  {
+    "street": "Via Martiri della Libertà",
+    "number": "10",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0415373,
+    "longitude": 9.3014111
+  },
+  {
+    "street": "Via Martiri della Libertà",
+    "number": "16",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.04175,
+    "longitude": 9.3007817
+  },
+  {
+    "street": "Via Martiri della Libertà",
+    "number": "18",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.0415888,
+    "longitude": 9.3006202
+  },
+  {
+    "street": "Strada di Lezzeno",
+    "number": "42",
+    "city": {
+      "name": "Bellano",
+      "istat": "097008"
+    },
+    "latitude": 46.046654,
+    "longitude": 9.3124604
+  }
+]

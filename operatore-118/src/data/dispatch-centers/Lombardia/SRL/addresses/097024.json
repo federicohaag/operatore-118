@@ -1,0 +1,32 @@
+[
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "11",
+    "city": {
+      "name": "Colle Brianza",
+      "istat": "097024"
+    },
+    "latitude": 45.7528985,
+    "longitude": 9.3756676
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "1",
+    "city": {
+      "name": "Colle Brianza",
+      "istat": "097024"
+    },
+    "latitude": 45.7629208,
+    "longitude": 9.3642207
+  },
+  {
+    "street": "Via Giuseppe Ripamonti",
+    "number": "1",
+    "city": {
+      "name": "Colle Brianza",
+      "istat": "097024"
+    },
+    "latitude": 45.7697084,
+    "longitude": 9.3659302
+  }
+]

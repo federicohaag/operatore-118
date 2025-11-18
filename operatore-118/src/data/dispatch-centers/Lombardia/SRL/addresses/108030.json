@@ -1,0 +1,6962 @@
+[
+  {
+    "street": "Via Indipendenza",
+    "number": "106",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.658418,
+    "longitude": 9.163864
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "71",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6587665,
+    "longitude": 9.164137
+  },
+  {
+    "street": "Viale Brianza",
+    "number": "2",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6605555,
+    "longitude": 9.1611943
+  },
+  {
+    "street": "Via Milano",
+    "number": "2",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.662116,
+    "longitude": 9.147468
+  },
+  {
+    "street": "Via Pace",
+    "number": "12",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6622115,
+    "longitude": 9.1595296
+  },
+  {
+    "street": "Piazza Municipio",
+    "number": "8",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6626968,
+    "longitude": 9.1566095
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "14",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6623895,
+    "longitude": 9.1574301
+  },
+  {
+    "street": "Via Solferino",
+    "number": "30",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6633242,
+    "longitude": 9.1579677
+  },
+  {
+    "street": "Vicolo Comunale",
+    "number": "4",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6623025,
+    "longitude": 9.1560096
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "6b",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6593003,
+    "longitude": 9.1606293
+  },
+  {
+    "street": "Piazza Municipio",
+    "number": "4",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.66241,
+    "longitude": 9.1567481
+  },
+  {
+    "street": "Via Libertà",
+    "number": "76",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6602833,
+    "longitude": 9.1406575
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "25",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6597561,
+    "longitude": 9.1592524
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "11",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6650081,
+    "longitude": 9.1548486
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "12",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6650773,
+    "longitude": 9.1547484
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "13",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6651572,
+    "longitude": 9.1546541
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "1",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6645935,
+    "longitude": 9.1545002
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "108",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6650301,
+    "longitude": 9.1530887
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "2",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6646207,
+    "longitude": 9.155109
+  },
+  {
+    "street": "Piazza Alessandro Volta",
+    "number": "2",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6652108,
+    "longitude": 9.1528513
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "3",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6646528,
+    "longitude": 9.15516
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "4",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6646835,
+    "longitude": 9.155215
+  },
+  {
+    "street": "Piazza Alessandro Volta",
+    "number": "4",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6652567,
+    "longitude": 9.1528076
+  },
+  {
+    "street": "Via Giannino Antona Traversi",
+    "number": "4",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6648941,
+    "longitude": 9.1555792
+  },
+  {
+    "street": "Piazza Alessandro Volta",
+    "number": "9",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6650999,
+    "longitude": 9.1531337
+  },
+  {
+    "street": "Largo San Giovanni da Meda",
+    "number": "1",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6653477,
+    "longitude": 9.1526222
+  },
+  {
+    "street": "Via Tre Venezie",
+    "number": "82",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6517574,
+    "longitude": 9.166389
+  },
+  {
+    "street": "Via Tre Venezie",
+    "number": "88",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6517591,
+    "longitude": 9.1666131
+  },
+  {
+    "street": "Via Tre Venezie",
+    "number": "98",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6517143,
+    "longitude": 9.1670047
+  },
+  {
+    "street": "Via Tre Venezie",
+    "number": "106",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6515042,
+    "longitude": 9.1678199
+  },
+  {
+    "street": "Via Ticino",
+    "number": "39",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6500057,
+    "longitude": 9.1668356
+  },
+  {
+    "street": "Via Po",
+    "number": "64",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.652029,
+    "longitude": 9.1589114
+  },
+  {
+    "street": "Via Carnia",
+    "number": "6b",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.653969,
+    "longitude": 9.156468
+  },
+  {
+    "street": "Via Santi Aimo e Vermondo",
+    "number": "6/8",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6632308,
+    "longitude": 9.1562635
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "78",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6639776,
+    "longitude": 9.1496074
+  },
+  {
+    "street": "Via Amerigo Vespucci",
+    "number": "2",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6657227,
+    "longitude": 9.1500875
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "46",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.662869,
+    "longitude": 9.1565281
+  },
+  {
+    "street": "Via Felice Orsini",
+    "number": "35",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6616393,
+    "longitude": 9.1536581
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "21",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6620067,
+    "longitude": 9.1574722
+  },
+  {
+    "street": "Via Como",
+    "number": "11",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6672937,
+    "longitude": 9.1600404
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "4",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6667164,
+    "longitude": 9.1503952
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "76/78",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6591958,
+    "longitude": 9.1623535
+  },
+  {
+    "street": "Via del Cimitero",
+    "number": "1f",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6596288,
+    "longitude": 9.1604723
+  },
+  {
+    "street": "Via Milano",
+    "number": "121",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6527912,
+    "longitude": 9.1442154
+  },
+  {
+    "street": "Via Ticino",
+    "number": "18",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6515587,
+    "longitude": 9.1669026
+  },
+  {
+    "street": "Via Ticino",
+    "number": "11",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6525609,
+    "longitude": 9.1675088
+  },
+  {
+    "street": "Via Pietro Maroncelli",
+    "number": "12",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6551894,
+    "longitude": 9.1728089
+  },
+  {
+    "street": "Via Pietro Maroncelli",
+    "number": "8",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6553131,
+    "longitude": 9.1728544
+  },
+  {
+    "street": "Via Udine",
+    "number": "18",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6529836,
+    "longitude": 9.1614152
+  },
+  {
+    "street": "Via Marco Polo",
+    "number": "74",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6510361,
+    "longitude": 9.1565284
+  },
+  {
+    "street": "Via Marco Polo",
+    "number": "76b",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6508566,
+    "longitude": 9.1564642
+  },
+  {
+    "street": "Via Marco Polo",
+    "number": "70",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6518691,
+    "longitude": 9.1565116
+  },
+  {
+    "street": "Via Belluno",
+    "number": "2",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6515624,
+    "longitude": 9.1612199
+  },
+  {
+    "street": "Via Po",
+    "number": "96",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6513905,
+    "longitude": 9.1636148
+  },
+  {
+    "street": "Via Po",
+    "number": "90",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6512109,
+    "longitude": 9.1630049
+  },
+  {
+    "street": "Via Tre Venezie",
+    "number": "75",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6519509,
+    "longitude": 9.166664
+  },
+  {
+    "street": "Via Roma",
+    "number": "4",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6622135,
+    "longitude": 9.1557774
+  },
+  {
+    "street": "Corso Italia",
+    "number": "20",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6636887,
+    "longitude": 9.1518016
+  },
+  {
+    "street": "Via Vignazzola",
+    "number": "51",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6518901,
+    "longitude": 9.1494423
+  },
+  {
+    "street": "Via Vignazzola",
+    "number": "35",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6518112,
+    "longitude": 9.148003
+  },
+  {
+    "street": "Via Luigi Rho",
+    "number": "70/72",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6654163,
+    "longitude": 9.1642829
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "39",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6612594,
+    "longitude": 9.15575
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "17",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.661445,
+    "longitude": 9.1559405
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "13",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6615481,
+    "longitude": 9.1560612
+  },
+  {
+    "street": "Piazza Municipio",
+    "number": "1",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6623054,
+    "longitude": 9.1570697
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "24",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6625041,
+    "longitude": 9.1572574
+  },
+  {
+    "street": "Piazza Municipio",
+    "number": "36",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6626166,
+    "longitude": 9.1569382
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "30",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6625528,
+    "longitude": 9.1570429
+  },
+  {
+    "street": "Corso della Resistenza",
+    "number": "21",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6613691,
+    "longitude": 9.1599196
+  },
+  {
+    "street": "Via Vignazzola",
+    "number": "139",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6487141,
+    "longitude": 9.1646836
+  },
+  {
+    "street": "Via Vignazzola",
+    "number": "129/133/135",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6495536,
+    "longitude": 9.1622346
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "50",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6629118,
+    "longitude": 9.1564711
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "47",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6628327,
+    "longitude": 9.1564313
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "52",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6629902,
+    "longitude": 9.1563042
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "63",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6629042,
+    "longitude": 9.1561926
+  },
+  {
+    "street": "Via Santi Aimo e Vermondo",
+    "number": "6",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6632076,
+    "longitude": 9.1562176
+  },
+  {
+    "street": "Via Santi Aimo e Vermondo",
+    "number": "28",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6635646,
+    "longitude": 9.1569128
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "30",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6607165,
+    "longitude": 9.1536056
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "23",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6599834,
+    "longitude": 9.153162
+  },
+  {
+    "street": "Via Martesana",
+    "number": "1",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6597996,
+    "longitude": 9.150874
+  },
+  {
+    "street": "Via Seveso",
+    "number": "27",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6598004,
+    "longitude": 9.1502656
+  },
+  {
+    "street": "Via Seveso",
+    "number": "20",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6603395,
+    "longitude": 9.1505629
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "12",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6614338,
+    "longitude": 9.1548952
+  },
+  {
+    "street": "Via Milano",
+    "number": "5",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6620461,
+    "longitude": 9.1478917
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "98",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6627271,
+    "longitude": 9.1480711
+  },
+  {
+    "street": "Via del Cimitero",
+    "number": "1",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6599336,
+    "longitude": 9.1608069
+  },
+  {
+    "street": "Via del Cimitero",
+    "number": "15",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6585864,
+    "longitude": 9.1596387
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "9b",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6572974,
+    "longitude": 9.1641287
+  },
+  {
+    "street": "Via San Fedele",
+    "number": "20/22",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.657195,
+    "longitude": 9.163656
+  },
+  {
+    "street": "Via Piave",
+    "number": "24",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6565151,
+    "longitude": 9.1614794
+  },
+  {
+    "street": "Via Piave",
+    "number": "17",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6567213,
+    "longitude": 9.1616349
+  },
+  {
+    "street": "Via Piave",
+    "number": "18",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.65671,
+    "longitude": 9.1610663
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "12",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6593719,
+    "longitude": 9.1580066
+  },
+  {
+    "street": "Via Bernardino Luini",
+    "number": "2",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6615819,
+    "longitude": 9.1650113
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "143",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6564875,
+    "longitude": 9.174133
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "131",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6565124,
+    "longitude": 9.1730475
+  },
+  {
+    "street": "Viale Brianza",
+    "number": "42",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.662842,
+    "longitude": 9.1632938
+  },
+  {
+    "street": "Via Marco Polo",
+    "number": "43",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6546561,
+    "longitude": 9.1586433
+  },
+  {
+    "street": "Via Gorizia",
+    "number": "78",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6529588,
+    "longitude": 9.1692066
+  },
+  {
+    "street": "Via Gorizia",
+    "number": "82",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6531511,
+    "longitude": 9.1697441
+  },
+  {
+    "street": "Via Pordenone",
+    "number": "15",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6524911,
+    "longitude": 9.1698166
+  },
+  {
+    "street": "Via Pordenone",
+    "number": "11",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6521034,
+    "longitude": 9.1700714
+  },
+  {
+    "street": "Via Adria",
+    "number": "6",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6511118,
+    "longitude": 9.17149
+  },
+  {
+    "street": "Via Adria",
+    "number": "1",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.651777,
+    "longitude": 9.1716182
+  },
+  {
+    "street": "Via Ferrara",
+    "number": "20",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6506575,
+    "longitude": 9.1740093
+  },
+  {
+    "street": "Via Tevere",
+    "number": "29",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.649684,
+    "longitude": 9.1682927
+  },
+  {
+    "street": "Via Po",
+    "number": "100a",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6511412,
+    "longitude": 9.1647888
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "80",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6699729,
+    "longitude": 9.1434013
+  },
+  {
+    "street": "Via Cesare Beccaria",
+    "number": "2",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6698229,
+    "longitude": 9.143909
+  },
+  {
+    "street": "Via delle Colline",
+    "number": "39",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6689039,
+    "longitude": 9.1565128
+  },
+  {
+    "street": "Via delle Colline",
+    "number": "37",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.668845,
+    "longitude": 9.1566311
+  },
+  {
+    "street": "Via delle Colline",
+    "number": "14",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.667795,
+    "longitude": 9.1592359
+  },
+  {
+    "street": "Piazza Cavour",
+    "number": "26",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6656058,
+    "longitude": 9.1597247
+  },
+  {
+    "street": "Via Enrico Cialdini",
+    "number": "15",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6651582,
+    "longitude": 9.1598323
+  },
+  {
+    "street": "Via Enrico Cialdini",
+    "number": "29",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6648166,
+    "longitude": 9.1604962
+  },
+  {
+    "street": "Via Enrico Cialdini",
+    "number": "37",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6647356,
+    "longitude": 9.1608713
+  },
+  {
+    "street": "Via Enrico Cialdini",
+    "number": "50",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6642129,
+    "longitude": 9.1617969
+  },
+  {
+    "street": "Via Enrico Cialdini",
+    "number": "96a",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6634203,
+    "longitude": 9.1642657
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "47",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6613203,
+    "longitude": 9.1602596
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "6",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6600333,
+    "longitude": 9.1590561
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "4",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6601062,
+    "longitude": 9.1591339
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "7",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6604244,
+    "longitude": 9.1599664
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "5",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6604651,
+    "longitude": 9.1600133
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "38",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6606279,
+    "longitude": 9.1598926
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "80",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6592408,
+    "longitude": 9.1628175
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "26",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6613204,
+    "longitude": 9.158927
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "18",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6614016,
+    "longitude": 9.1587585
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "2",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6616489,
+    "longitude": 9.1582363
+  },
+  {
+    "street": "Corso della Resistenza",
+    "number": "11",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6615646,
+    "longitude": 9.159564
+  },
+  {
+    "street": "Corso della Resistenza",
+    "number": "9",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6616376,
+    "longitude": 9.1594824
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "5",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6618591,
+    "longitude": 9.1579573
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "7",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6619508,
+    "longitude": 9.1577823
+  },
+  {
+    "street": "Piazza Municipio",
+    "number": "34",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6625873,
+    "longitude": 9.1569972
+  },
+  {
+    "street": "Via Solferino",
+    "number": "4",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.662762,
+    "longitude": 9.1570105
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "5",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6621429,
+    "longitude": 9.1568151
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "39",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6627791,
+    "longitude": 9.1565309
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "16",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.66126,
+    "longitude": 9.1547124
+  },
+  {
+    "street": "Via Solferino",
+    "number": "29",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6632888,
+    "longitude": 9.1576954
+  },
+  {
+    "street": "Via Solferino",
+    "number": "35",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6633972,
+    "longitude": 9.157856
+  },
+  {
+    "street": "Via Solferino",
+    "number": "45",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6635017,
+    "longitude": 9.1580526
+  },
+  {
+    "street": "Via Pace",
+    "number": "8",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6621274,
+    "longitude": 9.1594348
+  },
+  {
+    "street": "Corso della Resistenza",
+    "number": "7",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6617005,
+    "longitude": 9.1597842
+  },
+  {
+    "street": "Via Enrico Cialdini",
+    "number": "48",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6642146,
+    "longitude": 9.1616708
+  },
+  {
+    "street": "Via Pace",
+    "number": "34",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6641083,
+    "longitude": 9.1616135
+  },
+  {
+    "street": "Via Trento",
+    "number": "8",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6647915,
+    "longitude": 9.1619326
+  },
+  {
+    "street": "Via Luigi Rho",
+    "number": "67",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.665749,
+    "longitude": 9.1639875
+  },
+  {
+    "street": "Via Grado",
+    "number": "23",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6510079,
+    "longitude": 9.1554808
+  },
+  {
+    "street": "Via Vignazzola",
+    "number": "41",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6523905,
+    "longitude": 9.1484259
+  },
+  {
+    "street": "Via Onorevole Riccardo Besana",
+    "number": "4",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6610514,
+    "longitude": 9.1587939
+  },
+  {
+    "street": "Corso della Resistenza",
+    "number": "19",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6615628,
+    "longitude": 9.1597079
+  },
+  {
+    "street": "Via Federico Confalonieri",
+    "number": "19",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6552596,
+    "longitude": 9.172368
+  },
+  {
+    "street": "Via Federico Confalonieri",
+    "number": "9",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6556835,
+    "longitude": 9.1713978
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "11",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6551305,
+    "longitude": 9.1711506
+  },
+  {
+    "street": "Via Goito",
+    "number": "7/9",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.654395,
+    "longitude": 9.175198
+  },
+  {
+    "street": "Via Magenta",
+    "number": "20",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6541027,
+    "longitude": 9.1734959
+  },
+  {
+    "street": "Via Roma",
+    "number": "19",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.662782,
+    "longitude": 9.1544981
+  },
+  {
+    "street": "Via Piave",
+    "number": "88",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6535568,
+    "longitude": 9.172141
+  },
+  {
+    "street": "Via Giorgio Perlasca",
+    "number": "6",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6612742,
+    "longitude": 9.1416438
+  },
+  {
+    "street": "Via Giorgio Perlasca",
+    "number": "2",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6609433,
+    "longitude": 9.1417657
+  },
+  {
+    "street": "Via Pietro Maroncelli",
+    "number": "35",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6536625,
+    "longitude": 9.172561
+  },
+  {
+    "street": "Via Tommaso Edison",
+    "number": "33",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6569865,
+    "longitude": 9.1768144
+  },
+  {
+    "street": "Via Forlì",
+    "number": "23",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6498839,
+    "longitude": 9.1708263
+  },
+  {
+    "street": "Via Cadore",
+    "number": "253",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6552856,
+    "longitude": 9.1767905
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "168",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6559183,
+    "longitude": 9.1719305
+  },
+  {
+    "street": "Via Adua",
+    "number": "20",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6603972,
+    "longitude": 9.1590853
+  },
+  {
+    "street": "Via Adua",
+    "number": "11",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6604947,
+    "longitude": 9.1591255
+  },
+  {
+    "street": "Via Adua",
+    "number": "9",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6605509,
+    "longitude": 9.1589405
+  },
+  {
+    "street": "Via Adua",
+    "number": "18",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6606465,
+    "longitude": 9.1585971
+  },
+  {
+    "street": "Via Adua",
+    "number": "16",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6606634,
+    "longitude": 9.1585113
+  },
+  {
+    "street": "Via Adua",
+    "number": "14",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6607657,
+    "longitude": 9.1583839
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "43",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6589949,
+    "longitude": 9.1584027
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "33",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6593586,
+    "longitude": 9.1587943
+  },
+  {
+    "street": "Via Bergamo",
+    "number": "9",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6697488,
+    "longitude": 9.1623617
+  },
+  {
+    "street": "Via Bergamo",
+    "number": "3",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6699683,
+    "longitude": 9.1619538
+  },
+  {
+    "street": "Via Bergamo",
+    "number": "7",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.669779,
+    "longitude": 9.1623051
+  },
+  {
+    "street": "Via Como",
+    "number": "104",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6700469,
+    "longitude": 9.1618009
+  },
+  {
+    "street": "Via Bergamo",
+    "number": "2",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6697472,
+    "longitude": 9.1621281
+  },
+  {
+    "street": "Via Bergamo",
+    "number": "1",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6699965,
+    "longitude": 9.161876
+  },
+  {
+    "street": "Via Bergamo",
+    "number": "5",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6698014,
+    "longitude": 9.1622461
+  },
+  {
+    "street": "Via Bergamo",
+    "number": "11",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6695897,
+    "longitude": 9.1626833
+  },
+  {
+    "street": "Via Sondrio",
+    "number": "4",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6698183,
+    "longitude": 9.162686
+  },
+  {
+    "street": "Via Sondrio",
+    "number": "8",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.669914,
+    "longitude": 9.1627319
+  },
+  {
+    "street": "Via Beato Angelico",
+    "number": "7",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6569178,
+    "longitude": 9.1697404
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "186",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6556556,
+    "longitude": 9.173994
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "184",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6556971,
+    "longitude": 9.1738207
+  },
+  {
+    "street": "Via Vignazzola",
+    "number": "57",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6527411,
+    "longitude": 9.1499752
+  },
+  {
+    "street": "Via Luigi Einaudi",
+    "number": "35/37",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6607151,
+    "longitude": 9.1781109
+  },
+  {
+    "street": "Via Enrico Cialdini",
+    "number": "239/241",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6611105,
+    "longitude": 9.1765458
+  },
+  {
+    "street": "Via Luigi Einaudi",
+    "number": "59/61",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6618997,
+    "longitude": 9.1775758
+  },
+  {
+    "street": "Via Luigi Einaudi",
+    "number": "71",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6623368,
+    "longitude": 9.1778619
+  },
+  {
+    "street": "Via del Lavoro",
+    "number": "22",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6629404,
+    "longitude": 9.1783662
+  },
+  {
+    "street": "Via del Lavoro",
+    "number": "16",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6636734,
+    "longitude": 9.1782057
+  },
+  {
+    "street": "Via Trieste",
+    "number": "1",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6655033,
+    "longitude": 9.1760227
+  },
+  {
+    "street": "Via Trieste",
+    "number": "77",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6664025,
+    "longitude": 9.172639
+  },
+  {
+    "street": "Via Trieste",
+    "number": "64",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6650807,
+    "longitude": 9.1746831
+  },
+  {
+    "street": "Via Calabria",
+    "number": "64",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6649861,
+    "longitude": 9.1751692
+  },
+  {
+    "street": "Via dell'Artigianato",
+    "number": "61",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6636985,
+    "longitude": 9.1765809
+  },
+  {
+    "street": "Via dell'Artigianato",
+    "number": "58",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6633198,
+    "longitude": 9.1769089
+  },
+  {
+    "street": "Via dell'Artigianato",
+    "number": "55/57",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6631268,
+    "longitude": 9.1761736
+  },
+  {
+    "street": "Via San Giorgio",
+    "number": "83",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6629157,
+    "longitude": 9.1753694
+  },
+  {
+    "street": "Via San Giorgio",
+    "number": "88",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6626829,
+    "longitude": 9.174994
+  },
+  {
+    "street": "Via dell'Artigianato",
+    "number": "52/54",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6629654,
+    "longitude": 9.1768044
+  },
+  {
+    "street": "Via dell'Artigianato",
+    "number": "50",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6625773,
+    "longitude": 9.1765423
+  },
+  {
+    "street": "Via dell'Artigianato",
+    "number": "30/32",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6611733,
+    "longitude": 9.1758305
+  },
+  {
+    "street": "Largo San Giovanni da Meda",
+    "number": "6",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.665364,
+    "longitude": 9.1523066
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "39",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6662552,
+    "longitude": 9.1497158
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "8/10",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6665458,
+    "longitude": 9.1495527
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "43",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6663807,
+    "longitude": 9.1493182
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "57/59",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6673846,
+    "longitude": 9.1475808
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "59",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6673345,
+    "longitude": 9.147631
+  },
+  {
+    "street": "Via Milano",
+    "number": "99",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6550247,
+    "longitude": 9.1445382
+  },
+  {
+    "street": "Via Federico Confalonieri",
+    "number": "4",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6553009,
+    "longitude": 9.1706633
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "153",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6557754,
+    "longitude": 9.1749637
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "67",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6624674,
+    "longitude": 9.1481748
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "59",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6629737,
+    "longitude": 9.148641
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "88",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6633449,
+    "longitude": 9.148742
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "55",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6632644,
+    "longitude": 9.1489063
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "82",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6636422,
+    "longitude": 9.14875
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "56",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.664281,
+    "longitude": 9.1506645
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "40",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6644892,
+    "longitude": 9.1509499
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "38",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6645125,
+    "longitude": 9.150991
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "32",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6646704,
+    "longitude": 9.1512815
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "20",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6648011,
+    "longitude": 9.1514291
+  },
+  {
+    "street": "Via Guglielmo Oberdan",
+    "number": "3",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6644005,
+    "longitude": 9.1512396
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "2",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6652309,
+    "longitude": 9.1521082
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "3",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6615478,
+    "longitude": 9.1553523
+  },
+  {
+    "street": "Via Grado",
+    "number": "12",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6511252,
+    "longitude": 9.1548022
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "43",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.661247,
+    "longitude": 9.1556709
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "35",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6613276,
+    "longitude": 9.1557987
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "105",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6569764,
+    "longitude": 9.167592
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "161",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6556351,
+    "longitude": 9.1762304
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "117",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.656541,
+    "longitude": 9.1694266
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "142",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6564931,
+    "longitude": 9.1684767
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "146",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6564836,
+    "longitude": 9.1685789
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "150",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6564621,
+    "longitude": 9.1687231
+  },
+  {
+    "street": "Corso della Resistenza",
+    "number": "3",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6618049,
+    "longitude": 9.1592461
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "50",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6604815,
+    "longitude": 9.1604249
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "56/58",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.660372,
+    "longitude": 9.1606352
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "54",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6604145,
+    "longitude": 9.1605596
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "1",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6605904,
+    "longitude": 9.1601552
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "60/62",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6602293,
+    "longitude": 9.1609229
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "162",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6557097,
+    "longitude": 9.1715572
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "170",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6557623,
+    "longitude": 9.1724801
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "172",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6557033,
+    "longitude": 9.1725764
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "54",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6620328,
+    "longitude": 9.1506339
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "50",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6619841,
+    "longitude": 9.1507653
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "176",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6557309,
+    "longitude": 9.1734475
+  },
+  {
+    "street": "Piazza del Lavoratore",
+    "number": "1",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6606195,
+    "longitude": 9.1570891
+  },
+  {
+    "street": "Via Generale Cantore",
+    "number": "6",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6604101,
+    "longitude": 9.157529
+  },
+  {
+    "street": "Via Generale Cantore",
+    "number": "4",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6604698,
+    "longitude": 9.1573343
+  },
+  {
+    "street": "Viale Brianza",
+    "number": "27",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.663716,
+    "longitude": 9.1638572
+  },
+  {
+    "street": "Viale Brianza",
+    "number": "25",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6629272,
+    "longitude": 9.1627745
+  },
+  {
+    "street": "Viale Brianza",
+    "number": "52b",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6633582,
+    "longitude": 9.1637561
+  },
+  {
+    "street": "Viale Brianza",
+    "number": "74",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6642771,
+    "longitude": 9.1645233
+  },
+  {
+    "street": "Via Seveso",
+    "number": "31",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6599875,
+    "longitude": 9.1506268
+  },
+  {
+    "street": "Via Seveso",
+    "number": "14",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6602181,
+    "longitude": 9.1507072
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "46/48",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6580499,
+    "longitude": 9.1557139
+  },
+  {
+    "street": "Via Yuri Gagarin",
+    "number": "18",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6620443,
+    "longitude": 9.1618923
+  },
+  {
+    "street": "Viale Brianza",
+    "number": "17",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6621811,
+    "longitude": 9.1620586
+  },
+  {
+    "street": "Via Yuri Gagarin",
+    "number": "14",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6618875,
+    "longitude": 9.1615641
+  },
+  {
+    "street": "Via Yuri Gagarin",
+    "number": "8",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6617216,
+    "longitude": 9.1614177
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "6/8",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6613497,
+    "longitude": 9.1555479
+  },
+  {
+    "street": "Via Felice Orsini",
+    "number": "45",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6610882,
+    "longitude": 9.1526585
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "113",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6567529,
+    "longitude": 9.1688848
+  },
+  {
+    "street": "Via Serio",
+    "number": "14",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6595679,
+    "longitude": 9.1487957
+  },
+  {
+    "street": "Via Farga",
+    "number": "26",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6598641,
+    "longitude": 9.1477442
+  },
+  {
+    "street": "Via Milano",
+    "number": "39",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6599578,
+    "longitude": 9.1463683
+  },
+  {
+    "street": "Via Milano",
+    "number": "40",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6593242,
+    "longitude": 9.145467
+  },
+  {
+    "street": "Via Martesana",
+    "number": "2a",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6594456,
+    "longitude": 9.1500273
+  },
+  {
+    "street": "Via Roma",
+    "number": "6",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6623014,
+    "longitude": 9.1556144
+  },
+  {
+    "street": "Via Milano",
+    "number": "54",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6580179,
+    "longitude": 9.1444466
+  },
+  {
+    "street": "Viale Brianza",
+    "number": "17b",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6621134,
+    "longitude": 9.1622006
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "16",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6628763,
+    "longitude": 9.1581866
+  },
+  {
+    "street": "Via Pietro Orsi",
+    "number": "11",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6640516,
+    "longitude": 9.1606797
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "13",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6632311,
+    "longitude": 9.1573568
+  },
+  {
+    "street": "Via Pietro Orsi",
+    "number": "7",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6638758,
+    "longitude": 9.160482
+  },
+  {
+    "street": "Via Solferino",
+    "number": "10",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6627115,
+    "longitude": 9.1569368
+  },
+  {
+    "street": "Via Icmesa",
+    "number": "3",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6536716,
+    "longitude": 9.1444988
+  },
+  {
+    "street": "Via Icmesa",
+    "number": "9",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6536312,
+    "longitude": 9.1455606
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "92/94",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6589416,
+    "longitude": 9.1631582
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "61a",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6593602,
+    "longitude": 9.1629266
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "37",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6600895,
+    "longitude": 9.1619218
+  },
+  {
+    "street": "Via Santa Caterina da Siena",
+    "number": "2a",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6586872,
+    "longitude": 9.1631747
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "126",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6570177,
+    "longitude": 9.1666584
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "64/66",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6599822,
+    "longitude": 9.1610411
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "29",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6601898,
+    "longitude": 9.1614535
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "61h",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6594489,
+    "longitude": 9.1631427
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "61",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6591349,
+    "longitude": 9.163356
+  },
+  {
+    "street": "Corso della Resistenza",
+    "number": "1",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6619242,
+    "longitude": 9.1591973
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "128a",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6568422,
+    "longitude": 9.1670438
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "4b",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6598372,
+    "longitude": 9.1612211
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "97",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.657811,
+    "longitude": 9.1666089
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "76",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6595309,
+    "longitude": 9.1621141
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "90",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6590491,
+    "longitude": 9.1630902
+  },
+  {
+    "street": "Viale Brianza",
+    "number": "15",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6617728,
+    "longitude": 9.1618439
+  },
+  {
+    "street": "Via Ferdinando Magellano",
+    "number": "3",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6596103,
+    "longitude": 9.1629204
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "33",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6601401,
+    "longitude": 9.1615654
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "124",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6572934,
+    "longitude": 9.1660783
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "10",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6597508,
+    "longitude": 9.1643318
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "68",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.65995,
+    "longitude": 9.1611118
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "70",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6598708,
+    "longitude": 9.1612543
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "84",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6591621,
+    "longitude": 9.1629192
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "78",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6593466,
+    "longitude": 9.1625
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "55",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6594922,
+    "longitude": 9.1627354
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "86",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.659119,
+    "longitude": 9.1629981
+  },
+  {
+    "street": "Via Santa Caterina da Siena",
+    "number": "6",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6585459,
+    "longitude": 9.1631593
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "61c",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6594334,
+    "longitude": 9.1630614
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "22",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6677277,
+    "longitude": 9.1737903
+  },
+  {
+    "street": "Via Trieste",
+    "number": "35",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6682736,
+    "longitude": 9.1692312
+  },
+  {
+    "street": "Viale Brianza",
+    "number": "147",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6694434,
+    "longitude": 9.1683145
+  },
+  {
+    "street": "Via Eugenio Montale",
+    "number": "2",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6682643,
+    "longitude": 9.169052
+  },
+  {
+    "street": "Via Enrico Cialdini",
+    "number": "130",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6623664,
+    "longitude": 9.1669891
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "10",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6612834,
+    "longitude": 9.1554399
+  },
+  {
+    "street": "Via Enrico Cialdini",
+    "number": "153",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6629499,
+    "longitude": 9.1666175
+  },
+  {
+    "street": "Viale delle Rimembranze",
+    "number": "27",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6623872,
+    "longitude": 9.1646787
+  },
+  {
+    "street": "Via Tre Venezie",
+    "number": "108a",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6513951,
+    "longitude": 9.1682558
+  },
+  {
+    "street": "Via Udine",
+    "number": "1a",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6528613,
+    "longitude": 9.1621444
+  },
+  {
+    "street": "Via Solferino",
+    "number": "61",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.66407,
+    "longitude": 9.1589744
+  },
+  {
+    "street": "Via Pastrengo",
+    "number": "7",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6641262,
+    "longitude": 9.1586471
+  },
+  {
+    "street": "Piazza Cavour",
+    "number": "19",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.66595,
+    "longitude": 9.1595378
+  },
+  {
+    "street": "Via Tre Venezie",
+    "number": "110",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6513331,
+    "longitude": 9.1686103
+  },
+  {
+    "street": "Viale delle Rimembranze",
+    "number": "36",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6627346,
+    "longitude": 9.1653897
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "15",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6602052,
+    "longitude": 9.1597287
+  },
+  {
+    "street": "Via Seveso",
+    "number": "6",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.659733,
+    "longitude": 9.1514704
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "49",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6609823,
+    "longitude": 9.1556038
+  },
+  {
+    "street": "Via Tommaso Edison",
+    "number": "15",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6571557,
+    "longitude": 9.1753024
+  },
+  {
+    "street": "Viale Francia",
+    "number": "43a",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6598911,
+    "longitude": 9.1547292
+  },
+  {
+    "street": "Via Enrico Cialdini",
+    "number": "90",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6635403,
+    "longitude": 9.1639535
+  },
+  {
+    "street": "Via San Giorgio",
+    "number": "25",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6661052,
+    "longitude": 9.1694239
+  },
+  {
+    "street": "Via Arno",
+    "number": "5",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6512566,
+    "longitude": 9.1666827
+  },
+  {
+    "street": "Via Vignazzola",
+    "number": "11",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6524474,
+    "longitude": 9.1492675
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "190",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6556043,
+    "longitude": 9.1744687
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "188",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6554167,
+    "longitude": 9.1742133
+  },
+  {
+    "street": "Via Albert Einstein",
+    "number": "23",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6575153,
+    "longitude": 9.176569
+  },
+  {
+    "street": "Via Legnano",
+    "number": "13",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6544784,
+    "longitude": 9.1762892
+  },
+  {
+    "street": "Via Cremona",
+    "number": "2",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6713267,
+    "longitude": 9.1623121
+  },
+  {
+    "street": "Via Solferino",
+    "number": "87",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6650538,
+    "longitude": 9.1597352
+  },
+  {
+    "street": "Via Valtellina",
+    "number": "3",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.671178,
+    "longitude": 9.162985
+  },
+  {
+    "street": "Via Federico Borromeo",
+    "number": "13",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6675878,
+    "longitude": 9.1462415
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "107",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6638822,
+    "longitude": 9.15419
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "103",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6637829,
+    "longitude": 9.1543895
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "76",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6638593,
+    "longitude": 9.1544278
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "111",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6639437,
+    "longitude": 9.15402
+  },
+  {
+    "street": "Corso Italia",
+    "number": "7",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6641489,
+    "longitude": 9.1526665
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "9/11",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6644725,
+    "longitude": 9.1512735
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "46",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6644484,
+    "longitude": 9.1508914
+  },
+  {
+    "street": "Corso Italia",
+    "number": "17",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6639972,
+    "longitude": 9.1524779
+  },
+  {
+    "street": "Corso Italia",
+    "number": "11",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6640475,
+    "longitude": 9.1525367
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "8",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6652939,
+    "longitude": 9.152229
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "7",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6645054,
+    "longitude": 9.1513161
+  },
+  {
+    "street": "Via San Marco",
+    "number": "18",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6655111,
+    "longitude": 9.1721884
+  },
+  {
+    "street": "Corso della Resistenza",
+    "number": "23",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6614323,
+    "longitude": 9.1599698
+  },
+  {
+    "street": "Via Gorizia",
+    "number": "24",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6546475,
+    "longitude": 9.1598107
+  },
+  {
+    "street": "Via Gorizia",
+    "number": "24a",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6545855,
+    "longitude": 9.1601546
+  },
+  {
+    "street": "Via Gorizia",
+    "number": "22a",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6546684,
+    "longitude": 9.1596847
+  },
+  {
+    "street": "Via Gorizia",
+    "number": "20",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6547217,
+    "longitude": 9.1593175
+  },
+  {
+    "street": "Via Amerigo Vespucci",
+    "number": "9",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6646816,
+    "longitude": 9.1508841
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "2b",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6597302,
+    "longitude": 9.1611481
+  },
+  {
+    "street": "Via San Francesco Saverio",
+    "number": "15",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6570189,
+    "longitude": 9.1629372
+  },
+  {
+    "street": "Via Consorziale dei boschi",
+    "number": "5",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6572581,
+    "longitude": 9.1656986
+  },
+  {
+    "street": "Via Consorziale dei boschi",
+    "number": "7",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6570827,
+    "longitude": 9.1652131
+  },
+  {
+    "street": "Via Marco Polo",
+    "number": "7c",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6586576,
+    "longitude": 9.1621892
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "9c",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6594472,
+    "longitude": 9.1612265
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "13",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6593543,
+    "longitude": 9.1611339
+  },
+  {
+    "street": "Via Marco Polo",
+    "number": "3",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.659113,
+    "longitude": 9.1626315
+  },
+  {
+    "street": "Via del Cimitero",
+    "number": "1d",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6598623,
+    "longitude": 9.1607013
+  },
+  {
+    "street": "Viale Brianza",
+    "number": "125",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6680371,
+    "longitude": 9.1673009
+  },
+  {
+    "street": "Via del Cimitero",
+    "number": "8c",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6598659,
+    "longitude": 9.1604698
+  },
+  {
+    "street": "Via Consorziale dei boschi",
+    "number": "28",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6564265,
+    "longitude": 9.1656694
+  },
+  {
+    "street": "Viale Brianza",
+    "number": "90",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6652789,
+    "longitude": 9.1653131
+  },
+  {
+    "street": "Via del Cimitero",
+    "number": "7e",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6594918,
+    "longitude": 9.1602956
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "24",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6586041,
+    "longitude": 9.1657846
+  },
+  {
+    "street": "Via Canova",
+    "number": "21",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6583677,
+    "longitude": 9.1679187
+  },
+  {
+    "street": "Via Raffaello Sanzio",
+    "number": "14",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6608493,
+    "longitude": 9.165273
+  },
+  {
+    "street": "Via Pace",
+    "number": "18",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6631145,
+    "longitude": 9.1611205
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "12",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6597339,
+    "longitude": 9.1659971
+  },
+  {
+    "street": "Via Pio Undicesimo",
+    "number": "16",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6604909,
+    "longitude": 9.144449
+  },
+  {
+    "street": "Via Roma",
+    "number": "2",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6620881,
+    "longitude": 9.1562426
+  },
+  {
+    "street": "Via Vignazzola",
+    "number": "121",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6503381,
+    "longitude": 9.1601647
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "65",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6590737,
+    "longitude": 9.1635356
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "121",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6564916,
+    "longitude": 9.1698113
+  },
+  {
+    "street": "Via Enrico Cialdini",
+    "number": "69",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6640552,
+    "longitude": 9.1626457
+  },
+  {
+    "street": "Via Giotto",
+    "number": "48",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6630689,
+    "longitude": 9.1637426
+  },
+  {
+    "street": "Via Como",
+    "number": "17/19",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6675115,
+    "longitude": 9.1607073
+  },
+  {
+    "street": "Via Como",
+    "number": "15",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6674234,
+    "longitude": 9.1606704
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "31",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6639998,
+    "longitude": 9.1501943
+  },
+  {
+    "street": "Via Vignazzola",
+    "number": "121c",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6508591,
+    "longitude": 9.160429
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "28",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6587263,
+    "longitude": 9.1659473
+  },
+  {
+    "street": "Via Bernardino Luini",
+    "number": "56",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6587591,
+    "longitude": 9.1712865
+  },
+  {
+    "street": "Via Enrico Cialdini",
+    "number": "106",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6631222,
+    "longitude": 9.1648383
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "31",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6598871,
+    "longitude": 9.1659577
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "29",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.65984,
+    "longitude": 9.1660532
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "6/8",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6613818,
+    "longitude": 9.1625625
+  },
+  {
+    "street": "Via Calabria",
+    "number": "2",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6624442,
+    "longitude": 9.1739798
+  },
+  {
+    "street": "Via Enrico Cialdini",
+    "number": "128",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6624988,
+    "longitude": 9.1668855
+  },
+  {
+    "street": "Via Farga",
+    "number": "25",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6600709,
+    "longitude": 9.1466641
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "9b",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.659525,
+    "longitude": 9.1613386
+  },
+  {
+    "street": "Viale Lombardia",
+    "number": "2",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.655952,
+    "longitude": 9.1624985
+  },
+  {
+    "street": "Via Santa Caterina da Siena",
+    "number": "8",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6581866,
+    "longitude": 9.1628216
+  },
+  {
+    "street": "Via Beato Angelico",
+    "number": "15",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6569909,
+    "longitude": 9.1698218
+  },
+  {
+    "street": "Via Santa Caterina da Siena",
+    "number": "15",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6568248,
+    "longitude": 9.1617106
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "58",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6603254,
+    "longitude": 9.160754
+  },
+  {
+    "street": "Via Enrico Cialdini",
+    "number": "124",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6625437,
+    "longitude": 9.1667654
+  },
+  {
+    "street": "Viale Brianza",
+    "number": "86",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6650192,
+    "longitude": 9.1652988
+  },
+  {
+    "street": "Via San Giusto",
+    "number": "42",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6644423,
+    "longitude": 9.1722977
+  },
+  {
+    "street": "Via Luigi Rho",
+    "number": "61",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6659113,
+    "longitude": 9.1636795
+  },
+  {
+    "street": "Via Calabria",
+    "number": "29/31",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6643252,
+    "longitude": 9.1747235
+  },
+  {
+    "street": "Via Monte Berico",
+    "number": "21",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6640693,
+    "longitude": 9.1744835
+  },
+  {
+    "street": "Via San Giorgio",
+    "number": "15",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.665606,
+    "longitude": 9.1676318
+  },
+  {
+    "street": "Via Zara",
+    "number": "19",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6678578,
+    "longitude": 9.1649739
+  },
+  {
+    "street": "Via Pio Undicesimo",
+    "number": "15",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6600983,
+    "longitude": 9.1451733
+  },
+  {
+    "street": "Via Luigi Rho",
+    "number": "69",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6657042,
+    "longitude": 9.1640581
+  },
+  {
+    "street": "Via Conciliazione",
+    "number": "25",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6593229,
+    "longitude": 9.1449479
+  },
+  {
+    "street": "Via Trieste",
+    "number": "12",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6692981,
+    "longitude": 9.1664123
+  },
+  {
+    "street": "Via Calabria",
+    "number": "30/32",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6645693,
+    "longitude": 9.175453
+  },
+  {
+    "street": "Via Como",
+    "number": "49",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6683809,
+    "longitude": 9.1611569
+  },
+  {
+    "street": "Via San Giorgio",
+    "number": "17",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6655698,
+    "longitude": 9.167717
+  },
+  {
+    "street": "Via del Cimitero",
+    "number": "8",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6599489,
+    "longitude": 9.1605602
+  },
+  {
+    "street": "Viale delle Rimembranze",
+    "number": "19",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6620591,
+    "longitude": 9.1642944
+  },
+  {
+    "street": "Via Trento",
+    "number": "48",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6670981,
+    "longitude": 9.1632285
+  },
+  {
+    "street": "Viale Brianza",
+    "number": "19",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6623577,
+    "longitude": 9.1624117
+  },
+  {
+    "street": "Via Adua",
+    "number": "27",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6599978,
+    "longitude": 9.160032
+  },
+  {
+    "street": "Viale Brianza",
+    "number": "18",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6615835,
+    "longitude": 9.1621515
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "126",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6632541,
+    "longitude": 9.1696928
+  },
+  {
+    "street": "Via Enrico Cialdini",
+    "number": "136",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6619994,
+    "longitude": 9.1680691
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "151",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6646364,
+    "longitude": 9.1529837
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "15",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.663287,
+    "longitude": 9.1572557
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "21",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6633509,
+    "longitude": 9.1571869
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "19",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6633267,
+    "longitude": 9.1572059
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "13",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6644561,
+    "longitude": 9.1512433
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "60",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6625093,
+    "longitude": 9.1495378
+  },
+  {
+    "street": "Via Vignoni",
+    "number": "3",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6637165,
+    "longitude": 9.1537209
+  },
+  {
+    "street": "Via Vignoni",
+    "number": "19",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6632914,
+    "longitude": 9.1534249
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "25",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6640182,
+    "longitude": 9.1504415
+  },
+  {
+    "street": "Corso Italia",
+    "number": "32",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6635652,
+    "longitude": 9.1516536
+  },
+  {
+    "street": "Via Felice Orsini",
+    "number": "56",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6614927,
+    "longitude": 9.1527993
+  },
+  {
+    "street": "Corso Italia",
+    "number": "30",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6636136,
+    "longitude": 9.1517044
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "9",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6631187,
+    "longitude": 9.1543305
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "163",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6649688,
+    "longitude": 9.1528787
+  },
+  {
+    "street": "Via Roma",
+    "number": "7",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6624252,
+    "longitude": 9.155209
+  },
+  {
+    "street": "Corso Italia",
+    "number": "24",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6636696,
+    "longitude": 9.1517789
+  },
+  {
+    "street": "Via Vignoni",
+    "number": "15",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6634652,
+    "longitude": 9.153499
+  },
+  {
+    "street": "Via Roma",
+    "number": "14",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6625337,
+    "longitude": 9.1551822
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "79",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6633492,
+    "longitude": 9.1551378
+  },
+  {
+    "street": "Corso Italia",
+    "number": "38",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6634582,
+    "longitude": 9.1515335
+  },
+  {
+    "street": "Via Vignoni",
+    "number": "18/20",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.66346,
+    "longitude": 9.1533787
+  },
+  {
+    "street": "Via Vignoni",
+    "number": "9",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6636058,
+    "longitude": 9.1536225
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "17/19",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6629158,
+    "longitude": 9.1541417
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "69",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6632378,
+    "longitude": 9.1553854
+  },
+  {
+    "street": "Corso Italia",
+    "number": "40",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6634812,
+    "longitude": 9.1512435
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "15",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6607629,
+    "longitude": 9.1505358
+  },
+  {
+    "street": "Via Felice Orsini",
+    "number": "5",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6628226,
+    "longitude": 9.1551703
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "5",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6633876,
+    "longitude": 9.1545945
+  },
+  {
+    "street": "Via delle Colline",
+    "number": "52",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6697828,
+    "longitude": 9.1556244
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "5",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6628563,
+    "longitude": 9.1510033
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "75",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6633089,
+    "longitude": 9.1552203
+  },
+  {
+    "street": "Via Felice Orsini",
+    "number": "30",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6626084,
+    "longitude": 9.1548903
+  },
+  {
+    "street": "Via Roma",
+    "number": "26",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6629904,
+    "longitude": 9.1542183
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "31",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6623881,
+    "longitude": 9.1536701
+  },
+  {
+    "street": "Via Vignoni",
+    "number": "26",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6633936,
+    "longitude": 9.1533221
+  },
+  {
+    "street": "Viale Brianza",
+    "number": "52a",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6632796,
+    "longitude": 9.1636191
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "83",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6634245,
+    "longitude": 9.1550282
+  },
+  {
+    "street": "Via Piave",
+    "number": "34a",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6553837,
+    "longitude": 9.1635307
+  },
+  {
+    "street": "Vicolo Tarò",
+    "number": "4",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6650728,
+    "longitude": 9.1600345
+  },
+  {
+    "street": "Piazza Cavour",
+    "number": "4",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6656652,
+    "longitude": 9.1591204
+  },
+  {
+    "street": "Piazza Cavour",
+    "number": "22",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6658283,
+    "longitude": 9.1600819
+  },
+  {
+    "street": "Via Solferino",
+    "number": "63",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6641374,
+    "longitude": 9.1590418
+  },
+  {
+    "street": "Via Solferino",
+    "number": "81",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6647581,
+    "longitude": 9.1595416
+  },
+  {
+    "street": "Via Solferino",
+    "number": "58a",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6636057,
+    "longitude": 9.1593698
+  },
+  {
+    "street": "Via Solferino",
+    "number": "42",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.663497,
+    "longitude": 9.1582267
+  },
+  {
+    "street": "Piazza Municipio",
+    "number": "7",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6624468,
+    "longitude": 9.1572734
+  },
+  {
+    "street": "Vicolo Luigi Rho",
+    "number": "63",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6695171,
+    "longitude": 9.164161
+  },
+  {
+    "street": "Piazza Cavour",
+    "number": "9",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6657773,
+    "longitude": 9.1590445
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "61f",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6592497,
+    "longitude": 9.1634872
+  },
+  {
+    "street": "Piazza Cavour",
+    "number": "25",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6657323,
+    "longitude": 9.1598805
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "24",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6653376,
+    "longitude": 9.1584108
+  },
+  {
+    "street": "Via Adda",
+    "number": "14",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6505728,
+    "longitude": 9.1675969
+  },
+  {
+    "street": "Via Solferino",
+    "number": "24/26",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.663003,
+    "longitude": 9.1573769
+  },
+  {
+    "street": "Via Piave",
+    "number": "51",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6546628,
+    "longitude": 9.1671807
+  },
+  {
+    "street": "Via Solferino",
+    "number": "60",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6641303,
+    "longitude": 9.159229
+  },
+  {
+    "street": "Piazza Cavour",
+    "number": "11/12",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6659472,
+    "longitude": 9.1591508
+  },
+  {
+    "street": "Via Solferino",
+    "number": "17",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6630952,
+    "longitude": 9.1573689
+  },
+  {
+    "street": "Via Giuseppe Parini",
+    "number": "2",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6661348,
+    "longitude": 9.1599764
+  },
+  {
+    "street": "Via Solferino",
+    "number": "79",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.664699,
+    "longitude": 9.1594946
+  },
+  {
+    "street": "Piazza Cavour",
+    "number": "3",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6655908,
+    "longitude": 9.1590417
+  },
+  {
+    "street": "Vicolo Luigi Rho",
+    "number": "5",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6666176,
+    "longitude": 9.1618355
+  },
+  {
+    "street": "Viale Brianza",
+    "number": "5",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6609853,
+    "longitude": 9.1612268
+  },
+  {
+    "street": "Via Pordenone",
+    "number": "21",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.653099,
+    "longitude": 9.1700661
+  },
+  {
+    "street": "Piazza della Chiesa",
+    "number": "4",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6610236,
+    "longitude": 9.1555337
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "51",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6610803,
+    "longitude": 9.1554513
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "67",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6631854,
+    "longitude": 9.1556176
+  },
+  {
+    "street": "Via Felice Orsini",
+    "number": "14",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6631008,
+    "longitude": 9.1551957
+  },
+  {
+    "street": "Via Libertà",
+    "number": "51",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6604279,
+    "longitude": 9.143083
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "57",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6632454,
+    "longitude": 9.1488435
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "24",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6613332,
+    "longitude": 9.1524788
+  },
+  {
+    "street": "Viale Brianza",
+    "number": "65",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6642338,
+    "longitude": 9.1642746
+  },
+  {
+    "street": "Via Valtellina",
+    "number": "15",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6717777,
+    "longitude": 9.1642325
+  },
+  {
+    "street": "Via Valtellina",
+    "number": "21",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6718658,
+    "longitude": 9.1647689
+  },
+  {
+    "street": "Via Valtellina",
+    "number": "11",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6714337,
+    "longitude": 9.164042
+  },
+  {
+    "street": "Piazza Alessandro Volta",
+    "number": "1",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6651498,
+    "longitude": 9.1529358
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "21",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6608768,
+    "longitude": 9.1528884
+  },
+  {
+    "street": "Via Carnia",
+    "number": "6",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6543279,
+    "longitude": 9.1559222
+  },
+  {
+    "street": "Via San Giuseppe",
+    "number": "25a",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6670432,
+    "longitude": 9.1595364
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "34",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.660908,
+    "longitude": 9.1593505
+  },
+  {
+    "street": "Via Adige",
+    "number": "7",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6518066,
+    "longitude": 9.1577873
+  },
+  {
+    "street": "Via Vignazzola",
+    "number": "141",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6487292,
+    "longitude": 9.1653122
+  },
+  {
+    "street": "Via Vignazzola",
+    "number": "137a",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6489979,
+    "longitude": 9.1642879
+  },
+  {
+    "street": "Via Vignazzola",
+    "number": "135",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6489491,
+    "longitude": 9.1633119
+  },
+  {
+    "street": "Via Vignazzola",
+    "number": "147",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6489987,
+    "longitude": 9.1649226
+  },
+  {
+    "street": "Via Pordenone",
+    "number": "10",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6520286,
+    "longitude": 9.1705811
+  },
+  {
+    "street": "Via Carnia",
+    "number": "7",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6541534,
+    "longitude": 9.1570427
+  },
+  {
+    "street": "Via Tre Venezie",
+    "number": "125",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6516193,
+    "longitude": 9.1699397
+  },
+  {
+    "street": "Via Carnia",
+    "number": "1",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6548224,
+    "longitude": 9.1567015
+  },
+  {
+    "street": "Via Laguna",
+    "number": "20",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6506159,
+    "longitude": 9.1617444
+  },
+  {
+    "street": "Via Ferrara",
+    "number": "55",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6508793,
+    "longitude": 9.1747801
+  },
+  {
+    "street": "Via Ferrara",
+    "number": "53",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6509374,
+    "longitude": 9.1746641
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "93",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.658037,
+    "longitude": 9.1659288
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "109",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6568643,
+    "longitude": 9.1679259
+  },
+  {
+    "street": "Via Este",
+    "number": "1",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6508608,
+    "longitude": 9.1585003
+  },
+  {
+    "street": "Via Tre Venezie",
+    "number": "94",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.651741,
+    "longitude": 9.1667714
+  },
+  {
+    "street": "Via Gorizia",
+    "number": "22",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.654689,
+    "longitude": 9.1595078
+  },
+  {
+    "street": "Via Tre Venezie",
+    "number": "100",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6517237,
+    "longitude": 9.1669459
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "65h",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6588752,
+    "longitude": 9.1637884
+  },
+  {
+    "street": "Via San Fedele",
+    "number": "11",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6579913,
+    "longitude": 9.1624376
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "42",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6634805,
+    "longitude": 9.1582035
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "157",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6557547,
+    "longitude": 9.1755114
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "23",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6598702,
+    "longitude": 9.1595411
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "41",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6590885,
+    "longitude": 9.1585027
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "29",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6595762,
+    "longitude": 9.1590522
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "37",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6591548,
+    "longitude": 9.1585741
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "31",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6594556,
+    "longitude": 9.1589075
+  },
+  {
+    "street": "Via Generale Cantore",
+    "number": "17",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6599545,
+    "longitude": 9.1588251
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "27",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6596764,
+    "longitude": 9.1591444
+  },
+  {
+    "street": "Via Generale Cantore",
+    "number": "19",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6599003,
+    "longitude": 9.158928
+  },
+  {
+    "street": "Via Adua",
+    "number": "7",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6607322,
+    "longitude": 9.1586202
+  },
+  {
+    "street": "Via Adua",
+    "number": "15",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6602929,
+    "longitude": 9.1594991
+  },
+  {
+    "street": "Via Generale Cantore",
+    "number": "13",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.659992,
+    "longitude": 9.1587671
+  },
+  {
+    "street": "Via Onorevole Riccardo Besana",
+    "number": "12",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6604727,
+    "longitude": 9.1581612
+  },
+  {
+    "street": "Via Generale Cantore",
+    "number": "14",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6601929,
+    "longitude": 9.15819
+  },
+  {
+    "street": "Via Generale Cantore",
+    "number": "12",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6602425,
+    "longitude": 9.1581036
+  },
+  {
+    "street": "Via Adua",
+    "number": "24",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.660329,
+    "longitude": 9.1592225
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "11",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6603923,
+    "longitude": 9.1599126
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "32",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6610811,
+    "longitude": 9.1593769
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "30",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6611641,
+    "longitude": 9.1592271
+  },
+  {
+    "street": "Via Onorevole Riccardo Besana",
+    "number": "9",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6608952,
+    "longitude": 9.1587335
+  },
+  {
+    "street": "Via Onorevole Riccardo Besana",
+    "number": "7",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6610474,
+    "longitude": 9.1589012
+  },
+  {
+    "street": "Via Onorevole Riccardo Besana",
+    "number": "8",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6609781,
+    "longitude": 9.15873
+  },
+  {
+    "street": "Via Onorevole Riccardo Besana",
+    "number": "6",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6610096,
+    "longitude": 9.1587652
+  },
+  {
+    "street": "Via Onorevole Riccardo Besana",
+    "number": "10",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6609586,
+    "longitude": 9.1587091
+  },
+  {
+    "street": "Via Onorevole Riccardo Besana",
+    "number": "10a",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6609277,
+    "longitude": 9.1586762
+  },
+  {
+    "street": "Via Onorevole Riccardo Besana",
+    "number": "5",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6610923,
+    "longitude": 9.1589497
+  },
+  {
+    "street": "Via Onorevole Riccardo Besana",
+    "number": "2",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6610859,
+    "longitude": 9.1588548
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "126a",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.656938,
+    "longitude": 9.1668673
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "174",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6555991,
+    "longitude": 9.1728558
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "194",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6551988,
+    "longitude": 9.1755531
+  },
+  {
+    "street": "Via Adua",
+    "number": "5",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6608427,
+    "longitude": 9.1584344
+  },
+  {
+    "street": "Viale Francia",
+    "number": "15",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.660601,
+    "longitude": 9.1562784
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "45/47",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6611722,
+    "longitude": 9.1555613
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "102",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6631376,
+    "longitude": 9.169606
+  },
+  {
+    "street": "Via Felice Orsini",
+    "number": "15",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6625412,
+    "longitude": 9.1549758
+  },
+  {
+    "street": "Piazza Cavour",
+    "number": "18",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6659334,
+    "longitude": 9.1594306
+  },
+  {
+    "street": "Via Vignazzola",
+    "number": "47",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6516598,
+    "longitude": 9.1487813
+  },
+  {
+    "street": "Viale Brianza",
+    "number": "56",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6636182,
+    "longitude": 9.1640088
+  },
+  {
+    "street": "Corso della Resistenza",
+    "number": "5",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6617581,
+    "longitude": 9.1592412
+  },
+  {
+    "street": "Via Milano",
+    "number": "115",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6540062,
+    "longitude": 9.1440698
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "21",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6600264,
+    "longitude": 9.159542
+  },
+  {
+    "street": "Via Enrico Cialdini",
+    "number": "99",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6637132,
+    "longitude": 9.1637469
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "4",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6658243,
+    "longitude": 9.1489166
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "65a",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.668079,
+    "longitude": 9.1464469
+  },
+  {
+    "street": "Via Molino",
+    "number": "2",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6668128,
+    "longitude": 9.1483548
+  },
+  {
+    "street": "Via della Vigna",
+    "number": "2",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6663377,
+    "longitude": 9.1462649
+  },
+  {
+    "street": "Via Trento",
+    "number": "4",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6647319,
+    "longitude": 9.1618498
+  },
+  {
+    "street": "Via Luigi Einaudi",
+    "number": "13",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6562322,
+    "longitude": 9.1769376
+  },
+  {
+    "street": "Via dei Caduti Medesi",
+    "number": "13",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6544742,
+    "longitude": 9.1697459
+  },
+  {
+    "street": "Via Tre Venezie",
+    "number": "63",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6526135,
+    "longitude": 9.163456
+  },
+  {
+    "street": "Via Felice Orsini",
+    "number": "3a",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6628763,
+    "longitude": 9.1551868
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "158",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6561188,
+    "longitude": 9.1703196
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "160",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6560269,
+    "longitude": 9.1707487
+  },
+  {
+    "street": "Via Federico Confalonieri",
+    "number": "7",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6554259,
+    "longitude": 9.1712223
+  },
+  {
+    "street": "Piazza della Chiesa",
+    "number": "1",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6612165,
+    "longitude": 9.155318
+  },
+  {
+    "street": "Via Trieste",
+    "number": "56",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6657075,
+    "longitude": 9.1725825
+  },
+  {
+    "street": "Via Asiago",
+    "number": "15",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.665476,
+    "longitude": 9.1731428
+  },
+  {
+    "street": "Via dell'Artigianato",
+    "number": "42/46",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6622556,
+    "longitude": 9.176562
+  },
+  {
+    "street": "Via Enrico Cialdini",
+    "number": "207",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6612946,
+    "longitude": 9.1743609
+  },
+  {
+    "street": "Via Luigi Rho",
+    "number": "144",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6612474,
+    "longitude": 9.1749412
+  },
+  {
+    "street": "Via Trieste",
+    "number": "71",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6657476,
+    "longitude": 9.1753043
+  },
+  {
+    "street": "Via Enrico Cialdini",
+    "number": "181",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6622336,
+    "longitude": 9.1707433
+  },
+  {
+    "street": "Via Enrico Cialdini",
+    "number": "148-152",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6611391,
+    "longitude": 9.1699375
+  },
+  {
+    "street": "Via Piave",
+    "number": "48a",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6543284,
+    "longitude": 9.1665997
+  },
+  {
+    "street": "Via Piave",
+    "number": "54",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.654093,
+    "longitude": 9.1683221
+  },
+  {
+    "street": "Via Piave",
+    "number": "34c",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6548718,
+    "longitude": 9.1637205
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "192",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6551981,
+    "longitude": 9.1748611
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "101",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6575819,
+    "longitude": 9.167584
+  },
+  {
+    "street": "Via Vignazzola",
+    "number": "125a",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6497417,
+    "longitude": 9.1602204
+  },
+  {
+    "street": "Via Vignazzola",
+    "number": "117",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6498061,
+    "longitude": 9.1596749
+  },
+  {
+    "street": "Via Vignazzola",
+    "number": "105",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6500322,
+    "longitude": 9.1580374
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "12",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6547833,
+    "longitude": 9.1704105
+  },
+  {
+    "street": "Via del Molino",
+    "number": "2",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6668167,
+    "longitude": 9.1483555
+  },
+  {
+    "street": "Via Piave",
+    "number": "40",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6546038,
+    "longitude": 9.1647071
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "132",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6566139,
+    "longitude": 9.1673427
+  },
+  {
+    "street": "Via Enrico Cialdini",
+    "number": "158",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.660605,
+    "longitude": 9.1713645
+  },
+  {
+    "street": "Via Bergamo",
+    "number": "6",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6694791,
+    "longitude": 9.1622905
+  },
+  {
+    "street": "Via Como",
+    "number": "92",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6693339,
+    "longitude": 9.1615141
+  },
+  {
+    "street": "Via Sondrio",
+    "number": "10",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6700208,
+    "longitude": 9.1630563
+  },
+  {
+    "street": "Via Val Seriana",
+    "number": "7",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6706252,
+    "longitude": 9.164447
+  },
+  {
+    "street": "Via Como",
+    "number": "128a",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6714078,
+    "longitude": 9.1631593
+  },
+  {
+    "street": "Via Como",
+    "number": "99",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6727248,
+    "longitude": 9.1632704
+  },
+  {
+    "street": "Via Trieste",
+    "number": "67",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6672327,
+    "longitude": 9.1729431
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "42",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.66718,
+    "longitude": 9.1760337
+  },
+  {
+    "street": "Via Yuri Gagarin",
+    "number": "2",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6609457,
+    "longitude": 9.1607525
+  },
+  {
+    "street": "Via Luigi Einaudi",
+    "number": "17",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6575244,
+    "longitude": 9.1772161
+  },
+  {
+    "street": "Via Luigi Einaudi",
+    "number": "20/22",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6589776,
+    "longitude": 9.1787929
+  },
+  {
+    "street": "Via Luigi Einaudi",
+    "number": "16",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6594812,
+    "longitude": 9.1787349
+  },
+  {
+    "street": "Via Luigi Einaudi",
+    "number": "31",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6600755,
+    "longitude": 9.1776741
+  },
+  {
+    "street": "Via Antonio Meucci",
+    "number": "12",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6601169,
+    "longitude": 9.1766506
+  },
+  {
+    "street": "Via Trieste",
+    "number": "5",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6665088,
+    "longitude": 9.1756927
+  },
+  {
+    "street": "Via Trieste",
+    "number": "62",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6651457,
+    "longitude": 9.1738545
+  },
+  {
+    "street": "Via Trieste",
+    "number": "2",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6650949,
+    "longitude": 9.1744124
+  },
+  {
+    "street": "Via Trieste",
+    "number": "78",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6639939,
+    "longitude": 9.1761042
+  },
+  {
+    "street": "Via Carlo Agrati",
+    "number": "1",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6661813,
+    "longitude": 9.1515017
+  },
+  {
+    "street": "Via Tre Venezie",
+    "number": "6",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6528432,
+    "longitude": 9.1563567
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "156",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6557677,
+    "longitude": 9.1694267
+  },
+  {
+    "street": "Via Piave",
+    "number": "44",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6544446,
+    "longitude": 9.1656542
+  },
+  {
+    "street": "Via Piave",
+    "number": "46",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6543997,
+    "longitude": 9.166064
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "56",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6598951,
+    "longitude": 9.1521536
+  },
+  {
+    "street": "Piazza della Stazione",
+    "number": "7",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6632072,
+    "longitude": 9.1594588
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "6",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6647714,
+    "longitude": 9.1460064
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "111",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6568173,
+    "longitude": 9.1684177
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "40",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6618833,
+    "longitude": 9.1512917
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "167",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.655763,
+    "longitude": 9.1767508
+  },
+  {
+    "street": "Via Monte Berico",
+    "number": "26",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.663655,
+    "longitude": 9.1739154
+  },
+  {
+    "street": "Via Enrico Cialdini",
+    "number": "159",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6626128,
+    "longitude": 9.1673212
+  },
+  {
+    "street": "Via Seveso",
+    "number": "43",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6605364,
+    "longitude": 9.1498223
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "132bis",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6561224,
+    "longitude": 9.1670545
+  },
+  {
+    "street": "Via Vignazzola",
+    "number": "129",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6495873,
+    "longitude": 9.161467
+  },
+  {
+    "street": "Via Calabria",
+    "number": "18/20",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6638684,
+    "longitude": 9.1752436
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "159",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6557414,
+    "longitude": 9.1758289
+  },
+  {
+    "street": "Via Enrico Fermi",
+    "number": "25",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6580952,
+    "longitude": 9.1737945
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "4",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6555479,
+    "longitude": 9.1608612
+  },
+  {
+    "street": "Via Antonio Rosmini",
+    "number": "13",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6675391,
+    "longitude": 9.1451908
+  },
+  {
+    "street": "Via Marco Polo",
+    "number": "37",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.655943,
+    "longitude": 9.1599582
+  },
+  {
+    "street": "Via Nino Bixio",
+    "number": "3/5",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6556154,
+    "longitude": 9.159744
+  },
+  {
+    "street": "Via Ventiquattro Maggio",
+    "number": "11",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6576151,
+    "longitude": 9.1699116
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "114",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6638666,
+    "longitude": 9.1706335
+  },
+  {
+    "street": "Via Milano",
+    "number": "49",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6590051,
+    "longitude": 9.1456448
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "20",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6673554,
+    "longitude": 9.1483434
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "95",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6580547,
+    "longitude": 9.1664716
+  },
+  {
+    "street": "Viale Brianza",
+    "number": "138",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6690766,
+    "longitude": 9.1684884
+  },
+  {
+    "street": "Via Enrico Cialdini",
+    "number": "138",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6614745,
+    "longitude": 9.1694862
+  },
+  {
+    "street": "Via Marco Polo",
+    "number": "4",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6585512,
+    "longitude": 9.161461
+  },
+  {
+    "street": "Via Marco Polo",
+    "number": "10",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6581906,
+    "longitude": 9.1612038
+  },
+  {
+    "street": "Via Piave",
+    "number": "7",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6578413,
+    "longitude": 9.1600916
+  },
+  {
+    "street": "Via Santa Caterina da Siena",
+    "number": "21",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6559664,
+    "longitude": 9.1611589
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "2",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6614014,
+    "longitude": 9.1621848
+  },
+  {
+    "street": "Via Luigi Einaudi",
+    "number": "23/25",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6585701,
+    "longitude": 9.1763002
+  },
+  {
+    "street": "Via San Giuseppe",
+    "number": "25",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6669726,
+    "longitude": 9.1594969
+  },
+  {
+    "street": "Via Po",
+    "number": "113",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6511557,
+    "longitude": 9.1677811
+  },
+  {
+    "street": "Via delle Colline",
+    "number": "58",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6704841,
+    "longitude": 9.1553563
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "1",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6645897,
+    "longitude": 9.1499417
+  },
+  {
+    "street": "Via Giuseppe Parini",
+    "number": "14",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6664636,
+    "longitude": 9.1604185
+  },
+  {
+    "street": "Via Giuseppe Parini",
+    "number": "12",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.666374,
+    "longitude": 9.1603562
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "132",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6655787,
+    "longitude": 9.1717275
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "10",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6549689,
+    "longitude": 9.1618922
+  },
+  {
+    "street": "Via delle Betulle",
+    "number": "5",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6738854,
+    "longitude": 9.1530173
+  },
+  {
+    "street": "Viale Brianza",
+    "number": "99/101",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.66632,
+    "longitude": 9.1653361
+  },
+  {
+    "street": "Via Marco Polo",
+    "number": "29",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6566288,
+    "longitude": 9.1606768
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "35",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6592317,
+    "longitude": 9.1679631
+  },
+  {
+    "street": "Via Enrico Cialdini",
+    "number": "82",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6635012,
+    "longitude": 9.163022
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "72",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6581964,
+    "longitude": 9.1687511
+  },
+  {
+    "street": "Via Ferdinando Magellano",
+    "number": "10",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6598086,
+    "longitude": 9.163645
+  },
+  {
+    "street": "Via Bernardino Luini",
+    "number": "75",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6587571,
+    "longitude": 9.1714585
+  },
+  {
+    "street": "Via Vicenza",
+    "number": "11",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6512774,
+    "longitude": 9.1591529
+  },
+  {
+    "street": "Via Giotto",
+    "number": "12",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6626547,
+    "longitude": 9.1641131
+  },
+  {
+    "street": "Viale delle Rimembranze",
+    "number": "20",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6617904,
+    "longitude": 9.1645816
+  },
+  {
+    "street": "Via Como",
+    "number": "17",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6675128,
+    "longitude": 9.1606543
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "57",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6592948,
+    "longitude": 9.1682175
+  },
+  {
+    "street": "Via Tagliamento",
+    "number": "22",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6502498,
+    "longitude": 9.1619209
+  },
+  {
+    "street": "Viale Brianza",
+    "number": "114",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6672956,
+    "longitude": 9.1671873
+  },
+  {
+    "street": "Via Giotto",
+    "number": "11",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6629104,
+    "longitude": 9.1645192
+  },
+  {
+    "street": "Via Verona",
+    "number": "18/20",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6535662,
+    "longitude": 9.1596433
+  },
+  {
+    "street": "Via Fiume",
+    "number": "16a",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6672526,
+    "longitude": 9.1688803
+  },
+  {
+    "street": "Via Zara",
+    "number": "35",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6678421,
+    "longitude": 9.1657012
+  },
+  {
+    "street": "Via San Giorgio",
+    "number": "27",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6662071,
+    "longitude": 9.1698232
+  },
+  {
+    "street": "Via San Giorgio",
+    "number": "21",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6657741,
+    "longitude": 9.168134
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "16",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6664496,
+    "longitude": 9.1694301
+  },
+  {
+    "street": "Via Adriatico",
+    "number": "3",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6641798,
+    "longitude": 9.1683583
+  },
+  {
+    "street": "Via Bernardino Luini",
+    "number": "67",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6589941,
+    "longitude": 9.171567
+  },
+  {
+    "street": "Via Lazzaretto",
+    "number": "9",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6688307,
+    "longitude": 9.142945
+  },
+  {
+    "street": "Via Luigi Rho",
+    "number": "104",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6635913,
+    "longitude": 9.16711
+  },
+  {
+    "street": "Vicolo Luigi Rho",
+    "number": "4/6",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6669897,
+    "longitude": 9.1624585
+  },
+  {
+    "street": "Via Martesana",
+    "number": "13d",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6574323,
+    "longitude": 9.1470864
+  },
+  {
+    "street": "Via Bernardino Luini",
+    "number": "48",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.659331,
+    "longitude": 9.1698929
+  },
+  {
+    "street": "Via Generale Cantore",
+    "number": "15",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6599869,
+    "longitude": 9.1588102
+  },
+  {
+    "street": "Via Icmesa",
+    "number": "25",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6532028,
+    "longitude": 9.1497995
+  },
+  {
+    "street": "via privata",
+    "number": "19",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6547385,
+    "longitude": 9.1733785
+  },
+  {
+    "street": "Via Como",
+    "number": "73",
+    "city": {
+      "name": "Meda",
+      "istat": "108030"
+    },
+    "latitude": 45.6702167,
+    "longitude": 9.1614145
+  }
+]

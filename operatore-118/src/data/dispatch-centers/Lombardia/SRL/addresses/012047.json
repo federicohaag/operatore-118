@@ -1,0 +1,592 @@
+[
+  {
+    "street": "Via Camillo Benso conte di Cavour",
+    "number": "35",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7455431,
+    "longitude": 8.812316
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "29",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7456971,
+    "longitude": 8.8121192
+  },
+  {
+    "street": "Piazza del Comune",
+    "number": "1",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7470536,
+    "longitude": 8.8137996
+  },
+  {
+    "street": "Via Roma",
+    "number": "28e",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7453606,
+    "longitude": 8.8099167
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "2",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7463361,
+    "longitude": 8.8153242
+  },
+  {
+    "street": "Via Luigi Galvani",
+    "number": "3",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7478456,
+    "longitude": 8.8112167
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "14",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7465235,
+    "longitude": 8.814261
+  },
+  {
+    "street": "Via Camillo Benso conte di Cavour",
+    "number": "12",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7450129,
+    "longitude": 8.8117448
+  },
+  {
+    "street": "Via Camillo Benso conte di Cavour",
+    "number": "8",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7444626,
+    "longitude": 8.8110412
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "7",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7463242,
+    "longitude": 8.8126141
+  },
+  {
+    "street": "Via Piave",
+    "number": "1c",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7452406,
+    "longitude": 8.8074424
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "6",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7539338,
+    "longitude": 8.8097544
+  },
+  {
+    "street": "Via Camillo Benso conte di Cavour",
+    "number": "55",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.745629,
+    "longitude": 8.8139356
+  },
+  {
+    "street": "Via Camillo Benso conte di Cavour",
+    "number": "8b",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7446238,
+    "longitude": 8.8108654
+  },
+  {
+    "street": "Via Camillo Benso conte di Cavour",
+    "number": "32",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7455441,
+    "longitude": 8.8135716
+  },
+  {
+    "street": "Via Camillo Benso conte di Cavour",
+    "number": "45",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7456148,
+    "longitude": 8.812675
+  },
+  {
+    "street": "Via Roma",
+    "number": "34",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7460758,
+    "longitude": 8.8098033
+  },
+  {
+    "street": "Via Roma",
+    "number": "28d",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7452809,
+    "longitude": 8.8099217
+  },
+  {
+    "street": "Via Piave",
+    "number": "1b",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7450408,
+    "longitude": 8.8073017
+  },
+  {
+    "street": "Via Camillo Benso conte di Cavour",
+    "number": "2",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7446966,
+    "longitude": 8.8094799
+  },
+  {
+    "street": "Via Roma",
+    "number": "28",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7451521,
+    "longitude": 8.8099208
+  },
+  {
+    "street": "Via Roma",
+    "number": "28a",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.745219,
+    "longitude": 8.809919
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "24b",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.755635,
+    "longitude": 8.811003
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "36",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7588534,
+    "longitude": 8.8131943
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "38",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7592792,
+    "longitude": 8.8131427
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "42",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7594805,
+    "longitude": 8.8131974
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "52",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7620841,
+    "longitude": 8.8130759
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "83",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.761163,
+    "longitude": 8.8122261
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "81",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7610451,
+    "longitude": 8.8122502
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "79",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7602236,
+    "longitude": 8.8123548
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "77",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7597352,
+    "longitude": 8.8128188
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "75",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7595855,
+    "longitude": 8.8128671
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "34",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7583186,
+    "longitude": 8.8132319
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "32",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7578564,
+    "longitude": 8.8129824
+  },
+  {
+    "street": "Via Sant'Alessandro",
+    "number": "3",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7560917,
+    "longitude": 8.8102251
+  },
+  {
+    "street": "Via Sacro Monte",
+    "number": "32",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7512127,
+    "longitude": 8.8148358
+  },
+  {
+    "street": "Via Confalonieri",
+    "number": "5",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7576232,
+    "longitude": 8.8027756
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "12",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7473335,
+    "longitude": 8.815944
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "8",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7470063,
+    "longitude": 8.8157788
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "21",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7475649,
+    "longitude": 8.8143566
+  },
+  {
+    "street": "Via Lario",
+    "number": "2",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7474876,
+    "longitude": 8.8154224
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "23",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7476478,
+    "longitude": 8.8143788
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "4",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7465321,
+    "longitude": 8.8153988
+  },
+  {
+    "street": "Via Santi Nazario e Celso",
+    "number": "8",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7466927,
+    "longitude": 8.8135386
+  },
+  {
+    "street": "Via Santi Nazario e Celso",
+    "number": "24",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7462079,
+    "longitude": 8.8136915
+  },
+  {
+    "street": "Piazza del Comune",
+    "number": "9",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7470899,
+    "longitude": 8.8141626
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "16",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7466319,
+    "longitude": 8.8143178
+  },
+  {
+    "street": "Via Santi Nazario e Celso",
+    "number": "28",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7461731,
+    "longitude": 8.8139803
+  },
+  {
+    "street": "Via Santi Nazario e Celso",
+    "number": "12",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7465691,
+    "longitude": 8.8135796
+  },
+  {
+    "street": "Via Santi Nazario e Celso",
+    "number": "26",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7461793,
+    "longitude": 8.8139215
+  },
+  {
+    "street": "Via Sacro Monte",
+    "number": "1",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7480616,
+    "longitude": 8.814468
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "9",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7471079,
+    "longitude": 8.8154493
+  },
+  {
+    "street": "Via Sacro Monte",
+    "number": "12",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7491016,
+    "longitude": 8.8147015
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "6",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7468981,
+    "longitude": 8.8157121
+  },
+  {
+    "street": "Via Camillo Benso conte di Cavour",
+    "number": "56",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7456247,
+    "longitude": 8.8148752
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "97",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7645774,
+    "longitude": 8.8116595
+  },
+  {
+    "street": "Piazza Cavalier De Molli",
+    "number": "3",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7580856,
+    "longitude": 8.8029486
+  },
+  {
+    "street": "Via Brughiera",
+    "number": "15",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.750343,
+    "longitude": 8.8186548
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "24",
+    "city": {
+      "name": "Castronno",
+      "istat": "012047"
+    },
+    "latitude": 45.7491695,
+    "longitude": 8.811197
+  }
+]

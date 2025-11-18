@@ -1,0 +1,312 @@
+[
+  {
+    "street": "Piazza Alberto Bonacossa",
+    "number": "14",
+    "city": {
+      "name": "Brunate",
+      "istat": "013032"
+    },
+    "latitude": 45.8189608,
+    "longitude": 9.0957123
+  },
+  {
+    "street": "Via Roma",
+    "number": "3",
+    "city": {
+      "name": "Brunate",
+      "istat": "013032"
+    },
+    "latitude": 45.8184662,
+    "longitude": 9.0950689
+  },
+  {
+    "street": "Via Roma",
+    "number": "1",
+    "city": {
+      "name": "Brunate",
+      "istat": "013032"
+    },
+    "latitude": 45.8184005,
+    "longitude": 9.0949707
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "68/70",
+    "city": {
+      "name": "Brunate",
+      "istat": "013032"
+    },
+    "latitude": 45.818627,
+    "longitude": 9.0952666
+  },
+  {
+    "street": "Via Funicolare",
+    "number": "16",
+    "city": {
+      "name": "Brunate",
+      "istat": "013032"
+    },
+    "latitude": 45.81958,
+    "longitude": 9.0959151
+  },
+  {
+    "street": "Via alla Chiesa",
+    "number": "2",
+    "city": {
+      "name": "Brunate",
+      "istat": "013032"
+    },
+    "latitude": 45.8192258,
+    "longitude": 9.096761
+  },
+  {
+    "street": "Via Pissarottino",
+    "number": "26",
+    "city": {
+      "name": "Brunate",
+      "istat": "013032"
+    },
+    "latitude": 45.8255835,
+    "longitude": 9.0967535
+  },
+  {
+    "street": "Via Giacomo Scalini",
+    "number": "68",
+    "city": {
+      "name": "Brunate",
+      "istat": "013032"
+    },
+    "latitude": 45.826005,
+    "longitude": 9.1029443
+  },
+  {
+    "street": "Via Roma",
+    "number": "14",
+    "city": {
+      "name": "Brunate",
+      "istat": "013032"
+    },
+    "latitude": 45.8202052,
+    "longitude": 9.0951055
+  },
+  {
+    "street": "Via Roma",
+    "number": "15",
+    "city": {
+      "name": "Brunate",
+      "istat": "013032"
+    },
+    "latitude": 45.8200953,
+    "longitude": 9.0950121
+  },
+  {
+    "street": "Via Roma",
+    "number": "12",
+    "city": {
+      "name": "Brunate",
+      "istat": "013032"
+    },
+    "latitude": 45.8198409,
+    "longitude": 9.0951262
+  },
+  {
+    "street": "Via Roma",
+    "number": "10",
+    "city": {
+      "name": "Brunate",
+      "istat": "013032"
+    },
+    "latitude": 45.8198207,
+    "longitude": 9.0951249
+  },
+  {
+    "street": "Via Roma",
+    "number": "19",
+    "city": {
+      "name": "Brunate",
+      "istat": "013032"
+    },
+    "latitude": 45.8205644,
+    "longitude": 9.0949451
+  },
+  {
+    "street": "Via Roma",
+    "number": "13",
+    "city": {
+      "name": "Brunate",
+      "istat": "013032"
+    },
+    "latitude": 45.8194639,
+    "longitude": 9.0950115
+  },
+  {
+    "street": "Via Pissarottino",
+    "number": "5",
+    "city": {
+      "name": "Brunate",
+      "istat": "013032"
+    },
+    "latitude": 45.8218257,
+    "longitude": 9.0953565
+  },
+  {
+    "street": "Via Pissarottino",
+    "number": "7",
+    "city": {
+      "name": "Brunate",
+      "istat": "013032"
+    },
+    "latitude": 45.8220327,
+    "longitude": 9.0956189
+  },
+  {
+    "street": "Via Roma",
+    "number": "23",
+    "city": {
+      "name": "Brunate",
+      "istat": "013032"
+    },
+    "latitude": 45.8211212,
+    "longitude": 9.0946764
+  },
+  {
+    "street": "Via Roma",
+    "number": "17",
+    "city": {
+      "name": "Brunate",
+      "istat": "013032"
+    },
+    "latitude": 45.8202789,
+    "longitude": 9.0949968
+  },
+  {
+    "street": "Via Roma",
+    "number": "21",
+    "city": {
+      "name": "Brunate",
+      "istat": "013032"
+    },
+    "latitude": 45.8207223,
+    "longitude": 9.0949134
+  },
+  {
+    "street": "Via Roma",
+    "number": "16",
+    "city": {
+      "name": "Brunate",
+      "istat": "013032"
+    },
+    "latitude": 45.8210273,
+    "longitude": 9.0951223
+  },
+  {
+    "street": "Via Roma",
+    "number": "9",
+    "city": {
+      "name": "Brunate",
+      "istat": "013032"
+    },
+    "latitude": 45.8203896,
+    "longitude": 9.0955247
+  },
+  {
+    "street": "Via Roma",
+    "number": "11",
+    "city": {
+      "name": "Brunate",
+      "istat": "013032"
+    },
+    "latitude": 45.8205067,
+    "longitude": 9.0954355
+  },
+  {
+    "street": "Via mulattiera per San Maurizio",
+    "number": "20",
+    "city": {
+      "name": "Brunate",
+      "istat": "013032"
+    },
+    "latitude": 45.824285,
+    "longitude": 9.099907
+  },
+  {
+    "street": "Via Pissarottino",
+    "number": "15",
+    "city": {
+      "name": "Brunate",
+      "istat": "013032"
+    },
+    "latitude": 45.8245465,
+    "longitude": 9.0953965
+  },
+  {
+    "street": "Piazza Alberto Bonacossa",
+    "number": "2",
+    "city": {
+      "name": "Brunate",
+      "istat": "013032"
+    },
+    "latitude": 45.819686,
+    "longitude": 9.095559
+  },
+  {
+    "street": "Via Roma",
+    "number": "25",
+    "city": {
+      "name": "Brunate",
+      "istat": "013032"
+    },
+    "latitude": 45.8202814,
+    "longitude": 9.0956587
+  },
+  {
+    "street": "Via Varesello",
+    "number": "8",
+    "city": {
+      "name": "Brunate",
+      "istat": "013032"
+    },
+    "latitude": 45.8223285,
+    "longitude": 9.0974665
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "15",
+    "city": {
+      "name": "Brunate",
+      "istat": "013032"
+    },
+    "latitude": 45.8191728,
+    "longitude": 9.0968355
+  },
+  {
+    "street": "Via Carescione",
+    "number": "24",
+    "city": {
+      "name": "Brunate",
+      "istat": "013032"
+    },
+    "latitude": 45.8189518,
+    "longitude": 9.0914691
+  },
+  {
+    "street": "Via alle Colme",
+    "number": "35",
+    "city": {
+      "name": "Brunate",
+      "istat": "013032"
+    },
+    "latitude": 45.825462,
+    "longitude": 9.1124875
+  },
+  {
+    "street": "Via alle Colme",
+    "number": "28",
+    "city": {
+      "name": "Brunate",
+      "istat": "013032"
+    },
+    "latitude": 45.8276438,
+    "longitude": 9.113724
+  }
+]

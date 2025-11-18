@@ -1,0 +1,242 @@
+[
+  {
+    "street": "Via Progresso",
+    "number": "15",
+    "city": {
+      "name": "Perledo",
+      "istat": "097067"
+    },
+    "latitude": 46.0260883,
+    "longitude": 9.2905937
+  },
+  {
+    "street": "Viale Progresso",
+    "number": "4",
+    "city": {
+      "name": "Perledo",
+      "istat": "097067"
+    },
+    "latitude": 46.0259782,
+    "longitude": 9.2905773
+  },
+  {
+    "street": "Piazza della Stazione",
+    "number": "1",
+    "city": {
+      "name": "Perledo",
+      "istat": "097067"
+    },
+    "latitude": 46.0150162,
+    "longitude": 9.2861305
+  },
+  {
+    "street": "Contrada degli Archi",
+    "number": "4",
+    "city": {
+      "name": "Perledo",
+      "istat": "097067"
+    },
+    "latitude": 46.0126393,
+    "longitude": 9.2959645
+  },
+  {
+    "street": "Via della Pace",
+    "number": "10",
+    "city": {
+      "name": "Perledo",
+      "istat": "097067"
+    },
+    "latitude": 46.0131802,
+    "longitude": 9.2961217
+  },
+  {
+    "street": "Via per Gisazio",
+    "number": "10",
+    "city": {
+      "name": "Perledo",
+      "istat": "097067"
+    },
+    "latitude": 46.0251427,
+    "longitude": 9.2997874
+  },
+  {
+    "street": "Via per Esino",
+    "number": "1",
+    "city": {
+      "name": "Perledo",
+      "istat": "097067"
+    },
+    "latitude": 46.0149093,
+    "longitude": 9.2846405
+  },
+  {
+    "street": "Via per Esino",
+    "number": "2",
+    "city": {
+      "name": "Perledo",
+      "istat": "097067"
+    },
+    "latitude": 46.0144681,
+    "longitude": 9.2867234
+  },
+  {
+    "street": "Via la Perledina",
+    "number": "2",
+    "city": {
+      "name": "Perledo",
+      "istat": "097067"
+    },
+    "latitude": 46.0151791,
+    "longitude": 9.2868915
+  },
+  {
+    "street": "Via delle Corte",
+    "number": "3",
+    "city": {
+      "name": "Perledo",
+      "istat": "097067"
+    },
+    "latitude": 46.0257298,
+    "longitude": 9.2910832
+  },
+  {
+    "street": "Strada provinciale 72",
+    "number": "12",
+    "city": {
+      "name": "Perledo",
+      "istat": "097067"
+    },
+    "latitude": 46.0290167,
+    "longitude": 9.2887354
+  },
+  {
+    "street": "Strada provinciale 72",
+    "number": "10",
+    "city": {
+      "name": "Perledo",
+      "istat": "097067"
+    },
+    "latitude": 46.0290035,
+    "longitude": 9.288722
+  },
+  {
+    "street": "Strada provinciale 72",
+    "number": "14",
+    "city": {
+      "name": "Perledo",
+      "istat": "097067"
+    },
+    "latitude": 46.029245,
+    "longitude": 9.289046
+  },
+  {
+    "street": "Strada provinciale 72",
+    "number": "16",
+    "city": {
+      "name": "Perledo",
+      "istat": "097067"
+    },
+    "latitude": 46.0293956,
+    "longitude": 9.2891206
+  },
+  {
+    "street": "Strada provinciale 72",
+    "number": "20",
+    "city": {
+      "name": "Perledo",
+      "istat": "097067"
+    },
+    "latitude": 46.0294642,
+    "longitude": 9.2892755
+  },
+  {
+    "street": "Via alla Stazione",
+    "number": "11",
+    "city": {
+      "name": "Perledo",
+      "istat": "097067"
+    },
+    "latitude": 46.0156385,
+    "longitude": 9.2860944
+  },
+  {
+    "street": "Via al Castello",
+    "number": "3",
+    "city": {
+      "name": "Perledo",
+      "istat": "097067"
+    },
+    "latitude": 46.0110763,
+    "longitude": 9.2887717
+  },
+  {
+    "street": "Via per Esino",
+    "number": "49",
+    "city": {
+      "name": "Perledo",
+      "istat": "097067"
+    },
+    "latitude": 46.0159026,
+    "longitude": 9.291575
+  },
+  {
+    "street": "Via per Esino",
+    "number": "44",
+    "city": {
+      "name": "Perledo",
+      "istat": "097067"
+    },
+    "latitude": 46.0157693,
+    "longitude": 9.2916688
+  },
+  {
+    "street": "Via del Castellano",
+    "number": "1",
+    "city": {
+      "name": "Perledo",
+      "istat": "097067"
+    },
+    "latitude": 46.0110915,
+    "longitude": 9.2893072
+  },
+  {
+    "street": "Via del Castellano",
+    "number": "3",
+    "city": {
+      "name": "Perledo",
+      "istat": "097067"
+    },
+    "latitude": 46.0110284,
+    "longitude": 9.2892837
+  },
+  {
+    "street": "Via Bosco delle streghe",
+    "number": "5",
+    "city": {
+      "name": "Perledo",
+      "istat": "097067"
+    },
+    "latitude": 46.0155927,
+    "longitude": 9.2953259
+  },
+  {
+    "street": "Via del Cipresso",
+    "number": "9",
+    "city": {
+      "name": "Perledo",
+      "istat": "097067"
+    },
+    "latitude": 46.014667,
+    "longitude": 9.2908378
+  },
+  {
+    "street": "Via della Constanza",
+    "number": "2",
+    "city": {
+      "name": "Perledo",
+      "istat": "097067"
+    },
+    "latitude": 46.0111567,
+    "longitude": 9.2889404
+  }
+]

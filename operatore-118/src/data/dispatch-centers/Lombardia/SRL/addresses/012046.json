@@ -1,0 +1,772 @@
+[
+  {
+    "street": "Via Monte Cimone",
+    "number": "57",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7438762,
+    "longitude": 8.8782764
+  },
+  {
+    "street": "Via Brenta",
+    "number": "1",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7448093,
+    "longitude": 8.8778701
+  },
+  {
+    "street": "Via Monte Cimone",
+    "number": "61",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.743773,
+    "longitude": 8.878742
+  },
+  {
+    "street": "Via Cortina d'Ampezzo",
+    "number": "668",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7455994,
+    "longitude": 8.8769128
+  },
+  {
+    "street": "Via Brenta",
+    "number": "5",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7445002,
+    "longitude": 8.8777555
+  },
+  {
+    "street": "Via papa Celestino quarto",
+    "number": "4bis",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7549333,
+    "longitude": 8.8738396
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "3",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7460133,
+    "longitude": 8.8799159
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "1",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7535604,
+    "longitude": 8.866047
+  },
+  {
+    "street": "Via papa Celestino quarto",
+    "number": "20",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7551082,
+    "longitude": 8.8744696
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "69",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7562465,
+    "longitude": 8.8766669
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "58",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7535,
+    "longitude": 8.8768238
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "13",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7498403,
+    "longitude": 8.8786267
+  },
+  {
+    "street": "Via Roma",
+    "number": "40",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7550519,
+    "longitude": 8.8665056
+  },
+  {
+    "street": "Via Asiago",
+    "number": "2",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7439783,
+    "longitude": 8.8773193
+  },
+  {
+    "street": "Via Monte Cimone",
+    "number": "38",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7435494,
+    "longitude": 8.8793036
+  },
+  {
+    "street": "Via Monte Cimone",
+    "number": "40",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7435456,
+    "longitude": 8.8793212
+  },
+  {
+    "street": "Via Monte Cimone",
+    "number": "42",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7435068,
+    "longitude": 8.8795645
+  },
+  {
+    "street": "Via Monte Cimone",
+    "number": "44",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7434751,
+    "longitude": 8.8797549
+  },
+  {
+    "street": "Via Monte Cimone",
+    "number": "46",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7434846,
+    "longitude": 8.8799664
+  },
+  {
+    "street": "Via Monte Cimone",
+    "number": "63",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7436518,
+    "longitude": 8.8792496
+  },
+  {
+    "street": "Via Monte Cimone",
+    "number": "65",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7440526,
+    "longitude": 8.8796451
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "22",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7437871,
+    "longitude": 8.880091
+  },
+  {
+    "street": "Via Monte Cimone",
+    "number": "23",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7483131,
+    "longitude": 8.8729252
+  },
+  {
+    "street": "Via Cardinal Branda Castiglioni",
+    "number": "1",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7578503,
+    "longitude": 8.86468
+  },
+  {
+    "street": "Via Giuseppe Giusti",
+    "number": "13",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7502082,
+    "longitude": 8.8675983
+  },
+  {
+    "street": "Via Giuseppe Giusti",
+    "number": "10",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7508113,
+    "longitude": 8.8674304
+  },
+  {
+    "street": "Via Giuseppe Giusti",
+    "number": "12",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7505076,
+    "longitude": 8.8673911
+  },
+  {
+    "street": "Via Giuseppe Giusti",
+    "number": "14",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7502048,
+    "longitude": 8.8673663
+  },
+  {
+    "street": "Via Giuseppe Giusti",
+    "number": "16",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7499071,
+    "longitude": 8.8672957
+  },
+  {
+    "street": "Via Giuseppe Giusti",
+    "number": "18",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7496094,
+    "longitude": 8.8672112
+  },
+  {
+    "street": "Via Giuseppe Giusti",
+    "number": "20",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7493056,
+    "longitude": 8.8670584
+  },
+  {
+    "street": "Via Giuseppe Giusti",
+    "number": "22",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7490188,
+    "longitude": 8.8668658
+  },
+  {
+    "street": "Via Giuseppe Giusti",
+    "number": "24",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7487475,
+    "longitude": 8.8667879
+  },
+  {
+    "street": "Via Giuseppe Giusti",
+    "number": "6",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7514116,
+    "longitude": 8.8676295
+  },
+  {
+    "street": "Via Giuseppe Giusti",
+    "number": "8",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.751108,
+    "longitude": 8.8675309
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "24",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7458549,
+    "longitude": 8.8795751
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "2",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7600348,
+    "longitude": 8.864382
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "84",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.757982,
+    "longitude": 8.875532
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "112",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7605556,
+    "longitude": 8.8756915
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "68",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7571718,
+    "longitude": 8.8757908
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "125",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7617564,
+    "longitude": 8.8760756
+  },
+  {
+    "street": "Via Santa Caterina",
+    "number": "3",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7571899,
+    "longitude": 8.8611019
+  },
+  {
+    "street": "Via Cortina d'Ampezzo",
+    "number": "737",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7449654,
+    "longitude": 8.8769301
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "1 bis",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7449752,
+    "longitude": 8.8800879
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "22",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7517301,
+    "longitude": 8.875426
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "24",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7513885,
+    "longitude": 8.8754877
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "54",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7509731,
+    "longitude": 8.8776693
+  },
+  {
+    "street": "Via Monte Cimone",
+    "number": "38bis",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7436042,
+    "longitude": 8.8789581
+  },
+  {
+    "street": "Via Brenta",
+    "number": "7",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.744324,
+    "longitude": 8.8781161
+  },
+  {
+    "street": "Via Brenta",
+    "number": "9",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7441468,
+    "longitude": 8.8787844
+  },
+  {
+    "street": "Via Cortina d'Ampezzo",
+    "number": "216",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7494417,
+    "longitude": 8.8764857
+  },
+  {
+    "street": "Via Montello",
+    "number": "11",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7456107,
+    "longitude": 8.8717791
+  },
+  {
+    "street": "Via delle Madonne",
+    "number": "1",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7574527,
+    "longitude": 8.8607247
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "1",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7554929,
+    "longitude": 8.8663431
+  },
+  {
+    "street": "Via papa Celestino quarto",
+    "number": "1",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7553141,
+    "longitude": 8.8752432
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "17",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7519753,
+    "longitude": 8.8779952
+  },
+  {
+    "street": "Via papa Celestino quarto",
+    "number": "3",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.755373,
+    "longitude": 8.8755074
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "41",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7511879,
+    "longitude": 8.8767553
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "26",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.753794,
+    "longitude": 8.8694121
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "3 bis",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7465878,
+    "longitude": 8.8796997
+  },
+  {
+    "street": "Via Cardinal Branda Castiglioni",
+    "number": "8",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7560669,
+    "longitude": 8.8648571
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "45",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7511022,
+    "longitude": 8.8775352
+  },
+  {
+    "street": "Via Asiago",
+    "number": "7",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7425249,
+    "longitude": 8.8779972
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "13",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7535335,
+    "longitude": 8.8714897
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "8",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7534393,
+    "longitude": 8.8716685
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "11",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.753251,
+    "longitude": 8.8714685
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "9",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7530625,
+    "longitude": 8.8714485
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "7",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7528114,
+    "longitude": 8.8714054
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "i/2",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7524099,
+    "longitude": 8.8708089
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "i/3",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7525974,
+    "longitude": 8.8708823
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "i/4",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7527801,
+    "longitude": 8.8709408
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "3",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7526469,
+    "longitude": 8.8713409
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "1/5",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7529894,
+    "longitude": 8.8709897
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "176",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7530809,
+    "longitude": 8.8710239
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "1",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.7537008,
+    "longitude": 8.8701073
+  },
+  {
+    "street": "Via Salvo D'Acquisto",
+    "number": "23",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.755553,
+    "longitude": 8.8694644
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "1 Bis",
+    "city": {
+      "name": "Castiglione Olona",
+      "istat": "012046"
+    },
+    "latitude": 45.756674,
+    "longitude": 8.8693184
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "street": "Viale Europa",
+    "number": "13",
+    "city": {
+      "name": "Agra",
+      "istat": "012001"
+    },
+    "latitude": 46.035097,
+    "longitude": 8.7701233
+  },
+  {
+    "street": "Piazza Francesco Pasquinelli",
+    "number": "3",
+    "city": {
+      "name": "Agra",
+      "istat": "012001"
+    },
+    "latitude": 46.0339759,
+    "longitude": 8.7725859
+  },
+  {
+    "street": "Piazza Francesco Pasquinelli",
+    "number": "1",
+    "city": {
+      "name": "Agra",
+      "istat": "012001"
+    },
+    "latitude": 46.0338458,
+    "longitude": 8.7727394
+  },
+  {
+    "street": "Via delle Betulle",
+    "number": "15",
+    "city": {
+      "name": "Agra",
+      "istat": "012001"
+    },
+    "latitude": 46.0406313,
+    "longitude": 8.7691089
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "44C",
+    "city": {
+      "name": "Agra",
+      "istat": "012001"
+    },
+    "latitude": 46.0390399,
+    "longitude": 8.7670692
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "46",
+    "city": {
+      "name": "Agra",
+      "istat": "012001"
+    },
+    "latitude": 46.0391327,
+    "longitude": 8.7668684
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "28",
+    "city": {
+      "name": "Agra",
+      "istat": "012001"
+    },
+    "latitude": 46.0385063,
+    "longitude": 8.7687964
+  },
+  {
+    "street": "Via delle Betulle",
+    "number": "2",
+    "city": {
+      "name": "Agra",
+      "istat": "012001"
+    },
+    "latitude": 46.0397304,
+    "longitude": 8.7663272
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "50",
+    "city": {
+      "name": "Agra",
+      "istat": "012001"
+    },
+    "latitude": 46.0394067,
+    "longitude": 8.7664851
+  },
+  {
+    "street": "Viale Roma",
+    "number": "1",
+    "city": {
+      "name": "Agra",
+      "istat": "012001"
+    },
+    "latitude": 46.0335678,
+    "longitude": 8.7729315
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "27",
+    "city": {
+      "name": "Agra",
+      "istat": "012001"
+    },
+    "latitude": 46.0376791,
+    "longitude": 8.7687438
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "44A",
+    "city": {
+      "name": "Agra",
+      "istat": "012001"
+    },
+    "latitude": 46.038846,
+    "longitude": 8.7671962
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "40",
+    "city": {
+      "name": "Agra",
+      "istat": "012001"
+    },
+    "latitude": 46.0389932,
+    "longitude": 8.767521
+  },
+  {
+    "street": "Via delle Betulle",
+    "number": "4",
+    "city": {
+      "name": "Agra",
+      "istat": "012001"
+    },
+    "latitude": 46.0395991,
+    "longitude": 8.766716
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "39",
+    "city": {
+      "name": "Agra",
+      "istat": "012001"
+    },
+    "latitude": 46.0387207,
+    "longitude": 8.7664344
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "37",
+    "city": {
+      "name": "Agra",
+      "istat": "012001"
+    },
+    "latitude": 46.0384513,
+    "longitude": 8.7669033
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "33",
+    "city": {
+      "name": "Agra",
+      "istat": "012001"
+    },
+    "latitude": 46.0383257,
+    "longitude": 8.7676407
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "32",
+    "city": {
+      "name": "Agra",
+      "istat": "012001"
+    },
+    "latitude": 46.0387428,
+    "longitude": 8.7676307
+  }
+]

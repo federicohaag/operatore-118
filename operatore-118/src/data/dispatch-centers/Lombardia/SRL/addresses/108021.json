@@ -1,0 +1,2022 @@
+[
+  {
+    "street": "Via Monza Melzo",
+    "number": "13",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.578262,
+    "longitude": 9.328471
+  },
+  {
+    "street": "Via Massimo D'Azeglio",
+    "number": "5",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5765547,
+    "longitude": 9.3298282
+  },
+  {
+    "street": "Via Rancate",
+    "number": "17",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5766592,
+    "longitude": 9.3313418
+  },
+  {
+    "street": "Via Massimo D'Azeglio",
+    "number": "21",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5749111,
+    "longitude": 9.3297756
+  },
+  {
+    "street": "Via Rancate",
+    "number": "10",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.576739,
+    "longitude": 9.3300343
+  },
+  {
+    "street": "Via Massimo D'Azeglio",
+    "number": "12",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5762461,
+    "longitude": 9.3297653
+  },
+  {
+    "street": "Via Massimo D'Azeglio",
+    "number": "24",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5757018,
+    "longitude": 9.3294971
+  },
+  {
+    "street": "Via Massimo D'Azeglio",
+    "number": "32",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5737362,
+    "longitude": 9.3293489
+  },
+  {
+    "street": "Via Rancate",
+    "number": "8",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5766271,
+    "longitude": 9.3296528
+  },
+  {
+    "street": "Via Massimo D'Azeglio",
+    "number": "7",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5763082,
+    "longitude": 9.329874
+  },
+  {
+    "street": "Via Massimo D'Azeglio",
+    "number": "23",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5747195,
+    "longitude": 9.3297313
+  },
+  {
+    "street": "Via Rancate",
+    "number": "8c",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5766502,
+    "longitude": 9.3293323
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "267",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5995469,
+    "longitude": 9.3529633
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "97",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5901334,
+    "longitude": 9.3221069
+  },
+  {
+    "street": "Via Libertà",
+    "number": "104",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.591048,
+    "longitude": 9.3366916
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "49",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5911029,
+    "longitude": 9.334508
+  },
+  {
+    "street": "Piazza della Pace",
+    "number": "3",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.590265,
+    "longitude": 9.3368934
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "34",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.596545,
+    "longitude": 9.3248172
+  },
+  {
+    "street": "Via Monza",
+    "number": "27",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5900951,
+    "longitude": 9.3258405
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "103",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5905034,
+    "longitude": 9.3214723
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "101",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5904546,
+    "longitude": 9.3218488
+  },
+  {
+    "street": "Via Don Antonio Girotti",
+    "number": "50",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5845047,
+    "longitude": 9.3331887
+  },
+  {
+    "street": "Via Monza Melzo",
+    "number": "42",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5792604,
+    "longitude": 9.3272151
+  },
+  {
+    "street": "Via Cascina Giuseppina",
+    "number": "6",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5800233,
+    "longitude": 9.3255392
+  },
+  {
+    "street": "Via Nando Tintorri",
+    "number": "15/6H",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5970995,
+    "longitude": 9.3280459
+  },
+  {
+    "street": "Cascina Malcantone Brambilla",
+    "number": "19",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5802505,
+    "longitude": 9.3231802
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "43;45",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5958374,
+    "longitude": 9.3248197
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "49",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5959106,
+    "longitude": 9.3242967
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "191",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5960458,
+    "longitude": 9.3399024
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "164",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5961075,
+    "longitude": 9.342569
+  },
+  {
+    "street": "Via Remo Brambilla",
+    "number": "7",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5940294,
+    "longitude": 9.3274306
+  },
+  {
+    "street": "Via Monza",
+    "number": "2",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5900661,
+    "longitude": 9.3303823
+  },
+  {
+    "street": "Via Libertà",
+    "number": "66",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.59199,
+    "longitude": 9.3372127
+  },
+  {
+    "street": "Via Santa Marta",
+    "number": "18",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5901249,
+    "longitude": 9.3358231
+  },
+  {
+    "street": "Via Paterini",
+    "number": "5",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5912209,
+    "longitude": 9.3343053
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "52",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5896088,
+    "longitude": 9.3473619
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "54",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5893873,
+    "longitude": 9.3472879
+  },
+  {
+    "street": "Via Giorgio La Pira",
+    "number": "2",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.582276,
+    "longitude": 9.3305404
+  },
+  {
+    "street": "Via Federico Ozanam",
+    "number": "25/1",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5824536,
+    "longitude": 9.331661
+  },
+  {
+    "street": "Via Federico Ozanam",
+    "number": "25",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5828535,
+    "longitude": 9.3318514
+  },
+  {
+    "street": "Via Federico Ozanam",
+    "number": "23",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5831256,
+    "longitude": 9.3319204
+  },
+  {
+    "street": "Via Thomas Edison",
+    "number": "15",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.591046,
+    "longitude": 9.3395092
+  },
+  {
+    "street": "Via Oreno",
+    "number": "10",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.597015,
+    "longitude": 9.3402233
+  },
+  {
+    "street": "Piazza Falcone e Borsellino",
+    "number": "18",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5955806,
+    "longitude": 9.3304796
+  },
+  {
+    "street": "Piazza Falcone e Borsellino",
+    "number": "17",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5961508,
+    "longitude": 9.3302352
+  },
+  {
+    "street": "Via Don Lorenzo Milani",
+    "number": "4",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5957545,
+    "longitude": 9.328834
+  },
+  {
+    "street": "Via Don Lorenzo Milani",
+    "number": "2",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.595594,
+    "longitude": 9.328775
+  },
+  {
+    "street": "Via del Lavoro",
+    "number": "47",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.583319,
+    "longitude": 9.3274505
+  },
+  {
+    "street": "Via Libertà",
+    "number": "151",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5897282,
+    "longitude": 9.3364624
+  },
+  {
+    "street": "Via Monte San Michele ",
+    "number": "3",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5931619,
+    "longitude": 9.3322278
+  },
+  {
+    "street": "Via San Rainaldo",
+    "number": "32",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5936935,
+    "longitude": 9.3320656
+  },
+  {
+    "street": "Via San Rainaldo ",
+    "number": "53",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5935536,
+    "longitude": 9.3319934
+  },
+  {
+    "street": "Via San Rainaldo ",
+    "number": "55",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5936331,
+    "longitude": 9.3319231
+  },
+  {
+    "street": "Via San Rainaldo ",
+    "number": "59",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5936629,
+    "longitude": 9.3318967
+  },
+  {
+    "street": "Via San Rainaldo",
+    "number": "65",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.593766,
+    "longitude": 9.3317843
+  },
+  {
+    "street": "Via San Rainaldo",
+    "number": "38",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5939534,
+    "longitude": 9.3318019
+  },
+  {
+    "street": "Via San Rainaldo",
+    "number": "40",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5940931,
+    "longitude": 9.3316894
+  },
+  {
+    "street": "Via San Rainaldo",
+    "number": "68",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5940014,
+    "longitude": 9.3315531
+  },
+  {
+    "street": "Via San Rainaldo",
+    "number": "75",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.593997,
+    "longitude": 9.3315431
+  },
+  {
+    "street": "Via San Rainaldo",
+    "number": "46",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5942611,
+    "longitude": 9.331566
+  },
+  {
+    "street": "Via Monte Rosa ",
+    "number": "87",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5944315,
+    "longitude": 9.330968
+  },
+  {
+    "street": "Via Nando Tintorri",
+    "number": "15d",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5980832,
+    "longitude": 9.3275453
+  },
+  {
+    "street": "Via Nando Tintorri",
+    "number": "15/3D",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5977229,
+    "longitude": 9.3268587
+  },
+  {
+    "street": "Via Adda",
+    "number": "13",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5954652,
+    "longitude": 9.3456654
+  },
+  {
+    "street": "Via Adda",
+    "number": "11",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5956286,
+    "longitude": 9.3456192
+  },
+  {
+    "street": "Via Don Giovanni Minzoni",
+    "number": "33/2",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.595673,
+    "longitude": 9.3469633
+  },
+  {
+    "street": "Via Adda",
+    "number": "17;15",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5955114,
+    "longitude": 9.3457295
+  },
+  {
+    "street": "Via Adda",
+    "number": "5",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5956726,
+    "longitude": 9.3439384
+  },
+  {
+    "street": "Via Adda",
+    "number": "19",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5950745,
+    "longitude": 9.3460644
+  },
+  {
+    "street": "Via Don Giovanni Minzoni",
+    "number": "37/1",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5961034,
+    "longitude": 9.3473084
+  },
+  {
+    "street": "Via Don Giovanni Minzoni",
+    "number": "33/1",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.595778,
+    "longitude": 9.3470422
+  },
+  {
+    "street": "Via Adda",
+    "number": "22",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5950342,
+    "longitude": 9.3444365
+  },
+  {
+    "street": "Via Adda",
+    "number": "44",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5945582,
+    "longitude": 9.3465544
+  },
+  {
+    "street": "Via Don Giovanni Minzoni",
+    "number": "37/2",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.596264,
+    "longitude": 9.3467853
+  },
+  {
+    "street": "Via Adda",
+    "number": "6",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5953001,
+    "longitude": 9.3431819
+  },
+  {
+    "street": "Via Adda",
+    "number": "3",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5955947,
+    "longitude": 9.3439941
+  },
+  {
+    "street": "Via Adda",
+    "number": "1",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5955816,
+    "longitude": 9.3437168
+  },
+  {
+    "street": "Via Adda",
+    "number": "16",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5951302,
+    "longitude": 9.34417
+  },
+  {
+    "street": "Via Adda",
+    "number": "4",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5953154,
+    "longitude": 9.3431272
+  },
+  {
+    "street": "Via Adda",
+    "number": "12",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5952068,
+    "longitude": 9.3435604
+  },
+  {
+    "street": "Via Adda",
+    "number": "8",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.595259,
+    "longitude": 9.34334
+  },
+  {
+    "street": "Via Adda",
+    "number": "36",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5947236,
+    "longitude": 9.3458258
+  },
+  {
+    "street": "Via Adda",
+    "number": "7",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5958365,
+    "longitude": 9.3443069
+  },
+  {
+    "street": "Via Adda",
+    "number": "18",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5951259,
+    "longitude": 9.3441898
+  },
+  {
+    "street": "Via Adda",
+    "number": "24",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5949718,
+    "longitude": 9.3446446
+  },
+  {
+    "street": "Via Adda",
+    "number": "14",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5951881,
+    "longitude": 9.3436793
+  },
+  {
+    "street": "Via Adda",
+    "number": "26",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5949702,
+    "longitude": 9.3446683
+  },
+  {
+    "street": "Via Adda",
+    "number": "32",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5947475,
+    "longitude": 9.3450978
+  },
+  {
+    "street": "Via Adda",
+    "number": "38",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.594715,
+    "longitude": 9.3458777
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "11",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5946506,
+    "longitude": 9.329447
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "17",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5948486,
+    "longitude": 9.3290231
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "15",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5948186,
+    "longitude": 9.3293188
+  },
+  {
+    "street": "Via Walter Tobagi",
+    "number": "10d",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5801977,
+    "longitude": 9.332791
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "46",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5914843,
+    "longitude": 9.3292839
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "48",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5913119,
+    "longitude": 9.3291859
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "22",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5924758,
+    "longitude": 9.3298942
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "44a",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.591848,
+    "longitude": 9.3295007
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "40",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5921233,
+    "longitude": 9.329643
+  },
+  {
+    "street": "Via Oriana Fallaci",
+    "number": "7",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5905124,
+    "longitude": 9.3303642
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "31",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5922697,
+    "longitude": 9.3298855
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "42",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5919705,
+    "longitude": 9.3295762
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "35",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5919403,
+    "longitude": 9.3297079
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "75",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5929816,
+    "longitude": 9.3293095
+  },
+  {
+    "street": "Via Oriana Fallaci",
+    "number": "3",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5906785,
+    "longitude": 9.3295197
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "44",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5928208,
+    "longitude": 9.3303213
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "18",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5926369,
+    "longitude": 9.3299897
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "50",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5912069,
+    "longitude": 9.3291245
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "79",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5930245,
+    "longitude": 9.3291602
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "44",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5916994,
+    "longitude": 9.3294254
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "23",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5927376,
+    "longitude": 9.3302357
+  },
+  {
+    "street": "Via Oriana Fallaci",
+    "number": "5",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5905946,
+    "longitude": 9.3299465
+  },
+  {
+    "street": "Via Oriana Fallaci",
+    "number": "9",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5904274,
+    "longitude": 9.3307967
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "20",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5925692,
+    "longitude": 9.3299495
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "38",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.592137,
+    "longitude": 9.3296523
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "33",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5920751,
+    "longitude": 9.3297762
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "24",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5923859,
+    "longitude": 9.3298409
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "32",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.592518,
+    "longitude": 9.3308633
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "48",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5929462,
+    "longitude": 9.32986
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "37",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5916759,
+    "longitude": 9.3296619
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "25",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.592586,
+    "longitude": 9.3301667
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "40",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5926551,
+    "longitude": 9.3306133
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "81",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5931187,
+    "longitude": 9.328755
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "53",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5924591,
+    "longitude": 9.3307724
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "60",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5931012,
+    "longitude": 9.3290949
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "36",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5925663,
+    "longitude": 9.3307753
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "30",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.592421,
+    "longitude": 9.3310403
+  },
+  {
+    "street": "Via Monte San Michele",
+    "number": "32",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5923772,
+    "longitude": 9.331157
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "16",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5927557,
+    "longitude": 9.3300469
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "47",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5923794,
+    "longitude": 9.3309104
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "61",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5926213,
+    "longitude": 9.3304911
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "50",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5929723,
+    "longitude": 9.3297798
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "69",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5928626,
+    "longitude": 9.3299052
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "59",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5925401,
+    "longitude": 9.3306318
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "66",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5932178,
+    "longitude": 9.3286566
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "52",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.593012,
+    "longitude": 9.3295912
+  },
+  {
+    "street": "Via Monte Santo",
+    "number": "1",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5933333,
+    "longitude": 9.3283127
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "58",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5930975,
+    "longitude": 9.3291872
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "83",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5931832,
+    "longitude": 9.328294
+  },
+  {
+    "street": "Liberta'",
+    "number": "42",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5927691,
+    "longitude": 9.3375357
+  },
+  {
+    "street": "Via del Lavoro",
+    "number": "41",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.585483,
+    "longitude": 9.3277881
+  },
+  {
+    "street": "Via del Lavoro",
+    "number": "18",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.585004,
+    "longitude": 9.3274106
+  },
+  {
+    "street": "Via del Lavoro",
+    "number": "31",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.585813,
+    "longitude": 9.3278465
+  },
+  {
+    "street": "Via del Lavoro",
+    "number": "37",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5856002,
+    "longitude": 9.327807
+  },
+  {
+    "street": "Via del Lavoro",
+    "number": "26",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5845525,
+    "longitude": 9.3272844
+  },
+  {
+    "street": "Via del Commercio",
+    "number": "1",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5841395,
+    "longitude": 9.3251043
+  },
+  {
+    "street": "Via del Commercio",
+    "number": "11",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.583922,
+    "longitude": 9.3267472
+  },
+  {
+    "street": "Via del Lavoro",
+    "number": "17",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5864361,
+    "longitude": 9.3274564
+  },
+  {
+    "street": "Via del Lavoro",
+    "number": "15",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5864528,
+    "longitude": 9.327382
+  },
+  {
+    "street": "Via Giacomo Brodolini",
+    "number": "26",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5850383,
+    "longitude": 9.3251544
+  },
+  {
+    "street": "Via Giacomo Brodolini",
+    "number": "29",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5856496,
+    "longitude": 9.3256674
+  },
+  {
+    "street": "Via del Lavoro",
+    "number": "19",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5863405,
+    "longitude": 9.3277036
+  },
+  {
+    "street": "Via Giacomo Brodolini",
+    "number": "25",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5858216,
+    "longitude": 9.3256788
+  },
+  {
+    "street": "Via del Lavoro",
+    "number": "21",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5863289,
+    "longitude": 9.327879
+  },
+  {
+    "street": "Via del Lavoro",
+    "number": "24",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5846213,
+    "longitude": 9.3273025
+  },
+  {
+    "street": "Via Giacomo Brodolini",
+    "number": "22",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5857703,
+    "longitude": 9.3252808
+  },
+  {
+    "street": "Via Giacomo Brodolini",
+    "number": "35",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5851658,
+    "longitude": 9.3254794
+  },
+  {
+    "street": "Via del Lavoro",
+    "number": "28",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5840688,
+    "longitude": 9.3271866
+  },
+  {
+    "street": "Via Giacomo Brodolini",
+    "number": "32",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5833703,
+    "longitude": 9.3245744
+  },
+  {
+    "street": "Via del Commercio",
+    "number": "9",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5839899,
+    "longitude": 9.326389
+  },
+  {
+    "street": "Via del Commercio",
+    "number": "3",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.584069,
+    "longitude": 9.3254809
+  },
+  {
+    "street": "Via Giacomo Brodolini",
+    "number": "16",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5860452,
+    "longitude": 9.3254301
+  },
+  {
+    "street": "Via Giacomo Brodolini",
+    "number": "14",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5862145,
+    "longitude": 9.3255102
+  },
+  {
+    "street": "Via Giacomo Brodolini",
+    "number": "18",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5860294,
+    "longitude": 9.3254213
+  },
+  {
+    "street": "Via Giacomo Brodolini",
+    "number": "31",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5854761,
+    "longitude": 9.3255682
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "177",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5952958,
+    "longitude": 9.3388977
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "179",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5953106,
+    "longitude": 9.3389453
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "181",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5953205,
+    "longitude": 9.339003
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "175",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5952785,
+    "longitude": 9.3388463
+  },
+  {
+    "street": "Via Europa",
+    "number": "15",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.580069,
+    "longitude": 9.3337878
+  },
+  {
+    "street": "Via Europa",
+    "number": "17",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5799834,
+    "longitude": 9.3337595
+  },
+  {
+    "street": "Via Europa",
+    "number": "23",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5797708,
+    "longitude": 9.333689
+  },
+  {
+    "street": "Via Europa",
+    "number": "19",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5798761,
+    "longitude": 9.3337239
+  },
+  {
+    "street": "Via Europa",
+    "number": "25",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.579722,
+    "longitude": 9.333673
+  },
+  {
+    "street": "Via Dottor Emilio Zincone",
+    "number": "22",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5910996,
+    "longitude": 9.3283907
+  },
+  {
+    "street": "Via Elio Vittorini",
+    "number": "9",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5845404,
+    "longitude": 9.3216611
+  },
+  {
+    "street": "Via Elio Vittorini",
+    "number": "10",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5854893,
+    "longitude": 9.3218513
+  },
+  {
+    "street": "Via Remo Brambilla",
+    "number": "23",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5938228,
+    "longitude": 9.3274004
+  },
+  {
+    "street": "Via Libertà",
+    "number": "88",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5914707,
+    "longitude": 9.3370787
+  },
+  {
+    "street": "Via Giorgio La Pira",
+    "number": "16",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5836925,
+    "longitude": 9.3291906
+  },
+  {
+    "street": "Viale Monza",
+    "number": "9",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5959503,
+    "longitude": 9.3108078
+  },
+  {
+    "street": "Via del Commercio",
+    "number": "7/9",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5844122,
+    "longitude": 9.3265033
+  },
+  {
+    "street": "Via Giacomo Brodolini",
+    "number": "22/26",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5854473,
+    "longitude": 9.324162
+  },
+  {
+    "street": "Via del Lavoro",
+    "number": "7",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5856655,
+    "longitude": 9.3268024
+  },
+  {
+    "street": "Via dell'Artigianato",
+    "number": "2",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5870545,
+    "longitude": 9.3253815
+  },
+  {
+    "street": "Via Monza",
+    "number": "1",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5896252,
+    "longitude": 9.3280291
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "73",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5931583,
+    "longitude": 9.3339758
+  },
+  {
+    "street": "Via Libertà",
+    "number": "1",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5948322,
+    "longitude": 9.3391981
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "6",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5932107,
+    "longitude": 9.3327735
+  },
+  {
+    "street": "Via Sergio De Giorgi",
+    "number": "56",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5887151,
+    "longitude": 9.333798
+  },
+  {
+    "street": "Via Nando Tintorri",
+    "number": "15",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5976548,
+    "longitude": 9.3278069
+  },
+  {
+    "street": "Strada Provinciale Milano Imbersago",
+    "number": "126",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5795119,
+    "longitude": 9.3242144
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "31/33",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5924475,
+    "longitude": 9.340382
+  },
+  {
+    "street": "Piazza della Pace",
+    "number": "2",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.59043,
+    "longitude": 9.3374006
+  },
+  {
+    "street": "Via Lazzaretto",
+    "number": "48",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5827019,
+    "longitude": 9.3355781
+  },
+  {
+    "street": "Via Federico Ozanam",
+    "number": "12",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5853686,
+    "longitude": 9.3316411
+  },
+  {
+    "street": "Via Bergamina",
+    "number": "64",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.6091836,
+    "longitude": 9.3296599
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "28",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5966078,
+    "longitude": 9.3261731
+  },
+  {
+    "street": "Via Don Giovanni Minzoni",
+    "number": "42",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5969233,
+    "longitude": 9.3464084
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "173",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5953129,
+    "longitude": 9.338572
+  },
+  {
+    "street": "Via Don Giovanni Minzoni",
+    "number": "41",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5968002,
+    "longitude": 9.3465531
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "3",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5943126,
+    "longitude": 9.3354158
+  },
+  {
+    "street": "Via del Lavoro",
+    "number": "27",
+    "city": {
+      "name": "Concorezzo",
+      "istat": "108021"
+    },
+    "latitude": 45.5859305,
+    "longitude": 9.3281725
+  }
+]

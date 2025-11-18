@@ -1,0 +1,152 @@
+[
+  {
+    "street": "Via Milano",
+    "number": "10/12",
+    "city": {
+      "name": "Oggiona con Santo Stefano",
+      "istat": "012107"
+    },
+    "latitude": 45.6924323,
+    "longitude": 8.8207642
+  },
+  {
+    "street": "Via Bonacalza",
+    "number": "146",
+    "city": {
+      "name": "Oggiona con Santo Stefano",
+      "istat": "012107"
+    },
+    "latitude": 45.7007262,
+    "longitude": 8.8227647
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "10",
+    "city": {
+      "name": "Oggiona con Santo Stefano",
+      "istat": "012107"
+    },
+    "latitude": 45.6922508,
+    "longitude": 8.8174613
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "47",
+    "city": {
+      "name": "Oggiona con Santo Stefano",
+      "istat": "012107"
+    },
+    "latitude": 45.7083784,
+    "longitude": 8.8206208
+  },
+  {
+    "street": "Via Bonera",
+    "number": "10",
+    "city": {
+      "name": "Oggiona con Santo Stefano",
+      "istat": "012107"
+    },
+    "latitude": 45.7060375,
+    "longitude": 8.8216882
+  },
+  {
+    "street": "Via Bonacalza",
+    "number": "41",
+    "city": {
+      "name": "Oggiona con Santo Stefano",
+      "istat": "012107"
+    },
+    "latitude": 45.6965691,
+    "longitude": 8.8179826
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "1",
+    "city": {
+      "name": "Oggiona con Santo Stefano",
+      "istat": "012107"
+    },
+    "latitude": 45.6947373,
+    "longitude": 8.8154018
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "6",
+    "city": {
+      "name": "Oggiona con Santo Stefano",
+      "istat": "012107"
+    },
+    "latitude": 45.694312,
+    "longitude": 8.8176602
+  },
+  {
+    "street": "Via Milano",
+    "number": "10",
+    "city": {
+      "name": "Oggiona con Santo Stefano",
+      "istat": "012107"
+    },
+    "latitude": 45.6926754,
+    "longitude": 8.8203067
+  },
+  {
+    "street": "Via Campiglio",
+    "number": "1",
+    "city": {
+      "name": "Oggiona con Santo Stefano",
+      "istat": "012107"
+    },
+    "latitude": 45.7021676,
+    "longitude": 8.81611
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "25",
+    "city": {
+      "name": "Oggiona con Santo Stefano",
+      "istat": "012107"
+    },
+    "latitude": 45.6988663,
+    "longitude": 8.8099254
+  },
+  {
+    "street": "Via per Solbiate Arno",
+    "number": "5a",
+    "city": {
+      "name": "Oggiona con Santo Stefano",
+      "istat": "012107"
+    },
+    "latitude": 45.7017129,
+    "longitude": 8.8125498
+  },
+  {
+    "street": "Via Campiglio",
+    "number": "42",
+    "city": {
+      "name": "Oggiona con Santo Stefano",
+      "istat": "012107"
+    },
+    "latitude": 45.7013366,
+    "longitude": 8.8149171
+  },
+  {
+    "street": "Via per Solbiate Arno",
+    "number": "71",
+    "city": {
+      "name": "Oggiona con Santo Stefano",
+      "istat": "012107"
+    },
+    "latitude": 45.7086985,
+    "longitude": 8.8116963
+  },
+  {
+    "street": "Piazza Risorgimento",
+    "number": "1",
+    "city": {
+      "name": "Oggiona con Santo Stefano",
+      "istat": "012107"
+    },
+    "latitude": 45.7021061,
+    "longitude": 8.8167416
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "street": "Strada provinciale 41 Vallassina",
+    "number": "27",
+    "city": {
+      "name": "Asso",
+      "istat": "013013"
+    },
+    "latitude": 45.8577231,
+    "longitude": 9.2698364
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "17",
+    "city": {
+      "name": "Asso",
+      "istat": "013013"
+    },
+    "latitude": 45.8621774,
+    "longitude": 9.2764799
+  },
+  {
+    "street": "Via Giuseppe Merzario",
+    "number": "11",
+    "city": {
+      "name": "Asso",
+      "istat": "013013"
+    },
+    "latitude": 45.8639483,
+    "longitude": 9.2683893
+  },
+  {
+    "street": "Via Romagnoli",
+    "number": "44/C",
+    "city": {
+      "name": "Asso",
+      "istat": "013013"
+    },
+    "latitude": 45.8607024,
+    "longitude": 9.2691981
+  },
+  {
+    "street": "Via Romagnoli",
+    "number": "22",
+    "city": {
+      "name": "Asso",
+      "istat": "013013"
+    },
+    "latitude": 45.8615413,
+    "longitude": 9.2689423
+  },
+  {
+    "street": "Piazza Mazzini",
+    "number": "7",
+    "city": {
+      "name": "Asso",
+      "istat": "013013"
+    },
+    "latitude": 45.8634939,
+    "longitude": 9.269383
+  },
+  {
+    "street": "Piazza Ratti",
+    "number": "5",
+    "city": {
+      "name": "Asso",
+      "istat": "013013"
+    },
+    "latitude": 45.8639156,
+    "longitude": 9.2700216
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "40",
+    "city": {
+      "name": "Asso",
+      "istat": "013013"
+    },
+    "latitude": 45.8627273,
+    "longitude": 9.269178
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "34",
+    "city": {
+      "name": "Asso",
+      "istat": "013013"
+    },
+    "latitude": 45.8629273,
+    "longitude": 9.2690864
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "12",
+    "city": {
+      "name": "Asso",
+      "istat": "013013"
+    },
+    "latitude": 45.8635242,
+    "longitude": 9.2689768
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "37",
+    "city": {
+      "name": "Asso",
+      "istat": "013013"
+    },
+    "latitude": 45.8622056,
+    "longitude": 9.2696768
+  },
+  {
+    "street": "Via Romagnoli",
+    "number": "44/B",
+    "city": {
+      "name": "Asso",
+      "istat": "013013"
+    },
+    "latitude": 45.8607454,
+    "longitude": 9.2691981
+  },
+  {
+    "street": "Piazza Mazzini",
+    "number": "5",
+    "city": {
+      "name": "Asso",
+      "istat": "013013"
+    },
+    "latitude": 45.8637381,
+    "longitude": 9.2695245
+  },
+  {
+    "street": "Via Romagnoli",
+    "number": "4",
+    "city": {
+      "name": "Asso",
+      "istat": "013013"
+    },
+    "latitude": 45.862291,
+    "longitude": 9.2684504
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "54",
+    "city": {
+      "name": "Asso",
+      "istat": "013013"
+    },
+    "latitude": 45.8621848,
+    "longitude": 9.269553
+  },
+  {
+    "street": "Via Romagnoli",
+    "number": "9",
+    "city": {
+      "name": "Asso",
+      "istat": "013013"
+    },
+    "latitude": 45.8620011,
+    "longitude": 9.268913
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "45",
+    "city": {
+      "name": "Asso",
+      "istat": "013013"
+    },
+    "latitude": 45.8614349,
+    "longitude": 9.269727
+  },
+  {
+    "street": "Via Antonio Brusa",
+    "number": "4",
+    "city": {
+      "name": "Asso",
+      "istat": "013013"
+    },
+    "latitude": 45.8595685,
+    "longitude": 9.2690878
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "66",
+    "city": {
+      "name": "Asso",
+      "istat": "013013"
+    },
+    "latitude": 45.8615316,
+    "longitude": 9.2694798
+  },
+  {
+    "street": "Via Antonio Brusa",
+    "number": "27",
+    "city": {
+      "name": "Asso",
+      "istat": "013013"
+    },
+    "latitude": 45.8576895,
+    "longitude": 9.2699553
+  },
+  {
+    "street": "Via Cranno",
+    "number": "116",
+    "city": {
+      "name": "Asso",
+      "istat": "013013"
+    },
+    "latitude": 45.857272,
+    "longitude": 9.2720104
+  },
+  {
+    "street": "Via vecchia per Bellagio",
+    "number": "12",
+    "city": {
+      "name": "Asso",
+      "istat": "013013"
+    },
+    "latitude": 45.8645375,
+    "longitude": 9.267512
+  },
+  {
+    "street": "Via Circonvallazione",
+    "number": "11",
+    "city": {
+      "name": "Asso",
+      "istat": "013013"
+    },
+    "latitude": 45.864065,
+    "longitude": 9.2738025
+  },
+  {
+    "street": "Via Circonvallazione",
+    "number": "14",
+    "city": {
+      "name": "Asso",
+      "istat": "013013"
+    },
+    "latitude": 45.8635718,
+    "longitude": 9.2759248
+  },
+  {
+    "street": "Via dei Praeli",
+    "number": "8",
+    "city": {
+      "name": "Asso",
+      "istat": "013013"
+    },
+    "latitude": 45.862434,
+    "longitude": 9.2746025
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "street": "Via Prandoni",
+    "number": "1",
+    "city": {
+      "name": "Mercallo",
+      "istat": "012101"
+    },
+    "latitude": 45.7499738,
+    "longitude": 8.6696469
+  },
+  {
+    "street": "Piazza Carlo Balconi",
+    "number": "67",
+    "city": {
+      "name": "Mercallo",
+      "istat": "012101"
+    },
+    "latitude": 45.7496852,
+    "longitude": 8.6696275
+  },
+  {
+    "street": "Via Prandoni",
+    "number": "25",
+    "city": {
+      "name": "Mercallo",
+      "istat": "012101"
+    },
+    "latitude": 45.7508367,
+    "longitude": 8.6698678
+  },
+  {
+    "street": "Via Torino",
+    "number": "667",
+    "city": {
+      "name": "Mercallo",
+      "istat": "012101"
+    },
+    "latitude": 45.742196,
+    "longitude": 8.6767095
+  },
+  {
+    "street": "Via Bagaglio",
+    "number": "171",
+    "city": {
+      "name": "Mercallo",
+      "istat": "012101"
+    },
+    "latitude": 45.7483164,
+    "longitude": 8.6705505
+  },
+  {
+    "street": "Via Carlo Bellora",
+    "number": "63",
+    "city": {
+      "name": "Mercallo",
+      "istat": "012101"
+    },
+    "latitude": 45.7510678,
+    "longitude": 8.6700807
+  },
+  {
+    "street": "Via Milano",
+    "number": "492",
+    "city": {
+      "name": "Mercallo",
+      "istat": "012101"
+    },
+    "latitude": 45.7425981,
+    "longitude": 8.6744383
+  },
+  {
+    "street": "Via Torino",
+    "number": "765",
+    "city": {
+      "name": "Mercallo",
+      "istat": "012101"
+    },
+    "latitude": 45.7414901,
+    "longitude": 8.6777314
+  },
+  {
+    "street": "Via Torino",
+    "number": "620",
+    "city": {
+      "name": "Mercallo",
+      "istat": "012101"
+    },
+    "latitude": 45.7421666,
+    "longitude": 8.6755702
+  },
+  {
+    "street": "Via al Lago",
+    "number": "260",
+    "city": {
+      "name": "Mercallo",
+      "istat": "012101"
+    },
+    "latitude": 45.751482,
+    "longitude": 8.6784301
+  },
+  {
+    "street": "Via Carlo Bellora",
+    "number": "51",
+    "city": {
+      "name": "Mercallo",
+      "istat": "012101"
+    },
+    "latitude": 45.7510607,
+    "longitude": 8.6695772
+  },
+  {
+    "street": "Via Milano",
+    "number": "316/10",
+    "city": {
+      "name": "Mercallo",
+      "istat": "012101"
+    },
+    "latitude": 45.7434931,
+    "longitude": 8.6725866
+  },
+  {
+    "street": "Via Fornace",
+    "number": "1156",
+    "city": {
+      "name": "Mercallo",
+      "istat": "012101"
+    },
+    "latitude": 45.755466,
+    "longitude": 8.6789187
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "1",
+    "city": {
+      "name": "Mercallo",
+      "istat": "012101"
+    },
+    "latitude": 45.7514647,
+    "longitude": 8.6696271
+  },
+  {
+    "street": "Via della Giusta",
+    "number": "4",
+    "city": {
+      "name": "Mercallo",
+      "istat": "012101"
+    },
+    "latitude": 45.7484312,
+    "longitude": 8.6675027
+  }
+]

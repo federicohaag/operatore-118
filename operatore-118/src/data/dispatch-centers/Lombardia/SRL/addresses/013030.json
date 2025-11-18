@@ -1,0 +1,12 @@
+[
+  {
+    "street": "Via Regina",
+    "number": "66",
+    "city": {
+      "name": "Brienno",
+      "istat": "013030"
+    },
+    "latitude": 45.9118091,
+    "longitude": 9.1314367
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "street": "Via Caregò",
+    "number": "2",
+    "city": {
+      "name": "Crosio della Valle",
+      "istat": "012057"
+    },
+    "latitude": 45.7616401,
+    "longitude": 8.7658086
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "15",
+    "city": {
+      "name": "Crosio della Valle",
+      "istat": "012057"
+    },
+    "latitude": 45.7624073,
+    "longitude": 8.7670532
+  },
+  {
+    "street": "Via IV Novembre",
+    "number": "24",
+    "city": {
+      "name": "Crosio della Valle",
+      "istat": "012057"
+    },
+    "latitude": 45.7595063,
+    "longitude": 8.7713961
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "30",
+    "city": {
+      "name": "Crosio della Valle",
+      "istat": "012057"
+    },
+    "latitude": 45.7590099,
+    "longitude": 8.7720769
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "12",
+    "city": {
+      "name": "Crosio della Valle",
+      "istat": "012057"
+    },
+    "latitude": 45.7624158,
+    "longitude": 8.7664232
+  },
+  {
+    "street": "Via Caregò",
+    "number": "21",
+    "city": {
+      "name": "Crosio della Valle",
+      "istat": "012057"
+    },
+    "latitude": 45.76418,
+    "longitude": 8.7611856
+  }
+]

@@ -1,0 +1,732 @@
+[
+  {
+    "street": "Via Ing. Antonio Leoni",
+    "number": "21",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.647279,
+    "longitude": 9.4061664
+  },
+  {
+    "street": "Piazza della Repubblica",
+    "number": "17",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6471098,
+    "longitude": 9.4078803
+  },
+  {
+    "street": "Piazza della Repubblica",
+    "number": "18",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6470888,
+    "longitude": 9.407782
+  },
+  {
+    "street": "Piazza della Repubblica",
+    "number": "11",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6474749,
+    "longitude": 9.4077839
+  },
+  {
+    "street": "Piazza della Repubblica",
+    "number": "4",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6473359,
+    "longitude": 9.4074724
+  },
+  {
+    "street": "Via Franzolino Prinetti",
+    "number": "56",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6496284,
+    "longitude": 9.4075256
+  },
+  {
+    "street": "Via Roma",
+    "number": "14",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.654381,
+    "longitude": 9.4117057
+  },
+  {
+    "street": "Via Roma",
+    "number": "5a",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6545138,
+    "longitude": 9.4115066
+  },
+  {
+    "street": "Via Roma",
+    "number": "5",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6544448,
+    "longitude": 9.4114204
+  },
+  {
+    "street": "Via Franzolino Prinetti",
+    "number": "18",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6472851,
+    "longitude": 9.4059696
+  },
+  {
+    "street": "Via Franzolino Prinetti",
+    "number": "4",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6466924,
+    "longitude": 9.4055718
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "10",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6447875,
+    "longitude": 9.4035536
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "18/20",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6482601,
+    "longitude": 9.40804
+  },
+  {
+    "street": "Via Brianza",
+    "number": "14",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6511865,
+    "longitude": 9.3996647
+  },
+  {
+    "street": "Via Brianza",
+    "number": "16",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6512296,
+    "longitude": 9.3997613
+  },
+  {
+    "street": "Via Brianza",
+    "number": "9",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6513862,
+    "longitude": 9.3997304
+  },
+  {
+    "street": "Via Franzolino Prinetti",
+    "number": "40",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6490871,
+    "longitude": 9.4070956
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "59",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6525,
+    "longitude": 9.4090042
+  },
+  {
+    "street": "Via Giovanna Biella Celotti",
+    "number": "15",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6496667,
+    "longitude": 9.407701
+  },
+  {
+    "street": "Via Roma",
+    "number": "3",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6541939,
+    "longitude": 9.4110535
+  },
+  {
+    "street": "Via Ing. Antonio Leoni",
+    "number": "13",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6472811,
+    "longitude": 9.4064786
+  },
+  {
+    "street": "Via Ing. Antonio Leoni",
+    "number": "3a",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.647247,
+    "longitude": 9.4067807
+  },
+  {
+    "street": "Via Ing. Antonio Leoni",
+    "number": "14",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6472836,
+    "longitude": 9.4068991
+  },
+  {
+    "street": "Via Ing. Antonio Leoni",
+    "number": "5",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6472549,
+    "longitude": 9.4067202
+  },
+  {
+    "street": "Via Ing. Antonio Leoni",
+    "number": "9",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6472661,
+    "longitude": 9.4066204
+  },
+  {
+    "street": "Via Ing. Antonio Leoni",
+    "number": "11",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6472727,
+    "longitude": 9.4065579
+  },
+  {
+    "street": "Via Ing. Antonio Leoni",
+    "number": "15",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6472894,
+    "longitude": 9.4063999
+  },
+  {
+    "street": "Via Ing. Antonio Leoni",
+    "number": "19",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6473,
+    "longitude": 9.4062862
+  },
+  {
+    "street": "Via Franzolino Prinetti",
+    "number": "26",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.648661,
+    "longitude": 9.4068221
+  },
+  {
+    "street": "Via Franzolino Prinetti",
+    "number": "28",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6487204,
+    "longitude": 9.4068611
+  },
+  {
+    "street": "Via Franzolino Prinetti",
+    "number": "36",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6489056,
+    "longitude": 9.4069819
+  },
+  {
+    "street": "Via Franzolino Prinetti",
+    "number": "32",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6487923,
+    "longitude": 9.4069088
+  },
+  {
+    "street": "Via Franzolino Prinetti",
+    "number": "34",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6488228,
+    "longitude": 9.4069285
+  },
+  {
+    "street": "Via Franzolino Prinetti",
+    "number": "35",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6491221,
+    "longitude": 9.4069484
+  },
+  {
+    "street": "Via Franzolino Prinetti",
+    "number": "33",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6490396,
+    "longitude": 9.4068852
+  },
+  {
+    "street": "Via Franzolino Prinetti",
+    "number": "31",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6490392,
+    "longitude": 9.4068891
+  },
+  {
+    "street": "Via Roma",
+    "number": "50",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6577769,
+    "longitude": 9.4149624
+  },
+  {
+    "street": "Viale dell'Artigianato",
+    "number": "20",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6409377,
+    "longitude": 9.4032486
+  },
+  {
+    "street": "Via Giovanna Biella Celotti",
+    "number": "1",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6497591,
+    "longitude": 9.4075448
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "51",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6522682,
+    "longitude": 9.4087674
+  },
+  {
+    "street": "Via Roma",
+    "number": "88",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6627355,
+    "longitude": 9.4181425
+  },
+  {
+    "street": "Via San Bartolomeo",
+    "number": "1",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6400057,
+    "longitude": 9.3936852
+  },
+  {
+    "street": "Viale delle Industrie",
+    "number": "43",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6331428,
+    "longitude": 9.3965164
+  },
+  {
+    "street": "Viale delle Industrie",
+    "number": "45",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6330152,
+    "longitude": 9.3965328
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "2/C",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6508445,
+    "longitude": 9.4079728
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "45",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6512782,
+    "longitude": 9.4018203
+  },
+  {
+    "street": "Via Gennaro Motta",
+    "number": "8",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6497836,
+    "longitude": 9.4038748
+  },
+  {
+    "street": "Via Franzolino Prinetti",
+    "number": "29",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6488934,
+    "longitude": 9.406723
+  },
+  {
+    "street": "Via Franzolino Prinetti",
+    "number": "52",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6495068,
+    "longitude": 9.4074703
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "10",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6493263,
+    "longitude": 9.4062815
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "11",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6505736,
+    "longitude": 9.400458
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "25/B",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6507124,
+    "longitude": 9.4030325
+  },
+  {
+    "street": "Via Luigi Galvani",
+    "number": "1",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6512535,
+    "longitude": 9.4085083
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "1",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6457105,
+    "longitude": 9.4083981
+  },
+  {
+    "street": "Via Don Luigi Gobetti",
+    "number": "2",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6416368,
+    "longitude": 9.3916877
+  },
+  {
+    "street": "Via Angela De Azzi Lanfranconi",
+    "number": "5",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6391823,
+    "longitude": 9.3943844
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "23",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6406812,
+    "longitude": 9.4010092
+  },
+  {
+    "street": "Via Piemonte",
+    "number": "8a",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.645518,
+    "longitude": 9.399276
+  },
+  {
+    "street": "Via Don Claudio Guidali",
+    "number": "2",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6402421,
+    "longitude": 9.3912027
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "8",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6478399,
+    "longitude": 9.4078739
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "12",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6521628,
+    "longitude": 9.4093583
+  },
+  {
+    "street": "Via Roma",
+    "number": "36a",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6557301,
+    "longitude": 9.4140446
+  },
+  {
+    "street": "Viale delle Industrie",
+    "number": "9",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.635345,
+    "longitude": 9.3973909
+  },
+  {
+    "street": "Via Roma",
+    "number": "86",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6626976,
+    "longitude": 9.4182203
+  },
+  {
+    "street": "Via Roma",
+    "number": "46",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6570988,
+    "longitude": 9.4137599
+  },
+  {
+    "street": "Via Europa",
+    "number": "2",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6468203,
+    "longitude": 9.4102208
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "13",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6512349,
+    "longitude": 9.4079271
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "9",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6510947,
+    "longitude": 9.4077918
+  },
+  {
+    "street": "Via Milano",
+    "number": "6",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6544694,
+    "longitude": 9.4108133
+  },
+  {
+    "street": "Via della Madonnina",
+    "number": "1",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6396501,
+    "longitude": 9.3987666
+  },
+  {
+    "street": "Via del Commercio",
+    "number": "2",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6395737,
+    "longitude": 9.3997996
+  },
+  {
+    "street": "Via del Commercio",
+    "number": "10",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6389737,
+    "longitude": 9.3992759
+  },
+  {
+    "street": "Via San Bartolomeo",
+    "number": "7",
+    "city": {
+      "name": "Bernareggio",
+      "istat": "108007"
+    },
+    "latitude": 45.6400182,
+    "longitude": 9.3923204
+  }
+]

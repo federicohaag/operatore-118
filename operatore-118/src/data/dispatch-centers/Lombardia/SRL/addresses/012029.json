@@ -1,0 +1,72 @@
+[
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "13",
+    "city": {
+      "name": "Cairate",
+      "istat": "012029"
+    },
+    "latitude": 45.690839,
+    "longitude": 8.8713188
+  },
+  {
+    "street": "Via Monastero",
+    "number": "10",
+    "city": {
+      "name": "Cairate",
+      "istat": "012029"
+    },
+    "latitude": 45.6922921,
+    "longitude": 8.8734245
+  },
+  {
+    "street": "Via John Fitzgerald Kennedy",
+    "number": "4",
+    "city": {
+      "name": "Cairate",
+      "istat": "012029"
+    },
+    "latitude": 45.6829827,
+    "longitude": 8.8592615
+  },
+  {
+    "street": "Via Azimonti",
+    "number": "6",
+    "city": {
+      "name": "Cairate",
+      "istat": "012029"
+    },
+    "latitude": 45.6887457,
+    "longitude": 8.8429807
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "66",
+    "city": {
+      "name": "Cairate",
+      "istat": "012029"
+    },
+    "latitude": 45.6867728,
+    "longitude": 8.8732548
+  },
+  {
+    "street": "Via Milanello",
+    "number": "25",
+    "city": {
+      "name": "Cairate",
+      "istat": "012029"
+    },
+    "latitude": 45.70615,
+    "longitude": 8.8326095
+  },
+  {
+    "street": "Via Lodovico Ariosto",
+    "number": "1",
+    "city": {
+      "name": "Cairate",
+      "istat": "012029"
+    },
+    "latitude": 45.6839105,
+    "longitude": 8.867802
+  }
+]

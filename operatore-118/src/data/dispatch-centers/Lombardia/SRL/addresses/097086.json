@@ -1,0 +1,112 @@
+[
+  {
+    "street": "Via San Gerolamo",
+    "number": "107",
+    "city": {
+      "name": "Vercurago",
+      "istat": "097086"
+    },
+    "latitude": 45.8121432,
+    "longitude": 9.4292183
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "19",
+    "city": {
+      "name": "Vercurago",
+      "istat": "097086"
+    },
+    "latitude": 45.81085,
+    "longitude": 9.4243196
+  },
+  {
+    "street": "Via Venezia",
+    "number": "14",
+    "city": {
+      "name": "Vercurago",
+      "istat": "097086"
+    },
+    "latitude": 45.8134767,
+    "longitude": 9.4224876
+  },
+  {
+    "street": "Lungo Lago Aldo Moro",
+    "number": "1",
+    "city": {
+      "name": "Vercurago",
+      "istat": "097086"
+    },
+    "latitude": 45.8129805,
+    "longitude": 9.4211638
+  },
+  {
+    "street": "Via Roma",
+    "number": "118",
+    "city": {
+      "name": "Vercurago",
+      "istat": "097086"
+    },
+    "latitude": 45.8071158,
+    "longitude": 9.4242216
+  },
+  {
+    "street": "Via Moggio",
+    "number": "18",
+    "city": {
+      "name": "Vercurago",
+      "istat": "097086"
+    },
+    "latitude": 45.8068153,
+    "longitude": 9.4148711
+  },
+  {
+    "street": "Via S. Gerolamo",
+    "number": "16",
+    "city": {
+      "name": "Vercurago",
+      "istat": "097086"
+    },
+    "latitude": 45.8091759,
+    "longitude": 9.4263137
+  },
+  {
+    "street": "Via alla Basilica",
+    "number": "1",
+    "city": {
+      "name": "Vercurago",
+      "istat": "097086"
+    },
+    "latitude": 45.8111605,
+    "longitude": 9.4293141
+  },
+  {
+    "street": "Via San Gerolamo",
+    "number": "56",
+    "city": {
+      "name": "Vercurago",
+      "istat": "097086"
+    },
+    "latitude": 45.8124477,
+    "longitude": 9.4296445
+  },
+  {
+    "street": "Via Venezia",
+    "number": "30",
+    "city": {
+      "name": "Vercurago",
+      "istat": "097086"
+    },
+    "latitude": 45.813713,
+    "longitude": 9.4214677
+  },
+  {
+    "street": "Via del Poggio",
+    "number": "7",
+    "city": {
+      "name": "Vercurago",
+      "istat": "097086"
+    },
+    "latitude": 45.811073,
+    "longitude": 9.4264451
+  }
+]

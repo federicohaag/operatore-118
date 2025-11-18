@@ -1,0 +1,8992 @@
+[
+  {
+    "street": "Via Milano",
+    "number": "230",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6207298,
+    "longitude": 9.1996826
+  },
+  {
+    "street": "Via Umberto Tagliabue",
+    "number": "22",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.61962,
+    "longitude": 9.216916
+  },
+  {
+    "street": "Via Milano",
+    "number": "165",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.615148,
+    "longitude": 9.200457
+  },
+  {
+    "street": "Via Nuova Valassina",
+    "number": "133",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6238996,
+    "longitude": 9.2239554
+  },
+  {
+    "street": "Via per Cesano Maderno",
+    "number": "44",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6236714,
+    "longitude": 9.195335
+  },
+  {
+    "street": "Via per Cesano Maderno",
+    "number": "4",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6232651,
+    "longitude": 9.1983516
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "21",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.627721,
+    "longitude": 9.2014853
+  },
+  {
+    "street": "Via Milano",
+    "number": "187",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6172991,
+    "longitude": 9.1999443
+  },
+  {
+    "street": "Via Milano",
+    "number": "189",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6174847,
+    "longitude": 9.199899
+  },
+  {
+    "street": "Via Piero Arienti",
+    "number": "11",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6340415,
+    "longitude": 9.1920505
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "25",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6164723,
+    "longitude": 9.2069367
+  },
+  {
+    "street": "Via per Cesano Maderno",
+    "number": "88",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6240427,
+    "longitude": 9.1934988
+  },
+  {
+    "street": "Via per Cesano Maderno",
+    "number": "90",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6241387,
+    "longitude": 9.1934504
+  },
+  {
+    "street": "Via per Cesano Maderno",
+    "number": "98",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6244361,
+    "longitude": 9.193195
+  },
+  {
+    "street": "Via per Cesano Maderno",
+    "number": "96",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6246387,
+    "longitude": 9.1931498
+  },
+  {
+    "street": "Via per Cesano Maderno",
+    "number": "94",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6247729,
+    "longitude": 9.1931311
+  },
+  {
+    "street": "Via Milano",
+    "number": "314",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6262457,
+    "longitude": 9.2059826
+  },
+  {
+    "street": "Via Milano",
+    "number": "355",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6284266,
+    "longitude": 9.2055675
+  },
+  {
+    "street": "Via Milano",
+    "number": "125",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6115015,
+    "longitude": 9.2012296
+  },
+  {
+    "street": "Via per Cesano Maderno",
+    "number": "29",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6236473,
+    "longitude": 9.1943252
+  },
+  {
+    "street": "Viale Europa",
+    "number": "84",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6336711,
+    "longitude": 9.200387
+  },
+  {
+    "street": "Via Lavoratori Autobianchi",
+    "number": "1",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.626009,
+    "longitude": 9.215151
+  },
+  {
+    "street": "Viale Valassina",
+    "number": "318",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6315015,
+    "longitude": 9.2254319
+  },
+  {
+    "street": "Via Carlo Forlanini",
+    "number": "33",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6182784,
+    "longitude": 9.2179871
+  },
+  {
+    "street": "Via Prati",
+    "number": "42",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.612095,
+    "longitude": 9.212932
+  },
+  {
+    "street": "Via Prati",
+    "number": "44",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6120518,
+    "longitude": 9.2129538
+  },
+  {
+    "street": "Via Partigiani d'Italia",
+    "number": "36",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6131433,
+    "longitude": 9.2143493
+  },
+  {
+    "street": "Via Partigiani d'Italia",
+    "number": "26",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.613073,
+    "longitude": 9.2140422
+  },
+  {
+    "street": "Via Roma",
+    "number": "68",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6140215,
+    "longitude": 9.2141726
+  },
+  {
+    "street": "Via Partigiani d'Italia",
+    "number": "10",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6123999,
+    "longitude": 9.2113783
+  },
+  {
+    "street": "Via Partigiani d'Italia",
+    "number": "2",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6120822,
+    "longitude": 9.2100936
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "97",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6146918,
+    "longitude": 9.2061925
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "101",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6145436,
+    "longitude": 9.2060953
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "111",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6140824,
+    "longitude": 9.2059126
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "45",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6126998,
+    "longitude": 9.207797
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "39",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6126328,
+    "longitude": 9.2075057
+  },
+  {
+    "street": "Via Giuseppe Rovani",
+    "number": "9",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6162411,
+    "longitude": 9.1951447
+  },
+  {
+    "street": "Via Edoardo Ferravilla",
+    "number": "19",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.616722,
+    "longitude": 9.1965823
+  },
+  {
+    "street": "Via Milano",
+    "number": "171",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6164538,
+    "longitude": 9.2001269
+  },
+  {
+    "street": "Via Milano",
+    "number": "100",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6106186,
+    "longitude": 9.2016621
+  },
+  {
+    "street": "Via don Giacomo Bareggi",
+    "number": "29",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6189589,
+    "longitude": 9.2204792
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "10",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6200275,
+    "longitude": 9.2108755
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "3",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6201476,
+    "longitude": 9.2106877
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "74",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6164229,
+    "longitude": 9.2012194
+  },
+  {
+    "street": "Via Giacomo Zanella",
+    "number": "23",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6178783,
+    "longitude": 9.2190634
+  },
+  {
+    "street": "Via Giacomo Zanella",
+    "number": "90",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6160585,
+    "longitude": 9.2203563
+  },
+  {
+    "street": "Via Gioacchino Rossini",
+    "number": "13",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.613278,
+    "longitude": 9.2224591
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "1",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6225296,
+    "longitude": 9.2266458
+  },
+  {
+    "street": "Via Edoardo Ferravilla",
+    "number": "22",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6168363,
+    "longitude": 9.1967236
+  },
+  {
+    "street": "Via Gentile",
+    "number": "1/a",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6249877,
+    "longitude": 9.1903895
+  },
+  {
+    "street": "Via Gentile",
+    "number": "3",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6251967,
+    "longitude": 9.1902106
+  },
+  {
+    "street": "Via Gentile",
+    "number": "5",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6253359,
+    "longitude": 9.1905836
+  },
+  {
+    "street": "Via Gentile",
+    "number": "1",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6249303,
+    "longitude": 9.1903813
+  },
+  {
+    "street": "Via Gentile",
+    "number": "1/b",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6251319,
+    "longitude": 9.1902406
+  },
+  {
+    "street": "Via per Cesano Maderno",
+    "number": "120",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6246206,
+    "longitude": 9.1905621
+  },
+  {
+    "street": "Via per Cesano Maderno",
+    "number": "116",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6244287,
+    "longitude": 9.1914165
+  },
+  {
+    "street": "Via per Cesano Maderno",
+    "number": "112",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6243557,
+    "longitude": 9.1917538
+  },
+  {
+    "street": "Via per Cesano Maderno",
+    "number": "110",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6243563,
+    "longitude": 9.1917725
+  },
+  {
+    "street": "Via per Cesano Maderno",
+    "number": "108",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6243277,
+    "longitude": 9.1919762
+  },
+  {
+    "street": "Via per Cesano Maderno",
+    "number": "106",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6242422,
+    "longitude": 9.1923776
+  },
+  {
+    "street": "Via per Cesano Maderno",
+    "number": "102",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6242028,
+    "longitude": 9.1926547
+  },
+  {
+    "street": "Via San Martino",
+    "number": "7",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.624506,
+    "longitude": 9.1923635
+  },
+  {
+    "street": "Via San Martino",
+    "number": "9",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6246105,
+    "longitude": 9.1923438
+  },
+  {
+    "street": "Via San Martino",
+    "number": "11",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6246849,
+    "longitude": 9.1923298
+  },
+  {
+    "street": "Via San Martino",
+    "number": "15",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6248528,
+    "longitude": 9.1922982
+  },
+  {
+    "street": "Via San Martino",
+    "number": "23",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6251343,
+    "longitude": 9.1922137
+  },
+  {
+    "street": "Via San Martino",
+    "number": "25",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6253223,
+    "longitude": 9.1921872
+  },
+  {
+    "street": "Via San Martino",
+    "number": "27",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6254198,
+    "longitude": 9.1921749
+  },
+  {
+    "street": "Via San Martino",
+    "number": "14",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6255187,
+    "longitude": 9.1922907
+  },
+  {
+    "street": "Via San Martino",
+    "number": "6",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6246383,
+    "longitude": 9.1924585
+  },
+  {
+    "street": "Via San Martino",
+    "number": "6/a",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6248578,
+    "longitude": 9.1924096
+  },
+  {
+    "street": "Via San Martino",
+    "number": "8",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6249433,
+    "longitude": 9.1924021
+  },
+  {
+    "street": "Via per Cesano Maderno",
+    "number": "92",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6245678,
+    "longitude": 9.1934285
+  },
+  {
+    "street": "Via Vincenzo Monti",
+    "number": "128",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6128906,
+    "longitude": 9.2255601
+  },
+  {
+    "street": "Via Vincenzo Monti",
+    "number": "132",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.613225,
+    "longitude": 9.2246881
+  },
+  {
+    "street": "Via Umberto Tagliabue",
+    "number": "123",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6227903,
+    "longitude": 9.228528
+  },
+  {
+    "street": "Via Pozzo Antico",
+    "number": "69",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6112118,
+    "longitude": 9.2104885
+  },
+  {
+    "street": "Via Pozzo Antico",
+    "number": "67",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6113469,
+    "longitude": 9.2104295
+  },
+  {
+    "street": "Via Pozzo Antico",
+    "number": "61",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6118854,
+    "longitude": 9.2101613
+  },
+  {
+    "street": "Via Pozzo Antico",
+    "number": "63",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6115758,
+    "longitude": 9.2103356
+  },
+  {
+    "street": "Via Amatore Sciesa",
+    "number": "54",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6114238,
+    "longitude": 9.2095524
+  },
+  {
+    "street": "Via Antonio Canova",
+    "number": "3",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6110223,
+    "longitude": 9.2095336
+  },
+  {
+    "street": "Via Canonico Villa",
+    "number": "91",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6106733,
+    "longitude": 9.2089355
+  },
+  {
+    "street": "Via Canonico Villa",
+    "number": "84",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.610769,
+    "longitude": 9.2087799
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "275",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6084105,
+    "longitude": 9.2039871
+  },
+  {
+    "street": "Corso Italia",
+    "number": "53",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6183452,
+    "longitude": 9.2076986
+  },
+  {
+    "street": "Corso Italia",
+    "number": "131",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6224624,
+    "longitude": 9.2082929
+  },
+  {
+    "street": "Via Edoardo Ferravilla",
+    "number": "140",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6161748,
+    "longitude": 9.1816163
+  },
+  {
+    "street": "Via Carlo Forlanini",
+    "number": "69",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.613587,
+    "longitude": 9.2204975
+  },
+  {
+    "street": "Via Carlo Forlanini",
+    "number": "71",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6130934,
+    "longitude": 9.2207423
+  },
+  {
+    "street": "Via Milano",
+    "number": "136",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6122875,
+    "longitude": 9.2014025
+  },
+  {
+    "street": "Via Edoardo Ferravilla",
+    "number": "66",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6171695,
+    "longitude": 9.1933423
+  },
+  {
+    "street": "Via Milano",
+    "number": "150",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6131132,
+    "longitude": 9.2012724
+  },
+  {
+    "street": "Via Don Mauro Bonzi",
+    "number": "20",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.624935,
+    "longitude": 9.2295121
+  },
+  {
+    "street": "Via Don Mauro Bonzi",
+    "number": "16",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6249838,
+    "longitude": 9.2297427
+  },
+  {
+    "street": "Via Don Mauro Bonzi",
+    "number": "5",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6249669,
+    "longitude": 9.2302175
+  },
+  {
+    "street": "Via Don Mauro Bonzi",
+    "number": "7",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6249229,
+    "longitude": 9.2300364
+  },
+  {
+    "street": "Via Don Mauro Bonzi",
+    "number": "3",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6250026,
+    "longitude": 9.2303623
+  },
+  {
+    "street": "Via Don Mauro Bonzi",
+    "number": "1",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6250353,
+    "longitude": 9.2305301
+  },
+  {
+    "street": "Via Don Mauro Bonzi",
+    "number": "11",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6248759,
+    "longitude": 9.2297212
+  },
+  {
+    "street": "Via Don Mauro Bonzi",
+    "number": "9",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6248904,
+    "longitude": 9.2297989
+  },
+  {
+    "street": "Via per Seregno",
+    "number": "81",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6258439,
+    "longitude": 9.2301866
+  },
+  {
+    "street": "Via per Seregno",
+    "number": "79d",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6256347,
+    "longitude": 9.2303047
+  },
+  {
+    "street": "Via per Seregno",
+    "number": "79c",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6255409,
+    "longitude": 9.2303663
+  },
+  {
+    "street": "Via per Seregno",
+    "number": "79b",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6255184,
+    "longitude": 9.2303717
+  },
+  {
+    "street": "Via per Seregno",
+    "number": "79a",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6254509,
+    "longitude": 9.2304093
+  },
+  {
+    "street": "Via per Seregno",
+    "number": "79",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6254303,
+    "longitude": 9.2304146
+  },
+  {
+    "street": "Via Filippo Meda",
+    "number": "14",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6263953,
+    "longitude": 9.2294598
+  },
+  {
+    "street": "Via Filippo Meda",
+    "number": "13",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6263438,
+    "longitude": 9.2292264
+  },
+  {
+    "street": "Via Filippo Meda",
+    "number": "12",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6260455,
+    "longitude": 9.229618
+  },
+  {
+    "street": "Via Filippo Meda",
+    "number": "11",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6260296,
+    "longitude": 9.2293699
+  },
+  {
+    "street": "Via Filippo Meda",
+    "number": "10",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6257445,
+    "longitude": 9.2296985
+  },
+  {
+    "street": "Via Filippo Meda",
+    "number": "9",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6257932,
+    "longitude": 9.229496
+  },
+  {
+    "street": "Via Filippo Meda",
+    "number": "7",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6256441,
+    "longitude": 9.2295644
+  },
+  {
+    "street": "Via Filippo Meda",
+    "number": "8",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6254631,
+    "longitude": 9.229795
+  },
+  {
+    "street": "Via Filippo Meda",
+    "number": "5",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6253196,
+    "longitude": 9.2297079
+  },
+  {
+    "street": "Via Filippo Meda",
+    "number": "2",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6253318,
+    "longitude": 9.2298554
+  },
+  {
+    "street": "Via Filippo Meda",
+    "number": "4",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6251217,
+    "longitude": 9.2299627
+  },
+  {
+    "street": "Via Filippo Meda",
+    "number": "3",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6252511,
+    "longitude": 9.2297468
+  },
+  {
+    "street": "Via Filippo Meda",
+    "number": "1",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.625117,
+    "longitude": 9.2298098
+  },
+  {
+    "street": "Via Luigi Briani",
+    "number": "22",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6245317,
+    "longitude": 9.2295322
+  },
+  {
+    "street": "Via Luigi Briani",
+    "number": "24",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6246762,
+    "longitude": 9.2294705
+  },
+  {
+    "street": "Via Luigi Briani",
+    "number": "26",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6247306,
+    "longitude": 9.2294463
+  },
+  {
+    "street": "Via Luigi Briani",
+    "number": "28",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6249782,
+    "longitude": 9.2292479
+  },
+  {
+    "street": "Via Luigi Briani",
+    "number": "30",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6254378,
+    "longitude": 9.2290708
+  },
+  {
+    "street": "Via Luigi Briani",
+    "number": "32",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6255203,
+    "longitude": 9.2290306
+  },
+  {
+    "street": "Via Luigi Briani",
+    "number": "34",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6256272,
+    "longitude": 9.228985
+  },
+  {
+    "street": "Via Luigi Briani",
+    "number": "36",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.625721,
+    "longitude": 9.2289421
+  },
+  {
+    "street": "Via Luigi Briani",
+    "number": "38",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6258842,
+    "longitude": 9.228867
+  },
+  {
+    "street": "Via Luigi Briani",
+    "number": "40",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6260174,
+    "longitude": 9.2288053
+  },
+  {
+    "street": "Via Luigi Briani",
+    "number": "42",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6261693,
+    "longitude": 9.2287517
+  },
+  {
+    "street": "Via Luigi Briani",
+    "number": "44",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6262725,
+    "longitude": 9.2287061
+  },
+  {
+    "street": "Via Luigi Briani",
+    "number": "41",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6260793,
+    "longitude": 9.2285854
+  },
+  {
+    "street": "Via Luigi Briani",
+    "number": "37",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6259086,
+    "longitude": 9.2286739
+  },
+  {
+    "street": "Via Luigi Briani",
+    "number": "35",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6257885,
+    "longitude": 9.2287248
+  },
+  {
+    "street": "Via Luigi Briani",
+    "number": "33",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6256704,
+    "longitude": 9.2287731
+  },
+  {
+    "street": "Via Luigi Briani",
+    "number": "31",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6255878,
+    "longitude": 9.2288107
+  },
+  {
+    "street": "Via Luigi Briani",
+    "number": "29",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6254209,
+    "longitude": 9.2288804
+  },
+  {
+    "street": "Via Luigi Briani",
+    "number": "27",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6252839,
+    "longitude": 9.2289367
+  },
+  {
+    "street": "Via Luigi Briani",
+    "number": "25",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6251414,
+    "longitude": 9.2290118
+  },
+  {
+    "street": "Via Don Mauro Bonzi",
+    "number": "24",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6248094,
+    "longitude": 9.2289609
+  },
+  {
+    "street": "Via Luigi Capuana",
+    "number": "27",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6262274,
+    "longitude": 9.2279292
+  },
+  {
+    "street": "Via Luigi Capuana",
+    "number": "25",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.626038,
+    "longitude": 9.2280246
+  },
+  {
+    "street": "Via Luigi Capuana",
+    "number": "23",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6258832,
+    "longitude": 9.2280742
+  },
+  {
+    "street": "Via Luigi Capuana",
+    "number": "21",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6257098,
+    "longitude": 9.228139
+  },
+  {
+    "street": "Via Luigi Capuana",
+    "number": "8",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6255338,
+    "longitude": 9.2283794
+  },
+  {
+    "street": "Via Luigi Capuana",
+    "number": "15",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6256031,
+    "longitude": 9.2281848
+  },
+  {
+    "street": "Via Luigi Capuana",
+    "number": "13",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6253817,
+    "longitude": 9.228242
+  },
+  {
+    "street": "Via Luigi Capuana",
+    "number": "9",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6252483,
+    "longitude": 9.2283565
+  },
+  {
+    "street": "Via Luigi Capuana",
+    "number": "7",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6250536,
+    "longitude": 9.2284366
+  },
+  {
+    "street": "Via Luigi Capuana",
+    "number": "5",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6249735,
+    "longitude": 9.2284557
+  },
+  {
+    "street": "Via Don Mauro Bonzi",
+    "number": "32",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6247147,
+    "longitude": 9.2285358
+  },
+  {
+    "street": "Via Ugo Bassi",
+    "number": "23",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.62615,
+    "longitude": 9.2276393
+  },
+  {
+    "street": "Via Ugo Bassi",
+    "number": "17",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6262647,
+    "longitude": 9.2282039
+  },
+  {
+    "street": "Via Ugo Bassi",
+    "number": "19",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6262487,
+    "longitude": 9.2281314
+  },
+  {
+    "street": "Via Ugo Bassi",
+    "number": "15",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6262887,
+    "longitude": 9.2283183
+  },
+  {
+    "street": "Via Ugo Bassi",
+    "number": "13",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6263047,
+    "longitude": 9.2283794
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "14",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6233275,
+    "longitude": 9.2266274
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "16",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6235601,
+    "longitude": 9.2265281
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "18",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6236689,
+    "longitude": 9.2265093
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "18a",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6238865,
+    "longitude": 9.2264423
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "20",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6239577,
+    "longitude": 9.2264181
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "21",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6247081,
+    "longitude": 9.2258951
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "23",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6247437,
+    "longitude": 9.2258817
+  },
+  {
+    "street": "Via Don Mauro Bonzi",
+    "number": "67",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6238286,
+    "longitude": 9.2277513
+  },
+  {
+    "street": "Via Don Mauro Bonzi",
+    "number": "71",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6242428,
+    "longitude": 9.227046
+  },
+  {
+    "street": "Via Don Mauro Bonzi",
+    "number": "73",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6241747,
+    "longitude": 9.2267694
+  },
+  {
+    "street": "Via Don Mauro Bonzi",
+    "number": "34",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6246761,
+    "longitude": 9.2283826
+  },
+  {
+    "street": "Via Don Mauro Bonzi",
+    "number": "36",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6245608,
+    "longitude": 9.2275925
+  },
+  {
+    "street": "Via Don Mauro Bonzi",
+    "number": "38",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6242674,
+    "longitude": 9.2265862
+  },
+  {
+    "street": "Via Giuseppina Bosio",
+    "number": "4",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6250631,
+    "longitude": 9.2267148
+  },
+  {
+    "street": "Via Giuseppina Bosio",
+    "number": "6",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6251803,
+    "longitude": 9.2271941
+  },
+  {
+    "street": "Via Giuseppina Bosio",
+    "number": "8",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6254882,
+    "longitude": 9.2272292
+  },
+  {
+    "street": "Via Umberto Tagliabue",
+    "number": "73",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6223351,
+    "longitude": 9.226217
+  },
+  {
+    "street": "Via Umberto Tagliabue",
+    "number": "75",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6223914,
+    "longitude": 9.2264047
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "7",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6229223,
+    "longitude": 9.2265978
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "8",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6229692,
+    "longitude": 9.226748
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "10",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.623078,
+    "longitude": 9.2267105
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "12",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.623213,
+    "longitude": 9.2266729
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "11a",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6232831,
+    "longitude": 9.2264769
+  },
+  {
+    "street": "Via Umberto Tagliabue",
+    "number": "180",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6223858,
+    "longitude": 9.2272657
+  },
+  {
+    "street": "Via Umberto Tagliabue",
+    "number": "131",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6230817,
+    "longitude": 9.2290172
+  },
+  {
+    "street": "Via Umberto Tagliabue",
+    "number": "139",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6229607,
+    "longitude": 9.229445
+  },
+  {
+    "street": "Via Umberto Tagliabue",
+    "number": "135",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6229363,
+    "longitude": 9.2292519
+  },
+  {
+    "street": "Via Umberto Tagliabue",
+    "number": "133",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6229148,
+    "longitude": 9.229158
+  },
+  {
+    "street": "Via Umberto Tagliabue",
+    "number": "129",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6228913,
+    "longitude": 9.2289448
+  },
+  {
+    "street": "Via Umberto Tagliabue",
+    "number": "119",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6229823,
+    "longitude": 9.22812
+  },
+  {
+    "street": "Via Umberto Tagliabue",
+    "number": "121",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6227731,
+    "longitude": 9.2281643
+  },
+  {
+    "street": "Via Umberto Tagliabue",
+    "number": "91",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6227244,
+    "longitude": 9.2278343
+  },
+  {
+    "street": "Via Umberto Tagliabue",
+    "number": "89",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6226747,
+    "longitude": 9.2275339
+  },
+  {
+    "street": "Via Umberto Tagliabue",
+    "number": "85",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6225846,
+    "longitude": 9.2269653
+  },
+  {
+    "street": "Via Umberto Tagliabue",
+    "number": "194",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.622639,
+    "longitude": 9.2287946
+  },
+  {
+    "street": "Via Umberto Tagliabue",
+    "number": "192",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6225827,
+    "longitude": 9.2284325
+  },
+  {
+    "street": "Via Umberto Tagliabue",
+    "number": "188",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6225283,
+    "longitude": 9.2281133
+  },
+  {
+    "street": "Via Umberto Tagliabue",
+    "number": "186",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6225114,
+    "longitude": 9.2280006
+  },
+  {
+    "street": "Via Umberto Tagliabue",
+    "number": "184a",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6224608,
+    "longitude": 9.2277002
+  },
+  {
+    "street": "Via Umberto Tagliabue",
+    "number": "184",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6224439,
+    "longitude": 9.2275849
+  },
+  {
+    "street": "Via Emilio Salgari",
+    "number": "9",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6235169,
+    "longitude": 9.2293417
+  },
+  {
+    "street": "Via Emilio Salgari",
+    "number": "7",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6232731,
+    "longitude": 9.2294571
+  },
+  {
+    "street": "Via Emilio Salgari",
+    "number": "5",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6230873,
+    "longitude": 9.2295456
+  },
+  {
+    "street": "Via Emilio Salgari",
+    "number": "12",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.624648,
+    "longitude": 9.2288616
+  },
+  {
+    "street": "Via Emilio Salgari",
+    "number": "10",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6243892,
+    "longitude": 9.2289877
+  },
+  {
+    "street": "Via Emilio Salgari",
+    "number": "8a",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6242673,
+    "longitude": 9.2290574
+  },
+  {
+    "street": "Via Emilio Salgari",
+    "number": "8",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6240703,
+    "longitude": 9.229154
+  },
+  {
+    "street": "Via Emilio Salgari",
+    "number": "6",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6237045,
+    "longitude": 9.229323
+  },
+  {
+    "street": "Via Emilio Salgari",
+    "number": "4a",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6235901,
+    "longitude": 9.2294088
+  },
+  {
+    "street": "Via Emilio Salgari",
+    "number": "4",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6233275,
+    "longitude": 9.2295429
+  },
+  {
+    "street": "Via Emilio Salgari",
+    "number": "2",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6229992,
+    "longitude": 9.2296797
+  },
+  {
+    "street": "Via Luigi Briani",
+    "number": "2",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6231568,
+    "longitude": 9.2301545
+  },
+  {
+    "street": "Via Luigi Briani",
+    "number": "4",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6234719,
+    "longitude": 9.2300257
+  },
+  {
+    "street": "Via Luigi Briani",
+    "number": "6",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6237289,
+    "longitude": 9.2299023
+  },
+  {
+    "street": "Via Luigi Briani",
+    "number": "16",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.623999,
+    "longitude": 9.2297897
+  },
+  {
+    "street": "Via Luigi Briani",
+    "number": "18",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6241228,
+    "longitude": 9.2297307
+  },
+  {
+    "street": "Via Luigi Briani",
+    "number": "20",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6242879,
+    "longitude": 9.2296609
+  },
+  {
+    "street": "Via Luigi Briani",
+    "number": "15",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6242954,
+    "longitude": 9.2294195
+  },
+  {
+    "street": "Via Luigi Briani",
+    "number": "13",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6241191,
+    "longitude": 9.2294919
+  },
+  {
+    "street": "Via Luigi Briani",
+    "number": "11",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6238302,
+    "longitude": 9.2296261
+  },
+  {
+    "street": "Via Luigi Briani",
+    "number": "5",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6236895,
+    "longitude": 9.2297119
+  },
+  {
+    "street": "Via Luigi Briani",
+    "number": "3",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6236313,
+    "longitude": 9.2297387
+  },
+  {
+    "street": "Via Luigi Briani",
+    "number": "1",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6231999,
+    "longitude": 9.2299291
+  },
+  {
+    "street": "Via Umberto Tagliabue",
+    "number": "216",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6230798,
+    "longitude": 9.2312354
+  },
+  {
+    "street": "Via Umberto Tagliabue",
+    "number": "208",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6229091,
+    "longitude": 9.2304817
+  },
+  {
+    "street": "Via Umberto Tagliabue",
+    "number": "204",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6227985,
+    "longitude": 9.2300472
+  },
+  {
+    "street": "Via Umberto Tagliabue",
+    "number": "185",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6231474,
+    "longitude": 9.2309242
+  },
+  {
+    "street": "Via per Seregno",
+    "number": "58",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6240309,
+    "longitude": 9.2313695
+  },
+  {
+    "street": "Via per Seregno",
+    "number": "56",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6239315,
+    "longitude": 9.231407
+  },
+  {
+    "street": "Via per Seregno",
+    "number": "54",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6238527,
+    "longitude": 9.2314392
+  },
+  {
+    "street": "Via per Seregno",
+    "number": "52",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6237214,
+    "longitude": 9.23145
+  },
+  {
+    "street": "Via per Seregno",
+    "number": "50",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6235038,
+    "longitude": 9.2315438
+  },
+  {
+    "street": "Via Amedeo Modigliani",
+    "number": "2",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6227553,
+    "longitude": 9.2297977
+  },
+  {
+    "street": "Via per Seregno",
+    "number": "75",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6248056,
+    "longitude": 9.2307419
+  },
+  {
+    "street": "Via per Seregno",
+    "number": "73",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6245974,
+    "longitude": 9.2308438
+  },
+  {
+    "street": "Via per Seregno",
+    "number": "65",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6239559,
+    "longitude": 9.2309618
+  },
+  {
+    "street": "Via per Seregno",
+    "number": "80",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6256572,
+    "longitude": 9.2306051
+  },
+  {
+    "street": "Via per Seregno",
+    "number": "86",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.62625,
+    "longitude": 9.2307579
+  },
+  {
+    "street": "Via per Seregno",
+    "number": "84",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6261656,
+    "longitude": 9.230825
+  },
+  {
+    "street": "Via per Seregno",
+    "number": "82",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.626083,
+    "longitude": 9.2308518
+  },
+  {
+    "street": "Via per Seregno",
+    "number": "88",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6261727,
+    "longitude": 9.2304743
+  },
+  {
+    "street": "Via per Seregno",
+    "number": "90",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6263051,
+    "longitude": 9.230401
+  },
+  {
+    "street": "Via per Seregno",
+    "number": "92",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.626402,
+    "longitude": 9.2303766
+  },
+  {
+    "street": "Via Giovanni Antonio Boltraffio",
+    "number": "17",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6262012,
+    "longitude": 9.233636
+  },
+  {
+    "street": "Via Giovanni Antonio Boltraffio",
+    "number": "15",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6261599,
+    "longitude": 9.2334509
+  },
+  {
+    "street": "Via Giovanni Antonio Boltraffio",
+    "number": "13",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6260549,
+    "longitude": 9.2329144
+  },
+  {
+    "street": "Via Giovanni Antonio Boltraffio",
+    "number": "5",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6258054,
+    "longitude": 9.2314285
+  },
+  {
+    "street": "Via Giovanni Antonio Boltraffio",
+    "number": "3",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6257229,
+    "longitude": 9.2310423
+  },
+  {
+    "street": "Via Giovanni Antonio Boltraffio",
+    "number": "1",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.625676,
+    "longitude": 9.2308035
+  },
+  {
+    "street": "Via Giovanni Antonio Boltraffio",
+    "number": "16",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6260042,
+    "longitude": 9.2331693
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "11",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6232636,
+    "longitude": 9.2264807
+  },
+  {
+    "street": "Via Hermada",
+    "number": "17",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6231305,
+    "longitude": 9.2254955
+  },
+  {
+    "street": "Via Hermada",
+    "number": "15",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6229617,
+    "longitude": 9.225584
+  },
+  {
+    "street": "Via Hermada",
+    "number": "5",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6227928,
+    "longitude": 9.2256537
+  },
+  {
+    "street": "Via Hermada",
+    "number": "3a",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6226859,
+    "longitude": 9.2257342
+  },
+  {
+    "street": "Via Hermada",
+    "number": "3",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6225677,
+    "longitude": 9.2258468
+  },
+  {
+    "street": "Via Hermada",
+    "number": "1",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6224646,
+    "longitude": 9.2259058
+  },
+  {
+    "street": "Via Umberto Tagliabue",
+    "number": "71",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6222188,
+    "longitude": 9.2258817
+  },
+  {
+    "street": "Via Umberto Tagliabue",
+    "number": "67",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6221006,
+    "longitude": 9.2254981
+  },
+  {
+    "street": "Via Umberto Tagliabue",
+    "number": "65",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6220106,
+    "longitude": 9.2251924
+  },
+  {
+    "street": "Via Umberto Tagliabue",
+    "number": "63",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6219581,
+    "longitude": 9.2250153
+  },
+  {
+    "street": "Via Hermada",
+    "number": "2",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.622412,
+    "longitude": 9.226099
+  },
+  {
+    "street": "Via Hermada",
+    "number": "4",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6225696,
+    "longitude": 9.2260212
+  },
+  {
+    "street": "Via Hermada",
+    "number": "6",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6226822,
+    "longitude": 9.2259514
+  },
+  {
+    "street": "Via Hermada",
+    "number": "8",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6228641,
+    "longitude": 9.2258227
+  },
+  {
+    "street": "Via Hermada",
+    "number": "10",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6230123,
+    "longitude": 9.2257288
+  },
+  {
+    "street": "Via Amedeo Modigliani",
+    "number": "10",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6219993,
+    "longitude": 9.2302832
+  },
+  {
+    "street": "Via Amedeo Modigliani",
+    "number": "8",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6222301,
+    "longitude": 9.2301303
+  },
+  {
+    "street": "Via Amedeo Modigliani",
+    "number": "6",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6223332,
+    "longitude": 9.2300633
+  },
+  {
+    "street": "Via Amedeo Modigliani",
+    "number": "4",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6224552,
+    "longitude": 9.2299962
+  },
+  {
+    "street": "Via Amedeo Modigliani",
+    "number": "2b",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.622579,
+    "longitude": 9.2299211
+  },
+  {
+    "street": "Via Amedeo Modigliani",
+    "number": "2a",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6226671,
+    "longitude": 9.2298594
+  },
+  {
+    "street": "Via Amedeo Modigliani",
+    "number": "5",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6221925,
+    "longitude": 9.2302752
+  },
+  {
+    "street": "Via Mario Michelini",
+    "number": "44",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6205248,
+    "longitude": 9.2283949
+  },
+  {
+    "street": "Via Mario Michelini",
+    "number": "18",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6218849,
+    "longitude": 9.2301035
+  },
+  {
+    "street": "Via Mario Michelini",
+    "number": "28",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6216861,
+    "longitude": 9.2294759
+  },
+  {
+    "street": "Via Mario Michelini",
+    "number": "30",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6216448,
+    "longitude": 9.2293337
+  },
+  {
+    "street": "Via Mario Michelini",
+    "number": "25",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6215116,
+    "longitude": 9.2292854
+  },
+  {
+    "street": "Via Mario Michelini",
+    "number": "5",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6211514,
+    "longitude": 9.2293176
+  },
+  {
+    "street": "Via Mario Michelini",
+    "number": "3",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6210163,
+    "longitude": 9.2293981
+  },
+  {
+    "street": "Via Mario Michelini",
+    "number": "6",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.622412,
+    "longitude": 9.231517
+  },
+  {
+    "street": "Via Mario Michelini",
+    "number": "12",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6222132,
+    "longitude": 9.2311415
+  },
+  {
+    "street": "Via Mario Michelini",
+    "number": "14",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6221607,
+    "longitude": 9.2309698
+  },
+  {
+    "street": "Via Mario Michelini",
+    "number": "17",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6216729,
+    "longitude": 9.2312139
+  },
+  {
+    "street": "Via Mario Michelini",
+    "number": "15",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6218136,
+    "longitude": 9.2312595
+  },
+  {
+    "street": "Via Mario Michelini",
+    "number": "13",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.621898,
+    "longitude": 9.2312086
+  },
+  {
+    "street": "Via Mario Michelini",
+    "number": "11",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6219637,
+    "longitude": 9.2312381
+  },
+  {
+    "street": "Via Mario Michelini",
+    "number": "9",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6222563,
+    "longitude": 9.2314553
+  },
+  {
+    "street": "Via Sant'Apollinare",
+    "number": "10",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6206036,
+    "longitude": 9.2308786
+  },
+  {
+    "street": "Via Sant'Apollinare",
+    "number": "14",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.619947,
+    "longitude": 9.2295697
+  },
+  {
+    "street": "Via Sant'Apollinare",
+    "number": "13",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.620371,
+    "longitude": 9.2311469
+  },
+  {
+    "street": "Via Sant'Apollinare",
+    "number": "9",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6207181,
+    "longitude": 9.2310503
+  },
+  {
+    "street": "Via Sant'Apollinare",
+    "number": "7",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6208231,
+    "longitude": 9.2310262
+  },
+  {
+    "street": "Via Sant'Apollinare",
+    "number": "3",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6212959,
+    "longitude": 9.2309296
+  },
+  {
+    "street": "Via Sant'Apollinare",
+    "number": "1",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6214384,
+    "longitude": 9.2308894
+  },
+  {
+    "street": "Via Antonio De Luca",
+    "number": "14",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6212968,
+    "longitude": 9.2318502
+  },
+  {
+    "street": "Via Antonio De Luca",
+    "number": "16",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6212173,
+    "longitude": 9.2315595
+  },
+  {
+    "street": "Via Antonio De Luca",
+    "number": "18",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6211961,
+    "longitude": 9.2314862
+  },
+  {
+    "street": "Via Antonio De Luca",
+    "number": "28",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6211077,
+    "longitude": 9.2311854
+  },
+  {
+    "street": "Via Antonio De Luca",
+    "number": "30",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.621067,
+    "longitude": 9.2310666
+  },
+  {
+    "street": "Via Antonio De Luca",
+    "number": "9",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6212102,
+    "longitude": 9.2318704
+  },
+  {
+    "street": "Via Antonio De Luca",
+    "number": "11",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6211908,
+    "longitude": 9.2318047
+  },
+  {
+    "street": "Via Antonio De Luca",
+    "number": "15",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6211484,
+    "longitude": 9.2316859
+  },
+  {
+    "street": "Via Antonio De Luca",
+    "number": "17",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6211289,
+    "longitude": 9.2316101
+  },
+  {
+    "street": "Via Antonio De Luca",
+    "number": "19",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6210936,
+    "longitude": 9.2314887
+  },
+  {
+    "street": "Via Antonio De Luca",
+    "number": "21",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6210317,
+    "longitude": 9.231284
+  },
+  {
+    "street": "Via Antonio De Luca",
+    "number": "25",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6209875,
+    "longitude": 9.2311374
+  },
+  {
+    "street": "Via Umberto Tagliabue",
+    "number": "189",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6231457,
+    "longitude": 9.2310533
+  },
+  {
+    "street": "Via Umberto Tagliabue",
+    "number": "193",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6232035,
+    "longitude": 9.2313484
+  },
+  {
+    "street": "Via per Seregno",
+    "number": "59",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6232248,
+    "longitude": 9.2313516
+  },
+  {
+    "street": "Via per Seregno",
+    "number": "134",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6210822,
+    "longitude": 9.2328869
+  },
+  {
+    "street": "Via per Seregno",
+    "number": "132",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6210244,
+    "longitude": 9.2329393
+  },
+  {
+    "street": "Via per Seregno",
+    "number": "130",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.620955,
+    "longitude": 9.2329697
+  },
+  {
+    "street": "Via per Seregno",
+    "number": "9",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6209607,
+    "longitude": 9.2328125
+  },
+  {
+    "street": "Via per Seregno",
+    "number": "13",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6210514,
+    "longitude": 9.2327491
+  },
+  {
+    "street": "Via per Seregno",
+    "number": "15",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6211092,
+    "longitude": 9.2327215
+  },
+  {
+    "street": "Via per Seregno",
+    "number": "17",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6212712,
+    "longitude": 9.2326057
+  },
+  {
+    "street": "Via per Seregno",
+    "number": "19",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6213194,
+    "longitude": 9.2325726
+  },
+  {
+    "street": "Via Antonio De Luca",
+    "number": "1",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6213098,
+    "longitude": 9.2322335
+  },
+  {
+    "street": "Via Antonio De Luca",
+    "number": "2",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6214062,
+    "longitude": 9.2321507
+  },
+  {
+    "street": "Via per Seregno",
+    "number": "37",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.621871,
+    "longitude": 9.2319026
+  },
+  {
+    "street": "Via per Seregno",
+    "number": "39",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6219616,
+    "longitude": 9.2317923
+  },
+  {
+    "street": "Via per Seregno",
+    "number": "31",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.621869,
+    "longitude": 9.2322665
+  },
+  {
+    "street": "Via per Seregno",
+    "number": "35",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6219751,
+    "longitude": 9.2322031
+  },
+  {
+    "street": "Via per Seregno",
+    "number": "41",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6221236,
+    "longitude": 9.2321149
+  },
+  {
+    "street": "Via per Seregno",
+    "number": "43",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6221969,
+    "longitude": 9.2320597
+  },
+  {
+    "street": "Via per Seregno",
+    "number": "51",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6225209,
+    "longitude": 9.2318061
+  },
+  {
+    "street": "Via per Seregno",
+    "number": "53a",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6227195,
+    "longitude": 9.2316737
+  },
+  {
+    "street": "Via per Seregno",
+    "number": "53",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6227986,
+    "longitude": 9.2315965
+  },
+  {
+    "street": "Via per Seregno",
+    "number": "53b",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6228468,
+    "longitude": 9.23158
+  },
+  {
+    "street": "Via per Seregno",
+    "number": "49/51",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6224796,
+    "longitude": 9.2318147
+  },
+  {
+    "street": "Via Ticino",
+    "number": "5",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.624145,
+    "longitude": 9.232126
+  },
+  {
+    "street": "Via Don Mauro Bonzi",
+    "number": "2",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6251676,
+    "longitude": 9.2304254
+  },
+  {
+    "street": "Via Umberto Tagliabue",
+    "number": "141",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6229785,
+    "longitude": 9.2298004
+  },
+  {
+    "street": "Via per Seregno",
+    "number": "141",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6287982,
+    "longitude": 9.2286486
+  },
+  {
+    "street": "Via Brennero",
+    "number": "10",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6259161,
+    "longitude": 9.2107648
+  },
+  {
+    "street": "Via Ruggero Leoncavallo",
+    "number": "55",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6031777,
+    "longitude": 9.2200619
+  },
+  {
+    "street": "Via Ruggero Leoncavallo",
+    "number": "53",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6032889,
+    "longitude": 9.219445
+  },
+  {
+    "street": "Via Luigi Einaudi",
+    "number": "2",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6040109,
+    "longitude": 9.2138411
+  },
+  {
+    "street": "Via Tripoli",
+    "number": "28",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6161869,
+    "longitude": 9.2044699
+  },
+  {
+    "street": "Via Tripoli",
+    "number": "47",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6160786,
+    "longitude": 9.2045692
+  },
+  {
+    "street": "Via Tripoli",
+    "number": "49",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6160643,
+    "longitude": 9.2044686
+  },
+  {
+    "street": "Via Tripoli",
+    "number": "51",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6160596,
+    "longitude": 9.2044237
+  },
+  {
+    "street": "Via Tripoli",
+    "number": "53",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6160568,
+    "longitude": 9.2043895
+  },
+  {
+    "street": "Via Tripoli",
+    "number": "55",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6160502,
+    "longitude": 9.2043439
+  },
+  {
+    "street": "Via Tripoli",
+    "number": "59",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6160286,
+    "longitude": 9.2042131
+  },
+  {
+    "street": "Via Tripoli",
+    "number": "32",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6161288,
+    "longitude": 9.2042728
+  },
+  {
+    "street": "Via Tripoli",
+    "number": "38",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.616095,
+    "longitude": 9.2041574
+  },
+  {
+    "street": "Via Doberdò",
+    "number": "53",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6104163,
+    "longitude": 9.2264557
+  },
+  {
+    "street": "Via Doberdò",
+    "number": "51",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6103675,
+    "longitude": 9.2262652
+  },
+  {
+    "street": "Via Doberdò",
+    "number": "34",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6103281,
+    "longitude": 9.2264825
+  },
+  {
+    "street": "Via Doberdò",
+    "number": "32",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6102737,
+    "longitude": 9.2263108
+  },
+  {
+    "street": "Via Doberdò",
+    "number": "22",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6100223,
+    "longitude": 9.2253613
+  },
+  {
+    "street": "Via Doberdò",
+    "number": "12",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6099416,
+    "longitude": 9.2250529
+  },
+  {
+    "street": "Via Doberdò",
+    "number": "10",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6098065,
+    "longitude": 9.2247391
+  },
+  {
+    "street": "Via Doberdò",
+    "number": "3",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6094537,
+    "longitude": 9.2247847
+  },
+  {
+    "street": "Via Doberdò",
+    "number": "1",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6093674,
+    "longitude": 9.2248464
+  },
+  {
+    "street": "Via Doberdò",
+    "number": "5",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6095663,
+    "longitude": 9.2247257
+  },
+  {
+    "street": "Via Doberdò",
+    "number": "6",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6095363,
+    "longitude": 9.2248812
+  },
+  {
+    "street": "Via Doberdò",
+    "number": "7",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6097352,
+    "longitude": 9.2246264
+  },
+  {
+    "street": "Via Doberdò",
+    "number": "9",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.609799,
+    "longitude": 9.2245835
+  },
+  {
+    "street": "Via Doberdò",
+    "number": "2",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6094031,
+    "longitude": 9.2249456
+  },
+  {
+    "street": "Via Arosio",
+    "number": "2",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6095813,
+    "longitude": 9.2259783
+  },
+  {
+    "street": "Via Arosio",
+    "number": "4",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6096583,
+    "longitude": 9.2259434
+  },
+  {
+    "street": "Via Arosio",
+    "number": "1",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6096226,
+    "longitude": 9.2258173
+  },
+  {
+    "street": "Via Benvenuto Cellini",
+    "number": "71",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6103938,
+    "longitude": 9.2268929
+  },
+  {
+    "street": "Via Benvenuto Cellini",
+    "number": "67",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6096714,
+    "longitude": 9.22674
+  },
+  {
+    "street": "Via Benvenuto Cellini",
+    "number": "65",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6096076,
+    "longitude": 9.226504
+  },
+  {
+    "street": "Via Benvenuto Cellini",
+    "number": "63",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6095175,
+    "longitude": 9.2261419
+  },
+  {
+    "street": "Via Benvenuto Cellini",
+    "number": "57",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6093674,
+    "longitude": 9.2256135
+  },
+  {
+    "street": "Via Benvenuto Cellini",
+    "number": "55",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6093149,
+    "longitude": 9.2254043
+  },
+  {
+    "street": "Via Benvenuto Cellini",
+    "number": "53",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6092942,
+    "longitude": 9.2253265
+  },
+  {
+    "street": "Via Benvenuto Cellini",
+    "number": "51",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.609161,
+    "longitude": 9.2248705
+  },
+  {
+    "street": "Via Benvenuto Cellini",
+    "number": "49",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6090728,
+    "longitude": 9.2245513
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "81",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6150581,
+    "longitude": 9.2065024
+  },
+  {
+    "street": "Via Lavoratori Autobianchi",
+    "number": "15",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6233945,
+    "longitude": 9.2159321
+  },
+  {
+    "street": "Via dei Mariani",
+    "number": "21",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6074517,
+    "longitude": 9.2085761
+  },
+  {
+    "street": "Via Oslavia",
+    "number": "90",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6019233,
+    "longitude": 9.2076013
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "4",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6197768,
+    "longitude": 9.2102637
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "10",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6194142,
+    "longitude": 9.206814
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "18",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6196871,
+    "longitude": 9.2094314
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "26",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.620265,
+    "longitude": 9.2119533
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "54",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6185094,
+    "longitude": 9.1978082
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "8",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6196402,
+    "longitude": 9.2071592
+  },
+  {
+    "street": "Via Giorgio Pallavicini",
+    "number": "44",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6186105,
+    "longitude": 9.1976003
+  },
+  {
+    "street": "Corso Italia",
+    "number": "65",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6195983,
+    "longitude": 9.2078237
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "53",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6184117,
+    "longitude": 9.1986811
+  },
+  {
+    "street": "Corso Italia",
+    "number": "69",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6196804,
+    "longitude": 9.2079344
+  },
+  {
+    "street": "Via Milano",
+    "number": "199",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6188187,
+    "longitude": 9.1996867
+  },
+  {
+    "street": "Via Sempione",
+    "number": "2",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6195146,
+    "longitude": 9.1893808
+  },
+  {
+    "street": "Via Achille Grandi",
+    "number": "6",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6150251,
+    "longitude": 9.2074526
+  },
+  {
+    "street": "Via Damiano Chiesa",
+    "number": "5",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6177315,
+    "longitude": 9.2170465
+  },
+  {
+    "street": "Via Damiano Chiesa",
+    "number": "3",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6179922,
+    "longitude": 9.2169848
+  },
+  {
+    "street": "Via Vincenzo Monti",
+    "number": "74",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.615945,
+    "longitude": 9.2244825
+  },
+  {
+    "street": "Via Adamello",
+    "number": "27",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6098365,
+    "longitude": 9.2065886
+  },
+  {
+    "street": "Via Fratelli Mameli",
+    "number": "5",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6093168,
+    "longitude": 9.2065778
+  },
+  {
+    "street": "Via Fratelli Mameli",
+    "number": "2",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6095813,
+    "longitude": 9.2063928
+  },
+  {
+    "street": "Strada Statale 36 del lago di Como e dello Spluga",
+    "number": "27/31",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6129341,
+    "longitude": 9.2232932
+  },
+  {
+    "street": "Via dei Tigli",
+    "number": "2",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6147732,
+    "longitude": 9.2101856
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "1",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6274983,
+    "longitude": 9.1953105
+  },
+  {
+    "street": "Via Due Palme",
+    "number": "50/52",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6318473,
+    "longitude": 9.2120998
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "59",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6219304,
+    "longitude": 9.2160963
+  },
+  {
+    "street": "Via Lavoratori Auobianchi",
+    "number": "1",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6235751,
+    "longitude": 9.2154087
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "58",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6207062,
+    "longitude": 9.2148545
+  },
+  {
+    "street": "Via Luigi Einaudi",
+    "number": "9",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.605767,
+    "longitude": 9.2164601
+  },
+  {
+    "street": "Via Oslavia",
+    "number": "72",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.603369,
+    "longitude": 9.2063363
+  },
+  {
+    "street": "Via Maestri del Lavoro",
+    "number": "19",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6045695,
+    "longitude": 9.217675
+  },
+  {
+    "street": "Via Enrico Novati",
+    "number": "1",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6051458,
+    "longitude": 9.2152138
+  },
+  {
+    "street": "Viale degli Artigiani",
+    "number": "13",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6030895,
+    "longitude": 9.2040984
+  },
+  {
+    "street": "Viale degli Artigiani",
+    "number": "19",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6024714,
+    "longitude": 9.2043291
+  },
+  {
+    "street": "Via Milano",
+    "number": "19",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.60205,
+    "longitude": 9.2009683
+  },
+  {
+    "street": "Viale degli Artigiani",
+    "number": "24",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6015512,
+    "longitude": 9.2030175
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "21",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6203598,
+    "longitude": 9.1802395
+  },
+  {
+    "street": "Viale degli Artigiani",
+    "number": "11",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6032018,
+    "longitude": 9.2040563
+  },
+  {
+    "street": "Viale degli Artigiani",
+    "number": "52",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6013589,
+    "longitude": 9.205504
+  },
+  {
+    "street": "Viale degli Artigiani",
+    "number": "27",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6018741,
+    "longitude": 9.2050032
+  },
+  {
+    "street": "Via Oslavia",
+    "number": "84",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6019428,
+    "longitude": 9.2064797
+  },
+  {
+    "street": "Via Oslavia",
+    "number": "74",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6033252,
+    "longitude": 9.206147
+  },
+  {
+    "street": "Via Maestri del Lavoro",
+    "number": "7",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6041401,
+    "longitude": 9.216103
+  },
+  {
+    "street": "Via Enrico Novati",
+    "number": "6",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.605881,
+    "longitude": 9.2155288
+  },
+  {
+    "street": "Viale degli Artigiani",
+    "number": "46",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6013844,
+    "longitude": 9.2051991
+  },
+  {
+    "street": "Via Maestri del Lavoro",
+    "number": "3",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6028741,
+    "longitude": 9.2146841
+  },
+  {
+    "street": "Via Caduti di Nassirya",
+    "number": "27",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6031657,
+    "longitude": 9.2140858
+  },
+  {
+    "street": "Via Ruggero Leoncavallo",
+    "number": "63",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6018698,
+    "longitude": 9.2194886
+  },
+  {
+    "street": "Viale degli Artigiani",
+    "number": "38/42",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6013284,
+    "longitude": 9.2048818
+  },
+  {
+    "street": "Via Custoza",
+    "number": "12",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6221732,
+    "longitude": 9.1812734
+  },
+  {
+    "street": "Viale degli Artigiani",
+    "number": "18",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6016543,
+    "longitude": 9.2020421
+  },
+  {
+    "street": "Via Maestri del Lavoro",
+    "number": "9",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6034323,
+    "longitude": 9.2163203
+  },
+  {
+    "street": "Via Ruggero Leoncavallo",
+    "number": "57",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6025696,
+    "longitude": 9.2197019
+  },
+  {
+    "street": "Via Caravaggio",
+    "number": "28a",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6063812,
+    "longitude": 9.2159459
+  },
+  {
+    "street": "Viale degli Artigiani",
+    "number": "16",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6016634,
+    "longitude": 9.2018545
+  },
+  {
+    "street": "Viale degli Artigiani",
+    "number": "21",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6022215,
+    "longitude": 9.2045555
+  },
+  {
+    "street": "Via Luigi Einaudi",
+    "number": "4",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6039422,
+    "longitude": 9.2143157
+  },
+  {
+    "street": "Via Ruggero Leoncavallo",
+    "number": "56",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6020107,
+    "longitude": 9.2191544
+  },
+  {
+    "street": "Viale degli Artigiani",
+    "number": "3",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6038647,
+    "longitude": 9.2038014
+  },
+  {
+    "street": "Via Caravaggio",
+    "number": "28",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6059119,
+    "longitude": 9.2161068
+  },
+  {
+    "street": "Via Caravaggio",
+    "number": "26",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.604546,
+    "longitude": 9.2057788
+  },
+  {
+    "street": "Via Caravaggio",
+    "number": "30",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6066364,
+    "longitude": 9.2169879
+  },
+  {
+    "street": "Via Ruggero Leoncavallo",
+    "number": "4",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6064413,
+    "longitude": 9.2175163
+  },
+  {
+    "street": "Viale degli Artigiani",
+    "number": "25",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6018516,
+    "longitude": 9.2048661
+  },
+  {
+    "street": "Viale degli Artigiani",
+    "number": "5",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6035897,
+    "longitude": 9.2037686
+  },
+  {
+    "street": "Via Caravaggio",
+    "number": "8",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6042996,
+    "longitude": 9.2049531
+  },
+  {
+    "street": "Viale degli Artigiani",
+    "number": "44",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6013177,
+    "longitude": 9.2050367
+  },
+  {
+    "street": "Via Primavera",
+    "number": "2",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6017458,
+    "longitude": 9.2005455
+  },
+  {
+    "street": "Viale degli Artigiani",
+    "number": "29",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6019761,
+    "longitude": 9.2053882
+  },
+  {
+    "street": "Via Enrico Novati",
+    "number": "5",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6056715,
+    "longitude": 9.214981
+  },
+  {
+    "street": "Viale degli Artigiani",
+    "number": "2",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6038493,
+    "longitude": 9.203089
+  },
+  {
+    "street": "Viale degli Artigiani",
+    "number": "17",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6026955,
+    "longitude": 9.2042499
+  },
+  {
+    "street": "Viale degli Artigiani",
+    "number": "26",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6013449,
+    "longitude": 9.202936
+  },
+  {
+    "street": "Via Ruggero Leoncavallo",
+    "number": "6",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6060021,
+    "longitude": 9.2177331
+  },
+  {
+    "street": "Via Enrico Novati",
+    "number": "2",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6050615,
+    "longitude": 9.2160807
+  },
+  {
+    "street": "Via Ruggero Leoncavallo",
+    "number": "58a",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6019572,
+    "longitude": 9.2189857
+  },
+  {
+    "street": "Via Enrico Novati",
+    "number": "7",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6059374,
+    "longitude": 9.2148781
+  },
+  {
+    "street": "Via Enrico Novati",
+    "number": "4",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6053694,
+    "longitude": 9.2157842
+  },
+  {
+    "street": "Viale degli Artigiani",
+    "number": "7",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6034789,
+    "longitude": 9.2038057
+  },
+  {
+    "street": "Via Luigi Einaudi",
+    "number": "8",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6042051,
+    "longitude": 9.2152078
+  },
+  {
+    "street": "Via Oslavia",
+    "number": "80",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.602348,
+    "longitude": 9.2075068
+  },
+  {
+    "street": "Via Gioacchino Rossini",
+    "number": "102",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6096101,
+    "longitude": 9.2168589
+  },
+  {
+    "street": "Via del Commercio",
+    "number": "2",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6092816,
+    "longitude": 9.2214565
+  },
+  {
+    "street": "Via Leonardo Sciascia",
+    "number": "5",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6057676,
+    "longitude": 9.1890948
+  },
+  {
+    "street": "Via Filippo da Desio",
+    "number": "56",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6255938,
+    "longitude": 9.2196177
+  },
+  {
+    "street": "Via Filippo Da Desio",
+    "number": "56",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6253087,
+    "longitude": 9.2186038
+  },
+  {
+    "street": "Via Gioacchino Rossini",
+    "number": "130",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6107343,
+    "longitude": 9.22154
+  },
+  {
+    "street": "Via Carlo Forlanini",
+    "number": "69d",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6133415,
+    "longitude": 9.2205661
+  },
+  {
+    "street": "Viale Sabotino",
+    "number": "87",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6062772,
+    "longitude": 9.1912485
+  },
+  {
+    "street": "Via del Guado",
+    "number": "57b",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6086489,
+    "longitude": 9.2222057
+  },
+  {
+    "street": "Via Filippo Da Desio",
+    "number": "5/7",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6215229,
+    "longitude": 9.2200159
+  },
+  {
+    "street": "Via del Commercio",
+    "number": "14",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6104741,
+    "longitude": 9.2219383
+  },
+  {
+    "street": "Via del Commercio",
+    "number": "4",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6093653,
+    "longitude": 9.2223622
+  },
+  {
+    "street": "Via del Guado",
+    "number": "57",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6086941,
+    "longitude": 9.2223321
+  },
+  {
+    "street": "Via Pietro Mascagni",
+    "number": "72",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.609321,
+    "longitude": 9.2173733
+  },
+  {
+    "street": "Via Gioacchino Rossini",
+    "number": "72",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6097139,
+    "longitude": 9.2171261
+  },
+  {
+    "street": "Via Milano",
+    "number": "351",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6281064,
+    "longitude": 9.2057411
+  },
+  {
+    "street": "Via Gioacchino Rossini",
+    "number": "116",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6097835,
+    "longitude": 9.2184953
+  },
+  {
+    "street": "Via Milano",
+    "number": "379",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6309266,
+    "longitude": 9.2043678
+  },
+  {
+    "street": "Via Milano",
+    "number": "89",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6088308,
+    "longitude": 9.2011595
+  },
+  {
+    "street": "Via San Vincenzo de' Paoli",
+    "number": "93",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6027096,
+    "longitude": 9.1939053
+  },
+  {
+    "street": "Via San Vincenzo de' Paoli",
+    "number": "91",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6027671,
+    "longitude": 9.1941996
+  },
+  {
+    "street": "Via San Vincenzo de' Paoli",
+    "number": "89",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6028099,
+    "longitude": 9.1944061
+  },
+  {
+    "street": "Via delle Rose",
+    "number": "14",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6000424,
+    "longitude": 9.1994338
+  },
+  {
+    "street": "Via delle Rose",
+    "number": "12",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6000916,
+    "longitude": 9.1994165
+  },
+  {
+    "street": "Via Primavera",
+    "number": "41",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6008035,
+    "longitude": 9.1982195
+  },
+  {
+    "street": "Via Primavera",
+    "number": "25",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6011095,
+    "longitude": 9.1992193
+  },
+  {
+    "street": "Via delle Rose",
+    "number": "6",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6001773,
+    "longitude": 9.1998039
+  },
+  {
+    "street": "Via delle Rose",
+    "number": "10",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6001182,
+    "longitude": 9.1995149
+  },
+  {
+    "street": "Via delle Rose",
+    "number": "8",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6001478,
+    "longitude": 9.1996544
+  },
+  {
+    "street": "Via Primavera",
+    "number": "43",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6007512,
+    "longitude": 9.1981092
+  },
+  {
+    "street": "Via Primavera",
+    "number": "15",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6013164,
+    "longitude": 9.1997838
+  },
+  {
+    "street": "Via Mulinello",
+    "number": "28",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6325427,
+    "longitude": 9.1777263
+  },
+  {
+    "street": "Via Milano",
+    "number": "65",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6064948,
+    "longitude": 9.2021743
+  },
+  {
+    "street": "Via Milano",
+    "number": "67",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6066967,
+    "longitude": 9.2021097
+  },
+  {
+    "street": "Via Gioacchino Rossini",
+    "number": "122",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6103947,
+    "longitude": 9.2201138
+  },
+  {
+    "street": "Via dei Boschi",
+    "number": "4",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.616212,
+    "longitude": 9.1798986
+  },
+  {
+    "street": "Via dei Boschi",
+    "number": "7",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6167463,
+    "longitude": 9.1791608
+  },
+  {
+    "street": "Via dei Boschi",
+    "number": "6",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6164713,
+    "longitude": 9.1798038
+  },
+  {
+    "street": "Via Monsignor Giuseppe Camnasio",
+    "number": "4",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.620863,
+    "longitude": 9.2179213
+  },
+  {
+    "street": "Viale Aldo Bozzi",
+    "number": "18",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6074723,
+    "longitude": 9.1778433
+  },
+  {
+    "street": "Viale Aldo Bozzi",
+    "number": "30",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6079855,
+    "longitude": 9.1804518
+  },
+  {
+    "street": "Viale Aldo Bozzi",
+    "number": "28",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6078921,
+    "longitude": 9.1800226
+  },
+  {
+    "street": "Viale Aldo Bozzi",
+    "number": "26",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6078016,
+    "longitude": 9.1796122
+  },
+  {
+    "street": "Viale Aldo Bozzi",
+    "number": "24",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6077115,
+    "longitude": 9.1791885
+  },
+  {
+    "street": "Viale Aldo Bozzi",
+    "number": "22",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6075849,
+    "longitude": 9.1786359
+  },
+  {
+    "street": "Viale Aldo Bozzi",
+    "number": "20",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6075586,
+    "longitude": 9.1782631
+  },
+  {
+    "street": "Viale Aldo Bozzi",
+    "number": "18a",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6075103,
+    "longitude": 9.1780123
+  },
+  {
+    "street": "Viale Aldo Bozzi",
+    "number": "16",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6074465,
+    "longitude": 9.177732
+  },
+  {
+    "street": "Viale Aldo Bozzi",
+    "number": "14",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.607385,
+    "longitude": 9.1774853
+  },
+  {
+    "street": "Viale Aldo Bozzi",
+    "number": "12",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6073527,
+    "longitude": 9.1773827
+  },
+  {
+    "street": "Viale Aldo Bozzi",
+    "number": "10",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6073058,
+    "longitude": 9.1772573
+  },
+  {
+    "street": "Viale Aldo Bozzi",
+    "number": "8",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6072781,
+    "longitude": 9.1771393
+  },
+  {
+    "street": "Viale Aldo Bozzi",
+    "number": "6",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6072326,
+    "longitude": 9.1769575
+  },
+  {
+    "street": "Viale Aldo Bozzi",
+    "number": "4",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6071134,
+    "longitude": 9.1765431
+  },
+  {
+    "street": "Viale Aldo Bozzi",
+    "number": "2",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6070473,
+    "longitude": 9.1763024
+  },
+  {
+    "street": "Via Gaetana Agnesi",
+    "number": "251",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6091329,
+    "longitude": 9.1799891
+  },
+  {
+    "street": "Via Enzo Ferrari",
+    "number": "7",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6081506,
+    "longitude": 9.1824105
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "3",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6061916,
+    "longitude": 9.1773069
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "1",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6061316,
+    "longitude": 9.1769005
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "5",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6063699,
+    "longitude": 9.1782899
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "2",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.606171,
+    "longitude": 9.178357
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "4",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6062629,
+    "longitude": 9.1787741
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "6",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6063371,
+    "longitude": 9.1790825
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "8",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6063849,
+    "longitude": 9.1793145
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "10",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6065256,
+    "longitude": 9.1799609
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "12",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6065707,
+    "longitude": 9.1801849
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "7",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.606475,
+    "longitude": 9.1788398
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "9",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6065144,
+    "longitude": 9.1790074
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "11",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6065407,
+    "longitude": 9.1791308
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "13",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6066129,
+    "longitude": 9.1793735
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "15",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6066457,
+    "longitude": 9.1796176
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "17",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6067579,
+    "longitude": 9.1801413
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "19",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.606931,
+    "longitude": 9.1808997
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "16",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.606808,
+    "longitude": 9.1812913
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "14",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6067189,
+    "longitude": 9.1808675
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "18",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6068512,
+    "longitude": 9.1815019
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "21",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6070088,
+    "longitude": 9.181298
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "23",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6070792,
+    "longitude": 9.1816306
+  },
+  {
+    "street": "Via Enzo Ferrari",
+    "number": "4",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6077186,
+    "longitude": 9.1824306
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "25",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6071496,
+    "longitude": 9.1820987
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "24",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6070177,
+    "longitude": 9.182108
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "26",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6071153,
+    "longitude": 9.1826271
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "36",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6073255,
+    "longitude": 9.1836188
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "34",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6072983,
+    "longitude": 9.1834766
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "32",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6072696,
+    "longitude": 9.1833325
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "30",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6072401,
+    "longitude": 9.1832044
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "38",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6073902,
+    "longitude": 9.1838763
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "40",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6074563,
+    "longitude": 9.1841841
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "27",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6073635,
+    "longitude": 9.183134
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "29",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.607446,
+    "longitude": 9.1835149
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "31",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6075042,
+    "longitude": 9.1837858
+  },
+  {
+    "street": "Via Enzo Ferrari",
+    "number": "5",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.608493,
+    "longitude": 9.1822774
+  },
+  {
+    "street": "Via Enzo Ferrari",
+    "number": "3",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.608622,
+    "longitude": 9.1822207
+  },
+  {
+    "street": "Via Enzo Ferrari",
+    "number": "1",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6087994,
+    "longitude": 9.1821416
+  },
+  {
+    "street": "Via Gaetana Agnesi",
+    "number": "272",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6093749,
+    "longitude": 9.1805742
+  },
+  {
+    "street": "Via Giulio Tarra",
+    "number": "3",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6263156,
+    "longitude": 9.2126498
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "34",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6259531,
+    "longitude": 9.1984448
+  },
+  {
+    "street": "Via Luigi Einaudi",
+    "number": "6",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6041666,
+    "longitude": 9.2147084
+  },
+  {
+    "street": "Via Monsignor Celestino Cattaneo",
+    "number": "10",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6124934,
+    "longitude": 9.1851838
+  },
+  {
+    "street": "Via San Lorenzo",
+    "number": "28",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6266371,
+    "longitude": 9.1999848
+  },
+  {
+    "street": "Via Gaetana Agnesi",
+    "number": "123",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6113194,
+    "longitude": 9.1936647
+  },
+  {
+    "street": "Via Adria",
+    "number": "6",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.610429,
+    "longitude": 9.1938618
+  },
+  {
+    "street": "Via Adria",
+    "number": "8",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6103691,
+    "longitude": 9.1936941
+  },
+  {
+    "street": "Via Adria",
+    "number": "11",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6103827,
+    "longitude": 9.1931709
+  },
+  {
+    "street": "Via Adria",
+    "number": "9",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6104705,
+    "longitude": 9.1935705
+  },
+  {
+    "street": "Via Adria",
+    "number": "10",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6103609,
+    "longitude": 9.1935706
+  },
+  {
+    "street": "Via Adria",
+    "number": "7",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6105836,
+    "longitude": 9.1939687
+  },
+  {
+    "street": "Via G.M. Lampugnani",
+    "number": "78",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6180545,
+    "longitude": 9.2157749
+  },
+  {
+    "street": "Via Carlo Forlanini",
+    "number": "71b",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6132457,
+    "longitude": 9.22171
+  },
+  {
+    "street": "Via Canaletto",
+    "number": "21",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6195912,
+    "longitude": 9.2275168
+  },
+  {
+    "street": "Via Canaletto",
+    "number": "3",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6218614,
+    "longitude": 9.2273759
+  },
+  {
+    "street": "Viale delle Rimembranze",
+    "number": "1b",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6197334,
+    "longitude": 9.2061053
+  },
+  {
+    "street": "Via Salvatore Quasimodo",
+    "number": "3",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.614665,
+    "longitude": 9.1916227
+  },
+  {
+    "street": "Via San Vincenzo de' Paoli",
+    "number": "41",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6033808,
+    "longitude": 9.1976744
+  },
+  {
+    "street": "Via San Vincenzo de' Paoli",
+    "number": "38",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.604073,
+    "longitude": 9.1990747
+  },
+  {
+    "street": "Via San Vincenzo de' Paoli",
+    "number": "16",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6042752,
+    "longitude": 9.2006398
+  },
+  {
+    "street": "Via per Cesano Maderno",
+    "number": "92b",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6247978,
+    "longitude": 9.1933332
+  },
+  {
+    "street": "Via Milano",
+    "number": "219",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6212235,
+    "longitude": 9.1991786
+  },
+  {
+    "street": "Via Milano",
+    "number": "234",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.621335,
+    "longitude": 9.1999991
+  },
+  {
+    "street": "Via Alberto Gabellini",
+    "number": "105",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6227394,
+    "longitude": 9.1992184
+  },
+  {
+    "street": "Via per Cesano Maderno",
+    "number": "2",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.623254,
+    "longitude": 9.1984273
+  },
+  {
+    "street": "Piazza Don Luigi Giussani",
+    "number": "10",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6208763,
+    "longitude": 9.2099349
+  },
+  {
+    "street": "Via Roggia Traversi",
+    "number": "12",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.618531,
+    "longitude": 9.20911
+  },
+  {
+    "street": "Via Enrico Fermi",
+    "number": "25",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6246947,
+    "longitude": 9.2038933
+  },
+  {
+    "street": "Via Santa Caterina",
+    "number": "9",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.626237,
+    "longitude": 9.203438
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "5",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6168632,
+    "longitude": 9.2070758
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "12",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6192766,
+    "longitude": 9.209204
+  },
+  {
+    "street": "Via San Pietro",
+    "number": "7a",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6179552,
+    "longitude": 9.210688
+  },
+  {
+    "street": "Via San Pietro",
+    "number": "14",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6192348,
+    "longitude": 9.2097593
+  },
+  {
+    "street": "Via San Pietro",
+    "number": "32",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6196188,
+    "longitude": 9.2101222
+  },
+  {
+    "street": "Via San Pietro",
+    "number": "28",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6195639,
+    "longitude": 9.2101524
+  },
+  {
+    "street": "Via San Pietro",
+    "number": "16",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6179246,
+    "longitude": 9.2109024
+  },
+  {
+    "street": "Piazza Don Luigi Giussani",
+    "number": "4",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6208579,
+    "longitude": 9.2098311
+  },
+  {
+    "street": "Via Carlo Porta",
+    "number": "29",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6117653,
+    "longitude": 9.2195736
+  },
+  {
+    "street": "Piazza Giovanni Paolo II",
+    "number": "snc",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.620118,
+    "longitude": 9.2088661
+  },
+  {
+    "street": "Via Caravaggio",
+    "number": "1",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6050769,
+    "longitude": 9.2047732
+  },
+  {
+    "street": "Via Due Palme",
+    "number": "2",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6224682,
+    "longitude": 9.2099067
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "7",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6188358,
+    "longitude": 9.2034706
+  },
+  {
+    "street": "Via Giovanni Maria Lampugnani",
+    "number": "39",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6179195,
+    "longitude": 9.2131922
+  },
+  {
+    "street": "Via Gioacchino Rossini",
+    "number": "90/92",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.607826,
+    "longitude": 9.2148207
+  },
+  {
+    "street": "Piazza Santa Maria",
+    "number": "1",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6167159,
+    "longitude": 9.2089995
+  },
+  {
+    "street": "Via Laghetto",
+    "number": "16",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6163404,
+    "longitude": 9.2112946
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "9",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.621228,
+    "longitude": 9.2140355
+  },
+  {
+    "street": "Via Matilde Serao",
+    "number": "1",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6152619,
+    "longitude": 9.1979437
+  },
+  {
+    "street": "Via Filippo da Desio",
+    "number": "81",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.626784,
+    "longitude": 9.2167724
+  },
+  {
+    "street": "Via Lavoratori Autobianchi",
+    "number": "22",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6281332,
+    "longitude": 9.2137489
+  },
+  {
+    "street": "Via Filippo da Desio",
+    "number": "47",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6238952,
+    "longitude": 9.2178465
+  },
+  {
+    "street": "Via Mazzini",
+    "number": "1",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6263321,
+    "longitude": 9.1960603
+  },
+  {
+    "street": "Via Maestri del Lavoro",
+    "number": "17",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6039366,
+    "longitude": 9.2168245
+  },
+  {
+    "street": "Via Luigi Einaudi",
+    "number": "10",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6044883,
+    "longitude": 9.2157996
+  },
+  {
+    "street": "Via Luigi Einaudi",
+    "number": "14",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.60469,
+    "longitude": 9.2164196
+  },
+  {
+    "street": "Via del Commercio",
+    "number": "8/10",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6101076,
+    "longitude": 9.2226822
+  },
+  {
+    "street": "Via Nuova Valassina",
+    "number": "25",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6107811,
+    "longitude": 9.2224937
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "288",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6085759,
+    "longitude": 9.2028892
+  },
+  {
+    "street": "Via del Guado",
+    "number": "61",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6089402,
+    "longitude": 9.2228915
+  },
+  {
+    "street": "Via Nuova Valassina",
+    "number": "156",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6251414,
+    "longitude": 9.2254965
+  },
+  {
+    "street": "Via Nuova Valassina",
+    "number": "150",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6244526,
+    "longitude": 9.2249961
+  },
+  {
+    "street": "Via Nuova Valassina",
+    "number": "144",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.623305,
+    "longitude": 9.2250791
+  },
+  {
+    "street": "Via Edoardo Ferravilla",
+    "number": "132",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6164495,
+    "longitude": 9.1837206
+  },
+  {
+    "street": "Via Padre Frezzini",
+    "number": "6",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6105647,
+    "longitude": 9.2127328
+  },
+  {
+    "street": "Via Padre Frezzini",
+    "number": "4",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6108026,
+    "longitude": 9.2126003
+  },
+  {
+    "street": "Via Padre Frezzini",
+    "number": "2",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6110246,
+    "longitude": 9.2124695
+  },
+  {
+    "street": "Via Prati",
+    "number": "60",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6112382,
+    "longitude": 9.2133081
+  },
+  {
+    "street": "Via Prati",
+    "number": "62",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6111851,
+    "longitude": 9.213333
+  },
+  {
+    "street": "Via Prati",
+    "number": "64",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6111049,
+    "longitude": 9.2133502
+  },
+  {
+    "street": "Via Prati",
+    "number": "58",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.611316,
+    "longitude": 9.2132442
+  },
+  {
+    "street": "Via Prati",
+    "number": "66",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6108741,
+    "longitude": 9.2134554
+  },
+  {
+    "street": "Via Prati",
+    "number": "61",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6111829,
+    "longitude": 9.2137343
+  },
+  {
+    "street": "Via Prati",
+    "number": "63",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6110061,
+    "longitude": 9.2138085
+  },
+  {
+    "street": "Via Prati",
+    "number": "52",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6115357,
+    "longitude": 9.2130982
+  },
+  {
+    "street": "Via Prati",
+    "number": "48",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6117528,
+    "longitude": 9.2129994
+  },
+  {
+    "street": "Via Prati",
+    "number": "40",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6121835,
+    "longitude": 9.212846
+  },
+  {
+    "street": "Via Roma",
+    "number": "118",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6109343,
+    "longitude": 9.2154927
+  },
+  {
+    "street": "Via Roma",
+    "number": "114",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6112112,
+    "longitude": 9.2154272
+  },
+  {
+    "street": "Via Roma",
+    "number": "112",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6113653,
+    "longitude": 9.2153988
+  },
+  {
+    "street": "Via Cassino",
+    "number": "1",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6117845,
+    "longitude": 9.215136
+  },
+  {
+    "street": "Via Cassino",
+    "number": "3",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6117033,
+    "longitude": 9.2149256
+  },
+  {
+    "street": "Via Cassino",
+    "number": "11",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.611325,
+    "longitude": 9.2143715
+  },
+  {
+    "street": "Via Pietro Mascagni",
+    "number": "56",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6108447,
+    "longitude": 9.2166391
+  },
+  {
+    "street": "Via Pietro Mascagni",
+    "number": "62",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6104605,
+    "longitude": 9.2169298
+  },
+  {
+    "street": "Via Pietro Mascagni",
+    "number": "66",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6101961,
+    "longitude": 9.2170507
+  },
+  {
+    "street": "Via Santa Liberata",
+    "number": "56",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6100781,
+    "longitude": 9.2123963
+  },
+  {
+    "street": "Via Santa Liberata",
+    "number": "66",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6103512,
+    "longitude": 9.2133235
+  },
+  {
+    "street": "Via Prati",
+    "number": "70",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6104345,
+    "longitude": 9.2136399
+  },
+  {
+    "street": "Via Cassino",
+    "number": "20",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6114943,
+    "longitude": 9.2127663
+  },
+  {
+    "street": "Via Cassino",
+    "number": "22",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6114434,
+    "longitude": 9.2125171
+  },
+  {
+    "street": "Via Marzabotto",
+    "number": "15",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6113148,
+    "longitude": 9.2122494
+  },
+  {
+    "street": "Via Marzabotto",
+    "number": "18",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6112314,
+    "longitude": 9.211908
+  },
+  {
+    "street": "Via Marzabotto",
+    "number": "16",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.611385,
+    "longitude": 9.2118431
+  },
+  {
+    "street": "Via Marzabotto",
+    "number": "11",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6114726,
+    "longitude": 9.2121216
+  },
+  {
+    "street": "Via Marzabotto",
+    "number": "7",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.611767,
+    "longitude": 9.2119744
+  },
+  {
+    "street": "Via Marzabotto",
+    "number": "12",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6116412,
+    "longitude": 9.2117265
+  },
+  {
+    "street": "Via Marzabotto",
+    "number": "10",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6117643,
+    "longitude": 9.2116707
+  },
+  {
+    "street": "Via Marzabotto",
+    "number": "5",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6119062,
+    "longitude": 9.2118843
+  },
+  {
+    "street": "Via Amatore Sciesa",
+    "number": "70",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6119013,
+    "longitude": 9.2115575
+  },
+  {
+    "street": "Via Amatore Sciesa",
+    "number": "72",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6120377,
+    "longitude": 9.2121632
+  },
+  {
+    "street": "Via Amatore Sciesa",
+    "number": "74",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6118412,
+    "longitude": 9.2122814
+  },
+  {
+    "street": "Via Amatore Sciesa",
+    "number": "76",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6120725,
+    "longitude": 9.212378
+  },
+  {
+    "street": "Via Amatore Sciesa",
+    "number": "78",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6121024,
+    "longitude": 9.2125641
+  },
+  {
+    "street": "Via Prati",
+    "number": "57",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6117362,
+    "longitude": 9.2134248
+  },
+  {
+    "street": "Via Prati",
+    "number": "59",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6115733,
+    "longitude": 9.2134985
+  },
+  {
+    "street": "Via Cassino",
+    "number": "16",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6116496,
+    "longitude": 9.2138546
+  },
+  {
+    "street": "Via Cassino",
+    "number": "12",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6117274,
+    "longitude": 9.2142277
+  },
+  {
+    "street": "Via Cassino",
+    "number": "6",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6118488,
+    "longitude": 9.2144696
+  },
+  {
+    "street": "Via Roma",
+    "number": "88",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6127066,
+    "longitude": 9.2146043
+  },
+  {
+    "street": "Via Roma",
+    "number": "86",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6129007,
+    "longitude": 9.2144904
+  },
+  {
+    "street": "Via Martiri di Cefalonia",
+    "number": "5",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6124155,
+    "longitude": 9.2132009
+  },
+  {
+    "street": "Via Martiri di Cefalonia",
+    "number": "18",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6124116,
+    "longitude": 9.214367
+  },
+  {
+    "street": "Via Martiri di Cefalonia",
+    "number": "16",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6123807,
+    "longitude": 9.2141772
+  },
+  {
+    "street": "Via Martiri di Cefalonia",
+    "number": "14",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6123394,
+    "longitude": 9.214005
+  },
+  {
+    "street": "Via Martiri di Cefalonia",
+    "number": "10",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.612204,
+    "longitude": 9.2136251
+  },
+  {
+    "street": "Via Martiri di Cefalonia",
+    "number": "8",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6122121,
+    "longitude": 9.2134014
+  },
+  {
+    "street": "Via Martiri di Cefalonia",
+    "number": "2",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.612197,
+    "longitude": 9.2132008
+  },
+  {
+    "street": "Via Roma",
+    "number": "79",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6121943,
+    "longitude": 9.2154218
+  },
+  {
+    "street": "Via Gabriele D'Annunzio",
+    "number": "2",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6123726,
+    "longitude": 9.2153348
+  },
+  {
+    "street": "Via Gabriele D'Annunzio",
+    "number": "4",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6124924,
+    "longitude": 9.2158239
+  },
+  {
+    "street": "Via Pietro Mascagni",
+    "number": "26",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.612305,
+    "longitude": 9.2160093
+  },
+  {
+    "street": "Via Gabriele D'Annunzio",
+    "number": "6",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6126171,
+    "longitude": 9.2164229
+  },
+  {
+    "street": "Via Pietro Mascagni",
+    "number": "29",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6123641,
+    "longitude": 9.2164978
+  },
+  {
+    "street": "Via Pietro Mascagni",
+    "number": "31",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6121563,
+    "longitude": 9.2166783
+  },
+  {
+    "street": "Via Pietro Mascagni",
+    "number": "33",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6119736,
+    "longitude": 9.2167837
+  },
+  {
+    "street": "Via Pietro Mascagni",
+    "number": "37",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6117513,
+    "longitude": 9.2168492
+  },
+  {
+    "street": "Via Giuseppe Giusti",
+    "number": "41",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6117363,
+    "longitude": 9.2173139
+  },
+  {
+    "street": "Via Luigi Pirandello",
+    "number": "86",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6126942,
+    "longitude": 9.217187
+  },
+  {
+    "street": "Via Gabriele D'Annunzio",
+    "number": "62",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.612633,
+    "longitude": 9.2169003
+  },
+  {
+    "street": "Via Giuseppe Giusti",
+    "number": "36",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6113786,
+    "longitude": 9.2169941
+  },
+  {
+    "street": "Via Giuseppe Giusti",
+    "number": "38",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6111269,
+    "longitude": 9.2173998
+  },
+  {
+    "street": "Via Giuseppe Giusti",
+    "number": "40",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6116979,
+    "longitude": 9.2182951
+  },
+  {
+    "street": "Via Carlo Porta",
+    "number": "28",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6118277,
+    "longitude": 9.2187666
+  },
+  {
+    "street": "Via Carlo Porta",
+    "number": "30",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6115851,
+    "longitude": 9.2188696
+  },
+  {
+    "street": "Via Carlo Porta",
+    "number": "32",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6113668,
+    "longitude": 9.2190094
+  },
+  {
+    "street": "Via Carlo Porta",
+    "number": "34",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6110883,
+    "longitude": 9.2187025
+  },
+  {
+    "street": "Via del Guado",
+    "number": "39",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6079644,
+    "longitude": 9.219742
+  },
+  {
+    "street": "Via Pietro Mascagni",
+    "number": "83",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6071558,
+    "longitude": 9.2191286
+  },
+  {
+    "street": "Via Santa Liberata",
+    "number": "139",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6102312,
+    "longitude": 9.2116456
+  },
+  {
+    "street": "Via Santa Liberata",
+    "number": "12",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6103649,
+    "longitude": 9.2118772
+  },
+  {
+    "street": "Via Francesco Sforza",
+    "number": "2",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6106638,
+    "longitude": 9.2116742
+  },
+  {
+    "street": "Via Cassino",
+    "number": "58",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.61127,
+    "longitude": 9.2115333
+  },
+  {
+    "street": "Via Cassino",
+    "number": "53",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6109266,
+    "longitude": 9.211644
+  },
+  {
+    "street": "Via Cassino",
+    "number": "57",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6107694,
+    "longitude": 9.2109617
+  },
+  {
+    "street": "Via Cassino",
+    "number": "61",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6107112,
+    "longitude": 9.2107975
+  },
+  {
+    "street": "Via Cassino",
+    "number": "52",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6111269,
+    "longitude": 9.2114003
+  },
+  {
+    "street": "Via Amatore Sciesa",
+    "number": "73",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6123325,
+    "longitude": 9.2124318
+  },
+  {
+    "street": "Via Prati",
+    "number": "36",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6123598,
+    "longitude": 9.2127094
+  },
+  {
+    "street": "Via Partigiani d'Italia",
+    "number": "21",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6131228,
+    "longitude": 9.2135215
+  },
+  {
+    "street": "Via Roma",
+    "number": "71",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6129377,
+    "longitude": 9.2149843
+  },
+  {
+    "street": "Via Roma",
+    "number": "73",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6126819,
+    "longitude": 9.2151114
+  },
+  {
+    "street": "Via Pietro Mascagni",
+    "number": "24",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6128394,
+    "longitude": 9.2157745
+  },
+  {
+    "street": "Via Pietro Mascagni",
+    "number": "22",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6130968,
+    "longitude": 9.2156895
+  },
+  {
+    "street": "Via Pietro Mascagni",
+    "number": "16",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6133517,
+    "longitude": 9.2155677
+  },
+  {
+    "street": "Via Pietro Mascagni",
+    "number": "12",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6136054,
+    "longitude": 9.2154437
+  },
+  {
+    "street": "Via Montenero",
+    "number": "66",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6137188,
+    "longitude": 9.2136605
+  },
+  {
+    "street": "Via Montenero",
+    "number": "62",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6136592,
+    "longitude": 9.2131384
+  },
+  {
+    "street": "Via Partigiani d'Italia",
+    "number": "14",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6125014,
+    "longitude": 9.2120832
+  },
+  {
+    "street": "Via Amatore Sciesa",
+    "number": "64",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6116812,
+    "longitude": 9.2113252
+  },
+  {
+    "street": "Via Amatore Sciesa",
+    "number": "62",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.611772,
+    "longitude": 9.2110885
+  },
+  {
+    "street": "Via Amatore Sciesa",
+    "number": "60",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6116686,
+    "longitude": 9.2109173
+  },
+  {
+    "street": "Via Pozzo Antico",
+    "number": "85",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.610503,
+    "longitude": 9.211013
+  },
+  {
+    "street": "Via per Seregno",
+    "number": "78",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6250536,
+    "longitude": 9.2313298
+  },
+  {
+    "street": "Via Pozzo Antico",
+    "number": "87",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6103262,
+    "longitude": 9.2110908
+  },
+  {
+    "street": "Via Pozzo Antico",
+    "number": "89",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6101654,
+    "longitude": 9.2111747
+  },
+  {
+    "street": "Via Antonio Canova",
+    "number": "24",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6101894,
+    "longitude": 9.2096383
+  },
+  {
+    "street": "Via Canonico Villa",
+    "number": "96",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6099201,
+    "longitude": 9.2090319
+  },
+  {
+    "street": "Via Adamello",
+    "number": "52",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6102092,
+    "longitude": 9.2089042
+  },
+  {
+    "street": "Via Adamello",
+    "number": "35",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6098932,
+    "longitude": 9.2077009
+  },
+  {
+    "street": "Via Carlo Pisacane",
+    "number": "7",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6096965,
+    "longitude": 9.2077596
+  },
+  {
+    "street": "Via Carlo Pisacane",
+    "number": "9",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6094415,
+    "longitude": 9.2079216
+  },
+  {
+    "street": "Via Santa Liberata",
+    "number": "20",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6089827,
+    "longitude": 9.2080913
+  },
+  {
+    "street": "Via Ruggero Leoncavallo",
+    "number": "58",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6024151,
+    "longitude": 9.2180862
+  },
+  {
+    "street": "Via Prati",
+    "number": "24",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6136573,
+    "longitude": 9.2127808
+  },
+  {
+    "street": "Via Partigiani d'Italia",
+    "number": "5",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6127277,
+    "longitude": 9.2115545
+  },
+  {
+    "street": "Via Partigiani d'Italia",
+    "number": "3a",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6126225,
+    "longitude": 9.2111948
+  },
+  {
+    "street": "Via Partigiani d'Italia",
+    "number": "3",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6125951,
+    "longitude": 9.2107966
+  },
+  {
+    "street": "Via Partigiani d'Italia",
+    "number": "1",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6124154,
+    "longitude": 9.2100618
+  },
+  {
+    "street": "Via Pozzo Antico",
+    "number": "51",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6127177,
+    "longitude": 9.2098347
+  },
+  {
+    "street": "Via dei Tigli",
+    "number": "16",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6130175,
+    "longitude": 9.2104792
+  },
+  {
+    "street": "Via dei Tigli",
+    "number": "17",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.613144,
+    "longitude": 9.2109727
+  },
+  {
+    "street": "Via Montenero",
+    "number": "36",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6132492,
+    "longitude": 9.2113302
+  },
+  {
+    "street": "Via Montenero",
+    "number": "38",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6133137,
+    "longitude": 9.2115408
+  },
+  {
+    "street": "Via Montenero",
+    "number": "40",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6133701,
+    "longitude": 9.2117734
+  },
+  {
+    "street": "Via Montenero",
+    "number": "45",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6135223,
+    "longitude": 9.2121642
+  },
+  {
+    "street": "Via Pietro Mascagni",
+    "number": "3",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6138838,
+    "longitude": 9.2157846
+  },
+  {
+    "street": "Via Pietro Mascagni",
+    "number": "15",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6136676,
+    "longitude": 9.2159517
+  },
+  {
+    "street": "Via Pietro Mascagni",
+    "number": "17",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6134738,
+    "longitude": 9.2160285
+  },
+  {
+    "street": "Via Pietro Mascagni",
+    "number": "23",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6130998,
+    "longitude": 9.2162048
+  },
+  {
+    "street": "Via Pietro Mascagni",
+    "number": "25",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6129145,
+    "longitude": 9.2162562
+  },
+  {
+    "street": "Via Gabriele D'Annunzio",
+    "number": "7",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6130174,
+    "longitude": 9.2167625
+  },
+  {
+    "street": "Via Luigi Pirandello",
+    "number": "8",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6131464,
+    "longitude": 9.2169218
+  },
+  {
+    "street": "Via Luigi Pirandello",
+    "number": "15",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6134164,
+    "longitude": 9.2171897
+  },
+  {
+    "street": "Via Luigi Pirandello",
+    "number": "6",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6135197,
+    "longitude": 9.2166079
+  },
+  {
+    "street": "Via Luigi Pirandello",
+    "number": "4",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6137963,
+    "longitude": 9.2165406
+  },
+  {
+    "street": "Via Luigi Pirandello",
+    "number": "1",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6139874,
+    "longitude": 9.2170991
+  },
+  {
+    "street": "Via Marzabotto",
+    "number": "6",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6121016,
+    "longitude": 9.2115611
+  },
+  {
+    "street": "Via Amatore Sciesa",
+    "number": "65",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6120737,
+    "longitude": 9.2113642
+  },
+  {
+    "street": "Via Amatore Sciesa",
+    "number": "63",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6120156,
+    "longitude": 9.2111064
+  },
+  {
+    "street": "Via Amatore Sciesa",
+    "number": "61",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6119205,
+    "longitude": 9.2108757
+  },
+  {
+    "street": "Via Amatore Sciesa",
+    "number": "57",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6117907,
+    "longitude": 9.2105702
+  },
+  {
+    "street": "Via Partigiani d'Italia",
+    "number": "2b",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6120219,
+    "longitude": 9.2105649
+  },
+  {
+    "street": "Via Partigiani d'Italia",
+    "number": "4",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6120992,
+    "longitude": 9.2108151
+  },
+  {
+    "street": "Via Partigiani d'Italia",
+    "number": "6",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6122458,
+    "longitude": 9.2109884
+  },
+  {
+    "street": "Via Pozzo Antico",
+    "number": "118",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6120642,
+    "longitude": 9.2098141
+  },
+  {
+    "street": "Via Achille Grandi",
+    "number": "4a",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6149664,
+    "longitude": 9.2068661
+  },
+  {
+    "street": "Via Achille Grandi",
+    "number": "38",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6149503,
+    "longitude": 9.2098657
+  },
+  {
+    "street": "Via dei Tigli",
+    "number": "15",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6137252,
+    "longitude": 9.2109411
+  },
+  {
+    "street": "Via Montenero",
+    "number": "7",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6134919,
+    "longitude": 9.2102798
+  },
+  {
+    "street": "Via Pozzo Antico",
+    "number": "47",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6131938,
+    "longitude": 9.2095917
+  },
+  {
+    "street": "Via Pozzo Antico",
+    "number": "66",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6142589,
+    "longitude": 9.2088386
+  },
+  {
+    "street": "Via Pozzo Antico",
+    "number": "70",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6141199,
+    "longitude": 9.2089667
+  },
+  {
+    "street": "Via Filippo Carcano",
+    "number": "65",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6142352,
+    "longitude": 9.208665
+  },
+  {
+    "street": "Via Filippo Carcano",
+    "number": "50",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6141066,
+    "longitude": 9.2088526
+  },
+  {
+    "street": "Via Filippo Carcano",
+    "number": "56",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6140994,
+    "longitude": 9.2087139
+  },
+  {
+    "street": "Via Filippo Carcano",
+    "number": "51",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6142553,
+    "longitude": 9.2083545
+  },
+  {
+    "street": "Via Filippo Carcano",
+    "number": "46",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6140837,
+    "longitude": 9.208298
+  },
+  {
+    "street": "Via Filippo Carcano",
+    "number": "45",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6142053,
+    "longitude": 9.2080441
+  },
+  {
+    "street": "Via Filippo Carcano",
+    "number": "22",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6142027,
+    "longitude": 9.2078952
+  },
+  {
+    "street": "Via Canonico Villa",
+    "number": "21",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6142447,
+    "longitude": 9.2078666
+  },
+  {
+    "street": "Via Canonico Villa",
+    "number": "17",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6143112,
+    "longitude": 9.2078651
+  },
+  {
+    "street": "Via Canonico Villa",
+    "number": "13",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6144032,
+    "longitude": 9.2078639
+  },
+  {
+    "street": "Via Carlo Porta",
+    "number": "1",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6143526,
+    "longitude": 9.2181092
+  },
+  {
+    "street": "Via Carlo Porta",
+    "number": "3",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6140093,
+    "longitude": 9.2181612
+  },
+  {
+    "street": "Via Carlo Porta",
+    "number": "10",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6137344,
+    "longitude": 9.2179013
+  },
+  {
+    "street": "Via Carlo Porta",
+    "number": "7",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6136413,
+    "longitude": 9.2184714
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "99",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6146531,
+    "longitude": 9.2062284
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "86",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6146825,
+    "longitude": 9.2057952
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "88",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6144345,
+    "longitude": 9.2057493
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "105",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6142629,
+    "longitude": 9.2060918
+  },
+  {
+    "street": "Via Borghetto",
+    "number": "5",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6149381,
+    "longitude": 9.2058817
+  },
+  {
+    "street": "Via Caravaggio",
+    "number": "26a",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6056081,
+    "longitude": 9.2137074
+  },
+  {
+    "street": "Via Gaetana Agnesi",
+    "number": "20",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6124628,
+    "longitude": 9.1957527
+  },
+  {
+    "street": "Via Borghetto",
+    "number": "13",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6147926,
+    "longitude": 9.2050519
+  },
+  {
+    "street": "Via Borghetto",
+    "number": "15",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6147929,
+    "longitude": 9.2047696
+  },
+  {
+    "street": "Via Borghetto",
+    "number": "17",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6147366,
+    "longitude": 9.2044924
+  },
+  {
+    "street": "Via Borghetto",
+    "number": "25",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.614637,
+    "longitude": 9.2039614
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "7",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6141832,
+    "longitude": 9.203999
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "13",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6140592,
+    "longitude": 9.2039073
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "21",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6139614,
+    "longitude": 9.2039363
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "25",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6138173,
+    "longitude": 9.2039699
+  },
+  {
+    "street": "Via Ugo Foscolo",
+    "number": "26",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6135793,
+    "longitude": 9.2041807
+  },
+  {
+    "street": "Via Ugo Foscolo",
+    "number": "10",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6132465,
+    "longitude": 9.2049345
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "110",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.613722,
+    "longitude": 9.2052365
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "100",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6140332,
+    "longitude": 9.2056631
+  },
+  {
+    "street": "Via Carlo Porta",
+    "number": "22",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6125055,
+    "longitude": 9.2184446
+  },
+  {
+    "street": "Via Carlo Porta",
+    "number": "24",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6121534,
+    "longitude": 9.2184966
+  },
+  {
+    "street": "Via Umberto Tagliabue",
+    "number": "43",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6218096,
+    "longitude": 9.2226513
+  },
+  {
+    "street": "Via Milano",
+    "number": "24",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6034175,
+    "longitude": 9.2019869
+  },
+  {
+    "street": "Via Caravaggio",
+    "number": "2b",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6037001,
+    "longitude": 9.2024912
+  },
+  {
+    "street": "Via Guido Rossa",
+    "number": "10",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6317825,
+    "longitude": 9.2093838
+  },
+  {
+    "street": "Via Pozzo Antico",
+    "number": "78a",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6136578,
+    "longitude": 9.209153
+  },
+  {
+    "street": "Via Canonico Villa",
+    "number": "54",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6129338,
+    "longitude": 9.2077085
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "37",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6129546,
+    "longitude": 9.2074237
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "33",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6127457,
+    "longitude": 9.2070515
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "17",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6122211,
+    "longitude": 9.2057929
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "141",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6131941,
+    "longitude": 9.2056204
+  },
+  {
+    "street": "Via Pietro Verri",
+    "number": "28",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6132468,
+    "longitude": 9.2039973
+  },
+  {
+    "street": "Via Pietro Verri",
+    "number": "16",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6131372,
+    "longitude": 9.2044758
+  },
+  {
+    "street": "Via Luigi Galvani",
+    "number": "27",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6133673,
+    "longitude": 9.2081962
+  },
+  {
+    "street": "Via Canonico Villa",
+    "number": "41",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6132355,
+    "longitude": 9.20789
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "1",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6127592,
+    "longitude": 9.2079897
+  },
+  {
+    "street": "Via Napo Torriani",
+    "number": "1",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6133456,
+    "longitude": 9.2084267
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "73",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6130313,
+    "longitude": 9.208958
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "75",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6130751,
+    "longitude": 9.2091008
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "77",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6130965,
+    "longitude": 9.2092612
+  },
+  {
+    "street": "Via Pozzo Antico",
+    "number": "88",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6132267,
+    "longitude": 9.2093289
+  },
+  {
+    "street": "Via Pozzo Antico",
+    "number": "86",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6133002,
+    "longitude": 9.209318
+  },
+  {
+    "street": "Via Pozzo Antico",
+    "number": "112",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6123946,
+    "longitude": 9.2097254
+  },
+  {
+    "street": "Via Ortigara",
+    "number": "2",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6122907,
+    "longitude": 9.2097024
+  },
+  {
+    "street": "Via Galileo Vercesi",
+    "number": "3",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6124514,
+    "longitude": 9.2089247
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "38",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6128105,
+    "longitude": 9.2087587
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "42",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6128743,
+    "longitude": 9.2089728
+  },
+  {
+    "street": "Via Canonico Villa",
+    "number": "81",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.612022,
+    "longitude": 9.2082959
+  },
+  {
+    "street": "Via Guido Rossa",
+    "number": "17",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6311145,
+    "longitude": 9.2072841
+  },
+  {
+    "street": "Via Guido Rossa",
+    "number": "15",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6312692,
+    "longitude": 9.208076
+  },
+  {
+    "street": "Via Oslavia",
+    "number": "78",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.602944,
+    "longitude": 9.2068619
+  },
+  {
+    "street": "Via Canonico Villa",
+    "number": "73",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6122907,
+    "longitude": 9.2081507
+  },
+  {
+    "street": "Via Galileo Vercesi",
+    "number": "15",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6119037,
+    "longitude": 9.2092215
+  },
+  {
+    "street": "Via Ortigara",
+    "number": "11",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6117595,
+    "longitude": 9.2090296
+  },
+  {
+    "street": "Via Edoardo Ferravilla",
+    "number": "47",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6166642,
+    "longitude": 9.193312
+  },
+  {
+    "street": "Via Erminio Rovagnati",
+    "number": "1",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.615694,
+    "longitude": 9.1994137
+  },
+  {
+    "street": "Via Milano",
+    "number": "33",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6035238,
+    "longitude": 9.2009242
+  },
+  {
+    "street": "Via Filippo da Desio",
+    "number": "81b",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6251314,
+    "longitude": 9.2173151
+  },
+  {
+    "street": "Via Filippo da Desio",
+    "number": "46",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6250814,
+    "longitude": 9.2196318
+  },
+  {
+    "street": "Via Filippo da Desio",
+    "number": "49/51",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6245199,
+    "longitude": 9.2176098
+  },
+  {
+    "street": "Via Adamello",
+    "number": "39",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6102848,
+    "longitude": 9.2080049
+  },
+  {
+    "street": "Via Amatore Sciesa",
+    "number": "22",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6106615,
+    "longitude": 9.2078523
+  },
+  {
+    "street": "Via Amatore Sciesa",
+    "number": "40",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6110254,
+    "longitude": 9.2082626
+  },
+  {
+    "street": "Via Amatore Sciesa",
+    "number": "43",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.611318,
+    "longitude": 9.2082867
+  },
+  {
+    "street": "Via Ortigara",
+    "number": "19",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6114648,
+    "longitude": 9.2075747
+  },
+  {
+    "street": "Via Canonico Villa",
+    "number": "64",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6119056,
+    "longitude": 9.2081165
+  },
+  {
+    "street": "Via Claudio Galeno",
+    "number": "51",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6117406,
+    "longitude": 9.2072734
+  },
+  {
+    "street": "Via Claudio Galeno",
+    "number": "14",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6122812,
+    "longitude": 9.206765
+  },
+  {
+    "street": "Via Claudio Galeno",
+    "number": "40",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6117362,
+    "longitude": 9.2069695
+  },
+  {
+    "street": "Via Ortigara",
+    "number": "14",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6114653,
+    "longitude": 9.2066712
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "235",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6115527,
+    "longitude": 9.2048781
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "12",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6109438,
+    "longitude": 9.2066263
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "57",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6120587,
+    "longitude": 9.2039839
+  },
+  {
+    "street": "Via Flavio Gioia",
+    "number": "29",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6127068,
+    "longitude": 9.2039755
+  },
+  {
+    "street": "Via Flavio Gioia",
+    "number": "21",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6126902,
+    "longitude": 9.2042081
+  },
+  {
+    "street": "Via Flavio Gioia",
+    "number": "17",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6126502,
+    "longitude": 9.2043863
+  },
+  {
+    "street": "Via Flavio Gioia",
+    "number": "1",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6126726,
+    "longitude": 9.2050659
+  },
+  {
+    "street": "Via Flavio Gioia",
+    "number": "12",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6128204,
+    "longitude": 9.2048899
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "58",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6132159,
+    "longitude": 9.2037468
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "62",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6130598,
+    "longitude": 9.2037671
+  },
+  {
+    "street": "Via Gaetano Donizetti",
+    "number": "3",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6135888,
+    "longitude": 9.2032274
+  },
+  {
+    "street": "Via Adamello",
+    "number": "17a",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6096606,
+    "longitude": 9.2051079
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "2",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6097101,
+    "longitude": 9.2041739
+  },
+  {
+    "street": "Via Amatore Sciesa",
+    "number": "12",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6105827,
+    "longitude": 9.2062023
+  },
+  {
+    "street": "Via Amatore Sciesa",
+    "number": "16",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6104919,
+    "longitude": 9.2066235
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "27",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6106688,
+    "longitude": 9.2034875
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "16",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6100549,
+    "longitude": 9.2036329
+  },
+  {
+    "street": "Via Oslavia",
+    "number": "5",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.609249,
+    "longitude": 9.2049802
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "28",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6098007,
+    "longitude": 9.2033327
+  },
+  {
+    "street": "Via Trieste",
+    "number": "11",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6099744,
+    "longitude": 9.2030257
+  },
+  {
+    "street": "Via Trieste",
+    "number": "7",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6101459,
+    "longitude": 9.2028828
+  },
+  {
+    "street": "Via Giovanni Maria Lampugnani",
+    "number": "71",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6184227,
+    "longitude": 9.2168074
+  },
+  {
+    "street": "Via Giovanni Maria Lampugnani",
+    "number": "73",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6183744,
+    "longitude": 9.2173644
+  },
+  {
+    "street": "Via per Binzago",
+    "number": "73",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6214738,
+    "longitude": 9.1840255
+  },
+  {
+    "street": "Via Gaetana Agnesi",
+    "number": "24",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6121065,
+    "longitude": 9.1936106
+  },
+  {
+    "street": "Via Carlo Forlanini",
+    "number": "71a",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6124938,
+    "longitude": 9.2210877
+  },
+  {
+    "street": "Via Giorgio Pallavicini",
+    "number": "124 A",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6228864,
+    "longitude": 9.1971004
+  },
+  {
+    "street": "Via Vincenzo Monti",
+    "number": "126",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.61421,
+    "longitude": 9.2249058
+  },
+  {
+    "street": "Via Milano",
+    "number": "143",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6039814,
+    "longitude": 9.2012984
+  },
+  {
+    "street": "Via Milano",
+    "number": "122",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.611187,
+    "longitude": 9.2016694
+  },
+  {
+    "street": "Via Stadio",
+    "number": "2",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6145079,
+    "longitude": 9.2004091
+  },
+  {
+    "street": "Via Giorgio Pallavicini",
+    "number": "5",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6167822,
+    "longitude": 9.1975297
+  },
+  {
+    "street": "Via Milano",
+    "number": "130",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6120255,
+    "longitude": 9.2014751
+  },
+  {
+    "street": "Via Trincea delle Frasche",
+    "number": "4",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6331603,
+    "longitude": 9.1962547
+  },
+  {
+    "street": "Via Guido Rossa",
+    "number": "6",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6313825,
+    "longitude": 9.2100596
+  },
+  {
+    "street": "Via delle Cave",
+    "number": "1",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6306529,
+    "longitude": 9.2123382
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "7",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6237239,
+    "longitude": 9.1983619
+  },
+  {
+    "street": "Via Giorgio Pallavicini",
+    "number": "106",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6213752,
+    "longitude": 9.1974899
+  },
+  {
+    "street": "Via Enrico Novati",
+    "number": "9",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6061402,
+    "longitude": 9.2150927
+  },
+  {
+    "street": "Viale dell'Industria",
+    "number": "12",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6064012,
+    "longitude": 9.1754385
+  },
+  {
+    "street": "Via Giorgio Ambrosoli",
+    "number": "9",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6014815,
+    "longitude": 9.2026556
+  },
+  {
+    "street": "Via Caravaggio",
+    "number": "4",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6042227,
+    "longitude": 9.204658
+  },
+  {
+    "street": "Viale degli Artigiani",
+    "number": "9",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6033894,
+    "longitude": 9.2042329
+  },
+  {
+    "street": "Viale dell'Industria",
+    "number": "4",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6077372,
+    "longitude": 9.175966
+  },
+  {
+    "street": "Viale dell'Industria",
+    "number": "2",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6082243,
+    "longitude": 9.1760268
+  },
+  {
+    "street": "Via Gaetana Agnesi",
+    "number": "121",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6109318,
+    "longitude": 9.1948216
+  },
+  {
+    "street": "Via Jacopo Dal Verme",
+    "number": "6",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6140512,
+    "longitude": 9.2122042
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "37",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6242329,
+    "longitude": 9.2130475
+  },
+  {
+    "street": "Via Brennero",
+    "number": "4b",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6252581,
+    "longitude": 9.2080595
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "66",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6210005,
+    "longitude": 9.216259
+  },
+  {
+    "street": "Via Roma",
+    "number": "120",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6106272,
+    "longitude": 9.2155212
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "5",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6143074,
+    "longitude": 9.2038964
+  },
+  {
+    "street": "Via Gioachino Rossini",
+    "number": "139A",
+    "city": {
+      "name": "Desio",
+      "istat": "108023"
+    },
+    "latitude": 45.6117851,
+    "longitude": 9.2223476
+  }
+]

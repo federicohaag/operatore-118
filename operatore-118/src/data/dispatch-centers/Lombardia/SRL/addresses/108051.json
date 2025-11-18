@@ -1,0 +1,192 @@
+[
+  {
+    "street": "Via Vincenzo Bellini",
+    "number": "27",
+    "city": {
+      "name": "Busnago",
+      "istat": "108051"
+    },
+    "latitude": 45.6139265,
+    "longitude": 9.466724
+  },
+  {
+    "street": "Piazzetta Guglielmo Marconi",
+    "number": "3",
+    "city": {
+      "name": "Busnago",
+      "istat": "108051"
+    },
+    "latitude": 45.6173243,
+    "longitude": 9.4661296
+  },
+  {
+    "street": "Via Italia",
+    "number": "197",
+    "city": {
+      "name": "Busnago",
+      "istat": "108051"
+    },
+    "latitude": 45.62076,
+    "longitude": 9.4749048
+  },
+  {
+    "street": "Via del lavoro",
+    "number": "56",
+    "city": {
+      "name": "Busnago",
+      "istat": "108051"
+    },
+    "latitude": 45.608635,
+    "longitude": 9.4605742
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "3",
+    "city": {
+      "name": "Busnago",
+      "istat": "108051"
+    },
+    "latitude": 45.6190297,
+    "longitude": 9.4649819
+  },
+  {
+    "street": "Via del Lavoro",
+    "number": "10/l",
+    "city": {
+      "name": "Busnago",
+      "istat": "108051"
+    },
+    "latitude": 45.6117315,
+    "longitude": 9.4630333
+  },
+  {
+    "street": "Via Italia",
+    "number": "209",
+    "city": {
+      "name": "Busnago",
+      "istat": "108051"
+    },
+    "latitude": 45.619453,
+    "longitude": 9.4783509
+  },
+  {
+    "street": "Piazza Roma",
+    "number": "27",
+    "city": {
+      "name": "Busnago",
+      "istat": "108051"
+    },
+    "latitude": 45.6165256,
+    "longitude": 9.4654849
+  },
+  {
+    "street": "Via Giosuè Carducci",
+    "number": "45a",
+    "city": {
+      "name": "Busnago",
+      "istat": "108051"
+    },
+    "latitude": 45.6111274,
+    "longitude": 9.4678979
+  },
+  {
+    "street": "Viale delle Industrie",
+    "number": "2b",
+    "city": {
+      "name": "Busnago",
+      "istat": "108051"
+    },
+    "latitude": 45.6158917,
+    "longitude": 9.4497746
+  },
+  {
+    "street": "Via Italia",
+    "number": "195/b",
+    "city": {
+      "name": "Busnago",
+      "istat": "108051"
+    },
+    "latitude": 45.6207676,
+    "longitude": 9.4715442
+  },
+  {
+    "street": "Via Enrico Berlinguer",
+    "number": "48",
+    "city": {
+      "name": "Busnago",
+      "istat": "108051"
+    },
+    "latitude": 45.6209005,
+    "longitude": 9.4745841
+  },
+  {
+    "street": "Via Italia",
+    "number": "157",
+    "city": {
+      "name": "Busnago",
+      "istat": "108051"
+    },
+    "latitude": 45.6208669,
+    "longitude": 9.467594
+  },
+  {
+    "street": "Via Italia",
+    "number": "162",
+    "city": {
+      "name": "Busnago",
+      "istat": "108051"
+    },
+    "latitude": 45.6195862,
+    "longitude": 9.4702268
+  },
+  {
+    "street": "Viale Italia",
+    "number": "215",
+    "city": {
+      "name": "Busnago",
+      "istat": "108051"
+    },
+    "latitude": 45.620188,
+    "longitude": 9.4783301
+  },
+  {
+    "street": "Via del Campo",
+    "number": "4",
+    "city": {
+      "name": "Busnago",
+      "istat": "108051"
+    },
+    "latitude": 45.6133235,
+    "longitude": 9.4609269
+  },
+  {
+    "street": "Via Buonarroti",
+    "number": "5",
+    "city": {
+      "name": "Busnago",
+      "istat": "108051"
+    },
+    "latitude": 45.6191486,
+    "longitude": 9.4605831
+  },
+  {
+    "street": "Via Buonarroti",
+    "number": "7",
+    "city": {
+      "name": "Busnago",
+      "istat": "108051"
+    },
+    "latitude": 45.6191097,
+    "longitude": 9.46091
+  },
+  {
+    "street": "Via Buonarroti",
+    "number": "9",
+    "city": {
+      "name": "Busnago",
+      "istat": "108051"
+    },
+    "latitude": 45.6191746,
+    "longitude": 9.4613262
+  }
+]

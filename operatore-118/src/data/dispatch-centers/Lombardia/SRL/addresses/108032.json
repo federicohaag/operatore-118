@@ -1,0 +1,1142 @@
+[
+  {
+    "street": "Piazza Pietro Mosca",
+    "number": "9",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6622783,
+    "longitude": 9.0818407
+  },
+  {
+    "street": "Via Saronno",
+    "number": "15",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.662099,
+    "longitude": 9.081309
+  },
+  {
+    "street": "Via Como",
+    "number": "47",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6522945,
+    "longitude": 9.0523195
+  },
+  {
+    "street": "Via della Longura",
+    "number": "4",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6619598,
+    "longitude": 9.0726635
+  },
+  {
+    "street": "Via per Birago",
+    "number": "58",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6600217,
+    "longitude": 9.0947746
+  },
+  {
+    "street": "Via Domenico Padovan",
+    "number": "68",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6537588,
+    "longitude": 9.0678996
+  },
+  {
+    "street": "Via Domenico Padovan",
+    "number": "66",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6538338,
+    "longitude": 9.0680847
+  },
+  {
+    "street": "Via Domenico Padovan",
+    "number": "28",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.654295,
+    "longitude": 9.0688115
+  },
+  {
+    "street": "Via Domenico Padovan",
+    "number": "30",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6541882,
+    "longitude": 9.0686721
+  },
+  {
+    "street": "Via dei Guasti",
+    "number": "39",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6607309,
+    "longitude": 9.0902601
+  },
+  {
+    "street": "Piazza Trento e Trieste",
+    "number": "1",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6621893,
+    "longitude": 9.082328
+  },
+  {
+    "street": "Piazza Statuto",
+    "number": "2",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6629795,
+    "longitude": 9.0823655
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "2",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6633825,
+    "longitude": 9.0826873
+  },
+  {
+    "street": "Via della Pusterla",
+    "number": "21",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6585713,
+    "longitude": 9.0891318
+  },
+  {
+    "street": "Via dei Guasti",
+    "number": "6",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6602773,
+    "longitude": 9.0893206
+  },
+  {
+    "street": "Via San Siro",
+    "number": "12",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6627097,
+    "longitude": 9.0822202
+  },
+  {
+    "street": "Via dei Guasti",
+    "number": "12",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.66018,
+    "longitude": 9.0902168
+  },
+  {
+    "street": "Via Don Minzoni",
+    "number": "19",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6564325,
+    "longitude": 9.1030779
+  },
+  {
+    "street": "Piazza Statuto",
+    "number": "15",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6633308,
+    "longitude": 9.0830775
+  },
+  {
+    "street": "Piazza Statuto",
+    "number": "8",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6633234,
+    "longitude": 9.0825601
+  },
+  {
+    "street": "Piazza Statuto",
+    "number": "5",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6631887,
+    "longitude": 9.0824844
+  },
+  {
+    "street": "Via dei Guasti",
+    "number": "13/15",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6612289,
+    "longitude": 9.0889301
+  },
+  {
+    "street": "Via delle Brughiere",
+    "number": "20",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6602916,
+    "longitude": 9.0843064
+  },
+  {
+    "street": "Via dei Guasti",
+    "number": "19/29",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6618278,
+    "longitude": 9.0889854
+  },
+  {
+    "street": "Via Fornace",
+    "number": "2",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6626392,
+    "longitude": 9.0906864
+  },
+  {
+    "street": "Via dei Guasti",
+    "number": "5",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6607381,
+    "longitude": 9.0885291
+  },
+  {
+    "street": "Via dei Caduti",
+    "number": "3",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6624459,
+    "longitude": 9.0824574
+  },
+  {
+    "street": "Via dei Caduti",
+    "number": "5",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6624577,
+    "longitude": 9.0825258
+  },
+  {
+    "street": "Via della Pusterla",
+    "number": "5",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6602531,
+    "longitude": 9.0885075
+  },
+  {
+    "street": "Via G. Di Vittorio",
+    "number": "6",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6612284,
+    "longitude": 9.0673776
+  },
+  {
+    "street": "Via della Longura",
+    "number": "12a",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6619857,
+    "longitude": 9.0710161
+  },
+  {
+    "street": "Via Filippo Turati",
+    "number": "10",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6607435,
+    "longitude": 9.0726218
+  },
+  {
+    "street": "Via della Longura",
+    "number": "13",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6615913,
+    "longitude": 9.0715774
+  },
+  {
+    "street": "Via G. Di Vittorio",
+    "number": "8",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6610088,
+    "longitude": 9.0676998
+  },
+  {
+    "street": "Via della Longura",
+    "number": "1",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6616286,
+    "longitude": 9.0734909
+  },
+  {
+    "street": "Via Filippo Turati",
+    "number": "16",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6606138,
+    "longitude": 9.0718018
+  },
+  {
+    "street": "Via John Fitzgerald Kennedy",
+    "number": "34",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6594198,
+    "longitude": 9.0686573
+  },
+  {
+    "street": "Via della Longura",
+    "number": "3",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6616566,
+    "longitude": 9.0730239
+  },
+  {
+    "street": "Via G. Di Vittorio",
+    "number": "2",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6617277,
+    "longitude": 9.0671544
+  },
+  {
+    "street": "Via Europa",
+    "number": "23",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.661167,
+    "longitude": 9.0730164
+  },
+  {
+    "street": "Via Filippo Turati",
+    "number": "44",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6604681,
+    "longitude": 9.0663042
+  },
+  {
+    "street": "Via Europa",
+    "number": "15",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6587786,
+    "longitude": 9.0734732
+  },
+  {
+    "street": "Via della Longura",
+    "number": "8",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6619721,
+    "longitude": 9.0716193
+  },
+  {
+    "street": "Via G. Di Vittorio",
+    "number": "10/12",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6605314,
+    "longitude": 9.0672508
+  },
+  {
+    "street": "Via Europa",
+    "number": "41",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6629531,
+    "longitude": 9.0734814
+  },
+  {
+    "street": "Via della Longura",
+    "number": "27",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6615541,
+    "longitude": 9.0697632
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "107",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6632065,
+    "longitude": 9.0710215
+  },
+  {
+    "street": "Via John Fitzgerald Kennedy",
+    "number": "29/31",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6584609,
+    "longitude": 9.0710442
+  },
+  {
+    "street": "Via della Longura",
+    "number": "6",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6620809,
+    "longitude": 9.0721786
+  },
+  {
+    "street": "Via John Fitzgerald Kennedy",
+    "number": "32",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6590679,
+    "longitude": 9.0717175
+  },
+  {
+    "street": "Via G. Di Vittorio",
+    "number": "11/13",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6608576,
+    "longitude": 9.0681409
+  },
+  {
+    "street": "Via Europa",
+    "number": "37",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6625621,
+    "longitude": 9.0732515
+  },
+  {
+    "street": "Via Europa",
+    "number": "19",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6590558,
+    "longitude": 9.0733098
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "105",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6634086,
+    "longitude": 9.0714998
+  },
+  {
+    "street": "Via John Fitzgerald Kennedy",
+    "number": "41",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6585006,
+    "longitude": 9.070499
+  },
+  {
+    "street": "Via della Longura",
+    "number": "35",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6616771,
+    "longitude": 9.0692814
+  },
+  {
+    "street": "Via della Longura",
+    "number": "10",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6619852,
+    "longitude": 9.0711808
+  },
+  {
+    "street": "Via John Fitzgerald Kennedy",
+    "number": "33",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6584971,
+    "longitude": 9.0707847
+  },
+  {
+    "street": "Via Filippo Turati",
+    "number": "42",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.660282,
+    "longitude": 9.0683194
+  },
+  {
+    "street": "Via G. Di Vittorio",
+    "number": "3",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6613925,
+    "longitude": 9.0683851
+  },
+  {
+    "street": "Via della Longura",
+    "number": "21",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6615668,
+    "longitude": 9.0707693
+  },
+  {
+    "street": "Via Domenico Padovan",
+    "number": "35",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6538488,
+    "longitude": 9.0688364
+  },
+  {
+    "street": "Via Domenico Padovan",
+    "number": "49",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6522396,
+    "longitude": 9.065792
+  },
+  {
+    "street": "Via Misntasca",
+    "number": "193",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6669603,
+    "longitude": 9.0715403
+  },
+  {
+    "street": "Via Misntasca",
+    "number": "191",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6668872,
+    "longitude": 9.0715302
+  },
+  {
+    "street": "Via Misntasca",
+    "number": "189",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6668416,
+    "longitude": 9.0715275
+  },
+  {
+    "street": "Via Misntasca",
+    "number": "183",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6667684,
+    "longitude": 9.0715183
+  },
+  {
+    "street": "Via Misntasca",
+    "number": "181",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.666733,
+    "longitude": 9.0715161
+  },
+  {
+    "street": "Via Misntasca",
+    "number": "175",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6666586,
+    "longitude": 9.0715059
+  },
+  {
+    "street": "Via Misntasca",
+    "number": "173",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6666199,
+    "longitude": 9.0715028
+  },
+  {
+    "street": "Via Misentasca",
+    "number": "167",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6665467,
+    "longitude": 9.0714936
+  },
+  {
+    "street": "Via Misentasca",
+    "number": "165",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6664733,
+    "longitude": 9.0714955
+  },
+  {
+    "street": "Via Misntasca",
+    "number": "185",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6667911,
+    "longitude": 9.0715212
+  },
+  {
+    "street": "Via Misntasca",
+    "number": "187",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6668227,
+    "longitude": 9.0715251
+  },
+  {
+    "street": "Via Misntasca",
+    "number": "179",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6667108,
+    "longitude": 9.071513
+  },
+  {
+    "street": "Via Misntasca",
+    "number": "177",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6666847,
+    "longitude": 9.0715095
+  },
+  {
+    "street": "Via Misntasca",
+    "number": "171",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.666597,
+    "longitude": 9.0714999
+  },
+  {
+    "street": "Via Misntasca",
+    "number": "169",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.666566,
+    "longitude": 9.071496
+  },
+  {
+    "street": "Via Misentasca",
+    "number": "163",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.666468,
+    "longitude": 9.0715486
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "13",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6580345,
+    "longitude": 9.0792247
+  },
+  {
+    "street": "Via Don Giovanni Minzoni",
+    "number": "4",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6546211,
+    "longitude": 9.1023841
+  },
+  {
+    "street": "Via Don Giovanni Minzoni",
+    "number": "8",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6546173,
+    "longitude": 9.1038968
+  },
+  {
+    "street": "Via Don Giovanni Minzoni",
+    "number": "10",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6547811,
+    "longitude": 9.1049479
+  },
+  {
+    "street": "Via Don Giovanni Minzoni",
+    "number": "7",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6566702,
+    "longitude": 9.1001004
+  },
+  {
+    "street": "Via Don Giovanni Minzoni",
+    "number": "13/15",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6565408,
+    "longitude": 9.1022875
+  },
+  {
+    "street": "Via della Pusterla",
+    "number": "19",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6584715,
+    "longitude": 9.0897551
+  },
+  {
+    "street": "Via della Pusterla",
+    "number": "15",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6593122,
+    "longitude": 9.0899841
+  },
+  {
+    "street": "Via Marco Biagi",
+    "number": "6",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6629057,
+    "longitude": 9.070299
+  },
+  {
+    "street": "Via della Pusterla",
+    "number": "27",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6577817,
+    "longitude": 9.0885582
+  },
+  {
+    "street": "Via dei Guasti",
+    "number": "10",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6599018,
+    "longitude": 9.0897981
+  },
+  {
+    "street": "Via San Francesco",
+    "number": "2",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6587069,
+    "longitude": 9.0854096
+  },
+  {
+    "street": "Via della Pusterla",
+    "number": "36",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6599381,
+    "longitude": 9.0863091
+  },
+  {
+    "street": "Via San Francesco",
+    "number": "33/35",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6593125,
+    "longitude": 9.0863715
+  },
+  {
+    "street": "Via San Francesco",
+    "number": "33",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6591717,
+    "longitude": 9.0858701
+  },
+  {
+    "street": "Via John Fitzgerald Kennedy",
+    "number": "32a",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6593315,
+    "longitude": 9.0705886
+  },
+  {
+    "street": "Via Rovellasca",
+    "number": "156",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6652122,
+    "longitude": 9.0733144
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "15",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6575676,
+    "longitude": 9.079154
+  },
+  {
+    "street": "Via per Birago",
+    "number": "77",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6634707,
+    "longitude": 9.0928731
+  },
+  {
+    "street": "Via Fiume",
+    "number": "42",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6545148,
+    "longitude": 9.0669566
+  },
+  {
+    "street": "Via Fiume",
+    "number": "28",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6554438,
+    "longitude": 9.0663239
+  },
+  {
+    "street": "Via Fiume",
+    "number": "22",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6546944,
+    "longitude": 9.0660504
+  },
+  {
+    "street": "Via Sibilla Aleramo",
+    "number": "14",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.660793,
+    "longitude": 9.0777236
+  },
+  {
+    "street": "Via Sant'Andrea",
+    "number": "21",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6534484,
+    "longitude": 9.0995142
+  },
+  {
+    "street": "Via San Francesco",
+    "number": "20",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6587904,
+    "longitude": 9.0858698
+  },
+  {
+    "street": "Via della Longura",
+    "number": "39",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6616605,
+    "longitude": 9.0655355
+  },
+  {
+    "street": "Via Misentasca",
+    "number": "117",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6668901,
+    "longitude": 9.0722546
+  },
+  {
+    "street": "Via Misentasca",
+    "number": "118",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6667717,
+    "longitude": 9.0722485
+  },
+  {
+    "street": "Via Misentasca",
+    "number": "119",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6666489,
+    "longitude": 9.0722269
+  },
+  {
+    "street": "Via Misentasca",
+    "number": "120",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6665369,
+    "longitude": 9.0722146
+  },
+  {
+    "street": "Via Misentasca",
+    "number": "193",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6669288,
+    "longitude": 9.0714597
+  },
+  {
+    "street": "Via Misentasca",
+    "number": "189",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6668104,
+    "longitude": 9.0714474
+  },
+  {
+    "street": "Via Misentasca",
+    "number": "181",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6667006,
+    "longitude": 9.0714356
+  },
+  {
+    "street": "Via Misentasca",
+    "number": "173",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6665886,
+    "longitude": 9.0714227
+  },
+  {
+    "street": "Via Misntasca",
+    "number": "165",
+    "city": {
+      "name": "Misinto",
+      "istat": "108032"
+    },
+    "latitude": 45.6664335,
+    "longitude": 9.0714701
+  }
+]

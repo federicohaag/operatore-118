@@ -1,0 +1,182 @@
+[
+  {
+    "street": "Via Stazione",
+    "number": "2",
+    "city": {
+      "name": "Gornate Olona",
+      "istat": "012080"
+    },
+    "latitude": 45.7295353,
+    "longitude": 8.8635734
+  },
+  {
+    "street": "Piazza Parrocchetti",
+    "number": "1",
+    "city": {
+      "name": "Gornate Olona",
+      "istat": "012080"
+    },
+    "latitude": 45.7398066,
+    "longitude": 8.8603527
+  },
+  {
+    "street": "Via Santa Caterina",
+    "number": "2",
+    "city": {
+      "name": "Gornate Olona",
+      "istat": "012080"
+    },
+    "latitude": 45.7417326,
+    "longitude": 8.8608858
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "4",
+    "city": {
+      "name": "Gornate Olona",
+      "istat": "012080"
+    },
+    "latitude": 45.7387228,
+    "longitude": 8.8617511
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "9",
+    "city": {
+      "name": "Gornate Olona",
+      "istat": "012080"
+    },
+    "latitude": 45.7389394,
+    "longitude": 8.8603623
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "3",
+    "city": {
+      "name": "Gornate Olona",
+      "istat": "012080"
+    },
+    "latitude": 45.7398351,
+    "longitude": 8.8599747
+  },
+  {
+    "street": "Via Biciccera",
+    "number": "1",
+    "city": {
+      "name": "Gornate Olona",
+      "istat": "012080"
+    },
+    "latitude": 45.7393905,
+    "longitude": 8.8715699
+  },
+  {
+    "street": "Via dei Platani",
+    "number": "5a",
+    "city": {
+      "name": "Gornate Olona",
+      "istat": "012080"
+    },
+    "latitude": 45.7387818,
+    "longitude": 8.8723682
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "2",
+    "city": {
+      "name": "Gornate Olona",
+      "istat": "012080"
+    },
+    "latitude": 45.726053,
+    "longitude": 8.8657361
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "8",
+    "city": {
+      "name": "Gornate Olona",
+      "istat": "012080"
+    },
+    "latitude": 45.7343977,
+    "longitude": 8.8553345
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "2c",
+    "city": {
+      "name": "Gornate Olona",
+      "istat": "012080"
+    },
+    "latitude": 45.739838,
+    "longitude": 8.8593876
+  },
+  {
+    "street": "Via Montello",
+    "number": "8",
+    "city": {
+      "name": "Gornate Olona",
+      "istat": "012080"
+    },
+    "latitude": 45.7390139,
+    "longitude": 8.8520015
+  },
+  {
+    "street": "Via Montello",
+    "number": "19",
+    "city": {
+      "name": "Gornate Olona",
+      "istat": "012080"
+    },
+    "latitude": 45.7419514,
+    "longitude": 8.8493238
+  },
+  {
+    "street": "Via Montello",
+    "number": "10;12",
+    "city": {
+      "name": "Gornate Olona",
+      "istat": "012080"
+    },
+    "latitude": 45.7411396,
+    "longitude": 8.8495159
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "19;19a;21",
+    "city": {
+      "name": "Gornate Olona",
+      "istat": "012080"
+    },
+    "latitude": 45.7429843,
+    "longitude": 8.858397
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "23",
+    "city": {
+      "name": "Gornate Olona",
+      "istat": "012080"
+    },
+    "latitude": 45.7432102,
+    "longitude": 8.8585027
+  },
+  {
+    "street": "Via Montello",
+    "number": "17",
+    "city": {
+      "name": "Gornate Olona",
+      "istat": "012080"
+    },
+    "latitude": 45.7389341,
+    "longitude": 8.8470833
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "11",
+    "city": {
+      "name": "Gornate Olona",
+      "istat": "012080"
+    },
+    "latitude": 45.742435,
+    "longitude": 8.8569392
+  }
+]

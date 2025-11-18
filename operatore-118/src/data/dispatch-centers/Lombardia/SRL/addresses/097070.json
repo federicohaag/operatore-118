@@ -1,0 +1,282 @@
+[
+  {
+    "street": "Via Provinciale",
+    "number": "67",
+    "city": {
+      "name": "Primaluna",
+      "istat": "097070"
+    },
+    "latitude": 45.9858013,
+    "longitude": 9.4304381
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "2",
+    "city": {
+      "name": "Primaluna",
+      "istat": "097070"
+    },
+    "latitude": 45.9860035,
+    "longitude": 9.4317673
+  },
+  {
+    "street": "Via Caraletta",
+    "number": "1",
+    "city": {
+      "name": "Primaluna",
+      "istat": "097070"
+    },
+    "latitude": 45.9856079,
+    "longitude": 9.426017
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "6",
+    "city": {
+      "name": "Primaluna",
+      "istat": "097070"
+    },
+    "latitude": 45.9802448,
+    "longitude": 9.4461289
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "85",
+    "city": {
+      "name": "Primaluna",
+      "istat": "097070"
+    },
+    "latitude": 45.9861769,
+    "longitude": 9.4296147
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "165",
+    "city": {
+      "name": "Primaluna",
+      "istat": "097070"
+    },
+    "latitude": 45.992574,
+    "longitude": 9.4086003
+  },
+  {
+    "street": "Via Zanaboni",
+    "number": "5",
+    "city": {
+      "name": "Primaluna",
+      "istat": "097070"
+    },
+    "latitude": 45.9872258,
+    "longitude": 9.4291713
+  },
+  {
+    "street": "Via Torriani",
+    "number": "8",
+    "city": {
+      "name": "Primaluna",
+      "istat": "097070"
+    },
+    "latitude": 45.9873168,
+    "longitude": 9.4290062
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "60",
+    "city": {
+      "name": "Primaluna",
+      "istat": "097070"
+    },
+    "latitude": 45.9853464,
+    "longitude": 9.4327807
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "53",
+    "city": {
+      "name": "Primaluna",
+      "istat": "097070"
+    },
+    "latitude": 45.9861038,
+    "longitude": 9.4310872
+  },
+  {
+    "street": "Via Provinciale Vecchia",
+    "number": "19",
+    "city": {
+      "name": "Primaluna",
+      "istat": "097070"
+    },
+    "latitude": 45.9811894,
+    "longitude": 9.4409037
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "149",
+    "city": {
+      "name": "Primaluna",
+      "istat": "097070"
+    },
+    "latitude": 45.9908345,
+    "longitude": 9.4128189
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "84",
+    "city": {
+      "name": "Primaluna",
+      "istat": "097070"
+    },
+    "latitude": 45.9863305,
+    "longitude": 9.430915
+  },
+  {
+    "street": "Via dei Caduti",
+    "number": "17",
+    "city": {
+      "name": "Primaluna",
+      "istat": "097070"
+    },
+    "latitude": 45.9863801,
+    "longitude": 9.4326026
+  },
+  {
+    "street": "Via dei Caduti",
+    "number": "108A",
+    "city": {
+      "name": "Primaluna",
+      "istat": "097070"
+    },
+    "latitude": 45.9876587,
+    "longitude": 9.4213517
+  },
+  {
+    "street": "Via dei Caduti",
+    "number": "11",
+    "city": {
+      "name": "Primaluna",
+      "istat": "097070"
+    },
+    "latitude": 45.9863521,
+    "longitude": 9.4323559
+  },
+  {
+    "street": "Via dei Caduti",
+    "number": "19",
+    "city": {
+      "name": "Primaluna",
+      "istat": "097070"
+    },
+    "latitude": 45.9863692,
+    "longitude": 9.4327376
+  },
+  {
+    "street": "Via dei Caduti",
+    "number": "13",
+    "city": {
+      "name": "Primaluna",
+      "istat": "097070"
+    },
+    "latitude": 45.9863666,
+    "longitude": 9.4324427
+  },
+  {
+    "street": "Via dei Caduti",
+    "number": "15",
+    "city": {
+      "name": "Primaluna",
+      "istat": "097070"
+    },
+    "latitude": 45.9863765,
+    "longitude": 9.4324927
+  },
+  {
+    "street": "Via Roma",
+    "number": "5",
+    "city": {
+      "name": "Primaluna",
+      "istat": "097070"
+    },
+    "latitude": 45.9866717,
+    "longitude": 9.4299646
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "2a",
+    "city": {
+      "name": "Primaluna",
+      "istat": "097070"
+    },
+    "latitude": 45.9828987,
+    "longitude": 9.4398956
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "14",
+    "city": {
+      "name": "Primaluna",
+      "istat": "097070"
+    },
+    "latitude": 45.9837961,
+    "longitude": 9.439767
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "13",
+    "city": {
+      "name": "Primaluna",
+      "istat": "097070"
+    },
+    "latitude": 45.9838114,
+    "longitude": 9.4398541
+  },
+  {
+    "street": "Via Stoppani",
+    "number": "14",
+    "city": {
+      "name": "Primaluna",
+      "istat": "097070"
+    },
+    "latitude": 45.9761502,
+    "longitude": 9.4339581
+  },
+  {
+    "street": "Via Roma",
+    "number": "2",
+    "city": {
+      "name": "Primaluna",
+      "istat": "097070"
+    },
+    "latitude": 45.9865215,
+    "longitude": 9.4301936
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "1",
+    "city": {
+      "name": "Primaluna",
+      "istat": "097070"
+    },
+    "latitude": 45.9788832,
+    "longitude": 9.4468113
+  },
+  {
+    "street": "Via della Vigna",
+    "number": "5a",
+    "city": {
+      "name": "Primaluna",
+      "istat": "097070"
+    },
+    "latitude": 45.985563,
+    "longitude": 9.4280992
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "5A",
+    "city": {
+      "name": "Primaluna",
+      "istat": "097070"
+    },
+    "latitude": 45.9801609,
+    "longitude": 9.4444706
+  }
+]

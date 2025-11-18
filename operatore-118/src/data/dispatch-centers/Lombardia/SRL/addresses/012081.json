@@ -1,0 +1,92 @@
+[
+  {
+    "street": "Via P. Mignani",
+    "number": "16",
+    "city": {
+      "name": "Grantola",
+      "istat": "012081"
+    },
+    "latitude": 45.9487554,
+    "longitude": 8.7749092
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "38",
+    "city": {
+      "name": "Grantola",
+      "istat": "012081"
+    },
+    "latitude": 45.947756,
+    "longitude": 8.7718943
+  },
+  {
+    "street": "Via P. Mignani",
+    "number": "26",
+    "city": {
+      "name": "Grantola",
+      "istat": "012081"
+    },
+    "latitude": 45.9486577,
+    "longitude": 8.7742588
+  },
+  {
+    "street": "Via P. Mignani",
+    "number": "31",
+    "city": {
+      "name": "Grantola",
+      "istat": "012081"
+    },
+    "latitude": 45.948496,
+    "longitude": 8.7743564
+  },
+  {
+    "street": "Viale R. Beverina",
+    "number": "16",
+    "city": {
+      "name": "Grantola",
+      "istat": "012081"
+    },
+    "latitude": 45.9502409,
+    "longitude": 8.7727423
+  },
+  {
+    "street": "Via Solferino",
+    "number": "9",
+    "city": {
+      "name": "Grantola",
+      "istat": "012081"
+    },
+    "latitude": 45.950682,
+    "longitude": 8.7754451
+  },
+  {
+    "street": "Via Pandorè",
+    "number": "16",
+    "city": {
+      "name": "Grantola",
+      "istat": "012081"
+    },
+    "latitude": 45.9518044,
+    "longitude": 8.776919
+  },
+  {
+    "street": "Via Pandorè",
+    "number": "2",
+    "city": {
+      "name": "Grantola",
+      "istat": "012081"
+    },
+    "latitude": 45.9511684,
+    "longitude": 8.7760588
+  },
+  {
+    "street": "Via Pandorè",
+    "number": "12",
+    "city": {
+      "name": "Grantola",
+      "istat": "012081"
+    },
+    "latitude": 45.9516051,
+    "longitude": 8.7761701
+  }
+]

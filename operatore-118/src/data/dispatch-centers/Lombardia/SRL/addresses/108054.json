@@ -1,0 +1,2122 @@
+[
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "262",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6911517,
+    "longitude": 9.1052261
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "249/5",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6906106,
+    "longitude": 9.1044926
+  },
+  {
+    "street": "Via Superga",
+    "number": "11",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6708582,
+    "longitude": 9.1040197
+  },
+  {
+    "street": "Piazza San Vito",
+    "number": "1",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6781061,
+    "longitude": 9.1213397
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "8",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6616662,
+    "longitude": 9.1257737
+  },
+  {
+    "street": "Via Francesco Guicciardini",
+    "number": "11",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6838541,
+    "longitude": 9.1101252
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "70",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6770921,
+    "longitude": 9.1166383
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "206",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6843116,
+    "longitude": 9.1115275
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "54",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6772111,
+    "longitude": 9.1173881
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "64",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6771151,
+    "longitude": 9.1168944
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "141",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6773258,
+    "longitude": 9.1149381
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "249",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6907402,
+    "longitude": 9.1043708
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "24b",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6778561,
+    "longitude": 9.119899
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "5a",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6777914,
+    "longitude": 9.1208801
+  },
+  {
+    "street": "Via Filippo Gerbino",
+    "number": "33",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.662909,
+    "longitude": 9.1063668
+  },
+  {
+    "street": "Via Ventiquattro Maggio",
+    "number": "29",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6686745,
+    "longitude": 9.1330278
+  },
+  {
+    "street": "Viale Italia",
+    "number": "7",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6685518,
+    "longitude": 9.1311695
+  },
+  {
+    "street": "Via Francesco Rizzoli",
+    "number": "1",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6697855,
+    "longitude": 9.1271909
+  },
+  {
+    "street": "Via Piave",
+    "number": "5",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.66905,
+    "longitude": 9.1275922
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "4",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.678042,
+    "longitude": 9.1210488
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "10",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6779897,
+    "longitude": 9.1208705
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "14",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6779656,
+    "longitude": 9.1207554
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "15",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6777686,
+    "longitude": 9.1203185
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "19",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6777501,
+    "longitude": 9.1202352
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "23",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6777274,
+    "longitude": 9.1201333
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "8",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6777824,
+    "longitude": 9.1194365
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "33",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6774339,
+    "longitude": 9.1194687
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "37",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6773908,
+    "longitude": 9.1192487
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "47",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6772333,
+    "longitude": 9.1181303
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "46",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6772521,
+    "longitude": 9.1176287
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "50",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6772146,
+    "longitude": 9.1174892
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "67",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6768563,
+    "longitude": 9.1165121
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "76",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6770456,
+    "longitude": 9.116429
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "51",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6854804,
+    "longitude": 9.1200634
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "65",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6769468,
+    "longitude": 9.1167922
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "4",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6768428,
+    "longitude": 9.1153433
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "5",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.676556,
+    "longitude": 9.115299
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "140",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6770442,
+    "longitude": 9.1157764
+  },
+  {
+    "street": "Piazza Fiume",
+    "number": "2",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6875421,
+    "longitude": 9.1048318
+  },
+  {
+    "street": "Piazza Fiume",
+    "number": "8",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.687558,
+    "longitude": 9.1044992
+  },
+  {
+    "street": "Via Roma",
+    "number": "37",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6796075,
+    "longitude": 9.1209525
+  },
+  {
+    "street": "Via Roma",
+    "number": "42",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.679347,
+    "longitude": 9.1210517
+  },
+  {
+    "street": "Via Roma",
+    "number": "25",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6791484,
+    "longitude": 9.1208425
+  },
+  {
+    "street": "Via Roma",
+    "number": "18",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6791278,
+    "longitude": 9.1216096
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "84",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6702141,
+    "longitude": 9.120955
+  },
+  {
+    "street": "Via Ventiquattro Maggio",
+    "number": "55",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6714217,
+    "longitude": 9.1379084
+  },
+  {
+    "street": "Via Brianza",
+    "number": "56",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6716354,
+    "longitude": 9.1383313
+  },
+  {
+    "street": "Via Padova",
+    "number": "38",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6652783,
+    "longitude": 9.1365889
+  },
+  {
+    "street": "Via Ventiquattro Maggio",
+    "number": "36",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6687304,
+    "longitude": 9.133937
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "12",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6787159,
+    "longitude": 9.1174333
+  },
+  {
+    "street": "Via Padova",
+    "number": "35",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6657504,
+    "longitude": 9.1372135
+  },
+  {
+    "street": "Via San Michele del Carso",
+    "number": "25",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6894966,
+    "longitude": 9.127273
+  },
+  {
+    "street": "Via San Michele del Carso",
+    "number": "16",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6901811,
+    "longitude": 9.1261985
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "264",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6914958,
+    "longitude": 9.104934
+  },
+  {
+    "street": "Via Ersilia Borgazzi",
+    "number": "6",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6678493,
+    "longitude": 9.1283495
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "13",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6685727,
+    "longitude": 9.1289039
+  },
+  {
+    "street": "Piazza Fratelli Cervi",
+    "number": "12",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6679066,
+    "longitude": 9.1287542
+  },
+  {
+    "street": "Via Col di Lana",
+    "number": "4",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6677775,
+    "longitude": 9.1300141
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "11",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6686528,
+    "longitude": 9.1292124
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "54a",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6685682,
+    "longitude": 9.1288364
+  },
+  {
+    "street": "Via Ersilia Borgazzi",
+    "number": "4",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6679031,
+    "longitude": 9.1283095
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "21",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6685544,
+    "longitude": 9.1287672
+  },
+  {
+    "street": "Via San Francesco Saverio",
+    "number": "12",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.692101,
+    "longitude": 9.0997984
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "260",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6908202,
+    "longitude": 9.1057913
+  },
+  {
+    "street": "Via Giulio Natta",
+    "number": "21",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6810162,
+    "longitude": 9.1008531
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "154",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6785375,
+    "longitude": 9.1147142
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "164",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.679086,
+    "longitude": 9.1144208
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "107",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6745373,
+    "longitude": 9.1171187
+  },
+  {
+    "street": "Via Aureggi",
+    "number": "54",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6787002,
+    "longitude": 9.1147468
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "226",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6877431,
+    "longitude": 9.1101926
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "132",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.67688,
+    "longitude": 9.1159157
+  },
+  {
+    "street": "Via Giulio Natta",
+    "number": "16",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6811256,
+    "longitude": 9.1003376
+  },
+  {
+    "street": "Via Guglielmo Oberdan",
+    "number": "68",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6796294,
+    "longitude": 9.1033498
+  },
+  {
+    "street": "Viale Industria",
+    "number": "5",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6788621,
+    "longitude": 9.1036607
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "121",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.676046,
+    "longitude": 9.1161246
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "108",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6737961,
+    "longitude": 9.1181515
+  },
+  {
+    "street": "Via Giulio Natta",
+    "number": "15",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6812059,
+    "longitude": 9.1012387
+  },
+  {
+    "street": "Via Giulio Natta",
+    "number": "1",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.681676,
+    "longitude": 9.1027719
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "75",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.676758,
+    "longitude": 9.1160195
+  },
+  {
+    "street": "Strada statale 35 variante di Lentate sul Seveso",
+    "number": "66",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6677614,
+    "longitude": 9.1220677
+  },
+  {
+    "street": "Via Giulio Natta",
+    "number": "25",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6807491,
+    "longitude": 9.1012305
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "198a",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6831837,
+    "longitude": 9.1117787
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "242",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6885618,
+    "longitude": 9.1089421
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "112",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6675067,
+    "longitude": 9.1221709
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "111",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6750962,
+    "longitude": 9.1168051
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "158",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6787709,
+    "longitude": 9.1145467
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "8",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.668579,
+    "longitude": 9.1240056
+  },
+  {
+    "street": "Via Luigi Galvani",
+    "number": "22",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6788031,
+    "longitude": 9.0974396
+  },
+  {
+    "street": "Via Giulio Natta",
+    "number": "33",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6802661,
+    "longitude": 9.1013922
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "136",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6770013,
+    "longitude": 9.1158562
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "3",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6678372,
+    "longitude": 9.1225718
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "198",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6829853,
+    "longitude": 9.1118607
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "33",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6676081,
+    "longitude": 9.1233754
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "108",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6676803,
+    "longitude": 9.1228161
+  },
+  {
+    "street": "Via Filippo Gerbino",
+    "number": "19",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6648133,
+    "longitude": 9.1107141
+  },
+  {
+    "street": "Via Filippo Gerbino",
+    "number": "18",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6655148,
+    "longitude": 9.1121726
+  },
+  {
+    "street": "Via Luigi Galvani",
+    "number": "73",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6791562,
+    "longitude": 9.0971562
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "224",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6875223,
+    "longitude": 9.1099459
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "112",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6746691,
+    "longitude": 9.1174556
+  },
+  {
+    "street": "Via Asiago",
+    "number": "12c",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6856908,
+    "longitude": 9.1058993
+  },
+  {
+    "street": "Via per Mariano",
+    "number": "30",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.686388,
+    "longitude": 9.1502964
+  },
+  {
+    "street": "Via per Mariano",
+    "number": "41",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6880315,
+    "longitude": 9.1512241
+  },
+  {
+    "street": "Via Luigi Galvani",
+    "number": "28",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6794736,
+    "longitude": 9.0968638
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "130",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6766727,
+    "longitude": 9.1162068
+  },
+  {
+    "street": "Via Giulio Natta",
+    "number": "27",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6806009,
+    "longitude": 9.1011584
+  },
+  {
+    "street": "Via Giulio Natta",
+    "number": "31",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.680189,
+    "longitude": 9.1020279
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "131",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6790995,
+    "longitude": 9.1135631
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "160",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6788689,
+    "longitude": 9.1144807
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "137",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6770826,
+    "longitude": 9.1154064
+  },
+  {
+    "street": "Via Giulio Natta",
+    "number": "3",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6814149,
+    "longitude": 9.102896
+  },
+  {
+    "street": "Via Giulio Natta",
+    "number": "5/7",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6815998,
+    "longitude": 9.1017801
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "3",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6801929,
+    "longitude": 9.1287306
+  },
+  {
+    "street": "Via Ventiquattro Maggio",
+    "number": "7",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6682861,
+    "longitude": 9.1313326
+  },
+  {
+    "street": "Via Ventiquattro Maggio",
+    "number": "24",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6682939,
+    "longitude": 9.1332722
+  },
+  {
+    "street": "Viale Italia",
+    "number": "5",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.668485,
+    "longitude": 9.1312132
+  },
+  {
+    "street": "Via Brianza",
+    "number": "50b",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6731235,
+    "longitude": 9.1355321
+  },
+  {
+    "street": "Via Brianza",
+    "number": "46",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.673384,
+    "longitude": 9.1353175
+  },
+  {
+    "street": "Via Brianza",
+    "number": "34",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6734772,
+    "longitude": 9.1331545
+  },
+  {
+    "street": "Via Brianza",
+    "number": "22b",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6762556,
+    "longitude": 9.1309478
+  },
+  {
+    "street": "Viale Italia",
+    "number": "49a",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.671964,
+    "longitude": 9.1290271
+  },
+  {
+    "street": "Via Brianza",
+    "number": "20",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6770185,
+    "longitude": 9.1295831
+  },
+  {
+    "street": "Via Brianza",
+    "number": "32",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6739506,
+    "longitude": 9.1324283
+  },
+  {
+    "street": "Via Ticino",
+    "number": "15",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.666697,
+    "longitude": 9.1349237
+  },
+  {
+    "street": "Via Brianza",
+    "number": "60",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6720787,
+    "longitude": 9.1383802
+  },
+  {
+    "street": "Via Brianza",
+    "number": "22a",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6768068,
+    "longitude": 9.1305599
+  },
+  {
+    "street": "Viale Italia",
+    "number": "49b",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6721432,
+    "longitude": 9.1289678
+  },
+  {
+    "street": "Viale Italia",
+    "number": "58",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6729422,
+    "longitude": 9.1292385
+  },
+  {
+    "street": "Viale Italia",
+    "number": "70",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6766624,
+    "longitude": 9.1268766
+  },
+  {
+    "street": "Via Ticino",
+    "number": "1",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.666889,
+    "longitude": 9.1362511
+  },
+  {
+    "street": "Via Ventiquattro Maggio",
+    "number": "58/60",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.669123,
+    "longitude": 9.1361348
+  },
+  {
+    "street": "Via Brianza",
+    "number": "62",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6717139,
+    "longitude": 9.1390862
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "54",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6669407,
+    "longitude": 9.1224306
+  },
+  {
+    "street": "Via Ludovico Mancini",
+    "number": "20",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6678101,
+    "longitude": 9.1132474
+  },
+  {
+    "street": "Via Don Carlo Gnocchi",
+    "number": "5",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6675558,
+    "longitude": 9.1322459
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "4",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6935722,
+    "longitude": 9.1381727
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "290",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6932046,
+    "longitude": 9.1026616
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "256",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6901039,
+    "longitude": 9.1074487
+  },
+  {
+    "street": "Via Gran Sasso",
+    "number": "6",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6704506,
+    "longitude": 9.1195754
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "92",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6709006,
+    "longitude": 9.1204072
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "33",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6673028,
+    "longitude": 9.1203335
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "109",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6749325,
+    "longitude": 9.1169096
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "94",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6730065,
+    "longitude": 9.0999239
+  },
+  {
+    "street": "Piazza San Vito",
+    "number": "26",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6782794,
+    "longitude": 9.1216694
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "14",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6793405,
+    "longitude": 9.1251811
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "20",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6790781,
+    "longitude": 9.1258919
+  },
+  {
+    "street": "Piazza Fratelli Cervi",
+    "number": "13",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6679276,
+    "longitude": 9.1288425
+  },
+  {
+    "street": "Piazza Fratelli Cervi",
+    "number": "14",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6679668,
+    "longitude": 9.1290562
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "159",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6800664,
+    "longitude": 9.1129444
+  },
+  {
+    "street": "Piazza San Vito",
+    "number": "3",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6781539,
+    "longitude": 9.1214535
+  },
+  {
+    "street": "Via Padova",
+    "number": "40",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6652074,
+    "longitude": 9.1358556
+  },
+  {
+    "street": "Via Giovanni Bizzozero",
+    "number": "84",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6922537,
+    "longitude": 9.1385475
+  },
+  {
+    "street": "Via Francesco Guicciardini",
+    "number": "7",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6842009,
+    "longitude": 9.1104057
+  },
+  {
+    "street": "Via Papa Giovanni XXIII",
+    "number": "32",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.674873,
+    "longitude": 9.1209657
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "251",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6914711,
+    "longitude": 9.1006579
+  },
+  {
+    "street": "Via Luigi Galvani",
+    "number": "2",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6805855,
+    "longitude": 9.1029963
+  },
+  {
+    "street": "Via Giulio Natta",
+    "number": "24",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6802712,
+    "longitude": 9.1005401
+  },
+  {
+    "street": "Via Giuseppe Missori",
+    "number": "2",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6779137,
+    "longitude": 9.1036114
+  },
+  {
+    "street": "Via Guglielmo Oberdan",
+    "number": "50",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6780468,
+    "longitude": 9.1041228
+  },
+  {
+    "street": "Via Guglielmo Oberdan",
+    "number": "58",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6782949,
+    "longitude": 9.1023056
+  },
+  {
+    "street": "Via Don Giovanni Minzoni",
+    "number": "8",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6546173,
+    "longitude": 9.1038968
+  },
+  {
+    "street": "Via Don Giovanni Minzoni",
+    "number": "10",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6547811,
+    "longitude": 9.1049479
+  },
+  {
+    "street": "Via Guglielmo Oberdan",
+    "number": "61",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6772222,
+    "longitude": 9.1052348
+  },
+  {
+    "street": "Via Gian Battista Vico",
+    "number": "30",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6773004,
+    "longitude": 9.1354927
+  },
+  {
+    "street": "Via Monte Generoso",
+    "number": "13",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6807395,
+    "longitude": 9.1173643
+  },
+  {
+    "street": "Via Brianza",
+    "number": "34b",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6742841,
+    "longitude": 9.1329328
+  },
+  {
+    "street": "Via Trieste",
+    "number": "5",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6880445,
+    "longitude": 9.1041878
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "254a",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.689821,
+    "longitude": 9.107743
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "46",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6748305,
+    "longitude": 9.1071395
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "61",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6686313,
+    "longitude": 9.1212142
+  },
+  {
+    "street": "Via Gran Sasso",
+    "number": "1",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6695109,
+    "longitude": 9.120091
+  },
+  {
+    "street": "Via Piave",
+    "number": "12",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6692034,
+    "longitude": 9.1279457
+  },
+  {
+    "street": "Viale Italia",
+    "number": "57",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6734532,
+    "longitude": 9.1284343
+  },
+  {
+    "street": "Viale Italia",
+    "number": "62",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6739517,
+    "longitude": 9.1295824
+  },
+  {
+    "street": "Viale Italia",
+    "number": "46",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6719386,
+    "longitude": 9.1300341
+  },
+  {
+    "street": "Via Brianza",
+    "number": "30",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6748343,
+    "longitude": 9.1318408
+  },
+  {
+    "street": "Via Brianza",
+    "number": "28",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6751032,
+    "longitude": 9.1328024
+  },
+  {
+    "street": "Via Brianza",
+    "number": "24",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6757406,
+    "longitude": 9.1314728
+  },
+  {
+    "street": "Via Brianza",
+    "number": "26",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6755065,
+    "longitude": 9.131662
+  },
+  {
+    "street": "Via Padova",
+    "number": "16",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6672948,
+    "longitude": 9.1360672
+  },
+  {
+    "street": "Via Padova",
+    "number": "28",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6659889,
+    "longitude": 9.1356294
+  },
+  {
+    "street": "Via Ticino",
+    "number": "12",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.667216,
+    "longitude": 9.1353971
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "28/a",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6665922,
+    "longitude": 9.1124079
+  },
+  {
+    "street": "Via Andrea Palladio",
+    "number": "28",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6829029,
+    "longitude": 9.1288024
+  },
+  {
+    "street": "Piazza San Vito",
+    "number": "33",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6777162,
+    "longitude": 9.1216421
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "202",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6838367,
+    "longitude": 9.1117567
+  },
+  {
+    "street": "Via Monte Generoso",
+    "number": "15",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6811871,
+    "longitude": 9.1172366
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "169",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.682333,
+    "longitude": 9.1115709
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "101",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6730435,
+    "longitude": 9.1158288
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "274",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6925317,
+    "longitude": 9.103516
+  },
+  {
+    "street": "Via Tonale",
+    "number": "6",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6867175,
+    "longitude": 9.1031324
+  },
+  {
+    "street": "Via Tonale",
+    "number": "9",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6860844,
+    "longitude": 9.1025786
+  },
+  {
+    "street": "Via San Martino",
+    "number": "8",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.68958,
+    "longitude": 9.1279506
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "210",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6846583,
+    "longitude": 9.11151
+  },
+  {
+    "street": "Via Filippo Gerbino",
+    "number": "54",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6642447,
+    "longitude": 9.1024689
+  },
+  {
+    "street": "Via Guglielmo Oberdan",
+    "number": "70",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6768829,
+    "longitude": 9.0991362
+  },
+  {
+    "street": "Via Guglielmo Oberdan",
+    "number": "69",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.676801,
+    "longitude": 9.1020505
+  },
+  {
+    "street": "Via Luigi Galvani",
+    "number": "11",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6793514,
+    "longitude": 9.1009956
+  },
+  {
+    "street": "Via Padova",
+    "number": "14/16",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6675354,
+    "longitude": 9.1351399
+  },
+  {
+    "street": "Via Tonale",
+    "number": "50",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6846031,
+    "longitude": 9.0965498
+  },
+  {
+    "street": "Via Ventiquattro Maggio",
+    "number": "57",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6712175,
+    "longitude": 9.1390332
+  },
+  {
+    "street": "Via Brianza",
+    "number": "54",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6724547,
+    "longitude": 9.1372935
+  },
+  {
+    "street": "Via Tonale",
+    "number": "87",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.681781,
+    "longitude": 9.0975722
+  },
+  {
+    "street": "Via per Mariano",
+    "number": "1",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6845162,
+    "longitude": 9.137404
+  },
+  {
+    "street": "Via Luigi Galvani",
+    "number": "3",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6783965,
+    "longitude": 9.0988903
+  },
+  {
+    "street": "Via per Mariano",
+    "number": "29",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6864636,
+    "longitude": 9.1479044
+  },
+  {
+    "street": "Via Andrea Palladio",
+    "number": "1",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6803536,
+    "longitude": 9.1291456
+  },
+  {
+    "street": "Via Brianza",
+    "number": "44",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6736596,
+    "longitude": 9.1351094
+  },
+  {
+    "street": "Via Don Carlo Gnocchi",
+    "number": "10",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6660239,
+    "longitude": 9.1328354
+  },
+  {
+    "street": "Via Scultori del Legno",
+    "number": "4",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6820969,
+    "longitude": 9.1126916
+  },
+  {
+    "street": "Via Giovanni Bizzozzero",
+    "number": "8",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6888019,
+    "longitude": 9.1295149
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "66",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.673479,
+    "longitude": 9.1047854
+  },
+  {
+    "street": "Via Appennini",
+    "number": "5",
+    "city": {
+      "name": "Lentate sul Seveso",
+      "istat": "108054"
+    },
+    "latitude": 45.6715845,
+    "longitude": 9.119312
+  }
+]

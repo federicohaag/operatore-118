@@ -1,0 +1,182 @@
+[
+  {
+    "street": "Via Milano",
+    "number": "15",
+    "city": {
+      "name": "Usmate Velate",
+      "istat": "108044"
+    },
+    "latitude": 45.6507645,
+    "longitude": 9.3604528
+  },
+  {
+    "street": "Via Gaetano Donizetti",
+    "number": "13",
+    "city": {
+      "name": "Usmate Velate",
+      "istat": "108044"
+    },
+    "latitude": 45.6393929,
+    "longitude": 9.367231
+  },
+  {
+    "street": "Via Milano",
+    "number": "11",
+    "city": {
+      "name": "Usmate Velate",
+      "istat": "108044"
+    },
+    "latitude": 45.6510863,
+    "longitude": 9.3607903
+  },
+  {
+    "street": "Via Maria Callas",
+    "number": "63",
+    "city": {
+      "name": "Usmate Velate",
+      "istat": "108044"
+    },
+    "latitude": 45.6568579,
+    "longitude": 9.3435582
+  },
+  {
+    "street": "Via Milano",
+    "number": "9",
+    "city": {
+      "name": "Usmate Velate",
+      "istat": "108044"
+    },
+    "latitude": 45.6512642,
+    "longitude": 9.3610303
+  },
+  {
+    "street": "Via Vittorio Emanuele Secondo",
+    "number": "16",
+    "city": {
+      "name": "Usmate Velate",
+      "istat": "108044"
+    },
+    "latitude": 45.6520302,
+    "longitude": 9.3627213
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "13",
+    "city": {
+      "name": "Usmate Velate",
+      "istat": "108044"
+    },
+    "latitude": 45.6513471,
+    "longitude": 9.3597507
+  },
+  {
+    "street": "Via Alfonso Casati",
+    "number": "15",
+    "city": {
+      "name": "Usmate Velate",
+      "istat": "108044"
+    },
+    "latitude": 45.6513011,
+    "longitude": 9.3595616
+  },
+  {
+    "street": "Via Milano",
+    "number": "13",
+    "city": {
+      "name": "Usmate Velate",
+      "istat": "108044"
+    },
+    "latitude": 45.6508831,
+    "longitude": 9.3608189
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "9",
+    "city": {
+      "name": "Usmate Velate",
+      "istat": "108044"
+    },
+    "latitude": 45.6534182,
+    "longitude": 9.342559
+  },
+  {
+    "street": "Via Bernardino Luini",
+    "number": "2",
+    "city": {
+      "name": "Usmate Velate",
+      "istat": "108044"
+    },
+    "latitude": 45.6493454,
+    "longitude": 9.3547086
+  },
+  {
+    "street": "Piazza Sandro Pertini",
+    "number": "4",
+    "city": {
+      "name": "Usmate Velate",
+      "istat": "108044"
+    },
+    "latitude": 45.6518315,
+    "longitude": 9.3629997
+  },
+  {
+    "street": "Via Roma",
+    "number": "5",
+    "city": {
+      "name": "Usmate Velate",
+      "istat": "108044"
+    },
+    "latitude": 45.6515086,
+    "longitude": 9.3633121
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "30",
+    "city": {
+      "name": "Usmate Velate",
+      "istat": "108044"
+    },
+    "latitude": 45.6475538,
+    "longitude": 9.3714849
+  },
+  {
+    "street": "Via John Fitzgerald Kennedy",
+    "number": "26",
+    "city": {
+      "name": "Usmate Velate",
+      "istat": "108044"
+    },
+    "latitude": 45.6337298,
+    "longitude": 9.3587134
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "32",
+    "city": {
+      "name": "Usmate Velate",
+      "istat": "108044"
+    },
+    "latitude": 45.6448174,
+    "longitude": 9.372037
+  },
+  {
+    "street": "Via Medaglie d'Oro",
+    "number": "15",
+    "city": {
+      "name": "Usmate Velate",
+      "istat": "108044"
+    },
+    "latitude": 45.6502002,
+    "longitude": 9.3568137
+  },
+  {
+    "street": "Via Gian Lorenzo Bernini",
+    "number": "12",
+    "city": {
+      "name": "Usmate Velate",
+      "istat": "108044"
+    },
+    "latitude": 45.6439254,
+    "longitude": 9.3619143
+  }
+]

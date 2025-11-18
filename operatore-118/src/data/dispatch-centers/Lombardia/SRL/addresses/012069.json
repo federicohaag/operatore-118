@@ -1,0 +1,72 @@
+[
+  {
+    "street": "Via Cesare Battisti",
+    "number": "11",
+    "city": {
+      "name": "Ferrera di Varese",
+      "istat": "012069"
+    },
+    "latitude": 45.935223,
+    "longitude": 8.7867485
+  },
+  {
+    "street": "Piazza Quattro Novembre",
+    "number": "11",
+    "city": {
+      "name": "Ferrera di Varese",
+      "istat": "012069"
+    },
+    "latitude": 45.9349235,
+    "longitude": 8.7863311
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "19",
+    "city": {
+      "name": "Ferrera di Varese",
+      "istat": "012069"
+    },
+    "latitude": 45.9327524,
+    "longitude": 8.7871517
+  },
+  {
+    "street": "Via Roma",
+    "number": "13",
+    "city": {
+      "name": "Ferrera di Varese",
+      "istat": "012069"
+    },
+    "latitude": 45.9343669,
+    "longitude": 8.7857877
+  },
+  {
+    "street": "Località Pioggio",
+    "number": "1",
+    "city": {
+      "name": "Ferrera di Varese",
+      "istat": "012069"
+    },
+    "latitude": 45.9360082,
+    "longitude": 8.7794675
+  },
+  {
+    "street": "Via Pioggio",
+    "number": "1",
+    "city": {
+      "name": "Ferrera di Varese",
+      "istat": "012069"
+    },
+    "latitude": 45.9347334,
+    "longitude": 8.7815953
+  },
+  {
+    "street": "Piazza Quattro Novembre",
+    "number": "9",
+    "city": {
+      "name": "Ferrera di Varese",
+      "istat": "012069"
+    },
+    "latitude": 45.9349771,
+    "longitude": 8.7864426
+  }
+]

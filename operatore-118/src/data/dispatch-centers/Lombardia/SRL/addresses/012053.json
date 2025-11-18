@@ -1,0 +1,242 @@
+[
+  {
+    "street": "Via Tagliabò",
+    "number": "4",
+    "city": {
+      "name": "Cocquio-Trevisago",
+      "istat": "012053"
+    },
+    "latitude": 45.8600265,
+    "longitude": 8.6886221
+  },
+  {
+    "street": "Contrada Motto dei Grilli",
+    "number": "30",
+    "city": {
+      "name": "Cocquio-Trevisago",
+      "istat": "012053"
+    },
+    "latitude": 45.8606824,
+    "longitude": 8.6831153
+  },
+  {
+    "street": "Via Roma",
+    "number": "54",
+    "city": {
+      "name": "Cocquio-Trevisago",
+      "istat": "012053"
+    },
+    "latitude": 45.8597256,
+    "longitude": 8.6961151
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "12",
+    "city": {
+      "name": "Cocquio-Trevisago",
+      "istat": "012053"
+    },
+    "latitude": 45.8649779,
+    "longitude": 8.6910645
+  },
+  {
+    "street": "Via della Rocca",
+    "number": "5",
+    "city": {
+      "name": "Cocquio-Trevisago",
+      "istat": "012053"
+    },
+    "latitude": 45.8677425,
+    "longitude": 8.6965481
+  },
+  {
+    "street": "Via Milano",
+    "number": "52",
+    "city": {
+      "name": "Cocquio-Trevisago",
+      "istat": "012053"
+    },
+    "latitude": 45.8587818,
+    "longitude": 8.6891641
+  },
+  {
+    "street": "Via Milano",
+    "number": "90",
+    "city": {
+      "name": "Cocquio-Trevisago",
+      "istat": "012053"
+    },
+    "latitude": 45.8571778,
+    "longitude": 8.6905467
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "6",
+    "city": {
+      "name": "Cocquio-Trevisago",
+      "istat": "012053"
+    },
+    "latitude": 45.8588275,
+    "longitude": 8.6963358
+  },
+  {
+    "street": "Via della Rocca",
+    "number": "3",
+    "city": {
+      "name": "Cocquio-Trevisago",
+      "istat": "012053"
+    },
+    "latitude": 45.8697546,
+    "longitude": 8.6966633
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "12",
+    "city": {
+      "name": "Cocquio-Trevisago",
+      "istat": "012053"
+    },
+    "latitude": 45.8632207,
+    "longitude": 8.6825627
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "35",
+    "city": {
+      "name": "Cocquio-Trevisago",
+      "istat": "012053"
+    },
+    "latitude": 45.8608068,
+    "longitude": 8.6846946
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "55c",
+    "city": {
+      "name": "Cocquio-Trevisago",
+      "istat": "012053"
+    },
+    "latitude": 45.8626171,
+    "longitude": 8.6829156
+  },
+  {
+    "street": "Strada Stazione",
+    "number": "1",
+    "city": {
+      "name": "Cocquio-Trevisago",
+      "istat": "012053"
+    },
+    "latitude": 45.8602987,
+    "longitude": 8.6899812
+  },
+  {
+    "street": "Via Milano",
+    "number": "44",
+    "city": {
+      "name": "Cocquio-Trevisago",
+      "istat": "012053"
+    },
+    "latitude": 45.8589544,
+    "longitude": 8.6888761
+  },
+  {
+    "street": "Via Carlo Malgarini",
+    "number": "3",
+    "city": {
+      "name": "Cocquio-Trevisago",
+      "istat": "012053"
+    },
+    "latitude": 45.8722539,
+    "longitude": 8.6920467
+  },
+  {
+    "street": "Via Milano",
+    "number": "160",
+    "city": {
+      "name": "Cocquio-Trevisago",
+      "istat": "012053"
+    },
+    "latitude": 45.8522254,
+    "longitude": 8.7024739
+  },
+  {
+    "street": "Via Milano",
+    "number": "156",
+    "city": {
+      "name": "Cocquio-Trevisago",
+      "istat": "012053"
+    },
+    "latitude": 45.8517669,
+    "longitude": 8.7026201
+  },
+  {
+    "street": "Via Laghetto Saregno",
+    "number": "5",
+    "city": {
+      "name": "Cocquio-Trevisago",
+      "istat": "012053"
+    },
+    "latitude": 45.8513013,
+    "longitude": 8.7040515
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "11",
+    "city": {
+      "name": "Cocquio-Trevisago",
+      "istat": "012053"
+    },
+    "latitude": 45.8619617,
+    "longitude": 8.6959953
+  },
+  {
+    "street": "Via Milano",
+    "number": "30",
+    "city": {
+      "name": "Cocquio-Trevisago",
+      "istat": "012053"
+    },
+    "latitude": 45.8591415,
+    "longitude": 8.6879692
+  },
+  {
+    "street": "Via Milano",
+    "number": "18",
+    "city": {
+      "name": "Cocquio-Trevisago",
+      "istat": "012053"
+    },
+    "latitude": 45.8593924,
+    "longitude": 8.6869924
+  },
+  {
+    "street": "Via della Selva",
+    "number": "13",
+    "city": {
+      "name": "Cocquio-Trevisago",
+      "istat": "012053"
+    },
+    "latitude": 45.8728689,
+    "longitude": 8.7367009
+  },
+  {
+    "street": "Via Appennini",
+    "number": "32",
+    "city": {
+      "name": "Cocquio-Trevisago",
+      "istat": "012053"
+    },
+    "latitude": 45.869743,
+    "longitude": 8.671918
+  },
+  {
+    "street": "Via Milano",
+    "number": "144",
+    "city": {
+      "name": "Cocquio-Trevisago",
+      "istat": "012053"
+    },
+    "latitude": 45.8520491,
+    "longitude": 8.7039815
+  }
+]

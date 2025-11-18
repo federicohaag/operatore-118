@@ -1,0 +1,52 @@
+[
+  {
+    "street": "Località Marnico",
+    "number": "8",
+    "city": {
+      "name": "Schignano",
+      "istat": "013211"
+    },
+    "latitude": 45.920464,
+    "longitude": 9.1029648
+  },
+  {
+    "street": "Via Domenico Giobbi",
+    "number": "3",
+    "city": {
+      "name": "Schignano",
+      "istat": "013211"
+    },
+    "latitude": 45.9270093,
+    "longitude": 9.1016605
+  },
+  {
+    "street": "via Roma",
+    "number": "75",
+    "city": {
+      "name": "Schignano",
+      "istat": "013211"
+    },
+    "latitude": 45.935715,
+    "longitude": 9.0957664
+  },
+  {
+    "street": "Via Roma",
+    "number": "9",
+    "city": {
+      "name": "Schignano",
+      "istat": "013211"
+    },
+    "latitude": 45.9265267,
+    "longitude": 9.0995444
+  },
+  {
+    "street": "via Roma",
+    "number": "106",
+    "city": {
+      "name": "Schignano",
+      "istat": "013211"
+    },
+    "latitude": 45.9368924,
+    "longitude": 9.0949188
+  }
+]

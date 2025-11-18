@@ -1,0 +1,1182 @@
+[
+  {
+    "street": "Via Italo Cremona",
+    "number": "1",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7787007,
+    "longitude": 8.8254316
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "13a",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7838548,
+    "longitude": 8.8266323
+  },
+  {
+    "street": "Via Gallarate",
+    "number": "70",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7673284,
+    "longitude": 8.8124423
+  },
+  {
+    "street": "Via Guido Cagnola",
+    "number": "17/19",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7785889,
+    "longitude": 8.8209228
+  },
+  {
+    "street": "Via Gallarate",
+    "number": "26",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7728346,
+    "longitude": 8.8160375
+  },
+  {
+    "street": "Via Morazzone",
+    "number": "19",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7752853,
+    "longitude": 8.8239017
+  },
+  {
+    "street": "Via Gallarate",
+    "number": "49",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7689817,
+    "longitude": 8.8137592
+  },
+  {
+    "street": "Via Gianfranco Miglio",
+    "number": "2",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7706551,
+    "longitude": 8.8142577
+  },
+  {
+    "street": "Piazza Don Angelo Stoppani",
+    "number": "6",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7787003,
+    "longitude": 8.8246326
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "7",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7791315,
+    "longitude": 8.8234189
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "5",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7791914,
+    "longitude": 8.8232687
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "6",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7791483,
+    "longitude": 8.8231105
+  },
+  {
+    "street": "Via Roma",
+    "number": "36",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7791109,
+    "longitude": 8.823781
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "5",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7795823,
+    "longitude": 8.8252053
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "3",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.779515,
+    "longitude": 8.825039
+  },
+  {
+    "street": "Via Piave",
+    "number": "12",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7780615,
+    "longitude": 8.8241324
+  },
+  {
+    "street": "Via Piave",
+    "number": "10",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7779586,
+    "longitude": 8.8240251
+  },
+  {
+    "street": "Via Piave",
+    "number": "7",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7780334,
+    "longitude": 8.8238937
+  },
+  {
+    "street": "Via Piave",
+    "number": "6",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7776275,
+    "longitude": 8.8236952
+  },
+  {
+    "street": "Via Piave",
+    "number": "4",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7774423,
+    "longitude": 8.8233224
+  },
+  {
+    "street": "Via Piave",
+    "number": "1",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7776181,
+    "longitude": 8.8234913
+  },
+  {
+    "street": "Via Piave",
+    "number": "2a",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.777259,
+    "longitude": 8.8230488
+  },
+  {
+    "street": "Via Piave",
+    "number": "2",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7771374,
+    "longitude": 8.8228315
+  },
+  {
+    "street": "Via Guido Cagnola",
+    "number": "25",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7803493,
+    "longitude": 8.8224533
+  },
+  {
+    "street": "Via Guido Cagnola",
+    "number": "23",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.779977,
+    "longitude": 8.8221422
+  },
+  {
+    "street": "Via Guido Cagnola",
+    "number": "30",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7796908,
+    "longitude": 8.8220966
+  },
+  {
+    "street": "Via Guido Cagnola",
+    "number": "28",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7794046,
+    "longitude": 8.8220081
+  },
+  {
+    "street": "Via Guido Cagnola",
+    "number": "26",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.779255,
+    "longitude": 8.8219517
+  },
+  {
+    "street": "Via Guido Cagnola",
+    "number": "21",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7786732,
+    "longitude": 8.8215119
+  },
+  {
+    "street": "Via Guido Cagnola",
+    "number": "15",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7779848,
+    "longitude": 8.8214099
+  },
+  {
+    "street": "Via Guido Cagnola",
+    "number": "19",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7782972,
+    "longitude": 8.8214797
+  },
+  {
+    "street": "Via Guido Cagnola",
+    "number": "17",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7781644,
+    "longitude": 8.8214609
+  },
+  {
+    "street": "Via Guido Cagnola",
+    "number": "16",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7776181,
+    "longitude": 8.8213938
+  },
+  {
+    "street": "Via Italia Libera",
+    "number": "76",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7775863,
+    "longitude": 8.8219893
+  },
+  {
+    "street": "Via Italia Libera",
+    "number": "78",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7775452,
+    "longitude": 8.8220242
+  },
+  {
+    "street": "Via Italo Cremona",
+    "number": "32",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.777794,
+    "longitude": 8.8244113
+  },
+  {
+    "street": "Via Roma",
+    "number": "89",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7778043,
+    "longitude": 8.8229951
+  },
+  {
+    "street": "Via Roma",
+    "number": "87",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7778492,
+    "longitude": 8.8230233
+  },
+  {
+    "street": "Via Roma",
+    "number": "85",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7779109,
+    "longitude": 8.8230582
+  },
+  {
+    "street": "Via Roma",
+    "number": "83",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7779539,
+    "longitude": 8.823089
+  },
+  {
+    "street": "Via Roma",
+    "number": "81",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7781588,
+    "longitude": 8.8231721
+  },
+  {
+    "street": "Via Italia Libera",
+    "number": "83",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7780016,
+    "longitude": 8.8222977
+  },
+  {
+    "street": "Via Italia Libera",
+    "number": "81",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7780708,
+    "longitude": 8.8223487
+  },
+  {
+    "street": "Via Italia Libera",
+    "number": "90a",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7773132,
+    "longitude": 8.8221797
+  },
+  {
+    "street": "Via Italia Libera",
+    "number": "90",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7773525,
+    "longitude": 8.8221341
+  },
+  {
+    "street": "Via Italia Libera",
+    "number": "80",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7775096,
+    "longitude": 8.822051
+  },
+  {
+    "street": "Via Italia Libera",
+    "number": "82",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7774704,
+    "longitude": 8.8220161
+  },
+  {
+    "street": "Via Azzate",
+    "number": "1",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7767744,
+    "longitude": 8.8222602
+  },
+  {
+    "street": "Piazza San Bernardino",
+    "number": "8",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7772113,
+    "longitude": 8.8222294
+  },
+  {
+    "street": "Piazza San Bernardino",
+    "number": "7",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7771299,
+    "longitude": 8.8222481
+  },
+  {
+    "street": "Piazza San Bernardino",
+    "number": "6",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7769634,
+    "longitude": 8.822287
+  },
+  {
+    "street": "Via Italia Libera",
+    "number": "74",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7779287,
+    "longitude": 8.8220885
+  },
+  {
+    "street": "Via Italia Libera",
+    "number": "72",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7780241,
+    "longitude": 8.8221636
+  },
+  {
+    "street": "Piazza Generale Enrico Galvaligi",
+    "number": "2",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7780265,
+    "longitude": 8.8224215
+  },
+  {
+    "street": "Via Italia Libera",
+    "number": "64",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7782663,
+    "longitude": 8.8223058
+  },
+  {
+    "street": "Via Italia Libera",
+    "number": "79",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7782953,
+    "longitude": 8.822456
+  },
+  {
+    "street": "Via Italia Libera",
+    "number": "77",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7784122,
+    "longitude": 8.8225324
+  },
+  {
+    "street": "Via Italia Libera",
+    "number": "58",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7786059,
+    "longitude": 8.822515
+  },
+  {
+    "street": "Via Italia Libera",
+    "number": "56",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.778632,
+    "longitude": 8.8225284
+  },
+  {
+    "street": "Via Italia Libera",
+    "number": "73",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7786545,
+    "longitude": 8.8226558
+  },
+  {
+    "street": "Via Italia Libera",
+    "number": "75",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.778517,
+    "longitude": 8.8226035
+  },
+  {
+    "street": "Via Stazione",
+    "number": "4",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.77859,
+    "longitude": 8.8231494
+  },
+  {
+    "street": "Via Stazione",
+    "number": "3",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7786748,
+    "longitude": 8.8231266
+  },
+  {
+    "street": "Via Stazione",
+    "number": "1",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7787499,
+    "longitude": 8.8227215
+  },
+  {
+    "street": "Via Italia Libera",
+    "number": "54",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7787854,
+    "longitude": 8.8225847
+  },
+  {
+    "street": "Via Italia Libera",
+    "number": "52b",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7788528,
+    "longitude": 8.8225982
+  },
+  {
+    "street": "Via Italia Libera",
+    "number": "52a",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7788958,
+    "longitude": 8.8226035
+  },
+  {
+    "street": "Via Italia Libera",
+    "number": "52",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7789575,
+    "longitude": 8.8226303
+  },
+  {
+    "street": "Via Italia Libera",
+    "number": "50",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7790567,
+    "longitude": 8.8226464
+  },
+  {
+    "street": "Via Italia Libera",
+    "number": "67",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7789987,
+    "longitude": 8.8227376
+  },
+  {
+    "street": "Via Italia Libera",
+    "number": "46",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7792662,
+    "longitude": 8.8227376
+  },
+  {
+    "street": "Via Italia Libera",
+    "number": "48",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7791858,
+    "longitude": 8.8227028
+  },
+  {
+    "street": "Via Italia Libera",
+    "number": "44",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7793204,
+    "longitude": 8.8227805
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "3b",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7792381,
+    "longitude": 8.8231426
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "3a",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7793036,
+    "longitude": 8.8230514
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "4",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7791465,
+    "longitude": 8.8229737
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "2",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7791876,
+    "longitude": 8.822861
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "16",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7792924,
+    "longitude": 8.8246755
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "14",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7792653,
+    "longitude": 8.8246031
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "12",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7792456,
+    "longitude": 8.8245521
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "8",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7791699,
+    "longitude": 8.8243845
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "4",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.779124,
+    "longitude": 8.8242665
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "1",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7791081,
+    "longitude": 8.8241123
+  },
+  {
+    "street": "Via Roma",
+    "number": "59",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7789856,
+    "longitude": 8.8240224
+  },
+  {
+    "street": "Via Roma",
+    "number": "61",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7789257,
+    "longitude": 8.82395
+  },
+  {
+    "street": "Via Roma",
+    "number": "63",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7788752,
+    "longitude": 8.8238749
+  },
+  {
+    "street": "Via Roma",
+    "number": "46",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7788004,
+    "longitude": 8.8235664
+  },
+  {
+    "street": "Via Roma",
+    "number": "50",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7787218,
+    "longitude": 8.8234887
+  },
+  {
+    "street": "Via Roma",
+    "number": "63a",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7788247,
+    "longitude": 8.8238132
+  },
+  {
+    "street": "Via Roma",
+    "number": "65",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7787536,
+    "longitude": 8.8237408
+  },
+  {
+    "street": "Via Roma",
+    "number": "67",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7787162,
+    "longitude": 8.8237005
+  },
+  {
+    "street": "Via Roma",
+    "number": "69",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7786844,
+    "longitude": 8.8236684
+  },
+  {
+    "street": "Via Roma",
+    "number": "71",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.778662,
+    "longitude": 8.8236442
+  },
+  {
+    "street": "Via Roma",
+    "number": "79",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7785516,
+    "longitude": 8.8235208
+  },
+  {
+    "street": "Via Roma",
+    "number": "77",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7785722,
+    "longitude": 8.8235463
+  },
+  {
+    "street": "Via Roma",
+    "number": "75",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7785965,
+    "longitude": 8.8235745
+  },
+  {
+    "street": "Via Roma",
+    "number": "73",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7786264,
+    "longitude": 8.8236013
+  },
+  {
+    "street": "Via Stazione",
+    "number": "5",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7784805,
+    "longitude": 8.8236442
+  },
+  {
+    "street": "Via Stazione",
+    "number": "7",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.778402,
+    "longitude": 8.823832
+  },
+  {
+    "street": "Piazza Don Angelo Stoppani",
+    "number": "14",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7785834,
+    "longitude": 8.824237
+  },
+  {
+    "street": "Piazza Don Angelo Stoppani",
+    "number": "8",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7787218,
+    "longitude": 8.8246755
+  },
+  {
+    "street": "Piazza Don Angelo Stoppani",
+    "number": "4",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7786582,
+    "longitude": 8.8246098
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "14",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7730486,
+    "longitude": 8.8240421
+  },
+  {
+    "street": "Via Roma",
+    "number": "18",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7804341,
+    "longitude": 8.82394
+  },
+  {
+    "street": "Via Italo Cremona",
+    "number": "2",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.776503,
+    "longitude": 8.823116
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "13",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7830236,
+    "longitude": 8.8274289
+  },
+  {
+    "street": "Via Capolago",
+    "number": "8",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7836946,
+    "longitude": 8.8218898
+  },
+  {
+    "street": "Via Capolago",
+    "number": "6",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7837283,
+    "longitude": 8.8225121
+  },
+  {
+    "street": "Via Capolago",
+    "number": "2",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7834033,
+    "longitude": 8.8237291
+  },
+  {
+    "street": "Via Varese",
+    "number": "5",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7841159,
+    "longitude": 8.8252003
+  },
+  {
+    "street": "Via Varese",
+    "number": "7",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.784252,
+    "longitude": 8.8255846
+  },
+  {
+    "street": "Via Varese",
+    "number": "11a",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7848131,
+    "longitude": 8.8260245
+  },
+  {
+    "street": "Via Varese",
+    "number": "13",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7851486,
+    "longitude": 8.8262284
+  },
+  {
+    "street": "Via Varese",
+    "number": "15",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7854423,
+    "longitude": 8.8263451
+  },
+  {
+    "street": "Via Morazzone",
+    "number": "37",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7736491,
+    "longitude": 8.8282411
+  },
+  {
+    "street": "Via Roma",
+    "number": "17",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7811142,
+    "longitude": 8.8248551
+  },
+  {
+    "street": "Via Michelangelo Buonarroti",
+    "number": "43B",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7824889,
+    "longitude": 8.842388
+  },
+  {
+    "street": "Via Carletto Ferrari",
+    "number": "1",
+    "city": {
+      "name": "Gazzada Schianno",
+      "istat": "012073"
+    },
+    "latitude": 45.7824272,
+    "longitude": 8.8391441
+  }
+]

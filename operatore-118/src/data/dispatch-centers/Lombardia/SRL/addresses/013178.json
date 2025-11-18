@@ -1,0 +1,22 @@
+[
+  {
+    "street": "Via Pincirolo",
+    "number": "8",
+    "city": {
+      "name": "Peglio",
+      "istat": "013178"
+    },
+    "latitude": 46.161387,
+    "longitude": 9.2922357
+  },
+  {
+    "street": "Strada del Castello",
+    "number": "28",
+    "city": {
+      "name": "Peglio",
+      "istat": "013178"
+    },
+    "latitude": 46.1602291,
+    "longitude": 9.2936187
+  }
+]

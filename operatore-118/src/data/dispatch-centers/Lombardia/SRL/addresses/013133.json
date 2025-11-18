@@ -1,0 +1,1482 @@
+[
+  {
+    "street": "Viale Somaini",
+    "number": "31",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.7014694,
+    "longitude": 9.0334722
+  },
+  {
+    "street": "Via della Pace",
+    "number": "1",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6982311,
+    "longitude": 9.0396373
+  },
+  {
+    "street": "Via Roma",
+    "number": "5",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6734192,
+    "longitude": 9.0399625
+  },
+  {
+    "street": "Viale Trento",
+    "number": "7a",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6985097,
+    "longitude": 9.0347123
+  },
+  {
+    "street": "Viale Trento",
+    "number": "7c",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.698515,
+    "longitude": 9.0345707
+  },
+  {
+    "street": "Viale Trento",
+    "number": "7e",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6985195,
+    "longitude": 9.0344424
+  },
+  {
+    "street": "Viale Trento",
+    "number": "7f",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6985237,
+    "longitude": 9.0343403
+  },
+  {
+    "street": "Viale Trento",
+    "number": "7Fbis",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6985299,
+    "longitude": 9.0342154
+  },
+  {
+    "street": "Via Camillo Benso, conte di Cavour",
+    "number": "3",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6980279,
+    "longitude": 9.0364576
+  },
+  {
+    "street": "Piazza Quattro Novembre",
+    "number": "2",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6989289,
+    "longitude": 9.0400822
+  },
+  {
+    "street": "Via Milano",
+    "number": "1",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6968243,
+    "longitude": 9.0406956
+  },
+  {
+    "street": "Viale Trento",
+    "number": "9",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6985323,
+    "longitude": 9.0339742
+  },
+  {
+    "street": "Piazza Stazione",
+    "number": "3",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6987052,
+    "longitude": 9.0366074
+  },
+  {
+    "street": "Via degli Arconati",
+    "number": "2",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6976423,
+    "longitude": 9.0395342
+  },
+  {
+    "street": "Via Milano",
+    "number": "26",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6949825,
+    "longitude": 9.040107
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "1",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6993197,
+    "longitude": 9.0388429
+  },
+  {
+    "street": "Brolo San Vito",
+    "number": "4",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6991808,
+    "longitude": 9.0388739
+  },
+  {
+    "street": "Via Paolo da Lomazzo",
+    "number": "1",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6969332,
+    "longitude": 9.0407257
+  },
+  {
+    "street": "Via della Pace",
+    "number": "3c",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6983348,
+    "longitude": 9.0388148
+  },
+  {
+    "street": "Via Unione",
+    "number": "3/5",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6980725,
+    "longitude": 9.0399183
+  },
+  {
+    "street": "Via Unione",
+    "number": "5",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6980218,
+    "longitude": 9.0398814
+  },
+  {
+    "street": "Via Unione",
+    "number": "3",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6980739,
+    "longitude": 9.0398783
+  },
+  {
+    "street": "Via Unione",
+    "number": "7",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6977998,
+    "longitude": 9.0399175
+  },
+  {
+    "street": "Vicolo Colmegna",
+    "number": "8",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.698248,
+    "longitude": 9.036869
+  },
+  {
+    "street": "Via Giovanni Paolo da Lomazzo",
+    "number": "18",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6979345,
+    "longitude": 9.041806
+  },
+  {
+    "street": "Via della Pace",
+    "number": "7",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6983728,
+    "longitude": 9.0384555
+  },
+  {
+    "street": "Via Paolo Giovio",
+    "number": "9",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.7006019,
+    "longitude": 9.0396033
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "2",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6994356,
+    "longitude": 9.0390244
+  },
+  {
+    "street": "Vicolo Aosta",
+    "number": "1A",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.7041815,
+    "longitude": 9.0349268
+  },
+  {
+    "street": "Via degli Arconati",
+    "number": "16",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.697736,
+    "longitude": 9.0386189
+  },
+  {
+    "street": "Vicolo Monte Tonale",
+    "number": "2",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6992434,
+    "longitude": 9.0232087
+  },
+  {
+    "street": "Via del Seprio",
+    "number": "45",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6994006,
+    "longitude": 9.0231822
+  },
+  {
+    "street": "Vicolo Turconi",
+    "number": "1",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6985939,
+    "longitude": 9.0375192
+  },
+  {
+    "street": "Via della Pace",
+    "number": "16",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.698519,
+    "longitude": 9.0373847
+  },
+  {
+    "street": "Via della Pace",
+    "number": "18/a",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6985523,
+    "longitude": 9.0377762
+  },
+  {
+    "street": "Via del lavoro",
+    "number": "7",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6869837,
+    "longitude": 9.0437836
+  },
+  {
+    "street": "Vicolo Cirimido",
+    "number": "7",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6976703,
+    "longitude": 9.0229557
+  },
+  {
+    "street": "Via della Pace",
+    "number": "3",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6983217,
+    "longitude": 9.0389288
+  },
+  {
+    "street": "Via Ugo Foscolo",
+    "number": "3",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6941794,
+    "longitude": 9.0400234
+  },
+  {
+    "street": "Piazza Trento",
+    "number": "9",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6734373,
+    "longitude": 9.0396098
+  },
+  {
+    "street": "Via Piave",
+    "number": "4",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6722566,
+    "longitude": 9.0403018
+  },
+  {
+    "street": "Piazza Trento",
+    "number": "3",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6729972,
+    "longitude": 9.0394215
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "7",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6727051,
+    "longitude": 9.039599
+  },
+  {
+    "street": "Via Piave",
+    "number": "13",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6722478,
+    "longitude": 9.0419942
+  },
+  {
+    "street": "Via Monte Generoso",
+    "number": "7",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6972249,
+    "longitude": 9.0323223
+  },
+  {
+    "street": "Via della Pace",
+    "number": "13",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6984512,
+    "longitude": 9.03796
+  },
+  {
+    "street": "Via della Pace",
+    "number": "27",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6984368,
+    "longitude": 9.0375522
+  },
+  {
+    "street": "Via Friuli",
+    "number": "4",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.7023862,
+    "longitude": 9.0355222
+  },
+  {
+    "street": "Via Friuli",
+    "number": "35",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.7024888,
+    "longitude": 9.0357663
+  },
+  {
+    "street": "Via Friuli",
+    "number": "39",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.7027547,
+    "longitude": 9.0352767
+  },
+  {
+    "street": "Via Friuli",
+    "number": "37",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.7029252,
+    "longitude": 9.0353262
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "32",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6995526,
+    "longitude": 9.0375053
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "22",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6995369,
+    "longitude": 9.0376691
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "9",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6994029,
+    "longitude": 9.0380115
+  },
+  {
+    "street": "Via Friuli",
+    "number": "13",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.7032207,
+    "longitude": 9.0341958
+  },
+  {
+    "street": "Via Monte San Primo",
+    "number": "14",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.7033891,
+    "longitude": 9.0339681
+  },
+  {
+    "street": "Via Friuli",
+    "number": "7",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.7030799,
+    "longitude": 9.0340402
+  },
+  {
+    "street": "Via Friuli",
+    "number": "5",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.7029205,
+    "longitude": 9.0339928
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "13",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6707135,
+    "longitude": 9.0406472
+  },
+  {
+    "street": "Via Piave",
+    "number": "11",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.672474,
+    "longitude": 9.0411015
+  },
+  {
+    "street": "Via Pitagora",
+    "number": "15",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6997028,
+    "longitude": 9.0298478
+  },
+  {
+    "street": "Piazza Quattro Novembre",
+    "number": "6",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6982081,
+    "longitude": 9.0401759
+  },
+  {
+    "street": "Via Milano",
+    "number": "24",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6955224,
+    "longitude": 9.0401625
+  },
+  {
+    "street": "Viale Trento",
+    "number": "3",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6977047,
+    "longitude": 9.0353058
+  },
+  {
+    "street": "Via Graffignana",
+    "number": "17a",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.7014903,
+    "longitude": 9.0345398
+  },
+  {
+    "street": "Via dello Sport",
+    "number": "3",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6890812,
+    "longitude": 9.0424533
+  },
+  {
+    "street": "Via dello Sport",
+    "number": "5",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.689076,
+    "longitude": 9.0426809
+  },
+  {
+    "street": "Via dello Sport",
+    "number": "7",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6890714,
+    "longitude": 9.043076
+  },
+  {
+    "street": "Via dello Sport",
+    "number": "9",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6890737,
+    "longitude": 9.0437087
+  },
+  {
+    "street": "Via Cavour",
+    "number": "2",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6974162,
+    "longitude": 9.0356372
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "75",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6775801,
+    "longitude": 9.0401904
+  },
+  {
+    "street": "Via Unione",
+    "number": "15",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6973004,
+    "longitude": 9.0401649
+  },
+  {
+    "street": "Piazza Alessandro Volta",
+    "number": "2",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6974489,
+    "longitude": 9.0395496
+  },
+  {
+    "street": "Via della Pace",
+    "number": "14/a",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6985315,
+    "longitude": 9.0380354
+  },
+  {
+    "street": "Via della Pace",
+    "number": "3b",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6983139,
+    "longitude": 9.0389877
+  },
+  {
+    "street": "Via Monte San Primo",
+    "number": "10",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.7033128,
+    "longitude": 9.0338753
+  },
+  {
+    "street": "Via Friuli",
+    "number": "9",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.703322,
+    "longitude": 9.0341881
+  },
+  {
+    "street": "Via Monte San Primo",
+    "number": "6",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.7033136,
+    "longitude": 9.033275
+  },
+  {
+    "street": "Via Monte San Primo",
+    "number": "8",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.703363,
+    "longitude": 9.0336315
+  },
+  {
+    "street": "Via Monte San Primo",
+    "number": "12",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.7036424,
+    "longitude": 9.0335282
+  },
+  {
+    "street": "Via Monte San Primo",
+    "number": "18",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.7039056,
+    "longitude": 9.033771
+  },
+  {
+    "street": "Via Monte San Primo",
+    "number": "16",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.7036298,
+    "longitude": 9.0339549
+  },
+  {
+    "street": "Via Graffignana",
+    "number": "6",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.7016069,
+    "longitude": 9.0354455
+  },
+  {
+    "street": "Via Graffignana",
+    "number": "4",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.7017381,
+    "longitude": 9.0357182
+  },
+  {
+    "street": "Via Friuli",
+    "number": "2",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.7024191,
+    "longitude": 9.0350957
+  },
+  {
+    "street": "Piazza Brolo San Vito",
+    "number": "8",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6984601,
+    "longitude": 9.0387588
+  },
+  {
+    "street": "Via Unione",
+    "number": "4",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6978513,
+    "longitude": 9.0397526
+  },
+  {
+    "street": "Via Unione",
+    "number": "11",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6976256,
+    "longitude": 9.0399543
+  },
+  {
+    "street": "Via Milano",
+    "number": "13/a",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6959443,
+    "longitude": 9.0406059
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "19",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6919861,
+    "longitude": 9.0406797
+  },
+  {
+    "street": "Via dei Pravelli",
+    "number": "3",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6931192,
+    "longitude": 9.0370786
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "51",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.684534,
+    "longitude": 9.0406913
+  },
+  {
+    "street": "Via Graffignana",
+    "number": "17",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.7011361,
+    "longitude": 9.0343159
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "7",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6912754,
+    "longitude": 9.0412066
+  },
+  {
+    "street": "Via dello Sport",
+    "number": "4",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.688613,
+    "longitude": 9.0411352
+  },
+  {
+    "street": "Via del lavoro",
+    "number": "3",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6869214,
+    "longitude": 9.0428139
+  },
+  {
+    "street": "Via degli artigiani",
+    "number": "4",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6875788,
+    "longitude": 9.043691
+  },
+  {
+    "street": "Via della cascina Traversa",
+    "number": "15",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6873597,
+    "longitude": 9.0428185
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "29",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6873111,
+    "longitude": 9.0405675
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "6",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6934392,
+    "longitude": 9.0395941
+  },
+  {
+    "street": "Via Rosales",
+    "number": "7",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6970387,
+    "longitude": 9.0394037
+  },
+  {
+    "street": "Via del rampanone",
+    "number": "7",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6974593,
+    "longitude": 9.0425591
+  },
+  {
+    "street": "Via del Rampanone",
+    "number": "2",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6981858,
+    "longitude": 9.042435
+  },
+  {
+    "street": "Piazza Stazione",
+    "number": "2",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.698706,
+    "longitude": 9.0367231
+  },
+  {
+    "street": "Via Unione",
+    "number": "9",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6977794,
+    "longitude": 9.0399634
+  },
+  {
+    "street": "Via Monte Generoso",
+    "number": "15",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6956225,
+    "longitude": 9.0325597
+  },
+  {
+    "street": "Vicolo Stelvio",
+    "number": "5",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6948053,
+    "longitude": 9.0301341
+  },
+  {
+    "street": "Via del Ronco",
+    "number": "1",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6974598,
+    "longitude": 9.0336245
+  },
+  {
+    "street": "Via Monte Generoso",
+    "number": "6",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6974973,
+    "longitude": 9.031889
+  },
+  {
+    "street": "Viale Trento",
+    "number": "7",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6984829,
+    "longitude": 9.0344404
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "43",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6880732,
+    "longitude": 9.0255099
+  },
+  {
+    "street": "Via del Seprio",
+    "number": "40",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.7008709,
+    "longitude": 9.0248577
+  },
+  {
+    "street": "Via del Seprio",
+    "number": "21",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.69877,
+    "longitude": 9.0293116
+  },
+  {
+    "street": "Via Monte Cervino",
+    "number": "3/a",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.698419,
+    "longitude": 9.0306328
+  },
+  {
+    "street": "Via del Seprio",
+    "number": "27",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6989722,
+    "longitude": 9.0278907
+  },
+  {
+    "street": "Viale Somaini",
+    "number": "2",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6990116,
+    "longitude": 9.0337228
+  },
+  {
+    "street": "Viale Trento",
+    "number": "1",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6983422,
+    "longitude": 9.0358842
+  },
+  {
+    "street": "Via della Pace;Piazza Brolo San Vito",
+    "number": "2",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6988024,
+    "longitude": 9.0391828
+  },
+  {
+    "street": "Viale Como",
+    "number": "2",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6989571,
+    "longitude": 9.0367947
+  },
+  {
+    "street": "Via della Pace",
+    "number": "18",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6985848,
+    "longitude": 9.0373152
+  },
+  {
+    "street": "Piazza Quattro Novembre",
+    "number": "4",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6992409,
+    "longitude": 9.041014
+  },
+  {
+    "street": "Via Giovane Italia",
+    "number": "1",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.699673,
+    "longitude": 9.041099
+  },
+  {
+    "street": "Vicolo Sardegna",
+    "number": "14",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.7059721,
+    "longitude": 9.0314086
+  },
+  {
+    "street": "Via Ceresio",
+    "number": "31",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.707036,
+    "longitude": 9.0274248
+  },
+  {
+    "street": "Via della Fametta",
+    "number": "2",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.70898,
+    "longitude": 9.0292875
+  },
+  {
+    "street": "Viale Como",
+    "number": "30",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.7037928,
+    "longitude": 9.0370965
+  },
+  {
+    "street": "Via Ceresio",
+    "number": "49",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.70974,
+    "longitude": 9.0248243
+  },
+  {
+    "street": "Viale Trento",
+    "number": "12",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6988329,
+    "longitude": 9.0331284
+  },
+  {
+    "street": "Via dello Sport",
+    "number": "8",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6887636,
+    "longitude": 9.0429543
+  },
+  {
+    "street": "Via della cascina Traversa",
+    "number": "1",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6884878,
+    "longitude": 9.0428874
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "43",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.685264,
+    "longitude": 9.0404921
+  },
+  {
+    "street": "Piazza Stazione",
+    "number": "1",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6988221,
+    "longitude": 9.0362958
+  },
+  {
+    "street": "Viale Como",
+    "number": "22",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.7007229,
+    "longitude": 9.0363114
+  },
+  {
+    "street": "Via Sempione",
+    "number": "4",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6969673,
+    "longitude": 9.0309629
+  },
+  {
+    "street": "Via del Seprio",
+    "number": "54",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.7000395,
+    "longitude": 9.0187744
+  },
+  {
+    "street": "Piazza Risorgimento",
+    "number": "1",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6705777,
+    "longitude": 9.0416497
+  },
+  {
+    "street": "Via del Seprio",
+    "number": "56",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.7004229,
+    "longitude": 9.0183753
+  },
+  {
+    "street": "Via Ceresio",
+    "number": "51",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.7110783,
+    "longitude": 9.0238857
+  },
+  {
+    "street": "Via della Pace",
+    "number": "14",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6985665,
+    "longitude": 9.0378473
+  },
+  {
+    "street": "Via della Fametta",
+    "number": "1",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.7096714,
+    "longitude": 9.0288223
+  },
+  {
+    "street": "Via Cadore",
+    "number": "10",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6811968,
+    "longitude": 9.0426206
+  },
+  {
+    "street": "Via della Pace",
+    "number": "29",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6984001,
+    "longitude": 9.0373584
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "4",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6965638,
+    "longitude": 9.0416053
+  },
+  {
+    "street": "Via del Laghetto",
+    "number": "9",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.7056034,
+    "longitude": 9.0283711
+  },
+  {
+    "street": "Via Zerba",
+    "number": "1",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6971066,
+    "longitude": 9.0338303
+  },
+  {
+    "street": "Via Ceresio",
+    "number": "41",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.70763,
+    "longitude": 9.0273236
+  },
+  {
+    "street": "Via del Seprio",
+    "number": "40/a",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.7001288,
+    "longitude": 9.0247922
+  },
+  {
+    "street": "Via Rosales",
+    "number": "9",
+    "city": {
+      "name": "Lomazzo",
+      "istat": "013133"
+    },
+    "latitude": 45.6970147,
+    "longitude": 9.0392414
+  }
+]

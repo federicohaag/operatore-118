@@ -1,0 +1,92 @@
+[
+  {
+    "street": "Via Provinciale",
+    "number": "8",
+    "city": {
+      "name": "Mesenzana",
+      "istat": "012102"
+    },
+    "latitude": 45.9484336,
+    "longitude": 8.7675306
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "81",
+    "city": {
+      "name": "Mesenzana",
+      "istat": "012102"
+    },
+    "latitude": 45.9607208,
+    "longitude": 8.756031
+  },
+  {
+    "street": "Piazza Quattro Novembre",
+    "number": "1",
+    "city": {
+      "name": "Mesenzana",
+      "istat": "012102"
+    },
+    "latitude": 45.9479153,
+    "longitude": 8.7588494
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "7",
+    "city": {
+      "name": "Mesenzana",
+      "istat": "012102"
+    },
+    "latitude": 45.9486731,
+    "longitude": 8.7667143
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "57",
+    "city": {
+      "name": "Mesenzana",
+      "istat": "012102"
+    },
+    "latitude": 45.9571337,
+    "longitude": 8.760328
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "55",
+    "city": {
+      "name": "Mesenzana",
+      "istat": "012102"
+    },
+    "latitude": 45.956647,
+    "longitude": 8.7605694
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "5",
+    "city": {
+      "name": "Mesenzana",
+      "istat": "012102"
+    },
+    "latitude": 45.9482832,
+    "longitude": 8.7668246
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "64",
+    "city": {
+      "name": "Mesenzana",
+      "istat": "012102"
+    },
+    "latitude": 45.9568807,
+    "longitude": 8.7625301
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "90",
+    "city": {
+      "name": "Mesenzana",
+      "istat": "012102"
+    },
+    "latitude": 45.9601273,
+    "longitude": 8.7577573
+  }
+]

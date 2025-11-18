@@ -1,0 +1,1072 @@
+[
+  {
+    "street": "Via Dante Alighieri",
+    "number": "72",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6780053,
+    "longitude": 9.2234619
+  },
+  {
+    "street": "Via Molino Ponte",
+    "number": "1",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6855476,
+    "longitude": 9.2364536
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "16",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.685375,
+    "longitude": 9.2367276
+  },
+  {
+    "street": "Via Milite Ignoto",
+    "number": "15",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6852938,
+    "longitude": 9.2369869
+  },
+  {
+    "street": "Via Antonio Furlanelli",
+    "number": "29",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.691498,
+    "longitude": 9.2207158
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "59",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6930436,
+    "longitude": 9.2213863
+  },
+  {
+    "street": "Viale Lombardia",
+    "number": "10",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.67362,
+    "longitude": 9.218661
+  },
+  {
+    "street": "Via dei Mulini",
+    "number": "5",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6988558,
+    "longitude": 9.2346421
+  },
+  {
+    "street": "Via Comasina",
+    "number": "95",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6790186,
+    "longitude": 9.2189087
+  },
+  {
+    "street": "Via Piave",
+    "number": "33",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6922549,
+    "longitude": 9.2331398
+  },
+  {
+    "street": "Via Piave",
+    "number": "66",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6923186,
+    "longitude": 9.233408
+  },
+  {
+    "street": "Via Piave",
+    "number": "47",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6928095,
+    "longitude": 9.2336574
+  },
+  {
+    "street": "Viale Lombardia",
+    "number": "16",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.673011,
+    "longitude": 9.2189152
+  },
+  {
+    "street": "Via Monza",
+    "number": "6/8",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6730544,
+    "longitude": 9.2179125
+  },
+  {
+    "street": "Via Luigi Barzaghi",
+    "number": "3",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6776651,
+    "longitude": 9.215933
+  },
+  {
+    "street": "Viale Lombardia",
+    "number": "19",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6725002,
+    "longitude": 9.21849
+  },
+  {
+    "street": "Via Francesco Petrarca",
+    "number": "20",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6764254,
+    "longitude": 9.2206937
+  },
+  {
+    "street": "Via Francesco Petrarca",
+    "number": "14a",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6761536,
+    "longitude": 9.2195082
+  },
+  {
+    "street": "Via Francesco Petrarca",
+    "number": "14",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6761049,
+    "longitude": 9.2195511
+  },
+  {
+    "street": "Via Luigi Barzaghi",
+    "number": "5",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6778046,
+    "longitude": 9.2158748
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "9",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6887624,
+    "longitude": 9.2293193
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "7",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6886874,
+    "longitude": 9.2294642
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "4",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.68856,
+    "longitude": 9.2298311
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "2",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6883322,
+    "longitude": 9.2301852
+  },
+  {
+    "street": "Via Mario Preda",
+    "number": "2",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6881216,
+    "longitude": 9.2300189
+  },
+  {
+    "street": "Via Mario Preda",
+    "number": "5c",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6879435,
+    "longitude": 9.2298305
+  },
+  {
+    "street": "Via Mario Preda",
+    "number": "5",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6879412,
+    "longitude": 9.2297987
+  },
+  {
+    "street": "Via Mario Preda",
+    "number": "7",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6878778,
+    "longitude": 9.2295801
+  },
+  {
+    "street": "Via Mario Preda",
+    "number": "8/10",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6877251,
+    "longitude": 9.2289395
+  },
+  {
+    "street": "Via Mario Preda",
+    "number": "13",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6875589,
+    "longitude": 9.2290231
+  },
+  {
+    "street": "Via Mario Preda",
+    "number": "17",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6873093,
+    "longitude": 9.2283113
+  },
+  {
+    "street": "Via Papa Pio Dodicesimo",
+    "number": "3",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6870855,
+    "longitude": 9.22841
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "26",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6867696,
+    "longitude": 9.2277021
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "20c",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6857118,
+    "longitude": 9.2282828
+  },
+  {
+    "street": "Via Mario Preda",
+    "number": "7c",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6878329,
+    "longitude": 9.2294428
+  },
+  {
+    "street": "Via Mario Preda",
+    "number": "9b",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6877651,
+    "longitude": 9.2292433
+  },
+  {
+    "street": "Via Mario Preda",
+    "number": "3",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6879872,
+    "longitude": 9.2299991
+  },
+  {
+    "street": "Piazza Liberazione",
+    "number": "1",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6881133,
+    "longitude": 9.2303939
+  },
+  {
+    "street": "Piazza Liberazione",
+    "number": "3",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6882093,
+    "longitude": 9.2304214
+  },
+  {
+    "street": "Piazza Liberazione",
+    "number": "4",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6881821,
+    "longitude": 9.2305589
+  },
+  {
+    "street": "Via Vittorio Emanuele",
+    "number": "1",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6880497,
+    "longitude": 9.230671
+  },
+  {
+    "street": "Piazzetta L. Cesana",
+    "number": "2",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6876932,
+    "longitude": 9.2308425
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "3",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6883998,
+    "longitude": 9.2299465
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "6",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6889839,
+    "longitude": 9.2291239
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "13",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6889345,
+    "longitude": 9.2290397
+  },
+  {
+    "street": "Via Comasina",
+    "number": "97",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6788893,
+    "longitude": 9.2187998
+  },
+  {
+    "street": "Via Sabbionette",
+    "number": "32/34",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6771984,
+    "longitude": 9.2119209
+  },
+  {
+    "street": "Via Pola",
+    "number": "14",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6770663,
+    "longitude": 9.2095287
+  },
+  {
+    "street": "Via Pola",
+    "number": "6",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6770748,
+    "longitude": 9.2103832
+  },
+  {
+    "street": "Via Pola",
+    "number": "16",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6771931,
+    "longitude": 9.2095265
+  },
+  {
+    "street": "Via Sabbionette",
+    "number": "7",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6785284,
+    "longitude": 9.2146324
+  },
+  {
+    "street": "Via Pola",
+    "number": "18",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6796886,
+    "longitude": 9.2099977
+  },
+  {
+    "street": "Via Brunati",
+    "number": "9b",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6780696,
+    "longitude": 9.2112486
+  },
+  {
+    "street": "Via dei Lavoratori",
+    "number": "8",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6781214,
+    "longitude": 9.2099279
+  },
+  {
+    "street": "Via Brunati",
+    "number": "6",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6776761,
+    "longitude": 9.2117441
+  },
+  {
+    "street": "Via Sabbionette",
+    "number": "4",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.680356,
+    "longitude": 9.2138682
+  },
+  {
+    "street": "Via dei Lavoratori",
+    "number": "10",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6779639,
+    "longitude": 9.2102424
+  },
+  {
+    "street": "Via Luigi Barzaghi",
+    "number": "10",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.678911,
+    "longitude": 9.2165725
+  },
+  {
+    "street": "Via Comasina",
+    "number": "76",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6766479,
+    "longitude": 9.2141014
+  },
+  {
+    "street": "Via Comasina",
+    "number": "111",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6755538,
+    "longitude": 9.2141096
+  },
+  {
+    "street": "Via Sabbionette",
+    "number": "9",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6777454,
+    "longitude": 9.2137435
+  },
+  {
+    "street": "Via Sabbionette",
+    "number": "6",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6788797,
+    "longitude": 9.2135163
+  },
+  {
+    "street": "Via Sabbionette",
+    "number": "10",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6787317,
+    "longitude": 9.2141249
+  },
+  {
+    "street": "Via Luigi Barzaghi",
+    "number": "2",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6793525,
+    "longitude": 9.2156599
+  },
+  {
+    "street": "Via Comasina",
+    "number": "113",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6756603,
+    "longitude": 9.2135638
+  },
+  {
+    "street": "Via Luigi Barzaghi",
+    "number": "12",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6798171,
+    "longitude": 9.2164905
+  },
+  {
+    "street": "Via Sabbionette",
+    "number": "5",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6788174,
+    "longitude": 9.2152264
+  },
+  {
+    "street": "Via Brunati",
+    "number": "9",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6778944,
+    "longitude": 9.2112532
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "11",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6804991,
+    "longitude": 9.2131054
+  },
+  {
+    "street": "Via Achille Grandi",
+    "number": "41",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6841225,
+    "longitude": 9.2210129
+  },
+  {
+    "street": "Via Antonio Furlanelli",
+    "number": "47",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6891536,
+    "longitude": 9.2185015
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "81",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6838096,
+    "longitude": 9.2169347
+  },
+  {
+    "street": "Via Morigiola",
+    "number": "10",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6983207,
+    "longitude": 9.2291005
+  },
+  {
+    "street": "Via alla Chiesa",
+    "number": "2",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6881049,
+    "longitude": 9.2313036
+  },
+  {
+    "street": "Via Mario Preda",
+    "number": "9",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6877961,
+    "longitude": 9.2293169
+  },
+  {
+    "street": "Via San Giuseppe",
+    "number": "84l",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.698599,
+    "longitude": 9.2313394
+  },
+  {
+    "street": "Via Roma",
+    "number": "13",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6852803,
+    "longitude": 9.2286701
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "1c",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6839653,
+    "longitude": 9.2309949
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "4",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6844198,
+    "longitude": 9.2306563
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "11a",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6888695,
+    "longitude": 9.2291673
+  },
+  {
+    "street": "Via Cavour",
+    "number": "14",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6847825,
+    "longitude": 9.2306244
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "14",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6851531,
+    "longitude": 9.2293167
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "16b",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6855184,
+    "longitude": 9.2283473
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "18",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6855516,
+    "longitude": 9.2282238
+  },
+  {
+    "street": "Via Molino Ponte",
+    "number": "34",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6865429,
+    "longitude": 9.2351983
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "16c",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6854576,
+    "longitude": 9.2285673
+  },
+  {
+    "street": "Via all'Isola",
+    "number": "27",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6868436,
+    "longitude": 9.2363025
+  },
+  {
+    "street": "Via Piave",
+    "number": "74",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6929064,
+    "longitude": 9.2341577
+  },
+  {
+    "street": "Via Tullo Massarani",
+    "number": "12",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6860219,
+    "longitude": 9.2280909
+  },
+  {
+    "street": "Via Mario Preda",
+    "number": "22a",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6870918,
+    "longitude": 9.2274875
+  },
+  {
+    "street": "Via Mario Preda",
+    "number": "16",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6874572,
+    "longitude": 9.2281916
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "20b",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6858447,
+    "longitude": 9.2283073
+  },
+  {
+    "street": "Via Piave",
+    "number": "17a",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6909911,
+    "longitude": 9.2308861
+  },
+  {
+    "street": "Via Artigiani",
+    "number": "3",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6802545,
+    "longitude": 9.2167113
+  },
+  {
+    "street": "Via Brianza",
+    "number": "6",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6736319,
+    "longitude": 9.2178504
+  },
+  {
+    "street": "Via Antonio Furlanelli",
+    "number": "69",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6874874,
+    "longitude": 9.2162533
+  },
+  {
+    "street": "Via San Giuseppe",
+    "number": "11",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6936046,
+    "longitude": 9.227731
+  },
+  {
+    "street": "Via Comasina",
+    "number": "9",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6761793,
+    "longitude": 9.2104396
+  },
+  {
+    "street": "Via Barzaghi",
+    "number": "9",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6783231,
+    "longitude": 9.2156118
+  },
+  {
+    "street": "Via Achille Grandi",
+    "number": "33",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.685033,
+    "longitude": 9.222677
+  },
+  {
+    "street": "Via Francesco Petrarca",
+    "number": "41",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6764667,
+    "longitude": 9.2218817
+  },
+  {
+    "street": "Via Arrigo Boito",
+    "number": "20",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6814516,
+    "longitude": 9.2148129
+  },
+  {
+    "street": "Via Comasina",
+    "number": "101",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6779085,
+    "longitude": 9.2173801
+  },
+  {
+    "street": "Via Comasina",
+    "number": "56",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6799021,
+    "longitude": 9.218685
+  },
+  {
+    "street": "Via Achille Grandi",
+    "number": "81",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6805298,
+    "longitude": 9.2180857
+  },
+  {
+    "street": "Via Achille Grandi",
+    "number": "73",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6808777,
+    "longitude": 9.2178034
+  },
+  {
+    "street": "Via Comasina",
+    "number": "60",
+    "city": {
+      "name": "Verano Brianza",
+      "istat": "108048"
+    },
+    "latitude": 45.6792434,
+    "longitude": 9.2186167
+  }
+]

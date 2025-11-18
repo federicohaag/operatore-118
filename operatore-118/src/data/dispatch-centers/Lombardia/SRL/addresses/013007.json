@@ -1,0 +1,332 @@
+[
+  {
+    "street": "Piazza Municipio",
+    "number": "1",
+    "city": {
+      "name": "Alzate Brianza",
+      "istat": "013007"
+    },
+    "latitude": 45.76719,
+    "longitude": 9.18209
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "226",
+    "city": {
+      "name": "Alzate Brianza",
+      "istat": "013007"
+    },
+    "latitude": 45.7719263,
+    "longitude": 9.1645557
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "1/3",
+    "city": {
+      "name": "Alzate Brianza",
+      "istat": "013007"
+    },
+    "latitude": 45.7706322,
+    "longitude": 9.183291
+  },
+  {
+    "street": "Via Don Vitali",
+    "number": "91",
+    "city": {
+      "name": "Alzate Brianza",
+      "istat": "013007"
+    },
+    "latitude": 45.7564425,
+    "longitude": 9.1963734
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "268",
+    "city": {
+      "name": "Alzate Brianza",
+      "istat": "013007"
+    },
+    "latitude": 45.7697577,
+    "longitude": 9.1826122
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "262",
+    "city": {
+      "name": "Alzate Brianza",
+      "istat": "013007"
+    },
+    "latitude": 45.769817,
+    "longitude": 9.182472
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "219",
+    "city": {
+      "name": "Alzate Brianza",
+      "istat": "013007"
+    },
+    "latitude": 45.7692694,
+    "longitude": 9.1827997
+  },
+  {
+    "street": "Via Santuario",
+    "number": "244",
+    "city": {
+      "name": "Alzate Brianza",
+      "istat": "013007"
+    },
+    "latitude": 45.7645208,
+    "longitude": 9.1819948
+  },
+  {
+    "street": "Via Santuario",
+    "number": "246",
+    "city": {
+      "name": "Alzate Brianza",
+      "istat": "013007"
+    },
+    "latitude": 45.764489,
+    "longitude": 9.1820726
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "2251",
+    "city": {
+      "name": "Alzate Brianza",
+      "istat": "013007"
+    },
+    "latitude": 45.745732,
+    "longitude": 9.1959237
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "2784",
+    "city": {
+      "name": "Alzate Brianza",
+      "istat": "013007"
+    },
+    "latitude": 45.7422817,
+    "longitude": 9.1966472
+  },
+  {
+    "street": "Strada Provinciale ex Strada Statale 342 Briantea",
+    "number": "104",
+    "city": {
+      "name": "Alzate Brianza",
+      "istat": "013007"
+    },
+    "latitude": 45.7608383,
+    "longitude": 9.2064701
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "598",
+    "city": {
+      "name": "Alzate Brianza",
+      "istat": "013007"
+    },
+    "latitude": 45.7668093,
+    "longitude": 9.1760347
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "221",
+    "city": {
+      "name": "Alzate Brianza",
+      "istat": "013007"
+    },
+    "latitude": 45.7693557,
+    "longitude": 9.182693
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "124",
+    "city": {
+      "name": "Alzate Brianza",
+      "istat": "013007"
+    },
+    "latitude": 45.7689924,
+    "longitude": 9.1812031
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "272",
+    "city": {
+      "name": "Alzate Brianza",
+      "istat": "013007"
+    },
+    "latitude": 45.7697808,
+    "longitude": 9.182541
+  },
+  {
+    "street": "Via Giovio",
+    "number": "1033",
+    "city": {
+      "name": "Alzate Brianza",
+      "istat": "013007"
+    },
+    "latitude": 45.771899,
+    "longitude": 9.1681173
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "2674",
+    "city": {
+      "name": "Alzate Brianza",
+      "istat": "013007"
+    },
+    "latitude": 45.7440113,
+    "longitude": 9.1969166
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "2161",
+    "city": {
+      "name": "Alzate Brianza",
+      "istat": "013007"
+    },
+    "latitude": 45.7463273,
+    "longitude": 9.1957695
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "311",
+    "city": {
+      "name": "Alzate Brianza",
+      "istat": "013007"
+    },
+    "latitude": 45.7698033,
+    "longitude": 9.1819125
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "24",
+    "city": {
+      "name": "Alzate Brianza",
+      "istat": "013007"
+    },
+    "latitude": 45.7681719,
+    "longitude": 9.1854876
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "53",
+    "city": {
+      "name": "Alzate Brianza",
+      "istat": "013007"
+    },
+    "latitude": 45.7682854,
+    "longitude": 9.1850342
+  },
+  {
+    "street": "Via Valsorda",
+    "number": "48",
+    "city": {
+      "name": "Alzate Brianza",
+      "istat": "013007"
+    },
+    "latitude": 45.7425567,
+    "longitude": 9.1954508
+  },
+  {
+    "street": "Piazza San Pietro",
+    "number": "3",
+    "city": {
+      "name": "Alzate Brianza",
+      "istat": "013007"
+    },
+    "latitude": 45.7697963,
+    "longitude": 9.1882681
+  },
+  {
+    "street": "Via Santuario",
+    "number": "637",
+    "city": {
+      "name": "Alzate Brianza",
+      "istat": "013007"
+    },
+    "latitude": 45.7614121,
+    "longitude": 9.1798464
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "23",
+    "city": {
+      "name": "Alzate Brianza",
+      "istat": "013007"
+    },
+    "latitude": 45.7571438,
+    "longitude": 9.1971245
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "2068",
+    "city": {
+      "name": "Alzate Brianza",
+      "istat": "013007"
+    },
+    "latitude": 45.7475766,
+    "longitude": 9.1950523
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "1900",
+    "city": {
+      "name": "Alzate Brianza",
+      "istat": "013007"
+    },
+    "latitude": 45.7486615,
+    "longitude": 9.1950879
+  },
+  {
+    "street": "Via Santuario",
+    "number": "319",
+    "city": {
+      "name": "Alzate Brianza",
+      "istat": "013007"
+    },
+    "latitude": 45.7637861,
+    "longitude": 9.1817596
+  },
+  {
+    "street": "Via Santuario",
+    "number": "344",
+    "city": {
+      "name": "Alzate Brianza",
+      "istat": "013007"
+    },
+    "latitude": 45.7639506,
+    "longitude": 9.1813015
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "85",
+    "city": {
+      "name": "Alzate Brianza",
+      "istat": "013007"
+    },
+    "latitude": 45.770481,
+    "longitude": 9.1830129
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "538",
+    "city": {
+      "name": "Alzate Brianza",
+      "istat": "013007"
+    },
+    "latitude": 45.7671639,
+    "longitude": 9.1770169
+  },
+  {
+    "street": "Via Santuario",
+    "number": "14",
+    "city": {
+      "name": "Alzate Brianza",
+      "istat": "013007"
+    },
+    "latitude": 45.7631844,
+    "longitude": 9.1798689
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "street": "Via Trieste",
+    "number": "9",
+    "city": {
+      "name": "Bosisio Parini",
+      "istat": "097009"
+    },
+    "latitude": 45.8006579,
+    "longitude": 9.2888507
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "36",
+    "city": {
+      "name": "Bosisio Parini",
+      "istat": "097009"
+    },
+    "latitude": 45.8019029,
+    "longitude": 9.2929772
+  },
+  {
+    "street": "Via Beniamino Appiani",
+    "number": "15",
+    "city": {
+      "name": "Bosisio Parini",
+      "istat": "097009"
+    },
+    "latitude": 45.8023183,
+    "longitude": 9.2900217
+  },
+  {
+    "street": "Via Beniamino Appiani",
+    "number": "49",
+    "city": {
+      "name": "Bosisio Parini",
+      "istat": "097009"
+    },
+    "latitude": 45.8028105,
+    "longitude": 9.291187
+  },
+  {
+    "street": "Via Beniamino Appiani",
+    "number": "21",
+    "city": {
+      "name": "Bosisio Parini",
+      "istat": "097009"
+    },
+    "latitude": 45.8024188,
+    "longitude": 9.2902012
+  },
+  {
+    "street": "Piazza Giuseppe Parini",
+    "number": "1",
+    "city": {
+      "name": "Bosisio Parini",
+      "istat": "097009"
+    },
+    "latitude": 45.8019063,
+    "longitude": 9.2893054
+  },
+  {
+    "street": "Via Andrea Appiani",
+    "number": "10",
+    "city": {
+      "name": "Bosisio Parini",
+      "istat": "097009"
+    },
+    "latitude": 45.8017909,
+    "longitude": 9.2868749
+  },
+  {
+    "street": "Piazza dell'Ospedale",
+    "number": "4",
+    "city": {
+      "name": "Bosisio Parini",
+      "istat": "097009"
+    },
+    "latitude": 45.8026887,
+    "longitude": 9.2903935
+  },
+  {
+    "street": "Via Cercè",
+    "number": "16",
+    "city": {
+      "name": "Bosisio Parini",
+      "istat": "097009"
+    },
+    "latitude": 45.8017075,
+    "longitude": 9.2950143
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "16",
+    "city": {
+      "name": "Bosisio Parini",
+      "istat": "097009"
+    },
+    "latitude": 45.8021542,
+    "longitude": 9.2911865
+  },
+  {
+    "street": "Via Eupilio",
+    "number": "92",
+    "city": {
+      "name": "Bosisio Parini",
+      "istat": "097009"
+    },
+    "latitude": 45.7937776,
+    "longitude": 9.2803349
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "15",
+    "city": {
+      "name": "Bosisio Parini",
+      "istat": "097009"
+    },
+    "latitude": 45.8021338,
+    "longitude": 9.2926553
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "3",
+    "city": {
+      "name": "Bosisio Parini",
+      "istat": "097009"
+    },
+    "latitude": 45.8039224,
+    "longitude": 9.2924336
+  },
+  {
+    "street": "Via Eupilio",
+    "number": "45",
+    "city": {
+      "name": "Bosisio Parini",
+      "istat": "097009"
+    },
+    "latitude": 45.7955704,
+    "longitude": 9.2834722
+  },
+  {
+    "street": "Via Brianza",
+    "number": "20a",
+    "city": {
+      "name": "Bosisio Parini",
+      "istat": "097009"
+    },
+    "latitude": 45.7992668,
+    "longitude": 9.2996568
+  },
+  {
+    "street": "Via Giovanni Segantini",
+    "number": "16",
+    "city": {
+      "name": "Bosisio Parini",
+      "istat": "097009"
+    },
+    "latitude": 45.7954988,
+    "longitude": 9.2797817
+  },
+  {
+    "street": "Via Don Luigi Monza",
+    "number": "20",
+    "city": {
+      "name": "Bosisio Parini",
+      "istat": "097009"
+    },
+    "latitude": 45.7879477,
+    "longitude": 9.2887112
+  },
+  {
+    "street": "Via Giuseppe Carpani",
+    "number": "3",
+    "city": {
+      "name": "Bosisio Parini",
+      "istat": "097009"
+    },
+    "latitude": 45.7967825,
+    "longitude": 9.2861184
+  },
+  {
+    "street": "Viale Brianza",
+    "number": "33",
+    "city": {
+      "name": "Bosisio Parini",
+      "istat": "097009"
+    },
+    "latitude": 45.7975914,
+    "longitude": 9.3080051
+  },
+  {
+    "street": "Via Trieste",
+    "number": "19",
+    "city": {
+      "name": "Bosisio Parini",
+      "istat": "097009"
+    },
+    "latitude": 45.7996474,
+    "longitude": 9.2897187
+  },
+  {
+    "street": "Via Trieste",
+    "number": "22",
+    "city": {
+      "name": "Bosisio Parini",
+      "istat": "097009"
+    },
+    "latitude": 45.798449,
+    "longitude": 9.2908916
+  },
+  {
+    "street": "Via Europa Unita",
+    "number": "2",
+    "city": {
+      "name": "Bosisio Parini",
+      "istat": "097009"
+    },
+    "latitude": 45.7995066,
+    "longitude": 9.288557
+  },
+  {
+    "street": "Via Giuseppe Parini",
+    "number": "56",
+    "city": {
+      "name": "Bosisio Parini",
+      "istat": "097009"
+    },
+    "latitude": 45.8030035,
+    "longitude": 9.2883472
+  },
+  {
+    "street": "Via Giuseppe Parini",
+    "number": "14",
+    "city": {
+      "name": "Bosisio Parini",
+      "istat": "097009"
+    },
+    "latitude": 45.8035701,
+    "longitude": 9.2902231
+  },
+  {
+    "street": "Via Trieste",
+    "number": "10",
+    "city": {
+      "name": "Bosisio Parini",
+      "istat": "097009"
+    },
+    "latitude": 45.8000903,
+    "longitude": 9.2884569
+  },
+  {
+    "street": "Via Andrea Appiani",
+    "number": "6",
+    "city": {
+      "name": "Bosisio Parini",
+      "istat": "097009"
+    },
+    "latitude": 45.8024881,
+    "longitude": 9.2867161
+  },
+  {
+    "street": "Via San Gaetano",
+    "number": "26",
+    "city": {
+      "name": "Bosisio Parini",
+      "istat": "097009"
+    },
+    "latitude": 45.8027246,
+    "longitude": 9.287954
+  },
+  {
+    "street": "Via del Brughetto",
+    "number": "16",
+    "city": {
+      "name": "Bosisio Parini",
+      "istat": "097009"
+    },
+    "latitude": 45.8071851,
+    "longitude": 9.3097516
+  }
+]

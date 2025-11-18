@@ -1,0 +1,392 @@
+[
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "8",
+    "city": {
+      "name": "Lesmo",
+      "istat": "108026"
+    },
+    "latitude": 45.6485048,
+    "longitude": 9.3081001
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "10",
+    "city": {
+      "name": "Lesmo",
+      "istat": "108026"
+    },
+    "latitude": 45.6484737,
+    "longitude": 9.3080789
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "33",
+    "city": {
+      "name": "Lesmo",
+      "istat": "108026"
+    },
+    "latitude": 45.6500581,
+    "longitude": 9.3049446
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "16",
+    "city": {
+      "name": "Lesmo",
+      "istat": "108026"
+    },
+    "latitude": 45.6484545,
+    "longitude": 9.3079903
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "18",
+    "city": {
+      "name": "Lesmo",
+      "istat": "108026"
+    },
+    "latitude": 45.6484086,
+    "longitude": 9.3080271
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "20",
+    "city": {
+      "name": "Lesmo",
+      "istat": "108026"
+    },
+    "latitude": 45.6484011,
+    "longitude": 9.3079554
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "22",
+    "city": {
+      "name": "Lesmo",
+      "istat": "108026"
+    },
+    "latitude": 45.6483702,
+    "longitude": 9.3079339
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "26",
+    "city": {
+      "name": "Lesmo",
+      "istat": "108026"
+    },
+    "latitude": 45.6483359,
+    "longitude": 9.3079098
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "28",
+    "city": {
+      "name": "Lesmo",
+      "istat": "108026"
+    },
+    "latitude": 45.6482942,
+    "longitude": 9.307883
+  },
+  {
+    "street": "Via Morganti",
+    "number": "6",
+    "city": {
+      "name": "Lesmo",
+      "istat": "108026"
+    },
+    "latitude": 45.6481212,
+    "longitude": 9.3077187
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "31",
+    "city": {
+      "name": "Lesmo",
+      "istat": "108026"
+    },
+    "latitude": 45.6497403,
+    "longitude": 9.3061281
+  },
+  {
+    "street": "Via Carlo Maria Maggi",
+    "number": "38b",
+    "city": {
+      "name": "Lesmo",
+      "istat": "108026"
+    },
+    "latitude": 45.6341402,
+    "longitude": 9.3070192
+  },
+  {
+    "street": "Via Lega Lombarda",
+    "number": "33",
+    "city": {
+      "name": "Lesmo",
+      "istat": "108026"
+    },
+    "latitude": 45.6549021,
+    "longitude": 9.3068974
+  },
+  {
+    "street": "Via Caduti per la Patria",
+    "number": "77",
+    "city": {
+      "name": "Lesmo",
+      "istat": "108026"
+    },
+    "latitude": 45.6405034,
+    "longitude": 9.2970104
+  },
+  {
+    "street": "Via Caduti per la Patria",
+    "number": "79",
+    "city": {
+      "name": "Lesmo",
+      "istat": "108026"
+    },
+    "latitude": 45.6405558,
+    "longitude": 9.2969326
+  },
+  {
+    "street": "Via Caduti per la Patria",
+    "number": "81",
+    "city": {
+      "name": "Lesmo",
+      "istat": "108026"
+    },
+    "latitude": 45.6406719,
+    "longitude": 9.296763
+  },
+  {
+    "street": "Via Caduti per la Patria",
+    "number": "83",
+    "city": {
+      "name": "Lesmo",
+      "istat": "108026"
+    },
+    "latitude": 45.6408153,
+    "longitude": 9.2963457
+  },
+  {
+    "street": "Via Caduti per la Patria",
+    "number": "85",
+    "city": {
+      "name": "Lesmo",
+      "istat": "108026"
+    },
+    "latitude": 45.6411834,
+    "longitude": 9.2960624
+  },
+  {
+    "street": "Via Caduti per la Patria",
+    "number": "58",
+    "city": {
+      "name": "Lesmo",
+      "istat": "108026"
+    },
+    "latitude": 45.6410421,
+    "longitude": 9.296594
+  },
+  {
+    "street": "Via Caduti per la Patria",
+    "number": "56",
+    "city": {
+      "name": "Lesmo",
+      "istat": "108026"
+    },
+    "latitude": 45.6408795,
+    "longitude": 9.2968349
+  },
+  {
+    "street": "Via Caduti per la Patria",
+    "number": "52",
+    "city": {
+      "name": "Lesmo",
+      "istat": "108026"
+    },
+    "latitude": 45.6406051,
+    "longitude": 9.2972415
+  },
+  {
+    "street": "Via Caduti per la Patria",
+    "number": "54",
+    "city": {
+      "name": "Lesmo",
+      "istat": "108026"
+    },
+    "latitude": 45.6407474,
+    "longitude": 9.2970307
+  },
+  {
+    "street": "Via Caduti per la Patria",
+    "number": "48",
+    "city": {
+      "name": "Lesmo",
+      "istat": "108026"
+    },
+    "latitude": 45.6403986,
+    "longitude": 9.2975477
+  },
+  {
+    "street": "Via Caduti per la Patria",
+    "number": "46",
+    "city": {
+      "name": "Lesmo",
+      "istat": "108026"
+    },
+    "latitude": 45.640353,
+    "longitude": 9.2978802
+  },
+  {
+    "street": "Via Francesco Petrarca",
+    "number": "34",
+    "city": {
+      "name": "Lesmo",
+      "istat": "108026"
+    },
+    "latitude": 45.640174,
+    "longitude": 9.2988767
+  },
+  {
+    "street": "Via Francesco Petrarca",
+    "number": "65",
+    "city": {
+      "name": "Lesmo",
+      "istat": "108026"
+    },
+    "latitude": 45.640294,
+    "longitude": 9.2992186
+  },
+  {
+    "street": "Via Francesco Petrarca",
+    "number": "67",
+    "city": {
+      "name": "Lesmo",
+      "istat": "108026"
+    },
+    "latitude": 45.6400328,
+    "longitude": 9.2988572
+  },
+  {
+    "street": "Via Francesco Petrarca",
+    "number": "63",
+    "city": {
+      "name": "Lesmo",
+      "istat": "108026"
+    },
+    "latitude": 45.640428,
+    "longitude": 9.2993714
+  },
+  {
+    "street": "Via G. Marconi",
+    "number": "53",
+    "city": {
+      "name": "Lesmo",
+      "istat": "108026"
+    },
+    "latitude": 45.642433,
+    "longitude": 9.3055097
+  },
+  {
+    "street": "Via Francesco Petrarca",
+    "number": "1",
+    "city": {
+      "name": "Lesmo",
+      "istat": "108026"
+    },
+    "latitude": 45.6425066,
+    "longitude": 9.3041568
+  },
+  {
+    "street": "Via delle Officine",
+    "number": "7",
+    "city": {
+      "name": "Lesmo",
+      "istat": "108026"
+    },
+    "latitude": 45.6420701,
+    "longitude": 9.3063409
+  },
+  {
+    "street": "Via Amedeo Modigliani",
+    "number": "3",
+    "city": {
+      "name": "Lesmo",
+      "istat": "108026"
+    },
+    "latitude": 45.6362821,
+    "longitude": 9.306817
+  },
+  {
+    "street": "Via Caduti per la Patria",
+    "number": "67",
+    "city": {
+      "name": "Lesmo",
+      "istat": "108026"
+    },
+    "latitude": 45.6393299,
+    "longitude": 9.2986759
+  },
+  {
+    "street": "Via A. Tinelli",
+    "number": "67;69",
+    "city": {
+      "name": "Lesmo",
+      "istat": "108026"
+    },
+    "latitude": 45.6384884,
+    "longitude": 9.2982504
+  },
+  {
+    "street": "Via Caduti per la Patria",
+    "number": "22",
+    "city": {
+      "name": "Lesmo",
+      "istat": "108026"
+    },
+    "latitude": 45.6371818,
+    "longitude": 9.3031293
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "17",
+    "city": {
+      "name": "Lesmo",
+      "istat": "108026"
+    },
+    "latitude": 45.6457037,
+    "longitude": 9.3030211
+  },
+  {
+    "street": "Via Donna Rosa",
+    "number": "13",
+    "city": {
+      "name": "Lesmo",
+      "istat": "108026"
+    },
+    "latitude": 45.6465767,
+    "longitude": 9.3040359
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "2",
+    "city": {
+      "name": "Lesmo",
+      "istat": "108026"
+    },
+    "latitude": 45.6421003,
+    "longitude": 9.2898664
+  },
+  {
+    "street": "Via Francesco Petrarca",
+    "number": "2",
+    "city": {
+      "name": "Lesmo",
+      "istat": "108026"
+    },
+    "latitude": 45.6428997,
+    "longitude": 9.3046867
+  }
+]

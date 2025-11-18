@@ -1,0 +1,22 @@
+[
+  {
+    "street": "Viale Vittorio Veneto",
+    "number": "30",
+    "city": {
+      "name": "Cirimido",
+      "istat": "013068"
+    },
+    "latitude": 45.7005188,
+    "longitude": 9.0125742
+  },
+  {
+    "street": "Viale Vittorio Veneto",
+    "number": "34",
+    "city": {
+      "name": "Cirimido",
+      "istat": "013068"
+    },
+    "latitude": 45.7005436,
+    "longitude": 9.0124318
+  }
+]

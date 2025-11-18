@@ -1,0 +1,52 @@
+[
+  {
+    "street": "Strada Provinciale 62 della Valsassina",
+    "number": "17",
+    "city": {
+      "name": "Cortenova",
+      "istat": "097025"
+    },
+    "latitude": 46.0074291,
+    "longitude": 9.3805273
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "41/43",
+    "city": {
+      "name": "Cortenova",
+      "istat": "097025"
+    },
+    "latitude": 45.9968891,
+    "longitude": 9.397497
+  },
+  {
+    "street": "Via Trento",
+    "number": "65",
+    "city": {
+      "name": "Cortenova",
+      "istat": "097025"
+    },
+    "latitude": 45.9973157,
+    "longitude": 9.3959963
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "16/18",
+    "city": {
+      "name": "Cortenova",
+      "istat": "097025"
+    },
+    "latitude": 45.9975197,
+    "longitude": 9.3952716
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "35",
+    "city": {
+      "name": "Cortenova",
+      "istat": "097025"
+    },
+    "latitude": 45.9976143,
+    "longitude": 9.3969344
+  }
+]

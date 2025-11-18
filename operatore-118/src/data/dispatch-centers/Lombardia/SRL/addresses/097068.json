@@ -1,0 +1,102 @@
+[
+  {
+    "street": "Via Roma",
+    "number": "98",
+    "city": {
+      "name": "Pescate",
+      "istat": "097068"
+    },
+    "latitude": 45.8314627,
+    "longitude": 9.3949455
+  },
+  {
+    "street": "Via Roma",
+    "number": "47",
+    "city": {
+      "name": "Pescate",
+      "istat": "097068"
+    },
+    "latitude": 45.8369166,
+    "longitude": 9.3951585
+  },
+  {
+    "street": "Via Promessi Sposi",
+    "number": "28",
+    "city": {
+      "name": "Pescate",
+      "istat": "097068"
+    },
+    "latitude": 45.8390474,
+    "longitude": 9.3946488
+  },
+  {
+    "street": "Via Roma",
+    "number": "98e",
+    "city": {
+      "name": "Pescate",
+      "istat": "097068"
+    },
+    "latitude": 45.8312126,
+    "longitude": 9.3949325
+  },
+  {
+    "street": "Via Roma",
+    "number": "7",
+    "city": {
+      "name": "Pescate",
+      "istat": "097068"
+    },
+    "latitude": 45.8416751,
+    "longitude": 9.3967572
+  },
+  {
+    "street": "Via Roma",
+    "number": "31",
+    "city": {
+      "name": "Pescate",
+      "istat": "097068"
+    },
+    "latitude": 45.8388119,
+    "longitude": 9.3957512
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "50",
+    "city": {
+      "name": "Pescate",
+      "istat": "097068"
+    },
+    "latitude": 45.8233265,
+    "longitude": 9.3924616
+  },
+  {
+    "street": "Via Roma",
+    "number": "172",
+    "city": {
+      "name": "Pescate",
+      "istat": "097068"
+    },
+    "latitude": 45.8211424,
+    "longitude": 9.3946038
+  },
+  {
+    "street": "Via Promessi Sposi",
+    "number": "30c;30d;30e",
+    "city": {
+      "name": "Pescate",
+      "istat": "097068"
+    },
+    "latitude": 45.8396075,
+    "longitude": 9.3927229
+  },
+  {
+    "street": "Via Promessi Sposi",
+    "number": "30a;30b",
+    "city": {
+      "name": "Pescate",
+      "istat": "097068"
+    },
+    "latitude": 45.8396443,
+    "longitude": 9.393076
+  }
+]

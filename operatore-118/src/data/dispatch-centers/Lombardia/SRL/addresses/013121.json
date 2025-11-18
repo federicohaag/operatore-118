@@ -1,0 +1,132 @@
+[
+  {
+    "street": "Via Statale",
+    "number": "2",
+    "city": {
+      "name": "Lambrugo",
+      "istat": "013121"
+    },
+    "latitude": 45.7543667,
+    "longitude": 9.2416636
+  },
+  {
+    "street": "Via Lecco",
+    "number": "27",
+    "city": {
+      "name": "Lambrugo",
+      "istat": "013121"
+    },
+    "latitude": 45.7625234,
+    "longitude": 9.2428537
+  },
+  {
+    "street": "Via Lecco",
+    "number": "25",
+    "city": {
+      "name": "Lambrugo",
+      "istat": "013121"
+    },
+    "latitude": 45.7623779,
+    "longitude": 9.2428712
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "3",
+    "city": {
+      "name": "Lambrugo",
+      "istat": "013121"
+    },
+    "latitude": 45.7599547,
+    "longitude": 9.2406245
+  },
+  {
+    "street": "Via Roma",
+    "number": "5",
+    "city": {
+      "name": "Lambrugo",
+      "istat": "013121"
+    },
+    "latitude": 45.7582175,
+    "longitude": 9.2432222
+  },
+  {
+    "street": "Via Brianza",
+    "number": "61",
+    "city": {
+      "name": "Lambrugo",
+      "istat": "013121"
+    },
+    "latitude": 45.761212,
+    "longitude": 9.2368838
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "20",
+    "city": {
+      "name": "Lambrugo",
+      "istat": "013121"
+    },
+    "latitude": 45.7563697,
+    "longitude": 9.2398282
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "10",
+    "city": {
+      "name": "Lambrugo",
+      "istat": "013121"
+    },
+    "latitude": 45.7581645,
+    "longitude": 9.2411596
+  },
+  {
+    "street": "Via Roma",
+    "number": "3",
+    "city": {
+      "name": "Lambrugo",
+      "istat": "013121"
+    },
+    "latitude": 45.7583808,
+    "longitude": 9.2429494
+  },
+  {
+    "street": "Via Roma",
+    "number": "2",
+    "city": {
+      "name": "Lambrugo",
+      "istat": "013121"
+    },
+    "latitude": 45.7582893,
+    "longitude": 9.2429747
+  },
+  {
+    "street": "Via Cava Ghiaia",
+    "number": "5",
+    "city": {
+      "name": "Lambrugo",
+      "istat": "013121"
+    },
+    "latitude": 45.7572782,
+    "longitude": 9.2446845
+  },
+  {
+    "street": "Via Bovia",
+    "number": "5",
+    "city": {
+      "name": "Lambrugo",
+      "istat": "013121"
+    },
+    "latitude": 45.7657555,
+    "longitude": 9.2398459
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "17",
+    "city": {
+      "name": "Lambrugo",
+      "istat": "013121"
+    },
+    "latitude": 45.7572139,
+    "longitude": 9.2405295
+  }
+]

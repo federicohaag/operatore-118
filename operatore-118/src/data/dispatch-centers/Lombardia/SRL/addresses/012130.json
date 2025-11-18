@@ -1,0 +1,402 @@
+[
+  {
+    "street": "Piazza San Giovanni Bosco",
+    "number": "10",
+    "city": {
+      "name": "Uboldo",
+      "istat": "012130"
+    },
+    "latitude": 45.6107011,
+    "longitude": 9.0030688
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "10",
+    "city": {
+      "name": "Uboldo",
+      "istat": "012130"
+    },
+    "latitude": 45.6197599,
+    "longitude": 9.0138352
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "225",
+    "city": {
+      "name": "Uboldo",
+      "istat": "012130"
+    },
+    "latitude": 45.6129295,
+    "longitude": 8.9869398
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "200",
+    "city": {
+      "name": "Uboldo",
+      "istat": "012130"
+    },
+    "latitude": 45.6134967,
+    "longitude": 8.9839585
+  },
+  {
+    "street": "Via Antonio Maria Ceriani",
+    "number": "39",
+    "city": {
+      "name": "Uboldo",
+      "istat": "012130"
+    },
+    "latitude": 45.6139004,
+    "longitude": 9.0098425
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "59",
+    "city": {
+      "name": "Uboldo",
+      "istat": "012130"
+    },
+    "latitude": 45.6140429,
+    "longitude": 9.0039354
+  },
+  {
+    "street": "Via Caduti della Liberazione",
+    "number": "53",
+    "city": {
+      "name": "Uboldo",
+      "istat": "012130"
+    },
+    "latitude": 45.6028757,
+    "longitude": 8.9984722
+  },
+  {
+    "street": "Via per Origgio",
+    "number": "1",
+    "city": {
+      "name": "Uboldo",
+      "istat": "012130"
+    },
+    "latitude": 45.6121641,
+    "longitude": 9.0068199
+  },
+  {
+    "street": "Piazza Conciliazione",
+    "number": "2",
+    "city": {
+      "name": "Uboldo",
+      "istat": "012130"
+    },
+    "latitude": 45.6125355,
+    "longitude": 9.007737
+  },
+  {
+    "street": "Via Antonio Maria Ceriani",
+    "number": "11A",
+    "city": {
+      "name": "Uboldo",
+      "istat": "012130"
+    },
+    "latitude": 45.6129432,
+    "longitude": 9.0072275
+  },
+  {
+    "street": "Piazza Conciliazione",
+    "number": "23",
+    "city": {
+      "name": "Uboldo",
+      "istat": "012130"
+    },
+    "latitude": 45.6126423,
+    "longitude": 9.0062546
+  },
+  {
+    "street": "Via San Martino",
+    "number": "3",
+    "city": {
+      "name": "Uboldo",
+      "istat": "012130"
+    },
+    "latitude": 45.6126475,
+    "longitude": 9.0064246
+  },
+  {
+    "street": "Via San Martino",
+    "number": "5",
+    "city": {
+      "name": "Uboldo",
+      "istat": "012130"
+    },
+    "latitude": 45.6127197,
+    "longitude": 9.0066369
+  },
+  {
+    "street": "Via Antonio Maria Ceriani",
+    "number": "11",
+    "city": {
+      "name": "Uboldo",
+      "istat": "012130"
+    },
+    "latitude": 45.6129101,
+    "longitude": 9.0071723
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "33",
+    "city": {
+      "name": "Uboldo",
+      "istat": "012130"
+    },
+    "latitude": 45.6160574,
+    "longitude": 9.0080998
+  },
+  {
+    "street": "Via Antonio Maria Ceriani",
+    "number": "9",
+    "city": {
+      "name": "Uboldo",
+      "istat": "012130"
+    },
+    "latitude": 45.6131874,
+    "longitude": 9.0073444
+  },
+  {
+    "street": "Via Enrico Fermi",
+    "number": "130",
+    "city": {
+      "name": "Uboldo",
+      "istat": "012130"
+    },
+    "latitude": 45.6146966,
+    "longitude": 8.9904077
+  },
+  {
+    "street": "Via Don Livio Tamborini",
+    "number": "3",
+    "city": {
+      "name": "Uboldo",
+      "istat": "012130"
+    },
+    "latitude": 45.6143521,
+    "longitude": 9.0093883
+  },
+  {
+    "street": "Via Don Livio Tamborini",
+    "number": "7",
+    "city": {
+      "name": "Uboldo",
+      "istat": "012130"
+    },
+    "latitude": 45.6148127,
+    "longitude": 9.0091442
+  },
+  {
+    "street": "Piazzale Fratelli Emilio e Giovanni Oliva",
+    "number": "1",
+    "city": {
+      "name": "Uboldo",
+      "istat": "012130"
+    },
+    "latitude": 45.6149617,
+    "longitude": 9.0069943
+  },
+  {
+    "street": "Via Cimarosa",
+    "number": "4",
+    "city": {
+      "name": "Uboldo",
+      "istat": "012130"
+    },
+    "latitude": 45.6150764,
+    "longitude": 9.0098914
+  },
+  {
+    "street": "Via Cimarosa",
+    "number": "10",
+    "city": {
+      "name": "Uboldo",
+      "istat": "012130"
+    },
+    "latitude": 45.6153498,
+    "longitude": 9.0096879
+  },
+  {
+    "street": "Via Cimarosa",
+    "number": "11",
+    "city": {
+      "name": "Uboldo",
+      "istat": "012130"
+    },
+    "latitude": 45.6153862,
+    "longitude": 9.009984
+  },
+  {
+    "street": "Via Don Livio Tamborini",
+    "number": "1",
+    "city": {
+      "name": "Uboldo",
+      "istat": "012130"
+    },
+    "latitude": 45.6140056,
+    "longitude": 9.0095325
+  },
+  {
+    "street": "Via Antonio Maria Ceriani",
+    "number": "41",
+    "city": {
+      "name": "Uboldo",
+      "istat": "012130"
+    },
+    "latitude": 45.6139795,
+    "longitude": 9.0098655
+  },
+  {
+    "street": "Via Don Livio Tamborini",
+    "number": "4",
+    "city": {
+      "name": "Uboldo",
+      "istat": "012130"
+    },
+    "latitude": 45.6141178,
+    "longitude": 9.0097826
+  },
+  {
+    "street": "Via Don Livio Tamborini",
+    "number": "10",
+    "city": {
+      "name": "Uboldo",
+      "istat": "012130"
+    },
+    "latitude": 45.6144053,
+    "longitude": 9.0096824
+  },
+  {
+    "street": "Via Don Livio Tamborini",
+    "number": "14",
+    "city": {
+      "name": "Uboldo",
+      "istat": "012130"
+    },
+    "latitude": 45.6146069,
+    "longitude": 9.0096213
+  },
+  {
+    "street": "Via Cimarosa",
+    "number": "5",
+    "city": {
+      "name": "Uboldo",
+      "istat": "012130"
+    },
+    "latitude": 45.6148122,
+    "longitude": 9.009576
+  },
+  {
+    "street": "Via Cimarosa",
+    "number": "3;2",
+    "city": {
+      "name": "Uboldo",
+      "istat": "012130"
+    },
+    "latitude": 45.6150914,
+    "longitude": 9.0102153
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "12;14",
+    "city": {
+      "name": "Uboldo",
+      "istat": "012130"
+    },
+    "latitude": 45.6162373,
+    "longitude": 9.0095916
+  },
+  {
+    "street": "Via Cimarosa",
+    "number": "9",
+    "city": {
+      "name": "Uboldo",
+      "istat": "012130"
+    },
+    "latitude": 45.6153433,
+    "longitude": 9.0094531
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "137a",
+    "city": {
+      "name": "Uboldo",
+      "istat": "012130"
+    },
+    "latitude": 45.6132711,
+    "longitude": 8.9954037
+  },
+  {
+    "street": "Via don Giuseppe Coppi",
+    "number": "69",
+    "city": {
+      "name": "Uboldo",
+      "istat": "012130"
+    },
+    "latitude": 45.6073734,
+    "longitude": 9.003005
+  },
+  {
+    "street": "Via Antonio Maria Ceriani",
+    "number": "55",
+    "city": {
+      "name": "Uboldo",
+      "istat": "012130"
+    },
+    "latitude": 45.614775,
+    "longitude": 9.0104494
+  },
+  {
+    "street": "Via Antonio Maria Ceriani",
+    "number": "47;45",
+    "city": {
+      "name": "Uboldo",
+      "istat": "012130"
+    },
+    "latitude": 45.6145178,
+    "longitude": 9.0102952
+  },
+  {
+    "street": "Via Antonio Maria Ceriani",
+    "number": "43/a",
+    "city": {
+      "name": "Uboldo",
+      "istat": "012130"
+    },
+    "latitude": 45.6143709,
+    "longitude": 9.0100131
+  },
+  {
+    "street": "Via Antonio Maria Ceriani",
+    "number": "43;43/a",
+    "city": {
+      "name": "Uboldo",
+      "istat": "012130"
+    },
+    "latitude": 45.6141468,
+    "longitude": 9.0101189
+  },
+  {
+    "street": "Via per Origgio",
+    "number": "40",
+    "city": {
+      "name": "Uboldo",
+      "istat": "012130"
+    },
+    "latitude": 45.6098317,
+    "longitude": 9.0101115
+  },
+  {
+    "street": "Via Antonio Maria Ceriani",
+    "number": "9B",
+    "city": {
+      "name": "Uboldo",
+      "istat": "012130"
+    },
+    "latitude": 45.6129088,
+    "longitude": 9.0070616
+  }
+]

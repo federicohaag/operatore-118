@@ -1,0 +1,62 @@
+[
+  {
+    "street": "Via Monsignor Francesco Olgiati",
+    "number": "3a",
+    "city": {
+      "name": "Sormano",
+      "istat": "013217"
+    },
+    "latitude": 45.8776522,
+    "longitude": 9.2476964
+  },
+  {
+    "street": "Via Calbera",
+    "number": "2",
+    "city": {
+      "name": "Sormano",
+      "istat": "013217"
+    },
+    "latitude": 45.8791657,
+    "longitude": 9.2469739
+  },
+  {
+    "street": "Strada provinciale 44 del Piano del Tivano",
+    "number": "10",
+    "city": {
+      "name": "Sormano",
+      "istat": "013217"
+    },
+    "latitude": 45.8769756,
+    "longitude": 9.2493738
+  },
+  {
+    "street": "Via Benvenuto Sormani",
+    "number": "2",
+    "city": {
+      "name": "Sormano",
+      "istat": "013217"
+    },
+    "latitude": 45.8778539,
+    "longitude": 9.2485349
+  },
+  {
+    "street": "Via Trento Trieste",
+    "number": "17",
+    "city": {
+      "name": "Sormano",
+      "istat": "013217"
+    },
+    "latitude": 45.8793111,
+    "longitude": 9.2474645
+  },
+  {
+    "street": "Via Francesco Rosso",
+    "number": "3",
+    "city": {
+      "name": "Sormano",
+      "istat": "013217"
+    },
+    "latitude": 45.8787435,
+    "longitude": 9.2490363
+  }
+]

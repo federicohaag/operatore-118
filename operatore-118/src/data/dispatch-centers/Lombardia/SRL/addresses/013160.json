@@ -1,0 +1,42 @@
+[
+  {
+    "street": "Via Bellera",
+    "number": "325",
+    "city": {
+      "name": "Musso",
+      "istat": "013160"
+    },
+    "latitude": 46.1075633,
+    "longitude": 9.276561
+  },
+  {
+    "street": "Via Bellera",
+    "number": "319",
+    "city": {
+      "name": "Musso",
+      "istat": "013160"
+    },
+    "latitude": 46.1075258,
+    "longitude": 9.2765584
+  },
+  {
+    "street": "Via Bellera",
+    "number": "363",
+    "city": {
+      "name": "Musso",
+      "istat": "013160"
+    },
+    "latitude": 46.1079003,
+    "longitude": 9.2764998
+  },
+  {
+    "street": "Via Bellera",
+    "number": "319,325",
+    "city": {
+      "name": "Musso",
+      "istat": "013160"
+    },
+    "latitude": 46.107564,
+    "longitude": 9.276496
+  }
+]

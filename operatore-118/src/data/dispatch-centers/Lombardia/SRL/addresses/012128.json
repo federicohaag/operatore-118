@@ -1,0 +1,202 @@
+[
+  {
+    "street": "Via Trieste",
+    "number": "6",
+    "city": {
+      "name": "Travedona-Monate",
+      "istat": "012128"
+    },
+    "latitude": 45.8035074,
+    "longitude": 8.6736963
+  },
+  {
+    "street": "Via Roma",
+    "number": "149",
+    "city": {
+      "name": "Travedona-Monate",
+      "istat": "012128"
+    },
+    "latitude": 45.8036903,
+    "longitude": 8.6719805
+  },
+  {
+    "street": "Via Roma",
+    "number": "5",
+    "city": {
+      "name": "Travedona-Monate",
+      "istat": "012128"
+    },
+    "latitude": 45.8046492,
+    "longitude": 8.6713013
+  },
+  {
+    "street": "Via Cristo degli Alpini",
+    "number": "59",
+    "city": {
+      "name": "Travedona-Monate",
+      "istat": "012128"
+    },
+    "latitude": 45.8034483,
+    "longitude": 8.6797115
+  },
+  {
+    "street": "Via Milano",
+    "number": "1458",
+    "city": {
+      "name": "Travedona-Monate",
+      "istat": "012128"
+    },
+    "latitude": 45.7933573,
+    "longitude": 8.6734771
+  },
+  {
+    "street": "Via Santa Caterina",
+    "number": "4",
+    "city": {
+      "name": "Travedona-Monate",
+      "istat": "012128"
+    },
+    "latitude": 45.8047055,
+    "longitude": 8.6732579
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "6",
+    "city": {
+      "name": "Travedona-Monate",
+      "istat": "012128"
+    },
+    "latitude": 45.8035161,
+    "longitude": 8.6736559
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "512",
+    "city": {
+      "name": "Travedona-Monate",
+      "istat": "012128"
+    },
+    "latitude": 45.7943257,
+    "longitude": 8.6785474
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "131",
+    "city": {
+      "name": "Travedona-Monate",
+      "istat": "012128"
+    },
+    "latitude": 45.8069692,
+    "longitude": 8.6751023
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "400",
+    "city": {
+      "name": "Travedona-Monate",
+      "istat": "012128"
+    },
+    "latitude": 45.8038252,
+    "longitude": 8.6784123
+  },
+  {
+    "street": "Via Michelangelo",
+    "number": "86",
+    "city": {
+      "name": "Travedona-Monate",
+      "istat": "012128"
+    },
+    "latitude": 45.8009384,
+    "longitude": 8.6795493
+  },
+  {
+    "street": "Via Adriana Bisi Fabbri",
+    "number": "25",
+    "city": {
+      "name": "Travedona-Monate",
+      "istat": "012128"
+    },
+    "latitude": 45.7965707,
+    "longitude": 8.6755916
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "63",
+    "city": {
+      "name": "Travedona-Monate",
+      "istat": "012128"
+    },
+    "latitude": 45.8030422,
+    "longitude": 8.6748193
+  },
+  {
+    "street": "Via Speri della Chiesa",
+    "number": "33",
+    "city": {
+      "name": "Travedona-Monate",
+      "istat": "012128"
+    },
+    "latitude": 45.7938338,
+    "longitude": 8.6778072
+  },
+  {
+    "street": "Via Speri della Chiesa",
+    "number": "53",
+    "city": {
+      "name": "Travedona-Monate",
+      "istat": "012128"
+    },
+    "latitude": 45.7936374,
+    "longitude": 8.6778957
+  },
+  {
+    "street": "Via Speri della Chiesa",
+    "number": "9",
+    "city": {
+      "name": "Travedona-Monate",
+      "istat": "012128"
+    },
+    "latitude": 45.7940404,
+    "longitude": 8.6776865
+  },
+  {
+    "street": "Via Speri della Chiesa",
+    "number": "5",
+    "city": {
+      "name": "Travedona-Monate",
+      "istat": "012128"
+    },
+    "latitude": 45.7940918,
+    "longitude": 8.677665
+  },
+  {
+    "street": "Via Speri della Chiesa",
+    "number": "39",
+    "city": {
+      "name": "Travedona-Monate",
+      "istat": "012128"
+    },
+    "latitude": 45.7937613,
+    "longitude": 8.677842
+  },
+  {
+    "street": "Via don Carlo Gnocchi",
+    "number": "54",
+    "city": {
+      "name": "Travedona-Monate",
+      "istat": "012128"
+    },
+    "latitude": 45.807989,
+    "longitude": 8.6744926
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "1563/B",
+    "city": {
+      "name": "Travedona-Monate",
+      "istat": "012128"
+    },
+    "latitude": 45.816205,
+    "longitude": 8.6615157
+  }
+]

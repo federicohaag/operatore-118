@@ -1,0 +1,732 @@
+[
+  {
+    "street": "Via alla Folla",
+    "number": "2",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0750706,
+    "longitude": 9.3069492
+  },
+  {
+    "street": "Via Dottor Giuseppe Greppi",
+    "number": "15",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.075361,
+    "longitude": 9.3060233
+  },
+  {
+    "street": "Val Varrone",
+    "number": "28",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0783649,
+    "longitude": 9.3098877
+  },
+  {
+    "street": "Via Martiri della Liberazione",
+    "number": "35",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0764832,
+    "longitude": 9.3055112
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "59",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0775093,
+    "longitude": 9.3080904
+  },
+  {
+    "street": "Via Dottor Giuseppe Greppi",
+    "number": "9",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0752537,
+    "longitude": 9.3057911
+  },
+  {
+    "street": "Via Martiri della Liberazione",
+    "number": "1",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0765045,
+    "longitude": 9.3074336
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "70",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0773805,
+    "longitude": 9.3081872
+  },
+  {
+    "street": "Via alla Foppa",
+    "number": "15",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0800476,
+    "longitude": 9.3061647
+  },
+  {
+    "street": "Via alla Foppa",
+    "number": "8",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0799433,
+    "longitude": 9.3062124
+  },
+  {
+    "street": "Via alla Foppa",
+    "number": "6/1",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0796085,
+    "longitude": 9.3063315
+  },
+  {
+    "street": "Via Capona",
+    "number": "5",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0792987,
+    "longitude": 9.3061371
+  },
+  {
+    "street": "Via Martiri della Liberazione",
+    "number": "13",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0764071,
+    "longitude": 9.3063821
+  },
+  {
+    "street": "Via Madonnina",
+    "number": "3",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0761872,
+    "longitude": 9.3076558
+  },
+  {
+    "street": "Via Madonnina",
+    "number": "1",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0761887,
+    "longitude": 9.3076037
+  },
+  {
+    "street": "Via Madonnina",
+    "number": "2",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0761296,
+    "longitude": 9.3075947
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "1",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0761165,
+    "longitude": 9.3073896
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "10",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0757497,
+    "longitude": 9.3076972
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "2",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.075654,
+    "longitude": 9.3077714
+  },
+  {
+    "street": "Via Tommaso Grossi",
+    "number": "2",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0756076,
+    "longitude": 9.3073375
+  },
+  {
+    "street": "Via della Roggia",
+    "number": "2",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0754117,
+    "longitude": 9.3082131
+  },
+  {
+    "street": "Via alla Gera",
+    "number": "4",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0749013,
+    "longitude": 9.3040476
+  },
+  {
+    "street": "Via alla Gera",
+    "number": "5",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0748389,
+    "longitude": 9.3042185
+  },
+  {
+    "street": "Via San Giovanni Bosco",
+    "number": "5",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0770688,
+    "longitude": 9.3066105
+  },
+  {
+    "street": "Via San Giovanni Bosco",
+    "number": "4",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.077084,
+    "longitude": 9.3067657
+  },
+  {
+    "street": "Via San Giovanni Bosco",
+    "number": "3",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0773747,
+    "longitude": 9.3066197
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "22",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0774837,
+    "longitude": 9.30689
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "26",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0769743,
+    "longitude": 9.305852
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "19",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0768304,
+    "longitude": 9.305892
+  },
+  {
+    "street": "Via alla Darsena",
+    "number": "19",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0765722,
+    "longitude": 9.2999222
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "72",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0774498,
+    "longitude": 9.3082276
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "78",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.07751,
+    "longitude": 9.3082626
+  },
+  {
+    "street": "Via Crocetta",
+    "number": "2",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0780609,
+    "longitude": 9.3089873
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "36",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.076446,
+    "longitude": 9.3075377
+  },
+  {
+    "street": "Via Dottor Giuseppe Greppi",
+    "number": "1",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0764335,
+    "longitude": 9.3061442
+  },
+  {
+    "street": "Via Dottor Giuseppe Greppi",
+    "number": "2",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0764344,
+    "longitude": 9.3060391
+  },
+  {
+    "street": "Via Martiri della Liberazione",
+    "number": "4",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0764907,
+    "longitude": 9.3064603
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "49",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0773553,
+    "longitude": 9.3079986
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "39",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0769981,
+    "longitude": 9.3076484
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "47",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0772532,
+    "longitude": 9.3079304
+  },
+  {
+    "street": "Via Martiri della Liberazione",
+    "number": "3",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0763575,
+    "longitude": 9.3073725
+  },
+  {
+    "street": "Via Martiri della Liberazione",
+    "number": "5",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0763583,
+    "longitude": 9.3073061
+  },
+  {
+    "street": "Via Martiri della Liberazione",
+    "number": "2",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0764171,
+    "longitude": 9.3073755
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "27",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.076552,
+    "longitude": 9.3075159
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "48",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0767115,
+    "longitude": 9.3076335
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "37",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.076963,
+    "longitude": 9.3076343
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "41",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0770504,
+    "longitude": 9.3076989
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "44",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0766011,
+    "longitude": 9.3075835
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "25",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0764758,
+    "longitude": 9.3074912
+  },
+  {
+    "street": "Via Dottor Giuseppe Greppi",
+    "number": "10",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0760641,
+    "longitude": 9.3061996
+  },
+  {
+    "street": "Via Dottor Giuseppe Greppi",
+    "number": "6",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0762464,
+    "longitude": 9.3059813
+  },
+  {
+    "street": "Via Martiri della Liberazione",
+    "number": "7",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0763585,
+    "longitude": 9.3072441
+  },
+  {
+    "street": "Via Dottor Giuseppe Greppi",
+    "number": "14",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0755657,
+    "longitude": 9.3061985
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "45",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0771217,
+    "longitude": 9.3077351
+  },
+  {
+    "street": "Via alla Folla",
+    "number": "8",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0747747,
+    "longitude": 9.3062082
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "21",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0776694,
+    "longitude": 9.3079174
+  },
+  {
+    "street": "Via San Giovanni Bosco",
+    "number": "1",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0767078,
+    "longitude": 9.3065284
+  },
+  {
+    "street": "Via de Magni",
+    "number": "1",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0775002,
+    "longitude": 9.3074915
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "2",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0776283,
+    "longitude": 9.3078591
+  },
+  {
+    "street": "Via de Magni",
+    "number": "17",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0774775,
+    "longitude": 9.307644
+  },
+  {
+    "street": "Via Vignola",
+    "number": "7",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0785975,
+    "longitude": 9.3046654
+  },
+  {
+    "street": "Via Vignola",
+    "number": "5",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0787738,
+    "longitude": 9.3046647
+  },
+  {
+    "street": "Via Vignola",
+    "number": "6",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0787142,
+    "longitude": 9.3047898
+  },
+  {
+    "street": "Via P.G. Rubini",
+    "number": "4",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0781572,
+    "longitude": 9.304555
+  },
+  {
+    "street": "Viale delle Rimembranze",
+    "number": "23",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0757716,
+    "longitude": 9.3036592
+  },
+  {
+    "street": "Via al Roccolo",
+    "number": "8",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0728739,
+    "longitude": 9.3031993
+  },
+  {
+    "street": "Via Martiri della Liberazione",
+    "number": "6",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0765229,
+    "longitude": 9.3062905
+  },
+  {
+    "street": "Via San Giovanni Bosco",
+    "number": "6",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0773483,
+    "longitude": 9.3067703
+  },
+  {
+    "street": "Via Santa Cecilia",
+    "number": "17",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.068336,
+    "longitude": 9.3079427
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "49",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0760912,
+    "longitude": 9.3042098
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "56",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0767763,
+    "longitude": 9.3049066
+  },
+  {
+    "street": "Via Duca d'Aosta",
+    "number": "53",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0693203,
+    "longitude": 9.3099228
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "22",
+    "city": {
+      "name": "Dervio",
+      "istat": "097030"
+    },
+    "latitude": 46.0699985,
+    "longitude": 9.3042296
+  }
+]

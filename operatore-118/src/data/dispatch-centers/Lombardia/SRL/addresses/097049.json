@@ -1,0 +1,3562 @@
+[
+  {
+    "street": "Via degli Ulivi",
+    "number": "26",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7065479,
+    "longitude": 9.3549163
+  },
+  {
+    "street": "Via degli Ulivi",
+    "number": "24",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7063561,
+    "longitude": 9.3547953
+  },
+  {
+    "street": "Via degli Ulivi",
+    "number": "15",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7065238,
+    "longitude": 9.3544353
+  },
+  {
+    "street": "Via degli Ulivi",
+    "number": "22",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7061401,
+    "longitude": 9.3545855
+  },
+  {
+    "street": "Via degli Ulivi",
+    "number": "11",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7062233,
+    "longitude": 9.3542152
+  },
+  {
+    "street": "Via degli Ulivi",
+    "number": "20",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.705921,
+    "longitude": 9.3544147
+  },
+  {
+    "street": "Via degli Ulivi",
+    "number": "11a",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7059755,
+    "longitude": 9.3540334
+  },
+  {
+    "street": "Via degli Ulivi",
+    "number": "9",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7056978,
+    "longitude": 9.3538254
+  },
+  {
+    "street": "Via degli Ulivi",
+    "number": "2",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7047376,
+    "longitude": 9.3539367
+  },
+  {
+    "street": "Via degli Ulivi",
+    "number": "1a",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7046888,
+    "longitude": 9.3535541
+  },
+  {
+    "street": "Via degli Ulivi",
+    "number": "1",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7045513,
+    "longitude": 9.3535536
+  },
+  {
+    "street": "Via alle Valli",
+    "number": "41",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7206189,
+    "longitude": 9.3470639
+  },
+  {
+    "street": "Via alle Valli",
+    "number": "47",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7208951,
+    "longitude": 9.348008
+  },
+  {
+    "street": "Via alle Valli",
+    "number": "55",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.721073,
+    "longitude": 9.3484573
+  },
+  {
+    "street": "Via alle Valli",
+    "number": "49",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7209457,
+    "longitude": 9.3481247
+  },
+  {
+    "street": "Via alle Valli",
+    "number": "51",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7209944,
+    "longitude": 9.3482253
+  },
+  {
+    "street": "Via alle Valli",
+    "number": "40",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7189841,
+    "longitude": 9.3454868
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "11",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7095667,
+    "longitude": 9.3420407
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "9",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7094599,
+    "longitude": 9.3416417
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "18",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7092575,
+    "longitude": 9.341667
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "8",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7088301,
+    "longitude": 9.342161
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "5",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7092933,
+    "longitude": 9.3411464
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "4a",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7089059,
+    "longitude": 9.3407067
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "1a",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7090767,
+    "longitude": 9.34055
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "4",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7088489,
+    "longitude": 9.3406004
+  },
+  {
+    "street": "Via degli Alpini",
+    "number": "1",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7084845,
+    "longitude": 9.3405385
+  },
+  {
+    "street": "Via degli Alpini",
+    "number": "3",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7084003,
+    "longitude": 9.3411364
+  },
+  {
+    "street": "Via degli Alpini",
+    "number": "5",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7082358,
+    "longitude": 9.341603
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "2",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7091437,
+    "longitude": 9.3390859
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "2",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7094083,
+    "longitude": 9.339127
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "4",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7095748,
+    "longitude": 9.3389345
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "1",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7094699,
+    "longitude": 9.3385269
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "32",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7087684,
+    "longitude": 9.3382379
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "63",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7088997,
+    "longitude": 9.3384557
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "59",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7090759,
+    "longitude": 9.3382634
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "57",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7091207,
+    "longitude": 9.3381884
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "55",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7091381,
+    "longitude": 9.3381594
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "53",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.709166,
+    "longitude": 9.3381127
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "30",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7089937,
+    "longitude": 9.3379862
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "51",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7091923,
+    "longitude": 9.3380687
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "49",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7092057,
+    "longitude": 9.3380464
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "47",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7092205,
+    "longitude": 9.3380216
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "45",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.709255,
+    "longitude": 9.3379446
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "43",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7092759,
+    "longitude": 9.3378887
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "41",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7092903,
+    "longitude": 9.3378464
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "39",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7093003,
+    "longitude": 9.3378171
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "37",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7093209,
+    "longitude": 9.3377566
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "35",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7093443,
+    "longitude": 9.3376083
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "33",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7093691,
+    "longitude": 9.3372284
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "31",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7093747,
+    "longitude": 9.3370374
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "16",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7090118,
+    "longitude": 9.3372318
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "29",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7093465,
+    "longitude": 9.3366704
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "14",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7091577,
+    "longitude": 9.3366151
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "27",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7093289,
+    "longitude": 9.3365374
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "12",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7091481,
+    "longitude": 9.3363844
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "6",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7091288,
+    "longitude": 9.336168
+  },
+  {
+    "street": "Via della Conciliazione",
+    "number": "6",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7085128,
+    "longitude": 9.3360002
+  },
+  {
+    "street": "Via della Conciliazione",
+    "number": "2",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7083557,
+    "longitude": 9.3355659
+  },
+  {
+    "street": "Piazza della Libertà",
+    "number": "4",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7084352,
+    "longitude": 9.335339
+  },
+  {
+    "street": "Piazza della Libertà",
+    "number": "2",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7084591,
+    "longitude": 9.3354119
+  },
+  {
+    "street": "Via Camillo Benso conte di Cavour",
+    "number": "4",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7091609,
+    "longitude": 9.3355196
+  },
+  {
+    "street": "Via Camillo Benso conte di Cavour",
+    "number": "1",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7091056,
+    "longitude": 9.3353226
+  },
+  {
+    "street": "Via Camillo Benso conte di Cavour",
+    "number": "6",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7091987,
+    "longitude": 9.335481
+  },
+  {
+    "street": "Via Camillo Benso conte di Cavour",
+    "number": "5",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7092132,
+    "longitude": 9.3352048
+  },
+  {
+    "street": "Via Camillo Benso conte di Cavour",
+    "number": "7",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7092714,
+    "longitude": 9.3350782
+  },
+  {
+    "street": "Via Camillo Benso conte di Cavour",
+    "number": "9",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7093549,
+    "longitude": 9.3351094
+  },
+  {
+    "street": "Via Camillo Benso conte di Cavour",
+    "number": "10",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7093357,
+    "longitude": 9.3354839
+  },
+  {
+    "street": "Via Camillo Benso conte di Cavour",
+    "number": "12",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7093655,
+    "longitude": 9.3355272
+  },
+  {
+    "street": "Via Camillo Benso conte di Cavour",
+    "number": "14",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.709541,
+    "longitude": 9.3355169
+  },
+  {
+    "street": "Via Camillo Benso conte di Cavour",
+    "number": "15",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7095223,
+    "longitude": 9.3352706
+  },
+  {
+    "street": "Via Camillo Benso conte di Cavour",
+    "number": "16",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7096187,
+    "longitude": 9.3354497
+  },
+  {
+    "street": "Via Camillo Benso conte di Cavour",
+    "number": "18",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7096473,
+    "longitude": 9.3354155
+  },
+  {
+    "street": "Via Camillo Benso conte di Cavour",
+    "number": "20",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7096807,
+    "longitude": 9.3353896
+  },
+  {
+    "street": "Via Camillo Benso conte di Cavour",
+    "number": "26",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7098634,
+    "longitude": 9.3352547
+  },
+  {
+    "street": "Via Camillo Benso conte di Cavour",
+    "number": "28",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7099461,
+    "longitude": 9.3352078
+  },
+  {
+    "street": "Via Camillo Benso conte di Cavour",
+    "number": "30",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.710012,
+    "longitude": 9.3351772
+  },
+  {
+    "street": "Via Camillo Benso conte di Cavour",
+    "number": "32",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7101113,
+    "longitude": 9.3351519
+  },
+  {
+    "street": "Via alle Valli",
+    "number": "1",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7105518,
+    "longitude": 9.3350677
+  },
+  {
+    "street": "Via alle Valli",
+    "number": "2",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7106361,
+    "longitude": 9.3354473
+  },
+  {
+    "street": "Via alle Valli",
+    "number": "5",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7111156,
+    "longitude": 9.3351884
+  },
+  {
+    "street": "Via alle Valli",
+    "number": "4",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7108618,
+    "longitude": 9.3353601
+  },
+  {
+    "street": "Via alle Valli",
+    "number": "9",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7111943,
+    "longitude": 9.3354043
+  },
+  {
+    "street": "Via alle Valli",
+    "number": "10",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7111315,
+    "longitude": 9.335749
+  },
+  {
+    "street": "Via alle Valli",
+    "number": "12",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7113956,
+    "longitude": 9.3358912
+  },
+  {
+    "street": "Via alle Valli",
+    "number": "14",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.711817,
+    "longitude": 9.335926
+  },
+  {
+    "street": "Via Cascina Monte",
+    "number": "1",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7121437,
+    "longitude": 9.3359795
+  },
+  {
+    "street": "Via Cascina Monte",
+    "number": "2",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7120488,
+    "longitude": 9.3361929
+  },
+  {
+    "street": "Via Cascina Monte",
+    "number": "8",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7117616,
+    "longitude": 9.3367847
+  },
+  {
+    "street": "Via Cascina Monte",
+    "number": "9",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7117269,
+    "longitude": 9.3368597
+  },
+  {
+    "street": "Via Cascina Monte",
+    "number": "10",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7116886,
+    "longitude": 9.3369426
+  },
+  {
+    "street": "Via Cascina Monte",
+    "number": "11",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7116484,
+    "longitude": 9.3370295
+  },
+  {
+    "street": "Via Cascina Monte",
+    "number": "12",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7115423,
+    "longitude": 9.3372588
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "19",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.710635,
+    "longitude": 9.3376424
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "23",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7105683,
+    "longitude": 9.3374071
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "15",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7096023,
+    "longitude": 9.3366483
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "13",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7095496,
+    "longitude": 9.3365974
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "9a",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7095075,
+    "longitude": 9.3364446
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "9",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7094759,
+    "longitude": 9.3363146
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "5",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7094196,
+    "longitude": 9.3362303
+  },
+  {
+    "street": "Via Enrico Cernuschi",
+    "number": "1",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7091876,
+    "longitude": 9.3358196
+  },
+  {
+    "street": "Via Enrico Cernuschi",
+    "number": "2",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7092993,
+    "longitude": 9.3358947
+  },
+  {
+    "street": "Via Cascina Monte",
+    "number": "7",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7118044,
+    "longitude": 9.3370378
+  },
+  {
+    "street": "Via Cascina Monte",
+    "number": "6",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.712005,
+    "longitude": 9.3369652
+  },
+  {
+    "street": "Via Cascina Monte",
+    "number": "6a",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7120869,
+    "longitude": 9.3370391
+  },
+  {
+    "street": "Via Cascina Monte",
+    "number": "5",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7121634,
+    "longitude": 9.337117
+  },
+  {
+    "street": "Via Cascina Monte",
+    "number": "4",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7123244,
+    "longitude": 9.3369533
+  },
+  {
+    "street": "Via Cascina Monte",
+    "number": "3",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7122225,
+    "longitude": 9.3368505
+  },
+  {
+    "street": "Via alle Valli",
+    "number": "11",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7123349,
+    "longitude": 9.3355371
+  },
+  {
+    "street": "Via alle Valli",
+    "number": "27",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7140195,
+    "longitude": 9.3352367
+  },
+  {
+    "street": "Via alle Valli",
+    "number": "25",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.714086,
+    "longitude": 9.3355425
+  },
+  {
+    "street": "Via alle Valli",
+    "number": "15",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7138584,
+    "longitude": 9.3348625
+  },
+  {
+    "street": "Via alle Valli",
+    "number": "23",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7141759,
+    "longitude": 9.3343462
+  },
+  {
+    "street": "Via alle Valli",
+    "number": "17",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7139886,
+    "longitude": 9.3342188
+  },
+  {
+    "street": "Via alle Valli",
+    "number": "21",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7138238,
+    "longitude": 9.3332908
+  },
+  {
+    "street": "Via alle Valli",
+    "number": "19",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7137826,
+    "longitude": 9.3334745
+  },
+  {
+    "street": "Via alle Valli",
+    "number": "31",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7129136,
+    "longitude": 9.3370767
+  },
+  {
+    "street": "Via alle Valli",
+    "number": "33",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7127385,
+    "longitude": 9.3374026
+  },
+  {
+    "street": "Via alle Valli",
+    "number": "26a",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7129501,
+    "longitude": 9.3391138
+  },
+  {
+    "street": "Via alle Valli",
+    "number": "28",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7145148,
+    "longitude": 9.3391581
+  },
+  {
+    "street": "Via alle Valli",
+    "number": "30",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7147307,
+    "longitude": 9.3388852
+  },
+  {
+    "street": "Via alle Valli",
+    "number": "32",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7150313,
+    "longitude": 9.3387779
+  },
+  {
+    "street": "Via alle Valli",
+    "number": "36",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7146647,
+    "longitude": 9.3433906
+  },
+  {
+    "street": "Via alle Valli",
+    "number": "34",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.714822,
+    "longitude": 9.3433973
+  },
+  {
+    "street": "Via alle Valli",
+    "number": "35bis",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7166697,
+    "longitude": 9.3376834
+  },
+  {
+    "street": "Via alle Valli",
+    "number": "35",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.715424,
+    "longitude": 9.3390096
+  },
+  {
+    "street": "Cascina Selvatico",
+    "number": "1",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7134377,
+    "longitude": 9.3377278
+  },
+  {
+    "street": "Corso Europa",
+    "number": "12",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7055323,
+    "longitude": 9.3347547
+  },
+  {
+    "street": "Via degli Ulivi",
+    "number": "3b",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7053106,
+    "longitude": 9.3525158
+  },
+  {
+    "street": "Corso Europa",
+    "number": "31",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7040416,
+    "longitude": 9.3462311
+  },
+  {
+    "street": "Corso Europa",
+    "number": "23",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7046728,
+    "longitude": 9.3452528
+  },
+  {
+    "street": "Corso Europa",
+    "number": "25",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.704636,
+    "longitude": 9.3453271
+  },
+  {
+    "street": "Corso Europa",
+    "number": "27",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7045931,
+    "longitude": 9.3454089
+  },
+  {
+    "street": "Corso Europa",
+    "number": "29",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7045543,
+    "longitude": 9.3454866
+  },
+  {
+    "street": "Corso Europa",
+    "number": "21",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7048843,
+    "longitude": 9.3447287
+  },
+  {
+    "street": "Corso Europa",
+    "number": "19",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.704941,
+    "longitude": 9.344341
+  },
+  {
+    "street": "Corso Europa",
+    "number": "17",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.705207,
+    "longitude": 9.3443648
+  },
+  {
+    "street": "Corso Europa",
+    "number": "15",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7051322,
+    "longitude": 9.3442277
+  },
+  {
+    "street": "Corso Europa",
+    "number": "9",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7052354,
+    "longitude": 9.3438588
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "91",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7081553,
+    "longitude": 9.3392048
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "89",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7081854,
+    "longitude": 9.3391617
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "85",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7082618,
+    "longitude": 9.3390648
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "38",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7081898,
+    "longitude": 9.3388137
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "36",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7082426,
+    "longitude": 9.3387467
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "81",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7084664,
+    "longitude": 9.3388759
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "79",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7084851,
+    "longitude": 9.3388578
+  },
+  {
+    "street": "Via San Pietro",
+    "number": "1",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7083302,
+    "longitude": 9.338724
+  },
+  {
+    "street": "Via San Pietro",
+    "number": "3",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7082161,
+    "longitude": 9.338726
+  },
+  {
+    "street": "Via San Pietro",
+    "number": "5",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7081526,
+    "longitude": 9.3387281
+  },
+  {
+    "street": "Via San Pietro",
+    "number": "9",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7080978,
+    "longitude": 9.3387281
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "7",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7076622,
+    "longitude": 9.3385566
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "8",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7078734,
+    "longitude": 9.3384558
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "6",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.707919,
+    "longitude": 9.3385737
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "5",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7078028,
+    "longitude": 9.3387475
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "4",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7080124,
+    "longitude": 9.3387912
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "83",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7084017,
+    "longitude": 9.3389386
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "77a",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7085583,
+    "longitude": 9.3387868
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "77",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7085905,
+    "longitude": 9.3387556
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "75",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7086503,
+    "longitude": 9.3386976
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "71",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7087177,
+    "longitude": 9.3386322
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "69",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7087581,
+    "longitude": 9.338593
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "67",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7087756,
+    "longitude": 9.3385761
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "65",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7088149,
+    "longitude": 9.3385379
+  },
+  {
+    "street": "Corso Europa",
+    "number": "26",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7051876,
+    "longitude": 9.3427842
+  },
+  {
+    "street": "Corso Europa",
+    "number": "24",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.705017,
+    "longitude": 9.3425772
+  },
+  {
+    "street": "Corso Europa",
+    "number": "28",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7051423,
+    "longitude": 9.3434178
+  },
+  {
+    "street": "Corso Europa",
+    "number": "30",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7048787,
+    "longitude": 9.3438983
+  },
+  {
+    "street": "Via Gorizia",
+    "number": "1",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7044736,
+    "longitude": 9.3442052
+  },
+  {
+    "street": "Via Gorizia",
+    "number": "2",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.704559,
+    "longitude": 9.3436714
+  },
+  {
+    "street": "Via Gorizia",
+    "number": "5",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.704261,
+    "longitude": 9.3437099
+  },
+  {
+    "street": "Via Gorizia",
+    "number": "4",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7043605,
+    "longitude": 9.3432224
+  },
+  {
+    "street": "Via Gorizia",
+    "number": "6",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7040234,
+    "longitude": 9.34289
+  },
+  {
+    "street": "Via Gorizia",
+    "number": "3",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7041117,
+    "longitude": 9.344053
+  },
+  {
+    "street": "Corso Europa",
+    "number": "32",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7045762,
+    "longitude": 9.3444834
+  },
+  {
+    "street": "Via Giacomo Puccini",
+    "number": "15",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7038795,
+    "longitude": 9.3452367
+  },
+  {
+    "street": "Via Giacomo Puccini",
+    "number": "11",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7036976,
+    "longitude": 9.3454529
+  },
+  {
+    "street": "Via Giacomo Puccini",
+    "number": "6",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7034994,
+    "longitude": 9.3460643
+  },
+  {
+    "street": "Via Giacomo Puccini",
+    "number": "4",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7034354,
+    "longitude": 9.3461565
+  },
+  {
+    "street": "Via Giacomo Puccini",
+    "number": "9",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7033493,
+    "longitude": 9.3458641
+  },
+  {
+    "street": "Via Giacomo Puccini",
+    "number": "7",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7032332,
+    "longitude": 9.3457083
+  },
+  {
+    "street": "Via Giacomo Puccini",
+    "number": "5",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7031688,
+    "longitude": 9.345856
+  },
+  {
+    "street": "Via Giacomo Puccini",
+    "number": "3",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7032252,
+    "longitude": 9.3460763
+  },
+  {
+    "street": "Via Giacomo Puccini",
+    "number": "2",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7033834,
+    "longitude": 9.3462665
+  },
+  {
+    "street": "Via Gioachino Rossini",
+    "number": "2",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7029866,
+    "longitude": 9.3457192
+  },
+  {
+    "street": "Via Gioachino Rossini",
+    "number": "1",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7018558,
+    "longitude": 9.3450301
+  },
+  {
+    "street": "Via Gioachino Rossini",
+    "number": "3",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7017329,
+    "longitude": 9.344907
+  },
+  {
+    "street": "Via Gioachino Rossini",
+    "number": "5",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7016612,
+    "longitude": 9.3448351
+  },
+  {
+    "street": "Via Gioachino Rossini",
+    "number": "4",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7018362,
+    "longitude": 9.3445179
+  },
+  {
+    "street": "Via Gioachino Rossini",
+    "number": "6",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7017722,
+    "longitude": 9.3444511
+  },
+  {
+    "street": "Via Gioachino Rossini",
+    "number": "7",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7015397,
+    "longitude": 9.3447133
+  },
+  {
+    "street": "Via Gioachino Rossini",
+    "number": "8",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7016496,
+    "longitude": 9.344323
+  },
+  {
+    "street": "Via Gioachino Rossini",
+    "number": "9",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7014568,
+    "longitude": 9.3446302
+  },
+  {
+    "street": "Via Gioachino Rossini",
+    "number": "10",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7014364,
+    "longitude": 9.3441004
+  },
+  {
+    "street": "Via Gioachino Rossini",
+    "number": "12",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7012233,
+    "longitude": 9.3438778
+  },
+  {
+    "street": "Via Gioachino Rossini",
+    "number": "11",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7010358,
+    "longitude": 9.3442081
+  },
+  {
+    "street": "Via Gioachino Rossini",
+    "number": "14",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.701097,
+    "longitude": 9.3437459
+  },
+  {
+    "street": "Via Gioachino Rossini",
+    "number": "13",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7007998,
+    "longitude": 9.3444027
+  },
+  {
+    "street": "Via Gioachino Rossini",
+    "number": "15",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7005649,
+    "longitude": 9.3447538
+  },
+  {
+    "street": "Via Gioachino Rossini",
+    "number": "17",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7001711,
+    "longitude": 9.3444867
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "26",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7016299,
+    "longitude": 9.3470412
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "24",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7017394,
+    "longitude": 9.3469681
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "28",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7018453,
+    "longitude": 9.3471196
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "32",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7017846,
+    "longitude": 9.3477899
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "34",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7016924,
+    "longitude": 9.347873
+  },
+  {
+    "street": "Via Maria Gaetana Agnesi",
+    "number": "2a",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7009133,
+    "longitude": 9.348427
+  },
+  {
+    "street": "Via Maria Gaetana Agnesi",
+    "number": "2b",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7011378,
+    "longitude": 9.3481773
+  },
+  {
+    "street": "Via Maria Gaetana Agnesi",
+    "number": "2c",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.70124,
+    "longitude": 9.3480654
+  },
+  {
+    "street": "Via Maria Gaetana Agnesi",
+    "number": "2D/E",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7013382,
+    "longitude": 9.3479449
+  },
+  {
+    "street": "Via Maria Gaetana Agnesi",
+    "number": "2f",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7013402,
+    "longitude": 9.3476608
+  },
+  {
+    "street": "Via Maria Gaetana Agnesi",
+    "number": "2g",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7011197,
+    "longitude": 9.3474168
+  },
+  {
+    "street": "Via Maria Gaetana Agnesi",
+    "number": "2h",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7009494,
+    "longitude": 9.3472246
+  },
+  {
+    "street": "Via Maria Gaetana Agnesi",
+    "number": "2i",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.700739,
+    "longitude": 9.3470926
+  },
+  {
+    "street": "Via Maria Gaetana Agnesi",
+    "number": "2m",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7005325,
+    "longitude": 9.3472561
+  },
+  {
+    "street": "Via Maria Gaetana Agnesi",
+    "number": "2n",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7004023,
+    "longitude": 9.3474197
+  },
+  {
+    "street": "Via Maria Gaetana Agnesi",
+    "number": "5",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.700216,
+    "longitude": 9.3480475
+  },
+  {
+    "street": "Via Maria Gaetana Agnesi",
+    "number": "3",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7004894,
+    "longitude": 9.3485353
+  },
+  {
+    "street": "Via Maria Gaetana Agnesi",
+    "number": "1",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7003963,
+    "longitude": 9.3488497
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "21",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7011416,
+    "longitude": 9.3488525
+  },
+  {
+    "street": "Via privata San Martino",
+    "number": "2",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.701441,
+    "longitude": 9.3488736
+  },
+  {
+    "street": "Via privata San Martino",
+    "number": "4",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7012676,
+    "longitude": 9.349308
+  },
+  {
+    "street": "Via privata San Martino",
+    "number": "3",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7013978,
+    "longitude": 9.3495925
+  },
+  {
+    "street": "Via privata San Martino",
+    "number": "12",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7010175,
+    "longitude": 9.3499406
+  },
+  {
+    "street": "Via privata San Martino",
+    "number": "10",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7009489,
+    "longitude": 9.3498648
+  },
+  {
+    "street": "Via privata San Martino",
+    "number": "8",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7008548,
+    "longitude": 9.3497638
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "19",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7015482,
+    "longitude": 9.3484398
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "17",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7017054,
+    "longitude": 9.3483117
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "9",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7022351,
+    "longitude": 9.3478495
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "13",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7020356,
+    "longitude": 9.3479646
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "11",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7020842,
+    "longitude": 9.348071
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "7",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7023012,
+    "longitude": 9.3477622
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "5",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7024544,
+    "longitude": 9.3475804
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "6",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7025008,
+    "longitude": 9.3471115
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "16",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7021903,
+    "longitude": 9.3472939
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "16b",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.702103,
+    "longitude": 9.3469842
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "14",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7020237,
+    "longitude": 9.3470708
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "8",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7023762,
+    "longitude": 9.3470111
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "16a",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7023233,
+    "longitude": 9.3473093
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "3",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7026681,
+    "longitude": 9.3474176
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "1",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7029744,
+    "longitude": 9.3469962
+  },
+  {
+    "street": "Via Wolfgang Amadeus Mozart",
+    "number": "1",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7034598,
+    "longitude": 9.3463975
+  },
+  {
+    "street": "Via Wolfgang Amadeus Mozart",
+    "number": "3",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7034897,
+    "longitude": 9.3464851
+  },
+  {
+    "street": "Via Wolfgang Amadeus Mozart",
+    "number": "2",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7033021,
+    "longitude": 9.3465504
+  },
+  {
+    "street": "Via Wolfgang Amadeus Mozart",
+    "number": "4",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7033452,
+    "longitude": 9.3466698
+  },
+  {
+    "street": "Via Wolfgang Amadeus Mozart",
+    "number": "6",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7033663,
+    "longitude": 9.3467383
+  },
+  {
+    "street": "Via Wolfgang Amadeus Mozart",
+    "number": "8",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7033789,
+    "longitude": 9.3468112
+  },
+  {
+    "street": "Via Cascina Paolina",
+    "number": "1",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.707964,
+    "longitude": 9.3566016
+  },
+  {
+    "street": "Via Cascina Paolina",
+    "number": "2",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.707944,
+    "longitude": 9.3566924
+  },
+  {
+    "street": "Via Cascina Paolina",
+    "number": "4",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7078527,
+    "longitude": 9.3569824
+  },
+  {
+    "street": "Cascina Albareda",
+    "number": "3",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7053908,
+    "longitude": 9.3577403
+  },
+  {
+    "street": "Cascina Albareda",
+    "number": "2",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7051396,
+    "longitude": 9.3577523
+  },
+  {
+    "street": "Via Cascina Albareda",
+    "number": "6",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7032169,
+    "longitude": 9.3575643
+  },
+  {
+    "street": "Via Cascina Albareda",
+    "number": "2",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7030235,
+    "longitude": 9.3569147
+  },
+  {
+    "street": "Via Cascina Albareda",
+    "number": "1",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.703258,
+    "longitude": 9.3564204
+  },
+  {
+    "street": "Via degli Ulivi",
+    "number": "1c",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7048712,
+    "longitude": 9.3535816
+  },
+  {
+    "street": "Via degli Ulivi",
+    "number": "3",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7050047,
+    "longitude": 9.3535957
+  },
+  {
+    "street": "Via degli Ulivi",
+    "number": "4",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7048455,
+    "longitude": 9.3542708
+  },
+  {
+    "street": "Via degli Ulivi",
+    "number": "4b",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7046853,
+    "longitude": 9.3545029
+  },
+  {
+    "street": "Via degli Ulivi",
+    "number": "6",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7046359,
+    "longitude": 9.3547266
+  },
+  {
+    "street": "Via degli Ulivi",
+    "number": "12",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7045232,
+    "longitude": 9.3549248
+  },
+  {
+    "street": "Via degli Ulivi",
+    "number": "14",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7042306,
+    "longitude": 9.3550295
+  },
+  {
+    "street": "Via degli Ulivi",
+    "number": "10",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7038644,
+    "longitude": 9.3550916
+  },
+  {
+    "street": "Via degli Ulivi",
+    "number": "16",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7054505,
+    "longitude": 9.3540018
+  },
+  {
+    "street": "Via degli Ulivi",
+    "number": "17",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7066142,
+    "longitude": 9.3545084
+  },
+  {
+    "street": "Via Butto",
+    "number": "1",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7006653,
+    "longitude": 9.3581018
+  },
+  {
+    "street": "Via Butto",
+    "number": "9",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7006157,
+    "longitude": 9.3578579
+  },
+  {
+    "street": "Via Butto",
+    "number": "12",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.6993144,
+    "longitude": 9.3579657
+  },
+  {
+    "street": "Via Cascina Pianina",
+    "number": "1",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.6943486,
+    "longitude": 9.3552829
+  },
+  {
+    "street": "Cascina Brughiera",
+    "number": "5",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.691904,
+    "longitude": 9.3625039
+  },
+  {
+    "street": "Cascina Brughiera",
+    "number": "4",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.6917405,
+    "longitude": 9.3625365
+  },
+  {
+    "street": "Cascina Brughiera",
+    "number": "3",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.6914734,
+    "longitude": 9.362624
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "27",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7008785,
+    "longitude": 9.3491136
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "25",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7009575,
+    "longitude": 9.3490339
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "23",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7010048,
+    "longitude": 9.3489898
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "36",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7007295,
+    "longitude": 9.3487834
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "25",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.6891451,
+    "longitude": 9.3532569
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "17",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.6892329,
+    "longitude": 9.3532814
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "58",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.6894968,
+    "longitude": 9.3536236
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "19",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.6885829,
+    "longitude": 9.3532064
+  },
+  {
+    "street": "Via Tenente Colonnello Ugo Merlini",
+    "number": "3",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7080911,
+    "longitude": 9.3341455
+  },
+  {
+    "street": "Strada dei Vagoncini",
+    "number": "1",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7154717,
+    "longitude": 9.3455751
+  },
+  {
+    "street": "Corso Europa",
+    "number": "8",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7080197,
+    "longitude": 9.3270637
+  },
+  {
+    "street": "Piazza della Libertà",
+    "number": "12",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7089012,
+    "longitude": 9.3350355
+  },
+  {
+    "street": "Via Tenente Colonnello Ugo Merlini",
+    "number": "35",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7069997,
+    "longitude": 9.3309031
+  },
+  {
+    "street": "Via Amerigo Vespucci",
+    "number": "11",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7071624,
+    "longitude": 9.3292427
+  },
+  {
+    "street": "Via Amerigo Vespucci",
+    "number": "13",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.707205,
+    "longitude": 9.3292142
+  },
+  {
+    "street": "Via Amerigo Vespucci",
+    "number": "17",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7072983,
+    "longitude": 9.3291755
+  },
+  {
+    "street": "Via Amerigo Vespucci",
+    "number": "19",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7073519,
+    "longitude": 9.3291488
+  },
+  {
+    "street": "Via Amerigo Vespucci",
+    "number": "21",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.707396,
+    "longitude": 9.3291235
+  },
+  {
+    "street": "Via Amerigo Vespucci",
+    "number": "23",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7074265,
+    "longitude": 9.3291141
+  },
+  {
+    "street": "Via Amerigo Vespucci",
+    "number": "25",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7074596,
+    "longitude": 9.3290967
+  },
+  {
+    "street": "Via Tenente Colonnello Ugo Merlini",
+    "number": "31",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7070587,
+    "longitude": 9.3310035
+  },
+  {
+    "street": "Via Amerigo Vespucci",
+    "number": "5",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7070045,
+    "longitude": 9.3293124
+  },
+  {
+    "street": "Via Amerigo Vespucci",
+    "number": "9",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7071142,
+    "longitude": 9.3292585
+  },
+  {
+    "street": "Via Amerigo Vespucci",
+    "number": "7",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7070674,
+    "longitude": 9.329282
+  },
+  {
+    "street": "Via Tenente Colonnello Ugo Merlini",
+    "number": "33",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7070162,
+    "longitude": 9.330969
+  },
+  {
+    "street": "Via Malachisio",
+    "number": "1",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7051948,
+    "longitude": 9.3276341
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "66",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7072286,
+    "longitude": 9.3401935
+  },
+  {
+    "street": "Via Tenente Colonnello Ugo Merlini",
+    "number": "15",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7076941,
+    "longitude": 9.3329516
+  },
+  {
+    "street": "Via delle Suffragette",
+    "number": "64",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7072513,
+    "longitude": 9.340157
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "68",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7072095,
+    "longitude": 9.3402286
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "34",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.6884028,
+    "longitude": 9.3533777
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "43",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.6900459,
+    "longitude": 9.3535578
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "18",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7091668,
+    "longitude": 9.3373653
+  },
+  {
+    "street": "Piazza della Libertà",
+    "number": "19",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7089792,
+    "longitude": 9.3354144
+  },
+  {
+    "street": "Via Cascina Pianina",
+    "number": "5",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.6956128,
+    "longitude": 9.3568845
+  },
+  {
+    "street": "Via San Fermo",
+    "number": "22",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7019704,
+    "longitude": 9.3577023
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "83bis",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7083558,
+    "longitude": 9.3400177
+  },
+  {
+    "street": "Via San Bartolomeo",
+    "number": "21/A-B",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.6970874,
+    "longitude": 9.331327
+  },
+  {
+    "street": "Via San Bartolomeo",
+    "number": "21b",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.6969068,
+    "longitude": 9.3316467
+  },
+  {
+    "street": "Via Camillo Benso conte di Cavour",
+    "number": "17",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7098286,
+    "longitude": 9.3349252
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "70",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7071965,
+    "longitude": 9.3402544
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "72",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.707189,
+    "longitude": 9.3402815
+  },
+  {
+    "street": "Via alle Valli",
+    "number": "45",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7208132,
+    "longitude": 9.3477961
+  },
+  {
+    "street": "Via Garibaldi",
+    "number": "109",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7071216,
+    "longitude": 9.3422642
+  },
+  {
+    "street": "Via San Fermo",
+    "number": "30d",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7020175,
+    "longitude": 9.3575986
+  },
+  {
+    "street": "Via Alpi",
+    "number": "1",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7014587,
+    "longitude": 9.3593817
+  },
+  {
+    "street": "Corso Europa",
+    "number": "6",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7080528,
+    "longitude": 9.3264377
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "1",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7052444,
+    "longitude": 9.3380847
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "22",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.6881921,
+    "longitude": 9.3530928
+  },
+  {
+    "street": "Via Giuseppe Cuzzi",
+    "number": "2",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7051697,
+    "longitude": 9.3390604
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "60",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.6895527,
+    "longitude": 9.3536342
+  },
+  {
+    "street": "Corso Europa",
+    "number": "22",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7055127,
+    "longitude": 9.3404717
+  },
+  {
+    "street": "Via dei Campi",
+    "number": "2",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.6991529,
+    "longitude": 9.3324968
+  },
+  {
+    "street": "Via Madonnina",
+    "number": "8",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.6902292,
+    "longitude": 9.3565553
+  },
+  {
+    "street": "Via Papa Giovanni ventitreesimo",
+    "number": "3",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7089518,
+    "longitude": 9.3334067
+  },
+  {
+    "street": "Via della Conciliazione",
+    "number": "1",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7085425,
+    "longitude": 9.3357824
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "3",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7037857,
+    "longitude": 9.3280011
+  },
+  {
+    "street": "Via San Giovanni Bosco",
+    "number": "8",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7065396,
+    "longitude": 9.3247302
+  },
+  {
+    "street": "Via Guglielmo Oberdan",
+    "number": "8",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.706161,
+    "longitude": 9.3274711
+  },
+  {
+    "street": "Cascina Brughiera",
+    "number": "1",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.6915488,
+    "longitude": 9.3624545
+  },
+  {
+    "street": "Via Madonnina",
+    "number": "2",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.6894929,
+    "longitude": 9.3552832
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "23",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.688925,
+    "longitude": 9.3531511
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "13",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.6883685,
+    "longitude": 9.3528773
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "55",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.6912225,
+    "longitude": 9.3533885
+  },
+  {
+    "street": "Via Madonnina",
+    "number": "1",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.6906192,
+    "longitude": 9.3546824
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "29,31,33,35",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.6894611,
+    "longitude": 9.3533085
+  },
+  {
+    "street": "Via Adda",
+    "number": "37",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.6882183,
+    "longitude": 9.3472043
+  },
+  {
+    "street": "Via Milano",
+    "number": "3",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.6823236,
+    "longitude": 9.3552346
+  },
+  {
+    "street": "Via San Carlo Borromeo",
+    "number": "27",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.6841053,
+    "longitude": 9.3595947
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "3",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7026087,
+    "longitude": 9.357998
+  },
+  {
+    "street": "Via Lavandaia",
+    "number": "3",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7099584,
+    "longitude": 9.3284875
+  },
+  {
+    "street": "Via Maria Gaetana Agnesi",
+    "number": "10",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.6998606,
+    "longitude": 9.346316
+  },
+  {
+    "street": "Via Tenente Colonnello Ugo Merlini",
+    "number": "26",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7081101,
+    "longitude": 9.3319693
+  },
+  {
+    "street": "Via Guglielmo Beretta",
+    "number": "3",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7066617,
+    "longitude": 9.3339706
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "1",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7093126,
+    "longitude": 9.3386051
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "3",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7093074,
+    "longitude": 9.3360949
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "42",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.707843,
+    "longitude": 9.3390718
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "44",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7077981,
+    "longitude": 9.3393313
+  },
+  {
+    "street": "Via della Conciliazione",
+    "number": "8",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7087005,
+    "longitude": 9.3362782
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "127",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7057929,
+    "longitude": 9.3432641
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "105c",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7070403,
+    "longitude": 9.3410626
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "119",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7062773,
+    "longitude": 9.3431747
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "123",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7059903,
+    "longitude": 9.3427615
+  },
+  {
+    "street": "Via degli Alpini",
+    "number": "2",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7080742,
+    "longitude": 9.3408419
+  },
+  {
+    "street": "Via degli Alpini",
+    "number": "7",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.7081827,
+    "longitude": 9.3413476
+  },
+  {
+    "street": "Via Tenente Colonnello Ugo Merlini",
+    "number": "2",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.708557,
+    "longitude": 9.3343146
+  },
+  {
+    "street": "Via John Fitzgerald Kennedy",
+    "number": "14",
+    "city": {
+      "name": "Missaglia",
+      "istat": "097049"
+    },
+    "latitude": 45.6934165,
+    "longitude": 9.3653243
+  }
+]

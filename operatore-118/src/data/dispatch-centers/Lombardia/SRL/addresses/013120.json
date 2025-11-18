@@ -1,0 +1,12 @@
+[
+  {
+    "street": "Via Reti",
+    "number": "12",
+    "city": {
+      "name": "Laino",
+      "istat": "013120"
+    },
+    "latitude": 45.9834184,
+    "longitude": 9.0793652
+  }
+]

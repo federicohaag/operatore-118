@@ -1,0 +1,402 @@
+[
+  {
+    "street": "Via Fratelli Kennedy",
+    "number": "31",
+    "city": {
+      "name": "Venegono Superiore",
+      "istat": "012137"
+    },
+    "latitude": 45.7546537,
+    "longitude": 8.9207418
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "1",
+    "city": {
+      "name": "Venegono Superiore",
+      "istat": "012137"
+    },
+    "latitude": 45.743686,
+    "longitude": 8.8802992
+  },
+  {
+    "street": "Piazza San Giorgio",
+    "number": "1",
+    "city": {
+      "name": "Venegono Superiore",
+      "istat": "012137"
+    },
+    "latitude": 45.7548193,
+    "longitude": 8.9000011
+  },
+  {
+    "street": "Via delle Missioni",
+    "number": "12",
+    "city": {
+      "name": "Venegono Superiore",
+      "istat": "012137"
+    },
+    "latitude": 45.7530245,
+    "longitude": 8.9055799
+  },
+  {
+    "street": "Via Francesco Baracca",
+    "number": "18",
+    "city": {
+      "name": "Venegono Superiore",
+      "istat": "012137"
+    },
+    "latitude": 45.7575836,
+    "longitude": 8.8912355
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "40",
+    "city": {
+      "name": "Venegono Superiore",
+      "istat": "012137"
+    },
+    "latitude": 45.7609177,
+    "longitude": 8.8955559
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "49",
+    "city": {
+      "name": "Venegono Superiore",
+      "istat": "012137"
+    },
+    "latitude": 45.7609589,
+    "longitude": 8.8954808
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "34",
+    "city": {
+      "name": "Venegono Superiore",
+      "istat": "012137"
+    },
+    "latitude": 45.7606595,
+    "longitude": 8.8954003
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "32",
+    "city": {
+      "name": "Venegono Superiore",
+      "istat": "012137"
+    },
+    "latitude": 45.7605322,
+    "longitude": 8.8953171
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "45",
+    "city": {
+      "name": "Venegono Superiore",
+      "istat": "012137"
+    },
+    "latitude": 45.7603058,
+    "longitude": 8.8950757
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "30",
+    "city": {
+      "name": "Venegono Superiore",
+      "istat": "012137"
+    },
+    "latitude": 45.7601449,
+    "longitude": 8.8951589
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "43",
+    "city": {
+      "name": "Venegono Superiore",
+      "istat": "012137"
+    },
+    "latitude": 45.7601954,
+    "longitude": 8.8950516
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "28",
+    "city": {
+      "name": "Venegono Superiore",
+      "istat": "012137"
+    },
+    "latitude": 45.7597856,
+    "longitude": 8.895116
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "41",
+    "city": {
+      "name": "Venegono Superiore",
+      "istat": "012137"
+    },
+    "latitude": 45.7599054,
+    "longitude": 8.895006
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "37",
+    "city": {
+      "name": "Venegono Superiore",
+      "istat": "012137"
+    },
+    "latitude": 45.759707,
+    "longitude": 8.8950114
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "26",
+    "city": {
+      "name": "Venegono Superiore",
+      "istat": "012137"
+    },
+    "latitude": 45.7595816,
+    "longitude": 8.8950811
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "33",
+    "city": {
+      "name": "Venegono Superiore",
+      "istat": "012137"
+    },
+    "latitude": 45.7593758,
+    "longitude": 8.8949765
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "24",
+    "city": {
+      "name": "Venegono Superiore",
+      "istat": "012137"
+    },
+    "latitude": 45.7591175,
+    "longitude": 8.894947
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "22",
+    "city": {
+      "name": "Venegono Superiore",
+      "istat": "012137"
+    },
+    "latitude": 45.7586216,
+    "longitude": 8.8947083
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "25",
+    "city": {
+      "name": "Venegono Superiore",
+      "istat": "012137"
+    },
+    "latitude": 45.7585487,
+    "longitude": 8.8945634
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "23",
+    "city": {
+      "name": "Venegono Superiore",
+      "istat": "012137"
+    },
+    "latitude": 45.7581613,
+    "longitude": 8.8943676
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "18",
+    "city": {
+      "name": "Venegono Superiore",
+      "istat": "012137"
+    },
+    "latitude": 45.7580752,
+    "longitude": 8.8944347
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "14",
+    "city": {
+      "name": "Venegono Superiore",
+      "istat": "012137"
+    },
+    "latitude": 45.7576148,
+    "longitude": 8.8946815
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "17",
+    "city": {
+      "name": "Venegono Superiore",
+      "istat": "012137"
+    },
+    "latitude": 45.7576017,
+    "longitude": 8.8942925
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "7",
+    "city": {
+      "name": "Venegono Superiore",
+      "istat": "012137"
+    },
+    "latitude": 45.7569325,
+    "longitude": 8.8945973
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "5",
+    "city": {
+      "name": "Venegono Superiore",
+      "istat": "012137"
+    },
+    "latitude": 45.7569007,
+    "longitude": 8.8946777
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "3",
+    "city": {
+      "name": "Venegono Superiore",
+      "istat": "012137"
+    },
+    "latitude": 45.7568802,
+    "longitude": 8.8947755
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "2",
+    "city": {
+      "name": "Venegono Superiore",
+      "istat": "012137"
+    },
+    "latitude": 45.7566547,
+    "longitude": 8.8951939
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "50",
+    "city": {
+      "name": "Venegono Superiore",
+      "istat": "012137"
+    },
+    "latitude": 45.752949,
+    "longitude": 8.8922744
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "6",
+    "city": {
+      "name": "Venegono Superiore",
+      "istat": "012137"
+    },
+    "latitude": 45.7576683,
+    "longitude": 8.8918702
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "2",
+    "city": {
+      "name": "Venegono Superiore",
+      "istat": "012137"
+    },
+    "latitude": 45.7575541,
+    "longitude": 8.8919038
+  },
+  {
+    "street": "Piazza San Giorgio",
+    "number": "10",
+    "city": {
+      "name": "Venegono Superiore",
+      "istat": "012137"
+    },
+    "latitude": 45.755359,
+    "longitude": 8.8991953
+  },
+  {
+    "street": "Via San Pietro",
+    "number": "11",
+    "city": {
+      "name": "Venegono Superiore",
+      "istat": "012137"
+    },
+    "latitude": 45.7459768,
+    "longitude": 8.8831242
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "36",
+    "city": {
+      "name": "Venegono Superiore",
+      "istat": "012137"
+    },
+    "latitude": 45.7608084,
+    "longitude": 8.8954939
+  },
+  {
+    "street": "Via Virgilio",
+    "number": "7a",
+    "city": {
+      "name": "Venegono Superiore",
+      "istat": "012137"
+    },
+    "latitude": 45.7603259,
+    "longitude": 8.8926805
+  },
+  {
+    "street": "Via Virgilio",
+    "number": "7b",
+    "city": {
+      "name": "Venegono Superiore",
+      "istat": "012137"
+    },
+    "latitude": 45.7601513,
+    "longitude": 8.8926262
+  },
+  {
+    "street": "Piazza San Giorgio",
+    "number": "8",
+    "city": {
+      "name": "Venegono Superiore",
+      "istat": "012137"
+    },
+    "latitude": 45.755139,
+    "longitude": 8.8990713
+  },
+  {
+    "street": "Via ingegner Paolo Foresio",
+    "number": "1",
+    "city": {
+      "name": "Venegono Superiore",
+      "istat": "012137"
+    },
+    "latitude": 45.7434969,
+    "longitude": 8.8827626
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "17",
+    "city": {
+      "name": "Venegono Superiore",
+      "istat": "012137"
+    },
+    "latitude": 45.7461669,
+    "longitude": 8.8909823
+  },
+  {
+    "street": "Via Fratelli Kennedy",
+    "number": "1",
+    "city": {
+      "name": "Venegono Superiore",
+      "istat": "012137"
+    },
+    "latitude": 45.7605643,
+    "longitude": 8.9111559
+  }
+]

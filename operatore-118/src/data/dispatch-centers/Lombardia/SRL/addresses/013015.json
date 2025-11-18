@@ -1,0 +1,12 @@
+[
+  {
+    "street": "Via Colombo",
+    "number": "62",
+    "city": {
+      "name": "Barni",
+      "istat": "013015"
+    },
+    "latitude": 45.902577,
+    "longitude": 9.265321
+  }
+]

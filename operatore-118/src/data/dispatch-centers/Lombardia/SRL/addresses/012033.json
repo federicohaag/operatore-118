@@ -1,0 +1,132 @@
+[
+  {
+    "street": "Via San Martino",
+    "number": "1",
+    "city": {
+      "name": "Carnago",
+      "istat": "012033"
+    },
+    "latitude": 45.7221354,
+    "longitude": 8.8355422
+  },
+  {
+    "street": "Via San Martino",
+    "number": "9",
+    "city": {
+      "name": "Carnago",
+      "istat": "012033"
+    },
+    "latitude": 45.7219734,
+    "longitude": 8.8351842
+  },
+  {
+    "street": "Piazza Antonio Gramsci",
+    "number": "1",
+    "city": {
+      "name": "Carnago",
+      "istat": "012033"
+    },
+    "latitude": 45.7209424,
+    "longitude": 8.8371181
+  },
+  {
+    "street": "Via San Bartolomeo",
+    "number": "19",
+    "city": {
+      "name": "Carnago",
+      "istat": "012033"
+    },
+    "latitude": 45.711869,
+    "longitude": 8.8441797
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "33",
+    "city": {
+      "name": "Carnago",
+      "istat": "012033"
+    },
+    "latitude": 45.7198924,
+    "longitude": 8.8262884
+  },
+  {
+    "street": "Via Bregana",
+    "number": "2",
+    "city": {
+      "name": "Carnago",
+      "istat": "012033"
+    },
+    "latitude": 45.7178257,
+    "longitude": 8.8264374
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "44",
+    "city": {
+      "name": "Carnago",
+      "istat": "012033"
+    },
+    "latitude": 45.7297442,
+    "longitude": 8.8427629
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "40",
+    "city": {
+      "name": "Carnago",
+      "istat": "012033"
+    },
+    "latitude": 45.720971,
+    "longitude": 8.834503
+  },
+  {
+    "street": "Via Libertà",
+    "number": "5",
+    "city": {
+      "name": "Carnago",
+      "istat": "012033"
+    },
+    "latitude": 45.7230038,
+    "longitude": 8.8354119
+  },
+  {
+    "street": "Via Milanello",
+    "number": "25",
+    "city": {
+      "name": "Carnago",
+      "istat": "012033"
+    },
+    "latitude": 45.70615,
+    "longitude": 8.8326095
+  },
+  {
+    "street": "Via per Carnago",
+    "number": "16",
+    "city": {
+      "name": "Carnago",
+      "istat": "012033"
+    },
+    "latitude": 45.71955,
+    "longitude": 8.8241357
+  },
+  {
+    "street": "Via Roma",
+    "number": "9",
+    "city": {
+      "name": "Carnago",
+      "istat": "012033"
+    },
+    "latitude": 45.722572,
+    "longitude": 8.8379363
+  },
+  {
+    "street": "Via Lazzaretto",
+    "number": "31",
+    "city": {
+      "name": "Carnago",
+      "istat": "012033"
+    },
+    "latitude": 45.728466,
+    "longitude": 8.8211216
+  }
+]

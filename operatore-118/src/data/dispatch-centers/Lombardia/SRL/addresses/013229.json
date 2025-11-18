@@ -1,0 +1,482 @@
+[
+  {
+    "street": "Via Roma",
+    "number": "6",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.8719991,
+    "longitude": 9.2927994
+  },
+  {
+    "street": "Piazza Armando Diaz",
+    "number": "7",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.8775013,
+    "longitude": 9.2991655
+  },
+  {
+    "street": "Via Roma",
+    "number": "55",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.8689824,
+    "longitude": 9.2867134
+  },
+  {
+    "street": "Piazza Chiesa",
+    "number": "1",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.8826766,
+    "longitude": 9.302027
+  },
+  {
+    "street": "Via Milano",
+    "number": "11",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.8829095,
+    "longitude": 9.3015523
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "21",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.8833602,
+    "longitude": 9.3008668
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "12",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.8788356,
+    "longitude": 9.2988242
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "16",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.8787913,
+    "longitude": 9.2988159
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "36",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.8781424,
+    "longitude": 9.2986283
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "44",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.8777281,
+    "longitude": 9.2985517
+  },
+  {
+    "street": "Via Maiago",
+    "number": "9",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.8777661,
+    "longitude": 9.3003533
+  },
+  {
+    "street": "Via Maiago",
+    "number": "1",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.8776549,
+    "longitude": 9.2993893
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "31",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.8747124,
+    "longitude": 9.3005509
+  },
+  {
+    "street": "Strada provinciale 46 della Valbrona",
+    "number": "26",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.8786609,
+    "longitude": 9.2986947
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "67",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.8770894,
+    "longitude": 9.2981948
+  },
+  {
+    "street": "Via Roma",
+    "number": "88",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.8649594,
+    "longitude": 9.2825416
+  },
+  {
+    "street": "Via Roma",
+    "number": "73",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.8670253,
+    "longitude": 9.2843679
+  },
+  {
+    "street": "Via Roncareggi",
+    "number": "28",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.8826617,
+    "longitude": 9.2987651
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "6",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.883436,
+    "longitude": 9.2994918
+  },
+  {
+    "street": "Via Roma",
+    "number": "50",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.8701687,
+    "longitude": 9.2865706
+  },
+  {
+    "street": "Via Carlo Porta",
+    "number": "7",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.8703414,
+    "longitude": 9.2923804
+  },
+  {
+    "street": "Via Roma",
+    "number": "60",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.8699223,
+    "longitude": 9.2861672
+  },
+  {
+    "street": "Via Carlo Porta",
+    "number": "3",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.8699409,
+    "longitude": 9.2919803
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "7",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.8763005,
+    "longitude": 9.2975224
+  },
+  {
+    "street": "Via Roma",
+    "number": "31",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.8702335,
+    "longitude": 9.2877095
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "71",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.8762132,
+    "longitude": 9.2975371
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "21",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.8779047,
+    "longitude": 9.2977036
+  },
+  {
+    "street": "Via Madonna del Ceppo",
+    "number": "14",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.8687496,
+    "longitude": 9.2890325
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "1",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.8746413,
+    "longitude": 9.298752
+  },
+  {
+    "street": "Via Voltone",
+    "number": "1",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.877401,
+    "longitude": 9.2982606
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "10",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.8790295,
+    "longitude": 9.2986721
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "8",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.8792247,
+    "longitude": 9.2987149
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "2",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.8784081,
+    "longitude": 9.298493
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "39",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.8745683,
+    "longitude": 9.3015886
+  },
+  {
+    "street": "Via Milano",
+    "number": "30",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.8982781,
+    "longitude": 9.3073317
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "5",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.8745567,
+    "longitude": 9.2974822
+  },
+  {
+    "street": "Via Roma",
+    "number": "77",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.8642782,
+    "longitude": 9.2830421
+  },
+  {
+    "street": "Via Roma",
+    "number": "90",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.8645187,
+    "longitude": 9.2823608
+  },
+  {
+    "street": "Via Roma",
+    "number": "84/86",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.8652828,
+    "longitude": 9.2822124
+  },
+  {
+    "street": "Via Roma",
+    "number": "82",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.8658074,
+    "longitude": 9.282148
+  },
+  {
+    "street": "Via Roma",
+    "number": "78",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.8672107,
+    "longitude": 9.2833037
+  },
+  {
+    "street": "Via Roma",
+    "number": "74",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.8679422,
+    "longitude": 9.2844988
+  },
+  {
+    "street": "Via Roma",
+    "number": "70",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.86821,
+    "longitude": 9.2849923
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "3",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.8737469,
+    "longitude": 9.2982615
+  },
+  {
+    "street": "Via Fornaci",
+    "number": "7",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.8723159,
+    "longitude": 9.2997539
+  },
+  {
+    "street": "Via Roma",
+    "number": "39",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.8699169,
+    "longitude": 9.2866897
+  },
+  {
+    "street": "Via pozzo di Rossana",
+    "number": "10",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.873307,
+    "longitude": 9.2982757
+  },
+  {
+    "street": "Via Don Legnani",
+    "number": "3",
+    "city": {
+      "name": "Valbrona",
+      "istat": "013229"
+    },
+    "latitude": 45.878656,
+    "longitude": 9.3006903
+  }
+]

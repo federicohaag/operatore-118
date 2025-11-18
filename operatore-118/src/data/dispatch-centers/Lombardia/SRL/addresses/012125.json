@@ -1,0 +1,112 @@
+[
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "23",
+    "city": {
+      "name": "Taino",
+      "istat": "012125"
+    },
+    "latitude": 45.7632645,
+    "longitude": 8.6162204
+  },
+  {
+    "street": "Via Fabio Filzi",
+    "number": "2",
+    "city": {
+      "name": "Taino",
+      "istat": "012125"
+    },
+    "latitude": 45.76301,
+    "longitude": 8.6165836
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "14",
+    "city": {
+      "name": "Taino",
+      "istat": "012125"
+    },
+    "latitude": 45.7632605,
+    "longitude": 8.6157121
+  },
+  {
+    "street": "Via Bologna",
+    "number": "70",
+    "city": {
+      "name": "Taino",
+      "istat": "012125"
+    },
+    "latitude": 45.7556274,
+    "longitude": 8.6193811
+  },
+  {
+    "street": "Via Bologna",
+    "number": "66",
+    "city": {
+      "name": "Taino",
+      "istat": "012125"
+    },
+    "latitude": 45.7559007,
+    "longitude": 8.6198478
+  },
+  {
+    "street": "Piazza Santo Stefano",
+    "number": "20",
+    "city": {
+      "name": "Taino",
+      "istat": "012125"
+    },
+    "latitude": 45.7639779,
+    "longitude": 8.6139738
+  },
+  {
+    "street": "Via Milano",
+    "number": "57",
+    "city": {
+      "name": "Taino",
+      "istat": "012125"
+    },
+    "latitude": 45.7611647,
+    "longitude": 8.6240551
+  },
+  {
+    "street": "Via Prati Bassi",
+    "number": "62",
+    "city": {
+      "name": "Taino",
+      "istat": "012125"
+    },
+    "latitude": 45.7648874,
+    "longitude": 8.6060514
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "8",
+    "city": {
+      "name": "Taino",
+      "istat": "012125"
+    },
+    "latitude": 45.7645617,
+    "longitude": 8.6166563
+  },
+  {
+    "street": "Piazza Pietro e Gaspare Pajetta",
+    "number": "5",
+    "city": {
+      "name": "Taino",
+      "istat": "012125"
+    },
+    "latitude": 45.7648706,
+    "longitude": 8.6160691
+  },
+  {
+    "street": "Piazza Pietro e Gaspare Pajetta",
+    "number": "3",
+    "city": {
+      "name": "Taino",
+      "istat": "012125"
+    },
+    "latitude": 45.7651411,
+    "longitude": 8.6157435
+  }
+]

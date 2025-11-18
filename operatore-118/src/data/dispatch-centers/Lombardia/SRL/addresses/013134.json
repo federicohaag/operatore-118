@@ -1,0 +1,82 @@
+[
+  {
+    "street": "Via Armando Diaz",
+    "number": "12",
+    "city": {
+      "name": "Longone al Segrino",
+      "istat": "013134"
+    },
+    "latitude": 45.8182077,
+    "longitude": 9.2507157
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "39",
+    "city": {
+      "name": "Longone al Segrino",
+      "istat": "013134"
+    },
+    "latitude": 45.8165664,
+    "longitude": 9.2501645
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "20",
+    "city": {
+      "name": "Longone al Segrino",
+      "istat": "013134"
+    },
+    "latitude": 45.817517,
+    "longitude": 9.2500564
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "1",
+    "city": {
+      "name": "Longone al Segrino",
+      "istat": "013134"
+    },
+    "latitude": 45.8191145,
+    "longitude": 9.2519323
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "3/5",
+    "city": {
+      "name": "Longone al Segrino",
+      "istat": "013134"
+    },
+    "latitude": 45.8180994,
+    "longitude": 9.2513068
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "8",
+    "city": {
+      "name": "Longone al Segrino",
+      "istat": "013134"
+    },
+    "latitude": 45.8121036,
+    "longitude": 9.2556789
+  },
+  {
+    "street": "Via Valassina",
+    "number": "59",
+    "city": {
+      "name": "Longone al Segrino",
+      "istat": "013134"
+    },
+    "latitude": 45.8131477,
+    "longitude": 9.2457971
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "26",
+    "city": {
+      "name": "Longone al Segrino",
+      "istat": "013134"
+    },
+    "latitude": 45.8164421,
+    "longitude": 9.2489648
+  }
+]

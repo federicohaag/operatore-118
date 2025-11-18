@@ -1,0 +1,182 @@
+[
+  {
+    "street": "Via Caronno Varesino",
+    "number": "21",
+    "city": {
+      "name": "Morazzone",
+      "istat": "012105"
+    },
+    "latitude": 45.7583222,
+    "longitude": 8.8353692
+  },
+  {
+    "street": "Via Goffredo Mameli",
+    "number": "16",
+    "city": {
+      "name": "Morazzone",
+      "istat": "012105"
+    },
+    "latitude": 45.7680851,
+    "longitude": 8.8295393
+  },
+  {
+    "street": "Via Ventisei Agosto",
+    "number": "4",
+    "city": {
+      "name": "Morazzone",
+      "istat": "012105"
+    },
+    "latitude": 45.7654267,
+    "longitude": 8.8322165
+  },
+  {
+    "street": "Via Ventisei Agosto",
+    "number": "6",
+    "city": {
+      "name": "Morazzone",
+      "istat": "012105"
+    },
+    "latitude": 45.7653387,
+    "longitude": 8.8325923
+  },
+  {
+    "street": "Via Caronno Varesino",
+    "number": "84",
+    "city": {
+      "name": "Morazzone",
+      "istat": "012105"
+    },
+    "latitude": 45.7569086,
+    "longitude": 8.8356245
+  },
+  {
+    "street": "Via Goffredo Mameli",
+    "number": "23",
+    "city": {
+      "name": "Morazzone",
+      "istat": "012105"
+    },
+    "latitude": 45.7662391,
+    "longitude": 8.8304561
+  },
+  {
+    "street": "Via Goffredo Mameli",
+    "number": "25",
+    "city": {
+      "name": "Morazzone",
+      "istat": "012105"
+    },
+    "latitude": 45.7663036,
+    "longitude": 8.8303783
+  },
+  {
+    "street": "Via Caronno Varesino",
+    "number": "61",
+    "city": {
+      "name": "Morazzone",
+      "istat": "012105"
+    },
+    "latitude": 45.7585057,
+    "longitude": 8.8356927
+  },
+  {
+    "street": "Via Gallarate",
+    "number": "7",
+    "city": {
+      "name": "Morazzone",
+      "istat": "012105"
+    },
+    "latitude": 45.7651991,
+    "longitude": 8.8128322
+  },
+  {
+    "street": "Via dell'Industria",
+    "number": "2",
+    "city": {
+      "name": "Morazzone",
+      "istat": "012105"
+    },
+    "latitude": 45.7668271,
+    "longitude": 8.8134889
+  },
+  {
+    "street": "Via dell'Industria",
+    "number": "4",
+    "city": {
+      "name": "Morazzone",
+      "istat": "012105"
+    },
+    "latitude": 45.766306,
+    "longitude": 8.8145426
+  },
+  {
+    "street": "Via Pagliate",
+    "number": "40",
+    "city": {
+      "name": "Morazzone",
+      "istat": "012105"
+    },
+    "latitude": 45.7605698,
+    "longitude": 8.822346
+  },
+  {
+    "street": "Via Castronno",
+    "number": "66",
+    "city": {
+      "name": "Morazzone",
+      "istat": "012105"
+    },
+    "latitude": 45.7582716,
+    "longitude": 8.8251381
+  },
+  {
+    "street": "Via Goffredo Mameli",
+    "number": "43",
+    "city": {
+      "name": "Morazzone",
+      "istat": "012105"
+    },
+    "latitude": 45.76721,
+    "longitude": 8.8289918
+  },
+  {
+    "street": "Via Europa",
+    "number": "54",
+    "city": {
+      "name": "Morazzone",
+      "istat": "012105"
+    },
+    "latitude": 45.7667503,
+    "longitude": 8.8373418
+  },
+  {
+    "street": "Piazza Sant'Ambrogio",
+    "number": "2",
+    "city": {
+      "name": "Morazzone",
+      "istat": "012105"
+    },
+    "latitude": 45.7646816,
+    "longitude": 8.8314256
+  },
+  {
+    "street": "Via Cuffia",
+    "number": "17",
+    "city": {
+      "name": "Morazzone",
+      "istat": "012105"
+    },
+    "latitude": 45.7653593,
+    "longitude": 8.824311
+  },
+  {
+    "street": "Via Pagliate",
+    "number": "78",
+    "city": {
+      "name": "Morazzone",
+      "istat": "012105"
+    },
+    "latitude": 45.7584156,
+    "longitude": 8.8185827
+  }
+]

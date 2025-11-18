@@ -1,0 +1,42 @@
+[
+  {
+    "street": "Via Sua Santità Giovanni Ventitreesimo",
+    "number": "2",
+    "city": {
+      "name": "Sangiano",
+      "istat": "012141"
+    },
+    "latitude": 45.8760479,
+    "longitude": 8.6315782
+  },
+  {
+    "street": "Via Giuseppe Besozzi",
+    "number": "21a",
+    "city": {
+      "name": "Sangiano",
+      "istat": "012141"
+    },
+    "latitude": 45.8752627,
+    "longitude": 8.6327468
+  },
+  {
+    "street": "Viale della Libertà",
+    "number": "10",
+    "city": {
+      "name": "Sangiano",
+      "istat": "012141"
+    },
+    "latitude": 45.8744947,
+    "longitude": 8.6308757
+  },
+  {
+    "street": "Viale della Libertà",
+    "number": "2b",
+    "city": {
+      "name": "Sangiano",
+      "istat": "012141"
+    },
+    "latitude": 45.875226,
+    "longitude": 8.6315136
+  }
+]

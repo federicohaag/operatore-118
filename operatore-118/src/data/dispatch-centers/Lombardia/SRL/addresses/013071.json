@@ -1,0 +1,82 @@
+[
+  {
+    "street": "Via San Rocco",
+    "number": "18",
+    "city": {
+      "name": "Claino con Osteno",
+      "istat": "013071"
+    },
+    "latitude": 46.0079907,
+    "longitude": 9.0776442
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "16",
+    "city": {
+      "name": "Claino con Osteno",
+      "istat": "013071"
+    },
+    "latitude": 46.0079621,
+    "longitude": 9.0778622
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "7",
+    "city": {
+      "name": "Claino con Osteno",
+      "istat": "013071"
+    },
+    "latitude": 46.0076589,
+    "longitude": 9.0791302
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "10",
+    "city": {
+      "name": "Claino con Osteno",
+      "istat": "013071"
+    },
+    "latitude": 46.007927,
+    "longitude": 9.0786625
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "3",
+    "city": {
+      "name": "Claino con Osteno",
+      "istat": "013071"
+    },
+    "latitude": 46.0075657,
+    "longitude": 9.0793013
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "9",
+    "city": {
+      "name": "Claino con Osteno",
+      "istat": "013071"
+    },
+    "latitude": 46.0077235,
+    "longitude": 9.0789196
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "5",
+    "city": {
+      "name": "Claino con Osteno",
+      "istat": "013071"
+    },
+    "latitude": 46.007626,
+    "longitude": 9.0792382
+  },
+  {
+    "street": "Via Alessandro Giobbi",
+    "number": "10",
+    "city": {
+      "name": "Claino con Osteno",
+      "istat": "013071"
+    },
+    "latitude": 46.0057726,
+    "longitude": 9.0830772
+  }
+]

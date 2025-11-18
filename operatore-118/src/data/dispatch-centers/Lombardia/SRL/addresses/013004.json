@@ -1,0 +1,202 @@
+[
+  {
+    "street": "Via Benedetto Menni",
+    "number": "1",
+    "city": {
+      "name": "Albese con Cassano",
+      "istat": "013004"
+    },
+    "latitude": 45.7983586,
+    "longitude": 9.1595113
+  },
+  {
+    "street": "Via Carolina Pulici",
+    "number": "31",
+    "city": {
+      "name": "Albese con Cassano",
+      "istat": "013004"
+    },
+    "latitude": 45.7976061,
+    "longitude": 9.1683368
+  },
+  {
+    "street": "Piazza Motta",
+    "number": "9",
+    "city": {
+      "name": "Albese con Cassano",
+      "istat": "013004"
+    },
+    "latitude": 45.7968479,
+    "longitude": 9.1654572
+  },
+  {
+    "street": "Via Roma",
+    "number": "130",
+    "city": {
+      "name": "Albese con Cassano",
+      "istat": "013004"
+    },
+    "latitude": 45.7999663,
+    "longitude": 9.1540445
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "11",
+    "city": {
+      "name": "Albese con Cassano",
+      "istat": "013004"
+    },
+    "latitude": 45.7964679,
+    "longitude": 9.168018
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "98",
+    "city": {
+      "name": "Albese con Cassano",
+      "istat": "013004"
+    },
+    "latitude": 45.7963587,
+    "longitude": 9.1729255
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "100",
+    "city": {
+      "name": "Albese con Cassano",
+      "istat": "013004"
+    },
+    "latitude": 45.7963584,
+    "longitude": 9.1729791
+  },
+  {
+    "street": "Via Marconi",
+    "number": "11",
+    "city": {
+      "name": "Albese con Cassano",
+      "istat": "013004"
+    },
+    "latitude": 45.7895975,
+    "longitude": 9.1554785
+  },
+  {
+    "street": "Strada Provinciale ex Strada Statale 342 Briantea",
+    "number": "14",
+    "city": {
+      "name": "Albese con Cassano",
+      "istat": "013004"
+    },
+    "latitude": 45.7893212,
+    "longitude": 9.1563893
+  },
+  {
+    "street": "Via Roma",
+    "number": "57",
+    "city": {
+      "name": "Albese con Cassano",
+      "istat": "013004"
+    },
+    "latitude": 45.7984431,
+    "longitude": 9.1568504
+  },
+  {
+    "street": "Via Domenico Cimarosa",
+    "number": "1b",
+    "city": {
+      "name": "Albese con Cassano",
+      "istat": "013004"
+    },
+    "latitude": 45.7983839,
+    "longitude": 9.1546686
+  },
+  {
+    "street": "Via Vincenzo Bellini",
+    "number": "3",
+    "city": {
+      "name": "Albese con Cassano",
+      "istat": "013004"
+    },
+    "latitude": 45.7939415,
+    "longitude": 9.1576362
+  },
+  {
+    "street": "Via Montello",
+    "number": "23",
+    "city": {
+      "name": "Albese con Cassano",
+      "istat": "013004"
+    },
+    "latitude": 45.7947256,
+    "longitude": 9.1631618
+  },
+  {
+    "street": "Via ai Monti",
+    "number": "21",
+    "city": {
+      "name": "Albese con Cassano",
+      "istat": "013004"
+    },
+    "latitude": 45.8011275,
+    "longitude": 9.166163
+  },
+  {
+    "street": "Via Roma",
+    "number": "84;82;80",
+    "city": {
+      "name": "Albese con Cassano",
+      "istat": "013004"
+    },
+    "latitude": 45.7979123,
+    "longitude": 9.1598146
+  },
+  {
+    "street": "Via Carolina Pulici",
+    "number": "33",
+    "city": {
+      "name": "Albese con Cassano",
+      "istat": "013004"
+    },
+    "latitude": 45.7975302,
+    "longitude": 9.1681231
+  },
+  {
+    "street": "Piazza Camillo Meroni",
+    "number": "2",
+    "city": {
+      "name": "Albese con Cassano",
+      "istat": "013004"
+    },
+    "latitude": 45.7984654,
+    "longitude": 9.1602286
+  },
+  {
+    "street": "Via Roma",
+    "number": "16",
+    "city": {
+      "name": "Albese con Cassano",
+      "istat": "013004"
+    },
+    "latitude": 45.7977412,
+    "longitude": 9.1625091
+  },
+  {
+    "street": "Via Stoppani",
+    "number": "20",
+    "city": {
+      "name": "Albese con Cassano",
+      "istat": "013004"
+    },
+    "latitude": 45.7916422,
+    "longitude": 9.1748024
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "104",
+    "city": {
+      "name": "Albese con Cassano",
+      "istat": "013004"
+    },
+    "latitude": 45.7961506,
+    "longitude": 9.1740547
+  }
+]

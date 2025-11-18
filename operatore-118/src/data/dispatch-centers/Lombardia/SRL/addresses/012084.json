@@ -1,0 +1,1992 @@
+[
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "351",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8167618,
+    "longitude": 8.6144588
+  },
+  {
+    "street": "Lungolago Vespucci",
+    "number": "78",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8139518,
+    "longitude": 8.6074453
+  },
+  {
+    "street": "Via Piave",
+    "number": "64",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8147806,
+    "longitude": 8.6108435
+  },
+  {
+    "street": "Via Enrico Fermi",
+    "number": "439",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8153239,
+    "longitude": 8.622491
+  },
+  {
+    "street": "Piazza San Martino",
+    "number": "63",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8153141,
+    "longitude": 8.6101358
+  },
+  {
+    "street": "Via Varese",
+    "number": "790",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8190335,
+    "longitude": 8.6239666
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "59",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8146643,
+    "longitude": 8.6123963
+  },
+  {
+    "street": "Via Piave",
+    "number": "52",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8148692,
+    "longitude": 8.6106722
+  },
+  {
+    "street": "Piazza Locatelli",
+    "number": "25",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8139411,
+    "longitude": 8.6111784
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "57",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8147785,
+    "longitude": 8.6101015
+  },
+  {
+    "street": "Via Enrico Fermi",
+    "number": "464",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8155113,
+    "longitude": 8.6215393
+  },
+  {
+    "street": "Via Piave",
+    "number": "78",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8146829,
+    "longitude": 8.6109135
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "966",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8002849,
+    "longitude": 8.601948
+  },
+  {
+    "street": "Via Padre Ignazio Da Ispra",
+    "number": "9",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8156235,
+    "longitude": 8.6100701
+  },
+  {
+    "street": "Piazzale Rapazzini",
+    "number": "11",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8131314,
+    "longitude": 8.6075282
+  },
+  {
+    "street": "Piazzale Rapazzini",
+    "number": "13",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8130897,
+    "longitude": 8.6075357
+  },
+  {
+    "street": "Piazzale Rapazzini",
+    "number": "15",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8130749,
+    "longitude": 8.6075383
+  },
+  {
+    "street": "Piazzale Rapazzini",
+    "number": "17",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8130463,
+    "longitude": 8.6075434
+  },
+  {
+    "street": "Piazzale Rapazzini",
+    "number": "19",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8130283,
+    "longitude": 8.6075466
+  },
+  {
+    "street": "Piazzale Rapazzini",
+    "number": "21",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8129944,
+    "longitude": 8.6075527
+  },
+  {
+    "street": "Piazzale Rapazzini",
+    "number": "23",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8129825,
+    "longitude": 8.6075548
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "238",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8132205,
+    "longitude": 8.6099354
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "244",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8131494,
+    "longitude": 8.6099398
+  },
+  {
+    "street": "Piazzale Rapazzini",
+    "number": "25",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8129426,
+    "longitude": 8.6075619
+  },
+  {
+    "street": "Piazzale Rapazzini",
+    "number": "27",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8129287,
+    "longitude": 8.6075644
+  },
+  {
+    "street": "Piazzale Rapazzini",
+    "number": "29",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8128789,
+    "longitude": 8.6075733
+  },
+  {
+    "street": "Piazzale Rapazzini",
+    "number": "31",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8128631,
+    "longitude": 8.6075761
+  },
+  {
+    "street": "Piazzale Rapazzini",
+    "number": "33",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8128145,
+    "longitude": 8.6075848
+  },
+  {
+    "street": "Piazzale Rapazzini",
+    "number": "35",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.812808,
+    "longitude": 8.6075944
+  },
+  {
+    "street": "Piazzale Rapazzini",
+    "number": "9",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8131462,
+    "longitude": 8.6075256
+  },
+  {
+    "street": "Via Padre Ignazio Da Ispra",
+    "number": "21",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8157384,
+    "longitude": 8.6100808
+  },
+  {
+    "street": "Via Lavorascio",
+    "number": "254",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8189899,
+    "longitude": 8.6162682
+  },
+  {
+    "street": "Via Milite Ignoto",
+    "number": "112",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8161793,
+    "longitude": 8.6114752
+  },
+  {
+    "street": "Via Milite Ignoto",
+    "number": "150",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8163752,
+    "longitude": 8.6119625
+  },
+  {
+    "street": "Via Mirasole",
+    "number": "305",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8248386,
+    "longitude": 8.6320201
+  },
+  {
+    "street": "Lungolago Colombo",
+    "number": "73",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8125249,
+    "longitude": 8.6077054
+  },
+  {
+    "street": "Via Europa",
+    "number": "377",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.813659,
+    "longitude": 8.614681
+  },
+  {
+    "street": "Via Europa",
+    "number": "522",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8131278,
+    "longitude": 8.6163126
+  },
+  {
+    "street": "Via Agrifoglio",
+    "number": "33",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8161486,
+    "longitude": 8.6134717
+  },
+  {
+    "street": "Via dei Salici",
+    "number": "20",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8100271,
+    "longitude": 8.6179439
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "1598",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.7976099,
+    "longitude": 8.5957351
+  },
+  {
+    "street": "Via Enrico Fermi",
+    "number": "481",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8149712,
+    "longitude": 8.622238
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "1160",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.7994862,
+    "longitude": 8.6017256
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "1392",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.7985491,
+    "longitude": 8.5981427
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "1800",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.7971934,
+    "longitude": 8.5947952
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "296",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8161907,
+    "longitude": 8.61432
+  },
+  {
+    "street": "Via degli Alpini",
+    "number": "990",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8208187,
+    "longitude": 8.6239165
+  },
+  {
+    "street": "Via Passo della Sentinella",
+    "number": "13",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8164725,
+    "longitude": 8.6126363
+  },
+  {
+    "street": "Via Milite Ignoto",
+    "number": "231",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8167589,
+    "longitude": 8.6127676
+  },
+  {
+    "street": "Via Milite Ignoto",
+    "number": "257",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8168571,
+    "longitude": 8.6130922
+  },
+  {
+    "street": "Via Milite Ignoto",
+    "number": "383",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8170506,
+    "longitude": 8.6145861
+  },
+  {
+    "street": "Via Milite Ignoto",
+    "number": "345",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8171917,
+    "longitude": 8.6143206
+  },
+  {
+    "street": "Via Milite Ignoto",
+    "number": "380",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8168711,
+    "longitude": 8.6143917
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "319",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8165617,
+    "longitude": 8.6144198
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "309",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8163841,
+    "longitude": 8.6142361
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "275",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.816222,
+    "longitude": 8.6140598
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "243",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8159355,
+    "longitude": 8.6135099
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "241",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.815914,
+    "longitude": 8.6135676
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "233",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8158859,
+    "longitude": 8.6136266
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "227",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8158518,
+    "longitude": 8.6135964
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "221",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8158163,
+    "longitude": 8.6135602
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "219",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8157817,
+    "longitude": 8.6135294
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "189",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.815527,
+    "longitude": 8.6132611
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "185",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8155046,
+    "longitude": 8.6132417
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "181",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8154845,
+    "longitude": 8.6132169
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "175",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8154588,
+    "longitude": 8.6131921
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "173",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8154307,
+    "longitude": 8.6131659
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "169",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8154032,
+    "longitude": 8.6131371
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "165",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8153803,
+    "longitude": 8.6131109
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "151",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8153532,
+    "longitude": 8.6130814
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "147",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8153256,
+    "longitude": 8.6130526
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "143",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8151737,
+    "longitude": 8.6130358
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "127",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8150438,
+    "longitude": 8.6128923
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "111",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8149054,
+    "longitude": 8.6127113
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "29",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8144067,
+    "longitude": 8.6121165
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "21",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8142717,
+    "longitude": 8.6120883
+  },
+  {
+    "street": "Via Piave",
+    "number": "145",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8142301,
+    "longitude": 8.6118241
+  },
+  {
+    "street": "Via Piave",
+    "number": "139",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8141749,
+    "longitude": 8.6116478
+  },
+  {
+    "street": "Via Piave",
+    "number": "137",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8142301,
+    "longitude": 8.611456
+  },
+  {
+    "street": "Via Piave",
+    "number": "131",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8142885,
+    "longitude": 8.6113957
+  },
+  {
+    "street": "Via Piave",
+    "number": "125",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8143609,
+    "longitude": 8.6113487
+  },
+  {
+    "street": "Via Piave",
+    "number": "119",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8144105,
+    "longitude": 8.6113024
+  },
+  {
+    "street": "Via Piave",
+    "number": "113",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8144479,
+    "longitude": 8.6112669
+  },
+  {
+    "street": "Via Piave",
+    "number": "111",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8145012,
+    "longitude": 8.6113045
+  },
+  {
+    "street": "Via Piave",
+    "number": "105",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8145493,
+    "longitude": 8.6112683
+  },
+  {
+    "street": "Via Piave",
+    "number": "96",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8145035,
+    "longitude": 8.6110597
+  },
+  {
+    "street": "Via Piave",
+    "number": "94",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8145413,
+    "longitude": 8.6110356
+  },
+  {
+    "street": "Via Piave",
+    "number": "80",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.814628,
+    "longitude": 8.6109684
+  },
+  {
+    "street": "Via Piave",
+    "number": "74",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8147004,
+    "longitude": 8.6109178
+  },
+  {
+    "street": "Via Piave",
+    "number": "62",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8147913,
+    "longitude": 8.6107728
+  },
+  {
+    "street": "Via Piave",
+    "number": "60",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8147832,
+    "longitude": 8.6107457
+  },
+  {
+    "street": "Via Piave",
+    "number": "48",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8149148,
+    "longitude": 8.6106125
+  },
+  {
+    "street": "Via Piave",
+    "number": "38",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8149867,
+    "longitude": 8.6105622
+  },
+  {
+    "street": "Via Piave",
+    "number": "30",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8150526,
+    "longitude": 8.6106104
+  },
+  {
+    "street": "Via Piave",
+    "number": "26",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8151111,
+    "longitude": 8.6105655
+  },
+  {
+    "street": "Via Piave",
+    "number": "18",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8151779,
+    "longitude": 8.610542
+  },
+  {
+    "street": "Via Piave",
+    "number": "10",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8152503,
+    "longitude": 8.610483
+  },
+  {
+    "street": "Via Piave",
+    "number": "4",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8153074,
+    "longitude": 8.6104428
+  },
+  {
+    "street": "Via Madonnina del Grappa",
+    "number": "112",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8154097,
+    "longitude": 8.6104985
+  },
+  {
+    "street": "Via Madonnina del Grappa",
+    "number": "106",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8153994,
+    "longitude": 8.6105823
+  },
+  {
+    "street": "Via Madonnina del Grappa",
+    "number": "93",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8153812,
+    "longitude": 8.6107305
+  },
+  {
+    "street": "Via Madonnina del Grappa",
+    "number": "85",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8154055,
+    "longitude": 8.6108015
+  },
+  {
+    "street": "Via Madonnina del Grappa",
+    "number": "81",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8154438,
+    "longitude": 8.6108961
+  },
+  {
+    "street": "Via Madonnina del Grappa",
+    "number": "88",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8154709,
+    "longitude": 8.6107855
+  },
+  {
+    "street": "Via Madonnina del Grappa",
+    "number": "64",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8155663,
+    "longitude": 8.6109444
+  },
+  {
+    "street": "Via Madonnina del Grappa",
+    "number": "55",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8155966,
+    "longitude": 8.611112
+  },
+  {
+    "street": "Via Madonnina del Grappa",
+    "number": "48",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8156789,
+    "longitude": 8.6110141
+  },
+  {
+    "street": "Via Madonnina del Grappa",
+    "number": "40",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8157602,
+    "longitude": 8.6109994
+  },
+  {
+    "street": "Via Madonnina del Grappa",
+    "number": "30",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8158579,
+    "longitude": 8.6110181
+  },
+  {
+    "street": "Via Madonnina del Grappa",
+    "number": "12",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8159874,
+    "longitude": 8.6110543
+  },
+  {
+    "street": "Via Milite Ignoto",
+    "number": "89",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8162327,
+    "longitude": 8.6111026
+  },
+  {
+    "street": "Via Milite Ignoto",
+    "number": "95",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8162533,
+    "longitude": 8.611161
+  },
+  {
+    "street": "Via Milite Ignoto",
+    "number": "99",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8162687,
+    "longitude": 8.6112059
+  },
+  {
+    "street": "Via Milite Ignoto",
+    "number": "105",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8162659,
+    "longitude": 8.6112689
+  },
+  {
+    "street": "Via Milite Ignoto",
+    "number": "109",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8162846,
+    "longitude": 8.6113232
+  },
+  {
+    "street": "Via Milite Ignoto",
+    "number": "113",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8163005,
+    "longitude": 8.6113755
+  },
+  {
+    "street": "Via Milite Ignoto",
+    "number": "133",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8163724,
+    "longitude": 8.6116076
+  },
+  {
+    "street": "Via Milite Ignoto",
+    "number": "159",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.816451,
+    "longitude": 8.6118791
+  },
+  {
+    "street": "Via Milite Ignoto",
+    "number": "163",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8164669,
+    "longitude": 8.6119442
+  },
+  {
+    "street": "Via Milite Ignoto",
+    "number": "126",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8162636,
+    "longitude": 8.6115915
+  },
+  {
+    "street": "Via Milite Ignoto",
+    "number": "132",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8162916,
+    "longitude": 8.6116934
+  },
+  {
+    "street": "Via Milite Ignoto",
+    "number": "138",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8163126,
+    "longitude": 8.6117846
+  },
+  {
+    "street": "Via Milite Ignoto",
+    "number": "148",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8163374,
+    "longitude": 8.6118717
+  },
+  {
+    "street": "Via Milite Ignoto",
+    "number": "158",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8164035,
+    "longitude": 8.612038
+  },
+  {
+    "street": "Via Milite Ignoto",
+    "number": "162",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8164271,
+    "longitude": 8.6121011
+  },
+  {
+    "street": "Via Milite Ignoto",
+    "number": "168",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8164489,
+    "longitude": 8.6121561
+  },
+  {
+    "street": "Via Milite Ignoto",
+    "number": "172",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8164638,
+    "longitude": 8.6121963
+  },
+  {
+    "street": "Via Milite Ignoto",
+    "number": "182",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8164869,
+    "longitude": 8.6122419
+  },
+  {
+    "street": "Via Milite Ignoto",
+    "number": "175",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8166127,
+    "longitude": 8.6122352
+  },
+  {
+    "street": "Via Passo della Sentinella",
+    "number": "129",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8156925,
+    "longitude": 8.613416
+  },
+  {
+    "street": "Via Passo della Sentinella",
+    "number": "121",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.815735,
+    "longitude": 8.6133054
+  },
+  {
+    "street": "Via Passo della Sentinella",
+    "number": "118",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8156742,
+    "longitude": 8.6131438
+  },
+  {
+    "street": "Via Passo della Sentinella",
+    "number": "101",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8158252,
+    "longitude": 8.6131404
+  },
+  {
+    "street": "Via Passo della Sentinella",
+    "number": "87",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8159392,
+    "longitude": 8.6130197
+  },
+  {
+    "street": "Via Passo della Sentinella",
+    "number": "71",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.816014,
+    "longitude": 8.6128689
+  },
+  {
+    "street": "Via Passo della Sentinella",
+    "number": "8",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8163883,
+    "longitude": 8.6122861
+  },
+  {
+    "street": "Via Passo della Sentinella",
+    "number": "18",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8163276,
+    "longitude": 8.6123324
+  },
+  {
+    "street": "Via Passo della Sentinella",
+    "number": "22",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8163075,
+    "longitude": 8.6123572
+  },
+  {
+    "street": "Via Passo della Sentinella",
+    "number": "26",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8162851,
+    "longitude": 8.6123787
+  },
+  {
+    "street": "Via Passo della Sentinella",
+    "number": "30",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8162668,
+    "longitude": 8.6124022
+  },
+  {
+    "street": "Via Passo della Sentinella",
+    "number": "50",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8161219,
+    "longitude": 8.6126187
+  },
+  {
+    "street": "Via Passo della Sentinella",
+    "number": "43",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8162266,
+    "longitude": 8.6127448
+  },
+  {
+    "street": "Via Passo della Sentinella",
+    "number": "41",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8162785,
+    "longitude": 8.6126979
+  },
+  {
+    "street": "Via Passo della Sentinella",
+    "number": "39",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.816329,
+    "longitude": 8.612663
+  },
+  {
+    "street": "Via Passo della Sentinella",
+    "number": "21",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8164168,
+    "longitude": 8.6126845
+  },
+  {
+    "street": "Via Milite Ignoto",
+    "number": "277",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8168884,
+    "longitude": 8.6132658
+  },
+  {
+    "street": "Via Milite Ignoto",
+    "number": "230",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8166159,
+    "longitude": 8.6128843
+  },
+  {
+    "street": "Via Milite Ignoto",
+    "number": "254",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8166837,
+    "longitude": 8.613072
+  },
+  {
+    "street": "Via Milite Ignoto",
+    "number": "288",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8167786,
+    "longitude": 8.6134341
+  },
+  {
+    "street": "Via Milite Ignoto",
+    "number": "326",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8169814,
+    "longitude": 8.6138995
+  },
+  {
+    "street": "Via Milite Ignoto",
+    "number": "324",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8169674,
+    "longitude": 8.6138459
+  },
+  {
+    "street": "Via Milite Ignoto",
+    "number": "314",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8169506,
+    "longitude": 8.6137936
+  },
+  {
+    "street": "Via Milite Ignoto",
+    "number": "302",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8169234,
+    "longitude": 8.6137158
+  },
+  {
+    "street": "Via Milite Ignoto",
+    "number": "298",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8168982,
+    "longitude": 8.6136098
+  },
+  {
+    "street": "Piazza Locatelli",
+    "number": "67",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8139572,
+    "longitude": 8.6116736
+  },
+  {
+    "street": "Piazza Locatelli",
+    "number": "50",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8138484,
+    "longitude": 8.6114646
+  },
+  {
+    "street": "Piazza Locatelli",
+    "number": "73",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8140018,
+    "longitude": 8.6117067
+  },
+  {
+    "street": "Piazza Locatelli",
+    "number": "63",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8138802,
+    "longitude": 8.6116558
+  },
+  {
+    "street": "Via Foresteria",
+    "number": "109b",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8062935,
+    "longitude": 8.6247099
+  },
+  {
+    "street": "Via Foresteria",
+    "number": "109a",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8061563,
+    "longitude": 8.6246549
+  },
+  {
+    "street": "Via Foresteria",
+    "number": "62a",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8062771,
+    "longitude": 8.6239907
+  },
+  {
+    "street": "Via Foresteria",
+    "number": "62b",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8061342,
+    "longitude": 8.6239335
+  },
+  {
+    "street": "Via Foresteria",
+    "number": "102",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8056599,
+    "longitude": 8.6245628
+  },
+  {
+    "street": "Via Roma",
+    "number": "69",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8127434,
+    "longitude": 8.617387
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "635",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8021844,
+    "longitude": 8.6048359
+  },
+  {
+    "street": "Via Boschetti",
+    "number": "314",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.7973908,
+    "longitude": 8.5922737
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "1216",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.7990639,
+    "longitude": 8.6000796
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "1464",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.7981117,
+    "longitude": 8.5971915
+  },
+  {
+    "street": "Via Boschetti",
+    "number": "256",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.79729,
+    "longitude": 8.5924913
+  },
+  {
+    "street": "Via Boschetti",
+    "number": "236",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.7970126,
+    "longitude": 8.5927556
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "970",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.7998412,
+    "longitude": 8.6004794
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "968",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.7999463,
+    "longitude": 8.6006608
+  },
+  {
+    "street": "Via Europa",
+    "number": "223",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8144011,
+    "longitude": 8.6130332
+  },
+  {
+    "street": "Via Foresteria",
+    "number": "156",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8059314,
+    "longitude": 8.6252047
+  },
+  {
+    "street": "Via Milite Ignoto",
+    "number": "81",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8162013,
+    "longitude": 8.6109767
+  },
+  {
+    "street": "Via Piave",
+    "number": "25",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8151787,
+    "longitude": 8.6106999
+  },
+  {
+    "street": "Via Luigi Banetti",
+    "number": "1",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8146924,
+    "longitude": 8.6104026
+  },
+  {
+    "street": "Via Tullio Del Grande",
+    "number": "85",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8133727,
+    "longitude": 8.6115503
+  },
+  {
+    "street": "Via Enrico Fermi",
+    "number": "1039",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.81062,
+    "longitude": 8.6205281
+  },
+  {
+    "street": "Via Enrico Fermi",
+    "number": "529",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8145985,
+    "longitude": 8.6220407
+  },
+  {
+    "street": "Via Mirasole",
+    "number": "88",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.825413,
+    "longitude": 8.633964
+  },
+  {
+    "street": "Via Piave",
+    "number": "86",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8146014,
+    "longitude": 8.610987
+  },
+  {
+    "street": "Via Luigi Banetti",
+    "number": "15",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8146198,
+    "longitude": 8.610229
+  },
+  {
+    "street": "Via Roma",
+    "number": "239",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8134407,
+    "longitude": 8.6150935
+  },
+  {
+    "street": "Via Roma",
+    "number": "505",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8129587,
+    "longitude": 8.6188806
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "65",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8146995,
+    "longitude": 8.610076
+  },
+  {
+    "street": "Via Milite Ignoto",
+    "number": "7",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8161798,
+    "longitude": 8.6102944
+  },
+  {
+    "street": "Via Milano",
+    "number": "34",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8120058,
+    "longitude": 8.6095524
+  },
+  {
+    "street": "Via Enrico Fermi",
+    "number": "1219",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8095682,
+    "longitude": 8.6234139
+  },
+  {
+    "street": "Via Pietro Mongini",
+    "number": "919",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.7982061,
+    "longitude": 8.6105331
+  },
+  {
+    "street": "Via Mirasole",
+    "number": "305 /9 /10 /11 /12",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8246566,
+    "longitude": 8.6324963
+  },
+  {
+    "street": "Via Mirasole",
+    "number": "305 /5 /6 /7 /8",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8247833,
+    "longitude": 8.6323959
+  },
+  {
+    "street": "Via Mirasole",
+    "number": "305 /1 /2 /3 /4",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8249448,
+    "longitude": 8.6323577
+  },
+  {
+    "street": "Via Valcanale",
+    "number": "297",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.823098,
+    "longitude": 8.6126189
+  },
+  {
+    "street": "Via Tullio Del Grande",
+    "number": "69",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8134734,
+    "longitude": 8.6116612
+  },
+  {
+    "street": "Via Luigi Banetti",
+    "number": "50",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8140944,
+    "longitude": 8.6105642
+  },
+  {
+    "street": "Via Enrico Fermi",
+    "number": "62",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8186803,
+    "longitude": 8.6231706
+  },
+  {
+    "street": "Via Acqua Negra",
+    "number": "32",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8197001,
+    "longitude": 8.6254568
+  },
+  {
+    "street": "Via Enrico Fermi",
+    "number": "682",
+    "city": {
+      "name": "Ispra",
+      "istat": "012084"
+    },
+    "latitude": 45.8137311,
+    "longitude": 8.620159
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "85",
+    "city": {
+      "name": "Oggiono",
+      "istat": "097057"
+    },
+    "latitude": 45.7855665,
+    "longitude": 9.3439987
+  },
+  {
+    "street": "Via per Dolzago",
+    "number": "53",
+    "city": {
+      "name": "Oggiono",
+      "istat": "097057"
+    },
+    "latitude": 45.7771933,
+    "longitude": 9.3395201
+  },
+  {
+    "street": "Via Mercato",
+    "number": "12",
+    "city": {
+      "name": "Oggiono",
+      "istat": "097057"
+    },
+    "latitude": 45.79108,
+    "longitude": 9.347
+  },
+  {
+    "street": "Via Lazzaretto",
+    "number": "40",
+    "city": {
+      "name": "Oggiono",
+      "istat": "097057"
+    },
+    "latitude": 45.7889014,
+    "longitude": 9.3480613
+  },
+  {
+    "street": "Piazza Stazione",
+    "number": "2",
+    "city": {
+      "name": "Oggiono",
+      "istat": "097057"
+    },
+    "latitude": 45.7887,
+    "longitude": 9.3382422
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "45",
+    "city": {
+      "name": "Oggiono",
+      "istat": "097057"
+    },
+    "latitude": 45.7885404,
+    "longitude": 9.348904
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "42",
+    "city": {
+      "name": "Oggiono",
+      "istat": "097057"
+    },
+    "latitude": 45.7889203,
+    "longitude": 9.3489678
+  },
+  {
+    "street": "Via Lazzaretto",
+    "number": "29",
+    "city": {
+      "name": "Oggiono",
+      "istat": "097057"
+    },
+    "latitude": 45.7875408,
+    "longitude": 9.3491736
+  },
+  {
+    "street": "Via Milano",
+    "number": "36",
+    "city": {
+      "name": "Oggiono",
+      "istat": "097057"
+    },
+    "latitude": 45.7855114,
+    "longitude": 9.3430561
+  },
+  {
+    "street": "Strada Ca' Bianca Pascolo",
+    "number": "26",
+    "city": {
+      "name": "Oggiono",
+      "istat": "097057"
+    },
+    "latitude": 45.7943418,
+    "longitude": 9.3354231
+  },
+  {
+    "street": "Via Papa Giovanni XXIII",
+    "number": "98-5",
+    "city": {
+      "name": "Oggiono",
+      "istat": "097057"
+    },
+    "latitude": 45.7863225,
+    "longitude": 9.344351
+  },
+  {
+    "street": "Via Locatelli",
+    "number": "15",
+    "city": {
+      "name": "Oggiono",
+      "istat": "097057"
+    },
+    "latitude": 45.7895581,
+    "longitude": 9.3527669
+  },
+  {
+    "street": "Via Lazzaretto",
+    "number": "15a",
+    "city": {
+      "name": "Oggiono",
+      "istat": "097057"
+    },
+    "latitude": 45.7899994,
+    "longitude": 9.3479325
+  },
+  {
+    "street": "Via per Dolzago",
+    "number": "55",
+    "city": {
+      "name": "Oggiono",
+      "istat": "097057"
+    },
+    "latitude": 45.7773861,
+    "longitude": 9.3396098
+  },
+  {
+    "street": "Via Lazzaretto",
+    "number": "20",
+    "city": {
+      "name": "Oggiono",
+      "istat": "097057"
+    },
+    "latitude": 45.7897737,
+    "longitude": 9.3476926
+  },
+  {
+    "street": "Via De Francesco",
+    "number": "21",
+    "city": {
+      "name": "Oggiono",
+      "istat": "097057"
+    },
+    "latitude": 45.7892784,
+    "longitude": 9.3482534
+  },
+  {
+    "street": "Via Lazzaretto",
+    "number": "21",
+    "city": {
+      "name": "Oggiono",
+      "istat": "097057"
+    },
+    "latitude": 45.7891681,
+    "longitude": 9.3482646
+  },
+  {
+    "street": "Via provinciale",
+    "number": "4b",
+    "city": {
+      "name": "Oggiono",
+      "istat": "097057"
+    },
+    "latitude": 45.7840375,
+    "longitude": 9.3408578
+  },
+  {
+    "street": "Via Lazzaretto",
+    "number": "28",
+    "city": {
+      "name": "Oggiono",
+      "istat": "097057"
+    },
+    "latitude": 45.7891094,
+    "longitude": 9.3479831
+  },
+  {
+    "street": "via Dante Alighieri",
+    "number": "25",
+    "city": {
+      "name": "Oggiono",
+      "istat": "097057"
+    },
+    "latitude": 45.8040028,
+    "longitude": 9.3583203
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "18",
+    "city": {
+      "name": "Oggiono",
+      "istat": "097057"
+    },
+    "latitude": 45.8000241,
+    "longitude": 9.3556206
+  },
+  {
+    "street": "Piazza Stazione",
+    "number": "6",
+    "city": {
+      "name": "Oggiono",
+      "istat": "097057"
+    },
+    "latitude": 45.7889066,
+    "longitude": 9.3376272
+  },
+  {
+    "street": "Via per Dolzago",
+    "number": "1",
+    "city": {
+      "name": "Oggiono",
+      "istat": "097057"
+    },
+    "latitude": 45.783765,
+    "longitude": 9.3415484
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "18",
+    "city": {
+      "name": "Oggiono",
+      "istat": "097057"
+    },
+    "latitude": 45.7888844,
+    "longitude": 9.3453392
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "1",
+    "city": {
+      "name": "Oggiono",
+      "istat": "097057"
+    },
+    "latitude": 45.7983186,
+    "longitude": 9.3539162
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "7",
+    "city": {
+      "name": "Oggiono",
+      "istat": "097057"
+    },
+    "latitude": 45.7923261,
+    "longitude": 9.3511016
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "2",
+    "city": {
+      "name": "Oggiono",
+      "istat": "097057"
+    },
+    "latitude": 45.7915151,
+    "longitude": 9.3514443
+  },
+  {
+    "street": "Largo San Francesco",
+    "number": "1",
+    "city": {
+      "name": "Oggiono",
+      "istat": "097057"
+    },
+    "latitude": 45.7955062,
+    "longitude": 9.3614907
+  },
+  {
+    "street": "Via per Galbiate",
+    "number": "15",
+    "city": {
+      "name": "Oggiono",
+      "istat": "097057"
+    },
+    "latitude": 45.7952822,
+    "longitude": 9.3567817
+  },
+  {
+    "street": "Via per Galbiate",
+    "number": "13",
+    "city": {
+      "name": "Oggiono",
+      "istat": "097057"
+    },
+    "latitude": 45.7950256,
+    "longitude": 9.3567114
+  },
+  {
+    "street": "Via Vittorio Bachelet",
+    "number": "6",
+    "city": {
+      "name": "Oggiono",
+      "istat": "097057"
+    },
+    "latitude": 45.7917427,
+    "longitude": 9.3354586
+  },
+  {
+    "street": "Via Giuseppe Parini",
+    "number": "33",
+    "city": {
+      "name": "Oggiono",
+      "istat": "097057"
+    },
+    "latitude": 45.7930951,
+    "longitude": 9.3397508
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "21",
+    "city": {
+      "name": "Oggiono",
+      "istat": "097057"
+    },
+    "latitude": 45.802861,
+    "longitude": 9.3563022
+  }
+]

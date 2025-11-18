@@ -1,0 +1,102 @@
+[
+  {
+    "street": "Via generale Carlo Alberto Dalla Chiesa",
+    "number": "176",
+    "city": {
+      "name": "Faloppio",
+      "istat": "013099"
+    },
+    "latitude": 45.8040579,
+    "longitude": 8.9665128
+  },
+  {
+    "street": "Via Monteverdi",
+    "number": "1",
+    "city": {
+      "name": "Faloppio",
+      "istat": "013099"
+    },
+    "latitude": 45.8045683,
+    "longitude": 8.9656377
+  },
+  {
+    "street": "Via Cavallina",
+    "number": "73",
+    "city": {
+      "name": "Faloppio",
+      "istat": "013099"
+    },
+    "latitude": 45.8110213,
+    "longitude": 8.9595168
+  },
+  {
+    "street": "Via delle Brughiere",
+    "number": "85",
+    "city": {
+      "name": "Faloppio",
+      "istat": "013099"
+    },
+    "latitude": 45.8102144,
+    "longitude": 8.9593824
+  },
+  {
+    "street": "Via delle Brughiere",
+    "number": "72",
+    "city": {
+      "name": "Faloppio",
+      "istat": "013099"
+    },
+    "latitude": 45.8102944,
+    "longitude": 8.9592373
+  },
+  {
+    "street": "Via delle Brughiere",
+    "number": "66",
+    "city": {
+      "name": "Faloppio",
+      "istat": "013099"
+    },
+    "latitude": 45.8104076,
+    "longitude": 8.9591853
+  },
+  {
+    "street": "Via delle industrie",
+    "number": "384",
+    "city": {
+      "name": "Faloppio",
+      "istat": "013099"
+    },
+    "latitude": 45.8035834,
+    "longitude": 8.952843
+  },
+  {
+    "street": "Via dei Gelsi",
+    "number": "4",
+    "city": {
+      "name": "Faloppio",
+      "istat": "013099"
+    },
+    "latitude": 45.802815,
+    "longitude": 8.9791215
+  },
+  {
+    "street": "Via Gioacchino Rossini",
+    "number": "15",
+    "city": {
+      "name": "Faloppio",
+      "istat": "013099"
+    },
+    "latitude": 45.8071909,
+    "longitude": 8.9754072
+  },
+  {
+    "street": "Via Gioacchino Rossini",
+    "number": "21",
+    "city": {
+      "name": "Faloppio",
+      "istat": "013099"
+    },
+    "latitude": 45.8073048,
+    "longitude": 8.9756679
+  }
+]

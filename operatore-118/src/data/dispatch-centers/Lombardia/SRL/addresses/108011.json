@@ -1,0 +1,322 @@
+[
+  {
+    "street": "Via Trivulzio",
+    "number": "51",
+    "city": {
+      "name": "Briosco",
+      "istat": "108011"
+    },
+    "latitude": 45.7226237,
+    "longitude": 9.2560972
+  },
+  {
+    "street": "Via Fornaciai",
+    "number": "16",
+    "city": {
+      "name": "Briosco",
+      "istat": "108011"
+    },
+    "latitude": 45.7271241,
+    "longitude": 9.2381254
+  },
+  {
+    "street": "Via Garibaldi",
+    "number": "1",
+    "city": {
+      "name": "Briosco",
+      "istat": "108011"
+    },
+    "latitude": 45.7244,
+    "longitude": 9.2583933
+  },
+  {
+    "street": "Via Col del Freyus",
+    "number": "3",
+    "city": {
+      "name": "Briosco",
+      "istat": "108011"
+    },
+    "latitude": 45.7007374,
+    "longitude": 9.2472762
+  },
+  {
+    "street": "Via Giovanni Segantini",
+    "number": "1",
+    "city": {
+      "name": "Briosco",
+      "istat": "108011"
+    },
+    "latitude": 45.7016929,
+    "longitude": 9.2411904
+  },
+  {
+    "street": "Via Giovanni Segantini",
+    "number": "2",
+    "city": {
+      "name": "Briosco",
+      "istat": "108011"
+    },
+    "latitude": 45.7016844,
+    "longitude": 9.241461
+  },
+  {
+    "street": "Via Meucci",
+    "number": "20",
+    "city": {
+      "name": "Briosco",
+      "istat": "108011"
+    },
+    "latitude": 45.7229624,
+    "longitude": 9.2509182
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "3",
+    "city": {
+      "name": "Briosco",
+      "istat": "108011"
+    },
+    "latitude": 45.7304854,
+    "longitude": 9.2430853
+  },
+  {
+    "street": "Via Undici Febbraio",
+    "number": "58",
+    "city": {
+      "name": "Briosco",
+      "istat": "108011"
+    },
+    "latitude": 45.7256551,
+    "longitude": 9.2400246
+  },
+  {
+    "street": "Via Peregallo",
+    "number": "14",
+    "city": {
+      "name": "Briosco",
+      "istat": "108011"
+    },
+    "latitude": 45.716415,
+    "longitude": 9.2336351
+  },
+  {
+    "street": "Via Undici Febbraio",
+    "number": "55",
+    "city": {
+      "name": "Briosco",
+      "istat": "108011"
+    },
+    "latitude": 45.7272078,
+    "longitude": 9.2394712
+  },
+  {
+    "street": "Via Undici Febbraio",
+    "number": "32",
+    "city": {
+      "name": "Briosco",
+      "istat": "108011"
+    },
+    "latitude": 45.7259695,
+    "longitude": 9.2386719
+  },
+  {
+    "street": "Via Undici Febbraio",
+    "number": "72",
+    "city": {
+      "name": "Briosco",
+      "istat": "108011"
+    },
+    "latitude": 45.7283439,
+    "longitude": 9.2427691
+  },
+  {
+    "street": "Via Giacomo Puccini, 13, 20836 Briosco MB",
+    "number": "13",
+    "city": {
+      "name": "Briosco",
+      "istat": "108011"
+    },
+    "latitude": 45.7100196,
+    "longitude": 9.2388823
+  },
+  {
+    "street": "Via Trivulzio",
+    "number": "21",
+    "city": {
+      "name": "Briosco",
+      "istat": "108011"
+    },
+    "latitude": 45.7231466,
+    "longitude": 9.2563385
+  },
+  {
+    "street": "Via Trivulzio",
+    "number": "15",
+    "city": {
+      "name": "Briosco",
+      "istat": "108011"
+    },
+    "latitude": 45.7235277,
+    "longitude": 9.2563732
+  },
+  {
+    "street": "Via Trivulzio",
+    "number": "13",
+    "city": {
+      "name": "Briosco",
+      "istat": "108011"
+    },
+    "latitude": 45.7235761,
+    "longitude": 9.2563939
+  },
+  {
+    "street": "Via Undici Febbraio",
+    "number": "39",
+    "city": {
+      "name": "Briosco",
+      "istat": "108011"
+    },
+    "latitude": 45.7256773,
+    "longitude": 9.2385714
+  },
+  {
+    "street": "Via Trivulzio",
+    "number": "39",
+    "city": {
+      "name": "Briosco",
+      "istat": "108011"
+    },
+    "latitude": 45.7232557,
+    "longitude": 9.2562743
+  },
+  {
+    "street": "Via Dante",
+    "number": "6",
+    "city": {
+      "name": "Briosco",
+      "istat": "108011"
+    },
+    "latitude": 45.722195,
+    "longitude": 9.2567561
+  },
+  {
+    "street": "Via Carducci",
+    "number": "7",
+    "city": {
+      "name": "Briosco",
+      "istat": "108011"
+    },
+    "latitude": 45.7242237,
+    "longitude": 9.2572644
+  },
+  {
+    "street": "Via Dante",
+    "number": "7",
+    "city": {
+      "name": "Briosco",
+      "istat": "108011"
+    },
+    "latitude": 45.7221525,
+    "longitude": 9.2561974
+  },
+  {
+    "street": "Via Trivulzio",
+    "number": "11",
+    "city": {
+      "name": "Briosco",
+      "istat": "108011"
+    },
+    "latitude": 45.7237011,
+    "longitude": 9.2565051
+  },
+  {
+    "street": "Via Trivulzio",
+    "number": "17",
+    "city": {
+      "name": "Briosco",
+      "istat": "108011"
+    },
+    "latitude": 45.7234476,
+    "longitude": 9.2563464
+  },
+  {
+    "street": "Via Garibaldi",
+    "number": "10b",
+    "city": {
+      "name": "Briosco",
+      "istat": "108011"
+    },
+    "latitude": 45.7248114,
+    "longitude": 9.2589743
+  },
+  {
+    "street": "via Roma briosco",
+    "number": "15",
+    "city": {
+      "name": "Briosco",
+      "istat": "108011"
+    },
+    "latitude": 45.708197,
+    "longitude": 9.2369512
+  },
+  {
+    "street": "Via Leonardo da Vinci 20836 Briosco MB",
+    "number": "3",
+    "city": {
+      "name": "Briosco",
+      "istat": "108011"
+    },
+    "latitude": 45.7240434,
+    "longitude": 9.2549304
+  },
+  {
+    "street": "Via Passo Sella",
+    "number": "9",
+    "city": {
+      "name": "Briosco",
+      "istat": "108011"
+    },
+    "latitude": 45.7064761,
+    "longitude": 9.2419769
+  },
+  {
+    "street": "Via Meyer",
+    "number": "5",
+    "city": {
+      "name": "Briosco",
+      "istat": "108011"
+    },
+    "latitude": 45.7077067,
+    "longitude": 9.2388902
+  },
+  {
+    "street": "Via Undici Febbraio",
+    "number": "13",
+    "city": {
+      "name": "Briosco",
+      "istat": "108011"
+    },
+    "latitude": 45.7238637,
+    "longitude": 9.2381924
+  },
+  {
+    "street": "Via Trivulzio",
+    "number": "8",
+    "city": {
+      "name": "Briosco",
+      "istat": "108011"
+    },
+    "latitude": 45.7233744,
+    "longitude": 9.2559485
+  },
+  {
+    "street": "Via Trivulzio",
+    "number": "23",
+    "city": {
+      "name": "Briosco",
+      "istat": "108011"
+    },
+    "latitude": 45.7237531,
+    "longitude": 9.2560762
+  }
+]

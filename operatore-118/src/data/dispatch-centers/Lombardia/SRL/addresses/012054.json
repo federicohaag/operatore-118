@@ -1,0 +1,212 @@
+[
+  {
+    "street": "Via Bongiasca",
+    "number": "583",
+    "city": {
+      "name": "Comabbio",
+      "istat": "012054"
+    },
+    "latitude": 45.7780184,
+    "longitude": 8.6791769
+  },
+  {
+    "street": "Via Bongiasca",
+    "number": "1201",
+    "city": {
+      "name": "Comabbio",
+      "istat": "012054"
+    },
+    "latitude": 45.78195,
+    "longitude": 8.679711
+  },
+  {
+    "street": "Piazza Guglielmo Marconi",
+    "number": "1",
+    "city": {
+      "name": "Comabbio",
+      "istat": "012054"
+    },
+    "latitude": 45.7723479,
+    "longitude": 8.6748584
+  },
+  {
+    "street": "Via per Ternate",
+    "number": "113",
+    "city": {
+      "name": "Comabbio",
+      "istat": "012054"
+    },
+    "latitude": 45.7735463,
+    "longitude": 8.6796663
+  },
+  {
+    "street": "Via Labiena",
+    "number": "1861",
+    "city": {
+      "name": "Comabbio",
+      "istat": "012054"
+    },
+    "latitude": 45.7605784,
+    "longitude": 8.6787528
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "383",
+    "city": {
+      "name": "Comabbio",
+      "istat": "012054"
+    },
+    "latitude": 45.7720949,
+    "longitude": 8.6749276
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "560",
+    "city": {
+      "name": "Comabbio",
+      "istat": "012054"
+    },
+    "latitude": 45.7717567,
+    "longitude": 8.67482
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "1022",
+    "city": {
+      "name": "Comabbio",
+      "istat": "012054"
+    },
+    "latitude": 45.7707611,
+    "longitude": 8.6786665
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "932",
+    "city": {
+      "name": "Comabbio",
+      "istat": "012054"
+    },
+    "latitude": 45.7706113,
+    "longitude": 8.6780625
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "2",
+    "city": {
+      "name": "Comabbio",
+      "istat": "012054"
+    },
+    "latitude": 45.7725181,
+    "longitude": 8.6740777
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "924",
+    "city": {
+      "name": "Comabbio",
+      "istat": "012054"
+    },
+    "latitude": 45.7706604,
+    "longitude": 8.6779048
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "4",
+    "city": {
+      "name": "Comabbio",
+      "istat": "012054"
+    },
+    "latitude": 45.7726572,
+    "longitude": 8.674421
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "6",
+    "city": {
+      "name": "Comabbio",
+      "istat": "012054"
+    },
+    "latitude": 45.7725895,
+    "longitude": 8.6741395
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "830",
+    "city": {
+      "name": "Comabbio",
+      "istat": "012054"
+    },
+    "latitude": 45.7709372,
+    "longitude": 8.6768749
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "894",
+    "city": {
+      "name": "Comabbio",
+      "istat": "012054"
+    },
+    "latitude": 45.7708709,
+    "longitude": 8.6776915
+  },
+  {
+    "street": "Via Lucio Fontana",
+    "number": "269",
+    "city": {
+      "name": "Comabbio",
+      "istat": "012054"
+    },
+    "latitude": 45.7722172,
+    "longitude": 8.6734853
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "1",
+    "city": {
+      "name": "Comabbio",
+      "istat": "012054"
+    },
+    "latitude": 45.7726133,
+    "longitude": 8.6743958
+  },
+  {
+    "street": "Via Lucio Fontana",
+    "number": "1050",
+    "city": {
+      "name": "Comabbio",
+      "istat": "012054"
+    },
+    "latitude": 45.7699888,
+    "longitude": 8.6747414
+  },
+  {
+    "street": "Via Labiena",
+    "number": "54",
+    "city": {
+      "name": "Comabbio",
+      "istat": "012054"
+    },
+    "latitude": 45.77221,
+    "longitude": 8.6785641
+  },
+  {
+    "street": "Via Piave",
+    "number": "24",
+    "city": {
+      "name": "Comabbio",
+      "istat": "012054"
+    },
+    "latitude": 45.7731668,
+    "longitude": 8.6738982
+  },
+  {
+    "street": "Via Piave",
+    "number": "23",
+    "city": {
+      "name": "Comabbio",
+      "istat": "012054"
+    },
+    "latitude": 45.7729993,
+    "longitude": 8.6739656
+  }
+]

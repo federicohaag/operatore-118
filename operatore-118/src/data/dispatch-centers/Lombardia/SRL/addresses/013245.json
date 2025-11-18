@@ -1,0 +1,352 @@
+[
+  {
+    "street": "Via Varesina",
+    "number": "123",
+    "city": {
+      "name": "Villa Guardia",
+      "istat": "013245"
+    },
+    "latitude": 45.7715704,
+    "longitude": 9.0138612
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "1",
+    "city": {
+      "name": "Villa Guardia",
+      "istat": "013245"
+    },
+    "latitude": 45.771517,
+    "longitude": 9.013399
+  },
+  {
+    "street": "Piazza Italia",
+    "number": "12",
+    "city": {
+      "name": "Villa Guardia",
+      "istat": "013245"
+    },
+    "latitude": 45.7796646,
+    "longitude": 9.0243301
+  },
+  {
+    "street": "Via per Casarico",
+    "number": "7",
+    "city": {
+      "name": "Villa Guardia",
+      "istat": "013245"
+    },
+    "latitude": 45.785424,
+    "longitude": 9.0029446
+  },
+  {
+    "street": "Via Firenze",
+    "number": "118",
+    "city": {
+      "name": "Villa Guardia",
+      "istat": "013245"
+    },
+    "latitude": 45.7722463,
+    "longitude": 9.0431891
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "3",
+    "city": {
+      "name": "Villa Guardia",
+      "istat": "013245"
+    },
+    "latitude": 45.7709845,
+    "longitude": 9.011838
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "4c",
+    "city": {
+      "name": "Villa Guardia",
+      "istat": "013245"
+    },
+    "latitude": 45.7711167,
+    "longitude": 9.0104514
+  },
+  {
+    "street": "Via Varesina",
+    "number": "44",
+    "city": {
+      "name": "Villa Guardia",
+      "istat": "013245"
+    },
+    "latitude": 45.7763351,
+    "longitude": 9.0281888
+  },
+  {
+    "street": "Via Firenze",
+    "number": "15",
+    "city": {
+      "name": "Villa Guardia",
+      "istat": "013245"
+    },
+    "latitude": 45.7719652,
+    "longitude": 9.0355476
+  },
+  {
+    "street": "Via Varesina",
+    "number": "126f",
+    "city": {
+      "name": "Villa Guardia",
+      "istat": "013245"
+    },
+    "latitude": 45.7725837,
+    "longitude": 9.0075845
+  },
+  {
+    "street": "Via Varesina",
+    "number": "126/C/D",
+    "city": {
+      "name": "Villa Guardia",
+      "istat": "013245"
+    },
+    "latitude": 45.7724378,
+    "longitude": 9.007909
+  },
+  {
+    "street": "Via Varesina",
+    "number": "126b",
+    "city": {
+      "name": "Villa Guardia",
+      "istat": "013245"
+    },
+    "latitude": 45.7722413,
+    "longitude": 9.0081397
+  },
+  {
+    "street": "Via Varesina",
+    "number": "126",
+    "city": {
+      "name": "Villa Guardia",
+      "istat": "013245"
+    },
+    "latitude": 45.7722226,
+    "longitude": 9.0084052
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "9",
+    "city": {
+      "name": "Villa Guardia",
+      "istat": "013245"
+    },
+    "latitude": 45.7710967,
+    "longitude": 9.0108415
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "1",
+    "city": {
+      "name": "Villa Guardia",
+      "istat": "013245"
+    },
+    "latitude": 45.7708292,
+    "longitude": 9.010112
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "5",
+    "city": {
+      "name": "Villa Guardia",
+      "istat": "013245"
+    },
+    "latitude": 45.7707993,
+    "longitude": 9.0119546
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "2",
+    "city": {
+      "name": "Villa Guardia",
+      "istat": "013245"
+    },
+    "latitude": 45.7714138,
+    "longitude": 9.0090574
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "6",
+    "city": {
+      "name": "Villa Guardia",
+      "istat": "013245"
+    },
+    "latitude": 45.7713333,
+    "longitude": 9.0092827
+  },
+  {
+    "street": "Via Varesina",
+    "number": "122",
+    "city": {
+      "name": "Villa Guardia",
+      "istat": "013245"
+    },
+    "latitude": 45.7712838,
+    "longitude": 9.0102872
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "4",
+    "city": {
+      "name": "Villa Guardia",
+      "istat": "013245"
+    },
+    "latitude": 45.7713436,
+    "longitude": 9.010546
+  },
+  {
+    "street": "Via Vittorio Emanuele Secondo",
+    "number": "1",
+    "city": {
+      "name": "Villa Guardia",
+      "istat": "013245"
+    },
+    "latitude": 45.7771009,
+    "longitude": 9.0044211
+  },
+  {
+    "street": "Via Monte Bianco",
+    "number": "16",
+    "city": {
+      "name": "Villa Guardia",
+      "istat": "013245"
+    },
+    "latitude": 45.7664299,
+    "longitude": 9.0129211
+  },
+  {
+    "street": "Via Varesina",
+    "number": "7",
+    "city": {
+      "name": "Villa Guardia",
+      "istat": "013245"
+    },
+    "latitude": 45.7770666,
+    "longitude": 9.0329188
+  },
+  {
+    "street": "Via Varesina",
+    "number": "5",
+    "city": {
+      "name": "Villa Guardia",
+      "istat": "013245"
+    },
+    "latitude": 45.7771968,
+    "longitude": 9.0327333
+  },
+  {
+    "street": "Via Antonio Sant'Elia",
+    "number": "16",
+    "city": {
+      "name": "Villa Guardia",
+      "istat": "013245"
+    },
+    "latitude": 45.7728369,
+    "longitude": 9.0262762
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "11",
+    "city": {
+      "name": "Villa Guardia",
+      "istat": "013245"
+    },
+    "latitude": 45.7700153,
+    "longitude": 9.0111036
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "7",
+    "city": {
+      "name": "Villa Guardia",
+      "istat": "013245"
+    },
+    "latitude": 45.7702961,
+    "longitude": 9.0114702
+  },
+  {
+    "street": "Via Antonio Sant'Elia",
+    "number": "11",
+    "city": {
+      "name": "Villa Guardia",
+      "istat": "013245"
+    },
+    "latitude": 45.7732882,
+    "longitude": 9.0264507
+  },
+  {
+    "street": "Via Varesina",
+    "number": "128",
+    "city": {
+      "name": "Villa Guardia",
+      "istat": "013245"
+    },
+    "latitude": 45.7729555,
+    "longitude": 9.0067651
+  },
+  {
+    "street": "Via Varesina",
+    "number": "124",
+    "city": {
+      "name": "Villa Guardia",
+      "istat": "013245"
+    },
+    "latitude": 45.7721744,
+    "longitude": 9.0092479
+  },
+  {
+    "street": "Via Corsica",
+    "number": "1",
+    "city": {
+      "name": "Villa Guardia",
+      "istat": "013245"
+    },
+    "latitude": 45.772474,
+    "longitude": 9.0106703
+  },
+  {
+    "street": "Via Trieste",
+    "number": "15",
+    "city": {
+      "name": "Villa Guardia",
+      "istat": "013245"
+    },
+    "latitude": 45.7721009,
+    "longitude": 9.0254191
+  },
+  {
+    "street": "Via Paolo Giovio",
+    "number": "14d",
+    "city": {
+      "name": "Villa Guardia",
+      "istat": "013245"
+    },
+    "latitude": 45.7755441,
+    "longitude": 9.0040079
+  },
+  {
+    "street": "Via Monte Bianco",
+    "number": "24",
+    "city": {
+      "name": "Villa Guardia",
+      "istat": "013245"
+    },
+    "latitude": 45.7642615,
+    "longitude": 9.0112904
+  },
+  {
+    "street": "Via Monte Bianco",
+    "number": "12",
+    "city": {
+      "name": "Villa Guardia",
+      "istat": "013245"
+    },
+    "latitude": 45.7679593,
+    "longitude": 9.0140775
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "15",
+    "city": {
+      "name": "Bulciago",
+      "istat": "097011"
+    },
+    "latitude": 45.7537455,
+    "longitude": 9.2919059
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "46",
+    "city": {
+      "name": "Bulciago",
+      "istat": "097011"
+    },
+    "latitude": 45.7550747,
+    "longitude": 9.2927995
+  },
+  {
+    "street": "Via Roma",
+    "number": "84",
+    "city": {
+      "name": "Bulciago",
+      "istat": "097011"
+    },
+    "latitude": 45.7485649,
+    "longitude": 9.2773904
+  },
+  {
+    "street": "Strada Provinciale ex Strada Statale 342 Briantea",
+    "number": "38",
+    "city": {
+      "name": "Bulciago",
+      "istat": "097011"
+    },
+    "latitude": 45.7491682,
+    "longitude": 9.2850257
+  },
+  {
+    "street": "Via Briantea",
+    "number": "24",
+    "city": {
+      "name": "Bulciago",
+      "istat": "097011"
+    },
+    "latitude": 45.7480866,
+    "longitude": 9.2790541
+  },
+  {
+    "street": "Via del Lavello",
+    "number": "40",
+    "city": {
+      "name": "Bulciago",
+      "istat": "097011"
+    },
+    "latitude": 45.749617,
+    "longitude": 9.2982726
+  },
+  {
+    "street": "Strada Provinciale ex Strada Statale 342 Briantea",
+    "number": "2",
+    "city": {
+      "name": "Bulciago",
+      "istat": "097011"
+    },
+    "latitude": 45.7517006,
+    "longitude": 9.2916467
+  },
+  {
+    "street": "Strada Provinciale ex Strada Statale 342 Briantea",
+    "number": "31",
+    "city": {
+      "name": "Bulciago",
+      "istat": "097011"
+    },
+    "latitude": 45.7483456,
+    "longitude": 9.2783592
+  },
+  {
+    "street": "Strada Provinciale ex Strada Statale 342 Briantea",
+    "number": "9",
+    "city": {
+      "name": "Bulciago",
+      "istat": "097011"
+    },
+    "latitude": 45.7488425,
+    "longitude": 9.2759071
+  },
+  {
+    "street": "Via del Lavello",
+    "number": "42",
+    "city": {
+      "name": "Bulciago",
+      "istat": "097011"
+    },
+    "latitude": 45.749583,
+    "longitude": 9.2989318
+  },
+  {
+    "street": "Strada Provinciale ex Strada Statale 342 Briantea",
+    "number": "48",
+    "city": {
+      "name": "Bulciago",
+      "istat": "097011"
+    },
+    "latitude": 45.7512165,
+    "longitude": 9.2884863
+  }
+]

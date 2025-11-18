@@ -1,0 +1,672 @@
+[
+  {
+    "street": "Piazza Roma",
+    "number": "2",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9464678,
+    "longitude": 9.1941607
+  },
+  {
+    "street": "Piazza Roma",
+    "number": "3",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9464423,
+    "longitude": 9.1940554
+  },
+  {
+    "street": "Piazza Roma",
+    "number": "4",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9464666,
+    "longitude": 9.1939359
+  },
+  {
+    "street": "Piazza Roma",
+    "number": "5",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.946488,
+    "longitude": 9.1939178
+  },
+  {
+    "street": "Piazza Roma",
+    "number": "9",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9462398,
+    "longitude": 9.1939984
+  },
+  {
+    "street": "Località Bagnana",
+    "number": "96",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9452938,
+    "longitude": 9.1869399
+  },
+  {
+    "street": "Localiità Chiesa",
+    "number": "8",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9460477,
+    "longitude": 9.1932501
+  },
+  {
+    "street": "Località Rozzo",
+    "number": "1",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9465326,
+    "longitude": 9.1952001
+  },
+  {
+    "street": "Località Rozzo",
+    "number": "1A",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9464562,
+    "longitude": 9.1949587
+  },
+  {
+    "street": "Località Rozzo",
+    "number": "2",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9463135,
+    "longitude": 9.1950257
+  },
+  {
+    "street": "Località Rozzo",
+    "number": "5",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9462892,
+    "longitude": 9.1958103
+  },
+  {
+    "street": "Località Rozzo",
+    "number": "10",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9463554,
+    "longitude": 9.1959363
+  },
+  {
+    "street": "Località Rozzo",
+    "number": "12",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9462922,
+    "longitude": 9.1962002
+  },
+  {
+    "street": "Località Rozzo",
+    "number": "13",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9463006,
+    "longitude": 9.1962793
+  },
+  {
+    "street": "Località Rozzo",
+    "number": "14",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9463449,
+    "longitude": 9.1963276
+  },
+  {
+    "street": "Località Rozzo",
+    "number": "24",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9463878,
+    "longitude": 9.1973073
+  },
+  {
+    "street": "Località Rozzo",
+    "number": "42",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9463108,
+    "longitude": 9.1974749
+  },
+  {
+    "street": "Località Rozzo",
+    "number": "52",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9458879,
+    "longitude": 9.196964
+  },
+  {
+    "street": "Località Rozzo",
+    "number": "50",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9458362,
+    "longitude": 9.197263
+  },
+  {
+    "street": "Località Rozzo",
+    "number": "54",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9452324,
+    "longitude": 9.1970874
+  },
+  {
+    "street": "Località Rozzo",
+    "number": "55",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9450384,
+    "longitude": 9.1971765
+  },
+  {
+    "street": "Località Rozzo",
+    "number": "48A",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9460274,
+    "longitude": 9.196964
+  },
+  {
+    "street": "Località Rozzo",
+    "number": "47",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9461323,
+    "longitude": 9.1968278
+  },
+  {
+    "street": "Località Rozzo",
+    "number": "82",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9461122,
+    "longitude": 9.1951481
+  },
+  {
+    "street": "Località Rozzo",
+    "number": "81",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.946088,
+    "longitude": 9.1952608
+  },
+  {
+    "street": "Località Rozzo",
+    "number": "84",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9460441,
+    "longitude": 9.1951039
+  },
+  {
+    "street": "Località Rozzo",
+    "number": "80",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9460246,
+    "longitude": 9.1952286
+  },
+  {
+    "street": "Località Rozzo",
+    "number": "79",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9459751,
+    "longitude": 9.1955759
+  },
+  {
+    "street": "Località Rozzo",
+    "number": "77",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9459635,
+    "longitude": 9.1957523
+  },
+  {
+    "street": "Località Rozzo",
+    "number": "75",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.945957,
+    "longitude": 9.1958354
+  },
+  {
+    "street": "Località Rozzo",
+    "number": "76",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9460283,
+    "longitude": 9.19571
+  },
+  {
+    "street": "Località Rozzo",
+    "number": "69",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9460432,
+    "longitude": 9.1959776
+  },
+  {
+    "street": "Località Rozzo",
+    "number": "68",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9460194,
+    "longitude": 9.1960406
+  },
+  {
+    "street": "Località Rozzo",
+    "number": "66",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9461015,
+    "longitude": 9.1961486
+  },
+  {
+    "street": "Località Rozzo",
+    "number": "62",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9461295,
+    "longitude": 9.1963692
+  },
+  {
+    "street": "Località Rozzo",
+    "number": "61",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9462316,
+    "longitude": 9.1965677
+  },
+  {
+    "street": "Località Rozzo",
+    "number": "45",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.946254,
+    "longitude": 9.1966146
+  },
+  {
+    "street": "Località Sostra",
+    "number": "6",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.946708,
+    "longitude": 9.2017748
+  },
+  {
+    "street": "Località Sostra",
+    "number": "5",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9468022,
+    "longitude": 9.2015066
+  },
+  {
+    "street": "Località Sostra",
+    "number": "4",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9466931,
+    "longitude": 9.2013309
+  },
+  {
+    "street": "Località Rozzo",
+    "number": "36",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9464739,
+    "longitude": 9.2001803
+  },
+  {
+    "street": "Località Cendraro",
+    "number": "76",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9466259,
+    "longitude": 9.2039273
+  },
+  {
+    "street": "Località Villa",
+    "number": "89",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9499941,
+    "longitude": 9.20969
+  },
+  {
+    "street": "Località Villa",
+    "number": "88",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9497852,
+    "longitude": 9.2092408
+  },
+  {
+    "street": "Localita Calvasino",
+    "number": "3",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9429223,
+    "longitude": 9.1757665
+  },
+  {
+    "street": "Località Rozzo",
+    "number": "49",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9460071,
+    "longitude": 9.1969145
+  },
+  {
+    "street": "Località Rozzo",
+    "number": "46",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9462324,
+    "longitude": 9.196688
+  },
+  {
+    "street": "Località Sostra",
+    "number": "19",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9481512,
+    "longitude": 9.2035688
+  },
+  {
+    "street": "Località Rozzo",
+    "number": "17",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9464762,
+    "longitude": 9.1963479
+  },
+  {
+    "street": "Località Crotto",
+    "number": "24",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.94054,
+    "longitude": 9.166453
+  },
+  {
+    "street": "Località Sostra",
+    "number": "33",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9489687,
+    "longitude": 9.2058381
+  },
+  {
+    "street": "Località Sostra",
+    "number": "37",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9486593,
+    "longitude": 9.2053314
+  },
+  {
+    "street": "Località Sostra",
+    "number": "35",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9487523,
+    "longitude": 9.205431
+  },
+  {
+    "street": "Località Casate Monte",
+    "number": "40",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9480537,
+    "longitude": 9.2090338
+  },
+  {
+    "street": "Località Casate Monte",
+    "number": "41",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9479353,
+    "longitude": 9.2087148
+  },
+  {
+    "street": "Frazione Casate",
+    "number": "71",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9619058,
+    "longitude": 9.2249243
+  },
+  {
+    "street": "Località Cendraro",
+    "number": "75",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9469889,
+    "longitude": 9.205177
+  },
+  {
+    "street": "Località Cendraro",
+    "number": "67",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9476439,
+    "longitude": 9.2062279
+  },
+  {
+    "street": "Località Casate Monte",
+    "number": "43",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9476111,
+    "longitude": 9.2080425
+  },
+  {
+    "street": "Località Casate Monte",
+    "number": "43B",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9478462,
+    "longitude": 9.2083243
+  },
+  {
+    "street": "Località Casate Monte",
+    "number": "39",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9484722,
+    "longitude": 9.2091386
+  },
+  {
+    "street": "Località Sostra",
+    "number": "22",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9491521,
+    "longitude": 9.2054269
+  },
+  {
+    "street": "Località Sostra",
+    "number": "23",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9491644,
+    "longitude": 9.2057136
+  },
+  {
+    "street": "Località Villa",
+    "number": "7",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9493384,
+    "longitude": 9.207457
+  },
+  {
+    "street": "Località Rozzo",
+    "number": "18",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9464156,
+    "longitude": 9.1966163
+  },
+  {
+    "street": "Località Casate Monte",
+    "number": "36",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9483154,
+    "longitude": 9.2092516
+  },
+  {
+    "street": "Località Villa",
+    "number": "2",
+    "city": {
+      "name": "Lezzeno",
+      "istat": "013126"
+    },
+    "latitude": 45.9496084,
+    "longitude": 9.2076912
+  }
+]

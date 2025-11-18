@@ -1,0 +1,162 @@
+[
+  {
+    "street": "Via John e Robert Kennedy",
+    "number": "2",
+    "city": {
+      "name": "Correzzana",
+      "istat": "108022"
+    },
+    "latitude": 45.6656145,
+    "longitude": 9.3043499
+  },
+  {
+    "street": "Via San Desiderio",
+    "number": "17",
+    "city": {
+      "name": "Correzzana",
+      "istat": "108022"
+    },
+    "latitude": 45.6639968,
+    "longitude": 9.3006003
+  },
+  {
+    "street": "Via Principale",
+    "number": "68",
+    "city": {
+      "name": "Correzzana",
+      "istat": "108022"
+    },
+    "latitude": 45.6669483,
+    "longitude": 9.3033905
+  },
+  {
+    "street": "Via Don Biagio Volontieri",
+    "number": "1",
+    "city": {
+      "name": "Correzzana",
+      "istat": "108022"
+    },
+    "latitude": 45.6668849,
+    "longitude": 9.3027511
+  },
+  {
+    "street": "Via Don Biagio Volontieri",
+    "number": "3",
+    "city": {
+      "name": "Correzzana",
+      "istat": "108022"
+    },
+    "latitude": 45.6668418,
+    "longitude": 9.3024078
+  },
+  {
+    "street": "Via Don Biagio Volontieri",
+    "number": "5",
+    "city": {
+      "name": "Correzzana",
+      "istat": "108022"
+    },
+    "latitude": 45.6668006,
+    "longitude": 9.3020296
+  },
+  {
+    "street": "Via Don Biagio Volontieri",
+    "number": "7",
+    "city": {
+      "name": "Correzzana",
+      "istat": "108022"
+    },
+    "latitude": 45.6667387,
+    "longitude": 9.3016085
+  },
+  {
+    "street": "Via Don Biagio Volontieri",
+    "number": "10",
+    "city": {
+      "name": "Correzzana",
+      "istat": "108022"
+    },
+    "latitude": 45.6668268,
+    "longitude": 9.3014932
+  },
+  {
+    "street": "Via Don Biagio Volontieri",
+    "number": "6",
+    "city": {
+      "name": "Correzzana",
+      "istat": "108022"
+    },
+    "latitude": 45.6668793,
+    "longitude": 9.3018311
+  },
+  {
+    "street": "Via Don Biagio Volontieri",
+    "number": "4",
+    "city": {
+      "name": "Correzzana",
+      "istat": "108022"
+    },
+    "latitude": 45.6669206,
+    "longitude": 9.3021691
+  },
+  {
+    "street": "Via Don Biagio Volontieri",
+    "number": "2",
+    "city": {
+      "name": "Correzzana",
+      "istat": "108022"
+    },
+    "latitude": 45.6669655,
+    "longitude": 9.3025821
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "15",
+    "city": {
+      "name": "Correzzana",
+      "istat": "108022"
+    },
+    "latitude": 45.6579199,
+    "longitude": 9.3009983
+  },
+  {
+    "street": "Via Principale 20856 Correzzana MB",
+    "number": "34",
+    "city": {
+      "name": "Correzzana",
+      "istat": "108022"
+    },
+    "latitude": 45.6625071,
+    "longitude": 9.3047178
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "7",
+    "city": {
+      "name": "Correzzana",
+      "istat": "108022"
+    },
+    "latitude": 45.6678625,
+    "longitude": 9.3044542
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "1",
+    "city": {
+      "name": "Correzzana",
+      "istat": "108022"
+    },
+    "latitude": 45.6669534,
+    "longitude": 9.3052416
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "18",
+    "city": {
+      "name": "Correzzana",
+      "istat": "108022"
+    },
+    "latitude": 45.6670967,
+    "longitude": 9.3059107
+  }
+]

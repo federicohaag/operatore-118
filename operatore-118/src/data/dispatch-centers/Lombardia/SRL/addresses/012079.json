@@ -1,0 +1,262 @@
+[
+  {
+    "street": "Via Roma",
+    "number": "17",
+    "city": {
+      "name": "Gorla Minore",
+      "istat": "012079"
+    },
+    "latitude": 45.6445392,
+    "longitude": 8.8985759
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "83",
+    "city": {
+      "name": "Gorla Minore",
+      "istat": "012079"
+    },
+    "latitude": 45.6511463,
+    "longitude": 8.8964735
+  },
+  {
+    "street": "Via Ambrogio Colombo",
+    "number": "58",
+    "city": {
+      "name": "Gorla Minore",
+      "istat": "012079"
+    },
+    "latitude": 45.6370939,
+    "longitude": 8.907677
+  },
+  {
+    "street": "Via Grigna",
+    "number": "50",
+    "city": {
+      "name": "Gorla Minore",
+      "istat": "012079"
+    },
+    "latitude": 45.6399609,
+    "longitude": 8.9108847
+  },
+  {
+    "street": "Via Grigna",
+    "number": "4",
+    "city": {
+      "name": "Gorla Minore",
+      "istat": "012079"
+    },
+    "latitude": 45.6394862,
+    "longitude": 8.9101591
+  },
+  {
+    "street": "Via San Martino di Tours",
+    "number": "5",
+    "city": {
+      "name": "Gorla Minore",
+      "istat": "012079"
+    },
+    "latitude": 45.6432013,
+    "longitude": 8.8978019
+  },
+  {
+    "street": "Via Giuseppe Durini",
+    "number": "35",
+    "city": {
+      "name": "Gorla Minore",
+      "istat": "012079"
+    },
+    "latitude": 45.6435562,
+    "longitude": 8.8975085
+  },
+  {
+    "street": "Via Roma",
+    "number": "56",
+    "city": {
+      "name": "Gorla Minore",
+      "istat": "012079"
+    },
+    "latitude": 45.6430112,
+    "longitude": 8.897329
+  },
+  {
+    "street": "Via San Martino di Tours",
+    "number": "11",
+    "city": {
+      "name": "Gorla Minore",
+      "istat": "012079"
+    },
+    "latitude": 45.6431159,
+    "longitude": 8.897444
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "1",
+    "city": {
+      "name": "Gorla Minore",
+      "istat": "012079"
+    },
+    "latitude": 45.6372058,
+    "longitude": 8.8989865
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "29",
+    "city": {
+      "name": "Gorla Minore",
+      "istat": "012079"
+    },
+    "latitude": 45.6472238,
+    "longitude": 8.8984495
+  },
+  {
+    "street": "Via Pablo Neruda",
+    "number": "5",
+    "city": {
+      "name": "Gorla Minore",
+      "istat": "012079"
+    },
+    "latitude": 45.6483384,
+    "longitude": 8.9048749
+  },
+  {
+    "street": "Via San Martino di Tours",
+    "number": "6",
+    "city": {
+      "name": "Gorla Minore",
+      "istat": "012079"
+    },
+    "latitude": 45.6434717,
+    "longitude": 8.8984926
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "34",
+    "city": {
+      "name": "Gorla Minore",
+      "istat": "012079"
+    },
+    "latitude": 45.6406975,
+    "longitude": 8.8996433
+  },
+  {
+    "street": "Piazzale dello Sport",
+    "number": "10",
+    "city": {
+      "name": "Gorla Minore",
+      "istat": "012079"
+    },
+    "latitude": 45.6506707,
+    "longitude": 8.9056686
+  },
+  {
+    "street": "Via Ambrogio Colombo",
+    "number": "60",
+    "city": {
+      "name": "Gorla Minore",
+      "istat": "012079"
+    },
+    "latitude": 45.6377892,
+    "longitude": 8.9083007
+  },
+  {
+    "street": "Viale Vittorio Veneto",
+    "number": "2",
+    "city": {
+      "name": "Gorla Minore",
+      "istat": "012079"
+    },
+    "latitude": 45.6418617,
+    "longitude": 8.8988828
+  },
+  {
+    "street": "Via Roma",
+    "number": "83",
+    "city": {
+      "name": "Gorla Minore",
+      "istat": "012079"
+    },
+    "latitude": 45.642622,
+    "longitude": 8.8995139
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "5",
+    "city": {
+      "name": "Gorla Minore",
+      "istat": "012079"
+    },
+    "latitude": 45.6410225,
+    "longitude": 8.8986634
+  },
+  {
+    "street": "Via Olona",
+    "number": "snc",
+    "city": {
+      "name": "Gorla Minore",
+      "istat": "012079"
+    },
+    "latitude": 45.6407834,
+    "longitude": 8.898093
+  },
+  {
+    "street": "Via Don Lorenzo Milani",
+    "number": "snc",
+    "city": {
+      "name": "Gorla Minore",
+      "istat": "012079"
+    },
+    "latitude": 45.6444235,
+    "longitude": 8.9011765
+  },
+  {
+    "street": "Via Famiglia Terzaghi",
+    "number": "15",
+    "city": {
+      "name": "Gorla Minore",
+      "istat": "012079"
+    },
+    "latitude": 45.6442408,
+    "longitude": 8.9005903
+  },
+  {
+    "street": "Via Ambrogio Colombo",
+    "number": "snc",
+    "city": {
+      "name": "Gorla Minore",
+      "istat": "012079"
+    },
+    "latitude": 45.6406611,
+    "longitude": 8.9155101
+  },
+  {
+    "street": "Via Circonvallazione",
+    "number": "1",
+    "city": {
+      "name": "Gorla Minore",
+      "istat": "012079"
+    },
+    "latitude": 45.6389025,
+    "longitude": 8.9073398
+  },
+  {
+    "street": "Via Roma",
+    "number": "21",
+    "city": {
+      "name": "Gorla Minore",
+      "istat": "012079"
+    },
+    "latitude": 45.6444025,
+    "longitude": 8.8993104
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "25",
+    "city": {
+      "name": "Gorla Minore",
+      "istat": "012079"
+    },
+    "latitude": 45.6409841,
+    "longitude": 8.899889
+  }
+]

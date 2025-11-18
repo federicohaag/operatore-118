@@ -1,0 +1,32 @@
+[
+  {
+    "street": "Via Giuseppe Cerini",
+    "number": "2",
+    "city": {
+      "name": "Brenta",
+      "istat": "012019"
+    },
+    "latitude": 45.8948476,
+    "longitude": 8.6848736
+  },
+  {
+    "street": "Via Valcuvia",
+    "number": "5",
+    "city": {
+      "name": "Brenta",
+      "istat": "012019"
+    },
+    "latitude": 45.8937092,
+    "longitude": 8.682174
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "3",
+    "city": {
+      "name": "Brenta",
+      "istat": "012019"
+    },
+    "latitude": 45.8944783,
+    "longitude": 8.6832789
+  }
+]

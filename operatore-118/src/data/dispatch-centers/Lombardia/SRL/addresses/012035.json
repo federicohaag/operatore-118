@@ -1,0 +1,122 @@
+[
+  {
+    "street": "Via Fratelli Rosselli",
+    "number": "41",
+    "city": {
+      "name": "Caronno Varesino",
+      "istat": "012035"
+    },
+    "latitude": 45.7368383,
+    "longitude": 8.8312209
+  },
+  {
+    "street": "Piazza Giuseppe Mazzini",
+    "number": "2",
+    "city": {
+      "name": "Caronno Varesino",
+      "istat": "012035"
+    },
+    "latitude": 45.7387897,
+    "longitude": 8.8310143
+  },
+  {
+    "street": "Via Pasubio",
+    "number": "6",
+    "city": {
+      "name": "Caronno Varesino",
+      "istat": "012035"
+    },
+    "latitude": 45.7378213,
+    "longitude": 8.8217433
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "21",
+    "city": {
+      "name": "Caronno Varesino",
+      "istat": "012035"
+    },
+    "latitude": 45.7376081,
+    "longitude": 8.8229198
+  },
+  {
+    "street": "Via Montello",
+    "number": "4",
+    "city": {
+      "name": "Caronno Varesino",
+      "istat": "012035"
+    },
+    "latitude": 45.7365715,
+    "longitude": 8.8330298
+  },
+  {
+    "street": "Via Montello",
+    "number": "1",
+    "city": {
+      "name": "Caronno Varesino",
+      "istat": "012035"
+    },
+    "latitude": 45.7371586,
+    "longitude": 8.8330297
+  },
+  {
+    "street": "Via Montello",
+    "number": "13",
+    "city": {
+      "name": "Caronno Varesino",
+      "istat": "012035"
+    },
+    "latitude": 45.7362503,
+    "longitude": 8.834476
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "4",
+    "city": {
+      "name": "Caronno Varesino",
+      "istat": "012035"
+    },
+    "latitude": 45.7394296,
+    "longitude": 8.8304335
+  },
+  {
+    "street": "Via Montello",
+    "number": "17",
+    "city": {
+      "name": "Caronno Varesino",
+      "istat": "012035"
+    },
+    "latitude": 45.7389341,
+    "longitude": 8.8470833
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "9",
+    "city": {
+      "name": "Caronno Varesino",
+      "istat": "012035"
+    },
+    "latitude": 45.7403555,
+    "longitude": 8.8307661
+  },
+  {
+    "street": "Via Varese",
+    "number": "23",
+    "city": {
+      "name": "Caronno Varesino",
+      "istat": "012035"
+    },
+    "latitude": 45.7387847,
+    "longitude": 8.8375819
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "6",
+    "city": {
+      "name": "Caronno Varesino",
+      "istat": "012035"
+    },
+    "latitude": 45.7415594,
+    "longitude": 8.83395
+  }
+]

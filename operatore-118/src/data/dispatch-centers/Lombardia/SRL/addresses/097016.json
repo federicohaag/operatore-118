@@ -1,0 +1,332 @@
+[
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "63",
+    "city": {
+      "name": "Casatenovo",
+      "istat": "097016"
+    },
+    "latitude": 45.663333,
+    "longitude": 9.315307
+  },
+  {
+    "street": "Via della Resistenza",
+    "number": "12",
+    "city": {
+      "name": "Casatenovo",
+      "istat": "097016"
+    },
+    "latitude": 45.674669,
+    "longitude": 9.352876
+  },
+  {
+    "street": "Viale Giuseppe Parini",
+    "number": "43",
+    "city": {
+      "name": "Casatenovo",
+      "istat": "097016"
+    },
+    "latitude": 45.7029865,
+    "longitude": 9.3048937
+  },
+  {
+    "street": "Via Goffredo Mameli",
+    "number": "1",
+    "city": {
+      "name": "Casatenovo",
+      "istat": "097016"
+    },
+    "latitude": 45.6970335,
+    "longitude": 9.3116948
+  },
+  {
+    "street": "Via Roma",
+    "number": "67/c",
+    "city": {
+      "name": "Casatenovo",
+      "istat": "097016"
+    },
+    "latitude": 45.6820595,
+    "longitude": 9.3174264
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "15e",
+    "city": {
+      "name": "Casatenovo",
+      "istat": "097016"
+    },
+    "latitude": 45.6977685,
+    "longitude": 9.3136838
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "1",
+    "city": {
+      "name": "Casatenovo",
+      "istat": "097016"
+    },
+    "latitude": 45.6973788,
+    "longitude": 9.3124486
+  },
+  {
+    "street": "Via Roma",
+    "number": "94",
+    "city": {
+      "name": "Casatenovo",
+      "istat": "097016"
+    },
+    "latitude": 45.6805439,
+    "longitude": 9.3168408
+  },
+  {
+    "street": "Via Generale Giuseppe Sirtori",
+    "number": "1",
+    "city": {
+      "name": "Casatenovo",
+      "istat": "097016"
+    },
+    "latitude": 45.6997611,
+    "longitude": 9.3117912
+  },
+  {
+    "street": "Via Nino Bixio",
+    "number": "25",
+    "city": {
+      "name": "Casatenovo",
+      "istat": "097016"
+    },
+    "latitude": 45.7044891,
+    "longitude": 9.3079429
+  },
+  {
+    "street": "Via Nino Bixio",
+    "number": "8",
+    "city": {
+      "name": "Casatenovo",
+      "istat": "097016"
+    },
+    "latitude": 45.7041813,
+    "longitude": 9.309708
+  },
+  {
+    "street": "Via Nino Bixio",
+    "number": "10",
+    "city": {
+      "name": "Casatenovo",
+      "istat": "097016"
+    },
+    "latitude": 45.70444,
+    "longitude": 9.3095749
+  },
+  {
+    "street": "Via Nino Bixio",
+    "number": "17",
+    "city": {
+      "name": "Casatenovo",
+      "istat": "097016"
+    },
+    "latitude": 45.7043123,
+    "longitude": 9.3086586
+  },
+  {
+    "street": "Via Nino Bixio",
+    "number": "19",
+    "city": {
+      "name": "Casatenovo",
+      "istat": "097016"
+    },
+    "latitude": 45.7039586,
+    "longitude": 9.3085997
+  },
+  {
+    "street": "Via Nino Bixio",
+    "number": "21",
+    "city": {
+      "name": "Casatenovo",
+      "istat": "097016"
+    },
+    "latitude": 45.7040117,
+    "longitude": 9.3080303
+  },
+  {
+    "street": "Via Nino Bixio",
+    "number": "27",
+    "city": {
+      "name": "Casatenovo",
+      "istat": "097016"
+    },
+    "latitude": 45.7045157,
+    "longitude": 9.3083134
+  },
+  {
+    "street": "Via Nino Bixio",
+    "number": "23",
+    "city": {
+      "name": "Casatenovo",
+      "istat": "097016"
+    },
+    "latitude": 45.7042295,
+    "longitude": 9.3078137
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "42",
+    "city": {
+      "name": "Casatenovo",
+      "istat": "097016"
+    },
+    "latitude": 45.6805133,
+    "longitude": 9.3370836
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "24",
+    "city": {
+      "name": "Casatenovo",
+      "istat": "097016"
+    },
+    "latitude": 45.6803361,
+    "longitude": 9.3436115
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "67",
+    "city": {
+      "name": "Casatenovo",
+      "istat": "097016"
+    },
+    "latitude": 45.6743191,
+    "longitude": 9.3520962
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "11",
+    "city": {
+      "name": "Casatenovo",
+      "istat": "097016"
+    },
+    "latitude": 45.6809169,
+    "longitude": 9.342568
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "18",
+    "city": {
+      "name": "Casatenovo",
+      "istat": "097016"
+    },
+    "latitude": 45.6807628,
+    "longitude": 9.3426171
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "16",
+    "city": {
+      "name": "Casatenovo",
+      "istat": "097016"
+    },
+    "latitude": 45.6808198,
+    "longitude": 9.3423952
+  },
+  {
+    "street": "Via San Gaetano",
+    "number": "76",
+    "city": {
+      "name": "Casatenovo",
+      "istat": "097016"
+    },
+    "latitude": 45.6777768,
+    "longitude": 9.3321914
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "22",
+    "city": {
+      "name": "Casatenovo",
+      "istat": "097016"
+    },
+    "latitude": 45.6736749,
+    "longitude": 9.3160934
+  },
+  {
+    "street": "Via Roma",
+    "number": "73",
+    "city": {
+      "name": "Casatenovo",
+      "istat": "097016"
+    },
+    "latitude": 45.6770547,
+    "longitude": 9.317914
+  },
+  {
+    "street": "Via Sant'Anna",
+    "number": "5",
+    "city": {
+      "name": "Casatenovo",
+      "istat": "097016"
+    },
+    "latitude": 45.6732471,
+    "longitude": 9.3215926
+  },
+  {
+    "street": "Via G. B. Vico",
+    "number": "4",
+    "city": {
+      "name": "Casatenovo",
+      "istat": "097016"
+    },
+    "latitude": 45.7014702,
+    "longitude": 9.3043833
+  },
+  {
+    "street": "Via Roma",
+    "number": "17",
+    "city": {
+      "name": "Casatenovo",
+      "istat": "097016"
+    },
+    "latitude": 45.6950827,
+    "longitude": 9.3131663
+  },
+  {
+    "street": "Via San Giacomo",
+    "number": "20",
+    "city": {
+      "name": "Casatenovo",
+      "istat": "097016"
+    },
+    "latitude": 45.6935286,
+    "longitude": 9.3181442
+  },
+  {
+    "street": "Via San Gaetano",
+    "number": "65",
+    "city": {
+      "name": "Casatenovo",
+      "istat": "097016"
+    },
+    "latitude": 45.6775662,
+    "longitude": 9.330297
+  },
+  {
+    "street": "Via don Lorenzo Milani",
+    "number": "28",
+    "city": {
+      "name": "Casatenovo",
+      "istat": "097016"
+    },
+    "latitude": 45.6883437,
+    "longitude": 9.3166407
+  },
+  {
+    "street": "Via della Misericordia",
+    "number": "4",
+    "city": {
+      "name": "Casatenovo",
+      "istat": "097016"
+    },
+    "latitude": 45.6995874,
+    "longitude": 9.3141902
+  }
+]

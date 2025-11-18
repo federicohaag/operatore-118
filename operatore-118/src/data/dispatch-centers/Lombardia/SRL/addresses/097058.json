@@ -1,0 +1,172 @@
+[
+  {
+    "street": "Strada Provinciale N. 72",
+    "number": "3",
+    "city": {
+      "name": "Olgiate Molgora",
+      "istat": "097058"
+    },
+    "latitude": 45.7389849,
+    "longitude": 9.4199939
+  },
+  {
+    "street": "Via del Calendone",
+    "number": "42",
+    "city": {
+      "name": "Olgiate Molgora",
+      "istat": "097058"
+    },
+    "latitude": 45.7196757,
+    "longitude": 9.4025435
+  },
+  {
+    "street": "Via del Calendone",
+    "number": "44",
+    "city": {
+      "name": "Olgiate Molgora",
+      "istat": "097058"
+    },
+    "latitude": 45.7197029,
+    "longitude": 9.4025462
+  },
+  {
+    "street": "Via del Calendone",
+    "number": "50",
+    "city": {
+      "name": "Olgiate Molgora",
+      "istat": "097058"
+    },
+    "latitude": 45.7199983,
+    "longitude": 9.4025772
+  },
+  {
+    "street": "Via Fabbricone",
+    "number": "21",
+    "city": {
+      "name": "Olgiate Molgora",
+      "istat": "097058"
+    },
+    "latitude": 45.7307703,
+    "longitude": 9.4034869
+  },
+  {
+    "street": "Via Panoramica",
+    "number": "18",
+    "city": {
+      "name": "Olgiate Molgora",
+      "istat": "097058"
+    },
+    "latitude": 45.7270341,
+    "longitude": 9.3977845
+  },
+  {
+    "street": "Via Como",
+    "number": "37",
+    "city": {
+      "name": "Olgiate Molgora",
+      "istat": "097058"
+    },
+    "latitude": 45.7312637,
+    "longitude": 9.3895907
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "3",
+    "city": {
+      "name": "Olgiate Molgora",
+      "istat": "097058"
+    },
+    "latitude": 45.7202177,
+    "longitude": 9.4002939
+  },
+  {
+    "street": "Via Como",
+    "number": "54",
+    "city": {
+      "name": "Olgiate Molgora",
+      "istat": "097058"
+    },
+    "latitude": 45.7318945,
+    "longitude": 9.3886646
+  },
+  {
+    "street": "Via Sommi Picenardi",
+    "number": "3",
+    "city": {
+      "name": "Olgiate Molgora",
+      "istat": "097058"
+    },
+    "latitude": 45.7297162,
+    "longitude": 9.4019654
+  },
+  {
+    "street": "Via alle Scuole",
+    "number": "21",
+    "city": {
+      "name": "Olgiate Molgora",
+      "istat": "097058"
+    },
+    "latitude": 45.7390426,
+    "longitude": 9.4030153
+  },
+  {
+    "street": "Via Carlo Collodi",
+    "number": "10",
+    "city": {
+      "name": "Olgiate Molgora",
+      "istat": "097058"
+    },
+    "latitude": 45.7378552,
+    "longitude": 9.4155515
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "49/e",
+    "city": {
+      "name": "Olgiate Molgora",
+      "istat": "097058"
+    },
+    "latitude": 45.7367036,
+    "longitude": 9.4143695
+  },
+  {
+    "street": "Via Promessi Sposi",
+    "number": "6",
+    "city": {
+      "name": "Olgiate Molgora",
+      "istat": "097058"
+    },
+    "latitude": 45.7385448,
+    "longitude": 9.4098894
+  },
+  {
+    "street": "Via Borlengo",
+    "number": "8c",
+    "city": {
+      "name": "Olgiate Molgora",
+      "istat": "097058"
+    },
+    "latitude": 45.7341479,
+    "longitude": 9.4079602
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "4",
+    "city": {
+      "name": "Olgiate Molgora",
+      "istat": "097058"
+    },
+    "latitude": 45.7275035,
+    "longitude": 9.4029896
+  },
+  {
+    "street": "Via Promessi Sposi",
+    "number": "5",
+    "city": {
+      "name": "Olgiate Molgora",
+      "istat": "097058"
+    },
+    "latitude": 45.7390326,
+    "longitude": 9.4106599
+  }
+]

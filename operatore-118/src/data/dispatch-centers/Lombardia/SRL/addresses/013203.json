@@ -1,0 +1,82 @@
+[
+  {
+    "street": "Via Vecchia Regina",
+    "number": "17",
+    "city": {
+      "name": "Sala Comacina",
+      "istat": "013203"
+    },
+    "latitude": 45.9647689,
+    "longitude": 9.1655105
+  },
+  {
+    "street": "Strada statale 340 Regina",
+    "number": "53",
+    "city": {
+      "name": "Sala Comacina",
+      "istat": "013203"
+    },
+    "latitude": 45.9636646,
+    "longitude": 9.1674324
+  },
+  {
+    "street": "Via Statale",
+    "number": "14",
+    "city": {
+      "name": "Sala Comacina",
+      "istat": "013203"
+    },
+    "latitude": 45.9641251,
+    "longitude": 9.1668508
+  },
+  {
+    "street": "Via Stadale",
+    "number": "31",
+    "city": {
+      "name": "Sala Comacina",
+      "istat": "013203"
+    },
+    "latitude": 45.9618689,
+    "longitude": 9.1632599
+  },
+  {
+    "street": "Via Stadale",
+    "number": "4",
+    "city": {
+      "name": "Sala Comacina",
+      "istat": "013203"
+    },
+    "latitude": 45.9612421,
+    "longitude": 9.1627442
+  },
+  {
+    "street": "Via Vincenzo Puricelli",
+    "number": "4",
+    "city": {
+      "name": "Sala Comacina",
+      "istat": "013203"
+    },
+    "latitude": 45.9637492,
+    "longitude": 9.1670903
+  },
+  {
+    "street": "Strada statale 340 Regina",
+    "number": "16",
+    "city": {
+      "name": "Sala Comacina",
+      "istat": "013203"
+    },
+    "latitude": 45.9643197,
+    "longitude": 9.1669871
+  },
+  {
+    "street": "Piazza Leonardo Puricelli",
+    "number": "3",
+    "city": {
+      "name": "Sala Comacina",
+      "istat": "013203"
+    },
+    "latitude": 45.9658003,
+    "longitude": 9.1684448
+  }
+]

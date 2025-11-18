@@ -1,0 +1,72 @@
+[
+  {
+    "street": "Via della Deputazione",
+    "number": "78",
+    "city": {
+      "name": "Casargo",
+      "istat": "097015"
+    },
+    "latitude": 46.0325864,
+    "longitude": 9.3553529
+  },
+  {
+    "street": "Via Italia",
+    "number": "50",
+    "city": {
+      "name": "Casargo",
+      "istat": "097015"
+    },
+    "latitude": 46.040994,
+    "longitude": 9.3890981
+  },
+  {
+    "street": "Via Italia",
+    "number": "16",
+    "city": {
+      "name": "Casargo",
+      "istat": "097015"
+    },
+    "latitude": 46.039875,
+    "longitude": 9.3885118
+  },
+  {
+    "street": "Via Mulini",
+    "number": "14",
+    "city": {
+      "name": "Casargo",
+      "istat": "097015"
+    },
+    "latitude": 46.0332655,
+    "longitude": 9.3663216
+  },
+  {
+    "street": "Località Alpe Giumello",
+    "number": "15",
+    "city": {
+      "name": "Casargo",
+      "istat": "097015"
+    },
+    "latitude": 46.0449599,
+    "longitude": 9.3593034
+  },
+  {
+    "street": "Via al Pensionato",
+    "number": "1/A - 5",
+    "city": {
+      "name": "Casargo",
+      "istat": "097015"
+    },
+    "latitude": 46.0318581,
+    "longitude": 9.3560073
+  },
+  {
+    "street": "Via Roma",
+    "number": "35/A",
+    "city": {
+      "name": "Casargo",
+      "istat": "097015"
+    },
+    "latitude": 46.0349751,
+    "longitude": 9.3843048
+  }
+]

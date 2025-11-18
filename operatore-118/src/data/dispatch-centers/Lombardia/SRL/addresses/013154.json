@@ -1,0 +1,212 @@
+[
+  {
+    "street": "Via dell'Industria",
+    "number": "1",
+    "city": {
+      "name": "Montano Lucino",
+      "istat": "013154"
+    },
+    "latitude": 45.778222,
+    "longitude": 9.0440403
+  },
+  {
+    "street": "Via Varesina",
+    "number": "13a",
+    "city": {
+      "name": "Montano Lucino",
+      "istat": "013154"
+    },
+    "latitude": 45.7860349,
+    "longitude": 9.0432008
+  },
+  {
+    "street": "Via San Giorgio",
+    "number": "11",
+    "city": {
+      "name": "Montano Lucino",
+      "istat": "013154"
+    },
+    "latitude": 45.7859844,
+    "longitude": 9.0420394
+  },
+  {
+    "street": "Via Enzo Ratti",
+    "number": "1a",
+    "city": {
+      "name": "Montano Lucino",
+      "istat": "013154"
+    },
+    "latitude": 45.7862499,
+    "longitude": 9.0493313
+  },
+  {
+    "street": "Via Enzo Ratti",
+    "number": "2",
+    "city": {
+      "name": "Montano Lucino",
+      "istat": "013154"
+    },
+    "latitude": 45.7856979,
+    "longitude": 9.0488322
+  },
+  {
+    "street": "Via Enzo Ratti",
+    "number": "1",
+    "city": {
+      "name": "Montano Lucino",
+      "istat": "013154"
+    },
+    "latitude": 45.7854619,
+    "longitude": 9.0487921
+  },
+  {
+    "street": "Via Enzo Ratti",
+    "number": "12",
+    "city": {
+      "name": "Montano Lucino",
+      "istat": "013154"
+    },
+    "latitude": 45.7859939,
+    "longitude": 9.0489814
+  },
+  {
+    "street": "Via Fai",
+    "number": "3a",
+    "city": {
+      "name": "Montano Lucino",
+      "istat": "013154"
+    },
+    "latitude": 45.7891647,
+    "longitude": 9.0387507
+  },
+  {
+    "street": "Via Valtellina",
+    "number": "13",
+    "city": {
+      "name": "Montano Lucino",
+      "istat": "013154"
+    },
+    "latitude": 45.778074,
+    "longitude": 9.0476584
+  },
+  {
+    "street": "Via Varesina",
+    "number": "4",
+    "city": {
+      "name": "Montano Lucino",
+      "istat": "013154"
+    },
+    "latitude": 45.787174,
+    "longitude": 9.0445442
+  },
+  {
+    "street": "Via Valtellina",
+    "number": "16",
+    "city": {
+      "name": "Montano Lucino",
+      "istat": "013154"
+    },
+    "latitude": 45.7804417,
+    "longitude": 9.0424383
+  },
+  {
+    "street": "Via Valtellina",
+    "number": "14",
+    "city": {
+      "name": "Montano Lucino",
+      "istat": "013154"
+    },
+    "latitude": 45.7802809,
+    "longitude": 9.0430252
+  },
+  {
+    "street": "Via degli Alpini",
+    "number": "5",
+    "city": {
+      "name": "Montano Lucino",
+      "istat": "013154"
+    },
+    "latitude": 45.7871399,
+    "longitude": 9.0428598
+  },
+  {
+    "street": "Via dell'Industria",
+    "number": "6",
+    "city": {
+      "name": "Montano Lucino",
+      "istat": "013154"
+    },
+    "latitude": 45.7765754,
+    "longitude": 9.0436578
+  },
+  {
+    "street": "Via dell'Industria",
+    "number": "1a",
+    "city": {
+      "name": "Montano Lucino",
+      "istat": "013154"
+    },
+    "latitude": 45.7786934,
+    "longitude": 9.0435206
+  },
+  {
+    "street": "Via Valtellina",
+    "number": "17",
+    "city": {
+      "name": "Montano Lucino",
+      "istat": "013154"
+    },
+    "latitude": 45.7794342,
+    "longitude": 9.0454169
+  },
+  {
+    "street": "Via dell'Industria",
+    "number": "2",
+    "city": {
+      "name": "Montano Lucino",
+      "istat": "013154"
+    },
+    "latitude": 45.7782602,
+    "longitude": 9.0420006
+  },
+  {
+    "street": "Via Liveria",
+    "number": "7",
+    "city": {
+      "name": "Montano Lucino",
+      "istat": "013154"
+    },
+    "latitude": 45.7862678,
+    "longitude": 9.0394885
+  },
+  {
+    "street": "Via Ottone da Lucino",
+    "number": "12",
+    "city": {
+      "name": "Montano Lucino",
+      "istat": "013154"
+    },
+    "latitude": 45.7853632,
+    "longitude": 9.045045
+  },
+  {
+    "street": "Via Fai",
+    "number": "3",
+    "city": {
+      "name": "Montano Lucino",
+      "istat": "013154"
+    },
+    "latitude": 45.7890788,
+    "longitude": 9.0387686
+  },
+  {
+    "street": "Via Adda",
+    "number": "2a",
+    "city": {
+      "name": "Montano Lucino",
+      "istat": "013154"
+    },
+    "latitude": 45.7789855,
+    "longitude": 9.0405985
+  }
+]

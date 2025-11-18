@@ -1,0 +1,42 @@
+[
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "7",
+    "city": {
+      "name": "Binago",
+      "istat": "013023"
+    },
+    "latitude": 45.7840872,
+    "longitude": 8.9222753
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "10",
+    "city": {
+      "name": "Binago",
+      "istat": "013023"
+    },
+    "latitude": 45.7815656,
+    "longitude": 8.9208622
+  },
+  {
+    "street": "Via Casale Roccolo",
+    "number": "3",
+    "city": {
+      "name": "Binago",
+      "istat": "013023"
+    },
+    "latitude": 45.7884144,
+    "longitude": 8.9158851
+  },
+  {
+    "street": "Via Como",
+    "number": "6",
+    "city": {
+      "name": "Binago",
+      "istat": "013023"
+    },
+    "latitude": 45.7862128,
+    "longitude": 8.9260807
+  }
+]

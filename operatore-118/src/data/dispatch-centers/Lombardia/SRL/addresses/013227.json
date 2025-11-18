@@ -1,0 +1,102 @@
+[
+  {
+    "street": "Strada Statale Varesina",
+    "number": "29/31",
+    "city": {
+      "name": "Turate",
+      "istat": "013227"
+    },
+    "latitude": 45.6479765,
+    "longitude": 8.9939057
+  },
+  {
+    "street": "Via Mascazza",
+    "number": "29",
+    "city": {
+      "name": "Turate",
+      "istat": "013227"
+    },
+    "latitude": 45.6646081,
+    "longitude": 8.988963
+  },
+  {
+    "street": "Viale Roma",
+    "number": "35",
+    "city": {
+      "name": "Turate",
+      "istat": "013227"
+    },
+    "latitude": 45.6509767,
+    "longitude": 9.0016031
+  },
+  {
+    "street": "Via Centro Industriale Europeo",
+    "number": "43",
+    "city": {
+      "name": "Turate",
+      "istat": "013227"
+    },
+    "latitude": 45.6468846,
+    "longitude": 9.0140355
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "20",
+    "city": {
+      "name": "Turate",
+      "istat": "013227"
+    },
+    "latitude": 45.6521666,
+    "longitude": 9.0039087
+  },
+  {
+    "street": "Via Tinelli",
+    "number": "8",
+    "city": {
+      "name": "Turate",
+      "istat": "013227"
+    },
+    "latitude": 45.6556566,
+    "longitude": 9.0001642
+  },
+  {
+    "street": "Via Ugo Foscolo",
+    "number": "14",
+    "city": {
+      "name": "Turate",
+      "istat": "013227"
+    },
+    "latitude": 45.6573738,
+    "longitude": 9.0011332
+  },
+  {
+    "street": "Via Ugo Foscolo",
+    "number": "16",
+    "city": {
+      "name": "Turate",
+      "istat": "013227"
+    },
+    "latitude": 45.6573232,
+    "longitude": 9.0010953
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "2",
+    "city": {
+      "name": "Turate",
+      "istat": "013227"
+    },
+    "latitude": 45.6546264,
+    "longitude": 9.018914
+  },
+  {
+    "street": "Via san Martino",
+    "number": "23",
+    "city": {
+      "name": "Turate",
+      "istat": "013227"
+    },
+    "latitude": 45.655031,
+    "longitude": 8.9955913
+  }
+]

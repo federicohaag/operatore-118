@@ -1,0 +1,712 @@
+[
+  {
+    "street": "Via Rocca",
+    "number": "14",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9589931,
+    "longitude": 9.4422135
+  },
+  {
+    "street": "Via Rocca",
+    "number": "15",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9590764,
+    "longitude": 9.4421644
+  },
+  {
+    "street": "Piazza San Pietro",
+    "number": "6",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9584665,
+    "longitude": 9.4432644
+  },
+  {
+    "street": "Via Bernardino Anesetti",
+    "number": "3",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9578418,
+    "longitude": 9.4431189
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "14",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9509282,
+    "longitude": 9.4422521
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "83",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9561438,
+    "longitude": 9.4493342
+  },
+  {
+    "street": "Via Cariole",
+    "number": "11",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9499413,
+    "longitude": 9.4460936
+  },
+  {
+    "street": "Via Cariole",
+    "number": "21",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9504504,
+    "longitude": 9.4471396
+  },
+  {
+    "street": "Via Cantellone",
+    "number": "4",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9491531,
+    "longitude": 9.443249
+  },
+  {
+    "street": "Via Cantellone",
+    "number": "10",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.948992,
+    "longitude": 9.443134
+  },
+  {
+    "street": "Via Cantellone",
+    "number": "2",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9494252,
+    "longitude": 9.4433079
+  },
+  {
+    "street": "Via Cantellone",
+    "number": "6",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9490648,
+    "longitude": 9.4431961
+  },
+  {
+    "street": "Via Cantellone",
+    "number": "1",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9492279,
+    "longitude": 9.443282
+  },
+  {
+    "street": "Via Cantellone",
+    "number": "14",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9489267,
+    "longitude": 9.4430474
+  },
+  {
+    "street": "Via Cantellone",
+    "number": "12",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9489511,
+    "longitude": 9.4430872
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "3",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9492954,
+    "longitude": 9.4436494
+  },
+  {
+    "street": "Via Centrale",
+    "number": "13",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9582262,
+    "longitude": 9.4424355
+  },
+  {
+    "street": "Via Centrale",
+    "number": "11",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9581873,
+    "longitude": 9.4424227
+  },
+  {
+    "street": "Via Centrale",
+    "number": "12",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9582641,
+    "longitude": 9.4424837
+  },
+  {
+    "street": "Via Centrale",
+    "number": "15",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9582762,
+    "longitude": 9.4424246
+  },
+  {
+    "street": "Via Centrale",
+    "number": "17",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.958322,
+    "longitude": 9.4424557
+  },
+  {
+    "street": "Via Rocca",
+    "number": "2",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9584696,
+    "longitude": 9.4424693
+  },
+  {
+    "street": "Via Rocca",
+    "number": "1",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9582768,
+    "longitude": 9.4423288
+  },
+  {
+    "street": "Via Rocca",
+    "number": "9",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9584029,
+    "longitude": 9.442326
+  },
+  {
+    "street": "Via Rocca",
+    "number": "11",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9584884,
+    "longitude": 9.4423317
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "67",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9517353,
+    "longitude": 9.4419886
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "88",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.951899,
+    "longitude": 9.4423849
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "102",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9521847,
+    "longitude": 9.4424229
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "87",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9524819,
+    "longitude": 9.4422881
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "60",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9505884,
+    "longitude": 9.4421785
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "2",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9506944,
+    "longitude": 9.4420689
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "1",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9506727,
+    "longitude": 9.4420775
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "8",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9509277,
+    "longitude": 9.4419762
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "9",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9509597,
+    "longitude": 9.4419643
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "10",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9509907,
+    "longitude": 9.4419536
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "62",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9511707,
+    "longitude": 9.4419779
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "66",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9512403,
+    "longitude": 9.4419887
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "59",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9514152,
+    "longitude": 9.4419046
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "3",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9510307,
+    "longitude": 9.442191
+  },
+  {
+    "street": "Via Baiedo",
+    "number": "17",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9549407,
+    "longitude": 9.4424394
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "89",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9562071,
+    "longitude": 9.4501474
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "85/89",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9562024,
+    "longitude": 9.4500404
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "36",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9588336,
+    "longitude": 9.4493656
+  },
+  {
+    "street": "Via Castagneti",
+    "number": "28",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9427047,
+    "longitude": 9.4459766
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "12",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9454793,
+    "longitude": 9.4509027
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "20",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9501622,
+    "longitude": 9.452139
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "91",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9568586,
+    "longitude": 9.4499636
+  },
+  {
+    "street": "Via Bernardino Anesetti",
+    "number": "5",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.957858,
+    "longitude": 9.443059
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "28",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9505535,
+    "longitude": 9.452161
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "38",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.958844,
+    "longitude": 9.4494155
+  },
+  {
+    "street": "Via per Introbio",
+    "number": "21",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9584185,
+    "longitude": 9.4472895
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "11/d",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.939055,
+    "longitude": 9.451464
+  },
+  {
+    "street": "Via alle villette",
+    "number": "18",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9514625,
+    "longitude": 9.4428265
+  },
+  {
+    "street": "Via Baiedo",
+    "number": "15/A",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9546705,
+    "longitude": 9.442429
+  },
+  {
+    "street": "Via Celestino Ferrario",
+    "number": "50",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9572027,
+    "longitude": 9.4439614
+  },
+  {
+    "street": "Via per Introbio",
+    "number": "3",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9562605,
+    "longitude": 9.4462315
+  },
+  {
+    "street": "Viale quattro novembre",
+    "number": "44",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9507115,
+    "longitude": 9.443313
+  },
+  {
+    "street": "Via Carreri",
+    "number": "6",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.950616,
+    "longitude": 9.445428
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "2",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9491947,
+    "longitude": 9.4440632
+  },
+  {
+    "street": "Via Moglia",
+    "number": "4",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9520185,
+    "longitude": 9.448974
+  },
+  {
+    "street": "Via Privata Le Primule",
+    "number": "7",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.957988,
+    "longitude": 9.444251
+  },
+  {
+    "street": "Via Nisella",
+    "number": "29",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.957568,
+    "longitude": 9.445012
+  },
+  {
+    "street": "Via Nisella",
+    "number": "33",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9575645,
+    "longitude": 9.4453235
+  },
+  {
+    "street": "Via Nisella",
+    "number": "35",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9575115,
+    "longitude": 9.4459305
+  },
+  {
+    "street": "Via Nisella",
+    "number": "31",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9578235,
+    "longitude": 9.4449565
+  },
+  {
+    "street": "Via per Introbio",
+    "number": "4",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.954294,
+    "longitude": 9.4462415
+  },
+  {
+    "street": "Via Bartolomeo Anesetti",
+    "number": "4",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9587925,
+    "longitude": 9.4432555
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "97",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.953196,
+    "longitude": 9.44204
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "25",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9498495,
+    "longitude": 9.4428075
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "30",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9503665,
+    "longitude": 9.4429205
+  },
+  {
+    "street": "Via Celestino Ferrario",
+    "number": "35",
+    "city": {
+      "name": "Pasturo",
+      "istat": "097065"
+    },
+    "latitude": 45.9571189,
+    "longitude": 9.4433948
+  }
+]

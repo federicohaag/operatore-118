@@ -1,0 +1,3842 @@
+[
+  {
+    "street": "Via Solferino",
+    "number": "11",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9955646,
+    "longitude": 9.3359946
+  },
+  {
+    "street": "Via Montefiori",
+    "number": "33",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9957106,
+    "longitude": 9.333362
+  },
+  {
+    "street": "Via Montefiori",
+    "number": "19",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9960085,
+    "longitude": 9.3321079
+  },
+  {
+    "street": "Via del Roccolo",
+    "number": "1",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9842821,
+    "longitude": 9.3171305
+  },
+  {
+    "street": "Piazza Italia",
+    "number": "5",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9953872,
+    "longitude": 9.3344532
+  },
+  {
+    "street": "Via Dante",
+    "number": "8",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.993367,
+    "longitude": 9.3320041
+  },
+  {
+    "street": "Via Dante",
+    "number": "6",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9933165,
+    "longitude": 9.3319191
+  },
+  {
+    "street": "Via Dante",
+    "number": "10",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9932791,
+    "longitude": 9.3321395
+  },
+  {
+    "street": "Via Dante",
+    "number": "12",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9932108,
+    "longitude": 9.3321173
+  },
+  {
+    "street": "Via Dante",
+    "number": "12bis",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9931684,
+    "longitude": 9.3321669
+  },
+  {
+    "street": "Via Dante",
+    "number": "14",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9931254,
+    "longitude": 9.3322182
+  },
+  {
+    "street": "Via Garibaldi",
+    "number": "12",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9933296,
+    "longitude": 9.3313059
+  },
+  {
+    "street": "Via Garibaldi",
+    "number": "10",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9932671,
+    "longitude": 9.3313468
+  },
+  {
+    "street": "Via Garibaldi",
+    "number": "8",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9932534,
+    "longitude": 9.331418
+  },
+  {
+    "street": "Via Roma",
+    "number": "10",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9928217,
+    "longitude": 9.3318808
+  },
+  {
+    "street": "Via Trieste",
+    "number": "14",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9924984,
+    "longitude": 9.3315242
+  },
+  {
+    "street": "Via Trieste",
+    "number": "10",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9924948,
+    "longitude": 9.3316491
+  },
+  {
+    "street": "Via Trieste",
+    "number": "8",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9925053,
+    "longitude": 9.3316654
+  },
+  {
+    "street": "Via Trieste",
+    "number": "6",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9925155,
+    "longitude": 9.3316824
+  },
+  {
+    "street": "Via Trieste",
+    "number": "6bis",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9925159,
+    "longitude": 9.3317121
+  },
+  {
+    "street": "Via Trieste",
+    "number": "6A",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.992496,
+    "longitude": 9.3317367
+  },
+  {
+    "street": "Piazza San Giovanni",
+    "number": "1",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9924597,
+    "longitude": 9.3324097
+  },
+  {
+    "street": "Piazza San Giovanni",
+    "number": "2",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9924253,
+    "longitude": 9.3324499
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "9",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9927778,
+    "longitude": 9.3320914
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "1",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9928601,
+    "longitude": 9.3322449
+  },
+  {
+    "street": "Via Dante",
+    "number": "15",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.992838,
+    "longitude": 9.3324988
+  },
+  {
+    "street": "Via Stoppani",
+    "number": "2",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9929023,
+    "longitude": 9.3326086
+  },
+  {
+    "street": "Via Dante",
+    "number": "17",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.992785,
+    "longitude": 9.3325564
+  },
+  {
+    "street": "Via Dante",
+    "number": "19",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.992742,
+    "longitude": 9.3326
+  },
+  {
+    "street": "Via Stoppani",
+    "number": "4",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9928493,
+    "longitude": 9.3326631
+  },
+  {
+    "street": "Via Stoppani",
+    "number": "4bis",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9928102,
+    "longitude": 9.3327093
+  },
+  {
+    "street": "Via Dante",
+    "number": "21",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.992709,
+    "longitude": 9.3326893
+  },
+  {
+    "street": "Via Stoppani",
+    "number": "6",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9927429,
+    "longitude": 9.3327747
+  },
+  {
+    "street": "Via Trento",
+    "number": "4",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9923723,
+    "longitude": 9.3327637
+  },
+  {
+    "street": "Via Trento",
+    "number": "2",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9924557,
+    "longitude": 9.3325934
+  },
+  {
+    "street": "Via al Castagneto",
+    "number": "11",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9926927,
+    "longitude": 9.3392575
+  },
+  {
+    "street": "Via al Castagneto",
+    "number": "15",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9927495,
+    "longitude": 9.3393952
+  },
+  {
+    "street": "Via alle Grigne",
+    "number": "50",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9951801,
+    "longitude": 9.3382918
+  },
+  {
+    "street": "Via Cainallo",
+    "number": "36",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9952232,
+    "longitude": 9.3384006
+  },
+  {
+    "street": "Via alle Grigne",
+    "number": "54",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9952535,
+    "longitude": 9.3380764
+  },
+  {
+    "street": "Via Cainallo",
+    "number": "34",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9953107,
+    "longitude": 9.338118
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "33",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9965997,
+    "longitude": 9.3344527
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "29",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9965526,
+    "longitude": 9.3345836
+  },
+  {
+    "street": "Via Cainallo",
+    "number": "8",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9965924,
+    "longitude": 9.3343816
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "8",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9961416,
+    "longitude": 9.33424
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "10",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.996133,
+    "longitude": 9.3342931
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "12",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9961271,
+    "longitude": 9.3343363
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "14",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9961555,
+    "longitude": 9.3343501
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "16",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9961854,
+    "longitude": 9.3343571
+  },
+  {
+    "street": "Via Montesanto",
+    "number": "2",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9970323,
+    "longitude": 9.3348668
+  },
+  {
+    "street": "Via Montesanto",
+    "number": "4",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.997091,
+    "longitude": 9.3348132
+  },
+  {
+    "street": "Via Montesanto",
+    "number": "6",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9972,
+    "longitude": 9.3347756
+  },
+  {
+    "street": "Via Montesanto",
+    "number": "8",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.997241,
+    "longitude": 9.334718
+  },
+  {
+    "street": "Piazza Armando Diaz",
+    "number": "14",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9969842,
+    "longitude": 9.3343416
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "5",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9969906,
+    "longitude": 9.3344433
+  },
+  {
+    "street": "Via Sant'Antonio",
+    "number": "12",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9968761,
+    "longitude": 9.334471
+  },
+  {
+    "street": "Via Sant'Antonio",
+    "number": "8",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9967937,
+    "longitude": 9.3346959
+  },
+  {
+    "street": "Via Cainallo",
+    "number": "13",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9968172,
+    "longitude": 9.3348145
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "12",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9970377,
+    "longitude": 9.334736
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "7",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9971961,
+    "longitude": 9.3345157
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "6",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9971425,
+    "longitude": 9.3345265
+  },
+  {
+    "street": "Via Montesanto",
+    "number": "15",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9971971,
+    "longitude": 9.3346143
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "25",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9963613,
+    "longitude": 9.3347776
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "23",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9963089,
+    "longitude": 9.3348284
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "21A",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9962842,
+    "longitude": 9.33487
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "28",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9963784,
+    "longitude": 9.3350949
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "32",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9958649,
+    "longitude": 9.3349106
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "34",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9958967,
+    "longitude": 9.3349706
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "36",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9959313,
+    "longitude": 9.3350123
+  },
+  {
+    "street": "Viale Adamello",
+    "number": "29",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9937016,
+    "longitude": 9.3314228
+  },
+  {
+    "street": "Viale Adamello",
+    "number": "31",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9937016,
+    "longitude": 9.3314777
+  },
+  {
+    "street": "Viale Adamello",
+    "number": "33",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9937016,
+    "longitude": 9.3315821
+  },
+  {
+    "street": "Via alle Grigne",
+    "number": "2",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9951435,
+    "longitude": 9.3359327
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "10",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9949334,
+    "longitude": 9.3351137
+  },
+  {
+    "street": "Via dell'Artigianato",
+    "number": "2",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9873701,
+    "longitude": 9.3336715
+  },
+  {
+    "street": "Via dell'Artigianato",
+    "number": "4",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9876413,
+    "longitude": 9.3334825
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "6",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9947551,
+    "longitude": 9.3340796
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "8",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9948834,
+    "longitude": 9.3349335
+  },
+  {
+    "street": "Via Montefiori",
+    "number": "21",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9957749,
+    "longitude": 9.3322512
+  },
+  {
+    "street": "Via alle Scuole",
+    "number": "4",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9954828,
+    "longitude": 9.3319108
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "3",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9947671,
+    "longitude": 9.3337112
+  },
+  {
+    "street": "Via Don Carlo Gnocchi",
+    "number": "34",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9922488,
+    "longitude": 9.3288994
+  },
+  {
+    "street": "Via Don Carlo Gnocchi",
+    "number": "36",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9922274,
+    "longitude": 9.3288162
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "26",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9963663,
+    "longitude": 9.3348384
+  },
+  {
+    "street": "Via Montefiori",
+    "number": "16",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9956225,
+    "longitude": 9.3331283
+  },
+  {
+    "street": "Via Montefiori",
+    "number": "18",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9956024,
+    "longitude": 9.3332945
+  },
+  {
+    "street": "Via Montefiori",
+    "number": "20",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9955916,
+    "longitude": 9.3333403
+  },
+  {
+    "street": "Via Agueglio",
+    "number": "1",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9950362,
+    "longitude": 9.3331484
+  },
+  {
+    "street": "Strada Provinciale 65 di Esino",
+    "number": "38",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9943997,
+    "longitude": 9.3329997
+  },
+  {
+    "street": "Via Tommaso Grossi",
+    "number": "27",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9957965,
+    "longitude": 9.3326285
+  },
+  {
+    "street": "Via Ortanella",
+    "number": "4",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9928495,
+    "longitude": 9.3344399
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "5",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9931463,
+    "longitude": 9.3330831
+  },
+  {
+    "street": "Via Dante",
+    "number": "34",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9923936,
+    "longitude": 9.3331475
+  },
+  {
+    "street": "Via 25 Aprile",
+    "number": "38",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.994287,
+    "longitude": 9.3331064
+  },
+  {
+    "street": "Viale Adamello",
+    "number": "15",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9932183,
+    "longitude": 9.3305277
+  },
+  {
+    "street": "via alle Grigne",
+    "number": "29",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9951154,
+    "longitude": 9.3375926
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "1",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.994759,
+    "longitude": 9.3332964
+  },
+  {
+    "street": "Via Agueglio",
+    "number": "2",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9953045,
+    "longitude": 9.3334609
+  },
+  {
+    "street": "Via Montefiori",
+    "number": "1",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9946884,
+    "longitude": 9.3328393
+  },
+  {
+    "street": "Via Montefiori",
+    "number": "4",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9948909,
+    "longitude": 9.3328094
+  },
+  {
+    "street": "Via Montefiori",
+    "number": "5",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9948178,
+    "longitude": 9.3325579
+  },
+  {
+    "street": "Via Montefiori",
+    "number": "7",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9949242,
+    "longitude": 9.3324066
+  },
+  {
+    "street": "Via Montefiori",
+    "number": "9",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9947858,
+    "longitude": 9.3322376
+  },
+  {
+    "street": "Via Montefiori",
+    "number": "11",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9948788,
+    "longitude": 9.3320987
+  },
+  {
+    "street": "Via Montefiori",
+    "number": "12",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9956887,
+    "longitude": 9.3323627
+  },
+  {
+    "street": "Via Montefiori",
+    "number": "14",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9956398,
+    "longitude": 9.3327546
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "5",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9949766,
+    "longitude": 9.3343204
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "9",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.995015,
+    "longitude": 9.3347633
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "13",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9951754,
+    "longitude": 9.3345699
+  },
+  {
+    "street": "Via Montefiori",
+    "number": "26",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9953141,
+    "longitude": 9.3340792
+  },
+  {
+    "street": "Via Montefiori",
+    "number": "24",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9954393,
+    "longitude": 9.3337847
+  },
+  {
+    "street": "Via Montefiori",
+    "number": "22",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9954889,
+    "longitude": 9.3334691
+  },
+  {
+    "street": "Via al Castagneto",
+    "number": "22",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9927682,
+    "longitude": 9.3412308
+  },
+  {
+    "street": "Viale Adamello",
+    "number": "39",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9935394,
+    "longitude": 9.3331399
+  },
+  {
+    "street": "Viale Adamello",
+    "number": "25",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9937302,
+    "longitude": 9.331259
+  },
+  {
+    "street": "Viale Adamello",
+    "number": "23",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9937946,
+    "longitude": 9.3311253
+  },
+  {
+    "street": "viale Adamello",
+    "number": "30",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9934066,
+    "longitude": 9.3328888
+  },
+  {
+    "street": "Viale Adamello",
+    "number": "32",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9933577,
+    "longitude": 9.3330242
+  },
+  {
+    "street": "Via Agueglio",
+    "number": "11",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9954504,
+    "longitude": 9.3332129
+  },
+  {
+    "street": "Via Agueglio",
+    "number": "9",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9953892,
+    "longitude": 9.3331714
+  },
+  {
+    "street": "Via Montefiori",
+    "number": "6",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9949407,
+    "longitude": 9.3327149
+  },
+  {
+    "street": "Via Montefiori",
+    "number": "13",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9951566,
+    "longitude": 9.3323699
+  },
+  {
+    "street": "Via Montefiori",
+    "number": "15",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9952279,
+    "longitude": 9.3322871
+  },
+  {
+    "street": "Via alle Scuole",
+    "number": "1",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.995236,
+    "longitude": 9.3317153
+  },
+  {
+    "street": "Via Garibaldi",
+    "number": "3",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9934382,
+    "longitude": 9.3310868
+  },
+  {
+    "street": "Viale Adamello",
+    "number": "21",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9936579,
+    "longitude": 9.3309742
+  },
+  {
+    "street": "Viale Adamello",
+    "number": "19",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9934669,
+    "longitude": 9.3302074
+  },
+  {
+    "street": "viale Adamello",
+    "number": "17",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9932283,
+    "longitude": 9.3299136
+  },
+  {
+    "street": "viale Adamello",
+    "number": "15",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9931397,
+    "longitude": 9.3297729
+  },
+  {
+    "street": "viale Adamello",
+    "number": "13",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9931475,
+    "longitude": 9.3296585
+  },
+  {
+    "street": "viale Adamello",
+    "number": "11",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9931241,
+    "longitude": 9.329543
+  },
+  {
+    "street": "viale Adamello",
+    "number": "9",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9931218,
+    "longitude": 9.3293152
+  },
+  {
+    "street": "viale Adamello",
+    "number": "7",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9929173,
+    "longitude": 9.3289658
+  },
+  {
+    "street": "viale Adamello",
+    "number": "5",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9929844,
+    "longitude": 9.3286461
+  },
+  {
+    "street": "viale Adamello",
+    "number": "3",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9928098,
+    "longitude": 9.3285728
+  },
+  {
+    "street": "viale Adamello",
+    "number": "1",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9928327,
+    "longitude": 9.3283087
+  },
+  {
+    "street": "Via alle Grigne",
+    "number": "15",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9941694,
+    "longitude": 9.3365174
+  },
+  {
+    "street": "Via alle Grigne",
+    "number": "17",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9942408,
+    "longitude": 9.3366742
+  },
+  {
+    "street": "Via alle Grigne",
+    "number": "12",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9940625,
+    "longitude": 9.336886
+  },
+  {
+    "street": "Via alle Grigne",
+    "number": "14",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9942263,
+    "longitude": 9.3369878
+  },
+  {
+    "street": "Via alle Grigne",
+    "number": "16",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9943854,
+    "longitude": 9.337006
+  },
+  {
+    "street": "Via alle Grigne",
+    "number": "21",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9944864,
+    "longitude": 9.3367455
+  },
+  {
+    "street": "Via alle Grigne",
+    "number": "19",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9945359,
+    "longitude": 9.3365362
+  },
+  {
+    "street": "Via alle Grigne",
+    "number": "18",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9945324,
+    "longitude": 9.3369618
+  },
+  {
+    "street": "Via alle Grigne",
+    "number": "23",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9946501,
+    "longitude": 9.3367253
+  },
+  {
+    "street": "Via alle Grigne",
+    "number": "25",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9947756,
+    "longitude": 9.3367604
+  },
+  {
+    "street": "Via alle Grigne",
+    "number": "20",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9945827,
+    "longitude": 9.3371364
+  },
+  {
+    "street": "Via Solferino",
+    "number": "13",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.995521,
+    "longitude": 9.3362357
+  },
+  {
+    "street": "Via Don Carlo Gnocchi",
+    "number": "10",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9927307,
+    "longitude": 9.3301239
+  },
+  {
+    "street": "viale Adamello",
+    "number": "16",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9929135,
+    "longitude": 9.3299549
+  },
+  {
+    "street": "viale Adamello",
+    "number": "14",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9928592,
+    "longitude": 9.3297867
+  },
+  {
+    "street": "viale Adamello",
+    "number": "12",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9926987,
+    "longitude": 9.3296821
+  },
+  {
+    "street": "viale Adamello",
+    "number": "10",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9927485,
+    "longitude": 9.3294201
+  },
+  {
+    "street": "Viale Adamello",
+    "number": "8",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9927202,
+    "longitude": 9.3292525
+  },
+  {
+    "street": "viale Adamello",
+    "number": "8",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9926753,
+    "longitude": 9.3291219
+  },
+  {
+    "street": "viale Adamello",
+    "number": "6",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9926389,
+    "longitude": 9.3287828
+  },
+  {
+    "street": "Via Don Carlo Gnocchi",
+    "number": "44",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9922158,
+    "longitude": 9.3284146
+  },
+  {
+    "street": "viale Adamello",
+    "number": "4",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9926137,
+    "longitude": 9.3283589
+  },
+  {
+    "street": "viale Adamello",
+    "number": "2",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9926294,
+    "longitude": 9.3281483
+  },
+  {
+    "street": "Via Don Carlo Gnocchi",
+    "number": "11",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9925731,
+    "longitude": 9.3305153
+  },
+  {
+    "street": "Via Dante",
+    "number": "1",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.993545,
+    "longitude": 9.3320481
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "2",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9934042,
+    "longitude": 9.3325106
+  },
+  {
+    "street": "Via Dante",
+    "number": "3",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9934425,
+    "longitude": 9.3322238
+  },
+  {
+    "street": "Via Dante",
+    "number": "5",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.993356,
+    "longitude": 9.3322709
+  },
+  {
+    "street": "Via Dante",
+    "number": "2",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9934745,
+    "longitude": 9.3318787
+  },
+  {
+    "street": "Via Dante",
+    "number": "4",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9934286,
+    "longitude": 9.3319377
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "13",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9930049,
+    "longitude": 9.3336092
+  },
+  {
+    "street": "Via al Castagneto",
+    "number": "14",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9923275,
+    "longitude": 9.3392308
+  },
+  {
+    "street": "Via al Castagneto",
+    "number": "12",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9930176,
+    "longitude": 9.3384412
+  },
+  {
+    "street": "Via al Castagneto",
+    "number": "10",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9931737,
+    "longitude": 9.3383496
+  },
+  {
+    "street": "via alle Grigne",
+    "number": "38",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.994288,
+    "longitude": 9.3374399
+  },
+  {
+    "street": "via alle Grigne",
+    "number": "32",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9944727,
+    "longitude": 9.3374934
+  },
+  {
+    "street": "via alle Grigne",
+    "number": "30",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9944153,
+    "longitude": 9.3373769
+  },
+  {
+    "street": "via alle Grigne",
+    "number": "28",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9946635,
+    "longitude": 9.3374052
+  },
+  {
+    "street": "via alle Grigne",
+    "number": "36",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9943239,
+    "longitude": 9.3375863
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "16",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9951831,
+    "longitude": 9.3350506
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "14",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9951053,
+    "longitude": 9.3352881
+  },
+  {
+    "street": "via alle Grigne",
+    "number": "27",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9949921,
+    "longitude": 9.3369814
+  },
+  {
+    "street": "Via Montefiori",
+    "number": "10",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9953973,
+    "longitude": 9.3327568
+  },
+  {
+    "street": "Via Agueglio",
+    "number": "7",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9952367,
+    "longitude": 9.333171
+  },
+  {
+    "street": "Via Montefiori",
+    "number": "8",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9950938,
+    "longitude": 9.332699
+  },
+  {
+    "street": "Via Agueglio",
+    "number": "3",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9951265,
+    "longitude": 9.3331345
+  },
+  {
+    "street": "Via alle Scuole",
+    "number": "11",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9958683,
+    "longitude": 9.3311068
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "20",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9926646,
+    "longitude": 9.3334013
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "14",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9929205,
+    "longitude": 9.3330288
+  },
+  {
+    "street": "Via Montefiori",
+    "number": "23",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9958801,
+    "longitude": 9.3324783
+  },
+  {
+    "street": "Via Montefiori",
+    "number": "29",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9958527,
+    "longitude": 9.3330496
+  },
+  {
+    "street": "Via Montefiori",
+    "number": "35",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9957507,
+    "longitude": 9.3336427
+  },
+  {
+    "street": "Via alle Scuole",
+    "number": "7",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9963037,
+    "longitude": 9.331463
+  },
+  {
+    "street": "Via alle Scuole",
+    "number": "9/11",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9961839,
+    "longitude": 9.3315986
+  },
+  {
+    "street": "Via dei Ronchei",
+    "number": "33",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9963501,
+    "longitude": 9.3320629
+  },
+  {
+    "street": "Via dei Ronchei",
+    "number": "35",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.996493,
+    "longitude": 9.3318608
+  },
+  {
+    "street": "Via alle Scuole",
+    "number": "17",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9963215,
+    "longitude": 9.3311138
+  },
+  {
+    "street": "Via Tommaso Grossi",
+    "number": "15",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9964482,
+    "longitude": 9.3324098
+  },
+  {
+    "street": "Via dei Ronchei",
+    "number": "22",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9967012,
+    "longitude": 9.3324123
+  },
+  {
+    "street": "Via Tommaso Grossi",
+    "number": "21",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9966277,
+    "longitude": 9.3329876
+  },
+  {
+    "street": "Via Tommaso Grossi",
+    "number": "10",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.996394,
+    "longitude": 9.3327112
+  },
+  {
+    "street": "Via Tommaso Grossi",
+    "number": "12",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.996437,
+    "longitude": 9.3326772
+  },
+  {
+    "street": "Via Tommaso Grossi",
+    "number": "26",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9964506,
+    "longitude": 9.3329537
+  },
+  {
+    "street": "Via Agueglio",
+    "number": "24",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9978737,
+    "longitude": 9.3346461
+  },
+  {
+    "street": "Via Montefiori",
+    "number": "25",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9960157,
+    "longitude": 9.3327957
+  },
+  {
+    "street": "Via Tommaso Grossi",
+    "number": "5",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9961608,
+    "longitude": 9.3329495
+  },
+  {
+    "street": "Via Tommaso Grossi",
+    "number": "3",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9960467,
+    "longitude": 9.3331424
+  },
+  {
+    "street": "Via Agueglio",
+    "number": "17",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9959547,
+    "longitude": 9.3334553
+  },
+  {
+    "street": "Via Tommaso Grossi",
+    "number": "1",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9961464,
+    "longitude": 9.3334868
+  },
+  {
+    "street": "Via Agueglio",
+    "number": "6",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9959115,
+    "longitude": 9.333827
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "20",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9963297,
+    "longitude": 9.3339124
+  },
+  {
+    "street": "Via Tommaso Grossi",
+    "number": "6",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9965478,
+    "longitude": 9.3332213
+  },
+  {
+    "street": "via Tommaso Grossi",
+    "number": "13",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9964543,
+    "longitude": 9.3324995
+  },
+  {
+    "street": "Via Agueglio",
+    "number": "13",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9955265,
+    "longitude": 9.3333328
+  },
+  {
+    "street": "via Piazzonaga",
+    "number": "9",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9987317,
+    "longitude": 9.3400832
+  },
+  {
+    "street": "Via Montefiori",
+    "number": "43",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9955573,
+    "longitude": 9.3342112
+  },
+  {
+    "street": "Via Montefiori",
+    "number": "41",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9956135,
+    "longitude": 9.334062
+  },
+  {
+    "street": "Piazza Italia",
+    "number": "2",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9954875,
+    "longitude": 9.3347542
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "8",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9931682,
+    "longitude": 9.332796
+  },
+  {
+    "street": "Via Dante",
+    "number": "7",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9931874,
+    "longitude": 9.3322744
+  },
+  {
+    "street": "Viale Adamello",
+    "number": "20",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9933472,
+    "longitude": 9.3314607
+  },
+  {
+    "street": "Via Agueglio",
+    "number": "23",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9963925,
+    "longitude": 9.3335175
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "31",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9964571,
+    "longitude": 9.333794
+  },
+  {
+    "street": "Via Sant'Antonio",
+    "number": "7",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9968071,
+    "longitude": 9.3344771
+  },
+  {
+    "street": "Via Cainallo",
+    "number": "15bis",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9965349,
+    "longitude": 9.335512
+  },
+  {
+    "street": "Via Cainallo",
+    "number": "24",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9958565,
+    "longitude": 9.3366298
+  },
+  {
+    "street": "Via Cainallo",
+    "number": "17",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9961251,
+    "longitude": 9.3366153
+  },
+  {
+    "street": "Via Cainallo",
+    "number": "32",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9954273,
+    "longitude": 9.3373857
+  },
+  {
+    "street": "via alle Grigne",
+    "number": "48",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9950556,
+    "longitude": 9.338363
+  },
+  {
+    "street": "via alle Grigne",
+    "number": "46",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9949355,
+    "longitude": 9.3382649
+  },
+  {
+    "street": "via alle Grigne",
+    "number": "44",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9948625,
+    "longitude": 9.3382363
+  },
+  {
+    "street": "Via Cainallo",
+    "number": "44",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9947719,
+    "longitude": 9.3389926
+  },
+  {
+    "street": "Via Cainallo",
+    "number": "38",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9949942,
+    "longitude": 9.3387357
+  },
+  {
+    "street": "Via Cainallo",
+    "number": "27",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9952285,
+    "longitude": 9.3389275
+  },
+  {
+    "street": "via alle Grigne",
+    "number": "35",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9946024,
+    "longitude": 9.337817
+  },
+  {
+    "street": "Via Cainallo",
+    "number": "42",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9947893,
+    "longitude": 9.3385992
+  },
+  {
+    "street": "Via Cainallo",
+    "number": "40",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9948958,
+    "longitude": 9.3385983
+  },
+  {
+    "street": "Via Cainallo",
+    "number": "29",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9949856,
+    "longitude": 9.3395763
+  },
+  {
+    "street": "Via Cainallo",
+    "number": "17A",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9959604,
+    "longitude": 9.3369558
+  },
+  {
+    "street": "via alle Grigne",
+    "number": "41",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.994896,
+    "longitude": 9.3379839
+  },
+  {
+    "street": "via alle Grigne",
+    "number": "43",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9950259,
+    "longitude": 9.3380424
+  },
+  {
+    "street": "via alle Grigne",
+    "number": "31",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9948251,
+    "longitude": 9.3377608
+  },
+  {
+    "street": "via alle Grigne",
+    "number": "39",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.994479,
+    "longitude": 9.3380579
+  },
+  {
+    "street": "Via Solferino",
+    "number": "9",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9958064,
+    "longitude": 9.3357839
+  },
+  {
+    "street": "Via Solferino",
+    "number": "16",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9954084,
+    "longitude": 9.3359223
+  },
+  {
+    "street": "Via Solferino",
+    "number": "12 bis",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9955703,
+    "longitude": 9.3356268
+  },
+  {
+    "street": "Via Solferino",
+    "number": "12",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9957091,
+    "longitude": 9.3355652
+  },
+  {
+    "street": "Via Solferino",
+    "number": "10",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9958008,
+    "longitude": 9.3354364
+  },
+  {
+    "street": "Piazza Nasazzi",
+    "number": "1",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.995315,
+    "longitude": 9.3356308
+  },
+  {
+    "street": "Via 25 Aprile",
+    "number": "18",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9955246,
+    "longitude": 9.3353633
+  },
+  {
+    "street": "Via Montefiori",
+    "number": "37",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9956437,
+    "longitude": 9.3338594
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "20bis",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.995368,
+    "longitude": 9.3348965
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "18",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9963035,
+    "longitude": 9.3344117
+  },
+  {
+    "street": "Via Cainallo",
+    "number": "4",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9964747,
+    "longitude": 9.3340735
+  },
+  {
+    "street": "Via Cainallo",
+    "number": "2",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9964708,
+    "longitude": 9.333958
+  },
+  {
+    "street": "Via Cainallo",
+    "number": "6bis",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9964991,
+    "longitude": 9.3343049
+  },
+  {
+    "street": "Via al Castagneto",
+    "number": "3",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9934784,
+    "longitude": 9.3390914
+  },
+  {
+    "street": "Via al Castagneto",
+    "number": "5",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9930628,
+    "longitude": 9.3388498
+  },
+  {
+    "street": "Via al Castagneto",
+    "number": "7",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9930138,
+    "longitude": 9.3390967
+  },
+  {
+    "street": "Via al Castagneto",
+    "number": "9",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9928149,
+    "longitude": 9.3391999
+  },
+  {
+    "street": "Via al Castagneto",
+    "number": "21",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9925645,
+    "longitude": 9.3408013
+  },
+  {
+    "street": "Via al Castagneto",
+    "number": "23",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9933912,
+    "longitude": 9.3403579
+  },
+  {
+    "street": "Via al Castagneto",
+    "number": "24",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9934727,
+    "longitude": 9.3406166
+  },
+  {
+    "street": "Via al Castagneto",
+    "number": "20",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9926066,
+    "longitude": 9.3401087
+  },
+  {
+    "street": "Via al Castagneto",
+    "number": "18",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9925046,
+    "longitude": 9.340212
+  },
+  {
+    "street": "Via al Castagneto",
+    "number": "16",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9924379,
+    "longitude": 9.3400339
+  },
+  {
+    "street": "Via al Castagneto",
+    "number": "8",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9934601,
+    "longitude": 9.3384916
+  },
+  {
+    "street": "Via al Castagneto",
+    "number": "6",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9935494,
+    "longitude": 9.3385554
+  },
+  {
+    "street": "Via al Castagneto",
+    "number": "4",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9937489,
+    "longitude": 9.3385201
+  },
+  {
+    "street": "Via al Castagneto",
+    "number": "1",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9941514,
+    "longitude": 9.3389084
+  },
+  {
+    "street": "Via al Castagneto",
+    "number": "2",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9941459,
+    "longitude": 9.3385202
+  },
+  {
+    "street": "via alle Grigne",
+    "number": "26",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9948009,
+    "longitude": 9.3374478
+  },
+  {
+    "street": "via alle Grigne",
+    "number": "24",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.994882,
+    "longitude": 9.3373184
+  },
+  {
+    "street": "via alle Grigne",
+    "number": "22",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9947673,
+    "longitude": 9.3372514
+  },
+  {
+    "street": "Via Agueglio",
+    "number": "45",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9977624,
+    "longitude": 9.334309
+  },
+  {
+    "street": "via Montesanto",
+    "number": "14bis",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9975775,
+    "longitude": 9.3346103
+  },
+  {
+    "street": "via Montesanto",
+    "number": "14",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.997474,
+    "longitude": 9.3344748
+  },
+  {
+    "street": "Via Fiume",
+    "number": "10",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9971173,
+    "longitude": 9.3335189
+  },
+  {
+    "street": "Via Agueglio",
+    "number": "16",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9975651,
+    "longitude": 9.3343659
+  },
+  {
+    "street": "Via Agueglio",
+    "number": "18",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9976448,
+    "longitude": 9.3344818
+  },
+  {
+    "street": "via Montesanto",
+    "number": "10",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9972929,
+    "longitude": 9.3345815
+  },
+  {
+    "street": "Via Agueglio",
+    "number": "43",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9974033,
+    "longitude": 9.3340798
+  },
+  {
+    "street": "Via Agueglio",
+    "number": "41",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9973226,
+    "longitude": 9.334041
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "5",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9971161,
+    "longitude": 9.3338331
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "7",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9970978,
+    "longitude": 9.3337454
+  },
+  {
+    "street": "Via Fiume",
+    "number": "6",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9970455,
+    "longitude": 9.3336547
+  },
+  {
+    "street": "Via Fiume",
+    "number": "7",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9971248,
+    "longitude": 9.3333121
+  },
+  {
+    "street": "Via Fiume",
+    "number": "5",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9970649,
+    "longitude": 9.3334453
+  },
+  {
+    "street": "Via Fiume",
+    "number": "3",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9969425,
+    "longitude": 9.3336172
+  },
+  {
+    "street": "Via Fiume",
+    "number": "1bis",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9968341,
+    "longitude": 9.333776
+  },
+  {
+    "street": "Via Fiume",
+    "number": "1",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9968429,
+    "longitude": 9.3338995
+  },
+  {
+    "street": "Via Fiume",
+    "number": "2",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.99695,
+    "longitude": 9.3339272
+  },
+  {
+    "street": "Piazza Armando Diaz",
+    "number": "1",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9967838,
+    "longitude": 9.3341843
+  },
+  {
+    "street": "Piazza Armando Diaz",
+    "number": "2",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9968115,
+    "longitude": 9.3341004
+  },
+  {
+    "street": "Via Agueglio",
+    "number": "15",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9958243,
+    "longitude": 9.333409
+  },
+  {
+    "street": "Via Montefiori",
+    "number": "39",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9956294,
+    "longitude": 9.3339402
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "3",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9965167,
+    "longitude": 9.3348648
+  },
+  {
+    "street": "via XXV Aprile",
+    "number": "48",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9965426,
+    "longitude": 9.3347208
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "44",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9963528,
+    "longitude": 9.3349261
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "42",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9963077,
+    "longitude": 9.3349707
+  },
+  {
+    "street": "Via del Ponte",
+    "number": "1",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9962397,
+    "longitude": 9.3350494
+  },
+  {
+    "street": "Via del Ponte",
+    "number": "5",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9962578,
+    "longitude": 9.3351654
+  },
+  {
+    "street": "Via del Ponte",
+    "number": "3",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9961774,
+    "longitude": 9.3353396
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "30",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9964094,
+    "longitude": 9.335049
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "32",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.996376,
+    "longitude": 9.3352881
+  },
+  {
+    "street": "Via Solferino",
+    "number": "2",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9961969,
+    "longitude": 9.3349118
+  },
+  {
+    "street": "Via Solferino",
+    "number": "4",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9961365,
+    "longitude": 9.3350494
+  },
+  {
+    "street": "Via Solferino",
+    "number": "6",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9960808,
+    "longitude": 9.3351394
+  },
+  {
+    "street": "Via Solferino",
+    "number": "8",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.996027,
+    "longitude": 9.335235
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "38",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9960413,
+    "longitude": 9.3350366
+  },
+  {
+    "street": "Via Cainallo",
+    "number": "6",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9967542,
+    "longitude": 9.3348546
+  },
+  {
+    "street": "Via Cainallo",
+    "number": "10",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9967535,
+    "longitude": 9.3349434
+  },
+  {
+    "street": "Via Cainallo",
+    "number": "14",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9967037,
+    "longitude": 9.3350645
+  },
+  {
+    "street": "Via Cainallo",
+    "number": "16",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9966083,
+    "longitude": 9.3351803
+  },
+  {
+    "street": "Via Cainallo",
+    "number": "18",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9965399,
+    "longitude": 9.3352636
+  },
+  {
+    "street": "Via Cainallo",
+    "number": "20",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9964922,
+    "longitude": 9.3353442
+  },
+  {
+    "street": "Via Cainallo",
+    "number": "15",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9968409,
+    "longitude": 9.3348927
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "10",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9970554,
+    "longitude": 9.3345879
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "8",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9970672,
+    "longitude": 9.334341
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "7",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9970863,
+    "longitude": 9.3344781
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "5",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9972354,
+    "longitude": 9.3344572
+  },
+  {
+    "street": "via XXV Aprile",
+    "number": "37",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9966876,
+    "longitude": 9.334279
+  },
+  {
+    "street": "via XXV Aprile",
+    "number": "35",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9966537,
+    "longitude": 9.3343759
+  },
+  {
+    "street": "Via Sant'Antonio",
+    "number": "5",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9967556,
+    "longitude": 9.3345991
+  },
+  {
+    "street": "via XXV Aprile",
+    "number": "54",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9967482,
+    "longitude": 9.3344687
+  },
+  {
+    "street": "via XXV Aprile",
+    "number": "52",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9967034,
+    "longitude": 9.3344631
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "5",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9963893,
+    "longitude": 9.3343125
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "7",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9963826,
+    "longitude": 9.3344019
+  },
+  {
+    "street": "via XXV Aprile",
+    "number": "27",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.996468,
+    "longitude": 9.3346567
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "11",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9964229,
+    "longitude": 9.3345888
+  },
+  {
+    "street": "Via San Michele",
+    "number": "5",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9959423,
+    "longitude": 9.3346341
+  },
+  {
+    "street": "Via Montefiori",
+    "number": "45",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9955018,
+    "longitude": 9.3343768
+  },
+  {
+    "street": "Via Cainallo",
+    "number": "22bis",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9961881,
+    "longitude": 9.3361115
+  },
+  {
+    "street": "Via Cainallo",
+    "number": "22",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9962202,
+    "longitude": 9.3359598
+  },
+  {
+    "street": "Via Cainallo",
+    "number": "20bis",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.996368,
+    "longitude": 9.3356598
+  },
+  {
+    "street": "Via Solferino",
+    "number": "14",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9955102,
+    "longitude": 9.335833
+  },
+  {
+    "street": "via alle Grigne",
+    "number": "45",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9952472,
+    "longitude": 9.3377864
+  },
+  {
+    "street": "Via Cavour",
+    "number": "2",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9931182,
+    "longitude": 9.3316876
+  },
+  {
+    "street": "Via Cavour",
+    "number": "4",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9930796,
+    "longitude": 9.331645
+  },
+  {
+    "street": "Via Garibaldi",
+    "number": "2",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9931106,
+    "longitude": 9.3315264
+  },
+  {
+    "street": "Via Cavour",
+    "number": "6",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9930535,
+    "longitude": 9.3315377
+  },
+  {
+    "street": "Via Cavour",
+    "number": "5",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9929783,
+    "longitude": 9.3315912
+  },
+  {
+    "street": "via Mazzini",
+    "number": "2",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9928674,
+    "longitude": 9.3316171
+  },
+  {
+    "street": "via Roma",
+    "number": "4/6",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9929282,
+    "longitude": 9.3316742
+  },
+  {
+    "street": "Via Cavour",
+    "number": "3",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9930917,
+    "longitude": 9.3317949
+  },
+  {
+    "street": "via Roma",
+    "number": "5",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9930241,
+    "longitude": 9.3317982
+  },
+  {
+    "street": "via Roma",
+    "number": "14",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9929279,
+    "longitude": 9.3317853
+  },
+  {
+    "street": "via Roma",
+    "number": "12",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9928667,
+    "longitude": 9.3318417
+  },
+  {
+    "street": "via Roma",
+    "number": "7",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9928177,
+    "longitude": 9.3317676
+  },
+  {
+    "street": "Via Cardinal Ferrari",
+    "number": "4",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9926552,
+    "longitude": 9.3318452
+  },
+  {
+    "street": "Via Cardinal Ferrari",
+    "number": "6",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9925721,
+    "longitude": 9.3319295
+  },
+  {
+    "street": "Via Trieste",
+    "number": "12",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9924383,
+    "longitude": 9.3316502
+  },
+  {
+    "street": "Via Cardinal Ferrari",
+    "number": "1",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9925113,
+    "longitude": 9.3319073
+  },
+  {
+    "street": "Via Cardinal Ferrari",
+    "number": "9",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9922507,
+    "longitude": 9.3320054
+  },
+  {
+    "street": "Via Cardinal Ferrari",
+    "number": "15",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9924042,
+    "longitude": 9.3320857
+  },
+  {
+    "street": "Via Cardinal Ferrari",
+    "number": "13",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9925801,
+    "longitude": 9.3321575
+  },
+  {
+    "street": "Via Cardinal Ferrari",
+    "number": "11",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9926537,
+    "longitude": 9.3320408
+  },
+  {
+    "street": "Via Dante",
+    "number": "18",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9930001,
+    "longitude": 9.3322109
+  },
+  {
+    "street": "Via Dante",
+    "number": "20",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9929473,
+    "longitude": 9.3322554
+  },
+  {
+    "street": "Piazza San Giovanni",
+    "number": "3",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9924742,
+    "longitude": 9.3322749
+  },
+  {
+    "street": "Via Dante",
+    "number": "26",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9926967,
+    "longitude": 9.3325286
+  },
+  {
+    "street": "via Roma",
+    "number": "2",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9926744,
+    "longitude": 9.3323491
+  },
+  {
+    "street": "Via Dante",
+    "number": "24",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9928099,
+    "longitude": 9.3323867
+  },
+  {
+    "street": "Via Dante",
+    "number": "11",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9929956,
+    "longitude": 9.3323436
+  },
+  {
+    "street": "Via Dante",
+    "number": "13",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9929198,
+    "longitude": 9.3324607
+  },
+  {
+    "street": "Via Dante",
+    "number": "23",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9926679,
+    "longitude": 9.3327862
+  },
+  {
+    "street": "Via Dante",
+    "number": "25",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9926174,
+    "longitude": 9.3327874
+  },
+  {
+    "street": "Via Dante",
+    "number": "27",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9925965,
+    "longitude": 9.3328621
+  },
+  {
+    "street": "Via Dante",
+    "number": "29",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9925531,
+    "longitude": 9.3328898
+  },
+  {
+    "street": "Via Dante",
+    "number": "30",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9925224,
+    "longitude": 9.3327275
+  },
+  {
+    "street": "via Trento",
+    "number": "1",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9925045,
+    "longitude": 9.3326319
+  },
+  {
+    "street": "Via Dante",
+    "number": "32",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9924443,
+    "longitude": 9.3329253
+  },
+  {
+    "street": "Via Stoppani",
+    "number": "5",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.992706,
+    "longitude": 9.3329453
+  },
+  {
+    "street": "via Cavour",
+    "number": "6",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.993364,
+    "longitude": 9.3318395
+  },
+  {
+    "street": "via alle Grigne",
+    "number": "52",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9951886,
+    "longitude": 9.3381435
+  },
+  {
+    "street": "Via Agueglio",
+    "number": "12",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9964134,
+    "longitude": 9.3339483
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "29",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.996504,
+    "longitude": 9.3337129
+  },
+  {
+    "street": "Via Agueglio",
+    "number": "25",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9964748,
+    "longitude": 9.3335378
+  },
+  {
+    "street": "Via Agueglio",
+    "number": "27",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9965099,
+    "longitude": 9.333548
+  },
+  {
+    "street": "Via Tommaso Grossi",
+    "number": "32",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9965618,
+    "longitude": 9.3335063
+  },
+  {
+    "street": "Via Tommaso Grossi",
+    "number": "25",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9966796,
+    "longitude": 9.3333653
+  },
+  {
+    "street": "Via Agueglio",
+    "number": "10",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9963357,
+    "longitude": 9.3337971
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "6",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9961794,
+    "longitude": 9.3341956
+  },
+  {
+    "street": "via Tommaso Grossi",
+    "number": "9",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9960682,
+    "longitude": 9.3327459
+  },
+  {
+    "street": "Via Solferino",
+    "number": "2bis",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9961719,
+    "longitude": 9.3349676
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "20",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9952923,
+    "longitude": 9.3350106
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "11",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9950882,
+    "longitude": 9.3346592
+  },
+  {
+    "street": "Via Montefiori",
+    "number": "2",
+    "city": {
+      "name": "Esino Lario",
+      "istat": "097035"
+    },
+    "latitude": 45.9948061,
+    "longitude": 9.3329392
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "street": "Via Alessandro Volta",
+    "number": "90",
+    "city": {
+      "name": "Arosio",
+      "istat": "013012"
+    },
+    "latitude": 45.7268376,
+    "longitude": 9.2033846
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "34",
+    "city": {
+      "name": "Arosio",
+      "istat": "013012"
+    },
+    "latitude": 45.7208559,
+    "longitude": 9.2043098
+  },
+  {
+    "street": "Via Caio Plinio",
+    "number": "2",
+    "city": {
+      "name": "Arosio",
+      "istat": "013012"
+    },
+    "latitude": 45.7153332,
+    "longitude": 9.2016576
+  },
+  {
+    "street": "Via Monte San Primo",
+    "number": "1",
+    "city": {
+      "name": "Arosio",
+      "istat": "013012"
+    },
+    "latitude": 45.7191512,
+    "longitude": 9.2164603
+  },
+  {
+    "street": "Strada provinciale 41 Vallassina",
+    "number": "23",
+    "city": {
+      "name": "Arosio",
+      "istat": "013012"
+    },
+    "latitude": 45.7215073,
+    "longitude": 9.2152828
+  },
+  {
+    "street": "Strada provinciale 41 Vallassina",
+    "number": "14",
+    "city": {
+      "name": "Arosio",
+      "istat": "013012"
+    },
+    "latitude": 45.7190361,
+    "longitude": 9.2155443
+  },
+  {
+    "street": "Piazza Montello",
+    "number": "36",
+    "city": {
+      "name": "Arosio",
+      "istat": "013012"
+    },
+    "latitude": 45.7174787,
+    "longitude": 9.207398
+  },
+  {
+    "street": "Via Santa Maria Maddalena",
+    "number": "2",
+    "city": {
+      "name": "Arosio",
+      "istat": "013012"
+    },
+    "latitude": 45.7172857,
+    "longitude": 9.2076693
+  },
+  {
+    "street": "Piazza Montello",
+    "number": "8",
+    "city": {
+      "name": "Arosio",
+      "istat": "013012"
+    },
+    "latitude": 45.718039,
+    "longitude": 9.2075458
+  },
+  {
+    "street": "Via Santa Maria Maddalena",
+    "number": "50",
+    "city": {
+      "name": "Arosio",
+      "istat": "013012"
+    },
+    "latitude": 45.7160643,
+    "longitude": 9.2080006
+  },
+  {
+    "street": "Via Santa Maria Maddalena",
+    "number": "32",
+    "city": {
+      "name": "Arosio",
+      "istat": "013012"
+    },
+    "latitude": 45.7162017,
+    "longitude": 9.2079093
+  },
+  {
+    "street": "Via Santa Maria Maddalena",
+    "number": "30",
+    "city": {
+      "name": "Arosio",
+      "istat": "013012"
+    },
+    "latitude": 45.7162326,
+    "longitude": 9.2079039
+  },
+  {
+    "street": "Via Gianni Casati",
+    "number": "1",
+    "city": {
+      "name": "Arosio",
+      "istat": "013012"
+    },
+    "latitude": 45.7167405,
+    "longitude": 9.2104449
+  },
+  {
+    "street": "Strada provinciale 41 Vallassina",
+    "number": "26",
+    "city": {
+      "name": "Arosio",
+      "istat": "013012"
+    },
+    "latitude": 45.7204284,
+    "longitude": 9.215291
+  },
+  {
+    "street": "Via Valassina",
+    "number": "23",
+    "city": {
+      "name": "Arosio",
+      "istat": "013012"
+    },
+    "latitude": 45.7209467,
+    "longitude": 9.2152344
+  },
+  {
+    "street": "Via Valassina",
+    "number": "32",
+    "city": {
+      "name": "Arosio",
+      "istat": "013012"
+    },
+    "latitude": 45.7211167,
+    "longitude": 9.2149668
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "59",
+    "city": {
+      "name": "Arosio",
+      "istat": "013012"
+    },
+    "latitude": 45.7228319,
+    "longitude": 9.2036503
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "2",
+    "city": {
+      "name": "Arosio",
+      "istat": "013012"
+    },
+    "latitude": 45.7164048,
+    "longitude": 9.2049049
+  },
+  {
+    "street": "Via Artigiani",
+    "number": "5",
+    "city": {
+      "name": "Arosio",
+      "istat": "013012"
+    },
+    "latitude": 45.7157007,
+    "longitude": 9.2057865
+  },
+  {
+    "street": "Via Valassina",
+    "number": "24",
+    "city": {
+      "name": "Arosio",
+      "istat": "013012"
+    },
+    "latitude": 45.7201614,
+    "longitude": 9.2151395
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "15",
+    "city": {
+      "name": "Arosio",
+      "istat": "013012"
+    },
+    "latitude": 45.7146675,
+    "longitude": 9.2061205
+  },
+  {
+    "street": "Via Caio Plinio",
+    "number": "3",
+    "city": {
+      "name": "Arosio",
+      "istat": "013012"
+    },
+    "latitude": 45.7155634,
+    "longitude": 9.2012712
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "1",
+    "city": {
+      "name": "Arosio",
+      "istat": "013012"
+    },
+    "latitude": 45.7161138,
+    "longitude": 9.2048367
+  },
+  {
+    "street": "Via Michelangelo Buonarroti",
+    "number": "3",
+    "city": {
+      "name": "Arosio",
+      "istat": "013012"
+    },
+    "latitude": 45.7156374,
+    "longitude": 9.2089659
+  },
+  {
+    "street": "Via Papa Giovanni XXIII",
+    "number": "8",
+    "city": {
+      "name": "Arosio",
+      "istat": "013012"
+    },
+    "latitude": 45.7206084,
+    "longitude": 9.2122225
+  },
+  {
+    "street": "Via Gianni Casati",
+    "number": "3",
+    "city": {
+      "name": "Arosio",
+      "istat": "013012"
+    },
+    "latitude": 45.7165234,
+    "longitude": 9.2104582
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "39",
+    "city": {
+      "name": "Arosio",
+      "istat": "013012"
+    },
+    "latitude": 45.7144534,
+    "longitude": 9.2042084
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "35",
+    "city": {
+      "name": "Arosio",
+      "istat": "013012"
+    },
+    "latitude": 45.7145976,
+    "longitude": 9.2050024
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "3",
+    "city": {
+      "name": "Arosio",
+      "istat": "013012"
+    },
+    "latitude": 45.7169166,
+    "longitude": 9.2084121
+  },
+  {
+    "street": "Strada provinciale 41 Vallassina",
+    "number": "4",
+    "city": {
+      "name": "Arosio",
+      "istat": "013012"
+    },
+    "latitude": 45.7166715,
+    "longitude": 9.2147709
+  },
+  {
+    "street": "Via Don Sirtori",
+    "number": "2",
+    "city": {
+      "name": "Arosio",
+      "istat": "013012"
+    },
+    "latitude": 45.7181218,
+    "longitude": 9.2168354
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "64",
+    "city": {
+      "name": "Arosio",
+      "istat": "013012"
+    },
+    "latitude": 45.7241966,
+    "longitude": 9.2040847
+  },
+  {
+    "street": "Piazza Chiesa",
+    "number": "1",
+    "city": {
+      "name": "Arosio",
+      "istat": "013012"
+    },
+    "latitude": 45.7187849,
+    "longitude": 9.2106483
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "24",
+    "city": {
+      "name": "Arosio",
+      "istat": "013012"
+    },
+    "latitude": 45.7196037,
+    "longitude": 9.2039093
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "9",
+    "city": {
+      "name": "Arosio",
+      "istat": "013012"
+    },
+    "latitude": 45.7170077,
+    "longitude": 9.2036524
+  },
+  {
+    "street": "Via Perego",
+    "number": "1",
+    "city": {
+      "name": "Arosio",
+      "istat": "013012"
+    },
+    "latitude": 45.7324514,
+    "longitude": 9.2112155
+  }
+]

@@ -1,0 +1,432 @@
+[
+  {
+    "street": "Via Frazione Calozzo",
+    "number": "75",
+    "city": {
+      "name": "Pianello del Lario",
+      "istat": "013183"
+    },
+    "latitude": 46.1006638,
+    "longitude": 9.2782865
+  },
+  {
+    "street": "Via Tre Terre",
+    "number": "911",
+    "city": {
+      "name": "Pianello del Lario",
+      "istat": "013183"
+    },
+    "latitude": 46.1049639,
+    "longitude": 9.2699225
+  },
+  {
+    "street": "Via Regina",
+    "number": "1268",
+    "city": {
+      "name": "Pianello del Lario",
+      "istat": "013183"
+    },
+    "latitude": 46.1023611,
+    "longitude": 9.276824
+  },
+  {
+    "street": "Via Calozzo",
+    "number": "691",
+    "city": {
+      "name": "Pianello del Lario",
+      "istat": "013183"
+    },
+    "latitude": 46.0986464,
+    "longitude": 9.2759278
+  },
+  {
+    "street": "Via Regina",
+    "number": "1660A",
+    "city": {
+      "name": "Pianello del Lario",
+      "istat": "013183"
+    },
+    "latitude": 46.1058428,
+    "longitude": 9.2768344
+  },
+  {
+    "street": "Via Regina",
+    "number": "1660B",
+    "city": {
+      "name": "Pianello del Lario",
+      "istat": "013183"
+    },
+    "latitude": 46.1057687,
+    "longitude": 9.2769576
+  },
+  {
+    "street": "Via Bellera",
+    "number": "305",
+    "city": {
+      "name": "Pianello del Lario",
+      "istat": "013183"
+    },
+    "latitude": 46.107395,
+    "longitude": 9.2763505
+  },
+  {
+    "street": "Via Bellera",
+    "number": "280",
+    "city": {
+      "name": "Pianello del Lario",
+      "istat": "013183"
+    },
+    "latitude": 46.1071924,
+    "longitude": 9.2764187
+  },
+  {
+    "street": "Via Bellera",
+    "number": "279",
+    "city": {
+      "name": "Pianello del Lario",
+      "istat": "013183"
+    },
+    "latitude": 46.1071933,
+    "longitude": 9.2762047
+  },
+  {
+    "street": "Via Bellera",
+    "number": "263",
+    "city": {
+      "name": "Pianello del Lario",
+      "istat": "013183"
+    },
+    "latitude": 46.1070004,
+    "longitude": 9.2760634
+  },
+  {
+    "street": "Via Bellera",
+    "number": "247",
+    "city": {
+      "name": "Pianello del Lario",
+      "istat": "013183"
+    },
+    "latitude": 46.1068592,
+    "longitude": 9.2760551
+  },
+  {
+    "street": "Via Bellera",
+    "number": "238",
+    "city": {
+      "name": "Pianello del Lario",
+      "istat": "013183"
+    },
+    "latitude": 46.1068192,
+    "longitude": 9.2761973
+  },
+  {
+    "street": "Via Bellera",
+    "number": "233",
+    "city": {
+      "name": "Pianello del Lario",
+      "istat": "013183"
+    },
+    "latitude": 46.1067483,
+    "longitude": 9.2759845
+  },
+  {
+    "street": "Via Bellera",
+    "number": "198",
+    "city": {
+      "name": "Pianello del Lario",
+      "istat": "013183"
+    },
+    "latitude": 46.1064608,
+    "longitude": 9.2761983
+  },
+  {
+    "street": "Via Bellera",
+    "number": "178",
+    "city": {
+      "name": "Pianello del Lario",
+      "istat": "013183"
+    },
+    "latitude": 46.1062623,
+    "longitude": 9.2762191
+  },
+  {
+    "street": "Via Regina",
+    "number": "1762",
+    "city": {
+      "name": "Pianello del Lario",
+      "istat": "013183"
+    },
+    "latitude": 46.1064583,
+    "longitude": 9.276563
+  },
+  {
+    "street": "Via Regina",
+    "number": "1758",
+    "city": {
+      "name": "Pianello del Lario",
+      "istat": "013183"
+    },
+    "latitude": 46.1063069,
+    "longitude": 9.2767098
+  },
+  {
+    "street": "Via Bellera",
+    "number": "161",
+    "city": {
+      "name": "Pianello del Lario",
+      "istat": "013183"
+    },
+    "latitude": 46.1061437,
+    "longitude": 9.2760448
+  },
+  {
+    "street": "Via Bellera",
+    "number": "115",
+    "city": {
+      "name": "Pianello del Lario",
+      "istat": "013183"
+    },
+    "latitude": 46.1057866,
+    "longitude": 9.2759913
+  },
+  {
+    "street": "Via Bellera",
+    "number": "144",
+    "city": {
+      "name": "Pianello del Lario",
+      "istat": "013183"
+    },
+    "latitude": 46.1059328,
+    "longitude": 9.2762558
+  },
+  {
+    "street": "Via Regina",
+    "number": "1697",
+    "city": {
+      "name": "Pianello del Lario",
+      "istat": "013183"
+    },
+    "latitude": 46.1058931,
+    "longitude": 9.2765283
+  },
+  {
+    "street": "Via Bellera",
+    "number": "108",
+    "city": {
+      "name": "Pianello del Lario",
+      "istat": "013183"
+    },
+    "latitude": 46.1056976,
+    "longitude": 9.2763681
+  },
+  {
+    "street": "Via Regina",
+    "number": "1653",
+    "city": {
+      "name": "Pianello del Lario",
+      "istat": "013183"
+    },
+    "latitude": 46.1056373,
+    "longitude": 9.2767069
+  },
+  {
+    "street": "Via Bellera",
+    "number": "79",
+    "city": {
+      "name": "Pianello del Lario",
+      "istat": "013183"
+    },
+    "latitude": 46.1055571,
+    "longitude": 9.2759624
+  },
+  {
+    "street": "Via Regina",
+    "number": "1660A,1660B",
+    "city": {
+      "name": "Pianello del Lario",
+      "istat": "013183"
+    },
+    "latitude": 46.1058481,
+    "longitude": 9.2769241
+  },
+  {
+    "street": "Via Maggiana",
+    "number": "203",
+    "city": {
+      "name": "Pianello del Lario",
+      "istat": "013183"
+    },
+    "latitude": 46.1020679,
+    "longitude": 9.2715214
+  },
+  {
+    "street": "Via Calozzo",
+    "number": "84",
+    "city": {
+      "name": "Pianello del Lario",
+      "istat": "013183"
+    },
+    "latitude": 46.104073,
+    "longitude": 9.2762416
+  },
+  {
+    "street": "Via Calozzo",
+    "number": "118",
+    "city": {
+      "name": "Pianello del Lario",
+      "istat": "013183"
+    },
+    "latitude": 46.1037529,
+    "longitude": 9.2760057
+  },
+  {
+    "street": "Via al Porto Nuovo",
+    "number": "37",
+    "city": {
+      "name": "Pianello del Lario",
+      "istat": "013183"
+    },
+    "latitude": 46.1069145,
+    "longitude": 9.2770298
+  },
+  {
+    "street": "Via al Porto Nuovo",
+    "number": "57",
+    "city": {
+      "name": "Pianello del Lario",
+      "istat": "013183"
+    },
+    "latitude": 46.1068635,
+    "longitude": 9.2772882
+  },
+  {
+    "street": "Via al Porto Nuovo",
+    "number": "77",
+    "city": {
+      "name": "Pianello del Lario",
+      "istat": "013183"
+    },
+    "latitude": 46.1068474,
+    "longitude": 9.2775264
+  },
+  {
+    "street": "Via San Bernardino",
+    "number": "282",
+    "city": {
+      "name": "Pianello del Lario",
+      "istat": "013183"
+    },
+    "latitude": 46.0967875,
+    "longitude": 9.275155
+  },
+  {
+    "street": "Via Bellera",
+    "number": "84",
+    "city": {
+      "name": "Pianello del Lario",
+      "istat": "013183"
+    },
+    "latitude": 46.105469,
+    "longitude": 9.2763319
+  },
+  {
+    "street": "Via Regina",
+    "number": "1436",
+    "city": {
+      "name": "Pianello del Lario",
+      "istat": "013183"
+    },
+    "latitude": 46.103802,
+    "longitude": 9.2776908
+  },
+  {
+    "street": "Via Calozzo",
+    "number": "73",
+    "city": {
+      "name": "Pianello del Lario",
+      "istat": "013183"
+    },
+    "latitude": 46.1040862,
+    "longitude": 9.2764854
+  },
+  {
+    "street": "Via Calozzo",
+    "number": "63",
+    "city": {
+      "name": "Pianello del Lario",
+      "istat": "013183"
+    },
+    "latitude": 46.1041702,
+    "longitude": 9.2767142
+  },
+  {
+    "street": "Via Regina",
+    "number": "1033",
+    "city": {
+      "name": "Pianello del Lario",
+      "istat": "013183"
+    },
+    "latitude": 46.1004223,
+    "longitude": 9.2756353
+  },
+  {
+    "street": "Vicolo per la Latteria",
+    "number": "18",
+    "city": {
+      "name": "Pianello del Lario",
+      "istat": "013183"
+    },
+    "latitude": 46.101044,
+    "longitude": 9.2752063
+  },
+  {
+    "street": "Via Calozzo",
+    "number": "436",
+    "city": {
+      "name": "Pianello del Lario",
+      "istat": "013183"
+    },
+    "latitude": 46.10092,
+    "longitude": 9.2752135
+  },
+  {
+    "street": "Via Regina",
+    "number": "1079",
+    "city": {
+      "name": "Pianello del Lario",
+      "istat": "013183"
+    },
+    "latitude": 46.1009162,
+    "longitude": 9.2755198
+  },
+  {
+    "street": "Via Calozzo",
+    "number": "403",
+    "city": {
+      "name": "Pianello del Lario",
+      "istat": "013183"
+    },
+    "latitude": 46.1010885,
+    "longitude": 9.2755923
+  },
+  {
+    "street": "Via Calozzo",
+    "number": "401",
+    "city": {
+      "name": "Pianello del Lario",
+      "istat": "013183"
+    },
+    "latitude": 46.1012281,
+    "longitude": 9.2756389
+  },
+  {
+    "street": "Via Bellera",
+    "number": "319,325",
+    "city": {
+      "name": "Pianello del Lario",
+      "istat": "013183"
+    },
+    "latitude": 46.107564,
+    "longitude": 9.276496
+  }
+]

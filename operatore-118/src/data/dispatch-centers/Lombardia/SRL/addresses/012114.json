@@ -1,0 +1,372 @@
+[
+  {
+    "street": "Via Luino",
+    "number": "2",
+    "city": {
+      "name": "Porto Valtravaglia",
+      "istat": "012114"
+    },
+    "latitude": 45.9626846,
+    "longitude": 8.6838421
+  },
+  {
+    "street": "Piazza Imbarcadero",
+    "number": "2",
+    "city": {
+      "name": "Porto Valtravaglia",
+      "istat": "012114"
+    },
+    "latitude": 45.9624007,
+    "longitude": 8.6805364
+  },
+  {
+    "street": "Via Roma",
+    "number": "19",
+    "city": {
+      "name": "Porto Valtravaglia",
+      "istat": "012114"
+    },
+    "latitude": 45.9599457,
+    "longitude": 8.6787079
+  },
+  {
+    "street": "Via Roma",
+    "number": "66",
+    "city": {
+      "name": "Porto Valtravaglia",
+      "istat": "012114"
+    },
+    "latitude": 45.9607605,
+    "longitude": 8.680808
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "1",
+    "city": {
+      "name": "Porto Valtravaglia",
+      "istat": "012114"
+    },
+    "latitude": 45.9607133,
+    "longitude": 8.6788393
+  },
+  {
+    "street": "Via Motto",
+    "number": "30",
+    "city": {
+      "name": "Porto Valtravaglia",
+      "istat": "012114"
+    },
+    "latitude": 45.9604805,
+    "longitude": 8.7069161
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "8",
+    "city": {
+      "name": "Porto Valtravaglia",
+      "istat": "012114"
+    },
+    "latitude": 45.9616743,
+    "longitude": 8.7063506
+  },
+  {
+    "street": "Via Roma",
+    "number": "68",
+    "city": {
+      "name": "Porto Valtravaglia",
+      "istat": "012114"
+    },
+    "latitude": 45.9608157,
+    "longitude": 8.6808637
+  },
+  {
+    "street": "Piazza Imbarcadero",
+    "number": "29",
+    "city": {
+      "name": "Porto Valtravaglia",
+      "istat": "012114"
+    },
+    "latitude": 45.9607015,
+    "longitude": 8.6793788
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "24",
+    "city": {
+      "name": "Porto Valtravaglia",
+      "istat": "012114"
+    },
+    "latitude": 45.9626561,
+    "longitude": 8.7078963
+  },
+  {
+    "street": "Via Roma",
+    "number": "49",
+    "city": {
+      "name": "Porto Valtravaglia",
+      "istat": "012114"
+    },
+    "latitude": 45.9606311,
+    "longitude": 8.6803164
+  },
+  {
+    "street": "Via Luino",
+    "number": "1",
+    "city": {
+      "name": "Porto Valtravaglia",
+      "istat": "012114"
+    },
+    "latitude": 45.9623863,
+    "longitude": 8.6840267
+  },
+  {
+    "street": "Via Roma",
+    "number": "47",
+    "city": {
+      "name": "Porto Valtravaglia",
+      "istat": "012114"
+    },
+    "latitude": 45.9605471,
+    "longitude": 8.6802052
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "31",
+    "city": {
+      "name": "Porto Valtravaglia",
+      "istat": "012114"
+    },
+    "latitude": 45.9606322,
+    "longitude": 8.6790782
+  },
+  {
+    "street": "Viale Angelo Lucchini",
+    "number": "3",
+    "city": {
+      "name": "Porto Valtravaglia",
+      "istat": "012114"
+    },
+    "latitude": 45.9603387,
+    "longitude": 8.6751292
+  },
+  {
+    "street": "Via Verbano",
+    "number": "1",
+    "city": {
+      "name": "Porto Valtravaglia",
+      "istat": "012114"
+    },
+    "latitude": 45.9607106,
+    "longitude": 8.6810941
+  },
+  {
+    "street": "Via Roccolo",
+    "number": "17",
+    "city": {
+      "name": "Porto Valtravaglia",
+      "istat": "012114"
+    },
+    "latitude": 45.9623904,
+    "longitude": 8.6891924
+  },
+  {
+    "street": "Via Varese",
+    "number": "4",
+    "city": {
+      "name": "Porto Valtravaglia",
+      "istat": "012114"
+    },
+    "latitude": 45.9612309,
+    "longitude": 8.6821152
+  },
+  {
+    "street": "Piazza Imbarcadero",
+    "number": "11",
+    "city": {
+      "name": "Porto Valtravaglia",
+      "istat": "012114"
+    },
+    "latitude": 45.9621188,
+    "longitude": 8.6809433
+  },
+  {
+    "street": "Viale Repubblica",
+    "number": "85",
+    "city": {
+      "name": "Porto Valtravaglia",
+      "istat": "012114"
+    },
+    "latitude": 45.971519,
+    "longitude": 8.6986835
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "19a",
+    "city": {
+      "name": "Porto Valtravaglia",
+      "istat": "012114"
+    },
+    "latitude": 45.9613945,
+    "longitude": 8.7049025
+  },
+  {
+    "street": "Via Motto",
+    "number": "25",
+    "city": {
+      "name": "Porto Valtravaglia",
+      "istat": "012114"
+    },
+    "latitude": 45.9600735,
+    "longitude": 8.7078536
+  },
+  {
+    "street": "Via Motto",
+    "number": "26",
+    "city": {
+      "name": "Porto Valtravaglia",
+      "istat": "012114"
+    },
+    "latitude": 45.9595917,
+    "longitude": 8.708213
+  },
+  {
+    "street": "Via Motto",
+    "number": "28",
+    "city": {
+      "name": "Porto Valtravaglia",
+      "istat": "012114"
+    },
+    "latitude": 45.9599773,
+    "longitude": 8.7074977
+  },
+  {
+    "street": "Via per Muceno",
+    "number": "90",
+    "city": {
+      "name": "Porto Valtravaglia",
+      "istat": "012114"
+    },
+    "latitude": 45.9615026,
+    "longitude": 8.7051811
+  },
+  {
+    "street": "Via del Riale",
+    "number": "2",
+    "city": {
+      "name": "Porto Valtravaglia",
+      "istat": "012114"
+    },
+    "latitude": 45.9611509,
+    "longitude": 8.705368
+  },
+  {
+    "street": "Via Campo",
+    "number": "16",
+    "city": {
+      "name": "Porto Valtravaglia",
+      "istat": "012114"
+    },
+    "latitude": 45.9588544,
+    "longitude": 8.7069986
+  },
+  {
+    "street": "Via Motto",
+    "number": "20",
+    "city": {
+      "name": "Porto Valtravaglia",
+      "istat": "012114"
+    },
+    "latitude": 45.9599027,
+    "longitude": 8.7070089
+  },
+  {
+    "street": "Via Motto",
+    "number": "3",
+    "city": {
+      "name": "Porto Valtravaglia",
+      "istat": "012114"
+    },
+    "latitude": 45.9582393,
+    "longitude": 8.7081143
+  },
+  {
+    "street": "Via Motto",
+    "number": "5",
+    "city": {
+      "name": "Porto Valtravaglia",
+      "istat": "012114"
+    },
+    "latitude": 45.958577,
+    "longitude": 8.7084013
+  },
+  {
+    "street": "Via Motto",
+    "number": "8",
+    "city": {
+      "name": "Porto Valtravaglia",
+      "istat": "012114"
+    },
+    "latitude": 45.9583568,
+    "longitude": 8.7087344
+  },
+  {
+    "street": "Via Motto",
+    "number": "6",
+    "city": {
+      "name": "Porto Valtravaglia",
+      "istat": "012114"
+    },
+    "latitude": 45.9581159,
+    "longitude": 8.7085035
+  },
+  {
+    "street": "Via Motto",
+    "number": "16",
+    "city": {
+      "name": "Porto Valtravaglia",
+      "istat": "012114"
+    },
+    "latitude": 45.9596457,
+    "longitude": 8.7071414
+  },
+  {
+    "street": "Via Prè",
+    "number": "10",
+    "city": {
+      "name": "Porto Valtravaglia",
+      "istat": "012114"
+    },
+    "latitude": 45.9568488,
+    "longitude": 8.6976946
+  },
+  {
+    "street": "Piazza Imbarcadero",
+    "number": "18",
+    "city": {
+      "name": "Porto Valtravaglia",
+      "istat": "012114"
+    },
+    "latitude": 45.9614505,
+    "longitude": 8.6806248
+  },
+  {
+    "street": "Via Motto",
+    "number": "17",
+    "city": {
+      "name": "Porto Valtravaglia",
+      "istat": "012114"
+    },
+    "latitude": 45.9598077,
+    "longitude": 8.7069485
+  },
+  {
+    "street": "Viale Angelo Lucchini",
+    "number": "2",
+    "city": {
+      "name": "Porto Valtravaglia",
+      "istat": "012114"
+    },
+    "latitude": 45.961081,
+    "longitude": 8.679475
+  }
+]

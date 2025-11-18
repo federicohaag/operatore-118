@@ -1,0 +1,1062 @@
+[
+  {
+    "street": "Via F. de Ambrosis",
+    "number": "11",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8420301,
+    "longitude": 8.7176786
+  },
+  {
+    "street": "Via Litta",
+    "number": "14",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8413367,
+    "longitude": 8.7198385
+  },
+  {
+    "street": "Piazza Giacomo Matteotti",
+    "number": "4",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8429117,
+    "longitude": 8.7175204
+  },
+  {
+    "street": "Via Morosolo",
+    "number": "18",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8289611,
+    "longitude": 8.7414681
+  },
+  {
+    "street": "Via dello Sport",
+    "number": "29",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8429062,
+    "longitude": 8.7044123
+  },
+  {
+    "street": "Via Vincenzo Bellini",
+    "number": "9",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8277205,
+    "longitude": 8.7411322
+  },
+  {
+    "street": "Via Felice Cavallotti",
+    "number": "4",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8442969,
+    "longitude": 8.7139245
+  },
+  {
+    "street": "Viale Ticino",
+    "number": "67",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8409507,
+    "longitude": 8.7111976
+  },
+  {
+    "street": "Viale Ticino",
+    "number": "82",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8383609,
+    "longitude": 8.7045861
+  },
+  {
+    "street": "Viale Ticino",
+    "number": "2a",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8427453,
+    "longitude": 8.7152969
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "17",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8422245,
+    "longitude": 8.7138192
+  },
+  {
+    "street": "Via don Vittorio Brunetti",
+    "number": "10",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8439087,
+    "longitude": 8.7175842
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "17",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.843113,
+    "longitude": 8.7138067
+  },
+  {
+    "street": "Via dello Sport",
+    "number": "20",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8431937,
+    "longitude": 8.7027854
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "9",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8434899,
+    "longitude": 8.7170435
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "17",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8436388,
+    "longitude": 8.7168133
+  },
+  {
+    "street": "Piazza Giacomo Matteotti",
+    "number": "5",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.842942,
+    "longitude": 8.717665
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "5",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8434069,
+    "longitude": 8.717115
+  },
+  {
+    "street": "Piazza Giacomo Matteotti",
+    "number": "1",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8429616,
+    "longitude": 8.7177714
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "11",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8435129,
+    "longitude": 8.7170125
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "7",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8434401,
+    "longitude": 8.7170852
+  },
+  {
+    "street": "Via dello Sport",
+    "number": "22",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8431891,
+    "longitude": 8.7021934
+  },
+  {
+    "street": "Via dello Sport",
+    "number": "19",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8432875,
+    "longitude": 8.7049223
+  },
+  {
+    "street": "Via dello Sport",
+    "number": "12",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8445192,
+    "longitude": 8.7019189
+  },
+  {
+    "street": "Via dello Sport",
+    "number": "18",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8434211,
+    "longitude": 8.7049647
+  },
+  {
+    "street": "Via dello Sport",
+    "number": "23",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8431989,
+    "longitude": 8.7038243
+  },
+  {
+    "street": "Via dello Sport",
+    "number": "31",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8424266,
+    "longitude": 8.6999907
+  },
+  {
+    "street": "Via dello Sport",
+    "number": "24",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8431891,
+    "longitude": 8.7015738
+  },
+  {
+    "street": "Via dello Sport",
+    "number": "14",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8444855,
+    "longitude": 8.7026476
+  },
+  {
+    "street": "Via Gerli Arioli",
+    "number": "8",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8459804,
+    "longitude": 8.7119798
+  },
+  {
+    "street": "Via Gerli Arioli",
+    "number": "6",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8459901,
+    "longitude": 8.7120272
+  },
+  {
+    "street": "Via Gerli Arioli",
+    "number": "4",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8460011,
+    "longitude": 8.7120688
+  },
+  {
+    "street": "Via al Lido",
+    "number": "9",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8391751,
+    "longitude": 8.7162413
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "7",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8345786,
+    "longitude": 8.7340679
+  },
+  {
+    "street": "Via don Vittorio Brunetti",
+    "number": "8",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8438484,
+    "longitude": 8.7175206
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "2",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8434975,
+    "longitude": 8.717236
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "8",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8431508,
+    "longitude": 8.7174301
+  },
+  {
+    "street": "Via Giuseppe Maggioni",
+    "number": "19",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8427672,
+    "longitude": 8.71605
+  },
+  {
+    "street": "Via Giuseppe Maggioni",
+    "number": "3",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8426793,
+    "longitude": 8.7167682
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "1",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8433312,
+    "longitude": 8.717176
+  },
+  {
+    "street": "Via don Vittorio Brunetti",
+    "number": "4",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8436191,
+    "longitude": 8.7173818
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "3",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8430198,
+    "longitude": 8.7174337
+  },
+  {
+    "street": "Via Giuseppe Maggioni",
+    "number": "2",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8428451,
+    "longitude": 8.7173836
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "16",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8432584,
+    "longitude": 8.7173474
+  },
+  {
+    "street": "Via Giuseppe Maggioni",
+    "number": "17",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8427501,
+    "longitude": 8.7161704
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "7",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8432141,
+    "longitude": 8.7172535
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "1",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8429277,
+    "longitude": 8.7155883
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "12",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8431967,
+    "longitude": 8.7173953
+  },
+  {
+    "street": "Via Giuseppe Maggioni",
+    "number": "5",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8427056,
+    "longitude": 8.7163949
+  },
+  {
+    "street": "Via Giuseppe Maggioni",
+    "number": "8",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8427771,
+    "longitude": 8.7166564
+  },
+  {
+    "street": "Via don Vittorio Brunetti",
+    "number": "2",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8435729,
+    "longitude": 8.7172936
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "2",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.842948,
+    "longitude": 8.7176001
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "2",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8432251,
+    "longitude": 8.715176
+  },
+  {
+    "street": "Via Giuseppe Maggioni",
+    "number": "4",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8427775,
+    "longitude": 8.7172408
+  },
+  {
+    "street": "Via Giuseppe Maggioni",
+    "number": "1",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8427366,
+    "longitude": 8.7172921
+  },
+  {
+    "street": "Via Giuseppe Maggioni",
+    "number": "6",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8427343,
+    "longitude": 8.7170153
+  },
+  {
+    "street": "Via don Vittorio Brunetti",
+    "number": "6",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8437298,
+    "longitude": 8.7174394
+  },
+  {
+    "street": "Viale Verbano",
+    "number": "62",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8522085,
+    "longitude": 8.7043293
+  },
+  {
+    "street": "Viale Rimembranze",
+    "number": "13",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8433326,
+    "longitude": 8.7129086
+  },
+  {
+    "street": "Via Vignacce",
+    "number": "50",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8382733,
+    "longitude": 8.70857
+  },
+  {
+    "street": "Piazza Chiostro",
+    "number": "10",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8330746,
+    "longitude": 8.7349529
+  },
+  {
+    "street": "Piazza Chiostro",
+    "number": "16",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8329488,
+    "longitude": 8.7341954
+  },
+  {
+    "street": "Piazza Chiostro",
+    "number": "29",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8335909,
+    "longitude": 8.7345233
+  },
+  {
+    "street": "Piazza Chiostro",
+    "number": "30",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8335041,
+    "longitude": 8.7346831
+  },
+  {
+    "street": "Piazza Chiostro",
+    "number": "47",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8324821,
+    "longitude": 8.7354006
+  },
+  {
+    "street": "Piazza Chiostro",
+    "number": "8",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8328216,
+    "longitude": 8.7351065
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "23",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8454588,
+    "longitude": 8.7138384
+  },
+  {
+    "street": "Via Case Nuove",
+    "number": "10",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8362513,
+    "longitude": 8.7328875
+  },
+  {
+    "street": "Via Case Nuove",
+    "number": "12",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8361223,
+    "longitude": 8.7329878
+  },
+  {
+    "street": "Via Case Nuove",
+    "number": "8",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8363777,
+    "longitude": 8.7328322
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "2",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8457337,
+    "longitude": 8.7112152
+  },
+  {
+    "street": "Piazza Venti Settembre",
+    "number": "3",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8432414,
+    "longitude": 8.7184768
+  },
+  {
+    "street": "Viale Ticino",
+    "number": "1",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8416501,
+    "longitude": 8.7130271
+  },
+  {
+    "street": "Viale Ticino",
+    "number": "37b",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8417702,
+    "longitude": 8.7143181
+  },
+  {
+    "street": "Viale Verbano",
+    "number": "60",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8508734,
+    "longitude": 8.7065397
+  },
+  {
+    "street": "Viale Ticino",
+    "number": "33",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8419665,
+    "longitude": 8.7141324
+  },
+  {
+    "street": "Via dei Gelsomini",
+    "number": "14",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8493336,
+    "longitude": 8.7025534
+  },
+  {
+    "street": "Piazza Dante Alighieri",
+    "number": "2",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.845553,
+    "longitude": 8.714648
+  },
+  {
+    "street": "Via Mazza",
+    "number": "44",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8426997,
+    "longitude": 8.726831
+  },
+  {
+    "street": "Via Mazza",
+    "number": "42",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8426935,
+    "longitude": 8.7264675
+  },
+  {
+    "street": "Via Mazza",
+    "number": "24",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8444738,
+    "longitude": 8.7186837
+  },
+  {
+    "street": "Viale dello Sport",
+    "number": "17",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8418779,
+    "longitude": 8.7065248
+  },
+  {
+    "street": "Viale Ticino",
+    "number": "17",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.842249,
+    "longitude": 8.7139572
+  },
+  {
+    "street": "Piazza Repubblica",
+    "number": "1",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8440922,
+    "longitude": 8.7167148
+  },
+  {
+    "street": "Via Filippo Corridoni",
+    "number": "4",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8470962,
+    "longitude": 8.7136187
+  },
+  {
+    "street": "Via al Lago",
+    "number": "20",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8229491,
+    "longitude": 8.7449892
+  },
+  {
+    "street": "Via al Lago",
+    "number": "4",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8233212,
+    "longitude": 8.7455828
+  },
+  {
+    "street": "Via al Lago",
+    "number": "21",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8220075,
+    "longitude": 8.7439055
+  },
+  {
+    "street": "Via al Lago",
+    "number": "82",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8205696,
+    "longitude": 8.740705
+  },
+  {
+    "street": "Via Campi Leoni",
+    "number": "7",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8212908,
+    "longitude": 8.7456129
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "19",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8435598,
+    "longitude": 8.7140569
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "25",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8436916,
+    "longitude": 8.7165944
+  },
+  {
+    "street": "Via al Lago",
+    "number": "4B",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8231953,
+    "longitude": 8.7452431
+  },
+  {
+    "street": "Via al Chiostro",
+    "number": "23",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8392526,
+    "longitude": 8.7285263
+  },
+  {
+    "street": "Via al Chiostro",
+    "number": "52",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8339101,
+    "longitude": 8.7313429
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "25",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8411094,
+    "longitude": 8.7204197
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "71",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8444073,
+    "longitude": 8.7150941
+  },
+  {
+    "street": "Via Cavour",
+    "number": "23",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8417346,
+    "longitude": 8.7204667
+  },
+  {
+    "street": "Via Alessandrini",
+    "number": "4",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8401729,
+    "longitude": 8.7281535
+  },
+  {
+    "street": "Via Alessandrini",
+    "number": "6",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.840445,
+    "longitude": 8.728405
+  },
+  {
+    "street": "Via al Chiostro",
+    "number": "14",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8403777,
+    "longitude": 8.7237903
+  },
+  {
+    "street": "Via Fontanone",
+    "number": "5",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8327038,
+    "longitude": 8.7362094
+  },
+  {
+    "street": "Via al Lido",
+    "number": "22",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8387874,
+    "longitude": 8.716231
+  },
+  {
+    "street": "Via al Chiostro",
+    "number": "3",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8414653,
+    "longitude": 8.7208441
+  },
+  {
+    "street": "Via Alioli e Sassi",
+    "number": "19B",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.833235,
+    "longitude": 8.7423219
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "55",
+    "city": {
+      "name": "Gavirate",
+      "istat": "012072"
+    },
+    "latitude": 45.8397239,
+    "longitude": 8.7216786
+  }
+]

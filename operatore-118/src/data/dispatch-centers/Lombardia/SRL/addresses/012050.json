@@ -1,0 +1,412 @@
+[
+  {
+    "street": "Via Cesare Battisti",
+    "number": "1426",
+    "city": {
+      "name": "Cislago",
+      "istat": "012050"
+    },
+    "latitude": 45.6570051,
+    "longitude": 8.9797065
+  },
+  {
+    "street": "Via Magenta",
+    "number": "106",
+    "city": {
+      "name": "Cislago",
+      "istat": "012050"
+    },
+    "latitude": 45.6567676,
+    "longitude": 8.9716461
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "145",
+    "city": {
+      "name": "Cislago",
+      "istat": "012050"
+    },
+    "latitude": 45.6602251,
+    "longitude": 8.9729415
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "250",
+    "city": {
+      "name": "Cislago",
+      "istat": "012050"
+    },
+    "latitude": 45.6606553,
+    "longitude": 8.9741203
+  },
+  {
+    "street": "Piazza Castelbarco",
+    "number": "17",
+    "city": {
+      "name": "Cislago",
+      "istat": "012050"
+    },
+    "latitude": 45.6594269,
+    "longitude": 8.9713788
+  },
+  {
+    "street": "Piazza Trieste",
+    "number": "180",
+    "city": {
+      "name": "Cislago",
+      "istat": "012050"
+    },
+    "latitude": 45.6582807,
+    "longitude": 8.9720392
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "147",
+    "city": {
+      "name": "Cislago",
+      "istat": "012050"
+    },
+    "latitude": 45.6605559,
+    "longitude": 8.9735204
+  },
+  {
+    "street": "Via Cavalieri di Vittorio Veneto",
+    "number": "241",
+    "city": {
+      "name": "Cislago",
+      "istat": "012050"
+    },
+    "latitude": 45.6631503,
+    "longitude": 8.9749768
+  },
+  {
+    "street": "Via Cavour",
+    "number": "246",
+    "city": {
+      "name": "Cislago",
+      "istat": "012050"
+    },
+    "latitude": 45.6586519,
+    "longitude": 8.9683052
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "94",
+    "city": {
+      "name": "Cislago",
+      "istat": "012050"
+    },
+    "latitude": 45.6597295,
+    "longitude": 8.9726395
+  },
+  {
+    "street": "Via John Fitzgerald Kennedy",
+    "number": "2",
+    "city": {
+      "name": "Cislago",
+      "istat": "012050"
+    },
+    "latitude": 45.6564033,
+    "longitude": 8.9691616
+  },
+  {
+    "street": "Via John Fitzgerald Kennedy",
+    "number": "3",
+    "city": {
+      "name": "Cislago",
+      "istat": "012050"
+    },
+    "latitude": 45.6564251,
+    "longitude": 8.9692288
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "134",
+    "city": {
+      "name": "Cislago",
+      "istat": "012050"
+    },
+    "latitude": 45.6600181,
+    "longitude": 8.973042
+  },
+  {
+    "street": "Piazza Trieste",
+    "number": "155",
+    "city": {
+      "name": "Cislago",
+      "istat": "012050"
+    },
+    "latitude": 45.6580667,
+    "longitude": 8.9719444
+  },
+  {
+    "street": "Via Raffaello Sanzio",
+    "number": "78",
+    "city": {
+      "name": "Cislago",
+      "istat": "012050"
+    },
+    "latitude": 45.6583881,
+    "longitude": 8.9790556
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "1511",
+    "city": {
+      "name": "Cislago",
+      "istat": "012050"
+    },
+    "latitude": 45.6567615,
+    "longitude": 8.9811905
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "1315",
+    "city": {
+      "name": "Cislago",
+      "istat": "012050"
+    },
+    "latitude": 45.657906,
+    "longitude": 8.9789275
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "1215",
+    "city": {
+      "name": "Cislago",
+      "istat": "012050"
+    },
+    "latitude": 45.6585705,
+    "longitude": 8.9783141
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "1357",
+    "city": {
+      "name": "Cislago",
+      "istat": "012050"
+    },
+    "latitude": 45.657657,
+    "longitude": 8.9796669
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "941",
+    "city": {
+      "name": "Cislago",
+      "istat": "012050"
+    },
+    "latitude": 45.6602086,
+    "longitude": 8.9753417
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "668",
+    "city": {
+      "name": "Cislago",
+      "istat": "012050"
+    },
+    "latitude": 45.6615139,
+    "longitude": 8.9725989
+  },
+  {
+    "street": "Via Raffaello Sanzio",
+    "number": "609d",
+    "city": {
+      "name": "Cislago",
+      "istat": "012050"
+    },
+    "latitude": 45.6633027,
+    "longitude": 8.9816829
+  },
+  {
+    "street": "Via Raffaello Sanzio",
+    "number": "609g",
+    "city": {
+      "name": "Cislago",
+      "istat": "012050"
+    },
+    "latitude": 45.6626481,
+    "longitude": 8.9816052
+  },
+  {
+    "street": "Via Raffaello Sanzio",
+    "number": "609f",
+    "city": {
+      "name": "Cislago",
+      "istat": "012050"
+    },
+    "latitude": 45.662784,
+    "longitude": 8.9812742
+  },
+  {
+    "street": "Via Raffaello Sanzio",
+    "number": "609c",
+    "city": {
+      "name": "Cislago",
+      "istat": "012050"
+    },
+    "latitude": 45.6632913,
+    "longitude": 8.9821165
+  },
+  {
+    "street": "Via Raffaello Sanzio",
+    "number": "609a",
+    "city": {
+      "name": "Cislago",
+      "istat": "012050"
+    },
+    "latitude": 45.6630741,
+    "longitude": 8.9825605
+  },
+  {
+    "street": "Via Raffaello Sanzio",
+    "number": "609i",
+    "city": {
+      "name": "Cislago",
+      "istat": "012050"
+    },
+    "latitude": 45.6625356,
+    "longitude": 8.9821462
+  },
+  {
+    "street": "Via Raffaello Sanzio",
+    "number": "86",
+    "city": {
+      "name": "Cislago",
+      "istat": "012050"
+    },
+    "latitude": 45.6587355,
+    "longitude": 8.9794547
+  },
+  {
+    "street": "Via Donatello",
+    "number": "51",
+    "city": {
+      "name": "Cislago",
+      "istat": "012050"
+    },
+    "latitude": 45.6624412,
+    "longitude": 8.9812939
+  },
+  {
+    "street": "Via Raffaello Sanzio",
+    "number": "551",
+    "city": {
+      "name": "Cislago",
+      "istat": "012050"
+    },
+    "latitude": 45.6622255,
+    "longitude": 8.9819638
+  },
+  {
+    "street": "Via Raffaello Sanzio",
+    "number": "525",
+    "city": {
+      "name": "Cislago",
+      "istat": "012050"
+    },
+    "latitude": 45.6620477,
+    "longitude": 8.9818148
+  },
+  {
+    "street": "Via Maestri del Lavoro",
+    "number": "218 - 228",
+    "city": {
+      "name": "Cislago",
+      "istat": "012050"
+    },
+    "latitude": 45.6532799,
+    "longitude": 8.9545386
+  },
+  {
+    "street": "Via Maestri del Lavoro",
+    "number": "464",
+    "city": {
+      "name": "Cislago",
+      "istat": "012050"
+    },
+    "latitude": 45.6519023,
+    "longitude": 8.9524736
+  },
+  {
+    "street": "Via Maestri del Lavoro",
+    "number": "488",
+    "city": {
+      "name": "Cislago",
+      "istat": "012050"
+    },
+    "latitude": 45.6514202,
+    "longitude": 8.9529041
+  },
+  {
+    "street": "Piazza Enrico Toti",
+    "number": "102",
+    "city": {
+      "name": "Cislago",
+      "istat": "012050"
+    },
+    "latitude": 45.660303,
+    "longitude": 8.9718462
+  },
+  {
+    "street": "Via Raffaello Sanzio",
+    "number": "458",
+    "city": {
+      "name": "Cislago",
+      "istat": "012050"
+    },
+    "latitude": 45.661349,
+    "longitude": 8.9822096
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "56",
+    "city": {
+      "name": "Cislago",
+      "istat": "012050"
+    },
+    "latitude": 45.664373,
+    "longitude": 8.9661125
+  },
+  {
+    "street": "Via Giosuè Carducci",
+    "number": "213",
+    "city": {
+      "name": "Cislago",
+      "istat": "012050"
+    },
+    "latitude": 45.657162,
+    "longitude": 8.9786762
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "108",
+    "city": {
+      "name": "Cislago",
+      "istat": "012050"
+    },
+    "latitude": 45.6597649,
+    "longitude": 8.9684743
+  },
+  {
+    "street": "Via Venezia",
+    "number": "13",
+    "city": {
+      "name": "Cislago",
+      "istat": "012050"
+    },
+    "latitude": 45.659023,
+    "longitude": 8.9721283
+  },
+  {
+    "street": "Via San Giulio",
+    "number": "289",
+    "city": {
+      "name": "Cislago",
+      "istat": "012050"
+    },
+    "latitude": 45.6458052,
+    "longitude": 8.9756375
+  }
+]

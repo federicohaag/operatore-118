@@ -1,0 +1,2442 @@
+[
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "858",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.692393,
+    "longitude": 8.8019737
+  },
+  {
+    "street": "Piazza Sandro Pertini",
+    "number": "89",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6945343,
+    "longitude": 8.805041
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "145",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6983443,
+    "longitude": 8.80423
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "253",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6974556,
+    "longitude": 8.8040481
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "207",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6978138,
+    "longitude": 8.8041246
+  },
+  {
+    "street": "Via Undici Febbraio",
+    "number": "204",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6929884,
+    "longitude": 8.8067721
+  },
+  {
+    "street": "Via Undici Febbraio",
+    "number": "45",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6937481,
+    "longitude": 8.8078165
+  },
+  {
+    "street": "Via Carlo Rosselli",
+    "number": "45",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6894221,
+    "longitude": 8.8063487
+  },
+  {
+    "street": "Via Cascina dei Ferrandi",
+    "number": "86",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6946472,
+    "longitude": 8.8099896
+  },
+  {
+    "street": "Piazza Papa Giovanni Ventitreesimo",
+    "number": "163",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6963307,
+    "longitude": 8.8044316
+  },
+  {
+    "street": "Piazza Papa Giovanni Ventitreesimo",
+    "number": "153",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6963438,
+    "longitude": 8.8045482
+  },
+  {
+    "street": "Piazza Papa Giovanni Ventitreesimo",
+    "number": "147",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6964412,
+    "longitude": 8.8046032
+  },
+  {
+    "street": "Piazza Papa Giovanni Ventitreesimo",
+    "number": "127",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6964993,
+    "longitude": 8.8048299
+  },
+  {
+    "street": "Piazza Papa Giovanni Ventitreesimo",
+    "number": "119",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6965433,
+    "longitude": 8.8047749
+  },
+  {
+    "street": "Piazza Papa Giovanni Ventitreesimo",
+    "number": "115",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6965723,
+    "longitude": 8.8047816
+  },
+  {
+    "street": "Piazza Papa Giovanni Ventitreesimo",
+    "number": "113",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6966098,
+    "longitude": 8.8047923
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "916",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6920076,
+    "longitude": 8.8017842
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "166",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6956815,
+    "longitude": 8.8065344
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "210",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6959588,
+    "longitude": 8.8064405
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "222",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6962529,
+    "longitude": 8.8063547
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "217",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6962623,
+    "longitude": 8.8062394
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "213",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6961667,
+    "longitude": 8.8062796
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "216",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6961012,
+    "longitude": 8.8064218
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "240",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6963691,
+    "longitude": 8.8063118
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "267b",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6965002,
+    "longitude": 8.8061455
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "267",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6965377,
+    "longitude": 8.8061348
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "254",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6964477,
+    "longitude": 8.8063118
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "268",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6965339,
+    "longitude": 8.806285
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "292",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6967512,
+    "longitude": 8.8062313
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "306",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6969236,
+    "longitude": 8.8061482
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "344",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6972215,
+    "longitude": 8.8061562
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "350",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6972571,
+    "longitude": 8.8059685
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "329",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.697066,
+    "longitude": 8.8059685
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "352",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6972983,
+    "longitude": 8.8059014
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "362",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6973695,
+    "longitude": 8.8058397
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "246",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6956141,
+    "longitude": 8.8063949
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "240",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6956347,
+    "longitude": 8.806285
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "210",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6956871,
+    "longitude": 8.8059792
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "189",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6957939,
+    "longitude": 8.8058773
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "194",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6956853,
+    "longitude": 8.8057137
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "180",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6957415,
+    "longitude": 8.8055393
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "155",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6959232,
+    "longitude": 8.8052979
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "133",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6959344,
+    "longitude": 8.8050243
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "131",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6959588,
+    "longitude": 8.8049331
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "113",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6959756,
+    "longitude": 8.8048312
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "109",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6959925,
+    "longitude": 8.8047615
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "103",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.696,
+    "longitude": 8.8046703
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "136",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6958295,
+    "longitude": 8.804968
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "122",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6959157,
+    "longitude": 8.8046515
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "114",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6959288,
+    "longitude": 8.8045764
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "95",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6960037,
+    "longitude": 8.8045898
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "110",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6959344,
+    "longitude": 8.8045415
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "92",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6959644,
+    "longitude": 8.8045147
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "82",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6959906,
+    "longitude": 8.8044342
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "70",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6960937,
+    "longitude": 8.804335
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "59",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6961592,
+    "longitude": 8.8044235
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "53",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.696251,
+    "longitude": 8.8043994
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "36",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6962342,
+    "longitude": 8.8042223
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "32",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6962979,
+    "longitude": 8.8041151
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "45",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6963709,
+    "longitude": 8.8042277
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "35",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6963766,
+    "longitude": 8.8040802
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "271",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.697287,
+    "longitude": 8.8039461
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "283",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6971578,
+    "longitude": 8.8039125
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "285",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6971212,
+    "longitude": 8.8039058
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "295",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6970781,
+    "longitude": 8.8038951
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "297",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6970379,
+    "longitude": 8.8038871
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "305",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6969967,
+    "longitude": 8.8038817
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "307",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6969479,
+    "longitude": 8.803879
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "311",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6968974,
+    "longitude": 8.8038737
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "319",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6968543,
+    "longitude": 8.8038763
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "325",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6968056,
+    "longitude": 8.8038763
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "365",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6964571,
+    "longitude": 8.8039353
+  },
+  {
+    "street": "Piazza Papa Giovanni Ventitreesimo",
+    "number": "111",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6966445,
+    "longitude": 8.804803
+  },
+  {
+    "street": "Piazza Papa Giovanni Ventitreesimo",
+    "number": "105a",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6966988,
+    "longitude": 8.804799
+  },
+  {
+    "street": "Piazza Papa Giovanni Ventitreesimo",
+    "number": "105",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6967334,
+    "longitude": 8.8048084
+  },
+  {
+    "street": "Piazza Papa Giovanni Ventitreesimo",
+    "number": "103",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6967784,
+    "longitude": 8.8048272
+  },
+  {
+    "street": "Piazza Papa Giovanni Ventitreesimo",
+    "number": "35",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6966613,
+    "longitude": 8.8044181
+  },
+  {
+    "street": "Piazza Papa Giovanni Ventitreesimo",
+    "number": "29",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6965911,
+    "longitude": 8.8044208
+  },
+  {
+    "street": "Piazza Papa Giovanni Ventitreesimo",
+    "number": "85",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.696873,
+    "longitude": 8.8047869
+  },
+  {
+    "street": "Piazza Papa Giovanni Ventitreesimo",
+    "number": "73",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6969461,
+    "longitude": 8.8046783
+  },
+  {
+    "street": "Piazza Papa Giovanni Ventitreesimo",
+    "number": "65a",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6969273,
+    "longitude": 8.8044852
+  },
+  {
+    "street": "Piazza Papa Giovanni Ventitreesimo",
+    "number": "65",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6969311,
+    "longitude": 8.8043672
+  },
+  {
+    "street": "Via San Quirico",
+    "number": "18b",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6970678,
+    "longitude": 8.8049023
+  },
+  {
+    "street": "Via San Quirico",
+    "number": "18a",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6970725,
+    "longitude": 8.8047239
+  },
+  {
+    "street": "Via San Quirico",
+    "number": "18",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6970725,
+    "longitude": 8.8046555
+  },
+  {
+    "street": "Via San Quirico",
+    "number": "38",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6972777,
+    "longitude": 8.804685
+  },
+  {
+    "street": "Via San Quirico",
+    "number": "24",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6971606,
+    "longitude": 8.8046837
+  },
+  {
+    "street": "Via San Quirico",
+    "number": "17",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6971306,
+    "longitude": 8.8045911
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "18",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6973919,
+    "longitude": 8.8041741
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "47",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6974463,
+    "longitude": 8.8044772
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "92",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6973957,
+    "longitude": 8.8050485
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "84",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6973994,
+    "longitude": 8.8049626
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "68",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.697377,
+    "longitude": 8.8048473
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "64",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6973826,
+    "longitude": 8.804732
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "122a",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6973835,
+    "longitude": 8.8054615
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "122",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6973873,
+    "longitude": 8.8054481
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "114",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6973863,
+    "longitude": 8.8053703
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "108",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6973901,
+    "longitude": 8.8053113
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "102",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6973938,
+    "longitude": 8.8052228
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "98",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6973957,
+    "longitude": 8.8051397
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "75",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6974687,
+    "longitude": 8.8049519
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "128",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6973826,
+    "longitude": 8.8055259
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "142",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6973863,
+    "longitude": 8.805652
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "384",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6974875,
+    "longitude": 8.8058075
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "376",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6974219,
+    "longitude": 8.8058209
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "418",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6978153,
+    "longitude": 8.8058183
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "432",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6979914,
+    "longitude": 8.8058156
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "444",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6980504,
+    "longitude": 8.8057968
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "446",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6980795,
+    "longitude": 8.8057888
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "456",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6981169,
+    "longitude": 8.8058022
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "460",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6981862,
+    "longitude": 8.8057914
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "459",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.69822,
+    "longitude": 8.8056788
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "464",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6982368,
+    "longitude": 8.8057888
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "485",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6984598,
+    "longitude": 8.8056251
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "495",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6985253,
+    "longitude": 8.8055876
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "497",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6985459,
+    "longitude": 8.80555
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "499",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.698574,
+    "longitude": 8.8055393
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "507",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6986077,
+    "longitude": 8.8055366
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "511",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6986377,
+    "longitude": 8.8055393
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "515",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6986752,
+    "longitude": 8.8055366
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "517",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6987314,
+    "longitude": 8.8055232
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "529",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6987838,
+    "longitude": 8.8055178
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "486",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6984073,
+    "longitude": 8.8059095
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "516",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.698737,
+    "longitude": 8.8057324
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "533",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6989,
+    "longitude": 8.8054937
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "92",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6990124,
+    "longitude": 8.8054454
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "84",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.699018,
+    "longitude": 8.8053274
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "76",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6990143,
+    "longitude": 8.8052094
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "57",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6991416,
+    "longitude": 8.8049144
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "18",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6990143,
+    "longitude": 8.8044691
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "41",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6991416,
+    "longitude": 8.8046756
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "13",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6991398,
+    "longitude": 8.8043645
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "243",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6974987,
+    "longitude": 8.8040614
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "229",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6976111,
+    "longitude": 8.8040856
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "235",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6975456,
+    "longitude": 8.8040695
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "215",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6977366,
+    "longitude": 8.8041043
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "221",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6976879,
+    "longitude": 8.8041016
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "225",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6976617,
+    "longitude": 8.8040936
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "201",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6978846,
+    "longitude": 8.8041311
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "187",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6980383,
+    "longitude": 8.8041472
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "189",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6980158,
+    "longitude": 8.8041392
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "71",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6989656,
+    "longitude": 8.804284
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "109",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6987764,
+    "longitude": 8.8042384
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "97",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6987988,
+    "longitude": 8.8042438
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "111",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6986527,
+    "longitude": 8.8042438
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "119",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6986003,
+    "longitude": 8.8042518
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "125",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6985534,
+    "longitude": 8.8042358
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "133",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6984785,
+    "longitude": 8.8042465
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "137",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6984354,
+    "longitude": 8.8042384
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "141",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6983886,
+    "longitude": 8.8042331
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "159",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6982406,
+    "longitude": 8.8041982
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "171",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6981357,
+    "longitude": 8.8041794
+  },
+  {
+    "street": "Via Carlo Curioni",
+    "number": "51",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6975643,
+    "longitude": 8.8036698
+  },
+  {
+    "street": "Via Carlo Curioni",
+    "number": "47",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6974894,
+    "longitude": 8.8036698
+  },
+  {
+    "street": "Piazza Sandro Pertini",
+    "number": "75",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6946155,
+    "longitude": 8.8049653
+  },
+  {
+    "street": "Via Carlo Curioni",
+    "number": "117",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.698135,
+    "longitude": 8.803779
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "402",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6976561,
+    "longitude": 8.8058317
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "29",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6994339,
+    "longitude": 8.8041875
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "47",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6992615,
+    "longitude": 8.8042062
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "39",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6993234,
+    "longitude": 8.8042009
+  },
+  {
+    "street": "Via Mario Perego",
+    "number": "30a",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6993309,
+    "longitude": 8.8050431
+  },
+  {
+    "street": "Via Mario Perego",
+    "number": "30",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6993571,
+    "longitude": 8.8050511
+  },
+  {
+    "street": "Via Mario Perego",
+    "number": "44a",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6994957,
+    "longitude": 8.8050538
+  },
+  {
+    "street": "Via Mario Perego",
+    "number": "44",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6995201,
+    "longitude": 8.8050431
+  },
+  {
+    "street": "Via Mario Perego",
+    "number": "21c",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6993421,
+    "longitude": 8.8049439
+  },
+  {
+    "street": "Via Mario Perego",
+    "number": "21b",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6993608,
+    "longitude": 8.8049573
+  },
+  {
+    "street": "Via Mario Perego",
+    "number": "21a",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6993814,
+    "longitude": 8.8049519
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "13",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6995538,
+    "longitude": 8.8041875
+  },
+  {
+    "street": "Via Mario Perego",
+    "number": "21",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6994002,
+    "longitude": 8.8049546
+  },
+  {
+    "street": "Via Mario Perego",
+    "number": "12",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.699211,
+    "longitude": 8.8050377
+  },
+  {
+    "street": "Via Mario Perego",
+    "number": "4",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6991716,
+    "longitude": 8.8050324
+  },
+  {
+    "street": "Via Mario Perego",
+    "number": "17",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6993028,
+    "longitude": 8.8049519
+  },
+  {
+    "street": "Via Enrico Fermi",
+    "number": "44",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6959738,
+    "longitude": 8.8027847
+  },
+  {
+    "street": "Via Enrico Fermi",
+    "number": "50",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6958988,
+    "longitude": 8.8027552
+  },
+  {
+    "street": "Via Enrico Fermi",
+    "number": "24",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6961517,
+    "longitude": 8.8028383
+  },
+  {
+    "street": "Via Enrico Fermi",
+    "number": "8",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6963391,
+    "longitude": 8.8028893
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "104",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6964758,
+    "longitude": 8.8025513
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "90",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6964927,
+    "longitude": 8.8024414
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "74",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6965527,
+    "longitude": 8.8022
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "80",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6961443,
+    "longitude": 8.802098
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "93",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6965789,
+    "longitude": 8.8024816
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "131",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6964965,
+    "longitude": 8.8028732
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "73",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6966482,
+    "longitude": 8.802208
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "39",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6967512,
+    "longitude": 8.8018379
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "37",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6967606,
+    "longitude": 8.8017923
+  },
+  {
+    "street": "Via Ticino",
+    "number": "9",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6965564,
+    "longitude": 8.8017815
+  },
+  {
+    "street": "Via Ticino",
+    "number": "4",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6966707,
+    "longitude": 8.8016769
+  },
+  {
+    "street": "Via Thomas Edison",
+    "number": "71",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.695867,
+    "longitude": 8.802503
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "148",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.697081,
+    "longitude": 8.8016903
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "153",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6970772,
+    "longitude": 8.801921
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "135",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6971503,
+    "longitude": 8.8020954
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "123",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6972027,
+    "longitude": 8.8022429
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "122",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6973189,
+    "longitude": 8.8021517
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "109",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6971802,
+    "longitude": 8.8023877
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "95",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6969311,
+    "longitude": 8.8024387
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "83",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.697184,
+    "longitude": 8.8028061
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "55",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6971372,
+    "longitude": 8.8030744
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "63",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6971521,
+    "longitude": 8.8029402
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "68",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6972664,
+    "longitude": 8.8029644
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "76",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.697287,
+    "longitude": 8.8028651
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "563",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6947542,
+    "longitude": 8.8030583
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "559",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6948029,
+    "longitude": 8.8030824
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "547",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6949022,
+    "longitude": 8.803128
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "531",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6950127,
+    "longitude": 8.8031951
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "517",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6951288,
+    "longitude": 8.8032487
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "507",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6951944,
+    "longitude": 8.8032809
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "501",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6952637,
+    "longitude": 8.803305
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "497",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6953349,
+    "longitude": 8.8033345
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "489",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6954005,
+    "longitude": 8.8033721
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "429",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.695897,
+    "longitude": 8.8036054
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "433",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6958426,
+    "longitude": 8.8035732
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "441",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6957789,
+    "longitude": 8.8035357
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "455",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6956815,
+    "longitude": 8.8034981
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "463",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.695601,
+    "longitude": 8.8034525
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "494",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6952431,
+    "longitude": 8.8031012
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "486",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6954286,
+    "longitude": 8.8031843
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "430",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.695882,
+    "longitude": 8.8033614
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "440",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6958108,
+    "longitude": 8.8033345
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "182",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6962941,
+    "longitude": 8.8035169
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "172",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6963129,
+    "longitude": 8.8034445
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "168",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6963222,
+    "longitude": 8.8033479
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "390",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6962248,
+    "longitude": 8.8035518
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "393",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6961105,
+    "longitude": 8.8036859
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "407",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6960506,
+    "longitude": 8.8036457
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "387",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6962492,
+    "longitude": 8.8037503
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "377",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6963503,
+    "longitude": 8.8037851
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "438",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6934898,
+    "longitude": 8.8082021
+  },
+  {
+    "street": "Via Enrico Fermi",
+    "number": "400",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6928852,
+    "longitude": 8.8014237
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "80",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6989942,
+    "longitude": 8.8053226
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "166",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6990227,
+    "longitude": 8.8058895
+  },
+  {
+    "street": "Via Montello",
+    "number": "122",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6935899,
+    "longitude": 8.7919976
+  },
+  {
+    "street": "Via Undici Febbraio",
+    "number": "155",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6933563,
+    "longitude": 8.8072439
+  },
+  {
+    "street": "Via Undici Febbraio",
+    "number": "229",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6927391,
+    "longitude": 8.8067843
+  },
+  {
+    "street": "Via Undici Febbraio",
+    "number": "215",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6929362,
+    "longitude": 8.8068417
+  },
+  {
+    "street": "Via Undici Febbraio",
+    "number": "225",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6927714,
+    "longitude": 8.8067921
+  },
+  {
+    "street": "Via Undici Febbraio",
+    "number": "185a",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.693119,
+    "longitude": 8.8068957
+  },
+  {
+    "street": "Via Undici Febbraio",
+    "number": "185",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.693154,
+    "longitude": 8.8069107
+  },
+  {
+    "street": "Via Undici Febbraio",
+    "number": "209",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6929531,
+    "longitude": 8.8068478
+  },
+  {
+    "street": "Via Undici Febbraio",
+    "number": "174",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6932501,
+    "longitude": 8.8068668
+  },
+  {
+    "street": "Via Undici Febbraio",
+    "number": "216",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6928982,
+    "longitude": 8.8067346
+  },
+  {
+    "street": "Via Undici Febbraio",
+    "number": "236;236a",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6927244,
+    "longitude": 8.8066903
+  },
+  {
+    "street": "Via Scipione Ronchetti",
+    "number": "970",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6912325,
+    "longitude": 8.8014612
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "30",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.692532,
+    "longitude": 8.7934547
+  },
+  {
+    "street": "Via della Tessitura",
+    "number": "70",
+    "city": {
+      "name": "Cavaria con Premezzo",
+      "istat": "012048"
+    },
+    "latitude": 45.6937327,
+    "longitude": 8.8030716
+  }
+]

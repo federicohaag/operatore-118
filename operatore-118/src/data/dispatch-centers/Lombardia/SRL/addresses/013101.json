@@ -1,0 +1,712 @@
+[
+  {
+    "street": "Via Crocifisso",
+    "number": "26",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7122821,
+    "longitude": 9.1299862
+  },
+  {
+    "street": "Via Roma",
+    "number": "7",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7123664,
+    "longitude": 9.1313339
+  },
+  {
+    "street": "Via Trieste",
+    "number": "9",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7105863,
+    "longitude": 9.1332638
+  },
+  {
+    "street": "Via Vico Necchi",
+    "number": "10",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.708681,
+    "longitude": 9.1313112
+  },
+  {
+    "street": "Via Grigna",
+    "number": "2",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.703553,
+    "longitude": 9.1371429
+  },
+  {
+    "street": "Via Grigna",
+    "number": "4",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.703455,
+    "longitude": 9.1367733
+  },
+  {
+    "street": "Via Cervino",
+    "number": "1",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7073036,
+    "longitude": 9.1267948
+  },
+  {
+    "street": "Via Cervino",
+    "number": "9",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.708899,
+    "longitude": 9.1285091
+  },
+  {
+    "street": "Via Grigna",
+    "number": "3",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7027998,
+    "longitude": 9.1371817
+  },
+  {
+    "street": "Via Grigna",
+    "number": "1",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7028317,
+    "longitude": 9.1373828
+  },
+  {
+    "street": "Via Grigna",
+    "number": "5",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.702734,
+    "longitude": 9.136442
+  },
+  {
+    "street": "Via Cervino",
+    "number": "10d",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7058946,
+    "longitude": 9.1258596
+  },
+  {
+    "street": "Via Cervino",
+    "number": "10c",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7059763,
+    "longitude": 9.1267722
+  },
+  {
+    "street": "Via Cervino",
+    "number": "10g",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7053609,
+    "longitude": 9.1252393
+  },
+  {
+    "street": "Via Cervino",
+    "number": "10i",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7057063,
+    "longitude": 9.1277252
+  },
+  {
+    "street": "Via Cervino",
+    "number": "10m",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7057785,
+    "longitude": 9.1285389
+  },
+  {
+    "street": "Via Cervino",
+    "number": "10l",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7052856,
+    "longitude": 9.1272802
+  },
+  {
+    "street": "Via Don Luigi Meroni",
+    "number": "2",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.713819,
+    "longitude": 9.1300419
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "21",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7101563,
+    "longitude": 9.1245866
+  },
+  {
+    "street": "Via Genova",
+    "number": "2",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7254591,
+    "longitude": 9.1421626
+  },
+  {
+    "street": "Via Genova",
+    "number": "20",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7243292,
+    "longitude": 9.1402437
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "14",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7136233,
+    "longitude": 9.1291409
+  },
+  {
+    "street": "Via Don Luigi Meroni",
+    "number": "83",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7185098,
+    "longitude": 9.1435403
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "1",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.713026,
+    "longitude": 9.1339061
+  },
+  {
+    "street": "Via San Materno",
+    "number": "15",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7129222,
+    "longitude": 9.1318073
+  },
+  {
+    "street": "Viale Rimembranze",
+    "number": "2",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7123512,
+    "longitude": 9.1324145
+  },
+  {
+    "street": "Via San Materno",
+    "number": "17",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7128228,
+    "longitude": 9.1318482
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "6",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7125372,
+    "longitude": 9.1337512
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "8",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.713231,
+    "longitude": 9.1327409
+  },
+  {
+    "street": "Viale Rimembranze",
+    "number": "4",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7122967,
+    "longitude": 9.1325893
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "10",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7132618,
+    "longitude": 9.133043
+  },
+  {
+    "street": "Viale Rimembranze",
+    "number": "10",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7122583,
+    "longitude": 9.1330102
+  },
+  {
+    "street": "Viale Rimembranze",
+    "number": "16",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7120619,
+    "longitude": 9.1337767
+  },
+  {
+    "street": "Viale Rimembranze",
+    "number": "12",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7122175,
+    "longitude": 9.1331341
+  },
+  {
+    "street": "Viale Rimembranze",
+    "number": "8",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7122774,
+    "longitude": 9.1328337
+  },
+  {
+    "street": "Viale Rimembranze",
+    "number": "13",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7125351,
+    "longitude": 9.1325696
+  },
+  {
+    "street": "Viale Rimembranze",
+    "number": "7",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7127026,
+    "longitude": 9.1323814
+  },
+  {
+    "street": "Via Crocifisso",
+    "number": "12",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.712985,
+    "longitude": 9.1316564
+  },
+  {
+    "street": "Viale Rimembranze",
+    "number": "6",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7120712,
+    "longitude": 9.1326781
+  },
+  {
+    "street": "Viale Rimembranze",
+    "number": "14",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7121541,
+    "longitude": 9.1333252
+  },
+  {
+    "street": "Viale Rimembranze",
+    "number": "9",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7128729,
+    "longitude": 9.1324545
+  },
+  {
+    "street": "Via Crocifisso",
+    "number": "13",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.712945,
+    "longitude": 9.1317948
+  },
+  {
+    "street": "Viale Rimembranze",
+    "number": "5",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7124381,
+    "longitude": 9.1324473
+  },
+  {
+    "street": "Via San Materno",
+    "number": "19",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7128004,
+    "longitude": 9.1318581
+  },
+  {
+    "street": "Piazza Umberto I",
+    "number": "5",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7138432,
+    "longitude": 9.1310903
+  },
+  {
+    "street": "Piazza Umberto I",
+    "number": "11",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7136439,
+    "longitude": 9.1307222
+  },
+  {
+    "street": "Piazza Umberto I",
+    "number": "11a",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7135208,
+    "longitude": 9.1308147
+  },
+  {
+    "street": "Via Como",
+    "number": "15",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7178607,
+    "longitude": 9.1286551
+  },
+  {
+    "street": "Piazza Umberto Primo",
+    "number": "1",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7142121,
+    "longitude": 9.131799
+  },
+  {
+    "street": "Via Cervino",
+    "number": "10f",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7059089,
+    "longitude": 9.1250462
+  },
+  {
+    "street": "Via Cervino",
+    "number": "10a",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7063614,
+    "longitude": 9.128885
+  },
+  {
+    "street": "Via Cervino",
+    "number": "10b",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7062853,
+    "longitude": 9.1281875
+  },
+  {
+    "street": "Via Europa",
+    "number": "25",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7081058,
+    "longitude": 9.1223473
+  },
+  {
+    "street": "Via Como",
+    "number": "4",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7146151,
+    "longitude": 9.1302402
+  },
+  {
+    "street": "Via Vico Necchi",
+    "number": "61",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7026984,
+    "longitude": 9.1389629
+  },
+  {
+    "street": "Via Grigna",
+    "number": "13",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7023069,
+    "longitude": 9.1346049
+  },
+  {
+    "street": "Via Grigna",
+    "number": "13a",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7016705,
+    "longitude": 9.1342728
+  },
+  {
+    "street": "Via Grigna",
+    "number": "28",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7038206,
+    "longitude": 9.1332967
+  },
+  {
+    "street": "Via Grigna",
+    "number": "10b",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7035499,
+    "longitude": 9.1345559
+  },
+  {
+    "street": "Via Grigna",
+    "number": "24",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7033823,
+    "longitude": 9.1337079
+  },
+  {
+    "street": "Via Grigna",
+    "number": "15",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7023166,
+    "longitude": 9.1338596
+  },
+  {
+    "street": "Via Grigna",
+    "number": "7",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7025376,
+    "longitude": 9.1353802
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "16",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7134525,
+    "longitude": 9.1287724
+  },
+  {
+    "street": "Via Grigna",
+    "number": "32",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7039669,
+    "longitude": 9.1326048
+  },
+  {
+    "street": "Via Cervino",
+    "number": "2",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7096141,
+    "longitude": 9.1297281
+  },
+  {
+    "street": "Via Grigna",
+    "number": "8",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.70318,
+    "longitude": 9.1357884
+  },
+  {
+    "street": "Via Europa",
+    "number": "10m",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7050245,
+    "longitude": 9.1256261
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "2",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7114596,
+    "longitude": 9.1255902
+  },
+  {
+    "street": "Via per Castelletto",
+    "number": "1a",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7210385,
+    "longitude": 9.1285988
+  },
+  {
+    "street": "Via delle Baraggette",
+    "number": "3",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7231544,
+    "longitude": 9.1402308
+  },
+  {
+    "street": "Via Vico Necchi",
+    "number": "58",
+    "city": {
+      "name": "Figino Serenza",
+      "istat": "013101"
+    },
+    "latitude": 45.7019912,
+    "longitude": 9.1385685
+  }
+]

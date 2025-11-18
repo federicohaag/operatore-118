@@ -1,0 +1,642 @@
+[
+  {
+    "street": "Via Trieste",
+    "number": "40",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8894975,
+    "longitude": 8.7914131
+  },
+  {
+    "street": "Viale Indipendenza",
+    "number": "7",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8879484,
+    "longitude": 8.7902426
+  },
+  {
+    "street": "Viale Indipendenza",
+    "number": "9",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8879543,
+    "longitude": 8.7901901
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "6",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8896456,
+    "longitude": 8.7882447
+  },
+  {
+    "street": "Viale Monte Rosa",
+    "number": "17",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8890972,
+    "longitude": 8.7837386
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "10",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8894228,
+    "longitude": 8.7901579
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "5",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8894135,
+    "longitude": 8.7882323
+  },
+  {
+    "street": "Via Piave",
+    "number": "5",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8872251,
+    "longitude": 8.7906925
+  },
+  {
+    "street": "Piazza Enrico Riziero Galvaligi",
+    "number": "1",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8884302,
+    "longitude": 8.7906773
+  },
+  {
+    "street": "Viale Monte Rosa",
+    "number": "1",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8896352,
+    "longitude": 8.7874974
+  },
+  {
+    "street": "Viale Monte Rosa",
+    "number": "7",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8895031,
+    "longitude": 8.7863943
+  },
+  {
+    "street": "Viale Monte Rosa",
+    "number": "9",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8894634,
+    "longitude": 8.7860061
+  },
+  {
+    "street": "Viale Monte Rosa",
+    "number": "25c",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8888502,
+    "longitude": 8.7813819
+  },
+  {
+    "street": "Viale Monte Rosa",
+    "number": "29",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8880819,
+    "longitude": 8.7809447
+  },
+  {
+    "street": "Viale Monte Rosa",
+    "number": "31",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8876133,
+    "longitude": 8.7808455
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "29",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8906624,
+    "longitude": 8.783456
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "25",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8906972,
+    "longitude": 8.7839448
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "23",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8906104,
+    "longitude": 8.7845677
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "21",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8905754,
+    "longitude": 8.784836
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "19",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8905353,
+    "longitude": 8.7850425
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "17",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8904937,
+    "longitude": 8.7853684
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "15",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8904368,
+    "longitude": 8.7859162
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "13",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8903812,
+    "longitude": 8.7863233
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "28",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8907967,
+    "longitude": 8.7839027
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "26",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8907762,
+    "longitude": 8.7841401
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "22",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8906492,
+    "longitude": 8.7849488
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "20a",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8905624,
+    "longitude": 8.785508
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "18",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8905329,
+    "longitude": 8.785791
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "16",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8904861,
+    "longitude": 8.7861378
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "14",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8903535,
+    "longitude": 8.7868971
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "10",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8901323,
+    "longitude": 8.7873168
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "8",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8899577,
+    "longitude": 8.787581
+  },
+  {
+    "street": "Viale Monte Rosa",
+    "number": "8",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8896506,
+    "longitude": 8.7871049
+  },
+  {
+    "street": "Viale Monte Rosa",
+    "number": "12",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8895829,
+    "longitude": 8.7862081
+  },
+  {
+    "street": "Viale Monte Rosa",
+    "number": "14",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8895558,
+    "longitude": 8.7858506
+  },
+  {
+    "street": "Viale Monte Rosa",
+    "number": "18",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8894603,
+    "longitude": 8.7851525
+  },
+  {
+    "street": "Viale Monte Rosa",
+    "number": "20",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8896938,
+    "longitude": 8.7849039
+  },
+  {
+    "street": "Viale Monte Rosa",
+    "number": "22",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.889384,
+    "longitude": 8.7848888
+  },
+  {
+    "street": "Viale Monte Rosa",
+    "number": "26",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8894245,
+    "longitude": 8.7820016
+  },
+  {
+    "street": "Viale Monte Rosa",
+    "number": "28",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8894754,
+    "longitude": 8.7818969
+  },
+  {
+    "street": "Viale Monte Rosa",
+    "number": "30",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8896325,
+    "longitude": 8.7814944
+  },
+  {
+    "street": "Viale Monte Rosa",
+    "number": "34",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.889271,
+    "longitude": 8.7817455
+  },
+  {
+    "street": "Viale Monte Rosa",
+    "number": "32",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8893003,
+    "longitude": 8.7814354
+  },
+  {
+    "street": "Viale Monte Rosa",
+    "number": "36",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8891557,
+    "longitude": 8.7814501
+  },
+  {
+    "street": "Viale Monte Rosa",
+    "number": "21",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8890512,
+    "longitude": 8.7817325
+  },
+  {
+    "street": "Viale Monte Rosa",
+    "number": "21a",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8890021,
+    "longitude": 8.7820736
+  },
+  {
+    "street": "Viale Monte Rosa",
+    "number": "23",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8890282,
+    "longitude": 8.7815888
+  },
+  {
+    "street": "Viale Monte Rosa",
+    "number": "21d",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8886707,
+    "longitude": 8.7812676
+  },
+  {
+    "street": "Viale Monte Rosa",
+    "number": "21b",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8886529,
+    "longitude": 8.7817109
+  },
+  {
+    "street": "Viale Monte Rosa",
+    "number": "35",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.886241,
+    "longitude": 8.7803566
+  },
+  {
+    "street": "Viale Monte Rosa",
+    "number": "11a",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8893675,
+    "longitude": 8.7852707
+  },
+  {
+    "street": "Viale Monte Rosa",
+    "number": "11d",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8894379,
+    "longitude": 8.7856422
+  },
+  {
+    "street": "Viale Monte Rosa",
+    "number": "5",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8894043,
+    "longitude": 8.7869269
+  },
+  {
+    "street": "Viale Monte Rosa",
+    "number": "3",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8894421,
+    "longitude": 8.7869772
+  },
+  {
+    "street": "Viale Monte Rosa",
+    "number": "33",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8873125,
+    "longitude": 8.780686
+  },
+  {
+    "street": "Viale Monte Rosa",
+    "number": "24a",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8892709,
+    "longitude": 8.7829106
+  },
+  {
+    "street": "Viale Monte Rosa",
+    "number": "24b",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8892723,
+    "longitude": 8.7827671
+  },
+  {
+    "street": "Viale Monte Rosa",
+    "number": "24c",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8892732,
+    "longitude": 8.7826981
+  },
+  {
+    "street": "Viale Monte Rosa",
+    "number": "24d",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8892731,
+    "longitude": 8.7826129
+  },
+  {
+    "street": "Viale Monte Rosa",
+    "number": "24e",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.889277,
+    "longitude": 8.7824667
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "17-19",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8903715,
+    "longitude": 8.7851891
+  },
+  {
+    "street": "Viale Indipendenza",
+    "number": "10",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8879183,
+    "longitude": 8.7898274
+  },
+  {
+    "street": "Via Trieste",
+    "number": "2",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8886775,
+    "longitude": 8.7915985
+  },
+  {
+    "street": "Via Virgilio",
+    "number": "9",
+    "city": {
+      "name": "Brinzio",
+      "istat": "012021"
+    },
+    "latitude": 45.8852925,
+    "longitude": 8.7933585
+  }
+]

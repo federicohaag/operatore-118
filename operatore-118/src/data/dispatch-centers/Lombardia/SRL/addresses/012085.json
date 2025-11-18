@@ -1,0 +1,1232 @@
+[
+  {
+    "street": "Via Indipendenza",
+    "number": "40",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7079062,
+    "longitude": 8.7904805
+  },
+  {
+    "street": "Via Giulio Bianchi",
+    "number": "10",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7072142,
+    "longitude": 8.791648
+  },
+  {
+    "street": "Via Giulio Bianchi",
+    "number": "1",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.707159,
+    "longitude": 8.7923327
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "17",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7075313,
+    "longitude": 8.7904151
+  },
+  {
+    "street": "Via Varesina",
+    "number": "44",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7053485,
+    "longitude": 8.8049636
+  },
+  {
+    "street": "Via Varesina",
+    "number": "4",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7001439,
+    "longitude": 8.8041426
+  },
+  {
+    "street": "Via Milano",
+    "number": "1",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7071835,
+    "longitude": 8.7949856
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "6",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7031766,
+    "longitude": 8.8033184
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "4",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7031729,
+    "longitude": 8.8031495
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "8",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7032216,
+    "longitude": 8.8035303
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "11",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7033246,
+    "longitude": 8.8033909
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "9",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7037405,
+    "longitude": 8.8040936
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "7",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.70363,
+    "longitude": 8.8041955
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "8",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.703703,
+    "longitude": 8.8042116
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "6",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7034202,
+    "longitude": 8.804276
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "2",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7033864,
+    "longitude": 8.8041526
+  },
+  {
+    "street": "Via Bonomi",
+    "number": "22",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7032947,
+    "longitude": 8.8054427
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "26",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7029238,
+    "longitude": 8.804512
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "28",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7030043,
+    "longitude": 8.8045469
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "29",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7030287,
+    "longitude": 8.8042653
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "27",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7030043,
+    "longitude": 8.8041794
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "25",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7030605,
+    "longitude": 8.8040587
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "23",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7028676,
+    "longitude": 8.8044155
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "11",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7023262,
+    "longitude": 8.8056681
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "3",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7023524,
+    "longitude": 8.8056225
+  },
+  {
+    "street": "Via Varesina",
+    "number": "22",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7022981,
+    "longitude": 8.8047078
+  },
+  {
+    "street": "Via Varesina",
+    "number": "20",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7021857,
+    "longitude": 8.8045523
+  },
+  {
+    "street": "Via Varesina",
+    "number": "18",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7021445,
+    "longitude": 8.8045067
+  },
+  {
+    "street": "Via Varesina",
+    "number": "16",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7020302,
+    "longitude": 8.8043806
+  },
+  {
+    "street": "Via Varesina",
+    "number": "12",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7018055,
+    "longitude": 8.8042411
+  },
+  {
+    "street": "Via Varesina",
+    "number": "9",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7020733,
+    "longitude": 8.8041928
+  },
+  {
+    "street": "Via Varesina",
+    "number": "3",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7017174,
+    "longitude": 8.8039729
+  },
+  {
+    "street": "Via Varesina",
+    "number": "7",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7019666,
+    "longitude": 8.8041285
+  },
+  {
+    "street": "Via Varesina",
+    "number": "5",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7018392,
+    "longitude": 8.804056
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "11",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7016106,
+    "longitude": 8.8052899
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "9",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7016444,
+    "longitude": 8.8052604
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "2",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7022588,
+    "longitude": 8.8050914
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "1",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7022513,
+    "longitude": 8.8052174
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "3",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7021295,
+    "longitude": 8.8052121
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "5",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7020134,
+    "longitude": 8.8051745
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "4",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7020471,
+    "longitude": 8.8050619
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "7",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7017493,
+    "longitude": 8.8051236
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "8",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7017755,
+    "longitude": 8.8050029
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "8c",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7015825,
+    "longitude": 8.8049895
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "13",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7013634,
+    "longitude": 8.8050619
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "19",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7028301,
+    "longitude": 8.8044181
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "17",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.702669,
+    "longitude": 8.804343
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "13",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7026409,
+    "longitude": 8.8042518
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "2",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7023393,
+    "longitude": 8.8033399
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "1",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7023543,
+    "longitude": 8.8031253
+  },
+  {
+    "street": "Via Bonomi",
+    "number": "24",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7037742,
+    "longitude": 8.8054562
+  },
+  {
+    "street": "Via Bonomi",
+    "number": "20",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.703231,
+    "longitude": 8.8053462
+  },
+  {
+    "street": "Via Bonomi",
+    "number": "18",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7031186,
+    "longitude": 8.8051745
+  },
+  {
+    "street": "Via Bonomi",
+    "number": "10",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7030942,
+    "longitude": 8.805086
+  },
+  {
+    "street": "Via Bonomi",
+    "number": "6",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7030699,
+    "longitude": 8.8049304
+  },
+  {
+    "street": "Via Libertà",
+    "number": "21",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7033153,
+    "longitude": 8.8047266
+  },
+  {
+    "street": "Via Libertà",
+    "number": "25",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7032085,
+    "longitude": 8.8047186
+  },
+  {
+    "street": "Via Libertà",
+    "number": "27",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7026297,
+    "longitude": 8.8047132
+  },
+  {
+    "street": "Via Milano",
+    "number": "49",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7023356,
+    "longitude": 8.8027766
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "1",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7023487,
+    "longitude": 8.8043618
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "8",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7021932,
+    "longitude": 8.8058612
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "15",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.702315,
+    "longitude": 8.8057217
+  },
+  {
+    "street": "Via Autostrada",
+    "number": "7",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7013222,
+    "longitude": 8.8047507
+  },
+  {
+    "street": "Via Autostrada",
+    "number": "5",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7013278,
+    "longitude": 8.8046005
+  },
+  {
+    "street": "Via Autostrada",
+    "number": "12",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7011985,
+    "longitude": 8.8046274
+  },
+  {
+    "street": "Via Autostrada",
+    "number": "3",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7013559,
+    "longitude": 8.8042089
+  },
+  {
+    "street": "Via Autostrada",
+    "number": "1",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.701369,
+    "longitude": 8.8040373
+  },
+  {
+    "street": "Via Autostrada",
+    "number": "6",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7012247,
+    "longitude": 8.8043806
+  },
+  {
+    "street": "Via Autostrada",
+    "number": "4",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7012397,
+    "longitude": 8.8042411
+  },
+  {
+    "street": "Via Autostrada",
+    "number": "2",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7012603,
+    "longitude": 8.8040373
+  },
+  {
+    "street": "Via Varesina",
+    "number": "8",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7011498,
+    "longitude": 8.8039488
+  },
+  {
+    "street": "Via Varesina",
+    "number": "1",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7011236,
+    "longitude": 8.8037637
+  },
+  {
+    "street": "Via Milano",
+    "number": "67",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7015001,
+    "longitude": 8.803187
+  },
+  {
+    "street": "Via Milano",
+    "number": "69",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7012004,
+    "longitude": 8.8033372
+  },
+  {
+    "street": "Via Milano",
+    "number": "71",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7008932,
+    "longitude": 8.803474
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "15",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7008969,
+    "longitude": 8.8049948
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "10",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7010618,
+    "longitude": 8.80485
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "12",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7008951,
+    "longitude": 8.80485
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "14",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7008089,
+    "longitude": 8.8048312
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "16",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7007096,
+    "longitude": 8.8048178
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "18",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7006197,
+    "longitude": 8.804799
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "2",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7004249,
+    "longitude": 8.8044128
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "1",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7005279,
+    "longitude": 8.8041928
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "19",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.700438,
+    "longitude": 8.804909
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "20",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.6999322,
+    "longitude": 8.8045523
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "21",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.6998854,
+    "longitude": 8.8046837
+  },
+  {
+    "street": "Via Varesina",
+    "number": "6",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7003462,
+    "longitude": 8.8040373
+  },
+  {
+    "street": "Via Varesina",
+    "number": "2",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7000333,
+    "longitude": 8.8042036
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "5",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.6998357,
+    "longitude": 8.8062523
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "2",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7007335,
+    "longitude": 8.8056913
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "34",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7077958,
+    "longitude": 8.7910127
+  },
+  {
+    "street": "Piazza Don Luigi Mauri",
+    "number": "1",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7037965,
+    "longitude": 8.7937441
+  },
+  {
+    "street": "Via Varesina",
+    "number": "50",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.705627,
+    "longitude": 8.8040959
+  },
+  {
+    "street": "Via Vittoria",
+    "number": "23",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7048367,
+    "longitude": 8.7915124
+  },
+  {
+    "street": "Via Vittoria",
+    "number": "25",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7047822,
+    "longitude": 8.7914943
+  },
+  {
+    "street": "Via Vittoria",
+    "number": "27",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7046663,
+    "longitude": 8.7914556
+  },
+  {
+    "street": "Via Vittoria",
+    "number": "20",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7064796,
+    "longitude": 8.7911154
+  },
+  {
+    "street": "Via Vittoria",
+    "number": "22",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7064215,
+    "longitude": 8.7910486
+  },
+  {
+    "street": "Via Vittoria",
+    "number": "18",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7063755,
+    "longitude": 8.7912636
+  },
+  {
+    "street": "Via Vittoria",
+    "number": "24",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7062426,
+    "longitude": 8.7912005
+  },
+  {
+    "street": "Via Vittoria",
+    "number": "26",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7060964,
+    "longitude": 8.7913066
+  },
+  {
+    "street": "Via Vittoria",
+    "number": "28",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7058919,
+    "longitude": 8.7914218
+  },
+  {
+    "street": "Via Vittoria",
+    "number": "14",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7060025,
+    "longitude": 8.7914932
+  },
+  {
+    "street": "Via Vittoria",
+    "number": "12",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7059539,
+    "longitude": 8.7915142
+  },
+  {
+    "street": "Via Vittoria",
+    "number": "16",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7061558,
+    "longitude": 8.7913706
+  },
+  {
+    "street": "Via Vittoria",
+    "number": "10",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7059686,
+    "longitude": 8.7918335
+  },
+  {
+    "street": "Via Vittoria",
+    "number": "3",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7057156,
+    "longitude": 8.7919432
+  },
+  {
+    "street": "Via Vittoria",
+    "number": "5",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7056837,
+    "longitude": 8.7919012
+  },
+  {
+    "street": "Via Vittoria",
+    "number": "15",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7053977,
+    "longitude": 8.7914423
+  },
+  {
+    "street": "Via Vittoria",
+    "number": "36",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.705255,
+    "longitude": 8.7911881
+  },
+  {
+    "street": "Via Cantone",
+    "number": "20",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7051037,
+    "longitude": 8.7915374
+  },
+  {
+    "street": "Via Cantone",
+    "number": "18",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7052494,
+    "longitude": 8.7919121
+  },
+  {
+    "street": "Via Cantone",
+    "number": "12",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7054456,
+    "longitude": 8.7920285
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "2",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7042861,
+    "longitude": 8.7935234
+  },
+  {
+    "street": "Via Raffaello Sanzio",
+    "number": "10",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7087619,
+    "longitude": 8.7843033
+  },
+  {
+    "street": "Via Rimembranze",
+    "number": "8",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7032751,
+    "longitude": 8.7936312
+  },
+  {
+    "street": "Via Raffaello Sanzio",
+    "number": "4",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7091174,
+    "longitude": 8.7839823
+  },
+  {
+    "street": "Via Pilatello",
+    "number": "4",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7097025,
+    "longitude": 8.8008129
+  },
+  {
+    "street": "Via Varesina",
+    "number": "52",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7059376,
+    "longitude": 8.8044329
+  },
+  {
+    "street": "Via Raffaello Sanzio",
+    "number": "2",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7092911,
+    "longitude": 8.78455
+  },
+  {
+    "street": "Via Raffaello Sanzio",
+    "number": "8",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7090496,
+    "longitude": 8.7845089
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "9",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7026727,
+    "longitude": 8.8034405
+  },
+  {
+    "street": "Via Raffaello Sanzio",
+    "number": "6",
+    "city": {
+      "name": "Jerago con Orago",
+      "istat": "012085"
+    },
+    "latitude": 45.7090722,
+    "longitude": 8.7842199
+  }
+]

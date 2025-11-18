@@ -1,0 +1,42 @@
+[
+  {
+    "street": "Via Gino Bartali",
+    "number": "4",
+    "city": {
+      "name": "Magreglio",
+      "istat": "013139"
+    },
+    "latitude": 45.9239741,
+    "longitude": 9.2682216
+  },
+  {
+    "street": "Piazza Municipio",
+    "number": "2",
+    "city": {
+      "name": "Magreglio",
+      "istat": "013139"
+    },
+    "latitude": 45.9200238,
+    "longitude": 9.2619481
+  },
+  {
+    "street": "Via Adua",
+    "number": "35",
+    "city": {
+      "name": "Magreglio",
+      "istat": "013139"
+    },
+    "latitude": 45.92321,
+    "longitude": 9.2660039
+  },
+  {
+    "street": "Via Dante",
+    "number": "10",
+    "city": {
+      "name": "Magreglio",
+      "istat": "013139"
+    },
+    "latitude": 45.9187746,
+    "longitude": 9.2633314
+  }
+]

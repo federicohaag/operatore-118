@@ -1,0 +1,332 @@
+[
+  {
+    "street": "Via Roma",
+    "number": "2",
+    "city": {
+      "name": "Arcisate",
+      "istat": "012004"
+    },
+    "latitude": 45.8600183,
+    "longitude": 8.859912
+  },
+  {
+    "street": "Piazza Alcide De Gasperi",
+    "number": "1",
+    "city": {
+      "name": "Arcisate",
+      "istat": "012004"
+    },
+    "latitude": 45.8600695,
+    "longitude": 8.8598676
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "24",
+    "city": {
+      "name": "Arcisate",
+      "istat": "012004"
+    },
+    "latitude": 45.8594072,
+    "longitude": 8.8578102
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "30",
+    "city": {
+      "name": "Arcisate",
+      "istat": "012004"
+    },
+    "latitude": 45.8537429,
+    "longitude": 8.8678243
+  },
+  {
+    "street": "Via Niccolò Machiavelli",
+    "number": "5",
+    "city": {
+      "name": "Arcisate",
+      "istat": "012004"
+    },
+    "latitude": 45.8610694,
+    "longitude": 8.8779557
+  },
+  {
+    "street": "Via Ugo Foscolo",
+    "number": "12",
+    "city": {
+      "name": "Arcisate",
+      "istat": "012004"
+    },
+    "latitude": 45.8558436,
+    "longitude": 8.8641506
+  },
+  {
+    "street": "Via Martinelli Foscarini",
+    "number": "24",
+    "city": {
+      "name": "Arcisate",
+      "istat": "012004"
+    },
+    "latitude": 45.8617675,
+    "longitude": 8.8598235
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "9",
+    "city": {
+      "name": "Arcisate",
+      "istat": "012004"
+    },
+    "latitude": 45.8589135,
+    "longitude": 8.855519
+  },
+  {
+    "street": "Via Bruno Giacomini",
+    "number": "26",
+    "city": {
+      "name": "Arcisate",
+      "istat": "012004"
+    },
+    "latitude": 45.8605414,
+    "longitude": 8.8738114
+  },
+  {
+    "street": "Via Bernardino Luini",
+    "number": "5",
+    "city": {
+      "name": "Arcisate",
+      "istat": "012004"
+    },
+    "latitude": 45.8589732,
+    "longitude": 8.8644006
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "20",
+    "city": {
+      "name": "Arcisate",
+      "istat": "012004"
+    },
+    "latitude": 45.8591805,
+    "longitude": 8.8571643
+  },
+  {
+    "street": "Piazza Alcide De Gasperi",
+    "number": "2",
+    "city": {
+      "name": "Arcisate",
+      "istat": "012004"
+    },
+    "latitude": 45.8601178,
+    "longitude": 8.8598785
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "9",
+    "city": {
+      "name": "Arcisate",
+      "istat": "012004"
+    },
+    "latitude": 45.8590793,
+    "longitude": 8.8803247
+  },
+  {
+    "street": "via Campi Maggiori",
+    "number": "23",
+    "city": {
+      "name": "Arcisate",
+      "istat": "012004"
+    },
+    "latitude": 45.8578691,
+    "longitude": 8.8587364
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "104",
+    "city": {
+      "name": "Arcisate",
+      "istat": "012004"
+    },
+    "latitude": 45.8632169,
+    "longitude": 8.8632282
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "40",
+    "city": {
+      "name": "Arcisate",
+      "istat": "012004"
+    },
+    "latitude": 45.8572362,
+    "longitude": 8.8599659
+  },
+  {
+    "street": "Via Padre Giorgio Crippa",
+    "number": "1",
+    "city": {
+      "name": "Arcisate",
+      "istat": "012004"
+    },
+    "latitude": 45.8599538,
+    "longitude": 8.8660515
+  },
+  {
+    "street": "Via Guglielmo Oberdan",
+    "number": "8",
+    "city": {
+      "name": "Arcisate",
+      "istat": "012004"
+    },
+    "latitude": 45.8619714,
+    "longitude": 8.8785017
+  },
+  {
+    "street": "Via Benefattori",
+    "number": "24A",
+    "city": {
+      "name": "Arcisate",
+      "istat": "012004"
+    },
+    "latitude": 45.8638051,
+    "longitude": 8.8835572
+  },
+  {
+    "street": "Via Benefattori",
+    "number": "3",
+    "city": {
+      "name": "Arcisate",
+      "istat": "012004"
+    },
+    "latitude": 45.8610185,
+    "longitude": 8.8814756
+  },
+  {
+    "street": "Via Michelangelo",
+    "number": "2",
+    "city": {
+      "name": "Arcisate",
+      "istat": "012004"
+    },
+    "latitude": 45.8582003,
+    "longitude": 8.8827755
+  },
+  {
+    "street": "Via Michelangelo",
+    "number": "4",
+    "city": {
+      "name": "Arcisate",
+      "istat": "012004"
+    },
+    "latitude": 45.8583958,
+    "longitude": 8.8828673
+  },
+  {
+    "street": "Via Michelangelo",
+    "number": "6",
+    "city": {
+      "name": "Arcisate",
+      "istat": "012004"
+    },
+    "latitude": 45.8584599,
+    "longitude": 8.8830665
+  },
+  {
+    "street": "Via Michelangelo",
+    "number": "8",
+    "city": {
+      "name": "Arcisate",
+      "istat": "012004"
+    },
+    "latitude": 45.8586253,
+    "longitude": 8.8832959
+  },
+  {
+    "street": "Via Michelangelo",
+    "number": "10",
+    "city": {
+      "name": "Arcisate",
+      "istat": "012004"
+    },
+    "latitude": 45.8586874,
+    "longitude": 8.883615
+  },
+  {
+    "street": "Via Michelangelo",
+    "number": "12",
+    "city": {
+      "name": "Arcisate",
+      "istat": "012004"
+    },
+    "latitude": 45.8588726,
+    "longitude": 8.8837918
+  },
+  {
+    "street": "Via Michelangelo",
+    "number": "9",
+    "city": {
+      "name": "Arcisate",
+      "istat": "012004"
+    },
+    "latitude": 45.8591656,
+    "longitude": 8.8838907
+  },
+  {
+    "street": "Via Michelangelo",
+    "number": "7",
+    "city": {
+      "name": "Arcisate",
+      "istat": "012004"
+    },
+    "latitude": 45.8590593,
+    "longitude": 8.8835738
+  },
+  {
+    "street": "Via Michelangelo",
+    "number": "5",
+    "city": {
+      "name": "Arcisate",
+      "istat": "012004"
+    },
+    "latitude": 45.8589295,
+    "longitude": 8.8833549
+  },
+  {
+    "street": "Via Michelangelo",
+    "number": "3",
+    "city": {
+      "name": "Arcisate",
+      "istat": "012004"
+    },
+    "latitude": 45.8587941,
+    "longitude": 8.883023
+  },
+  {
+    "street": "Via Michelangelo",
+    "number": "1",
+    "city": {
+      "name": "Arcisate",
+      "istat": "012004"
+    },
+    "latitude": 45.8585862,
+    "longitude": 8.8825291
+  },
+  {
+    "street": "Via Francesco Petrarca",
+    "number": "26",
+    "city": {
+      "name": "Arcisate",
+      "istat": "012004"
+    },
+    "latitude": 45.8535267,
+    "longitude": 8.8662236
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "15C",
+    "city": {
+      "name": "Arcisate",
+      "istat": "012004"
+    },
+    "latitude": 45.8578081,
+    "longitude": 8.8814614
+  }
+]

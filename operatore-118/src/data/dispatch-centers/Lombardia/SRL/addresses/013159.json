@@ -1,0 +1,1622 @@
+[
+  {
+    "street": "Via Armando Diaz",
+    "number": "27",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.677559,
+    "longitude": 8.9559551
+  },
+  {
+    "street": "Via Duca d'Aosta",
+    "number": "14",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6772928,
+    "longitude": 8.9559605
+  },
+  {
+    "street": "Via Filippo Corridoni",
+    "number": "8",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6776753,
+    "longitude": 8.9569079
+  },
+  {
+    "street": "Via Carlo Rosselli",
+    "number": "6",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6738782,
+    "longitude": 8.9553436
+  },
+  {
+    "street": "Via Giosuè Carducci",
+    "number": "2",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6736431,
+    "longitude": 8.9566372
+  },
+  {
+    "street": "Via Trieste",
+    "number": "29",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6826999,
+    "longitude": 8.9512243
+  },
+  {
+    "street": "Via San Martino",
+    "number": "15",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.66925,
+    "longitude": 8.96425
+  },
+  {
+    "street": "Via Varese",
+    "number": "160",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6656792,
+    "longitude": 8.9645113
+  },
+  {
+    "street": "Via Varese",
+    "number": "85",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6695919,
+    "longitude": 8.9607345
+  },
+  {
+    "street": "Via Gorla",
+    "number": "6",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6750963,
+    "longitude": 8.9496998
+  },
+  {
+    "street": "Piazza Luigi Einaudi",
+    "number": "1/c",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6710625,
+    "longitude": 8.9581531
+  },
+  {
+    "street": "Via Conte Ottavio Castiglioni",
+    "number": "2",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6749742,
+    "longitude": 8.9549394
+  },
+  {
+    "street": "Via Varese",
+    "number": "5",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.679328,
+    "longitude": 8.9458057
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "16",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6773694,
+    "longitude": 8.9564174
+  },
+  {
+    "street": "Via Carlo Rosselli",
+    "number": "1",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6740004,
+    "longitude": 8.9559219
+  },
+  {
+    "street": "Via Guffanti",
+    "number": "41",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6778276,
+    "longitude": 8.9668581
+  },
+  {
+    "street": "Via Varese",
+    "number": "124",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6677983,
+    "longitude": 8.9609734
+  },
+  {
+    "street": "Via Guffanti",
+    "number": "12",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6716649,
+    "longitude": 8.9613592
+  },
+  {
+    "street": "Via Guffanti",
+    "number": "13",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6721217,
+    "longitude": 8.9614353
+  },
+  {
+    "street": "Via Varese",
+    "number": "112",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6699627,
+    "longitude": 8.9585866
+  },
+  {
+    "street": "Via Stazione",
+    "number": "4",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6774485,
+    "longitude": 8.9552329
+  },
+  {
+    "street": "Via Stazione",
+    "number": "1",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.677233,
+    "longitude": 8.9554479
+  },
+  {
+    "street": "Piazza Nob Gerolamo Cornaggia Medici",
+    "number": "18",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6755243,
+    "longitude": 8.9557301
+  },
+  {
+    "street": "Via Limido",
+    "number": "11",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6759038,
+    "longitude": 8.9561217
+  },
+  {
+    "street": "Via Limido",
+    "number": "19",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6759526,
+    "longitude": 8.9564127
+  },
+  {
+    "street": "Piazza Nob Gerolamo Cornaggia Medici",
+    "number": "33",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6756752,
+    "longitude": 8.9556439
+  },
+  {
+    "street": "Via Gian Battista Figini",
+    "number": "3",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6752526,
+    "longitude": 8.9546599
+  },
+  {
+    "street": "Via San Bartolomeo",
+    "number": "9",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6758364,
+    "longitude": 8.9543528
+  },
+  {
+    "street": "Via San Bartolomeo",
+    "number": "7",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6759638,
+    "longitude": 8.9546089
+  },
+  {
+    "street": "Via Duca d'Aosta",
+    "number": "16",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6773553,
+    "longitude": 8.9561713
+  },
+  {
+    "street": "Via Gian Battista Figini",
+    "number": "9",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6756965,
+    "longitude": 8.9542109
+  },
+  {
+    "street": "Via Gian Battista Figini",
+    "number": "16",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6756507,
+    "longitude": 8.9546014
+  },
+  {
+    "street": "Via Gian Battista Figini",
+    "number": "14",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6755702,
+    "longitude": 8.9547398
+  },
+  {
+    "street": "Via Varese",
+    "number": "90",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6728011,
+    "longitude": 8.953939
+  },
+  {
+    "street": "Via Varese",
+    "number": "73",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6731671,
+    "longitude": 8.9543057
+  },
+  {
+    "street": "Via Varese",
+    "number": "75",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6731251,
+    "longitude": 8.9543796
+  },
+  {
+    "street": "Via Carlo Rosselli",
+    "number": "28",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6731491,
+    "longitude": 8.9544831
+  },
+  {
+    "street": "Via Varese",
+    "number": "55",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6733307,
+    "longitude": 8.9541208
+  },
+  {
+    "street": "Via Carlo Rosselli",
+    "number": "9",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6738497,
+    "longitude": 8.9556722
+  },
+  {
+    "street": "Piazza Sant'Alessandro",
+    "number": "14",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6741833,
+    "longitude": 8.9555166
+  },
+  {
+    "street": "Piazza Nob Gerolamo Cornaggia Medici",
+    "number": "15",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.675276,
+    "longitude": 8.955288
+  },
+  {
+    "street": "Piazza Nob Gerolamo Cornaggia Medici",
+    "number": "27",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6756121,
+    "longitude": 8.9555904
+  },
+  {
+    "street": "Piazza Nob Gerolamo Cornaggia Medici",
+    "number": "23",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6755142,
+    "longitude": 8.9555192
+  },
+  {
+    "street": "Piazza Nob Gerolamo Cornaggia Medici",
+    "number": "17",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6753918,
+    "longitude": 8.9554048
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "11",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6763391,
+    "longitude": 8.9554611
+  },
+  {
+    "street": "Via Limido",
+    "number": "7",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6758892,
+    "longitude": 8.9560034
+  },
+  {
+    "street": "Via Limido",
+    "number": "23",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6761332,
+    "longitude": 8.957007
+  },
+  {
+    "street": "Via Varese",
+    "number": "96",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6715408,
+    "longitude": 8.9563828
+  },
+  {
+    "street": "Via Varese",
+    "number": "100",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6714602,
+    "longitude": 8.9565548
+  },
+  {
+    "street": "Via Varese",
+    "number": "104",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6713387,
+    "longitude": 8.956793
+  },
+  {
+    "street": "Via Luigi Galvani",
+    "number": "3",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6714285,
+    "longitude": 8.9554357
+  },
+  {
+    "street": "Via Luigi Galvani",
+    "number": "5",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.671217,
+    "longitude": 8.9551898
+  },
+  {
+    "street": "Via Varese",
+    "number": "110",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6700972,
+    "longitude": 8.9584144
+  },
+  {
+    "street": "Via Varese",
+    "number": "233",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6691516,
+    "longitude": 8.9600342
+  },
+  {
+    "street": "Via Varese",
+    "number": "122",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.668266,
+    "longitude": 8.9606766
+  },
+  {
+    "street": "Via Varese",
+    "number": "136",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6671863,
+    "longitude": 8.9618634
+  },
+  {
+    "street": "Via Varese",
+    "number": "128",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6670701,
+    "longitude": 8.9620257
+  },
+  {
+    "street": "Via Varese",
+    "number": "134",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6667648,
+    "longitude": 8.9624443
+  },
+  {
+    "street": "Via Varese",
+    "number": "126",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6669333,
+    "longitude": 8.9621438
+  },
+  {
+    "street": "Via Corbè",
+    "number": "6",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.666388,
+    "longitude": 8.9619721
+  },
+  {
+    "street": "Via Corbè",
+    "number": "8",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6661295,
+    "longitude": 8.9618432
+  },
+  {
+    "street": "Via Corbè",
+    "number": "9",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6658045,
+    "longitude": 8.961989
+  },
+  {
+    "street": "Via Corbè",
+    "number": "5",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6660897,
+    "longitude": 8.9623126
+  },
+  {
+    "street": "Via Varese",
+    "number": "130",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6669119,
+    "longitude": 8.961152
+  },
+  {
+    "street": "Via Gianmaria Cornaggia Medici",
+    "number": "105",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6663141,
+    "longitude": 8.9609603
+  },
+  {
+    "street": "Via Gianmaria Cornaggia Medici",
+    "number": "101",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6666267,
+    "longitude": 8.9604429
+  },
+  {
+    "street": "Via Gianmaria Cornaggia Medici",
+    "number": "103",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6664725,
+    "longitude": 8.9606821
+  },
+  {
+    "street": "Via Gianmaria Cornaggia Medici",
+    "number": "95",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6668715,
+    "longitude": 8.9599709
+  },
+  {
+    "street": "Via Gianmaria Cornaggia Medici",
+    "number": "108",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6658139,
+    "longitude": 8.9604242
+  },
+  {
+    "street": "Via Corbè",
+    "number": "73",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6640977,
+    "longitude": 8.9604182
+  },
+  {
+    "street": "Via Corbè",
+    "number": "19",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6647242,
+    "longitude": 8.9607786
+  },
+  {
+    "street": "Via Corbè",
+    "number": "15",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6655171,
+    "longitude": 8.9617362
+  },
+  {
+    "street": "Via Varese",
+    "number": "158",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6657739,
+    "longitude": 8.9641126
+  },
+  {
+    "street": "Via Corbè",
+    "number": "63/65",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6626285,
+    "longitude": 8.9597594
+  },
+  {
+    "street": "Via Sandro Pertini",
+    "number": "1",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6719344,
+    "longitude": 8.9572839
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "22",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.672832,
+    "longitude": 8.9572915
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "18",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6731799,
+    "longitude": 8.9569408
+  },
+  {
+    "street": "Via Carlo Rosselli",
+    "number": "13",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6735613,
+    "longitude": 8.9554343
+  },
+  {
+    "street": "Via Conte Ottavio Castiglioni",
+    "number": "8",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.674859,
+    "longitude": 8.9545905
+  },
+  {
+    "street": "Via San Bartolomeo",
+    "number": "13",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6756021,
+    "longitude": 8.9537692
+  },
+  {
+    "street": "Via Gian Battista Figini",
+    "number": "5",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6754478,
+    "longitude": 8.9545826
+  },
+  {
+    "street": "Via Piero Piccinelli",
+    "number": "11",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6792416,
+    "longitude": 8.9467514
+  },
+  {
+    "street": "Via Piero Piccinelli",
+    "number": "3",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6791727,
+    "longitude": 8.9466313
+  },
+  {
+    "street": "Via Libertà",
+    "number": "1",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6797584,
+    "longitude": 8.9454243
+  },
+  {
+    "street": "Via Anna Frank",
+    "number": "1/3",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6790567,
+    "longitude": 8.9480634
+  },
+  {
+    "street": "Via Fabio Filzi",
+    "number": "1",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6795027,
+    "longitude": 8.9514644
+  },
+  {
+    "street": "Via Piero Piccinelli",
+    "number": "12",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6801024,
+    "longitude": 8.9490451
+  },
+  {
+    "street": "Via Anna Frank",
+    "number": "3",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6783296,
+    "longitude": 8.9490075
+  },
+  {
+    "street": "Via Piero Piccinelli",
+    "number": "16",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6804847,
+    "longitude": 8.9494849
+  },
+  {
+    "street": "Via Piero Piccinelli",
+    "number": "27",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.68194,
+    "longitude": 8.9502011
+  },
+  {
+    "street": "Via Trieste",
+    "number": "74",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.683176,
+    "longitude": 8.9514644
+  },
+  {
+    "street": "Via Giovanni Falcone",
+    "number": "97",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6787065,
+    "longitude": 8.9500375
+  },
+  {
+    "street": "Via Giovanni Falcone",
+    "number": "105",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6793395,
+    "longitude": 8.9490801
+  },
+  {
+    "street": "Via Varese",
+    "number": "9",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6772995,
+    "longitude": 8.9488732
+  },
+  {
+    "street": "Via Fabio Filzi",
+    "number": "35",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6768085,
+    "longitude": 8.9494391
+  },
+  {
+    "street": "Via Fabio Filzi",
+    "number": "33",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6767073,
+    "longitude": 8.9495598
+  },
+  {
+    "street": "Via Piero Piccinelli",
+    "number": "2",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6787556,
+    "longitude": 8.9470815
+  },
+  {
+    "street": "Via Varese",
+    "number": "13",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6762462,
+    "longitude": 8.9500399
+  },
+  {
+    "street": "Via Varese",
+    "number": "4",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6760493,
+    "longitude": 8.9495761
+  },
+  {
+    "street": "Via John Fitzgerald Kennedy",
+    "number": "1",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6828051,
+    "longitude": 8.9565143
+  },
+  {
+    "street": "Via Trieste",
+    "number": "25",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6814037,
+    "longitude": 8.9525155
+  },
+  {
+    "street": "Via Moncornò",
+    "number": "7",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.682615,
+    "longitude": 8.9542977
+  },
+  {
+    "street": "Via Duca d'Aosta",
+    "number": "6",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6770452,
+    "longitude": 8.9552736
+  },
+  {
+    "street": "Via San Bartolomeo",
+    "number": "14",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6752571,
+    "longitude": 8.9527239
+  },
+  {
+    "street": "Via Varese",
+    "number": "20",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6771556,
+    "longitude": 8.9479617
+  },
+  {
+    "street": "Via Varese",
+    "number": "40",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6762933,
+    "longitude": 8.9491966
+  },
+  {
+    "street": "Via Varese",
+    "number": "34",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6765304,
+    "longitude": 8.9489586
+  },
+  {
+    "street": "Via Varese",
+    "number": "36",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6766073,
+    "longitude": 8.9487913
+  },
+  {
+    "street": "Via Varese",
+    "number": "22",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6776199,
+    "longitude": 8.9472713
+  },
+  {
+    "street": "Via Varese",
+    "number": "14",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6779999,
+    "longitude": 8.9465959
+  },
+  {
+    "street": "Via Varese",
+    "number": "12",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6785005,
+    "longitude": 8.9457736
+  },
+  {
+    "street": "Via Varese",
+    "number": "8",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6784939,
+    "longitude": 8.9450095
+  },
+  {
+    "street": "Via Tarantelli",
+    "number": "20",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6776066,
+    "longitude": 8.9461667
+  },
+  {
+    "street": "Via Tarantelli",
+    "number": "16",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.677004,
+    "longitude": 8.9455707
+  },
+  {
+    "street": "Via Tarantelli",
+    "number": "14",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6768132,
+    "longitude": 8.9453605
+  },
+  {
+    "street": "Via Tarantelli",
+    "number": "15",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6776127,
+    "longitude": 8.9447755
+  },
+  {
+    "street": "Piazza Walter Tobagi",
+    "number": "4",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6774734,
+    "longitude": 8.9441687
+  },
+  {
+    "street": "Piazza Walter Tobagi",
+    "number": "15",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6768632,
+    "longitude": 8.9444872
+  },
+  {
+    "street": "Via Tarantelli",
+    "number": "5",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6766043,
+    "longitude": 8.9442857
+  },
+  {
+    "street": "Via Tarantelli",
+    "number": "12",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6766664,
+    "longitude": 8.9450767
+  },
+  {
+    "street": "Via Tarantelli",
+    "number": "10",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6764135,
+    "longitude": 8.9448296
+  },
+  {
+    "street": "Via Tarantelli",
+    "number": "3",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6760335,
+    "longitude": 8.9437808
+  },
+  {
+    "street": "Via San Bartolomeo",
+    "number": "3",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6762691,
+    "longitude": 8.9552761
+  },
+  {
+    "street": "Via Gian Battista Figini",
+    "number": "8",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6754906,
+    "longitude": 8.9548824
+  },
+  {
+    "street": "Via Gian Battista Figini",
+    "number": "4",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6753338,
+    "longitude": 8.9551583
+  },
+  {
+    "street": "Via Tarantelli",
+    "number": "6",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6760785,
+    "longitude": 8.9445238
+  },
+  {
+    "street": "Via Tarantelli",
+    "number": "2",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6751912,
+    "longitude": 8.9437958
+  },
+  {
+    "street": "Via Antonia Pozzi",
+    "number": "380",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6759979,
+    "longitude": 8.942561
+  },
+  {
+    "street": "Via Gian Battista Figini",
+    "number": "6",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6753828,
+    "longitude": 8.9550686
+  },
+  {
+    "street": "Via Varese",
+    "number": "25",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6743161,
+    "longitude": 8.9524805
+  },
+  {
+    "street": "Via Filippo Corridoni",
+    "number": "2",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6774869,
+    "longitude": 8.9564893
+  },
+  {
+    "street": "Via Trieste",
+    "number": "11",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6774589,
+    "longitude": 8.9568902
+  },
+  {
+    "street": "Via Filippo Corridoni",
+    "number": "4",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6775205,
+    "longitude": 8.9565791
+  },
+  {
+    "street": "Via Filippo Corridoni",
+    "number": "6",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6775586,
+    "longitude": 8.9566817
+  },
+  {
+    "street": "Via Trieste",
+    "number": "13",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6775888,
+    "longitude": 8.9567619
+  },
+  {
+    "street": "Via Filippo Corridoni",
+    "number": "17",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.678521,
+    "longitude": 8.9583911
+  },
+  {
+    "street": "Via Gorla",
+    "number": "32",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6736631,
+    "longitude": 8.9439454
+  },
+  {
+    "street": "Via Gorla",
+    "number": "44",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6680868,
+    "longitude": 8.9348335
+  },
+  {
+    "street": "Via Gianmaria Cornaggia Medici",
+    "number": "16",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.672606,
+    "longitude": 8.9478593
+  },
+  {
+    "street": "Piazzale Trattati di Roma",
+    "number": "1",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6700704,
+    "longitude": 8.9512208
+  },
+  {
+    "street": "Via Conte Ottavio Castiglioni",
+    "number": "11",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6747301,
+    "longitude": 8.9546941
+  },
+  {
+    "street": "Via Achille Grandi",
+    "number": "100",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6634857,
+    "longitude": 8.9517723
+  },
+  {
+    "street": "Via Guffanti",
+    "number": "1",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6705686,
+    "longitude": 8.9603725
+  },
+  {
+    "street": "Via Limido",
+    "number": "37",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6758328,
+    "longitude": 8.9630571
+  },
+  {
+    "street": "Via Giovanni Falcone",
+    "number": "173",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6789533,
+    "longitude": 8.9497115
+  },
+  {
+    "street": "Via Valle dei Prei",
+    "number": "1",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6759739,
+    "longitude": 8.9638902
+  },
+  {
+    "street": "Via San Martino",
+    "number": "7",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6700085,
+    "longitude": 8.9634876
+  },
+  {
+    "street": "Piazza Santa Maria Solaro",
+    "number": "2",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.671045,
+    "longitude": 8.9623423
+  },
+  {
+    "street": "Via Santa Croce",
+    "number": "32",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6784371,
+    "longitude": 8.9595621
+  },
+  {
+    "street": "Via Santa Croce",
+    "number": "23",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.677984,
+    "longitude": 8.9597793
+  },
+  {
+    "street": "Via Piero Piccinelli",
+    "number": "10",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6799788,
+    "longitude": 8.9485558
+  },
+  {
+    "street": "Via Duca d'Aosta",
+    "number": "10",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.677134,
+    "longitude": 8.9555482
+  },
+  {
+    "street": "Via Fabio Filzi",
+    "number": "27",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6777462,
+    "longitude": 8.9510037
+  },
+  {
+    "street": "Via Anna Frank (già Via Milanes Veggia)",
+    "number": "1/3",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6792606,
+    "longitude": 8.9475553
+  },
+  {
+    "street": "Via Andrea Perego",
+    "number": "38",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6770578,
+    "longitude": 8.9611243
+  },
+  {
+    "street": "Via Giosuè Carducci",
+    "number": "4",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6737004,
+    "longitude": 8.9568046
+  },
+  {
+    "street": "Via Papa Giovanni Paolo Secondo",
+    "number": "10",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6728413,
+    "longitude": 8.955999
+  },
+  {
+    "street": "Via Enrico Galvaligi",
+    "number": "2",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6714806,
+    "longitude": 8.9590469
+  },
+  {
+    "street": "Via Varese",
+    "number": "64",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6745146,
+    "longitude": 8.9517862
+  },
+  {
+    "street": "Piazza Gerolamo Cornaggia Medici",
+    "number": "2",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6749844,
+    "longitude": 8.9559553
+  },
+  {
+    "street": "Via Varese",
+    "number": "94",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6716718,
+    "longitude": 8.9561564
+  },
+  {
+    "street": "Via San Martino",
+    "number": "11",
+    "city": {
+      "name": "Mozzate",
+      "istat": "013159"
+    },
+    "latitude": 45.6694312,
+    "longitude": 8.9636595
+  }
+]

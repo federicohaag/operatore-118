@@ -1,0 +1,102 @@
+[
+  {
+    "street": "Piazza don Cesare Ossola",
+    "number": "2",
+    "city": {
+      "name": "Bodio Lomnago",
+      "istat": "012016"
+    },
+    "latitude": 45.7896004,
+    "longitude": 8.7512179
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "2",
+    "city": {
+      "name": "Bodio Lomnago",
+      "istat": "012016"
+    },
+    "latitude": 45.7906939,
+    "longitude": 8.7578686
+  },
+  {
+    "street": "Via Piave",
+    "number": "21",
+    "city": {
+      "name": "Bodio Lomnago",
+      "istat": "012016"
+    },
+    "latitude": 45.7902433,
+    "longitude": 8.7533787
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "3",
+    "city": {
+      "name": "Bodio Lomnago",
+      "istat": "012016"
+    },
+    "latitude": 45.7905613,
+    "longitude": 8.746305
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "5",
+    "city": {
+      "name": "Bodio Lomnago",
+      "istat": "012016"
+    },
+    "latitude": 45.7904952,
+    "longitude": 8.7461043
+  },
+  {
+    "street": "Piazza don Beniamino Gandini",
+    "number": "2",
+    "city": {
+      "name": "Bodio Lomnago",
+      "istat": "012016"
+    },
+    "latitude": 45.7834452,
+    "longitude": 8.7534566
+  },
+  {
+    "street": "Via Scerèe",
+    "number": "66",
+    "city": {
+      "name": "Bodio Lomnago",
+      "istat": "012016"
+    },
+    "latitude": 45.7988596,
+    "longitude": 8.7471991
+  },
+  {
+    "street": "Via al Gaggio",
+    "number": "1",
+    "city": {
+      "name": "Bodio Lomnago",
+      "istat": "012016"
+    },
+    "latitude": 45.7906248,
+    "longitude": 8.758857
+  },
+  {
+    "street": "Via Carlo Bossi",
+    "number": "33",
+    "city": {
+      "name": "Bodio Lomnago",
+      "istat": "012016"
+    },
+    "latitude": 45.7893944,
+    "longitude": 8.752053
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "8",
+    "city": {
+      "name": "Bodio Lomnago",
+      "istat": "012016"
+    },
+    "latitude": 45.7907272,
+    "longitude": 8.7534516
+  }
+]

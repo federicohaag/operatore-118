@@ -1,0 +1,2102 @@
+[
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "15",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.629401,
+    "longitude": 8.886008
+  },
+  {
+    "street": "Via Conciliazione",
+    "number": "4",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6165141,
+    "longitude": 8.8838142
+  },
+  {
+    "street": "Via Luigia Greppi",
+    "number": "15",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6291438,
+    "longitude": 8.8888298
+  },
+  {
+    "street": "Via Don Giovanni Minzoni",
+    "number": "6",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6164265,
+    "longitude": 8.8838757
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "6",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6295105,
+    "longitude": 8.8867584
+  },
+  {
+    "street": "Corso Sempione",
+    "number": "118",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6179255,
+    "longitude": 8.8745129
+  },
+  {
+    "street": "Via Piave",
+    "number": "1",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6272696,
+    "longitude": 8.8890802
+  },
+  {
+    "street": "Via Biagio Bellotti",
+    "number": "22",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6325139,
+    "longitude": 8.8853573
+  },
+  {
+    "street": "Via Venezia",
+    "number": "62",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.623233,
+    "longitude": 8.8830227
+  },
+  {
+    "street": "Via Venezia",
+    "number": "24",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6222598,
+    "longitude": 8.8832514
+  },
+  {
+    "street": "Via Busto Fagnano",
+    "number": "52",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6367886,
+    "longitude": 8.8599824
+  },
+  {
+    "street": "Via Luigia Greppi",
+    "number": "4",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6295891,
+    "longitude": 8.8886358
+  },
+  {
+    "street": "Piazza San Gregorio",
+    "number": "11",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6342851,
+    "longitude": 8.8885789
+  },
+  {
+    "street": "Via Luigia Greppi",
+    "number": "38",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6282346,
+    "longitude": 8.8888433
+  },
+  {
+    "street": "Via Piave",
+    "number": "101",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6246109,
+    "longitude": 8.8716717
+  },
+  {
+    "street": "Via Volturno",
+    "number": "1",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6258091,
+    "longitude": 8.8804996
+  },
+  {
+    "street": "Via Volturno",
+    "number": "23",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6246403,
+    "longitude": 8.8809765
+  },
+  {
+    "street": "Via Venezia",
+    "number": "3",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6215833,
+    "longitude": 8.8832524
+  },
+  {
+    "street": "Via Venezia",
+    "number": "20",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6220485,
+    "longitude": 8.8832899
+  },
+  {
+    "street": "Via Milano",
+    "number": "44",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.624032,
+    "longitude": 8.8811076
+  },
+  {
+    "street": "Via Milano",
+    "number": "20",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6223377,
+    "longitude": 8.8814684
+  },
+  {
+    "street": "Via Venezia",
+    "number": "6",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6214952,
+    "longitude": 8.8834056
+  },
+  {
+    "street": "Via Volturno",
+    "number": "20",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6246008,
+    "longitude": 8.8808196
+  },
+  {
+    "street": "Via Venezia",
+    "number": "9",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6220142,
+    "longitude": 8.8831659
+  },
+  {
+    "street": "Via Milano",
+    "number": "2",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6209195,
+    "longitude": 8.8819091
+  },
+  {
+    "street": "Via Milano",
+    "number": "34",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6235762,
+    "longitude": 8.8811626
+  },
+  {
+    "street": "Via Grosseto",
+    "number": "10",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6218715,
+    "longitude": 8.8839053
+  },
+  {
+    "street": "Via Volturno",
+    "number": "2",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6257696,
+    "longitude": 8.8803537
+  },
+  {
+    "street": "Via Grosseto",
+    "number": "2",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6210505,
+    "longitude": 8.88414
+  },
+  {
+    "street": "Via Don Giovanni Minzoni",
+    "number": "5",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6164549,
+    "longitude": 8.8840144
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "48",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6325878,
+    "longitude": 8.8851713
+  },
+  {
+    "street": "Via Luigia Greppi",
+    "number": "36",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6283438,
+    "longitude": 8.8888025
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "2",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6284227,
+    "longitude": 8.8866888
+  },
+  {
+    "street": "Via Roma",
+    "number": "2",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6261606,
+    "longitude": 8.8894943
+  },
+  {
+    "street": "Via Don Giacomo Tovo",
+    "number": "6",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6298215,
+    "longitude": 8.8904201
+  },
+  {
+    "street": "Piazza Sandro Pertini",
+    "number": "40",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6245881,
+    "longitude": 8.8769368
+  },
+  {
+    "street": "Piazza Sandro Pertini",
+    "number": "21",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6241748,
+    "longitude": 8.877133
+  },
+  {
+    "street": "Via Milano",
+    "number": "30",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6229201,
+    "longitude": 8.8812477
+  },
+  {
+    "street": "Via Don Giovanni Minzoni",
+    "number": "20",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.616757,
+    "longitude": 8.8854016
+  },
+  {
+    "street": "Via San Genesio",
+    "number": "1",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6281171,
+    "longitude": 8.8922016
+  },
+  {
+    "street": "Via San Genesio",
+    "number": "3",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6279017,
+    "longitude": 8.8922786
+  },
+  {
+    "street": "Via Santa Chiara",
+    "number": "9",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6274099,
+    "longitude": 8.8600384
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "18",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6192967,
+    "longitude": 8.8710353
+  },
+  {
+    "street": "Via Sempione",
+    "number": "148",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.619577,
+    "longitude": 8.8690681
+  },
+  {
+    "street": "Via Unità d'Italia",
+    "number": "92",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6183562,
+    "longitude": 8.8736252
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "59",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6192435,
+    "longitude": 8.8715507
+  },
+  {
+    "street": "Via Mantova",
+    "number": "3",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6192119,
+    "longitude": 8.8729847
+  },
+  {
+    "street": "Via Mantova",
+    "number": "6",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6196797,
+    "longitude": 8.8727476
+  },
+  {
+    "street": "Via Mantova",
+    "number": "5",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6194941,
+    "longitude": 8.8718947
+  },
+  {
+    "street": "Via Torino",
+    "number": "6",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6201317,
+    "longitude": 8.8724324
+  },
+  {
+    "street": "Via Torino",
+    "number": "16",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6206174,
+    "longitude": 8.872277
+  },
+  {
+    "street": "Via Torino",
+    "number": "22",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6208171,
+    "longitude": 8.8722446
+  },
+  {
+    "street": "Via Torino",
+    "number": "28",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6210929,
+    "longitude": 8.8721335
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "50",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6307279,
+    "longitude": 8.8880214
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "56",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6305225,
+    "longitude": 8.8880542
+  },
+  {
+    "street": "Via Sempione",
+    "number": "142",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6192661,
+    "longitude": 8.8699847
+  },
+  {
+    "street": "Via Sempione",
+    "number": "146",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6196206,
+    "longitude": 8.8695851
+  },
+  {
+    "street": "Via Mantova",
+    "number": "12",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6196019,
+    "longitude": 8.8712561
+  },
+  {
+    "street": "Via Busto Fagnano",
+    "number": "44 D",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6348586,
+    "longitude": 8.8595014
+  },
+  {
+    "street": "Via Repubblica",
+    "number": "13",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6265444,
+    "longitude": 8.8615377
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "32",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6278162,
+    "longitude": 8.887639
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "30",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6280676,
+    "longitude": 8.8875264
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "126",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6388912,
+    "longitude": 8.884635
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "124",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6384467,
+    "longitude": 8.8845035
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "122",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6383549,
+    "longitude": 8.8844928
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "93b",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6378429,
+    "longitude": 8.8839242
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "46",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6324322,
+    "longitude": 8.885217
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "45",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6319783,
+    "longitude": 8.8851285
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "22",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6295381,
+    "longitude": 8.8861987
+  },
+  {
+    "street": "Via Marzabotto",
+    "number": "20",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6205527,
+    "longitude": 8.8890455
+  },
+  {
+    "street": "Piazzaletto dei Patrioti",
+    "number": "14",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6298151,
+    "longitude": 8.8903019
+  },
+  {
+    "street": "Via Giovanni Verga",
+    "number": "17",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6208888,
+    "longitude": 8.8680321
+  },
+  {
+    "street": "Via Giovanni Verga",
+    "number": "13",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6211233,
+    "longitude": 8.8679382
+  },
+  {
+    "street": "Via Giovanni Verga",
+    "number": "11",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6212189,
+    "longitude": 8.8679141
+  },
+  {
+    "street": "Via Giovanni Verga",
+    "number": "9",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6214291,
+    "longitude": 8.8678497
+  },
+  {
+    "street": "Via Giovanni Verga",
+    "number": "3",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6219168,
+    "longitude": 8.867678
+  },
+  {
+    "street": "Via Piave",
+    "number": "139",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6221156,
+    "longitude": 8.8673562
+  },
+  {
+    "street": "Via Piave",
+    "number": "190",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6222938,
+    "longitude": 8.8672569
+  },
+  {
+    "street": "Via Piave",
+    "number": "192",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6222282,
+    "longitude": 8.867155
+  },
+  {
+    "street": "Via Ugo Foscolo",
+    "number": "16",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6218924,
+    "longitude": 8.8696361
+  },
+  {
+    "street": "Via Ugo Foscolo",
+    "number": "8",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.62217,
+    "longitude": 8.8695556
+  },
+  {
+    "street": "Via Ugo Foscolo",
+    "number": "7",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6221344,
+    "longitude": 8.8696924
+  },
+  {
+    "street": "Via Ugo Foscolo",
+    "number": "5",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6222207,
+    "longitude": 8.8696629
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "161",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6223032,
+    "longitude": 8.8681582
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "5",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6219731,
+    "longitude": 8.8703442
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "2",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.621807,
+    "longitude": 8.870257
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "9",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.621838,
+    "longitude": 8.8703924
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "13",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6217798,
+    "longitude": 8.8704072
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "19",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6216607,
+    "longitude": 8.8705949
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "17",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6216495,
+    "longitude": 8.8704689
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "15",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6217029,
+    "longitude": 8.8704407
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "25",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6215172,
+    "longitude": 8.8705078
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "21",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6215622,
+    "longitude": 8.8704863
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "31",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6212884,
+    "longitude": 8.8705963
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "29",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6213503,
+    "longitude": 8.8705802
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "27",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6214234,
+    "longitude": 8.87054
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "33",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6212058,
+    "longitude": 8.8706204
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "37",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6209676,
+    "longitude": 8.8706204
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "41",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6207762,
+    "longitude": 8.870658
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "35",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.621157,
+    "longitude": 8.8708886
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "6",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6209469,
+    "longitude": 8.870489
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "4",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6208738,
+    "longitude": 8.8704729
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "10",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.620508,
+    "longitude": 8.870599
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "8",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6206149,
+    "longitude": 8.8705534
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "51",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6201534,
+    "longitude": 8.8708752
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "49",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6202359,
+    "longitude": 8.8708457
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "53",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.620039,
+    "longitude": 8.8709155
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "55",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.619812,
+    "longitude": 8.8709986
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "16",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6194912,
+    "longitude": 8.870953
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "12",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6195568,
+    "longitude": 8.8709208
+  },
+  {
+    "street": "Via Mantova",
+    "number": "22",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6195475,
+    "longitude": 8.8711756
+  },
+  {
+    "street": "Via Mantova",
+    "number": "10",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6196394,
+    "longitude": 8.8721681
+  },
+  {
+    "street": "Via Mantova",
+    "number": "8",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6196488,
+    "longitude": 8.8722914
+  },
+  {
+    "street": "Via Unità d'Italia",
+    "number": "94",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6182737,
+    "longitude": 8.8732865
+  },
+  {
+    "street": "Via Unità d'Italia",
+    "number": "89",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6183337,
+    "longitude": 8.8741609
+  },
+  {
+    "street": "Via Unità d'Italia",
+    "number": "91",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6183168,
+    "longitude": 8.8740496
+  },
+  {
+    "street": "Via Unità d'Italia",
+    "number": "93",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6182774,
+    "longitude": 8.8739061
+  },
+  {
+    "street": "Via Unità d'Italia",
+    "number": "84",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6184931,
+    "longitude": 8.8741878
+  },
+  {
+    "street": "Via Unità d'Italia",
+    "number": "86",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6184575,
+    "longitude": 8.8740697
+  },
+  {
+    "street": "Via Unità d'Italia",
+    "number": "88",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6184275,
+    "longitude": 8.8739544
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "167",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6222957,
+    "longitude": 8.8678578
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "157",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.622412,
+    "longitude": 8.8690594
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "159",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6223933,
+    "longitude": 8.8688207
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "153",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6224383,
+    "longitude": 8.8693759
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "155",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6224252,
+    "longitude": 8.869223
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "147",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6225114,
+    "longitude": 8.8699499
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "151",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6224852,
+    "longitude": 8.8697031
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "152",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6225302,
+    "longitude": 8.8692042
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "154",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.622534,
+    "longitude": 8.8691506
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "136",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.622806,
+    "longitude": 8.8710523
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "138",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6227553,
+    "longitude": 8.8708189
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "144",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6226596,
+    "longitude": 8.8701779
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "143",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6225827,
+    "longitude": 8.8704273
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "12",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6219487,
+    "longitude": 8.8708913
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "10",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6220481,
+    "longitude": 8.8708431
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "6",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6222001,
+    "longitude": 8.8708028
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "4",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6223576,
+    "longitude": 8.8707411
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "2",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6225171,
+    "longitude": 8.8706982
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "3",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6225002,
+    "longitude": 8.8708189
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "1",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.622549,
+    "longitude": 8.8708055
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "5",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6223164,
+    "longitude": 8.870886
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "11",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.622125,
+    "longitude": 8.8709477
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "9",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6221794,
+    "longitude": 8.8709235
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "13",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.621928,
+    "longitude": 8.871012
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "16",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6217086,
+    "longitude": 8.8709745
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "18",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6214703,
+    "longitude": 8.8710576
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "20",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6214178,
+    "longitude": 8.871063
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "22",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6212002,
+    "longitude": 8.8711435
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "21",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6215866,
+    "longitude": 8.8711247
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "17",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6217798,
+    "longitude": 8.8710657
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "23",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6214684,
+    "longitude": 8.871181
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "27",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6211889,
+    "longitude": 8.8712668
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "26",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6210276,
+    "longitude": 8.8712239
+  },
+  {
+    "street": "Via Torino",
+    "number": "27",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6216054,
+    "longitude": 8.8719749
+  },
+  {
+    "street": "Via Torino",
+    "number": "33",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6217742,
+    "longitude": 8.8719267
+  },
+  {
+    "street": "Via Torino",
+    "number": "35",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6218455,
+    "longitude": 8.8719025
+  },
+  {
+    "street": "Via Torino",
+    "number": "39",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6219581,
+    "longitude": 8.8718677
+  },
+  {
+    "street": "Via Torino",
+    "number": "42",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6219749,
+    "longitude": 8.8719642
+  },
+  {
+    "street": "Via Torino",
+    "number": "34",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6216073,
+    "longitude": 8.8720849
+  },
+  {
+    "street": "Via Torino",
+    "number": "40",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6218042,
+    "longitude": 8.8720205
+  },
+  {
+    "street": "Via Torino",
+    "number": "25",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6213446,
+    "longitude": 8.8720393
+  },
+  {
+    "street": "Via Torino",
+    "number": "5",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6201609,
+    "longitude": 8.8722995
+  },
+  {
+    "street": "Via Torino",
+    "number": "3",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6200333,
+    "longitude": 8.872329
+  },
+  {
+    "street": "Via Torino",
+    "number": "4",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.619857,
+    "longitude": 8.8725087
+  },
+  {
+    "street": "Via Torino",
+    "number": "2",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6197351,
+    "longitude": 8.8725516
+  },
+  {
+    "street": "Via Torino",
+    "number": "1",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6198814,
+    "longitude": 8.8723773
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "3",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6222657,
+    "longitude": 8.8702369
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "1",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6223558,
+    "longitude": 8.8702074
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "80/82",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.632195,
+    "longitude": 8.8743266
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "82",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6325326,
+    "longitude": 8.8736882
+  },
+  {
+    "street": "Via Santa Rita",
+    "number": "10",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6375775,
+    "longitude": 8.8615157
+  },
+  {
+    "street": "Via Santa Rita",
+    "number": "14",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6381341,
+    "longitude": 8.8603853
+  },
+  {
+    "street": "Piave",
+    "number": "84",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6256667,
+    "longitude": 8.8768663
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "60",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6231491,
+    "longitude": 8.8809407
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "62",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6231205,
+    "longitude": 8.8807789
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "64",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6230945,
+    "longitude": 8.8806318
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "66",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6230716,
+    "longitude": 8.8805022
+  },
+  {
+    "street": "Via dei Gladioli",
+    "number": "27",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6231623,
+    "longitude": 8.8800784
+  },
+  {
+    "street": "Via dei Gladioli",
+    "number": "3",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6239402,
+    "longitude": 8.8800482
+  },
+  {
+    "street": "Via dei Tulipani",
+    "number": "1",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6230142,
+    "longitude": 8.8797149
+  },
+  {
+    "street": "Via Mantova",
+    "number": "1",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6187337,
+    "longitude": 8.8727203
+  },
+  {
+    "street": "Via Oriana Fallaci",
+    "number": "12",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6231719,
+    "longitude": 8.8846334
+  },
+  {
+    "street": "Via Ludovico Ariosto",
+    "number": "3",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6240835,
+    "longitude": 8.8741412
+  },
+  {
+    "street": "Via Sant'Agostino",
+    "number": "25",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6377208,
+    "longitude": 8.8853863
+  },
+  {
+    "street": "Via Sant'Agostino",
+    "number": "31",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6376852,
+    "longitude": 8.8851978
+  },
+  {
+    "street": "Via Sant'Agostino",
+    "number": "33",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.637667,
+    "longitude": 8.8851019
+  },
+  {
+    "street": "Via Sant'Agostino",
+    "number": "39",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6376206,
+    "longitude": 8.8849173
+  },
+  {
+    "street": "Via Sant'Agostino",
+    "number": "14",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.637764,
+    "longitude": 8.8850252
+  },
+  {
+    "street": "Via Sant'Agostino",
+    "number": "10",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6378846,
+    "longitude": 8.8856436
+  },
+  {
+    "street": "Via Luigi Tovo",
+    "number": "3",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6279709,
+    "longitude": 8.8906006
+  },
+  {
+    "street": "Via San Giorgio",
+    "number": "24",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6304064,
+    "longitude": 8.8603924
+  },
+  {
+    "street": "Via per Busto",
+    "number": "9",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6434443,
+    "longitude": 8.8745132
+  },
+  {
+    "street": "Via Undici Settembre",
+    "number": "16",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6356821,
+    "longitude": 8.8516821
+  },
+  {
+    "street": "Via Alfredo Di Dio",
+    "number": "8",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6158958,
+    "longitude": 8.8848197
+  },
+  {
+    "street": "Via Unità d'Italia",
+    "number": "6",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6201394,
+    "longitude": 8.8825288
+  },
+  {
+    "street": "Via Unità d'Italia",
+    "number": "33",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6203265,
+    "longitude": 8.8826451
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "34",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6313431,
+    "longitude": 8.8879007
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "88",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6321273,
+    "longitude": 8.8726911
+  },
+  {
+    "street": "Via San Genesio",
+    "number": "1/3",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6278968,
+    "longitude": 8.8923396
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "104",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6431578,
+    "longitude": 8.8879766
+  },
+  {
+    "street": "Via Fagnano Olona",
+    "number": "10",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6289642,
+    "longitude": 8.8591162
+  },
+  {
+    "street": "Via Piave",
+    "number": "65",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6248405,
+    "longitude": 8.8781902
+  },
+  {
+    "street": "Via Cassano Magnago",
+    "number": "120v",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6405697,
+    "longitude": 8.8536929
+  },
+  {
+    "street": "Corso Sempione",
+    "number": "150",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6200987,
+    "longitude": 8.8686336
+  },
+  {
+    "street": "Corso Sempione",
+    "number": "148",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6195477,
+    "longitude": 8.8692085
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "139",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.622396,
+    "longitude": 8.8713141
+  },
+  {
+    "street": "Via Madonna del Don",
+    "number": "18",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6247555,
+    "longitude": 8.8697434
+  },
+  {
+    "street": "Via San Francesco d'Assisi",
+    "number": "11",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6356174,
+    "longitude": 8.8639494
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "15",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6293969,
+    "longitude": 8.8857878
+  },
+  {
+    "street": "Via Sant'Antonio Abate",
+    "number": "41",
+    "city": {
+      "name": "Olgiate Olona",
+      "istat": "012108"
+    },
+    "latitude": 45.6379753,
+    "longitude": 8.8871224
+  }
+]

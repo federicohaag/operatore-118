@@ -1,0 +1,22 @@
+[
+  {
+    "street": "Via San Jorio",
+    "number": "29",
+    "city": {
+      "name": "Garzeno",
+      "istat": "013106"
+    },
+    "latitude": 46.1336103,
+    "longitude": 9.2493479
+  },
+  {
+    "street": "Via Roma",
+    "number": "53",
+    "city": {
+      "name": "Garzeno",
+      "istat": "013106"
+    },
+    "latitude": 46.1340742,
+    "longitude": 9.2541423
+  }
+]

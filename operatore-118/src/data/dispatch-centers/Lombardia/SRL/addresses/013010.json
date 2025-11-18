@@ -1,0 +1,302 @@
+[
+  {
+    "street": "Via Giuseppe Grilloni",
+    "number": "10",
+    "city": {
+      "name": "Appiano Gentile",
+      "istat": "013010"
+    },
+    "latitude": 45.7353304,
+    "longitude": 8.9798359
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "23",
+    "city": {
+      "name": "Appiano Gentile",
+      "istat": "013010"
+    },
+    "latitude": 45.7333358,
+    "longitude": 8.9784452
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "1",
+    "city": {
+      "name": "Appiano Gentile",
+      "istat": "013010"
+    },
+    "latitude": 45.73388,
+    "longitude": 8.979405
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "26",
+    "city": {
+      "name": "Appiano Gentile",
+      "istat": "013010"
+    },
+    "latitude": 45.7322078,
+    "longitude": 8.9658145
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "4",
+    "city": {
+      "name": "Appiano Gentile",
+      "istat": "013010"
+    },
+    "latitude": 45.7340436,
+    "longitude": 8.9792944
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "6",
+    "city": {
+      "name": "Appiano Gentile",
+      "istat": "013010"
+    },
+    "latitude": 45.7342441,
+    "longitude": 8.9791903
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "14",
+    "city": {
+      "name": "Appiano Gentile",
+      "istat": "013010"
+    },
+    "latitude": 45.7350517,
+    "longitude": 8.9792408
+  },
+  {
+    "street": "Via Don Riccardo Gerla",
+    "number": "5",
+    "city": {
+      "name": "Appiano Gentile",
+      "istat": "013010"
+    },
+    "latitude": 45.7344602,
+    "longitude": 8.9787253
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "22",
+    "city": {
+      "name": "Appiano Gentile",
+      "istat": "013010"
+    },
+    "latitude": 45.7345141,
+    "longitude": 8.9794642
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "17",
+    "city": {
+      "name": "Appiano Gentile",
+      "istat": "013010"
+    },
+    "latitude": 45.7349907,
+    "longitude": 8.9792689
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "9",
+    "city": {
+      "name": "Appiano Gentile",
+      "istat": "013010"
+    },
+    "latitude": 45.7347411,
+    "longitude": 8.9800484
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "1",
+    "city": {
+      "name": "Appiano Gentile",
+      "istat": "013010"
+    },
+    "latitude": 45.7337157,
+    "longitude": 8.9795347
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "24",
+    "city": {
+      "name": "Appiano Gentile",
+      "istat": "013010"
+    },
+    "latitude": 45.7318085,
+    "longitude": 8.9803657
+  },
+  {
+    "street": "Via Salvo D'Acquisto",
+    "number": "10",
+    "city": {
+      "name": "Appiano Gentile",
+      "istat": "013010"
+    },
+    "latitude": 45.7404726,
+    "longitude": 8.9842541
+  },
+  {
+    "street": "Via Monte Carmelo",
+    "number": "22",
+    "city": {
+      "name": "Appiano Gentile",
+      "istat": "013010"
+    },
+    "latitude": 45.7361739,
+    "longitude": 8.973574
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "2",
+    "city": {
+      "name": "Appiano Gentile",
+      "istat": "013010"
+    },
+    "latitude": 45.7339241,
+    "longitude": 8.9778283
+  },
+  {
+    "street": "Via Giuseppe Grilloni",
+    "number": "5",
+    "city": {
+      "name": "Appiano Gentile",
+      "istat": "013010"
+    },
+    "latitude": 45.7358903,
+    "longitude": 8.9803937
+  },
+  {
+    "street": "Via Giuseppe Grilloni",
+    "number": "3",
+    "city": {
+      "name": "Appiano Gentile",
+      "istat": "013010"
+    },
+    "latitude": 45.7357686,
+    "longitude": 8.9801604
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "21",
+    "city": {
+      "name": "Appiano Gentile",
+      "istat": "013010"
+    },
+    "latitude": 45.7346748,
+    "longitude": 8.9794159
+  },
+  {
+    "street": "Via Salvo D'Acquisto",
+    "number": "10f",
+    "city": {
+      "name": "Appiano Gentile",
+      "istat": "013010"
+    },
+    "latitude": 45.7402045,
+    "longitude": 8.9844878
+  },
+  {
+    "street": "Viale dello Sport",
+    "number": "18",
+    "city": {
+      "name": "Appiano Gentile",
+      "istat": "013010"
+    },
+    "latitude": 45.7225248,
+    "longitude": 8.9765956
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "8",
+    "city": {
+      "name": "Appiano Gentile",
+      "istat": "013010"
+    },
+    "latitude": 45.7332241,
+    "longitude": 8.9833199
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "24",
+    "city": {
+      "name": "Appiano Gentile",
+      "istat": "013010"
+    },
+    "latitude": 45.7329562,
+    "longitude": 8.9781431
+  },
+  {
+    "street": "Via Goffredo Mameli",
+    "number": "5/E",
+    "city": {
+      "name": "Appiano Gentile",
+      "istat": "013010"
+    },
+    "latitude": 45.7345038,
+    "longitude": 8.982509
+  },
+  {
+    "street": "Viale Rimembranze",
+    "number": "6A",
+    "city": {
+      "name": "Appiano Gentile",
+      "istat": "013010"
+    },
+    "latitude": 45.7387651,
+    "longitude": 8.9775505
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "8",
+    "city": {
+      "name": "Appiano Gentile",
+      "istat": "013010"
+    },
+    "latitude": 45.730322,
+    "longitude": 8.9726945
+  },
+  {
+    "street": "Via Abate Pozzone",
+    "number": "2",
+    "city": {
+      "name": "Appiano Gentile",
+      "istat": "013010"
+    },
+    "latitude": 45.7389821,
+    "longitude": 8.9807674
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "12",
+    "city": {
+      "name": "Appiano Gentile",
+      "istat": "013010"
+    },
+    "latitude": 45.7346259,
+    "longitude": 8.9785907
+  },
+  {
+    "street": "Via Monte Carmelo",
+    "number": "35 A",
+    "city": {
+      "name": "Appiano Gentile",
+      "istat": "013010"
+    },
+    "latitude": 45.7350325,
+    "longitude": 8.9716069
+  },
+  {
+    "street": "Via Monte Carmelo",
+    "number": "35",
+    "city": {
+      "name": "Appiano Gentile",
+      "istat": "013010"
+    },
+    "latitude": 45.735201,
+    "longitude": 8.9718751
+  }
+]

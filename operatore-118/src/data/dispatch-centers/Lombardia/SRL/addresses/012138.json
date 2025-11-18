@@ -1,0 +1,2022 @@
+[
+  {
+    "street": "Via Giuseppe Di Vittorio",
+    "number": "2",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7217589,
+    "longitude": 8.6947314
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "39",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7490895,
+    "longitude": 8.6909263
+  },
+  {
+    "street": "Via Fratelli Rosselli",
+    "number": "21",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7425889,
+    "longitude": 8.6860154
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "22",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7484765,
+    "longitude": 8.6904893
+  },
+  {
+    "street": "Via Sempione",
+    "number": "88",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7197006,
+    "longitude": 8.6904644
+  },
+  {
+    "street": "Via Sempione",
+    "number": "67",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7188666,
+    "longitude": 8.6896667
+  },
+  {
+    "street": "Via Corgeno",
+    "number": "17",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7246218,
+    "longitude": 8.6892344
+  },
+  {
+    "street": "Piazza Giacomo Matteotti",
+    "number": "18",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7218614,
+    "longitude": 8.6939161
+  },
+  {
+    "street": "Via Giuseppe Di Vittorio",
+    "number": "10a",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.721903,
+    "longitude": 8.695311
+  },
+  {
+    "street": "Via Giuseppe Di Vittorio",
+    "number": "5",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7220648,
+    "longitude": 8.6948603
+  },
+  {
+    "street": "Piazza Giacomo Matteotti",
+    "number": "15",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7217952,
+    "longitude": 8.6938877
+  },
+  {
+    "street": "Piazza Giacomo Matteotti",
+    "number": "10",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7219953,
+    "longitude": 8.6939484
+  },
+  {
+    "street": "Via Sempione",
+    "number": "51",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7160512,
+    "longitude": 8.6918226
+  },
+  {
+    "street": "Via delle Ginestre",
+    "number": "10",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7213209,
+    "longitude": 8.7060395
+  },
+  {
+    "street": "Via Corgeno",
+    "number": "12",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7246877,
+    "longitude": 8.6893871
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "14",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7449475,
+    "longitude": 8.6898125
+  },
+  {
+    "street": "Via Corgeno",
+    "number": "30",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7263826,
+    "longitude": 8.6892175
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "30",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7465225,
+    "longitude": 8.6912011
+  },
+  {
+    "street": "Via Corgeno",
+    "number": "42",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7277696,
+    "longitude": 8.6883047
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "42",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7485979,
+    "longitude": 8.6924918
+  },
+  {
+    "street": "Via Fratelli Rosselli",
+    "number": "58",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7398435,
+    "longitude": 8.6847315
+  },
+  {
+    "street": "Via Corgeno",
+    "number": "64",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7301795,
+    "longitude": 8.686389
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "66",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7543682,
+    "longitude": 8.6974177
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "80",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7559476,
+    "longitude": 8.6989113
+  },
+  {
+    "street": "Via Fratelli Rosselli",
+    "number": "86",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7353782,
+    "longitude": 8.6845423
+  },
+  {
+    "street": "Via Sempione",
+    "number": "39",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7131681,
+    "longitude": 8.6935366
+  },
+  {
+    "street": "Via Sempione",
+    "number": "41",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7135967,
+    "longitude": 8.6934037
+  },
+  {
+    "street": "Via Lago",
+    "number": "26",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7511624,
+    "longitude": 8.6891261
+  },
+  {
+    "street": "Via Mercallo",
+    "number": "44",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.742512,
+    "longitude": 8.6842757
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "1",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7474269,
+    "longitude": 8.6888825
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "11",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7482479,
+    "longitude": 8.6900188
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "13",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7465891,
+    "longitude": 8.6879738
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "15",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7484422,
+    "longitude": 8.6903532
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "2",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7473957,
+    "longitude": 8.6887696
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "20",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7482978,
+    "longitude": 8.6902991
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "21",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7487055,
+    "longitude": 8.6906456
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "24",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7485587,
+    "longitude": 8.6906102
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "26",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.745613,
+    "longitude": 8.6873791
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "28",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7450437,
+    "longitude": 8.6871432
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "30",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7488153,
+    "longitude": 8.6909131
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "32",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7436761,
+    "longitude": 8.6865563
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "4",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7479554,
+    "longitude": 8.6897589
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "42",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7502667,
+    "longitude": 8.6926358
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "54",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7511769,
+    "longitude": 8.693826
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "59",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7504085,
+    "longitude": 8.6926595
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "6",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.747152,
+    "longitude": 8.6884294
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "61",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7507406,
+    "longitude": 8.6930875
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "63",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7508865,
+    "longitude": 8.6933157
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "69",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7512055,
+    "longitude": 8.6937259
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "9",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7470299,
+    "longitude": 8.6883595
+  },
+  {
+    "street": "Piazza San Martino",
+    "number": "8",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7370422,
+    "longitude": 8.7200699
+  },
+  {
+    "street": "Via Varese",
+    "number": "2",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7373782,
+    "longitude": 8.7203502
+  },
+  {
+    "street": "Via Sempione",
+    "number": "82",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7187776,
+    "longitude": 8.6910088
+  },
+  {
+    "street": "Strada della Passera",
+    "number": "8",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7317215,
+    "longitude": 8.6700936
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "13",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7462647,
+    "longitude": 8.6906661
+  },
+  {
+    "street": "Via Piave",
+    "number": "16",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7238847,
+    "longitude": 8.6925802
+  },
+  {
+    "street": "Via Sempione",
+    "number": "71",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7197279,
+    "longitude": 8.6893039
+  },
+  {
+    "street": "Via Piave",
+    "number": "4",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7233718,
+    "longitude": 8.6936902
+  },
+  {
+    "street": "Via Stazione",
+    "number": "21",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7348527,
+    "longitude": 8.7224389
+  },
+  {
+    "street": "Via Canavèe",
+    "number": "1",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7225595,
+    "longitude": 8.6941991
+  },
+  {
+    "street": "Via Piave",
+    "number": "2",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7232202,
+    "longitude": 8.6939838
+  },
+  {
+    "street": "Via Felice Cavallotti",
+    "number": "15",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7231889,
+    "longitude": 8.6940732
+  },
+  {
+    "street": "Via Felice Cavallotti",
+    "number": "19",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7232556,
+    "longitude": 8.6941836
+  },
+  {
+    "street": "Via Felice Cavallotti",
+    "number": "17",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7232229,
+    "longitude": 8.694133
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "29",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7400953,
+    "longitude": 8.6814662
+  },
+  {
+    "street": "Via Milano",
+    "number": "3",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7216003,
+    "longitude": 8.6797405
+  },
+  {
+    "street": "Via Giuseppe Di Vittorio",
+    "number": "26",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7220285,
+    "longitude": 8.6960682
+  },
+  {
+    "street": "Via Giuseppe Di Vittorio",
+    "number": "7",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7221631,
+    "longitude": 8.6954448
+  },
+  {
+    "street": "Via Giuseppe Di Vittorio",
+    "number": "22",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7220001,
+    "longitude": 8.695901
+  },
+  {
+    "street": "Via Giuseppe Di Vittorio",
+    "number": "18",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7219682,
+    "longitude": 8.6956742
+  },
+  {
+    "street": "Via Uguaglianza",
+    "number": "1",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7214643,
+    "longitude": 8.6949271
+  },
+  {
+    "street": "Via Giuseppe Di Vittorio",
+    "number": "33",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7222626,
+    "longitude": 8.6962137
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "22",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7458578,
+    "longitude": 8.6911359
+  },
+  {
+    "street": "Via Giacomo Puccini",
+    "number": "42",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7273382,
+    "longitude": 8.7236507
+  },
+  {
+    "street": "Via Giuseppe Di Vittorio",
+    "number": "24",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7220111,
+    "longitude": 8.6959888
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "27",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7404592,
+    "longitude": 8.6814674
+  },
+  {
+    "street": "Via Corgeno",
+    "number": "43",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7274344,
+    "longitude": 8.6884305
+  },
+  {
+    "street": "Via Giuseppe Di Vittorio",
+    "number": "73",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.722525,
+    "longitude": 8.7018101
+  },
+  {
+    "street": "Via Giuseppe Di Vittorio",
+    "number": "88",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7219843,
+    "longitude": 8.7081289
+  },
+  {
+    "street": "Via Don Enrico Locatelli",
+    "number": "24",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7222339,
+    "longitude": 8.6906068
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "1",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7421993,
+    "longitude": 8.6849837
+  },
+  {
+    "street": "Via Corgeno",
+    "number": "37",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7268789,
+    "longitude": 8.6888291
+  },
+  {
+    "street": "Via Fratelli Rosselli",
+    "number": "84",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7358901,
+    "longitude": 8.6842812
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "25",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7406211,
+    "longitude": 8.6816373
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "3",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7421252,
+    "longitude": 8.6846001
+  },
+  {
+    "street": "Via Fratelli Rosselli",
+    "number": "74",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7392782,
+    "longitude": 8.6834618
+  },
+  {
+    "street": "Via Sempione",
+    "number": "61",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7176036,
+    "longitude": 8.6910405
+  },
+  {
+    "street": "Via Fratelli Rosselli",
+    "number": "3",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7472269,
+    "longitude": 8.6886774
+  },
+  {
+    "street": "Via Sempione",
+    "number": "54",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7146806,
+    "longitude": 8.693246
+  },
+  {
+    "street": "Via Cascina Ciabattino",
+    "number": "1",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7321654,
+    "longitude": 8.7275063
+  },
+  {
+    "street": "Via Cascina Ciabattino",
+    "number": "2",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7323913,
+    "longitude": 8.7278472
+  },
+  {
+    "street": "Via Cascina Ciabattino",
+    "number": "3",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7322664,
+    "longitude": 8.727648
+  },
+  {
+    "street": "Via Cascina Ciabattino",
+    "number": "6",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7325403,
+    "longitude": 8.7279077
+  },
+  {
+    "street": "Via Cascina Ciabattino",
+    "number": "7",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7324168,
+    "longitude": 8.7277641
+  },
+  {
+    "street": "Via Don Enrico Locatelli",
+    "number": "13",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7218705,
+    "longitude": 8.6907787
+  },
+  {
+    "street": "Via Don Enrico Locatelli",
+    "number": "15",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7219697,
+    "longitude": 8.6907513
+  },
+  {
+    "street": "Via Don Enrico Locatelli",
+    "number": "10",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7220547,
+    "longitude": 8.691406
+  },
+  {
+    "street": "Via Don Enrico Locatelli",
+    "number": "26",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7222634,
+    "longitude": 8.6904853
+  },
+  {
+    "street": "Via Amilcare Ponchielli",
+    "number": "1",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7241116,
+    "longitude": 8.7014332
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "20",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7243177,
+    "longitude": 8.7014749
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "18",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7243802,
+    "longitude": 8.7010837
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "16",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7244009,
+    "longitude": 8.7009137
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "14",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7244561,
+    "longitude": 8.7005855
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "12",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7245417,
+    "longitude": 8.7001841
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "11",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7246604,
+    "longitude": 8.7000279
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "9",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7247087,
+    "longitude": 8.6999212
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "7",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7248509,
+    "longitude": 8.6996088
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "10",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7247874,
+    "longitude": 8.6995989
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "8",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7248136,
+    "longitude": 8.6994249
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "5",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.724902,
+    "longitude": 8.6990275
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "2",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7249337,
+    "longitude": 8.6983177
+  },
+  {
+    "street": "Via Amilcare Ponchielli",
+    "number": "19",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7241994,
+    "longitude": 8.699852
+  },
+  {
+    "street": "Via Amilcare Ponchielli",
+    "number": "11",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7240697,
+    "longitude": 8.7003897
+  },
+  {
+    "street": "Via Amilcare Ponchielli",
+    "number": "9",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7240062,
+    "longitude": 8.700712
+  },
+  {
+    "street": "Via Amilcare Ponchielli",
+    "number": "7",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7239937,
+    "longitude": 8.700803
+  },
+  {
+    "street": "Via Amilcare Ponchielli",
+    "number": "5",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7239648,
+    "longitude": 8.7010086
+  },
+  {
+    "street": "Via Amilcare Ponchielli",
+    "number": "3",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7239551,
+    "longitude": 8.7010817
+  },
+  {
+    "street": "Via Antonio Vivaldi",
+    "number": "15",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7234955,
+    "longitude": 8.7003265
+  },
+  {
+    "street": "Via Antonio Vivaldi",
+    "number": "17",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7233257,
+    "longitude": 8.7003087
+  },
+  {
+    "street": "Via Antonio Vivaldi",
+    "number": "19",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7231021,
+    "longitude": 8.700279
+  },
+  {
+    "street": "Via Stazione",
+    "number": "25",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7344664,
+    "longitude": 8.7230657
+  },
+  {
+    "street": "Via Varese",
+    "number": "6",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7375378,
+    "longitude": 8.7203948
+  },
+  {
+    "street": "Via Luigi Bidoglio",
+    "number": "1",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7371431,
+    "longitude": 8.7203697
+  },
+  {
+    "street": "Via Stazione",
+    "number": "2",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.735968,
+    "longitude": 8.7201146
+  },
+  {
+    "street": "Via Stazione",
+    "number": "27",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7343063,
+    "longitude": 8.7233307
+  },
+  {
+    "street": "Via Stazione",
+    "number": "39",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7332661,
+    "longitude": 8.7242349
+  },
+  {
+    "street": "Via Stazione",
+    "number": "14",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7350746,
+    "longitude": 8.7212799
+  },
+  {
+    "street": "Via Stazione",
+    "number": "16",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7350016,
+    "longitude": 8.7214663
+  },
+  {
+    "street": "Via Varese",
+    "number": "19",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7384298,
+    "longitude": 8.7204678
+  },
+  {
+    "street": "Via Stazione",
+    "number": "35",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7336559,
+    "longitude": 8.7239809
+  },
+  {
+    "street": "Via Stazione",
+    "number": "37",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7334927,
+    "longitude": 8.7241598
+  },
+  {
+    "street": "Via Stazione",
+    "number": "38",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7335062,
+    "longitude": 8.7239462
+  },
+  {
+    "street": "Via Stazione",
+    "number": "54",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7321539,
+    "longitude": 8.726262
+  },
+  {
+    "street": "Via Don Enrico Locatelli",
+    "number": "11",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7219138,
+    "longitude": 8.6908915
+  },
+  {
+    "street": "Via Don Enrico Locatelli",
+    "number": "9",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7219007,
+    "longitude": 8.6910616
+  },
+  {
+    "street": "Via Don Enrico Locatelli",
+    "number": "17",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7220521,
+    "longitude": 8.690576
+  },
+  {
+    "street": "Via Boschetto",
+    "number": "16",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7234198,
+    "longitude": 8.6916494
+  },
+  {
+    "street": "Via Sempione",
+    "number": "26",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7130251,
+    "longitude": 8.6944767
+  },
+  {
+    "street": "Via Ines Franzetti",
+    "number": "5",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7503607,
+    "longitude": 8.6900483
+  },
+  {
+    "street": "Via Sassone",
+    "number": "35",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7525007,
+    "longitude": 8.692323
+  },
+  {
+    "street": "Via Sassone",
+    "number": "21",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7532881,
+    "longitude": 8.6934921
+  },
+  {
+    "street": "Via del Sassone",
+    "number": "12",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7530099,
+    "longitude": 8.6947466
+  },
+  {
+    "street": "Via del Sassone",
+    "number": "10a",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7533576,
+    "longitude": 8.6949501
+  },
+  {
+    "street": "Via del Sassone",
+    "number": "10",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7533553,
+    "longitude": 8.6950185
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "59",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7552925,
+    "longitude": 8.6980945
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "61",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7553584,
+    "longitude": 8.6981563
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "87",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7593802,
+    "longitude": 8.6999231
+  },
+  {
+    "street": "Via Mercallo",
+    "number": "50",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7427485,
+    "longitude": 8.6836684
+  },
+  {
+    "street": "Via Sempione",
+    "number": "96",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7210244,
+    "longitude": 8.6893433
+  },
+  {
+    "street": "Via Sempione",
+    "number": "40",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7136805,
+    "longitude": 8.6937395
+  },
+  {
+    "street": "Via Golasecca",
+    "number": "43a",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7118788,
+    "longitude": 8.6827156
+  },
+  {
+    "street": "Via Golasecca",
+    "number": "45",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.711787,
+    "longitude": 8.6823669
+  },
+  {
+    "street": "Via Golasecca",
+    "number": "34",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7119125,
+    "longitude": 8.6823106
+  },
+  {
+    "street": "Via Golasecca",
+    "number": "43",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7119275,
+    "longitude": 8.6827961
+  },
+  {
+    "street": "Via Golasecca",
+    "number": "32",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7121429,
+    "longitude": 8.6826807
+  },
+  {
+    "street": "Via Sempione",
+    "number": "42",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7140708,
+    "longitude": 8.6940629
+  },
+  {
+    "street": "Via Claudio Treves",
+    "number": "54",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.716899,
+    "longitude": 8.6889528
+  },
+  {
+    "street": "Via Posorti",
+    "number": "2",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7146687,
+    "longitude": 8.6850163
+  },
+  {
+    "street": "Via Posorti",
+    "number": "3",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7146493,
+    "longitude": 8.685218
+  },
+  {
+    "street": "Via Posorti",
+    "number": "1b",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7146752,
+    "longitude": 8.6851842
+  },
+  {
+    "street": "Via Posorti",
+    "number": "1a",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7146956,
+    "longitude": 8.6851549
+  },
+  {
+    "street": "Via Posorti",
+    "number": "1",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7147106,
+    "longitude": 8.6851195
+  },
+  {
+    "street": "Via Giuseppe Di Vittorio",
+    "number": "58",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7220918,
+    "longitude": 8.7020813
+  },
+  {
+    "street": "Via Sempione",
+    "number": "10",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7097231,
+    "longitude": 8.696242
+  },
+  {
+    "street": "Via Sempione",
+    "number": "18",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7106165,
+    "longitude": 8.6959255
+  },
+  {
+    "street": "Via Sempione",
+    "number": "30",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7120736,
+    "longitude": 8.6948794
+  },
+  {
+    "street": "Via Sempione",
+    "number": "80",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7181733,
+    "longitude": 8.6910492
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "4",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.719001,
+    "longitude": 8.692849
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "2",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7190965,
+    "longitude": 8.6931682
+  },
+  {
+    "street": "Via Roma",
+    "number": "30",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7188381,
+    "longitude": 8.6932835
+  },
+  {
+    "street": "Via Roma",
+    "number": "28",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7191583,
+    "longitude": 8.6933613
+  },
+  {
+    "street": "Via Cascina Torretta",
+    "number": "14",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7287254,
+    "longitude": 8.7098491
+  },
+  {
+    "street": "Via Sempione",
+    "number": "5",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7081946,
+    "longitude": 8.6955702
+  },
+  {
+    "street": "Via Sempione",
+    "number": "56",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7151089,
+    "longitude": 8.6930117
+  },
+  {
+    "street": "Via Sempione",
+    "number": "97",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7214703,
+    "longitude": 8.6844034
+  },
+  {
+    "street": "Via Sempione",
+    "number": "94",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7210235,
+    "longitude": 8.6900558
+  },
+  {
+    "street": "Piazza Enrico Baj",
+    "number": "16",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7245567,
+    "longitude": 8.6947509
+  },
+  {
+    "street": "Via del Villaggio",
+    "number": "1",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7263273,
+    "longitude": 8.7001552
+  },
+  {
+    "street": "Via Mario Stoppani",
+    "number": "21",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7268442,
+    "longitude": 8.6978558
+  },
+  {
+    "street": "Via Sempione",
+    "number": "72",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7175765,
+    "longitude": 8.6923376
+  },
+  {
+    "street": "Via Giuseppe Di Vittorio",
+    "number": "43",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7228881,
+    "longitude": 8.6980068
+  },
+  {
+    "street": "Via Milano",
+    "number": "23",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7247698,
+    "longitude": 8.6774575
+  },
+  {
+    "street": "Via Vigna",
+    "number": "14",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7526045,
+    "longitude": 8.6908478
+  },
+  {
+    "street": "Via Corgeno",
+    "number": "46",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7279991,
+    "longitude": 8.6888936
+  },
+  {
+    "street": "Via Sempione",
+    "number": "107",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7211044,
+    "longitude": 8.6835296
+  },
+  {
+    "street": "Via Sesto Calende",
+    "number": "12",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7159925,
+    "longitude": 8.6850761
+  },
+  {
+    "street": "Via Roma",
+    "number": "51",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7147978,
+    "longitude": 8.6963888
+  },
+  {
+    "street": "Via Cusciano",
+    "number": "2",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7242461,
+    "longitude": 8.6950186
+  },
+  {
+    "street": "Via Sempione",
+    "number": "1",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7066625,
+    "longitude": 8.6974097
+  },
+  {
+    "street": "Via Lago",
+    "number": "28",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.751853,
+    "longitude": 8.688757
+  },
+  {
+    "street": "Via Cascina Torretta",
+    "number": "5",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.72542,
+    "longitude": 8.6976617
+  },
+  {
+    "street": "Via Sant'Agnese",
+    "number": "1",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7471294,
+    "longitude": 8.6875836
+  },
+  {
+    "street": "Via Don Enrico Locatelli",
+    "number": "1",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7214755,
+    "longitude": 8.6928984
+  },
+  {
+    "street": "Via Felice Cavallotti",
+    "number": "46",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7245628,
+    "longitude": 8.6954347
+  },
+  {
+    "street": "Via Mario Stoppani",
+    "number": "25",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7271939,
+    "longitude": 8.696855
+  },
+  {
+    "street": "Via Giacomo Puccini",
+    "number": "28",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7268935,
+    "longitude": 8.7222477
+  },
+  {
+    "street": "Via Giacomo Puccini",
+    "number": "23",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7268593,
+    "longitude": 8.7197344
+  },
+  {
+    "street": "Piazza Filippo Turati",
+    "number": "4",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7424876,
+    "longitude": 8.7042351
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "21b",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7404281,
+    "longitude": 8.6827894
+  },
+  {
+    "street": "Via Felice Cavallotti",
+    "number": "7",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.722417,
+    "longitude": 8.6939115
+  },
+  {
+    "street": "Via Milano",
+    "number": "100",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7362942,
+    "longitude": 8.6795858
+  },
+  {
+    "street": "Via Sempione",
+    "number": "94/96",
+    "city": {
+      "name": "Vergiate",
+      "istat": "012138"
+    },
+    "latitude": 45.7211585,
+    "longitude": 8.689438
+  }
+]

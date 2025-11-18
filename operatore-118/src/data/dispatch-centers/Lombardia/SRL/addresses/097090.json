@@ -1,0 +1,32 @@
+[
+  {
+    "street": "Piazza Don Gaffuri",
+    "number": "1",
+    "city": {
+      "name": "Viganò",
+      "istat": "097090"
+    },
+    "latitude": 45.7253125,
+    "longitude": 9.3274382
+  },
+  {
+    "street": "Via Piave",
+    "number": "16",
+    "city": {
+      "name": "Viganò",
+      "istat": "097090"
+    },
+    "latitude": 45.7268937,
+    "longitude": 9.3282046
+  },
+  {
+    "street": "Via Ventiquattro Maggio",
+    "number": "36",
+    "city": {
+      "name": "Viganò",
+      "istat": "097090"
+    },
+    "latitude": 45.7277798,
+    "longitude": 9.3262065
+  }
+]

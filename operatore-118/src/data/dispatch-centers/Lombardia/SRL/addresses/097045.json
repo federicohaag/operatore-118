@@ -1,0 +1,392 @@
+[
+  {
+    "street": "Via Gaggio",
+    "number": "4",
+    "city": {
+      "name": "Malgrate",
+      "istat": "097045"
+    },
+    "latitude": 45.8483165,
+    "longitude": 9.3765518
+  },
+  {
+    "street": "Via San Leonardo",
+    "number": "9",
+    "city": {
+      "name": "Malgrate",
+      "istat": "097045"
+    },
+    "latitude": 45.8495904,
+    "longitude": 9.3731818
+  },
+  {
+    "street": "Via Stabilini",
+    "number": "11",
+    "city": {
+      "name": "Malgrate",
+      "istat": "097045"
+    },
+    "latitude": 45.8484339,
+    "longitude": 9.3711968
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "43",
+    "city": {
+      "name": "Malgrate",
+      "istat": "097045"
+    },
+    "latitude": 45.8495613,
+    "longitude": 9.3764648
+  },
+  {
+    "street": "Via Agudio",
+    "number": "1",
+    "city": {
+      "name": "Malgrate",
+      "istat": "097045"
+    },
+    "latitude": 45.8525375,
+    "longitude": 9.3751339
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "29",
+    "city": {
+      "name": "Malgrate",
+      "istat": "097045"
+    },
+    "latitude": 45.8486439,
+    "longitude": 9.3725997
+  },
+  {
+    "street": "Via Agudio",
+    "number": "12",
+    "city": {
+      "name": "Malgrate",
+      "istat": "097045"
+    },
+    "latitude": 45.8524011,
+    "longitude": 9.3744599
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "13a",
+    "city": {
+      "name": "Malgrate",
+      "istat": "097045"
+    },
+    "latitude": 45.8483247,
+    "longitude": 9.3700262
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "16",
+    "city": {
+      "name": "Malgrate",
+      "istat": "097045"
+    },
+    "latitude": 45.8518249,
+    "longitude": 9.3765648
+  },
+  {
+    "street": "Via Agudio",
+    "number": "2",
+    "city": {
+      "name": "Malgrate",
+      "istat": "097045"
+    },
+    "latitude": 45.8526064,
+    "longitude": 9.3752013
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "32",
+    "city": {
+      "name": "Malgrate",
+      "istat": "097045"
+    },
+    "latitude": 45.8515749,
+    "longitude": 9.376843
+  },
+  {
+    "street": "Piazza Giuseppe Garibaldi",
+    "number": "2",
+    "city": {
+      "name": "Malgrate",
+      "istat": "097045"
+    },
+    "latitude": 45.8525249,
+    "longitude": 9.375226
+  },
+  {
+    "street": "Via Giuseppe Parini",
+    "number": "1",
+    "city": {
+      "name": "Malgrate",
+      "istat": "097045"
+    },
+    "latitude": 45.8526529,
+    "longitude": 9.3752446
+  },
+  {
+    "street": "Via Agudio",
+    "number": "3",
+    "city": {
+      "name": "Malgrate",
+      "istat": "097045"
+    },
+    "latitude": 45.8525159,
+    "longitude": 9.3750068
+  },
+  {
+    "street": "Via Agudio",
+    "number": "5",
+    "city": {
+      "name": "Malgrate",
+      "istat": "097045"
+    },
+    "latitude": 45.8524669,
+    "longitude": 9.3747548
+  },
+  {
+    "street": "Via Agudio",
+    "number": "7",
+    "city": {
+      "name": "Malgrate",
+      "istat": "097045"
+    },
+    "latitude": 45.8524086,
+    "longitude": 9.374645
+  },
+  {
+    "street": "Via Agudio",
+    "number": "9",
+    "city": {
+      "name": "Malgrate",
+      "istat": "097045"
+    },
+    "latitude": 45.8523847,
+    "longitude": 9.3745817
+  },
+  {
+    "street": "Via Agudio",
+    "number": "11",
+    "city": {
+      "name": "Malgrate",
+      "istat": "097045"
+    },
+    "latitude": 45.8523292,
+    "longitude": 9.3745004
+  },
+  {
+    "street": "Via Agudio",
+    "number": "13",
+    "city": {
+      "name": "Malgrate",
+      "istat": "097045"
+    },
+    "latitude": 45.8523098,
+    "longitude": 9.3744719
+  },
+  {
+    "street": "Via Agudio",
+    "number": "18",
+    "city": {
+      "name": "Malgrate",
+      "istat": "097045"
+    },
+    "latitude": 45.8523242,
+    "longitude": 9.374358
+  },
+  {
+    "street": "Via Agudio",
+    "number": "20",
+    "city": {
+      "name": "Malgrate",
+      "istat": "097045"
+    },
+    "latitude": 45.852302,
+    "longitude": 9.3743364
+  },
+  {
+    "street": "Via Agudio",
+    "number": "14",
+    "city": {
+      "name": "Malgrate",
+      "istat": "097045"
+    },
+    "latitude": 45.8523825,
+    "longitude": 9.3744326
+  },
+  {
+    "street": "Via Agudio",
+    "number": "22",
+    "city": {
+      "name": "Malgrate",
+      "istat": "097045"
+    },
+    "latitude": 45.8522434,
+    "longitude": 9.3742976
+  },
+  {
+    "street": "Via Agudio",
+    "number": "24",
+    "city": {
+      "name": "Malgrate",
+      "istat": "097045"
+    },
+    "latitude": 45.8522344,
+    "longitude": 9.3742934
+  },
+  {
+    "street": "Via Agudio",
+    "number": "16",
+    "city": {
+      "name": "Malgrate",
+      "istat": "097045"
+    },
+    "latitude": 45.8523674,
+    "longitude": 9.3744104
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "13",
+    "city": {
+      "name": "Malgrate",
+      "istat": "097045"
+    },
+    "latitude": 45.8480374,
+    "longitude": 9.3697285
+  },
+  {
+    "street": "Via provinciale",
+    "number": "39",
+    "city": {
+      "name": "Malgrate",
+      "istat": "097045"
+    },
+    "latitude": 45.8491825,
+    "longitude": 9.3745376
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "15",
+    "city": {
+      "name": "Malgrate",
+      "istat": "097045"
+    },
+    "latitude": 45.8480003,
+    "longitude": 9.370253
+  },
+  {
+    "street": "Via Lorenzina",
+    "number": "16",
+    "city": {
+      "name": "Malgrate",
+      "istat": "097045"
+    },
+    "latitude": 45.8472866,
+    "longitude": 9.375163
+  },
+  {
+    "street": "Via Gaggio",
+    "number": "34a",
+    "city": {
+      "name": "Malgrate",
+      "istat": "097045"
+    },
+    "latitude": 45.8472689,
+    "longitude": 9.371714
+  },
+  {
+    "street": "Via Gaggio",
+    "number": "10",
+    "city": {
+      "name": "Malgrate",
+      "istat": "097045"
+    },
+    "latitude": 45.8486885,
+    "longitude": 9.37567
+  },
+  {
+    "street": "Viale Penati",
+    "number": "5/7",
+    "city": {
+      "name": "Malgrate",
+      "istat": "097045"
+    },
+    "latitude": 45.8504994,
+    "longitude": 9.3767199
+  },
+  {
+    "street": "Via Gaggio",
+    "number": "16",
+    "city": {
+      "name": "Malgrate",
+      "istat": "097045"
+    },
+    "latitude": 45.848585,
+    "longitude": 9.3754958
+  },
+  {
+    "street": "Via provinciale",
+    "number": "51",
+    "city": {
+      "name": "Malgrate",
+      "istat": "097045"
+    },
+    "latitude": 45.8492834,
+    "longitude": 9.3811918
+  },
+  {
+    "street": "Via Monsignor Polvara",
+    "number": "4",
+    "city": {
+      "name": "Malgrate",
+      "istat": "097045"
+    },
+    "latitude": 45.8498924,
+    "longitude": 9.3759065
+  },
+  {
+    "street": "Via Rio Torto",
+    "number": "35",
+    "city": {
+      "name": "Malgrate",
+      "istat": "097045"
+    },
+    "latitude": 45.8513615,
+    "longitude": 9.3676578
+  },
+  {
+    "street": "Via Scatti",
+    "number": "2",
+    "city": {
+      "name": "Malgrate",
+      "istat": "097045"
+    },
+    "latitude": 45.8522124,
+    "longitude": 9.373342
+  },
+  {
+    "street": "Via Agudio",
+    "number": "10",
+    "city": {
+      "name": "Malgrate",
+      "istat": "097045"
+    },
+    "latitude": 45.8525884,
+    "longitude": 9.3746045
+  },
+  {
+    "street": "Via delle Primule",
+    "number": "18a",
+    "city": {
+      "name": "Malgrate",
+      "istat": "097045"
+    },
+    "latitude": 45.8461331,
+    "longitude": 9.3723143
+  }
+]

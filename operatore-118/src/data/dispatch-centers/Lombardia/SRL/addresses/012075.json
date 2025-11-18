@@ -1,0 +1,172 @@
+[
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "74b",
+    "city": {
+      "name": "Gerenzano",
+      "istat": "012075"
+    },
+    "latitude": 45.6324892,
+    "longitude": 9.010672
+  },
+  {
+    "street": "Via Giosuè Carducci",
+    "number": "25",
+    "city": {
+      "name": "Gerenzano",
+      "istat": "012075"
+    },
+    "latitude": 45.6344135,
+    "longitude": 9.012584
+  },
+  {
+    "street": "Via Stazione",
+    "number": "21",
+    "city": {
+      "name": "Gerenzano",
+      "istat": "012075"
+    },
+    "latitude": 45.6449664,
+    "longitude": 9.0011407
+  },
+  {
+    "street": "Via Gian Pietro Clerici",
+    "number": "52",
+    "city": {
+      "name": "Gerenzano",
+      "istat": "012075"
+    },
+    "latitude": 45.6430552,
+    "longitude": 9.0001817
+  },
+  {
+    "street": "Via Vittorio Alfieri",
+    "number": "1",
+    "city": {
+      "name": "Gerenzano",
+      "istat": "012075"
+    },
+    "latitude": 45.6382936,
+    "longitude": 8.9946336
+  },
+  {
+    "street": "Via Gian Pietro Clerici",
+    "number": "54",
+    "city": {
+      "name": "Gerenzano",
+      "istat": "012075"
+    },
+    "latitude": 45.6430732,
+    "longitude": 9.0002687
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "6",
+    "city": {
+      "name": "Gerenzano",
+      "istat": "012075"
+    },
+    "latitude": 45.6371503,
+    "longitude": 9.0027312
+  },
+  {
+    "street": "Via Carlo Berra",
+    "number": "12",
+    "city": {
+      "name": "Gerenzano",
+      "istat": "012075"
+    },
+    "latitude": 45.6393134,
+    "longitude": 9.0014999
+  },
+  {
+    "street": "Via Gian Pietro Clerici",
+    "number": "129",
+    "city": {
+      "name": "Gerenzano",
+      "istat": "012075"
+    },
+    "latitude": 45.6358761,
+    "longitude": 9.0117007
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "80",
+    "city": {
+      "name": "Gerenzano",
+      "istat": "012075"
+    },
+    "latitude": 45.6316697,
+    "longitude": 9.0130761
+  },
+  {
+    "street": "via del Malnino",
+    "number": "5",
+    "city": {
+      "name": "Gerenzano",
+      "istat": "012075"
+    },
+    "latitude": 45.63126,
+    "longitude": 9.0151526
+  },
+  {
+    "street": "Via Gian Pietro Clerici",
+    "number": "188",
+    "city": {
+      "name": "Gerenzano",
+      "istat": "012075"
+    },
+    "latitude": 45.6321458,
+    "longitude": 9.0160637
+  },
+  {
+    "street": "Via Inglesina",
+    "number": "51",
+    "city": {
+      "name": "Gerenzano",
+      "istat": "012075"
+    },
+    "latitude": 45.6301187,
+    "longitude": 8.9760142
+  },
+  {
+    "street": "Via Pietro Zaffaroni",
+    "number": "7",
+    "city": {
+      "name": "Gerenzano",
+      "istat": "012075"
+    },
+    "latitude": 45.6402562,
+    "longitude": 9.0014005
+  },
+  {
+    "street": "Via Vincenzo Bellini",
+    "number": "14",
+    "city": {
+      "name": "Gerenzano",
+      "istat": "012075"
+    },
+    "latitude": 45.6370965,
+    "longitude": 9.0022798
+  },
+  {
+    "street": "Via Giosuè Carducci",
+    "number": "21",
+    "city": {
+      "name": "Gerenzano",
+      "istat": "012075"
+    },
+    "latitude": 45.6348229,
+    "longitude": 9.0109405
+  },
+  {
+    "street": "Via Santa Caterina da Siena",
+    "number": "25",
+    "city": {
+      "name": "Gerenzano",
+      "istat": "012075"
+    },
+    "latitude": 45.645033,
+    "longitude": 8.9953318
+  }
+]

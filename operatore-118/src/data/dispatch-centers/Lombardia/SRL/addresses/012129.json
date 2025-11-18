@@ -1,0 +1,112 @@
+[
+  {
+    "street": "Via Riviera",
+    "number": "2",
+    "city": {
+      "name": "Tronzano Lago Maggiore",
+      "istat": "012129"
+    },
+    "latitude": 46.0901412,
+    "longitude": 8.7345289
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "2",
+    "city": {
+      "name": "Tronzano Lago Maggiore",
+      "istat": "012129"
+    },
+    "latitude": 46.0888672,
+    "longitude": 8.7337036
+  },
+  {
+    "street": "Via Riviera",
+    "number": "1",
+    "city": {
+      "name": "Tronzano Lago Maggiore",
+      "istat": "012129"
+    },
+    "latitude": 46.0895413,
+    "longitude": 8.7334142
+  },
+  {
+    "street": "Via dei Castagni",
+    "number": "4",
+    "city": {
+      "name": "Tronzano Lago Maggiore",
+      "istat": "012129"
+    },
+    "latitude": 46.0903908,
+    "longitude": 8.7360221
+  },
+  {
+    "street": "Via dei Castagni",
+    "number": "6",
+    "city": {
+      "name": "Tronzano Lago Maggiore",
+      "istat": "012129"
+    },
+    "latitude": 46.0903519,
+    "longitude": 8.7359655
+  },
+  {
+    "street": "Via dei Castagni",
+    "number": "8",
+    "city": {
+      "name": "Tronzano Lago Maggiore",
+      "istat": "012129"
+    },
+    "latitude": 46.0903125,
+    "longitude": 8.7359063
+  },
+  {
+    "street": "Via Riviera",
+    "number": "16",
+    "city": {
+      "name": "Tronzano Lago Maggiore",
+      "istat": "012129"
+    },
+    "latitude": 46.0950451,
+    "longitude": 8.7370927
+  },
+  {
+    "street": "Via Riviera",
+    "number": "14",
+    "city": {
+      "name": "Tronzano Lago Maggiore",
+      "istat": "012129"
+    },
+    "latitude": 46.0934555,
+    "longitude": 8.7360811
+  },
+  {
+    "street": "Via Europa",
+    "number": "32",
+    "city": {
+      "name": "Tronzano Lago Maggiore",
+      "istat": "012129"
+    },
+    "latitude": 46.0802444,
+    "longitude": 8.7224911
+  },
+  {
+    "street": "Via Riviera",
+    "number": "16a",
+    "city": {
+      "name": "Tronzano Lago Maggiore",
+      "istat": "012129"
+    },
+    "latitude": 46.0946995,
+    "longitude": 8.7369264
+  },
+  {
+    "street": "Via Riviera",
+    "number": "16b",
+    "city": {
+      "name": "Tronzano Lago Maggiore",
+      "istat": "012129"
+    },
+    "latitude": 46.0944842,
+    "longitude": 8.7364242
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "street": "Piazza San Rocco",
+    "number": "9",
+    "city": {
+      "name": "Lurago d'Erba",
+      "istat": "013136"
+    },
+    "latitude": 45.75721,
+    "longitude": 9.2250706
+  },
+  {
+    "street": "Via Roma",
+    "number": "24",
+    "city": {
+      "name": "Lurago d'Erba",
+      "istat": "013136"
+    },
+    "latitude": 45.7540851,
+    "longitude": 9.2233255
+  },
+  {
+    "street": "Piazzale Carlo Porta",
+    "number": "14",
+    "city": {
+      "name": "Lurago d'Erba",
+      "istat": "013136"
+    },
+    "latitude": 45.7546243,
+    "longitude": 9.2181992
+  },
+  {
+    "street": "Via Roma",
+    "number": "16",
+    "city": {
+      "name": "Lurago d'Erba",
+      "istat": "013136"
+    },
+    "latitude": 45.7555723,
+    "longitude": 9.2242353
+  },
+  {
+    "street": "Via Vallassina",
+    "number": "15",
+    "city": {
+      "name": "Lurago d'Erba",
+      "istat": "013136"
+    },
+    "latitude": 45.7654045,
+    "longitude": 9.228498
+  },
+  {
+    "street": "Via Vallassina",
+    "number": "21",
+    "city": {
+      "name": "Lurago d'Erba",
+      "istat": "013136"
+    },
+    "latitude": 45.7678146,
+    "longitude": 9.2288635
+  },
+  {
+    "street": "Piazza San Rocco",
+    "number": "4",
+    "city": {
+      "name": "Lurago d'Erba",
+      "istat": "013136"
+    },
+    "latitude": 45.7568564,
+    "longitude": 9.2247757
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "20",
+    "city": {
+      "name": "Lurago d'Erba",
+      "istat": "013136"
+    },
+    "latitude": 45.7548785,
+    "longitude": 9.2255455
+  },
+  {
+    "street": "Via Roma",
+    "number": "26",
+    "city": {
+      "name": "Lurago d'Erba",
+      "istat": "013136"
+    },
+    "latitude": 45.7540516,
+    "longitude": 9.223294
+  },
+  {
+    "street": "Via Roma",
+    "number": "8",
+    "city": {
+      "name": "Lurago d'Erba",
+      "istat": "013136"
+    },
+    "latitude": 45.7557374,
+    "longitude": 9.2242911
+  },
+  {
+    "street": "Via Vallassina",
+    "number": "6",
+    "city": {
+      "name": "Lurago d'Erba",
+      "istat": "013136"
+    },
+    "latitude": 45.765254,
+    "longitude": 9.2294773
+  },
+  {
+    "street": "Via Roma",
+    "number": "44",
+    "city": {
+      "name": "Lurago d'Erba",
+      "istat": "013136"
+    },
+    "latitude": 45.7536574,
+    "longitude": 9.2231033
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "40",
+    "city": {
+      "name": "Lurago d'Erba",
+      "istat": "013136"
+    },
+    "latitude": 45.7438022,
+    "longitude": 9.2170048
+  },
+  {
+    "street": "Via Roma",
+    "number": "9",
+    "city": {
+      "name": "Lurago d'Erba",
+      "istat": "013136"
+    },
+    "latitude": 45.752627,
+    "longitude": 9.2228189
+  },
+  {
+    "street": "Via Roma",
+    "number": "13",
+    "city": {
+      "name": "Lurago d'Erba",
+      "istat": "013136"
+    },
+    "latitude": 45.7525496,
+    "longitude": 9.2227807
+  },
+  {
+    "street": "Via Roma",
+    "number": "42",
+    "city": {
+      "name": "Lurago d'Erba",
+      "istat": "013136"
+    },
+    "latitude": 45.753698,
+    "longitude": 9.2231528
+  },
+  {
+    "street": "Via Roma",
+    "number": "110",
+    "city": {
+      "name": "Lurago d'Erba",
+      "istat": "013136"
+    },
+    "latitude": 45.750144,
+    "longitude": 9.2207276
+  },
+  {
+    "street": "Via Vallassina",
+    "number": "21g",
+    "city": {
+      "name": "Lurago d'Erba",
+      "istat": "013136"
+    },
+    "latitude": 45.7669289,
+    "longitude": 9.2286749
+  },
+  {
+    "street": "Via Roma",
+    "number": "40",
+    "city": {
+      "name": "Lurago d'Erba",
+      "istat": "013136"
+    },
+    "latitude": 45.7537594,
+    "longitude": 9.2231905
+  },
+  {
+    "street": "Via Brianza",
+    "number": "1",
+    "city": {
+      "name": "Lurago d'Erba",
+      "istat": "013136"
+    },
+    "latitude": 45.7580331,
+    "longitude": 9.2318214
+  },
+  {
+    "street": "Via degli Alpini",
+    "number": "1",
+    "city": {
+      "name": "Lurago d'Erba",
+      "istat": "013136"
+    },
+    "latitude": 45.7553038,
+    "longitude": 9.2252728
+  },
+  {
+    "street": "Via Kennedy",
+    "number": "2",
+    "city": {
+      "name": "Lurago d'Erba",
+      "istat": "013136"
+    },
+    "latitude": 45.7536422,
+    "longitude": 9.2230914
+  },
+  {
+    "street": "Via Sant'Andrea",
+    "number": "20a",
+    "city": {
+      "name": "Lurago d'Erba",
+      "istat": "013136"
+    },
+    "latitude": 45.7507902,
+    "longitude": 9.2249302
+  },
+  {
+    "street": "Via Roma",
+    "number": "20",
+    "city": {
+      "name": "Lurago d'Erba",
+      "istat": "013136"
+    },
+    "latitude": 45.7519745,
+    "longitude": 9.2220386
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "4",
+    "city": {
+      "name": "Lurago d'Erba",
+      "istat": "013136"
+    },
+    "latitude": 45.7528284,
+    "longitude": 9.2246713
+  },
+  {
+    "street": "Via Stallaggio",
+    "number": "3b",
+    "city": {
+      "name": "Lurago d'Erba",
+      "istat": "013136"
+    },
+    "latitude": 45.7550944,
+    "longitude": 9.226083
+  },
+  {
+    "street": "Via Fornace",
+    "number": "2",
+    "city": {
+      "name": "Lurago d'Erba",
+      "istat": "013136"
+    },
+    "latitude": 45.7660917,
+    "longitude": 9.2285137
+  },
+  {
+    "street": "Piazza Giovanni XXIII",
+    "number": "7",
+    "city": {
+      "name": "Lurago d'Erba",
+      "istat": "013136"
+    },
+    "latitude": 45.7527396,
+    "longitude": 9.2220935
+  },
+  {
+    "street": "Via Montello",
+    "number": "30",
+    "city": {
+      "name": "Lurago d'Erba",
+      "istat": "013136"
+    },
+    "latitude": 45.7447969,
+    "longitude": 9.2140669
+  },
+  {
+    "street": "Via Umberto Maddalena",
+    "number": "20",
+    "city": {
+      "name": "Lurago d'Erba",
+      "istat": "013136"
+    },
+    "latitude": 45.7452054,
+    "longitude": 9.2155661
+  },
+  {
+    "street": "Via Umberto Maddalena",
+    "number": "18",
+    "city": {
+      "name": "Lurago d'Erba",
+      "istat": "013136"
+    },
+    "latitude": 45.7450805,
+    "longitude": 9.2147799
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "22",
+    "city": {
+      "name": "Lurago d'Erba",
+      "istat": "013136"
+    },
+    "latitude": 45.7521614,
+    "longitude": 9.2199813
+  },
+  {
+    "street": "Via Umberto Maddalena",
+    "number": "22",
+    "city": {
+      "name": "Lurago d'Erba",
+      "istat": "013136"
+    },
+    "latitude": 45.7453999,
+    "longitude": 9.2159182
+  },
+  {
+    "street": "Via Brianza",
+    "number": "2",
+    "city": {
+      "name": "Lurago d'Erba",
+      "istat": "013136"
+    },
+    "latitude": 45.7572682,
+    "longitude": 9.2306066
+  },
+  {
+    "street": "Via Roma",
+    "number": "18",
+    "city": {
+      "name": "Lurago d'Erba",
+      "istat": "013136"
+    },
+    "latitude": 45.7547492,
+    "longitude": 9.2237698
+  },
+  {
+    "street": "Via per Como",
+    "number": "7",
+    "city": {
+      "name": "Lurago d'Erba",
+      "istat": "013136"
+    },
+    "latitude": 45.7576702,
+    "longitude": 9.2224023
+  }
+]

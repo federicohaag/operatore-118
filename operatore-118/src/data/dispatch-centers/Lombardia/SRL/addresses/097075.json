@@ -1,0 +1,52 @@
+[
+  {
+    "street": "Via Molteni",
+    "number": "1",
+    "city": {
+      "name": "Sirone",
+      "istat": "097075"
+    },
+    "latitude": 45.7721856,
+    "longitude": 9.3235705
+  },
+  {
+    "street": "Via Don G. Brambilla",
+    "number": "37",
+    "city": {
+      "name": "Sirone",
+      "istat": "097075"
+    },
+    "latitude": 45.7683108,
+    "longitude": 9.3304506
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "4",
+    "city": {
+      "name": "Sirone",
+      "istat": "097075"
+    },
+    "latitude": 45.7725171,
+    "longitude": 9.3217566
+  },
+  {
+    "street": "Via Rimembranze",
+    "number": "18",
+    "city": {
+      "name": "Sirone",
+      "istat": "097075"
+    },
+    "latitude": 45.7731064,
+    "longitude": 9.3164978
+  },
+  {
+    "street": "Via Cavour",
+    "number": "1",
+    "city": {
+      "name": "Sirone",
+      "istat": "097075"
+    },
+    "latitude": 45.7702709,
+    "longitude": 9.3197566
+  }
+]

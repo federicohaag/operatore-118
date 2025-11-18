@@ -1,0 +1,2702 @@
+[
+  {
+    "street": "Via Martiri di Cefalonia",
+    "number": "26",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0520693,
+    "longitude": 9.4296161
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "8",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0519326,
+    "longitude": 9.425406
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "85",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0509548,
+    "longitude": 9.4269935
+  },
+  {
+    "street": "Via Roma",
+    "number": "11",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0540877,
+    "longitude": 9.417551
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "7",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0534569,
+    "longitude": 9.4189241
+  },
+  {
+    "street": "Via Roma",
+    "number": "2",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0529927,
+    "longitude": 9.4212204
+  },
+  {
+    "street": "Via Roma",
+    "number": "4",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0530427,
+    "longitude": 9.421064
+  },
+  {
+    "street": "Via Roma",
+    "number": "6",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0531143,
+    "longitude": 9.4208093
+  },
+  {
+    "street": "Via Roma",
+    "number": "8",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0531871,
+    "longitude": 9.4205621
+  },
+  {
+    "street": "Via Roma",
+    "number": "10",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0532958,
+    "longitude": 9.4202565
+  },
+  {
+    "street": "Via Roma",
+    "number": "12",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0533431,
+    "longitude": 9.420119
+  },
+  {
+    "street": "Via Roma",
+    "number": "14",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0534144,
+    "longitude": 9.4199129
+  },
+  {
+    "street": "Via Roma",
+    "number": "16",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.053493,
+    "longitude": 9.4196846
+  },
+  {
+    "street": "Via Roma",
+    "number": "18",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0536604,
+    "longitude": 9.41928
+  },
+  {
+    "street": "Via Roma",
+    "number": "20",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0539537,
+    "longitude": 9.4183743
+  },
+  {
+    "street": "Via Roma",
+    "number": "24",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0546444,
+    "longitude": 9.4167423
+  },
+  {
+    "street": "Via Roma",
+    "number": "22",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.054126,
+    "longitude": 9.4177546
+  },
+  {
+    "street": "Via Roma",
+    "number": "1",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0530537,
+    "longitude": 9.4206938
+  },
+  {
+    "street": "Via Roma",
+    "number": "5",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0534419,
+    "longitude": 9.4196161
+  },
+  {
+    "street": "Via Roma",
+    "number": "9",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0539299,
+    "longitude": 9.418233
+  },
+  {
+    "street": "Via Roma",
+    "number": "7",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0537923,
+    "longitude": 9.4184439
+  },
+  {
+    "street": "Via Roma",
+    "number": "13",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0541643,
+    "longitude": 9.4174452
+  },
+  {
+    "street": "Via Roma",
+    "number": "15",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0543131,
+    "longitude": 9.417229
+  },
+  {
+    "street": "Via Roma",
+    "number": "28",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0547128,
+    "longitude": 9.4163561
+  },
+  {
+    "street": "Via Roma",
+    "number": "30",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0549963,
+    "longitude": 9.4154485
+  },
+  {
+    "street": "Via Roma",
+    "number": "26",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0547209,
+    "longitude": 9.4163705
+  },
+  {
+    "street": "Via Roma",
+    "number": "34",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0552815,
+    "longitude": 9.4145451
+  },
+  {
+    "street": "Via Roma",
+    "number": "32",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0552114,
+    "longitude": 9.4148724
+  },
+  {
+    "street": "Via Roma",
+    "number": "40",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0556637,
+    "longitude": 9.4131074
+  },
+  {
+    "street": "Via Roma",
+    "number": "36",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0554591,
+    "longitude": 9.4135843
+  },
+  {
+    "street": "Via Roma",
+    "number": "46",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0560008,
+    "longitude": 9.41201
+  },
+  {
+    "street": "Via Roma",
+    "number": "42",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.055744,
+    "longitude": 9.4129857
+  },
+  {
+    "street": "Via Roma",
+    "number": "44",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0558141,
+    "longitude": 9.4126301
+  },
+  {
+    "street": "Via Roma",
+    "number": "38",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0555875,
+    "longitude": 9.4133374
+  },
+  {
+    "street": "Via Roma",
+    "number": "52",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0558745,
+    "longitude": 9.4110455
+  },
+  {
+    "street": "Via Roma",
+    "number": "54",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0557734,
+    "longitude": 9.4099689
+  },
+  {
+    "street": "Via Roma",
+    "number": "48",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0558229,
+    "longitude": 9.4117693
+  },
+  {
+    "street": "Via Roma",
+    "number": "59",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0561302,
+    "longitude": 9.4079012
+  },
+  {
+    "street": "Via Roma",
+    "number": "56",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0559427,
+    "longitude": 9.4087696
+  },
+  {
+    "street": "Via Roma",
+    "number": "59 d",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0560027,
+    "longitude": 9.4079772
+  },
+  {
+    "street": "Via Roma",
+    "number": "50",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0558388,
+    "longitude": 9.4116406
+  },
+  {
+    "street": "Via Roma",
+    "number": "55",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.055715,
+    "longitude": 9.4096338
+  },
+  {
+    "street": "Via Roma",
+    "number": "57",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.05577,
+    "longitude": 9.4094757
+  },
+  {
+    "street": "Via Roma",
+    "number": "51 e",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0557385,
+    "longitude": 9.4116633
+  },
+  {
+    "street": "Via Roma",
+    "number": "51 i",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0557731,
+    "longitude": 9.4109399
+  },
+  {
+    "street": "Via Roma",
+    "number": "53",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0557801,
+    "longitude": 9.4105923
+  },
+  {
+    "street": "Via Roma",
+    "number": "51 h",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0557631,
+    "longitude": 9.411315
+  },
+  {
+    "street": "Via Roma",
+    "number": "51",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.055764,
+    "longitude": 9.4122701
+  },
+  {
+    "street": "Via Roma",
+    "number": "33",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0552217,
+    "longitude": 9.4142913
+  },
+  {
+    "street": "Via Roma",
+    "number": "31",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0552323,
+    "longitude": 9.41443
+  },
+  {
+    "street": "Via Roma",
+    "number": "43",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0553798,
+    "longitude": 9.4135919
+  },
+  {
+    "street": "Via Roma",
+    "number": "47",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0556146,
+    "longitude": 9.4128599
+  },
+  {
+    "street": "Via Roma",
+    "number": "39",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0552568,
+    "longitude": 9.4140121
+  },
+  {
+    "street": "Via Roma",
+    "number": "49",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0556895,
+    "longitude": 9.4126617
+  },
+  {
+    "street": "Via Roma",
+    "number": "45",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0555342,
+    "longitude": 9.4130944
+  },
+  {
+    "street": "Via Roma",
+    "number": "35",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0552014,
+    "longitude": 9.4141714
+  },
+  {
+    "street": "Via Roma",
+    "number": "41",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0553295,
+    "longitude": 9.413804
+  },
+  {
+    "street": "Via Roma",
+    "number": "43bis",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0554312,
+    "longitude": 9.4133066
+  },
+  {
+    "street": "Via Roma",
+    "number": "37",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0552146,
+    "longitude": 9.4140882
+  },
+  {
+    "street": "Via Roma",
+    "number": "27",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0551415,
+    "longitude": 9.4148685
+  },
+  {
+    "street": "Via Roma",
+    "number": "19",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0546294,
+    "longitude": 9.4164526
+  },
+  {
+    "street": "Via Roma",
+    "number": "21",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0548531,
+    "longitude": 9.4155555
+  },
+  {
+    "street": "Via Roma",
+    "number": "17",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0545767,
+    "longitude": 9.4166608
+  },
+  {
+    "street": "Via Vittorio Emanuele II",
+    "number": "5",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0524668,
+    "longitude": 9.4222717
+  },
+  {
+    "street": "Via Martiri di Cefalonia",
+    "number": "51",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0523056,
+    "longitude": 9.430436
+  },
+  {
+    "street": "Via Martiri di Cefalonia",
+    "number": "43",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0521741,
+    "longitude": 9.430011
+  },
+  {
+    "street": "Via Martiri di Cefalonia",
+    "number": "49",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0522316,
+    "longitude": 9.4301928
+  },
+  {
+    "street": "Via Martiri di Cefalonia",
+    "number": "28",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.052082,
+    "longitude": 9.4300143
+  },
+  {
+    "street": "Via Martiri di Cefalonia",
+    "number": "16",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0518412,
+    "longitude": 9.4287562
+  },
+  {
+    "street": "Via Martiri di Cefalonia",
+    "number": "18",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0520797,
+    "longitude": 9.4292291
+  },
+  {
+    "street": "Via Martiri di Cefalonia",
+    "number": "15",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0518696,
+    "longitude": 9.4276896
+  },
+  {
+    "street": "Via Martiri di Cefalonia",
+    "number": "17",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0519645,
+    "longitude": 9.4280991
+  },
+  {
+    "street": "Via Martiri di Cefalonia",
+    "number": "10",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0518887,
+    "longitude": 9.4281346
+  },
+  {
+    "street": "Via Martiri di Cefalonia",
+    "number": "21",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0519811,
+    "longitude": 9.4286067
+  },
+  {
+    "street": "Via Martiri di Cefalonia",
+    "number": "8",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0517987,
+    "longitude": 9.4278739
+  },
+  {
+    "street": "Via Martiri di Cefalonia",
+    "number": "6",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0517211,
+    "longitude": 9.4271569
+  },
+  {
+    "street": "Via Martiri di Cefalonia",
+    "number": "5",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.051766,
+    "longitude": 9.4265145
+  },
+  {
+    "street": "Via Martiri di Cefalonia",
+    "number": "7",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0517504,
+    "longitude": 9.4266794
+  },
+  {
+    "street": "Via Martiri di Cefalonia",
+    "number": "4",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.051698,
+    "longitude": 9.426822
+  },
+  {
+    "street": "Via Martiri di Cefalonia",
+    "number": "11",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0517519,
+    "longitude": 9.4271024
+  },
+  {
+    "street": "Via Martiri di Cefalonia",
+    "number": "13",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0517791,
+    "longitude": 9.4273246
+  },
+  {
+    "street": "Via Varrone",
+    "number": "22",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.051259,
+    "longitude": 9.4263715
+  },
+  {
+    "street": "Via Varrone",
+    "number": "15",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0513268,
+    "longitude": 9.4262716
+  },
+  {
+    "street": "Via Varrone",
+    "number": "20",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0512748,
+    "longitude": 9.4262609
+  },
+  {
+    "street": "Via Varrone",
+    "number": "24",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0512979,
+    "longitude": 9.4271924
+  },
+  {
+    "street": "Via Varrone",
+    "number": "21",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0515034,
+    "longitude": 9.4278114
+  },
+  {
+    "street": "Via Varrone",
+    "number": "19",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.051379,
+    "longitude": 9.427276
+  },
+  {
+    "street": "Via Varrone",
+    "number": "28",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0514881,
+    "longitude": 9.4278768
+  },
+  {
+    "street": "Via Varrone",
+    "number": "30",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0515364,
+    "longitude": 9.4280468
+  },
+  {
+    "street": "Via Varrone",
+    "number": "17",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0513068,
+    "longitude": 9.4270152
+  },
+  {
+    "street": "Via dello Sport",
+    "number": "4",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0521877,
+    "longitude": 9.4203573
+  },
+  {
+    "street": "Via dello Sport",
+    "number": "2",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0520995,
+    "longitude": 9.4206945
+  },
+  {
+    "street": "Via Papa Luciani",
+    "number": "1",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.052297,
+    "longitude": 9.418556
+  },
+  {
+    "street": "Via Papa Luciani",
+    "number": "10",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0530009,
+    "longitude": 9.4184627
+  },
+  {
+    "street": "Via Papa Luciani",
+    "number": "12",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0530244,
+    "longitude": 9.4183975
+  },
+  {
+    "street": "Via Papa Luciani",
+    "number": "11",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.052866,
+    "longitude": 9.4184382
+  },
+  {
+    "street": "Via Venezia",
+    "number": "24",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0523871,
+    "longitude": 9.4221243
+  },
+  {
+    "street": "Via Venezia",
+    "number": "26",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0524085,
+    "longitude": 9.4220001
+  },
+  {
+    "street": "Via Venezia",
+    "number": "28",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0524333,
+    "longitude": 9.4218578
+  },
+  {
+    "street": "Via Venezia",
+    "number": "22",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0523577,
+    "longitude": 9.4222323
+  },
+  {
+    "street": "Via Venezia",
+    "number": "20",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0523234,
+    "longitude": 9.4223433
+  },
+  {
+    "street": "Via Venezia",
+    "number": "25",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0522551,
+    "longitude": 9.4221975
+  },
+  {
+    "street": "Via Venezia",
+    "number": "27",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0523757,
+    "longitude": 9.4219148
+  },
+  {
+    "street": "Via Venezia",
+    "number": "23",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0522596,
+    "longitude": 9.4222077
+  },
+  {
+    "street": "Via Vittorio Emanuele II",
+    "number": "2",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0524802,
+    "longitude": 9.4222133
+  },
+  {
+    "street": "Via Vittorio Emanuele II",
+    "number": "1",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0526356,
+    "longitude": 9.4216986
+  },
+  {
+    "street": "Via Vittorio Emanuele II",
+    "number": "7",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0524902,
+    "longitude": 9.4224176
+  },
+  {
+    "street": "Via Vittorio Emanuele II",
+    "number": "3",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0525654,
+    "longitude": 9.4220066
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "2",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0525777,
+    "longitude": 9.4223265
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "6",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0526297,
+    "longitude": 9.4222025
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "1",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0525931,
+    "longitude": 9.4221368
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "3",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0526467,
+    "longitude": 9.4220044
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "10",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.052727,
+    "longitude": 9.4219332
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "14",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0529181,
+    "longitude": 9.4217643
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "12",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0528619,
+    "longitude": 9.4218365
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "16",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0529487,
+    "longitude": 9.421708
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "4",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0525912,
+    "longitude": 9.4222805
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "7",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0530323,
+    "longitude": 9.4215035
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "9",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0531834,
+    "longitude": 9.4213108
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "11",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0534377,
+    "longitude": 9.4208565
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "15",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0535693,
+    "longitude": 9.4208055
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "24",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0534839,
+    "longitude": 9.4208933
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "13",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0534534,
+    "longitude": 9.42074
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "20",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0531384,
+    "longitude": 9.4214661
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "18",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0530507,
+    "longitude": 9.4215682
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "28",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0531791,
+    "longitude": 9.4217607
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "26",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0533437,
+    "longitude": 9.4213717
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "23",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.053432,
+    "longitude": 9.4213345
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "33",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0531707,
+    "longitude": 9.4220233
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "27",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0532734,
+    "longitude": 9.421736
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "21",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0534385,
+    "longitude": 9.4213186
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "25",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0533226,
+    "longitude": 9.4215887
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "29",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0532149,
+    "longitude": 9.4218819
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "30",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0529677,
+    "longitude": 9.4224088
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "35",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0530199,
+    "longitude": 9.4224414
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "32",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0528553,
+    "longitude": 9.4226316
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "36",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0527104,
+    "longitude": 9.4229088
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "38",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0526375,
+    "longitude": 9.4230846
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "40",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0525678,
+    "longitude": 9.4232485
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "34",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0527832,
+    "longitude": 9.4227856
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "42",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0525056,
+    "longitude": 9.4233701
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "47",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0525482,
+    "longitude": 9.4234192
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "41",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0528391,
+    "longitude": 9.4227623
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "45",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0527312,
+    "longitude": 9.4230219
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "39",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0529202,
+    "longitude": 9.4226325
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "43",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.052822,
+    "longitude": 9.4228622
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "46",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0523842,
+    "longitude": 9.4235459
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "44",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0524476,
+    "longitude": 9.4234772
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "50",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0522055,
+    "longitude": 9.423855
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "48",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0522115,
+    "longitude": 9.4238385
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "59",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0521492,
+    "longitude": 9.4242124
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "67",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0520871,
+    "longitude": 9.4244219
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "69",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0520477,
+    "longitude": 9.4246406
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "51",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0523677,
+    "longitude": 9.4236377
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "71",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0520362,
+    "longitude": 9.4247697
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "54",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0520014,
+    "longitude": 9.4247824
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "49",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0524638,
+    "longitude": 9.4235378
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "53",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.052307,
+    "longitude": 9.4237102
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "55",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0522416,
+    "longitude": 9.4238881
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "57",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0522213,
+    "longitude": 9.4240521
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "56",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0519974,
+    "longitude": 9.4248661
+  },
+  {
+    "street": "Via Roma",
+    "number": "65",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0550297,
+    "longitude": 9.4107284
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "2",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0519836,
+    "longitude": 9.4249592
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "22",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0516183,
+    "longitude": 9.4262226
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "20",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.051648,
+    "longitude": 9.4261404
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "6",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0519626,
+    "longitude": 9.4252966
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "14",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0518086,
+    "longitude": 9.4257392
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "12",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0518839,
+    "longitude": 9.4255453
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "16",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0517091,
+    "longitude": 9.426028
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "10",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0518941,
+    "longitude": 9.4254786
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "3",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0518222,
+    "longitude": 9.4258287
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "5",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0517547,
+    "longitude": 9.4260748
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "13",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0515557,
+    "longitude": 9.4269749
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "11",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0515741,
+    "longitude": 9.4268269
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "24",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0514704,
+    "longitude": 9.4268017
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "9",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0516015,
+    "longitude": 9.4265566
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "7",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0516406,
+    "longitude": 9.4263617
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "17",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0514966,
+    "longitude": 9.4272965
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "15",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0514904,
+    "longitude": 9.4271411
+  },
+  {
+    "street": "Via Martiri di Cefalonia",
+    "number": "36",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0521836,
+    "longitude": 9.4303861
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "5",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0526808,
+    "longitude": 9.4219178
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "31",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0516579,
+    "longitude": 9.4301601
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "25",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0515537,
+    "longitude": 9.4286345
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "35",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0516224,
+    "longitude": 9.4306016
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "37",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0520107,
+    "longitude": 9.4315244
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "44",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0519229,
+    "longitude": 9.431453
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "46",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0519343,
+    "longitude": 9.4314946
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "42",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0517341,
+    "longitude": 9.4308857
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "38",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0515449,
+    "longitude": 9.4303767
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "30",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0514937,
+    "longitude": 9.4288749
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "111",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.051874,
+    "longitude": 9.4322654
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "109",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0518593,
+    "longitude": 9.4315485
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "107",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.051845,
+    "longitude": 9.4314958
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "105",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.051778,
+    "longitude": 9.4312882
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "95",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0514549,
+    "longitude": 9.4298185
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "97",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0514794,
+    "longitude": 9.429883
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "91",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0514142,
+    "longitude": 9.4289145
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "92",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.051352,
+    "longitude": 9.4294183
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "94",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0513059,
+    "longitude": 9.4295791
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "88",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0512706,
+    "longitude": 9.4284294
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "84",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0509775,
+    "longitude": 9.4275581
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "82",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0506432,
+    "longitude": 9.4264935
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "80",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.050462,
+    "longitude": 9.4259154
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "69",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0505417,
+    "longitude": 9.4253678
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "67",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0506213,
+    "longitude": 9.4252557
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "73",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0505371,
+    "longitude": 9.4257282
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "71",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.050538,
+    "longitude": 9.4255575
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "66",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0507155,
+    "longitude": 9.424579
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "58",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0508466,
+    "longitude": 9.423082
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "55",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0509439,
+    "longitude": 9.4238697
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "57",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0507957,
+    "longitude": 9.4241354
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "59",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0508679,
+    "longitude": 9.4247314
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "61",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0508661,
+    "longitude": 9.4248068
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "65",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0507967,
+    "longitude": 9.4249247
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "63",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0508523,
+    "longitude": 9.4248537
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "77",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0505758,
+    "longitude": 9.4260061
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "79",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.050613,
+    "longitude": 9.4262005
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "81",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0508692,
+    "longitude": 9.4265074
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "83",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0509386,
+    "longitude": 9.4268047
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "89",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0511493,
+    "longitude": 9.4276739
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "87",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.051089,
+    "longitude": 9.4274578
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "56",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0509965,
+    "longitude": 9.4226892
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "52",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0511561,
+    "longitude": 9.4222939
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "54",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0511032,
+    "longitude": 9.4224047
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "48",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0513373,
+    "longitude": 9.4220252
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "50",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.051219,
+    "longitude": 9.422168
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "45",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0512471,
+    "longitude": 9.4222407
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "41",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0514438,
+    "longitude": 9.4220059
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "39",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0515406,
+    "longitude": 9.4218513
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "43",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0513248,
+    "longitude": 9.4221307
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "47",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0511594,
+    "longitude": 9.4224145
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "51",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0510878,
+    "longitude": 9.4226034
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "49",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0511132,
+    "longitude": 9.4225382
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "53",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0510473,
+    "longitude": 9.4227074
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "37",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0519054,
+    "longitude": 9.4214354
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "35",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0519727,
+    "longitude": 9.421309
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "33",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.05202,
+    "longitude": 9.4212173
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "38",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0520361,
+    "longitude": 9.4210903
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "40",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0519755,
+    "longitude": 9.421205
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "29",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0522386,
+    "longitude": 9.4208565
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "31",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.05211,
+    "longitude": 9.4210859
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "17",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0529016,
+    "longitude": 9.4199291
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "15",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.052996,
+    "longitude": 9.4197802
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "27",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0522977,
+    "longitude": 9.4207989
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "23",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0526628,
+    "longitude": 9.4204912
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "25",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0523933,
+    "longitude": 9.4207399
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "19",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0527938,
+    "longitude": 9.4201177
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "21",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0527409,
+    "longitude": 9.420216
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "11",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0531174,
+    "longitude": 9.4195292
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "13",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.053088,
+    "longitude": 9.4195822
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "14",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0533277,
+    "longitude": 9.4190421
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "12",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0533444,
+    "longitude": 9.4190126
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "16",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0531773,
+    "longitude": 9.419314
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "18",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0530332,
+    "longitude": 9.4195685
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "24",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0526667,
+    "longitude": 9.4202574
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "22",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0527447,
+    "longitude": 9.4200913
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "20",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0528844,
+    "longitude": 9.4198111
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "28",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0525531,
+    "longitude": 9.4205001
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "36",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0521665,
+    "longitude": 9.4207354
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "34",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0523286,
+    "longitude": 9.4206681
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "32",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0523638,
+    "longitude": 9.420661
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "2",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0538279,
+    "longitude": 9.4179626
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "10",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0534309,
+    "longitude": 9.4188491
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "6",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0536134,
+    "longitude": 9.418404
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "4",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0536506,
+    "longitude": 9.4183114
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "8",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.053561,
+    "longitude": 9.4185338
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "1",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0539658,
+    "longitude": 9.4178918
+  },
+  {
+    "street": "Via Quattro Venti",
+    "number": "18",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0502695,
+    "longitude": 9.4260504
+  },
+  {
+    "street": "Via Trento e Trieste",
+    "number": "8",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0514516,
+    "longitude": 9.4242914
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "14a",
+    "city": {
+      "name": "Premana",
+      "istat": "097069"
+    },
+    "latitude": 46.0511636,
+    "longitude": 9.4229043
+  }
+]

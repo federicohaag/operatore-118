@@ -1,0 +1,72 @@
+[
+  {
+    "street": "Via Monti di Là",
+    "number": "3",
+    "city": {
+      "name": "Zelbio",
+      "istat": "013246"
+    },
+    "latitude": 45.9037555,
+    "longitude": 9.1942162
+  },
+  {
+    "street": "Via Caio Barbarani",
+    "number": "8",
+    "city": {
+      "name": "Zelbio",
+      "istat": "013246"
+    },
+    "latitude": 45.8992468,
+    "longitude": 9.203665
+  },
+  {
+    "street": "Via Caio Barbarani",
+    "number": "4",
+    "city": {
+      "name": "Zelbio",
+      "istat": "013246"
+    },
+    "latitude": 45.8991572,
+    "longitude": 9.2015702
+  },
+  {
+    "street": "Via Andrea Stoppani",
+    "number": "6",
+    "city": {
+      "name": "Zelbio",
+      "istat": "013246"
+    },
+    "latitude": 45.8984472,
+    "longitude": 9.2022759
+  },
+  {
+    "street": "Piazza Rimembranza",
+    "number": "1",
+    "city": {
+      "name": "Zelbio",
+      "istat": "013246"
+    },
+    "latitude": 45.9051616,
+    "longitude": 9.1781589
+  },
+  {
+    "street": "Via Andrea Stoppani",
+    "number": "2",
+    "city": {
+      "name": "Zelbio",
+      "istat": "013246"
+    },
+    "latitude": 45.9000895,
+    "longitude": 9.1898613
+  },
+  {
+    "street": "Via Stoppani",
+    "number": "8",
+    "city": {
+      "name": "Zelbio",
+      "istat": "013246"
+    },
+    "latitude": 45.8965037,
+    "longitude": 9.2103932
+  }
+]

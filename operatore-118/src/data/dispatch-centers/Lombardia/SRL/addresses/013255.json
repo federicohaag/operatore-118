@@ -1,0 +1,32 @@
+[
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "4",
+    "city": {
+      "name": "Solbiate con Cagno",
+      "istat": "013255"
+    },
+    "latitude": 45.7890864,
+    "longitude": 8.9347326
+  },
+  {
+    "street": "Via Roma",
+    "number": "19",
+    "city": {
+      "name": "Solbiate con Cagno",
+      "istat": "013255"
+    },
+    "latitude": 45.7863453,
+    "longitude": 8.9303393
+  },
+  {
+    "street": "Via Don Folci",
+    "number": "10",
+    "city": {
+      "name": "Solbiate con Cagno",
+      "istat": "013255"
+    },
+    "latitude": 45.8075877,
+    "longitude": 8.917757
+  }
+]

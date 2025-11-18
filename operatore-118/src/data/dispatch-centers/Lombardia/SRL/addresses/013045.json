@@ -1,0 +1,62 @@
+[
+  {
+    "street": "Via Moneta",
+    "number": "54",
+    "city": {
+      "name": "Carbonate",
+      "istat": "013045"
+    },
+    "latitude": 45.6932532,
+    "longitude": 8.9436752
+  },
+  {
+    "street": "Via Moneta",
+    "number": "53",
+    "city": {
+      "name": "Carbonate",
+      "istat": "013045"
+    },
+    "latitude": 45.6929365,
+    "longitude": 8.943136
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "41",
+    "city": {
+      "name": "Carbonate",
+      "istat": "013045"
+    },
+    "latitude": 45.6833913,
+    "longitude": 8.9395626
+  },
+  {
+    "street": "Piazza Santa Maria Assunta",
+    "number": "5",
+    "city": {
+      "name": "Carbonate",
+      "istat": "013045"
+    },
+    "latitude": 45.6836081,
+    "longitude": 8.9402083
+  },
+  {
+    "street": "Via Mirasole",
+    "number": "1",
+    "city": {
+      "name": "Carbonate",
+      "istat": "013045"
+    },
+    "latitude": 45.6854531,
+    "longitude": 8.9503215
+  },
+  {
+    "street": "Via al Golf",
+    "number": "4",
+    "city": {
+      "name": "Carbonate",
+      "istat": "013045"
+    },
+    "latitude": 45.7201891,
+    "longitude": 8.9537093
+  }
+]

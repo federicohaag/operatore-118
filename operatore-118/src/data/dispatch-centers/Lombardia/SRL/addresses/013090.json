@@ -1,0 +1,282 @@
+[
+  {
+    "street": "Viale Rimembranze",
+    "number": "29",
+    "city": {
+      "name": "Dongo",
+      "istat": "013090"
+    },
+    "latitude": 46.1268498,
+    "longitude": 9.281819
+  },
+  {
+    "street": "Via Vigna del lago",
+    "number": "100",
+    "city": {
+      "name": "Dongo",
+      "istat": "013090"
+    },
+    "latitude": 46.1300106,
+    "longitude": 9.2862239
+  },
+  {
+    "street": "Via Vigna del lago",
+    "number": "102",
+    "city": {
+      "name": "Dongo",
+      "istat": "013090"
+    },
+    "latitude": 46.1299505,
+    "longitude": 9.2863229
+  },
+  {
+    "street": "Via Statale",
+    "number": "60",
+    "city": {
+      "name": "Dongo",
+      "istat": "013090"
+    },
+    "latitude": 46.129767,
+    "longitude": 9.2861316
+  },
+  {
+    "street": "Piazza Paracchini",
+    "number": "6",
+    "city": {
+      "name": "Dongo",
+      "istat": "013090"
+    },
+    "latitude": 46.1230849,
+    "longitude": 9.2795991
+  },
+  {
+    "street": "Via Vigna del Lago",
+    "number": "58",
+    "city": {
+      "name": "Dongo",
+      "istat": "013090"
+    },
+    "latitude": 46.1323431,
+    "longitude": 9.2892141
+  },
+  {
+    "street": "Via Statale",
+    "number": "91",
+    "city": {
+      "name": "Dongo",
+      "istat": "013090"
+    },
+    "latitude": 46.1325738,
+    "longitude": 9.2862353
+  },
+  {
+    "street": "Via Mulini",
+    "number": "3",
+    "city": {
+      "name": "Dongo",
+      "istat": "013090"
+    },
+    "latitude": 46.1276473,
+    "longitude": 9.2759199
+  },
+  {
+    "street": "Via Statale",
+    "number": "1",
+    "city": {
+      "name": "Dongo",
+      "istat": "013090"
+    },
+    "latitude": 46.1276474,
+    "longitude": 9.2836669
+  },
+  {
+    "street": "Via Statale",
+    "number": "8",
+    "city": {
+      "name": "Dongo",
+      "istat": "013090"
+    },
+    "latitude": 46.1281471,
+    "longitude": 9.2850738
+  },
+  {
+    "street": "Piazza Rubini",
+    "number": "1",
+    "city": {
+      "name": "Dongo",
+      "istat": "013090"
+    },
+    "latitude": 46.1221959,
+    "longitude": 9.2790126
+  },
+  {
+    "street": "Via Statale",
+    "number": "29",
+    "city": {
+      "name": "Dongo",
+      "istat": "013090"
+    },
+    "latitude": 46.1267255,
+    "longitude": 9.2818344
+  },
+  {
+    "street": "Via G.E. Falck",
+    "number": "11",
+    "city": {
+      "name": "Dongo",
+      "istat": "013090"
+    },
+    "latitude": 46.1248832,
+    "longitude": 9.2813931
+  },
+  {
+    "street": "Via per Mossanzonico",
+    "number": "16",
+    "city": {
+      "name": "Dongo",
+      "istat": "013090"
+    },
+    "latitude": 46.1287079,
+    "longitude": 9.28316
+  },
+  {
+    "street": "Via per Mossanzonico",
+    "number": "14",
+    "city": {
+      "name": "Dongo",
+      "istat": "013090"
+    },
+    "latitude": 46.1284995,
+    "longitude": 9.2829123
+  },
+  {
+    "street": "Via per Mossanzonico",
+    "number": "18",
+    "city": {
+      "name": "Dongo",
+      "istat": "013090"
+    },
+    "latitude": 46.1283093,
+    "longitude": 9.2832621
+  },
+  {
+    "street": "Via per Mossanzonico",
+    "number": "10",
+    "city": {
+      "name": "Dongo",
+      "istat": "013090"
+    },
+    "latitude": 46.1280711,
+    "longitude": 9.2824769
+  },
+  {
+    "street": "Via per Mossanzonico",
+    "number": "8",
+    "city": {
+      "name": "Dongo",
+      "istat": "013090"
+    },
+    "latitude": 46.1279309,
+    "longitude": 9.2823301
+  },
+  {
+    "street": "Via Statale Regina",
+    "number": "14",
+    "city": {
+      "name": "Dongo",
+      "istat": "013090"
+    },
+    "latitude": 46.1282373,
+    "longitude": 9.2847356
+  },
+  {
+    "street": "Via per Mossanzonico",
+    "number": "13",
+    "city": {
+      "name": "Dongo",
+      "istat": "013090"
+    },
+    "latitude": 46.1281853,
+    "longitude": 9.2822437
+  },
+  {
+    "street": "Via per Mossanzonico",
+    "number": "27",
+    "city": {
+      "name": "Dongo",
+      "istat": "013090"
+    },
+    "latitude": 46.1285572,
+    "longitude": 9.2826329
+  },
+  {
+    "street": "Via per Mossanzonico",
+    "number": "5",
+    "city": {
+      "name": "Dongo",
+      "istat": "013090"
+    },
+    "latitude": 46.1279033,
+    "longitude": 9.2820296
+  },
+  {
+    "street": "Via per Mossanzonico",
+    "number": "17",
+    "city": {
+      "name": "Dongo",
+      "istat": "013090"
+    },
+    "latitude": 46.1282988,
+    "longitude": 9.2823319
+  },
+  {
+    "street": "Via per Mossanzonico",
+    "number": "23",
+    "city": {
+      "name": "Dongo",
+      "istat": "013090"
+    },
+    "latitude": 46.1284424,
+    "longitude": 9.2825092
+  },
+  {
+    "street": "Via Vigna del Lago",
+    "number": "60",
+    "city": {
+      "name": "Dongo",
+      "istat": "013090"
+    },
+    "latitude": 46.1318541,
+    "longitude": 9.2895655
+  },
+  {
+    "street": "Via Statale",
+    "number": "176",
+    "city": {
+      "name": "Dongo",
+      "istat": "013090"
+    },
+    "latitude": 46.1343383,
+    "longitude": 9.2901681
+  },
+  {
+    "street": "Via per Mossanzonico",
+    "number": "1",
+    "city": {
+      "name": "Dongo",
+      "istat": "013090"
+    },
+    "latitude": 46.1278511,
+    "longitude": 9.2819439
+  },
+  {
+    "street": "Via Cimitero",
+    "number": "19",
+    "city": {
+      "name": "Dongo",
+      "istat": "013090"
+    },
+    "latitude": 46.1256526,
+    "longitude": 9.2846693
+  }
+]

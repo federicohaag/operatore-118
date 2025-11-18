@@ -1,0 +1,232 @@
+[
+  {
+    "street": "Via Silvio Pellico",
+    "number": "69",
+    "city": {
+      "name": "Ceriano Laghetto",
+      "istat": "108018"
+    },
+    "latitude": 45.6266402,
+    "longitude": 9.0733764
+  },
+  {
+    "street": "Via Laghetto",
+    "number": "67",
+    "city": {
+      "name": "Ceriano Laghetto",
+      "istat": "108018"
+    },
+    "latitude": 45.6292345,
+    "longitude": 9.0875495
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "6b",
+    "city": {
+      "name": "Ceriano Laghetto",
+      "istat": "108018"
+    },
+    "latitude": 45.6365769,
+    "longitude": 9.079496
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "115",
+    "city": {
+      "name": "Ceriano Laghetto",
+      "istat": "108018"
+    },
+    "latitude": 45.6366025,
+    "longitude": 9.0799202
+  },
+  {
+    "street": "Via Milano",
+    "number": "8",
+    "city": {
+      "name": "Ceriano Laghetto",
+      "istat": "108018"
+    },
+    "latitude": 45.6280314,
+    "longitude": 9.1028419
+  },
+  {
+    "street": "Via Milano",
+    "number": "12",
+    "city": {
+      "name": "Ceriano Laghetto",
+      "istat": "108018"
+    },
+    "latitude": 45.6250764,
+    "longitude": 9.1032228
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "9",
+    "city": {
+      "name": "Ceriano Laghetto",
+      "istat": "108018"
+    },
+    "latitude": 45.6230775,
+    "longitude": 9.1036728
+  },
+  {
+    "street": "Via Laghetto",
+    "number": "73",
+    "city": {
+      "name": "Ceriano Laghetto",
+      "istat": "108018"
+    },
+    "latitude": 45.6291153,
+    "longitude": 9.0885308
+  },
+  {
+    "street": "Piazza Armando Diaz",
+    "number": "12",
+    "city": {
+      "name": "Ceriano Laghetto",
+      "istat": "108018"
+    },
+    "latitude": 45.6288741,
+    "longitude": 9.0806652
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "66",
+    "city": {
+      "name": "Ceriano Laghetto",
+      "istat": "108018"
+    },
+    "latitude": 45.6250832,
+    "longitude": 9.0804756
+  },
+  {
+    "street": "Via Sant'Ambrogio",
+    "number": "6",
+    "city": {
+      "name": "Ceriano Laghetto",
+      "istat": "108018"
+    },
+    "latitude": 45.6280699,
+    "longitude": 9.0713745
+  },
+  {
+    "street": "Via Generale Carlo Alberto dalla Chiesa",
+    "number": "53",
+    "city": {
+      "name": "Ceriano Laghetto",
+      "istat": "108018"
+    },
+    "latitude": 45.6325198,
+    "longitude": 9.0761662
+  },
+  {
+    "street": "Via Campaccio",
+    "number": "12",
+    "city": {
+      "name": "Ceriano Laghetto",
+      "istat": "108018"
+    },
+    "latitude": 45.6325306,
+    "longitude": 9.0758684
+  },
+  {
+    "street": "Via Generale Carlo Alberto dalla Chiesa",
+    "number": "55",
+    "city": {
+      "name": "Ceriano Laghetto",
+      "istat": "108018"
+    },
+    "latitude": 45.6324814,
+    "longitude": 9.0761695
+  },
+  {
+    "street": "Via Generale Carlo Alberto dalla Chiesa",
+    "number": "51",
+    "city": {
+      "name": "Ceriano Laghetto",
+      "istat": "108018"
+    },
+    "latitude": 45.6326807,
+    "longitude": 9.0761474
+  },
+  {
+    "street": "Via Generale Carlo Alberto dalla Chiesa",
+    "number": "21",
+    "city": {
+      "name": "Ceriano Laghetto",
+      "istat": "108018"
+    },
+    "latitude": 45.6327782,
+    "longitude": 9.078102
+  },
+  {
+    "street": "Via Milano",
+    "number": "10",
+    "city": {
+      "name": "Ceriano Laghetto",
+      "istat": "108018"
+    },
+    "latitude": 45.6263108,
+    "longitude": 9.1050132
+  },
+  {
+    "street": "Via Vallone",
+    "number": "3",
+    "city": {
+      "name": "Ceriano Laghetto",
+      "istat": "108018"
+    },
+    "latitude": 45.6222492,
+    "longitude": 9.1014048
+  },
+  {
+    "street": "Via Laghetto",
+    "number": "54",
+    "city": {
+      "name": "Ceriano Laghetto",
+      "istat": "108018"
+    },
+    "latitude": 45.6296871,
+    "longitude": 9.0881692
+  },
+  {
+    "street": "Via Campaccio",
+    "number": "1",
+    "city": {
+      "name": "Ceriano Laghetto",
+      "istat": "108018"
+    },
+    "latitude": 45.6324825,
+    "longitude": 9.0750145
+  },
+  {
+    "street": "Via Giovanni Cattaneo",
+    "number": "8",
+    "city": {
+      "name": "Ceriano Laghetto",
+      "istat": "108018"
+    },
+    "latitude": 45.6241034,
+    "longitude": 9.0519239
+  },
+  {
+    "street": "Via Generale Carlo Alberto dalla Chiesa",
+    "number": "31",
+    "city": {
+      "name": "Ceriano Laghetto",
+      "istat": "108018"
+    },
+    "latitude": 45.632686,
+    "longitude": 9.0773985
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "67",
+    "city": {
+      "name": "Ceriano Laghetto",
+      "istat": "108018"
+    },
+    "latitude": 45.6251155,
+    "longitude": 9.0801068
+  }
+]

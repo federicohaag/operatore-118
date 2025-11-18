@@ -1,0 +1,42 @@
+[
+  {
+    "street": "Via Asilo",
+    "number": "13",
+    "city": {
+      "name": "Castello Cabiaglio",
+      "istat": "012043"
+    },
+    "latitude": 45.8930742,
+    "longitude": 8.757102
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "1",
+    "city": {
+      "name": "Castello Cabiaglio",
+      "istat": "012043"
+    },
+    "latitude": 45.8933466,
+    "longitude": 8.7554121
+  },
+  {
+    "street": "Piazza Quattro Novembre",
+    "number": "5",
+    "city": {
+      "name": "Castello Cabiaglio",
+      "istat": "012043"
+    },
+    "latitude": 45.893935,
+    "longitude": 8.7555606
+  },
+  {
+    "street": "Via Prada",
+    "number": "3",
+    "city": {
+      "name": "Castello Cabiaglio",
+      "istat": "012043"
+    },
+    "latitude": 45.893828,
+    "longitude": 8.7555386
+  }
+]

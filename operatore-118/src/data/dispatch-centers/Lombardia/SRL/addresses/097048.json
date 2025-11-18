@@ -1,0 +1,1432 @@
+[
+  {
+    "street": "Via Statale",
+    "number": "107",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.7057128,
+    "longitude": 9.4100139
+  },
+  {
+    "street": "Piazza Riva Spoleti",
+    "number": "1",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6986619,
+    "longitude": 9.4141944
+  },
+  {
+    "street": "Via della Rondinella",
+    "number": "6",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6964237,
+    "longitude": 9.4141306
+  },
+  {
+    "street": "Via Collegio Alessandro Manzoni",
+    "number": "56",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6986884,
+    "longitude": 9.4145805
+  },
+  {
+    "street": "Via Collegio Alessandro Manzoni",
+    "number": "50",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6985986,
+    "longitude": 9.4148609
+  },
+  {
+    "street": "Via Collegio Alessandro Manzoni",
+    "number": "5",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6981027,
+    "longitude": 9.4164284
+  },
+  {
+    "street": "Via Collegio Alessandro Manzoni",
+    "number": "15",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.698181,
+    "longitude": 9.4161515
+  },
+  {
+    "street": "Via Collegio Alessandro Manzoni",
+    "number": "22",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6983908,
+    "longitude": 9.4156997
+  },
+  {
+    "street": "Via Collegio Alessandro Manzoni",
+    "number": "27",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6982407,
+    "longitude": 9.4158327
+  },
+  {
+    "street": "Via Collegio Alessandro Manzoni",
+    "number": "7",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6981106,
+    "longitude": 9.4163696
+  },
+  {
+    "street": "Via Collegio Alessandro Manzoni",
+    "number": "9",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6981733,
+    "longitude": 9.4163197
+  },
+  {
+    "street": "Via Collegio Alessandro Manzoni",
+    "number": "11",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6981755,
+    "longitude": 9.4162722
+  },
+  {
+    "street": "Via Collegio Alessandro Manzoni",
+    "number": "13",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6981784,
+    "longitude": 9.4162078
+  },
+  {
+    "street": "Via degli Alpini",
+    "number": "5",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6916685,
+    "longitude": 9.4130603
+  },
+  {
+    "street": "Via Statale",
+    "number": "135",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.70861,
+    "longitude": 9.40798
+  },
+  {
+    "street": "Via Cerri",
+    "number": "10",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.696392,
+    "longitude": 9.4271929
+  },
+  {
+    "street": "Via Cerri",
+    "number": "16 bis",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6962892,
+    "longitude": 9.4279685
+  },
+  {
+    "street": "Via Bergamo",
+    "number": "39bis",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6886225,
+    "longitude": 9.4219779
+  },
+  {
+    "street": "Piazza Don Minzoni",
+    "number": "5",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6985271,
+    "longitude": 9.4194137
+  },
+  {
+    "street": "Via don Angelo Perego",
+    "number": "8",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6975306,
+    "longitude": 9.4160906
+  },
+  {
+    "street": "Via Cerri",
+    "number": "55",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6963019,
+    "longitude": 9.4284977
+  },
+  {
+    "street": "Via Cerri",
+    "number": "51",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6964086,
+    "longitude": 9.4280632
+  },
+  {
+    "street": "Via Cerri",
+    "number": "63",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6959978,
+    "longitude": 9.4293679
+  },
+  {
+    "street": "Via Cerri",
+    "number": "63a",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6959376,
+    "longitude": 9.4294926
+  },
+  {
+    "street": "Via Terzaghi",
+    "number": "4",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6999991,
+    "longitude": 9.4132324
+  },
+  {
+    "street": "Via Cerri",
+    "number": "57",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6962285,
+    "longitude": 9.4285895
+  },
+  {
+    "street": "Via Cerri",
+    "number": "61",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.696062,
+    "longitude": 9.4290213
+  },
+  {
+    "street": "Via Cerri",
+    "number": "14",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6972674,
+    "longitude": 9.4230554
+  },
+  {
+    "street": "Via Statale",
+    "number": "11i",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6981525,
+    "longitude": 9.4051744
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "57",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6767267,
+    "longitude": 9.4117161
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "59",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6767192,
+    "longitude": 9.4117482
+  },
+  {
+    "street": "Via Statale",
+    "number": "11f",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6977286,
+    "longitude": 9.4055862
+  },
+  {
+    "street": "Via Statale",
+    "number": "11a",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6974104,
+    "longitude": 9.4051594
+  },
+  {
+    "street": "Via Statale",
+    "number": "11b",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.697425,
+    "longitude": 9.4052783
+  },
+  {
+    "street": "Via Statale",
+    "number": "11c",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6975061,
+    "longitude": 9.4053617
+  },
+  {
+    "street": "Via Statale",
+    "number": "11d",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.697588,
+    "longitude": 9.4054432
+  },
+  {
+    "street": "Via Statale",
+    "number": "11e",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6976661,
+    "longitude": 9.4055236
+  },
+  {
+    "street": "Via Statale",
+    "number": "11g",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6978134,
+    "longitude": 9.4056714
+  },
+  {
+    "street": "Via Statale",
+    "number": "11h",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.697893,
+    "longitude": 9.4057515
+  },
+  {
+    "street": "Via Papa Giovanni XXIII",
+    "number": "23",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6961455,
+    "longitude": 9.4160744
+  },
+  {
+    "street": "Via Emilio Bianchi",
+    "number": "1",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.7023777,
+    "longitude": 9.4213216
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "203",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6769514,
+    "longitude": 9.4104349
+  },
+  {
+    "street": "Via Collegio Alessandro Manzoni",
+    "number": "46",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6985404,
+    "longitude": 9.4150753
+  },
+  {
+    "street": "Via Campi",
+    "number": "17",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6936956,
+    "longitude": 9.4269669
+  },
+  {
+    "street": "Via Bergamo",
+    "number": "45",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6880444,
+    "longitude": 9.4235573
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "72",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6951329,
+    "longitude": 9.4271055
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "70",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.695117,
+    "longitude": 9.4268264
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "119",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6954038,
+    "longitude": 9.4268347
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "117",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6953811,
+    "longitude": 9.4267619
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "115",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6953633,
+    "longitude": 9.426705
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "125",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6957082,
+    "longitude": 9.4269662
+  },
+  {
+    "street": "Via Don Pietro Consonni",
+    "number": "15",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.7140307,
+    "longitude": 9.421636
+  },
+  {
+    "street": "Via Don Pietro Consonni",
+    "number": "8",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.7137751,
+    "longitude": 9.4215649
+  },
+  {
+    "street": "Via Don Pietro Consonni",
+    "number": "6",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.7139155,
+    "longitude": 9.4215207
+  },
+  {
+    "street": "Via Cerri",
+    "number": "30",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6943879,
+    "longitude": 9.4314475
+  },
+  {
+    "street": "Via Giotto",
+    "number": "7",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6954951,
+    "longitude": 9.4322267
+  },
+  {
+    "street": "Via Giotto",
+    "number": "5",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.695364,
+    "longitude": 9.4320658
+  },
+  {
+    "street": "Via Giotto",
+    "number": "3",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6950633,
+    "longitude": 9.4317104
+  },
+  {
+    "street": "Via Giotto",
+    "number": "1",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6948441,
+    "longitude": 9.4314516
+  },
+  {
+    "street": "Via Cerri",
+    "number": "26",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.694934,
+    "longitude": 9.4306496
+  },
+  {
+    "street": "Via Cerri",
+    "number": "67",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6952837,
+    "longitude": 9.4307382
+  },
+  {
+    "street": "Via Cerri",
+    "number": "18 bis",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6962595,
+    "longitude": 9.4280598
+  },
+  {
+    "street": "Via Cerri",
+    "number": "18",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6962748,
+    "longitude": 9.4280128
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "95",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6951302,
+    "longitude": 9.4131827
+  },
+  {
+    "street": "Via Collegio Alessandro Manzoni",
+    "number": "8",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6986083,
+    "longitude": 9.416412
+  },
+  {
+    "street": "Piazza Italia",
+    "number": "2",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6986531,
+    "longitude": 9.4139468
+  },
+  {
+    "street": "Via Bergamo",
+    "number": "19",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6898454,
+    "longitude": 9.4192224
+  },
+  {
+    "street": "Via Cerri",
+    "number": "31",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6970933,
+    "longitude": 9.4247367
+  },
+  {
+    "street": "Via Papa Giovanni XXIII",
+    "number": "11",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6969652,
+    "longitude": 9.4169126
+  },
+  {
+    "street": "Via Papa Giovanni XXIII",
+    "number": "9",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6970233,
+    "longitude": 9.4169452
+  },
+  {
+    "street": "Via Papa Giovanni XXIII",
+    "number": "7 bis",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6971464,
+    "longitude": 9.4170023
+  },
+  {
+    "street": "Via Papa Giovanni XXIII",
+    "number": "5",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6974769,
+    "longitude": 9.4172112
+  },
+  {
+    "street": "Via Papa Giovanni XXIII",
+    "number": "7",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6973538,
+    "longitude": 9.4171508
+  },
+  {
+    "street": "Via Emilio Bianchi",
+    "number": "35",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.7060096,
+    "longitude": 9.4267998
+  },
+  {
+    "street": "Via Emilio Bianchi",
+    "number": "37",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.7061716,
+    "longitude": 9.4264453
+  },
+  {
+    "street": "Via Emilio Bianchi",
+    "number": "39",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.7062395,
+    "longitude": 9.4262171
+  },
+  {
+    "street": "Via Piave",
+    "number": "54",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.7071238,
+    "longitude": 9.4252665
+  },
+  {
+    "street": "Via Piave",
+    "number": "56",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.7071472,
+    "longitude": 9.4253966
+  },
+  {
+    "street": "Via Piave",
+    "number": "58",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.7074019,
+    "longitude": 9.4264279
+  },
+  {
+    "street": "Via Piave",
+    "number": "60",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.707401,
+    "longitude": 9.4265674
+  },
+  {
+    "street": "Via Piave",
+    "number": "64",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.7075565,
+    "longitude": 9.4273117
+  },
+  {
+    "street": "Via Piave",
+    "number": "121",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.7077044,
+    "longitude": 9.4274967
+  },
+  {
+    "street": "Via Piave",
+    "number": "125",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.7075546,
+    "longitude": 9.4277127
+  },
+  {
+    "street": "Via Emilio Bianchi",
+    "number": "51",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.7076042,
+    "longitude": 9.4279849
+  },
+  {
+    "street": "Via Emilio Bianchi",
+    "number": "53",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.7077129,
+    "longitude": 9.4280184
+  },
+  {
+    "street": "Via Emilio Bianchi",
+    "number": "28",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.7051739,
+    "longitude": 9.4272983
+  },
+  {
+    "street": "Via Emilio Bianchi",
+    "number": "26",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.7047084,
+    "longitude": 9.4269295
+  },
+  {
+    "street": "Via Emilio Bianchi",
+    "number": "24",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.7045389,
+    "longitude": 9.4261972
+  },
+  {
+    "street": "Via Capitano Prinetti Castelletti",
+    "number": "10",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.7036046,
+    "longitude": 9.4258612
+  },
+  {
+    "street": "Via Capitano Prinetti Castelletti",
+    "number": "2",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.7036017,
+    "longitude": 9.4259814
+  },
+  {
+    "street": "Via Bergamo",
+    "number": "14",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6888395,
+    "longitude": 9.4175995
+  },
+  {
+    "street": "Via Bergamo",
+    "number": "30",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6883586,
+    "longitude": 9.4201427
+  },
+  {
+    "street": "Via Bergamo",
+    "number": "97",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6876167,
+    "longitude": 9.4264233
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "10",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6995706,
+    "longitude": 9.4107937
+  },
+  {
+    "street": "Via A. De Gasperi",
+    "number": "145",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6956748,
+    "longitude": 9.4279675
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "30",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6877542,
+    "longitude": 9.413246
+  },
+  {
+    "street": "Viale Lombardia",
+    "number": "32",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.699866,
+    "longitude": 9.4138436
+  },
+  {
+    "street": "Via Terzaghi",
+    "number": "2",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.7000235,
+    "longitude": 9.4133794
+  },
+  {
+    "street": "Via Collegio Alessandro Manzoni",
+    "number": "45",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6986568,
+    "longitude": 9.4143568
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "6",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6995863,
+    "longitude": 9.4135947
+  },
+  {
+    "street": "Piazza Italia",
+    "number": "5",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6987979,
+    "longitude": 9.4138922
+  },
+  {
+    "street": "Via Terzaghi",
+    "number": "10",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.7001324,
+    "longitude": 9.412565
+  },
+  {
+    "street": "Via Collegio Alessandro Manzoni",
+    "number": "43",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6985176,
+    "longitude": 9.4147808
+  },
+  {
+    "street": "Via Collegio Alessandro Manzoni",
+    "number": "29",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6982332,
+    "longitude": 9.4157021
+  },
+  {
+    "street": "Via Collegio Alessandro Manzoni",
+    "number": "48",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6984893,
+    "longitude": 9.4152518
+  },
+  {
+    "street": "Via Statale",
+    "number": "79",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.7007867,
+    "longitude": 9.4094727
+  },
+  {
+    "street": "Via Collegio Alessandro Manzoni",
+    "number": "58",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.698742,
+    "longitude": 9.4143896
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "3",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6993582,
+    "longitude": 9.4135788
+  },
+  {
+    "street": "Via Fratelli Cernuschi",
+    "number": "1",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6944173,
+    "longitude": 9.412997
+  },
+  {
+    "street": "Via Como",
+    "number": "30",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6907221,
+    "longitude": 9.4105401
+  },
+  {
+    "street": "Via Dei Campi",
+    "number": "19",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6932259,
+    "longitude": 9.4269245
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "1",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6986608,
+    "longitude": 9.4072995
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "5",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6884916,
+    "longitude": 9.4144992
+  },
+  {
+    "street": "Via Statale",
+    "number": "5",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6966826,
+    "longitude": 9.4038557
+  },
+  {
+    "street": "Via Bergamo",
+    "number": "37",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6888494,
+    "longitude": 9.4218742
+  },
+  {
+    "street": "Largo Beato Leopoldo Mandic",
+    "number": "1",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6980994,
+    "longitude": 9.4273927
+  },
+  {
+    "street": "Via Bruno Buozzi",
+    "number": "70",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6875568,
+    "longitude": 9.4271514
+  },
+  {
+    "street": "Via dei Lodovichi",
+    "number": "10",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6927684,
+    "longitude": 9.4251376
+  },
+  {
+    "street": "Via Statale",
+    "number": "5/7",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6974894,
+    "longitude": 9.4040716
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "3",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6883221,
+    "longitude": 9.4147293
+  },
+  {
+    "street": "Via Emilio Bianchi",
+    "number": "46",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.7058759,
+    "longitude": 9.4283764
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "5",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.7138035,
+    "longitude": 9.4189515
+  },
+  {
+    "street": "Piazza San Pietro",
+    "number": "5",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.7147406,
+    "longitude": 9.4182875
+  },
+  {
+    "street": "Via Spluga",
+    "number": "30",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6973591,
+    "longitude": 9.4044696
+  },
+  {
+    "street": "Via Cerri",
+    "number": "24",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6951823,
+    "longitude": 9.430205
+  },
+  {
+    "street": "Via Cerri",
+    "number": "33",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6971474,
+    "longitude": 9.4250377
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "2",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6751766,
+    "longitude": 9.4077955
+  },
+  {
+    "street": "Via Martiri della Liberazione",
+    "number": "17",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.679293,
+    "longitude": 9.4076394
+  },
+  {
+    "street": "Via Santa Gianna Beretta Molla",
+    "number": "4",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.7005884,
+    "longitude": 9.4262694
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "131",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6957179,
+    "longitude": 9.4271048
+  },
+  {
+    "street": "Via Collegio Alessandro Manzoni",
+    "number": "8f",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6985414,
+    "longitude": 9.4163249
+  },
+  {
+    "street": "Piazza Silvio Pellico",
+    "number": "1",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.7184885,
+    "longitude": 9.4326706
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "121",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6956097,
+    "longitude": 9.4270451
+  },
+  {
+    "street": "Via Statale",
+    "number": "4",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6996512,
+    "longitude": 9.4084449
+  },
+  {
+    "street": "Via Como",
+    "number": "40",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6913361,
+    "longitude": 9.4078785
+  },
+  {
+    "street": "Via Promessi Sposi",
+    "number": "11",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.7027557,
+    "longitude": 9.4021627
+  },
+  {
+    "street": "Via Bergamo",
+    "number": "39 Bis",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.688644,
+    "longitude": 9.4218487
+  },
+  {
+    "street": "Via Donato Frisia",
+    "number": "49",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.7020655,
+    "longitude": 9.4136387
+  },
+  {
+    "street": "Via Monsignor Federico Colombo",
+    "number": "19",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.7023944,
+    "longitude": 9.412905
+  },
+  {
+    "street": "Via Cerri",
+    "number": "14h",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6960206,
+    "longitude": 9.4256262
+  },
+  {
+    "street": "Via Terzaghi",
+    "number": "SNC",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.7013651,
+    "longitude": 9.4105465
+  },
+  {
+    "street": "Via Due Giugno",
+    "number": "9",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.682235,
+    "longitude": 9.4126733
+  },
+  {
+    "street": "Via Due Giugno",
+    "number": "9a",
+    "city": {
+      "name": "Merate",
+      "istat": "097048"
+    },
+    "latitude": 45.6820589,
+    "longitude": 9.4130028
+  }
+]

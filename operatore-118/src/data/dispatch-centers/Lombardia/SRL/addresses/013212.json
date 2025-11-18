@@ -1,0 +1,92 @@
+[
+  {
+    "street": "Via Intimiano",
+    "number": "23",
+    "city": {
+      "name": "Senna Comasco",
+      "istat": "013212"
+    },
+    "latitude": 45.7647087,
+    "longitude": 9.113549
+  },
+  {
+    "street": "Via per Senna",
+    "number": "47",
+    "city": {
+      "name": "Senna Comasco",
+      "istat": "013212"
+    },
+    "latitude": 45.7637908,
+    "longitude": 9.1168985
+  },
+  {
+    "street": "Via per Senna",
+    "number": "41",
+    "city": {
+      "name": "Senna Comasco",
+      "istat": "013212"
+    },
+    "latitude": 45.7637132,
+    "longitude": 9.1174015
+  },
+  {
+    "street": "Via per Senna",
+    "number": "49",
+    "city": {
+      "name": "Senna Comasco",
+      "istat": "013212"
+    },
+    "latitude": 45.7634908,
+    "longitude": 9.1169083
+  },
+  {
+    "street": "Via per Senna",
+    "number": "43",
+    "city": {
+      "name": "Senna Comasco",
+      "istat": "013212"
+    },
+    "latitude": 45.7633586,
+    "longitude": 9.1174719
+  },
+  {
+    "street": "Via Giovanni Ventitreesimo",
+    "number": "5",
+    "city": {
+      "name": "Senna Comasco",
+      "istat": "013212"
+    },
+    "latitude": 45.7635118,
+    "longitude": 9.1109012
+  },
+  {
+    "street": "Via Roma",
+    "number": "3",
+    "city": {
+      "name": "Senna Comasco",
+      "istat": "013212"
+    },
+    "latitude": 45.7636187,
+    "longitude": 9.1089873
+  },
+  {
+    "street": "Via Roma",
+    "number": "10",
+    "city": {
+      "name": "Senna Comasco",
+      "istat": "013212"
+    },
+    "latitude": 45.7641402,
+    "longitude": 9.1085914
+  },
+  {
+    "street": "Via Roma",
+    "number": "6/8",
+    "city": {
+      "name": "Senna Comasco",
+      "istat": "013212"
+    },
+    "latitude": 45.764113,
+    "longitude": 9.1088084
+  }
+]

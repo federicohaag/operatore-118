@@ -1,0 +1,822 @@
+[
+  {
+    "street": "Via Parè",
+    "number": "37",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8586903,
+    "longitude": 9.3655075
+  },
+  {
+    "street": "Via Roma",
+    "number": "31",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8469312,
+    "longitude": 9.3603802
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "1",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8470273,
+    "longitude": 9.3610087
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "10",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8472097,
+    "longitude": 9.3615148
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "103",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8526308,
+    "longitude": 9.364338
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "105",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8527447,
+    "longitude": 9.3643934
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "107",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8529766,
+    "longitude": 9.3644639
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "108",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8530065,
+    "longitude": 9.365028
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "109",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8531853,
+    "longitude": 9.3645574
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "11",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8481676,
+    "longitude": 9.3617034
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "111",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8534447,
+    "longitude": 9.3646569
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "115",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8535502,
+    "longitude": 9.3646662
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "116",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8534073,
+    "longitude": 9.3651342
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "117",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8536788,
+    "longitude": 9.3647246
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "118",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8537767,
+    "longitude": 9.3651194
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "12",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8485542,
+    "longitude": 9.3623003
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "122",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8542742,
+    "longitude": 9.3653327
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "124",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8545061,
+    "longitude": 9.3654493
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "13",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8483474,
+    "longitude": 9.3613855
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "130",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8547967,
+    "longitude": 9.3656727
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "135",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8553738,
+    "longitude": 9.3654204
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "139",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8557099,
+    "longitude": 9.3652788
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "13b",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8484351,
+    "longitude": 9.3617209
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "14",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8487159,
+    "longitude": 9.3624223
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "141",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8558658,
+    "longitude": 9.3653776
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "142",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8567175,
+    "longitude": 9.3660491
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "143",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8559877,
+    "longitude": 9.3655194
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "144",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8568101,
+    "longitude": 9.3662189
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "145",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8560341,
+    "longitude": 9.3655427
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "146",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.856856,
+    "longitude": 9.3664217
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "148",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8569172,
+    "longitude": 9.3660051
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "15",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8486238,
+    "longitude": 9.3618484
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "150",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8570035,
+    "longitude": 9.36606
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "152",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8570788,
+    "longitude": 9.3660817
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "15a",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8486894,
+    "longitude": 9.3618698
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "16",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8487699,
+    "longitude": 9.3624595
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "16a",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8488302,
+    "longitude": 9.3625055
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "19",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8490703,
+    "longitude": 9.3622528
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "2",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8468946,
+    "longitude": 9.3614742
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "28",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8490034,
+    "longitude": 9.3626399
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "3",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8471559,
+    "longitude": 9.3610306
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "30",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8492271,
+    "longitude": 9.3627062
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "35",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8496041,
+    "longitude": 9.3627051
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "38",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8493451,
+    "longitude": 9.3628279
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "4",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.846946,
+    "longitude": 9.3614798
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "40",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8494888,
+    "longitude": 9.3629481
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "42",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8497262,
+    "longitude": 9.3631338
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "44",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8499265,
+    "longitude": 9.3632666
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "46",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8499752,
+    "longitude": 9.363316
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "48",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8501383,
+    "longitude": 9.3634328
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "4a",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8469872,
+    "longitude": 9.3614818
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "50",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.850287,
+    "longitude": 9.3635916
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "52",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8504269,
+    "longitude": 9.3637108
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "54",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8505323,
+    "longitude": 9.3637402
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "59",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8511444,
+    "longitude": 9.3637903
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "6",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8470515,
+    "longitude": 9.3614928
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "60",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8513267,
+    "longitude": 9.3641914
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "62",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8515037,
+    "longitude": 9.3642903
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "64",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8515606,
+    "longitude": 9.3643425
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "65",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8513867,
+    "longitude": 9.3639069
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "68",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8517923,
+    "longitude": 9.3644821
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "6a",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8471067,
+    "longitude": 9.3615124
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "70",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8519244,
+    "longitude": 9.3647563
+  },
+  {
+    "street": "Viale Promessi Sposi",
+    "number": "76",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8522752,
+    "longitude": 9.3646607
+  },
+  {
+    "street": "Via Chiari",
+    "number": "119",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8430918,
+    "longitude": 9.3586063
+  },
+  {
+    "street": "Via Casnedi",
+    "number": "4/b",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8416825,
+    "longitude": 9.3532915
+  },
+  {
+    "street": "Via San Martino",
+    "number": "30",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8442308,
+    "longitude": 9.3500542
+  },
+  {
+    "street": "Via San Martino",
+    "number": "36",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8443123,
+    "longitude": 9.3494987
+  },
+  {
+    "street": "Via San Martino",
+    "number": "61",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8440754,
+    "longitude": 9.3473821
+  },
+  {
+    "street": "Via San Martino",
+    "number": "70",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8434256,
+    "longitude": 9.3457912
+  },
+  {
+    "street": "Via San Martino",
+    "number": "84",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8429415,
+    "longitude": 9.3455297
+  },
+  {
+    "street": "Via Piedimonte",
+    "number": "74",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8461047,
+    "longitude": 9.3688493
+  },
+  {
+    "street": "Via Fatebenefratelli",
+    "number": "8",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8484019,
+    "longitude": 9.3592561
+  },
+  {
+    "street": "Via Riccardo Casnedi",
+    "number": "4",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8417194,
+    "longitude": 9.3527412
+  },
+  {
+    "street": "Via Roma",
+    "number": "84",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8463686,
+    "longitude": 9.3627441
+  },
+  {
+    "street": "Via San Valerio",
+    "number": "3",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8481716,
+    "longitude": 9.3609497
+  },
+  {
+    "street": "Via Sabatelli",
+    "number": "21",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8482119,
+    "longitude": 9.3633099
+  },
+  {
+    "street": "Via Bovara",
+    "number": "101",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8554324,
+    "longitude": 9.36596
+  },
+  {
+    "street": "Via Casnedi",
+    "number": "1",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8416572,
+    "longitude": 9.3527636
+  },
+  {
+    "street": "Via Fra' Cristoforo",
+    "number": "6",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8501342,
+    "longitude": 9.3620359
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "10",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8450383,
+    "longitude": 9.3528628
+  },
+  {
+    "street": "Via Mons. A. Pozzi",
+    "number": "23",
+    "city": {
+      "name": "Valmadrera",
+      "istat": "097083"
+    },
+    "latitude": 45.8420166,
+    "longitude": 9.3497491
+  }
+]

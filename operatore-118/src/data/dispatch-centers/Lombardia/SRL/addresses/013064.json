@@ -1,0 +1,1972 @@
+[
+  {
+    "street": "Via Sandro Pertini",
+    "number": "20",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6952567,
+    "longitude": 9.0771369
+  },
+  {
+    "street": "Via Eugenio Montale",
+    "number": "8",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6971515,
+    "longitude": 9.0825848
+  },
+  {
+    "street": "Via Cascina Lavezzari",
+    "number": "30",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6977336,
+    "longitude": 9.0859344
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "25",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6959964,
+    "longitude": 9.0760381
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "23",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6963858,
+    "longitude": 9.0759255
+  },
+  {
+    "street": "Via Castagneto",
+    "number": "15",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6952751,
+    "longitude": 9.0782855
+  },
+  {
+    "street": "Via Costituzione",
+    "number": "5",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6981254,
+    "longitude": 9.078031
+  },
+  {
+    "street": "Via Costituzione",
+    "number": "3",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6983623,
+    "longitude": 9.0779257
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "4",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6979555,
+    "longitude": 9.0757341
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "16",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6983084,
+    "longitude": 9.07688
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "11",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6985157,
+    "longitude": 9.0773035
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "9",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6984188,
+    "longitude": 9.0770854
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "18",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6983809,
+    "longitude": 9.0772877
+  },
+  {
+    "street": "Via Costituzione",
+    "number": "1",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6985455,
+    "longitude": 9.0777654
+  },
+  {
+    "street": "Via Carlo Moreschi",
+    "number": "47",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6984707,
+    "longitude": 9.074835
+  },
+  {
+    "street": "Via Carlo Moreschi",
+    "number": "45",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6989939,
+    "longitude": 9.074979
+  },
+  {
+    "street": "Vicolo Porta",
+    "number": "10",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.698813,
+    "longitude": 9.0753812
+  },
+  {
+    "street": "Vicolo Porta",
+    "number": "49",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6983805,
+    "longitude": 9.0755101
+  },
+  {
+    "street": "Vicolo Porta",
+    "number": "27",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.698478,
+    "longitude": 9.0755336
+  },
+  {
+    "street": "Vicolo Porta",
+    "number": "15",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6988081,
+    "longitude": 9.0754408
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "5",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6983597,
+    "longitude": 9.0767889
+  },
+  {
+    "street": "Via Cascina Lavezzari",
+    "number": "46",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6972465,
+    "longitude": 9.0861532
+  },
+  {
+    "street": "Via Cascina Lavezzari",
+    "number": "44",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6976046,
+    "longitude": 9.0859755
+  },
+  {
+    "street": "Via Cascina Lavezzari",
+    "number": "48",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6969911,
+    "longitude": 9.0860552
+  },
+  {
+    "street": "Via Cascina Lavezzari",
+    "number": "18",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6988368,
+    "longitude": 9.0852739
+  },
+  {
+    "street": "Via Cascina Lavezzari",
+    "number": "24",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6983632,
+    "longitude": 9.0855175
+  },
+  {
+    "street": "Via Cascina Lavezzari",
+    "number": "31a",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6963344,
+    "longitude": 9.0865275
+  },
+  {
+    "street": "Via Santa Maria in Vigna",
+    "number": "11",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6966949,
+    "longitude": 9.0759024
+  },
+  {
+    "street": "Via Santa Maria in Vigna",
+    "number": "9",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6967429,
+    "longitude": 9.0763615
+  },
+  {
+    "street": "Via Eugenio Montale",
+    "number": "3",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6972512,
+    "longitude": 9.0798915
+  },
+  {
+    "street": "Via Santa Maria in Vigna",
+    "number": "24",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6969512,
+    "longitude": 9.0760902
+  },
+  {
+    "street": "Via Santa Maria in Vigna",
+    "number": "26",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6969257,
+    "longitude": 9.075813
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "2",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7003584,
+    "longitude": 9.0884902
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "35",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7028249,
+    "longitude": 9.0856938
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "6",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7046511,
+    "longitude": 9.0783224
+  },
+  {
+    "street": "Via Ronzoni",
+    "number": "23",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7010787,
+    "longitude": 9.0837266
+  },
+  {
+    "street": "Via Sandro Pertini",
+    "number": "16",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6953386,
+    "longitude": 9.0772148
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "43",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.695359,
+    "longitude": 9.0761464
+  },
+  {
+    "street": "Via Sandro Pertini",
+    "number": "22",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6953622,
+    "longitude": 9.0770529
+  },
+  {
+    "street": "Via Sandro Pertini",
+    "number": "2",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6954226,
+    "longitude": 9.0778702
+  },
+  {
+    "street": "Via Sandro Pertini",
+    "number": "5",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6951589,
+    "longitude": 9.0774535
+  },
+  {
+    "street": "Via Sandro Pertini",
+    "number": "1",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6952122,
+    "longitude": 9.0778531
+  },
+  {
+    "street": "Via Cascina Lavezzari",
+    "number": "31",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6965845,
+    "longitude": 9.0865381
+  },
+  {
+    "street": "Via Cascina Lavezzari",
+    "number": "25",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6976166,
+    "longitude": 9.0869997
+  },
+  {
+    "street": "Via Cascina Lavezzari",
+    "number": "26",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6981042,
+    "longitude": 9.0854914
+  },
+  {
+    "street": "Via degli Astronauti",
+    "number": "12",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6990835,
+    "longitude": 9.0850231
+  },
+  {
+    "street": "Via degli Astronauti",
+    "number": "3",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6991373,
+    "longitude": 9.0840851
+  },
+  {
+    "street": "Via degli Astronauti",
+    "number": "17",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6992096,
+    "longitude": 9.0842571
+  },
+  {
+    "street": "Via Carlo Moreschi",
+    "number": "3",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6994138,
+    "longitude": 9.077889
+  },
+  {
+    "street": "Via Eugenio Montale",
+    "number": "6",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6970762,
+    "longitude": 9.0815422
+  },
+  {
+    "street": "Via Europa Unita",
+    "number": "38",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6962943,
+    "longitude": 9.0878289
+  },
+  {
+    "street": "Via Montesordo",
+    "number": "25b",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7129834,
+    "longitude": 9.0801419
+  },
+  {
+    "street": "Via Statale dei Giovi",
+    "number": "31",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7024547,
+    "longitude": 9.0930456
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "13",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7029463,
+    "longitude": 9.0891052
+  },
+  {
+    "street": "Via Giuseppe Negrini",
+    "number": "42",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7084494,
+    "longitude": 9.0935563
+  },
+  {
+    "street": "Vicolo Porta",
+    "number": "25",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6984822,
+    "longitude": 9.0757611
+  },
+  {
+    "street": "Via Scalabrini",
+    "number": "106",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6997386,
+    "longitude": 9.080275
+  },
+  {
+    "street": "Via Castagneto",
+    "number": "16",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.69556,
+    "longitude": 9.0779552
+  },
+  {
+    "street": "Via Castagneto",
+    "number": "8",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6963487,
+    "longitude": 9.0776686
+  },
+  {
+    "street": "Via Castagneto",
+    "number": "6",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6965599,
+    "longitude": 9.0776305
+  },
+  {
+    "street": "Via Gian Battista Scalabrini",
+    "number": "34",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7003904,
+    "longitude": 9.0851224
+  },
+  {
+    "street": "Via Ronzoni",
+    "number": "3",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7004703,
+    "longitude": 9.0842063
+  },
+  {
+    "street": "Via Gian Battista Scalabrini",
+    "number": "53",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7001218,
+    "longitude": 9.0846821
+  },
+  {
+    "street": "Via Gian Battista Scalabrini",
+    "number": "45",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.700214,
+    "longitude": 9.0859263
+  },
+  {
+    "street": "Via suor Modesta Bianchi",
+    "number": "16",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6972627,
+    "longitude": 9.0763539
+  },
+  {
+    "street": "Via Sandro Pertini",
+    "number": "11",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6951148,
+    "longitude": 9.0771264
+  },
+  {
+    "street": "Via Sandro Pertini",
+    "number": "3",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6951888,
+    "longitude": 9.0776749
+  },
+  {
+    "street": "Via Sandro Pertini",
+    "number": "4",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6954118,
+    "longitude": 9.0777929
+  },
+  {
+    "street": "Via Sandro Pertini",
+    "number": "6",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6953986,
+    "longitude": 9.0777058
+  },
+  {
+    "street": "Via Sandro Pertini",
+    "number": "8",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6953837,
+    "longitude": 9.0775985
+  },
+  {
+    "street": "Via Sandro Pertini",
+    "number": "10",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6953687,
+    "longitude": 9.0774724
+  },
+  {
+    "street": "Via Sandro Pertini",
+    "number": "14",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6953518,
+    "longitude": 9.0773343
+  },
+  {
+    "street": "Via Sandro Pertini",
+    "number": "30",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6952956,
+    "longitude": 9.0766114
+  },
+  {
+    "street": "Via Sandro Pertini",
+    "number": "28",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6953106,
+    "longitude": 9.0767241
+  },
+  {
+    "street": "Via Sandro Pertini",
+    "number": "24",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6953452,
+    "longitude": 9.0769481
+  },
+  {
+    "street": "Via Sandro Pertini",
+    "number": "26",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6953274,
+    "longitude": 9.0768354
+  },
+  {
+    "street": "Via Sandro Pertini",
+    "number": "36",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6952759,
+    "longitude": 9.0764773
+  },
+  {
+    "street": "Via Sandro Pertini",
+    "number": "38",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6952637,
+    "longitude": 9.0763768
+  },
+  {
+    "street": "Via Sandro Pertini",
+    "number": "40",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6952478,
+    "longitude": 9.0762614
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "35",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6956965,
+    "longitude": 9.0761742
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "7",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6976102,
+    "longitude": 9.0754715
+  },
+  {
+    "street": "Via Castagneto",
+    "number": "10",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.696,
+    "longitude": 9.0776575
+  },
+  {
+    "street": "Via Castagneto",
+    "number": "12",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6958276,
+    "longitude": 9.077695
+  },
+  {
+    "street": "Via Costituzione",
+    "number": "2",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6983628,
+    "longitude": 9.0775502
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "14",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6979455,
+    "longitude": 9.0768313
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "12",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6979928,
+    "longitude": 9.0765772
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "8",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6974327,
+    "longitude": 9.0751959
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "9",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6974556,
+    "longitude": 9.0755238
+  },
+  {
+    "street": "Via suor Modesta Bianchi",
+    "number": "20",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6969489,
+    "longitude": 9.0764116
+  },
+  {
+    "street": "Via suor Modesta Bianchi",
+    "number": "2",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6979315,
+    "longitude": 9.0761024
+  },
+  {
+    "street": "Via suor Modesta Bianchi",
+    "number": "4",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.697813,
+    "longitude": 9.0761346
+  },
+  {
+    "street": "Via suor Modesta Bianchi",
+    "number": "6",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6976931,
+    "longitude": 9.0761809
+  },
+  {
+    "street": "Via suor Modesta Bianchi",
+    "number": "8",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.697598,
+    "longitude": 9.0762158
+  },
+  {
+    "street": "Via suor Modesta Bianchi",
+    "number": "10",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6975053,
+    "longitude": 9.0762446
+  },
+  {
+    "street": "Via suor Modesta Bianchi",
+    "number": "12",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6974271,
+    "longitude": 9.0762755
+  },
+  {
+    "street": "Via suor Modesta Bianchi",
+    "number": "18",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6971709,
+    "longitude": 9.0763713
+  },
+  {
+    "street": "Via suor Modesta Bianchi",
+    "number": "14",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6973353,
+    "longitude": 9.076315
+  },
+  {
+    "street": "Via Costituzione",
+    "number": "12",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6977956,
+    "longitude": 9.0777929
+  },
+  {
+    "street": "Via Costituzione",
+    "number": "20",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6973769,
+    "longitude": 9.0773235
+  },
+  {
+    "street": "Via Costituzione",
+    "number": "18",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6974032,
+    "longitude": 9.0775368
+  },
+  {
+    "street": "Via Costituzione",
+    "number": "16",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6974332,
+    "longitude": 9.0777768
+  },
+  {
+    "street": "Via Costituzione",
+    "number": "14",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.69745,
+    "longitude": 9.0779109
+  },
+  {
+    "street": "Via Costituzione",
+    "number": "19",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6972196,
+    "longitude": 9.0783897
+  },
+  {
+    "street": "Via Costituzione",
+    "number": "13",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6976406,
+    "longitude": 9.0782811
+  },
+  {
+    "street": "Via Costituzione",
+    "number": "9",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.697879,
+    "longitude": 9.0781389
+  },
+  {
+    "street": "Via degli Astronauti",
+    "number": "23",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6993992,
+    "longitude": 9.0851985
+  },
+  {
+    "street": "Via degli Astronauti",
+    "number": "21",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6993861,
+    "longitude": 9.0847841
+  },
+  {
+    "street": "Via Gian Battista Scalabrini",
+    "number": "85",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7000843,
+    "longitude": 9.0833468
+  },
+  {
+    "street": "Via Gian Battista Scalabrini",
+    "number": "71",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.700103,
+    "longitude": 9.0837537
+  },
+  {
+    "street": "Via Scalabrini",
+    "number": "68",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7001973,
+    "longitude": 9.0837336
+  },
+  {
+    "street": "Via Gian Battista Scalabrini",
+    "number": "69",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7001166,
+    "longitude": 9.0839521
+  },
+  {
+    "street": "Via Gian Battista Scalabrini",
+    "number": "89",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7000563,
+    "longitude": 9.0830667
+  },
+  {
+    "street": "Via Gian Battista Scalabrini",
+    "number": "11",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7002899,
+    "longitude": 9.0872998
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "8/10",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7003997,
+    "longitude": 9.0885722
+  },
+  {
+    "street": "Via Gian Battista Scalabrini",
+    "number": "59",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7001323,
+    "longitude": 9.0842719
+  },
+  {
+    "street": "Via Gian Battista Scalabrini",
+    "number": "23",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7002536,
+    "longitude": 9.0867074
+  },
+  {
+    "street": "Via Gian Battista Scalabrini",
+    "number": "29",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7002459,
+    "longitude": 9.0865691
+  },
+  {
+    "street": "Via Gian Battista Scalabrini",
+    "number": "49",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7001366,
+    "longitude": 9.0849551
+  },
+  {
+    "street": "Via Europa Unita",
+    "number": "12",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.696925,
+    "longitude": 9.0925701
+  },
+  {
+    "street": "Via Don Felice Borghi",
+    "number": "3",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7045085,
+    "longitude": 9.0927838
+  },
+  {
+    "street": "Via Umberto Saba",
+    "number": "14",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7060638,
+    "longitude": 9.0885055
+  },
+  {
+    "street": "Via Montesordo",
+    "number": "27a",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.713101,
+    "longitude": 9.0800727
+  },
+  {
+    "street": "Via Montesordo",
+    "number": "37",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7141128,
+    "longitude": 9.0792988
+  },
+  {
+    "street": "Via Statale dei Giovi",
+    "number": "80/82",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7068904,
+    "longitude": 9.0889827
+  },
+  {
+    "street": "Via Montebello",
+    "number": "25",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7040982,
+    "longitude": 9.0802021
+  },
+  {
+    "street": "Via San Francesco d'Assisi",
+    "number": "35",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7057739,
+    "longitude": 9.0798761
+  },
+  {
+    "street": "Via Montebello",
+    "number": "31",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7045218,
+    "longitude": 9.0802311
+  },
+  {
+    "street": "Via Don Carlo Gnocchi",
+    "number": "27",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7050326,
+    "longitude": 9.0770458
+  },
+  {
+    "street": "Via Don Carlo Gnocchi",
+    "number": "3",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7052038,
+    "longitude": 9.0773035
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "5",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7040161,
+    "longitude": 9.0902957
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "23",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7047547,
+    "longitude": 9.0764041
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "25",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7029584,
+    "longitude": 9.0861729
+  },
+  {
+    "street": "Via Montebello",
+    "number": "3",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7023789,
+    "longitude": 9.0808167
+  },
+  {
+    "street": "Strada statale dei Giovi",
+    "number": "1",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7146837,
+    "longitude": 9.0786922
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "45",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7017785,
+    "longitude": 9.0815126
+  },
+  {
+    "street": "Via Negrini",
+    "number": "1",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.704619,
+    "longitude": 9.0910391
+  },
+  {
+    "street": "Via Don Carlo Gnocchi",
+    "number": "11",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.705428,
+    "longitude": 9.0782189
+  },
+  {
+    "street": "Via Statale dei Giovi",
+    "number": "69",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7043311,
+    "longitude": 9.0905683
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "29",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7029236,
+    "longitude": 9.0860017
+  },
+  {
+    "street": "Garibaldi",
+    "number": "5",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7012264,
+    "longitude": 9.0824614
+  },
+  {
+    "street": "Via Europa Unita",
+    "number": "41",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6945332,
+    "longitude": 9.0812395
+  },
+  {
+    "street": "Via Europa Unita",
+    "number": "84",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6941605,
+    "longitude": 9.0689071
+  },
+  {
+    "street": "Via Europa Unita",
+    "number": "82",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6943475,
+    "longitude": 9.0698558
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "27",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6945507,
+    "longitude": 9.0797541
+  },
+  {
+    "street": "Via della Nave",
+    "number": "13",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.702935,
+    "longitude": 9.0889017
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "8",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7046402,
+    "longitude": 9.0781373
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "73",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7004637,
+    "longitude": 9.0756769
+  },
+  {
+    "street": "Via Fratelli Cervi",
+    "number": "15",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7008141,
+    "longitude": 9.0769926
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "21",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.704682,
+    "longitude": 9.076825
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "2a",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7044194,
+    "longitude": 9.0785405
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "11",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7039625,
+    "longitude": 9.0770448
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "12",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7047069,
+    "longitude": 9.0777217
+  },
+  {
+    "street": "Via Bisbino",
+    "number": "2",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7007821,
+    "longitude": 9.0758382
+  },
+  {
+    "street": "Via Costituzione",
+    "number": "8",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6978621,
+    "longitude": 9.077451
+  },
+  {
+    "street": "Via Europa Unita",
+    "number": "43",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6947064,
+    "longitude": 9.080474
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "29",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6939214,
+    "longitude": 9.0798517
+  },
+  {
+    "street": "Via Montesordo",
+    "number": "25a",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7128624,
+    "longitude": 9.0802131
+  },
+  {
+    "street": "Via Europa Unita",
+    "number": "48",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6962066,
+    "longitude": 9.0821169
+  },
+  {
+    "street": "Via Statale dei Giovi",
+    "number": "51",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7032235,
+    "longitude": 9.0922672
+  },
+  {
+    "street": "Via Eugenio Montale",
+    "number": "12",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6961368,
+    "longitude": 9.0836895
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "56",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7021083,
+    "longitude": 9.0806055
+  },
+  {
+    "street": "Via Eugenio Montale",
+    "number": "1",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.697573,
+    "longitude": 9.0793583
+  },
+  {
+    "street": "Via Scalabrini",
+    "number": "153",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6994845,
+    "longitude": 9.0800185
+  },
+  {
+    "street": "Via Martiri della libertà",
+    "number": "6",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7059496,
+    "longitude": 9.082523
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "28",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7033572,
+    "longitude": 9.085398
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "3",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7010329,
+    "longitude": 9.081901
+  },
+  {
+    "street": "Via Montebello",
+    "number": "26",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7056906,
+    "longitude": 9.0804209
+  },
+  {
+    "street": "Via Europa Unita",
+    "number": "35",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6963774,
+    "longitude": 9.0892588
+  },
+  {
+    "street": "Via Castagneto",
+    "number": "2",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6967209,
+    "longitude": 9.0771976
+  },
+  {
+    "street": "Via Scalabrini",
+    "number": "155",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6982877,
+    "longitude": 9.0794287
+  },
+  {
+    "street": "Via Scalabrini",
+    "number": "151",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6995503,
+    "longitude": 9.080541
+  },
+  {
+    "street": "Via Amendola",
+    "number": "22",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6934759,
+    "longitude": 9.0706187
+  },
+  {
+    "street": "Via Montesordo",
+    "number": "24",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7125694,
+    "longitude": 9.0818469
+  },
+  {
+    "street": "Via San Francesco d'Assisi",
+    "number": "1",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.701801,
+    "longitude": 9.0778671
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "17",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7031506,
+    "longitude": 9.087881
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "9b",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6999773,
+    "longitude": 9.0896047
+  },
+  {
+    "street": "Via Statale dei Giovi",
+    "number": "73",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7044538,
+    "longitude": 9.0905455
+  },
+  {
+    "street": "Via San Francesco d'Assisi",
+    "number": "17",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7041983,
+    "longitude": 9.0785208
+  },
+  {
+    "street": "Via Statale dei Giovi",
+    "number": "76",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7055907,
+    "longitude": 9.0910043
+  },
+  {
+    "street": "Via Statale dei Giovi",
+    "number": "80",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7072322,
+    "longitude": 9.0887358
+  },
+  {
+    "street": "Via Statale dei Giovi",
+    "number": "84",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7076603,
+    "longitude": 9.0884133
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "61b",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7008838,
+    "longitude": 9.076575
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "48/50",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6940686,
+    "longitude": 9.0789023
+  },
+  {
+    "street": "Via Giovanni Amendola",
+    "number": "20",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6937932,
+    "longitude": 9.0705662
+  },
+  {
+    "street": "Via Europa Unita",
+    "number": "45",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6944934,
+    "longitude": 9.076654
+  },
+  {
+    "street": "Via Maestri Comacini",
+    "number": "32",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6923938,
+    "longitude": 9.0729289
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "7",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7013439,
+    "longitude": 9.0821375
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "2",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7010495,
+    "longitude": 9.0829165
+  },
+  {
+    "street": "Via Gian Battista Grassi",
+    "number": "27",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7029354,
+    "longitude": 9.0871621
+  },
+  {
+    "street": "Via Gian Battista Grassi",
+    "number": "23",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7024997,
+    "longitude": 9.087236
+  },
+  {
+    "street": "Via Gian Battista Grassi",
+    "number": "25",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7026966,
+    "longitude": 9.0870106
+  },
+  {
+    "street": "Via Cascina Lavezzari",
+    "number": "23c",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6978024,
+    "longitude": 9.0870539
+  },
+  {
+    "street": "Via Cascina Lavezzari",
+    "number": "25d",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6972986,
+    "longitude": 9.0866956
+  },
+  {
+    "street": "Via Cascina Lavezzari",
+    "number": "25c",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.69741,
+    "longitude": 9.0866365
+  },
+  {
+    "street": "Via Cascina Lavezzari",
+    "number": "25b",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6975167,
+    "longitude": 9.0865976
+  },
+  {
+    "street": "Via Cascina Lavezzari",
+    "number": "23b",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.6977566,
+    "longitude": 9.0869466
+  },
+  {
+    "street": "Via Negrini",
+    "number": "9",
+    "city": {
+      "name": "Cermenate",
+      "istat": "013064"
+    },
+    "latitude": 45.7047505,
+    "longitude": 9.0924827
+  }
+]

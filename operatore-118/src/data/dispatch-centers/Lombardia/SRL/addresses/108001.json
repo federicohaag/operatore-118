@@ -1,0 +1,4312 @@
+[
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "133",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.572176,
+    "longitude": 9.356602
+  },
+  {
+    "street": "Via Lecco",
+    "number": "35",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5753466,
+    "longitude": 9.3547217
+  },
+  {
+    "street": "Via Archimede",
+    "number": "42",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5676342,
+    "longitude": 9.3349436
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "30",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5683775,
+    "longitude": 9.3355288
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "12",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5694155,
+    "longitude": 9.3441758
+  },
+  {
+    "street": "Via Privata Danilo",
+    "number": "15",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5689111,
+    "longitude": 9.3361817
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "140",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.569236,
+    "longitude": 9.3357912
+  },
+  {
+    "street": "Via Archimede",
+    "number": "69",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5660964,
+    "longitude": 9.3257363
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "44",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5681043,
+    "longitude": 9.3356043
+  },
+  {
+    "street": "Via Archimede",
+    "number": "14",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5685689,
+    "longitude": 9.3413338
+  },
+  {
+    "street": "Via Cassignolo",
+    "number": "4",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.56981,
+    "longitude": 9.3407035
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "23",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5683408,
+    "longitude": 9.3358469
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "122",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5694299,
+    "longitude": 9.3408162
+  },
+  {
+    "street": "Via Cassignolo",
+    "number": "5a",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5698477,
+    "longitude": 9.3406308
+  },
+  {
+    "street": "Via Cassignolo",
+    "number": "33.3",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5710229,
+    "longitude": 9.340539
+  },
+  {
+    "street": "Via Archimede",
+    "number": "54",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5671496,
+    "longitude": 9.3318118
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "34",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5682604,
+    "longitude": 9.3355616
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "131",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5692004,
+    "longitude": 9.3363141
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "88",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5694532,
+    "longitude": 9.342366
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "46",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5680068,
+    "longitude": 9.3356289
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "116",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5696451,
+    "longitude": 9.3413567
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "92c",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5697903,
+    "longitude": 9.3414796
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "45",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5679884,
+    "longitude": 9.3357797
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "118a",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5694335,
+    "longitude": 9.3412363
+  },
+  {
+    "street": "Via Cassignolo",
+    "number": "3",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5696078,
+    "longitude": 9.3405669
+  },
+  {
+    "street": "Via Cassignolo",
+    "number": "33.1",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5709127,
+    "longitude": 9.3405177
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "28",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5684498,
+    "longitude": 9.3354961
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "14",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5690386,
+    "longitude": 9.3352829
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "10",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5694043,
+    "longitude": 9.3442838
+  },
+  {
+    "street": "Via Privata Danilo",
+    "number": "9",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5688998,
+    "longitude": 9.3358638
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "138",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.569275,
+    "longitude": 9.3362699
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "6",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5693909,
+    "longitude": 9.3352633
+  },
+  {
+    "street": "Via Archimede",
+    "number": "7",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5684152,
+    "longitude": 9.3412192
+  },
+  {
+    "street": "Via Cassignolo",
+    "number": "12",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5703372,
+    "longitude": 9.3408367
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "25",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5683396,
+    "longitude": 9.3359502
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "120",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5694317,
+    "longitude": 9.3409007
+  },
+  {
+    "street": "Via Cassignolo",
+    "number": "9",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5700612,
+    "longitude": 9.3406915
+  },
+  {
+    "street": "Via Privata Danilo",
+    "number": "6",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5688307,
+    "longitude": 9.3357927
+  },
+  {
+    "street": "Via Maria Grazia Deledda",
+    "number": "10",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5696509,
+    "longitude": 9.344568
+  },
+  {
+    "street": "Via Archimede",
+    "number": "45",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5670817,
+    "longitude": 9.3325142
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "32",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5682857,
+    "longitude": 9.3355567
+  },
+  {
+    "street": "Via Cassignolo",
+    "number": "33.7",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5711939,
+    "longitude": 9.3405751
+  },
+  {
+    "street": "Via Privata Danilo",
+    "number": "3",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5688931,
+    "longitude": 9.3356784
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "70",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5697652,
+    "longitude": 9.3429603
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "112",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5698405,
+    "longitude": 9.3414054
+  },
+  {
+    "street": "Via Archimede",
+    "number": "19",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5679657,
+    "longitude": 9.3382298
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "94c",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.570131,
+    "longitude": 9.3415821
+  },
+  {
+    "street": "Via Cassignolo",
+    "number": "23",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5707176,
+    "longitude": 9.3408849
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "128",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5694047,
+    "longitude": 9.3399242
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "39",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5681434,
+    "longitude": 9.3358551
+  },
+  {
+    "street": "Via Cassignolo",
+    "number": "14",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.570513,
+    "longitude": 9.3408828
+  },
+  {
+    "street": "Via Maria Grazia Deledda",
+    "number": "20",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.570696,
+    "longitude": 9.3448282
+  },
+  {
+    "street": "Via Cassignolo",
+    "number": "5",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5697375,
+    "longitude": 9.3405964
+  },
+  {
+    "street": "Via Privata Danilo",
+    "number": "10",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5688401,
+    "longitude": 9.3360585
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "12",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5691545,
+    "longitude": 9.3352764
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "34",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5694547,
+    "longitude": 9.3438516
+  },
+  {
+    "street": "Via Privata Danilo",
+    "number": "11",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5689052,
+    "longitude": 9.336016
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "146",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5692222,
+    "longitude": 9.3355649
+  },
+  {
+    "street": "Via Maria Grazia Deledda",
+    "number": "30",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5707184,
+    "longitude": 9.343019
+  },
+  {
+    "street": "Via Archimede",
+    "number": "75",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.565965,
+    "longitude": 9.3243581
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "8",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5693289,
+    "longitude": 9.3352649
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "118",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5695088,
+    "longitude": 9.3413234
+  },
+  {
+    "street": "Via Archimede",
+    "number": "33a",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5676941,
+    "longitude": 9.3363407
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "102",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5707891,
+    "longitude": 9.3418408
+  },
+  {
+    "street": "Via Cassignolo",
+    "number": "10",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5700432,
+    "longitude": 9.3407598
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "35",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5682375,
+    "longitude": 9.3359076
+  },
+  {
+    "street": "Via Privata Danilo",
+    "number": "4",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5688248,
+    "longitude": 9.3356239
+  },
+  {
+    "street": "Via Cassignolo",
+    "number": "33.8",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5712226,
+    "longitude": 9.3405866
+  },
+  {
+    "street": "Via Maria Grazia Deledda",
+    "number": "6",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5695108,
+    "longitude": 9.344508
+  },
+  {
+    "street": "Via Archimede",
+    "number": "43",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5672315,
+    "longitude": 9.3333737
+  },
+  {
+    "street": "Via Cassignolo",
+    "number": "31",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5709586,
+    "longitude": 9.3409423
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "38",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5681778,
+    "longitude": 9.3355911
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "16",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5689651,
+    "longitude": 9.3352796
+  },
+  {
+    "street": "Via Cassignolo",
+    "number": "33.6",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5711618,
+    "longitude": 9.3405669
+  },
+  {
+    "street": "Via Privata Danilo",
+    "number": "5",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5688963,
+    "longitude": 9.3357671
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "90a",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5694621,
+    "longitude": 9.3421047
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "141",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5691499,
+    "longitude": 9.3354436
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "68",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5695877,
+    "longitude": 9.3429116
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "154",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5693909,
+    "longitude": 9.3354633
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "50",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.567915,
+    "longitude": 9.3356584
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "94b",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5700683,
+    "longitude": 9.3415591
+  },
+  {
+    "street": "Via Cassignolo",
+    "number": "25",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5708003,
+    "longitude": 9.3409013
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "41",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.568117,
+    "longitude": 9.335842
+  },
+  {
+    "street": "Via Cassignolo",
+    "number": "12a",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5704287,
+    "longitude": 9.3408572
+  },
+  {
+    "street": "Via Maria Grazia Deledda",
+    "number": "18",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.570682,
+    "longitude": 9.3449283
+  },
+  {
+    "street": "Via Privata Danilo",
+    "number": "8",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.568835,
+    "longitude": 9.3359125
+  },
+  {
+    "street": "Via Privata Danilo",
+    "number": "7",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5688997,
+    "longitude": 9.335819
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "32",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5694463,
+    "longitude": 9.3439316
+  },
+  {
+    "street": "Via Archimede",
+    "number": "76",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5666437,
+    "longitude": 9.3282212
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "137",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.569174,
+    "longitude": 9.3357649
+  },
+  {
+    "street": "Via Archimede",
+    "number": "33",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5671636,
+    "longitude": 9.3373426
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "94d",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.570192,
+    "longitude": 9.3416026
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "37",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5682157,
+    "longitude": 9.3358912
+  },
+  {
+    "street": "Via Maria Grazia Deledda",
+    "number": "14",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5702869,
+    "longitude": 9.3447922
+  },
+  {
+    "street": "Via Maria Grazia Deledda",
+    "number": "12",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5699227,
+    "longitude": 9.3446561
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "36",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.568195,
+    "longitude": 9.3355846
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "139",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5691568,
+    "longitude": 9.3355715
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "4",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5695218,
+    "longitude": 9.3351928
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "42",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5681216,
+    "longitude": 9.3356026
+  },
+  {
+    "street": "Via Archimede",
+    "number": "20",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5684478,
+    "longitude": 9.3404722
+  },
+  {
+    "street": "Via Cassignolo",
+    "number": "18",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5708286,
+    "longitude": 9.3409673
+  },
+  {
+    "street": "Via Cassignolo",
+    "number": "1",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5695057,
+    "longitude": 9.340539
+  },
+  {
+    "street": "Via Privata Danilo",
+    "number": "14",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5688459,
+    "longitude": 9.3362208
+  },
+  {
+    "street": "Via Cassignolo",
+    "number": "33.4",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5710757,
+    "longitude": 9.3405472
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "20",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5687677,
+    "longitude": 9.3352878
+  },
+  {
+    "street": "Via Maria Grazia Deledda",
+    "number": "1",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5696004,
+    "longitude": 9.3444359
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "76",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5695231,
+    "longitude": 9.3425402
+  },
+  {
+    "street": "Via Archimede",
+    "number": "31",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5671202,
+    "longitude": 9.3371969
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "104",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5708107,
+    "longitude": 9.3416999
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "31",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5683396,
+    "longitude": 9.3361568
+  },
+  {
+    "street": "Via Maria Grazia Deledda",
+    "number": "12a",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5700824,
+    "longitude": 9.3447121
+  },
+  {
+    "street": "Via Archimede",
+    "number": "35",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5675946,
+    "longitude": 9.3356449
+  },
+  {
+    "street": "Via Maria Grazia Deledda",
+    "number": "23",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5705895,
+    "longitude": 9.3441598
+  },
+  {
+    "street": "Via Maria Grazia Deledda",
+    "number": "10a",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5698386,
+    "longitude": 9.3446361
+  },
+  {
+    "street": "Via Cassignolo",
+    "number": "27",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5708335,
+    "longitude": 9.3409079
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "26",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.568521,
+    "longitude": 9.335442
+  },
+  {
+    "street": "Via Privata Danilo",
+    "number": "1",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5688894,
+    "longitude": 9.3355731
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "84",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5696702,
+    "longitude": 9.3425274
+  },
+  {
+    "street": "Via Offelera",
+    "number": "104",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5645122,
+    "longitude": 9.3206398
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "152",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5692497,
+    "longitude": 9.3354141
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "72",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5699427,
+    "longitude": 9.3430141
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "40",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5681571,
+    "longitude": 9.3355961
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "90c",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5695662,
+    "longitude": 9.342056
+  },
+  {
+    "street": "Via Cassignolo",
+    "number": "21",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5706706,
+    "longitude": 9.3408702
+  },
+  {
+    "street": "Via Cassignolo",
+    "number": "16",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5707264,
+    "longitude": 9.3409443
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "27",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5683396,
+    "longitude": 9.3359863
+  },
+  {
+    "street": "Via Cassignolo",
+    "number": "13",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5702207,
+    "longitude": 9.3407374
+  },
+  {
+    "street": "Via Privata Danilo",
+    "number": "12",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5688444,
+    "longitude": 9.3361783
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "18",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.568832,
+    "longitude": 9.3352944
+  },
+  {
+    "street": "Via Cassignolo",
+    "number": "35",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5711123,
+    "longitude": 9.3407007
+  },
+  {
+    "street": "Via Privata Danilo",
+    "number": "17",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5689141,
+    "longitude": 9.3362635
+  },
+  {
+    "street": "Via Maria Grazia Deledda",
+    "number": "3",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5698246,
+    "longitude": 9.344508
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "2",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5695929,
+    "longitude": 9.3351928
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "110",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5702171,
+    "longitude": 9.3415155
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "1",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5692896,
+    "longitude": 9.3442657
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "33",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5683408,
+    "longitude": 9.3362223
+  },
+  {
+    "street": "Via Maria Grazia Deledda",
+    "number": "24",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5705587,
+    "longitude": 9.3443559
+  },
+  {
+    "street": "Via Privata Danilo",
+    "number": "18",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5688481,
+    "longitude": 9.336283
+  },
+  {
+    "street": "Via Cassignolo",
+    "number": "29",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5708772,
+    "longitude": 9.3409243
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "22",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5686484,
+    "longitude": 9.3353174
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "10",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5692635,
+    "longitude": 9.3352715
+  },
+  {
+    "street": "Via Privata Danilo",
+    "number": "13",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5689092,
+    "longitude": 9.3361259
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "78",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.569611,
+    "longitude": 9.3425786
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "150",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5692176,
+    "longitude": 9.3354452
+  },
+  {
+    "street": "Via Archimede",
+    "number": "15",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5680958,
+    "longitude": 9.3390622
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "92a",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5696935,
+    "longitude": 9.3414592
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "106",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5707999,
+    "longitude": 9.341659
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "2",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5692968,
+    "longitude": 9.345318
+  },
+  {
+    "street": "Via Cassignolo",
+    "number": "6",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5699266,
+    "longitude": 9.3407342
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "29",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5683396,
+    "longitude": 9.3361158
+  },
+  {
+    "street": "Via Cassignolo",
+    "number": "15",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5703171,
+    "longitude": 9.340762
+  },
+  {
+    "street": "Via Privata Danilo",
+    "number": "2",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5688217,
+    "longitude": 9.3355354
+  },
+  {
+    "street": "Via Cassignolo",
+    "number": "33.2",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5709667,
+    "longitude": 9.3405292
+  },
+  {
+    "street": "Via Cassignolo",
+    "number": "35a",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5710563,
+    "longitude": 9.3407214
+  },
+  {
+    "street": "Via Privata Danilo",
+    "number": "19",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5689158,
+    "longitude": 9.3363109
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "133",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5691924,
+    "longitude": 9.3362486
+  },
+  {
+    "street": "Via Cassignolo",
+    "number": "33.5",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5711262,
+    "longitude": 9.340557
+  },
+  {
+    "street": "Via Giovanni Verga",
+    "number": "5",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5697678,
+    "longitude": 9.3436177
+  },
+  {
+    "street": "Via Archimede",
+    "number": "80",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5664128,
+    "longitude": 9.3271367
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "48",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5679838,
+    "longitude": 9.3356354
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "108",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5707389,
+    "longitude": 9.3416359
+  },
+  {
+    "street": "Via Archimede",
+    "number": "15a",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.568055,
+    "longitude": 9.3388054
+  },
+  {
+    "street": "Via Ghiringhella",
+    "number": "94a",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5699983,
+    "longitude": 9.3415386
+  },
+  {
+    "street": "Via Cassignolo",
+    "number": "2",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5694962,
+    "longitude": 9.3406369
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "43",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5680343,
+    "longitude": 9.3358026
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "109",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5725479,
+    "longitude": 9.3530434
+  },
+  {
+    "street": "Via Roma",
+    "number": "27",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5714763,
+    "longitude": 9.3476915
+  },
+  {
+    "street": "Via Roma",
+    "number": "2",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5734194,
+    "longitude": 9.3482143
+  },
+  {
+    "street": "Via Esculapio",
+    "number": "36",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.56293,
+    "longitude": 9.3313981
+  },
+  {
+    "street": "Via Roma",
+    "number": "21",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5718292,
+    "longitude": 9.3478109
+  },
+  {
+    "street": "Via San Domenico Savio",
+    "number": "26",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5722133,
+    "longitude": 9.3492219
+  },
+  {
+    "street": "Via Talete",
+    "number": "29",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5625408,
+    "longitude": 9.3224103
+  },
+  {
+    "street": "Via San Domenico Savio",
+    "number": "33",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5725147,
+    "longitude": 9.3471952
+  },
+  {
+    "street": "Via San Domenico Savio",
+    "number": "14",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5721108,
+    "longitude": 9.3496716
+  },
+  {
+    "street": "Via San Domenico Savio",
+    "number": "36",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5723012,
+    "longitude": 9.3487966
+  },
+  {
+    "street": "Via Roma",
+    "number": "18",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5726039,
+    "longitude": 9.3479197
+  },
+  {
+    "street": "Via Esculapio",
+    "number": "18",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5625875,
+    "longitude": 9.3284405
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "9",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5723912,
+    "longitude": 9.3511475
+  },
+  {
+    "street": "Via Marzabotto",
+    "number": "6",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5731519,
+    "longitude": 9.346975
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "105",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5725777,
+    "longitude": 9.3528731
+  },
+  {
+    "street": "Via Roma",
+    "number": "25",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5716509,
+    "longitude": 9.3477419
+  },
+  {
+    "street": "Via Roma",
+    "number": "4",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5732987,
+    "longitude": 9.3481878
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "118e",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5724398,
+    "longitude": 9.3527661
+  },
+  {
+    "street": "Via Esculapio",
+    "number": "40",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.563135,
+    "longitude": 9.3313981
+  },
+  {
+    "street": "Via Talete",
+    "number": "2",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.562956,
+    "longitude": 9.3241115
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "122",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5724133,
+    "longitude": 9.3529491
+  },
+  {
+    "street": "Via San Domenico Savio",
+    "number": "30",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5722621,
+    "longitude": 9.3489988
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "97,99a,101",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5726312,
+    "longitude": 9.3524354
+  },
+  {
+    "street": "Via San Domenico Savio",
+    "number": "48",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.572563,
+    "longitude": 9.3475615
+  },
+  {
+    "street": "Via San Domenico Savio",
+    "number": "15",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5719961,
+    "longitude": 9.3495914
+  },
+  {
+    "street": "Via Esculapio",
+    "number": "10",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5623462,
+    "longitude": 9.3260906
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "119",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5729651,
+    "longitude": 9.353791
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "87",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5727403,
+    "longitude": 9.351816
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "5",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5725501,
+    "longitude": 9.3512131
+  },
+  {
+    "street": "Via Marzabotto",
+    "number": "7",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.573256,
+    "longitude": 9.3472085
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "116",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5725542,
+    "longitude": 9.3522131
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "101b",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5727236,
+    "longitude": 9.3527475
+  },
+  {
+    "street": "Via Roma",
+    "number": "23",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5717809,
+    "longitude": 9.3477923
+  },
+  {
+    "street": "Via San Domenico Savio",
+    "number": "4",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5719546,
+    "longitude": 9.3503933
+  },
+  {
+    "street": "Via Archimede",
+    "number": "41",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5673169,
+    "longitude": 9.3338559
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "99c",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5726149,
+    "longitude": 9.3525522
+  },
+  {
+    "street": "Via Roma",
+    "number": "8",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5732151,
+    "longitude": 9.3481559
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "128",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5723698,
+    "longitude": 9.3532857
+  },
+  {
+    "street": "Via Offelera",
+    "number": "2",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5641346,
+    "longitude": 9.3279741
+  },
+  {
+    "street": "Via Talete",
+    "number": "4",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5629067,
+    "longitude": 9.3237408
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "126",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5723785,
+    "longitude": 9.3531788
+  },
+  {
+    "street": "Via San Domenico Savio",
+    "number": "34",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.572289,
+    "longitude": 9.3488558
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "97,99",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5726738,
+    "longitude": 9.3521546
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "81",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5727728,
+    "longitude": 9.3516909
+  },
+  {
+    "street": "Via Talete",
+    "number": "2a",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5638885,
+    "longitude": 9.3263803
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "107",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5725611,
+    "longitude": 9.3529567
+  },
+  {
+    "street": "Via Offelera",
+    "number": "5a",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5645453,
+    "longitude": 9.3278527
+  },
+  {
+    "street": "Via San Domenico Savio",
+    "number": "35a",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5720782,
+    "longitude": 9.3468184
+  },
+  {
+    "street": "Via Marzabotto",
+    "number": "4",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.573451,
+    "longitude": 9.3470838
+  },
+  {
+    "street": "Via Roma",
+    "number": "19",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.571885,
+    "longitude": 9.3478322
+  },
+  {
+    "street": "Via San Domenico Savio",
+    "number": "1",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5718521,
+    "longitude": 9.3503515
+  },
+  {
+    "street": "Via Archimede",
+    "number": "37",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5674185,
+    "longitude": 9.3345325
+  },
+  {
+    "street": "Via San Domenico Savio",
+    "number": "18",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5721425,
+    "longitude": 9.3495566
+  },
+  {
+    "street": "Via Papa Giovanni XXIII",
+    "number": "16",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5723073,
+    "longitude": 9.3457611
+  },
+  {
+    "street": "Via Roma",
+    "number": "10",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5730665,
+    "longitude": 9.3481055
+  },
+  {
+    "street": "Via Offelera",
+    "number": "3",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5640508,
+    "longitude": 9.3282322
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "55",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5714899,
+    "longitude": 9.3508187
+  },
+  {
+    "street": "Via Talete",
+    "number": "6",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5628781,
+    "longitude": 9.323511
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "7",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.572476,
+    "longitude": 9.3511825
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "136",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5721918,
+    "longitude": 9.3543847
+  },
+  {
+    "street": "Via Offelera",
+    "number": "3f",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5645122,
+    "longitude": 9.3281335
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "77",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5728012,
+    "longitude": 9.3516138
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "101c",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.572684,
+    "longitude": 9.3527482
+  },
+  {
+    "street": "Via San Domenico Savio",
+    "number": "35b",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5720856,
+    "longitude": 9.3467759
+  },
+  {
+    "street": "Via Offelera",
+    "number": "3a",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5642836,
+    "longitude": 9.3281788
+  },
+  {
+    "street": "Via San Domenico Savio",
+    "number": "37",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5725891,
+    "longitude": 9.3468051
+  },
+  {
+    "street": "Via San Domenico Savio",
+    "number": "8",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5720083,
+    "longitude": 9.3501702
+  },
+  {
+    "street": "Via Archimede",
+    "number": "13",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5683717,
+    "longitude": 9.3409484
+  },
+  {
+    "street": "Via San Domenico Savio",
+    "number": "42",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5723494,
+    "longitude": 9.348562
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "124",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5723917,
+    "longitude": 9.3530859
+  },
+  {
+    "street": "Via San Domenico Savio",
+    "number": "24",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5721767,
+    "longitude": 9.3493788
+  },
+  {
+    "street": "Via Roma",
+    "number": "12",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5729773,
+    "longitude": 9.348063
+  },
+  {
+    "street": "Via Offelera",
+    "number": "1",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5639058,
+    "longitude": 9.3282394
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "23",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5718466,
+    "longitude": 9.3509338
+  },
+  {
+    "street": "Via Talete",
+    "number": "8",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5628522,
+    "longitude": 9.3233072
+  },
+  {
+    "street": "Via Esculapio",
+    "number": "16",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5625823,
+    "longitude": 9.3282181
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "3",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5726233,
+    "longitude": 9.3512433
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "138",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.572176,
+    "longitude": 9.3545033
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "101a",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5727303,
+    "longitude": 9.3527001
+  },
+  {
+    "street": "Via Offelera",
+    "number": "7",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5645353,
+    "longitude": 9.3274254
+  },
+  {
+    "street": "Via Esculapio",
+    "number": "32",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5626368,
+    "longitude": 9.331387
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "102",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5727038,
+    "longitude": 9.3513365
+  },
+  {
+    "street": "Via San Domenico Savio",
+    "number": "56",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.572851,
+    "longitude": 9.3462
+  },
+  {
+    "street": "Via Roma",
+    "number": "29",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5713555,
+    "longitude": 9.3476543
+  },
+  {
+    "street": "Via Roma",
+    "number": "13",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5721896,
+    "longitude": 9.3479622
+  },
+  {
+    "street": "Via San Domenico Savio",
+    "number": "10",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5720181,
+    "longitude": 9.3501039
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "57",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5714113,
+    "longitude": 9.3507941
+  },
+  {
+    "street": "Via Roma",
+    "number": "15",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5725668,
+    "longitude": 9.3480524
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "118c",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5724591,
+    "longitude": 9.3526266
+  },
+  {
+    "street": "Via San Domenico Savio",
+    "number": "28",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5722377,
+    "longitude": 9.3491068
+  },
+  {
+    "street": "Via Roma",
+    "number": "14",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5728584,
+    "longitude": 9.3480206
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "75",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5728445,
+    "longitude": 9.3514977
+  },
+  {
+    "street": "Via Esculapio",
+    "number": "14",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5625642,
+    "longitude": 9.3275509
+  },
+  {
+    "street": "Via Talete",
+    "number": "10",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5627769,
+    "longitude": 9.3223102
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "117",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5726274,
+    "longitude": 9.3536175
+  },
+  {
+    "street": "Via Offelera",
+    "number": "5b",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.564538,
+    "longitude": 9.3278077
+  },
+  {
+    "street": "Via Papa Giovanni XXIII",
+    "number": "8",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5731476,
+    "longitude": 9.3455239
+  },
+  {
+    "street": "Via Esculapio",
+    "number": "20",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5625875,
+    "longitude": 9.3285739
+  },
+  {
+    "street": "Via Marzabotto",
+    "number": "8",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5729495,
+    "longitude": 9.346898
+  },
+  {
+    "street": "Via Esculapio",
+    "number": "34",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5628107,
+    "longitude": 9.3313907
+  },
+  {
+    "street": "Via San Domenico Savio",
+    "number": "22",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5721572,
+    "longitude": 9.3494694
+  },
+  {
+    "street": "Via San Domenico Savio",
+    "number": "23",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5724051,
+    "longitude": 9.3476597
+  },
+  {
+    "street": "Via San Domenico Savio",
+    "number": "12",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5720693,
+    "longitude": 9.3498773
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "29",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.571674,
+    "longitude": 9.3508763
+  },
+  {
+    "street": "Via San Domenico Savio",
+    "number": "32",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5722816,
+    "longitude": 9.3489012
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "93",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5727074,
+    "longitude": 9.3519657
+  },
+  {
+    "street": "Via Roma",
+    "number": "16",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5727804,
+    "longitude": 9.347994
+  },
+  {
+    "street": "Via Esculapio",
+    "number": "16a",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5625849,
+    "longitude": 9.328029
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "115a",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5729934,
+    "longitude": 9.3536893
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "47",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5699574,
+    "longitude": 9.3328399
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "31n",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.568369,
+    "longitude": 9.3323073
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "22",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5701361,
+    "longitude": 9.3305077
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "31c",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.568944,
+    "longitude": 9.331917
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "57",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5699846,
+    "longitude": 9.3311546
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "6",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5689237,
+    "longitude": 9.3335439
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "4",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5685699,
+    "longitude": 9.3336883
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "43",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5695352,
+    "longitude": 9.3329177
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "16",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5701072,
+    "longitude": 9.3327499
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "31f",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5687061,
+    "longitude": 9.3319911
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "31q",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5686516,
+    "longitude": 9.3327134
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "31e",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5688576,
+    "longitude": 9.3319401
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "15",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5686816,
+    "longitude": 9.3334375
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "15a",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5685938,
+    "longitude": 9.3334755
+  },
+  {
+    "street": "Via Sofocle",
+    "number": "1",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5699999,
+    "longitude": 9.3285475
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "41",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5695062,
+    "longitude": 9.3327232
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "31u",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5689373,
+    "longitude": 9.3326087
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "31h",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5685256,
+    "longitude": 9.3320495
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "31s",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5688926,
+    "longitude": 9.3326251
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "17",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5687641,
+    "longitude": 9.3334109
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "2a",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5679634,
+    "longitude": 9.3338783
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "65",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5700204,
+    "longitude": 9.3295787
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "31m",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5683962,
+    "longitude": 9.3321833
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "29",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5691096,
+    "longitude": 9.3325456
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "27",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5693292,
+    "longitude": 9.3325845
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "31b",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5689853,
+    "longitude": 9.331906
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "39a",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5694041,
+    "longitude": 9.331996
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "2b",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5681709,
+    "longitude": 9.3338175
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "26",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5701395,
+    "longitude": 9.3303131
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "31o",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5683945,
+    "longitude": 9.3325699
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "31p",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5684354,
+    "longitude": 9.3326453
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "21",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5691046,
+    "longitude": 9.3332969
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "31d",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5689019,
+    "longitude": 9.3319283
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "35",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5691317,
+    "longitude": 9.3320714
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "53",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.569971,
+    "longitude": 9.3318598
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "73",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5700238,
+    "longitude": 9.329085
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "71",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5700231,
+    "longitude": 9.3291797
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "31g",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.568575,
+    "longitude": 9.3320301
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "31r",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5687323,
+    "longitude": 9.3326839
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "23",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5692881,
+    "longitude": 9.3332361
+  },
+  {
+    "street": "Via Sofocle",
+    "number": "10",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5701889,
+    "longitude": 9.3267479
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "39",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5694671,
+    "longitude": 9.3324313
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "53b",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5699761,
+    "longitude": 9.3315485
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "2",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5677772,
+    "longitude": 9.3339277
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "53a",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5699761,
+    "longitude": 9.3317017
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "31l",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5684337,
+    "longitude": 9.3321127
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "31t",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.568977,
+    "longitude": 9.3325942
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "67",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.570021,
+    "longitude": 9.3294934
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "31i",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5684814,
+    "longitude": 9.3320738
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "55",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5699812,
+    "longitude": 9.33123
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "19",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5688306,
+    "longitude": 9.3333843
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "37",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5694262,
+    "longitude": 9.3322319
+  },
+  {
+    "street": "Via De Capitani",
+    "number": "31",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5688678,
+    "longitude": 9.3324873
+  },
+  {
+    "street": "Via Euripide",
+    "number": "33",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5724035,
+    "longitude": 9.3290672
+  },
+  {
+    "street": "Via Euripide",
+    "number": "34",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5717591,
+    "longitude": 9.3291616
+  },
+  {
+    "street": "Via Euripide",
+    "number": "12",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5682383,
+    "longitude": 9.3298102
+  },
+  {
+    "street": "Via Euripide",
+    "number": "1",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.567175,
+    "longitude": 9.3306587
+  },
+  {
+    "street": "Via Euripide",
+    "number": "30",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5708113,
+    "longitude": 9.328996
+  },
+  {
+    "street": "Via Euripide",
+    "number": "13",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5683361,
+    "longitude": 9.329475
+  },
+  {
+    "street": "Via Euripide",
+    "number": "5",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5675246,
+    "longitude": 9.330327
+  },
+  {
+    "street": "Via Euripide",
+    "number": "27",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5709525,
+    "longitude": 9.3287655
+  },
+  {
+    "street": "Via Euripide",
+    "number": "14",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5683874,
+    "longitude": 9.329681
+  },
+  {
+    "street": "Via Euripide",
+    "number": "10",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5680418,
+    "longitude": 9.330002
+  },
+  {
+    "street": "Via Euripide",
+    "number": "20",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5695181,
+    "longitude": 9.3288566
+  },
+  {
+    "street": "Via Archimede",
+    "number": "56",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5670539,
+    "longitude": 9.330975
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "13",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5722643,
+    "longitude": 9.3511213
+  },
+  {
+    "street": "Via San Domenico Savio",
+    "number": "11",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5719284,
+    "longitude": 9.3499407
+  },
+  {
+    "street": "Via Madonnina",
+    "number": "18",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5727465,
+    "longitude": 9.3506962
+  },
+  {
+    "street": "Via Sandro Botticelli",
+    "number": "70",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5665459,
+    "longitude": 9.3277419
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "120",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5783642,
+    "longitude": 9.3408402
+  },
+  {
+    "street": "Via Marco d'Agrate",
+    "number": "61",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5734825,
+    "longitude": 9.3500061
+  },
+  {
+    "street": "Via Enrico Toti",
+    "number": "8",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5800051,
+    "longitude": 9.350045
+  },
+  {
+    "street": "Via Lecco",
+    "number": "11",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5735554,
+    "longitude": 9.3545965
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "19c",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5781477,
+    "longitude": 9.3539796
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "19b",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5779723,
+    "longitude": 9.3538406
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "19a",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5777724,
+    "longitude": 9.3538177
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "19",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5779507,
+    "longitude": 9.3539277
+  },
+  {
+    "street": "Via Gian Matteo Ferrario",
+    "number": "80",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5738776,
+    "longitude": 9.352279
+  },
+  {
+    "street": "Via Gian Matteo Ferrario",
+    "number": "50",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5744268,
+    "longitude": 9.3524095
+  },
+  {
+    "street": "Via Gian Matteo Ferrario",
+    "number": "48",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5748392,
+    "longitude": 9.3525169
+  },
+  {
+    "street": "Via Gian Matteo Ferrario",
+    "number": "37",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5747394,
+    "longitude": 9.3526521
+  },
+  {
+    "street": "Via Gian Matteo Ferrario",
+    "number": "35",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.574776,
+    "longitude": 9.352664
+  },
+  {
+    "street": "Via Gian Matteo Ferrario",
+    "number": "33",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5748176,
+    "longitude": 9.3526688
+  },
+  {
+    "street": "Via Marco d'Agrate",
+    "number": "8",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5753034,
+    "longitude": 9.3505558
+  },
+  {
+    "street": "Via Marco d'Agrate",
+    "number": "6",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.57534,
+    "longitude": 9.3506271
+  },
+  {
+    "street": "Via Marco d'Agrate",
+    "number": "17",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.57529,
+    "longitude": 9.350696
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "2",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5764676,
+    "longitude": 9.3508941
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "4",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5765464,
+    "longitude": 9.3509075
+  },
+  {
+    "street": "Via Bartolomeo Colleoni",
+    "number": "11",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5734636,
+    "longitude": 9.3362439
+  },
+  {
+    "street": "Via Bartolomeo Colleoni",
+    "number": "9",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5736852,
+    "longitude": 9.3363672
+  },
+  {
+    "street": "Via Bartolomeo Colleoni",
+    "number": "7",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5739405,
+    "longitude": 9.3365067
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "26",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.577456,
+    "longitude": 9.3512347
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "25",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5775696,
+    "longitude": 9.3511033
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "27",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5776072,
+    "longitude": 9.3511167
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "37",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5778503,
+    "longitude": 9.3512186
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "44",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5782755,
+    "longitude": 9.3515459
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "47",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5783281,
+    "longitude": 9.3513554
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "49",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5783525,
+    "longitude": 9.3513648
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "51",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.578391,
+    "longitude": 9.3513782
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "53",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5784304,
+    "longitude": 9.3513863
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "55",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5784623,
+    "longitude": 9.3513983
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "7",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5768421,
+    "longitude": 9.3504408
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "12",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5770214,
+    "longitude": 9.3503389
+  },
+  {
+    "street": "Via Don Luigi Cantini",
+    "number": "1",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5772918,
+    "longitude": 9.3486008
+  },
+  {
+    "street": "Via Don Luigi Cantini",
+    "number": "15",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5781122,
+    "longitude": 9.3488878
+  },
+  {
+    "street": "Via delle industrie",
+    "number": "10/12",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5685043,
+    "longitude": 9.3560793
+  },
+  {
+    "street": "SP 121 Pobbiano - Cavenago",
+    "number": "36",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5665087,
+    "longitude": 9.3498463
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "58",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5731691,
+    "longitude": 9.3495449
+  },
+  {
+    "street": "Viale delle Industrie",
+    "number": "73",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5644396,
+    "longitude": 9.3471183
+  },
+  {
+    "street": "Via Cascina Trivulzina",
+    "number": "13/6",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5749986,
+    "longitude": 9.3989739
+  },
+  {
+    "street": "Viale delle Industrie",
+    "number": "77",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5644305,
+    "longitude": 9.3462707
+  },
+  {
+    "street": "Via Cascina Trivulzina",
+    "number": "13/9",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5747672,
+    "longitude": 9.3984578
+  },
+  {
+    "street": "Via Camillo Olivetti",
+    "number": "2",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5716757,
+    "longitude": 9.3623277
+  },
+  {
+    "street": "Viale Bartolomeo Colleoni",
+    "number": "25",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5706468,
+    "longitude": 9.3347912
+  },
+  {
+    "street": "Via Archimede",
+    "number": "48/50",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5677192,
+    "longitude": 9.3324395
+  },
+  {
+    "street": "Via Archimede",
+    "number": "27",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5670772,
+    "longitude": 9.3375841
+  },
+  {
+    "street": "Viale delle Industrie",
+    "number": "71a",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5639704,
+    "longitude": 9.3471952
+  },
+  {
+    "street": "Viale delle Industrie",
+    "number": "71",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5640661,
+    "longitude": 9.3468208
+  },
+  {
+    "street": "Via Socrate",
+    "number": "8d",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5683067,
+    "longitude": 9.3254653
+  },
+  {
+    "street": "Via Archimede",
+    "number": "23",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5678244,
+    "longitude": 9.3375664
+  },
+  {
+    "street": "Via Euclide",
+    "number": "4",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5667758,
+    "longitude": 9.325036
+  },
+  {
+    "street": "Via Archimede",
+    "number": "21",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5678619,
+    "longitude": 9.337771
+  },
+  {
+    "street": "Via Archimede",
+    "number": "22/24",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5684436,
+    "longitude": 9.3396459
+  },
+  {
+    "street": "Via Socrate",
+    "number": "8",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5682938,
+    "longitude": 9.3260764
+  },
+  {
+    "street": "Via Euclide",
+    "number": "8",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5675644,
+    "longitude": 9.3249676
+  },
+  {
+    "street": "Via Archimede",
+    "number": "52",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.567307,
+    "longitude": 9.331058
+  },
+  {
+    "street": "Via Euclide",
+    "number": "2",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5667131,
+    "longitude": 9.3256512
+  },
+  {
+    "street": "Via Eugenio Villoresi",
+    "number": "2",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5621944,
+    "longitude": 9.3420652
+  },
+  {
+    "street": "Via Socrate",
+    "number": "6b",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5683042,
+    "longitude": 9.3258528
+  },
+  {
+    "street": "Via Socrate",
+    "number": "10",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5683176,
+    "longitude": 9.3250106
+  },
+  {
+    "street": "Via Archimede",
+    "number": "8",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5689421,
+    "longitude": 9.3432845
+  },
+  {
+    "street": "Viale delle Industrie",
+    "number": "64/66",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5654276,
+    "longitude": 9.3425014
+  },
+  {
+    "street": "Via Gian Matteo Ferrario",
+    "number": "15",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5754499,
+    "longitude": 9.3529638
+  },
+  {
+    "street": "Via Papa Giovanni XXIII",
+    "number": "8e",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5725924,
+    "longitude": 9.3454334
+  },
+  {
+    "street": "Via Papa Giovanni XXIII",
+    "number": "8c",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5731658,
+    "longitude": 9.3449892
+  },
+  {
+    "street": "Via Papa Giovanni XXIII",
+    "number": "8a",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5736729,
+    "longitude": 9.3446179
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "2",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5734448,
+    "longitude": 9.3465
+  },
+  {
+    "street": "Via Papa Giovanni XXIII",
+    "number": "8d",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5727574,
+    "longitude": 9.3449592
+  },
+  {
+    "street": "Via Papa Giovanni XXIII",
+    "number": "8b",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5733161,
+    "longitude": 9.3445269
+  },
+  {
+    "street": "Via Gerolamo Cardano",
+    "number": "2",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5723451,
+    "longitude": 9.3364968
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "17",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5750862,
+    "longitude": 9.3577674
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "11",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5773199,
+    "longitude": 9.3544927
+  },
+  {
+    "street": "Via Marco d'Agrate",
+    "number": "49",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5745136,
+    "longitude": 9.3504604
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "20",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5667452,
+    "longitude": 9.3615354
+  },
+  {
+    "street": "Via Archimede",
+    "number": "65",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5657161,
+    "longitude": 9.3270335
+  },
+  {
+    "street": "Via Gian Matteo Ferrario",
+    "number": "51",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5736512,
+    "longitude": 9.3525807
+  },
+  {
+    "street": "Via dell'Artigianato",
+    "number": "4",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5676798,
+    "longitude": 9.357062
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "142",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.570296,
+    "longitude": 9.3531006
+  },
+  {
+    "street": "Via Archimede",
+    "number": "86",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5646002,
+    "longitude": 9.3416743
+  },
+  {
+    "street": "Via Don Carlo Gnocchi",
+    "number": "20",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5795422,
+    "longitude": 9.3606077
+  },
+  {
+    "street": "Viale delle Industrie",
+    "number": "79",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5637891,
+    "longitude": 9.3447647
+  },
+  {
+    "street": "Via Don Giovanni Minzoni",
+    "number": "21",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5783951,
+    "longitude": 9.3532628
+  },
+  {
+    "street": "Via Camillo Olivetti",
+    "number": "2a",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5729408,
+    "longitude": 9.3633699
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "84",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5668051,
+    "longitude": 9.3646774
+  },
+  {
+    "street": "Via Don Giovanni Minzoni",
+    "number": "35",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5777013,
+    "longitude": 9.3534689
+  },
+  {
+    "street": "Via Archimede",
+    "number": "47",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5681137,
+    "longitude": 9.330961
+  },
+  {
+    "street": "Via Archimede",
+    "number": "33A",
+    "city": {
+      "name": "Agrate Brianza",
+      "istat": "108001"
+    },
+    "latitude": 45.5673698,
+    "longitude": 9.3363413
+  }
+]

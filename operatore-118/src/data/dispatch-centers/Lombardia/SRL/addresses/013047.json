@@ -1,0 +1,122 @@
+[
+  {
+    "street": "Strada statale 340 Regina",
+    "number": "51",
+    "city": {
+      "name": "Carlazzo",
+      "istat": "013047"
+    },
+    "latitude": 46.0418783,
+    "longitude": 9.1684196
+  },
+  {
+    "street": "Strada statale 340 Regina",
+    "number": "2",
+    "city": {
+      "name": "Carlazzo",
+      "istat": "013047"
+    },
+    "latitude": 46.0385375,
+    "longitude": 9.1788139
+  },
+  {
+    "street": "Via Menaggio",
+    "number": "6",
+    "city": {
+      "name": "Carlazzo",
+      "istat": "013047"
+    },
+    "latitude": 46.0416628,
+    "longitude": 9.1412647
+  },
+  {
+    "street": "Via Carlazzo",
+    "number": "825",
+    "city": {
+      "name": "Carlazzo",
+      "istat": "013047"
+    },
+    "latitude": 46.0440755,
+    "longitude": 9.1504418
+  },
+  {
+    "street": "Via Lucio Maria Travella",
+    "number": "114",
+    "city": {
+      "name": "Carlazzo",
+      "istat": "013047"
+    },
+    "latitude": 46.0491676,
+    "longitude": 9.1563168
+  },
+  {
+    "street": "Strada provinciale 10 della Val Cavargna",
+    "number": "1606",
+    "city": {
+      "name": "Carlazzo",
+      "istat": "013047"
+    },
+    "latitude": 46.0460497,
+    "longitude": 9.1616057
+  },
+  {
+    "street": "Via ai Ronchi",
+    "number": "308",
+    "city": {
+      "name": "Carlazzo",
+      "istat": "013047"
+    },
+    "latitude": 46.0469706,
+    "longitude": 9.1632498
+  },
+  {
+    "street": "Via ai Ronchi",
+    "number": "381E (25) + 381F (27)",
+    "city": {
+      "name": "Carlazzo",
+      "istat": "013047"
+    },
+    "latitude": 46.0470771,
+    "longitude": 9.1645236
+  },
+  {
+    "street": "Via ai Ronchi",
+    "number": "381A (17) + 381B (19)",
+    "city": {
+      "name": "Carlazzo",
+      "istat": "013047"
+    },
+    "latitude": 46.0469523,
+    "longitude": 9.1638301
+  },
+  {
+    "street": "Via ai Ronchi",
+    "number": "381C (21) + 381D (23)",
+    "city": {
+      "name": "Carlazzo",
+      "istat": "013047"
+    },
+    "latitude": 46.0469795,
+    "longitude": 9.1642102
+  },
+  {
+    "street": "Via ai Ronchi",
+    "number": "356",
+    "city": {
+      "name": "Carlazzo",
+      "istat": "013047"
+    },
+    "latitude": 46.0464368,
+    "longitude": 9.1640341
+  },
+  {
+    "street": "Via ai Ronchi",
+    "number": "331",
+    "city": {
+      "name": "Carlazzo",
+      "istat": "013047"
+    },
+    "latitude": 46.0464868,
+    "longitude": 9.1636651
+  }
+]

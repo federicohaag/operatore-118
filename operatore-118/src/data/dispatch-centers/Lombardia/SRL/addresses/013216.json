@@ -1,0 +1,262 @@
+[
+  {
+    "street": "Via Boschetto",
+    "number": "50",
+    "city": {
+      "name": "Sorico",
+      "istat": "013216"
+    },
+    "latitude": 46.1666346,
+    "longitude": 9.380682
+  },
+  {
+    "street": "Via Fordeccia",
+    "number": "30",
+    "city": {
+      "name": "Sorico",
+      "istat": "013216"
+    },
+    "latitude": 46.1912557,
+    "longitude": 9.3912538
+  },
+  {
+    "street": "Via Vittorio Emanuele",
+    "number": "2",
+    "city": {
+      "name": "Sorico",
+      "istat": "013216"
+    },
+    "latitude": 46.1724258,
+    "longitude": 9.3802185
+  },
+  {
+    "street": "Via Fordeccia",
+    "number": "42",
+    "city": {
+      "name": "Sorico",
+      "istat": "013216"
+    },
+    "latitude": 46.1935863,
+    "longitude": 9.3965442
+  },
+  {
+    "street": "Via Regina",
+    "number": "67",
+    "city": {
+      "name": "Sorico",
+      "istat": "013216"
+    },
+    "latitude": 46.1728575,
+    "longitude": 9.4018214
+  },
+  {
+    "street": "Via Boschetto",
+    "number": "49",
+    "city": {
+      "name": "Sorico",
+      "istat": "013216"
+    },
+    "latitude": 46.1682827,
+    "longitude": 9.3931696
+  },
+  {
+    "street": "Via San Bartolomeo",
+    "number": "11",
+    "city": {
+      "name": "Sorico",
+      "istat": "013216"
+    },
+    "latitude": 46.193373,
+    "longitude": 9.3859309
+  },
+  {
+    "street": "Via Vittorio Emanuele",
+    "number": "27",
+    "city": {
+      "name": "Sorico",
+      "istat": "013216"
+    },
+    "latitude": 46.1720093,
+    "longitude": 9.3785278
+  },
+  {
+    "street": "Via Fabbrico",
+    "number": "2",
+    "city": {
+      "name": "Sorico",
+      "istat": "013216"
+    },
+    "latitude": 46.1813501,
+    "longitude": 9.385832
+  },
+  {
+    "street": "Via Fabbrico",
+    "number": "1",
+    "city": {
+      "name": "Sorico",
+      "istat": "013216"
+    },
+    "latitude": 46.1814064,
+    "longitude": 9.3858824
+  },
+  {
+    "street": "Via dell'Alberone",
+    "number": "4",
+    "city": {
+      "name": "Sorico",
+      "istat": "013216"
+    },
+    "latitude": 46.1642153,
+    "longitude": 9.3910115
+  },
+  {
+    "street": "Piazza Cesare Battisti",
+    "number": "1",
+    "city": {
+      "name": "Sorico",
+      "istat": "013216"
+    },
+    "latitude": 46.1724956,
+    "longitude": 9.381525
+  },
+  {
+    "street": "Via Vittorio Emanuele",
+    "number": "6",
+    "city": {
+      "name": "Sorico",
+      "istat": "013216"
+    },
+    "latitude": 46.1723736,
+    "longitude": 9.3798174
+  },
+  {
+    "street": "Via Bruga",
+    "number": "1",
+    "city": {
+      "name": "Sorico",
+      "istat": "013216"
+    },
+    "latitude": 46.1875345,
+    "longitude": 9.4177437
+  },
+  {
+    "street": "Via Don Antonio Pasini",
+    "number": "2",
+    "city": {
+      "name": "Sorico",
+      "istat": "013216"
+    },
+    "latitude": 46.1715114,
+    "longitude": 9.385577
+  },
+  {
+    "street": "Via Vittorio Emanuele",
+    "number": "41 A",
+    "city": {
+      "name": "Sorico",
+      "istat": "013216"
+    },
+    "latitude": 46.1718764,
+    "longitude": 9.3770661
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "18",
+    "city": {
+      "name": "Sorico",
+      "istat": "013216"
+    },
+    "latitude": 46.1707246,
+    "longitude": 9.3790825
+  },
+  {
+    "street": "Via Torre",
+    "number": "1",
+    "city": {
+      "name": "Sorico",
+      "istat": "013216"
+    },
+    "latitude": 46.1712571,
+    "longitude": 9.382554
+  },
+  {
+    "street": "Via Albonico",
+    "number": "53",
+    "city": {
+      "name": "Sorico",
+      "istat": "013216"
+    },
+    "latitude": 46.201327,
+    "longitude": 9.4196423
+  },
+  {
+    "street": "Via Boschetto",
+    "number": "193",
+    "city": {
+      "name": "Sorico",
+      "istat": "013216"
+    },
+    "latitude": 46.1647845,
+    "longitude": 9.3798921
+  },
+  {
+    "street": "Via Vittorio Emanuele II",
+    "number": "62",
+    "city": {
+      "name": "Sorico",
+      "istat": "013216"
+    },
+    "latitude": 46.1722669,
+    "longitude": 9.3767274
+  },
+  {
+    "street": "Via Roma",
+    "number": "5",
+    "city": {
+      "name": "Sorico",
+      "istat": "013216"
+    },
+    "latitude": 46.1726155,
+    "longitude": 9.3802777
+  },
+  {
+    "street": "Piazza Cesare Battisti",
+    "number": "2",
+    "city": {
+      "name": "Sorico",
+      "istat": "013216"
+    },
+    "latitude": 46.1723919,
+    "longitude": 9.381555
+  },
+  {
+    "street": "Piazza San Giovanni Battista",
+    "number": "3",
+    "city": {
+      "name": "Sorico",
+      "istat": "013216"
+    },
+    "latitude": 46.1834815,
+    "longitude": 9.3851515
+  },
+  {
+    "street": "Via Vittorio Emanuele",
+    "number": "24",
+    "city": {
+      "name": "Sorico",
+      "istat": "013216"
+    },
+    "latitude": 46.1721809,
+    "longitude": 9.3785583
+  },
+  {
+    "street": "Via Regina",
+    "number": "73",
+    "city": {
+      "name": "Sorico",
+      "istat": "013216"
+    },
+    "latitude": 46.1641929,
+    "longitude": 9.4104204
+  }
+]

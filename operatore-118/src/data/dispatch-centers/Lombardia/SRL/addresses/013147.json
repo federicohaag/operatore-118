@@ -1,0 +1,532 @@
+[
+  {
+    "street": "Via Roma",
+    "number": "7",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.788901,
+    "longitude": 9.239105
+  },
+  {
+    "street": "Via Roma",
+    "number": "12a",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.788184,
+    "longitude": 9.2393177
+  },
+  {
+    "street": "Via Andrea Appiani",
+    "number": "29",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7879672,
+    "longitude": 9.2470868
+  },
+  {
+    "street": "Via San Gerolamo Emiliani",
+    "number": "21",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7802452,
+    "longitude": 9.2438918
+  },
+  {
+    "street": "Via Paolo VI",
+    "number": "2",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7832811,
+    "longitude": 9.2392039
+  },
+  {
+    "street": "Via Roma",
+    "number": "23",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7910266,
+    "longitude": 9.239799
+  },
+  {
+    "street": "Via Nuova Valassina",
+    "number": "14",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7952074,
+    "longitude": 9.2419705
+  },
+  {
+    "street": "Via Nuova Valassina",
+    "number": "8",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7954101,
+    "longitude": 9.2418534
+  },
+  {
+    "street": "Via Nuova Vallassina",
+    "number": "7",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7935992,
+    "longitude": 9.241814
+  },
+  {
+    "street": "Via Andrea Appiani",
+    "number": "15",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7878254,
+    "longitude": 9.2459815
+  },
+  {
+    "street": "Via Nuova Vallassina",
+    "number": "3",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.78499,
+    "longitude": 9.2394177
+  },
+  {
+    "street": "Via Nuova Vallassina",
+    "number": "5d5l",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7923384,
+    "longitude": 9.242923
+  },
+  {
+    "street": "Via delle Gallarane",
+    "number": "2",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7959801,
+    "longitude": 9.2418001
+  },
+  {
+    "street": "Via A. Manzoni",
+    "number": "24/26",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7883492,
+    "longitude": 9.2620799
+  },
+  {
+    "street": "Via San Gerolamo Emiliani",
+    "number": "19B/C",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7804521,
+    "longitude": 9.244035
+  },
+  {
+    "street": "Via Andrea Appiani",
+    "number": "20",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7877574,
+    "longitude": 9.2471243
+  },
+  {
+    "street": "Via Andrea Appiani",
+    "number": "24",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7876044,
+    "longitude": 9.2474622
+  },
+  {
+    "street": "Via Benedetto Croce",
+    "number": "3",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7869268,
+    "longitude": 9.2457917
+  },
+  {
+    "street": "Via Benedetto Croce",
+    "number": "2",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7870852,
+    "longitude": 9.245606
+  },
+  {
+    "street": "Via Benedetto Croce",
+    "number": "4/",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7870639,
+    "longitude": 9.2456092
+  },
+  {
+    "street": "Via Andrea Appiani",
+    "number": "27",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7879391,
+    "longitude": 9.2468517
+  },
+  {
+    "street": "Via Andrea Appiani",
+    "number": "14",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7877049,
+    "longitude": 9.2463233
+  },
+  {
+    "street": "Via Andrea Appiani",
+    "number": "33-35",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7880605,
+    "longitude": 9.2478592
+  },
+  {
+    "street": "Via Zaffiro Isacco",
+    "number": "1",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7879072,
+    "longitude": 9.2486824
+  },
+  {
+    "street": "Via Nuova Valassina",
+    "number": "3",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7850534,
+    "longitude": 9.2396601
+  },
+  {
+    "street": "Via Roma",
+    "number": "9",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7892119,
+    "longitude": 9.2393395
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "18",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7885743,
+    "longitude": 9.2617923
+  },
+  {
+    "street": "Via San Gerolamo Emiliani",
+    "number": "5c",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7815752,
+    "longitude": 9.2457192
+  },
+  {
+    "street": "Via Appiani",
+    "number": "18",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.787255,
+    "longitude": 9.2468321
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "7",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7715119,
+    "longitude": 9.2429852
+  },
+  {
+    "street": "Via Sandro Pertini",
+    "number": "1",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7824004,
+    "longitude": 9.2449748
+  },
+  {
+    "street": "Via Roma",
+    "number": "44",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7924429,
+    "longitude": 9.2407688
+  },
+  {
+    "street": "Via Roma",
+    "number": "40",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7920239,
+    "longitude": 9.2405728
+  },
+  {
+    "street": "Via Giancarlo Puecher",
+    "number": "20",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7875753,
+    "longitude": 9.241269
+  },
+  {
+    "street": "Via Giancarlo Puecher",
+    "number": "1",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7881397,
+    "longitude": 9.2393146
+  },
+  {
+    "street": "Via Roma",
+    "number": "44c",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7926802,
+    "longitude": 9.2408456
+  },
+  {
+    "street": "Via Roma",
+    "number": "27a",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7928594,
+    "longitude": 9.2403719
+  },
+  {
+    "street": "Via Roma",
+    "number": "38a",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7906548,
+    "longitude": 9.2401576
+  },
+  {
+    "street": "Via San Gerolamo Emiliani",
+    "number": "25",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7798984,
+    "longitude": 9.2435241
+  },
+  {
+    "street": "Via Roma",
+    "number": "23a",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7911486,
+    "longitude": 9.23983
+  },
+  {
+    "street": "Via Roma",
+    "number": "24",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7888589,
+    "longitude": 9.2394396
+  },
+  {
+    "street": "Via San Gerolamo Emiliani",
+    "number": "15",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7807583,
+    "longitude": 9.2442418
+  },
+  {
+    "street": "Via San Gerolamo Emiliani",
+    "number": "29d",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7795677,
+    "longitude": 9.2435342
+  },
+  {
+    "street": "Via San Gerolamo Emiliani",
+    "number": "1",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7818619,
+    "longitude": 9.2459632
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "12",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7842124,
+    "longitude": 9.2426652
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "1",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7808304,
+    "longitude": 9.2400909
+  },
+  {
+    "street": "Via Roma",
+    "number": "50",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.794574,
+    "longitude": 9.2414478
+  },
+  {
+    "street": "Via Nuova Vallassina",
+    "number": "5/3",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7903388,
+    "longitude": 9.2420323
+  },
+  {
+    "street": "Via Nuova Vallassina",
+    "number": "5",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7929697,
+    "longitude": 9.2424993
+  },
+  {
+    "street": "Via 8 Marzo",
+    "number": "1b",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7927928,
+    "longitude": 9.2419742
+  },
+  {
+    "street": "Via Andrea Appiani",
+    "number": "11",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7878344,
+    "longitude": 9.245303
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "2",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7716863,
+    "longitude": 9.2435864
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "2",
+    "city": {
+      "name": "Merone",
+      "istat": "013147"
+    },
+    "latitude": 45.7837477,
+    "longitude": 9.2443382
+  }
+]

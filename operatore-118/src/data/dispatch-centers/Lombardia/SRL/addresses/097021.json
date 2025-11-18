@@ -1,0 +1,162 @@
+[
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "31",
+    "city": {
+      "name": "Cesana Brianza",
+      "istat": "097021"
+    },
+    "latitude": 45.8160203,
+    "longitude": 9.2992631
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "102",
+    "city": {
+      "name": "Cesana Brianza",
+      "istat": "097021"
+    },
+    "latitude": 45.8171995,
+    "longitude": 9.3063427
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "23",
+    "city": {
+      "name": "Cesana Brianza",
+      "istat": "097021"
+    },
+    "latitude": 45.8160647,
+    "longitude": 9.2985015
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "13",
+    "city": {
+      "name": "Cesana Brianza",
+      "istat": "097021"
+    },
+    "latitude": 45.8160565,
+    "longitude": 9.2967539
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "43",
+    "city": {
+      "name": "Cesana Brianza",
+      "istat": "097021"
+    },
+    "latitude": 45.8160932,
+    "longitude": 9.2995694
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "36/A",
+    "city": {
+      "name": "Cesana Brianza",
+      "istat": "097021"
+    },
+    "latitude": 45.8158665,
+    "longitude": 9.3015139
+  },
+  {
+    "street": "Via Torquato Tasso",
+    "number": "3",
+    "city": {
+      "name": "Cesana Brianza",
+      "istat": "097021"
+    },
+    "latitude": 45.8156933,
+    "longitude": 9.2977754
+  },
+  {
+    "street": "Via Pascoli",
+    "number": "47",
+    "city": {
+      "name": "Cesana Brianza",
+      "istat": "097021"
+    },
+    "latitude": 45.8148178,
+    "longitude": 9.294154
+  },
+  {
+    "street": "Via Giuseppe Parini",
+    "number": "17",
+    "city": {
+      "name": "Cesana Brianza",
+      "istat": "097021"
+    },
+    "latitude": 45.8120945,
+    "longitude": 9.2989024
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "48",
+    "city": {
+      "name": "Cesana Brianza",
+      "istat": "097021"
+    },
+    "latitude": 45.816314,
+    "longitude": 9.3029658
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "73",
+    "city": {
+      "name": "Cesana Brianza",
+      "istat": "097021"
+    },
+    "latitude": 45.8175837,
+    "longitude": 9.3062286
+  },
+  {
+    "street": "Via Torquato Tasso",
+    "number": "1",
+    "city": {
+      "name": "Cesana Brianza",
+      "istat": "097021"
+    },
+    "latitude": 45.8157028,
+    "longitude": 9.297537
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "46",
+    "city": {
+      "name": "Cesana Brianza",
+      "istat": "097021"
+    },
+    "latitude": 45.8162419,
+    "longitude": 9.3028018
+  },
+  {
+    "street": "Via Pascoli",
+    "number": "2",
+    "city": {
+      "name": "Cesana Brianza",
+      "istat": "097021"
+    },
+    "latitude": 45.8151029,
+    "longitude": 9.2949624
+  },
+  {
+    "street": "Via Carlo Porta",
+    "number": "12",
+    "city": {
+      "name": "Cesana Brianza",
+      "istat": "097021"
+    },
+    "latitude": 45.8127966,
+    "longitude": 9.3004077
+  },
+  {
+    "street": "Via del Brughetto",
+    "number": "16",
+    "city": {
+      "name": "Cesana Brianza",
+      "istat": "097021"
+    },
+    "latitude": 45.8071851,
+    "longitude": 9.3097516
+  }
+]

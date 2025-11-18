@@ -1,0 +1,762 @@
+[
+  {
+    "street": "Via Armando Diaz",
+    "number": "7",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6066767,
+    "longitude": 8.8994113
+  },
+  {
+    "street": "Viale Don Giovanni Minzoni",
+    "number": "52",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6037978,
+    "longitude": 8.8927144
+  },
+  {
+    "street": "Via Buon Gesù",
+    "number": "33",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6146549,
+    "longitude": 8.8808329
+  },
+  {
+    "street": "Via Antonio Bernocchi",
+    "number": "1",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6126983,
+    "longitude": 8.8990752
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "19",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6139629,
+    "longitude": 8.8983269
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "1",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6143287,
+    "longitude": 8.8970448
+  },
+  {
+    "street": "Via San Camillo",
+    "number": "2",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6128156,
+    "longitude": 8.9082189
+  },
+  {
+    "street": "Via Rescalda",
+    "number": "58",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6210048,
+    "longitude": 8.9151994
+  },
+  {
+    "street": "Via Rescalda",
+    "number": "60",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6214219,
+    "longitude": 8.9155991
+  },
+  {
+    "street": "Via Bruno Buozzi",
+    "number": "25",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6190444,
+    "longitude": 8.9129298
+  },
+  {
+    "street": "Viale Piemonte",
+    "number": "70",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.5997374,
+    "longitude": 8.8729262
+  },
+  {
+    "street": "Via Firenze",
+    "number": "3a",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.614401,
+    "longitude": 8.8848661
+  },
+  {
+    "street": "Via Luigi Morelli",
+    "number": "73",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6092314,
+    "longitude": 8.8743541
+  },
+  {
+    "street": "Viale Don Giovanni Minzoni",
+    "number": "32",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6090241,
+    "longitude": 8.8891974
+  },
+  {
+    "street": "Via Antonio Locatelli",
+    "number": "2",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6077984,
+    "longitude": 8.9145176
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "2",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6140292,
+    "longitude": 8.8972297
+  },
+  {
+    "street": "Via Moncucco",
+    "number": "30",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6143197,
+    "longitude": 8.9077903
+  },
+  {
+    "street": "Via San Camillo",
+    "number": "3",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6132865,
+    "longitude": 8.9086777
+  },
+  {
+    "street": "Via Eugenio Cantoni",
+    "number": "77",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.608895,
+    "longitude": 8.8985923
+  },
+  {
+    "street": "Via Giacomo Binda",
+    "number": "25",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6073819,
+    "longitude": 8.9059944
+  },
+  {
+    "street": "Via San Carlo Borromeo",
+    "number": "2",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6113604,
+    "longitude": 8.9049338
+  },
+  {
+    "street": "Viale Lombardia",
+    "number": "27",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.615073,
+    "longitude": 8.9043304
+  },
+  {
+    "street": "Viale Lombardia",
+    "number": "72",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6100279,
+    "longitude": 8.910065
+  },
+  {
+    "street": "Viale Don Giovanni Minzoni",
+    "number": "12",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6134483,
+    "longitude": 8.8855759
+  },
+  {
+    "street": "Via Sempione",
+    "number": "11",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6147444,
+    "longitude": 8.8951329
+  },
+  {
+    "street": "Viale Giuseppe Borri",
+    "number": "26",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6039915,
+    "longitude": 8.8827842
+  },
+  {
+    "street": "Viale Giuseppe Borri",
+    "number": "28",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6042054,
+    "longitude": 8.8821191
+  },
+  {
+    "street": "Viale Don Giovanni Minzoni",
+    "number": "39",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6072096,
+    "longitude": 8.8906056
+  },
+  {
+    "street": "Viale Don Giovanni Minzoni",
+    "number": "45",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6066898,
+    "longitude": 8.8910428
+  },
+  {
+    "street": "Via El Alamein",
+    "number": "2",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6143995,
+    "longitude": 8.8867754
+  },
+  {
+    "street": "Via El Alamein",
+    "number": "4",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6142701,
+    "longitude": 8.8867995
+  },
+  {
+    "street": "Viale Don Giovanni Minzoni",
+    "number": "24",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6099979,
+    "longitude": 8.8883874
+  },
+  {
+    "street": "Viale Don Giovanni Minzoni",
+    "number": "49",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.606354,
+    "longitude": 8.8911527
+  },
+  {
+    "street": "Via Fratelli Cairoli",
+    "number": "16",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6040834,
+    "longitude": 8.8946182
+  },
+  {
+    "street": "Viale Don Giovanni Minzoni",
+    "number": "67",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6042054,
+    "longitude": 8.8956454
+  },
+  {
+    "street": "Via Giuseppe Brambilla",
+    "number": "1",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6120415,
+    "longitude": 8.8964774
+  },
+  {
+    "street": "Via Giuseppe Giusti",
+    "number": "24",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6080886,
+    "longitude": 8.8932485
+  },
+  {
+    "street": "Via Eugenio Cantoni",
+    "number": "89",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6086394,
+    "longitude": 8.8980621
+  },
+  {
+    "street": "Via Cardinale Andrea Ferrari",
+    "number": "4",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6103544,
+    "longitude": 8.9055535
+  },
+  {
+    "street": "Viale Lombardia",
+    "number": "80",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6088402,
+    "longitude": 8.9118326
+  },
+  {
+    "street": "Viale Lombardia",
+    "number": "55",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6117031,
+    "longitude": 8.9071022
+  },
+  {
+    "street": "Via dei Platani",
+    "number": "5",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6090334,
+    "longitude": 8.9091182
+  },
+  {
+    "street": "Via Don Luigi Testori",
+    "number": "18",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6106302,
+    "longitude": 8.8954424
+  },
+  {
+    "street": "Viale Lombardia",
+    "number": "39",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6138994,
+    "longitude": 8.9057869
+  },
+  {
+    "street": "Via per Busto Arsizio",
+    "number": "48",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6051105,
+    "longitude": 8.8987397
+  },
+  {
+    "street": "Viale Giuseppe Borri",
+    "number": "42",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6049753,
+    "longitude": 8.8752112
+  },
+  {
+    "street": "Via Don Giovanni Bettinelli",
+    "number": "8",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6081006,
+    "longitude": 8.9071285
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "20",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6103727,
+    "longitude": 8.9017633
+  },
+  {
+    "street": "Piazza Castegnate",
+    "number": "2",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6102383,
+    "longitude": 8.9046415
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "31",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6097681,
+    "longitude": 8.9030273
+  },
+  {
+    "street": "Via Nizzolina",
+    "number": "7",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6163,
+    "longitude": 8.9042741
+  },
+  {
+    "street": "Via Saronno",
+    "number": "14",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6077365,
+    "longitude": 8.9122851
+  },
+  {
+    "street": "Via Saronno",
+    "number": "24",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6081278,
+    "longitude": 8.916132
+  },
+  {
+    "street": "Via del Massereccio",
+    "number": "1",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6121509,
+    "longitude": 8.9222508
+  },
+  {
+    "street": "Don Bosco",
+    "number": "2",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6102207,
+    "longitude": 8.9057773
+  },
+  {
+    "street": "Viale Don Giovanni Minzoni",
+    "number": "29",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6092639,
+    "longitude": 8.8897059
+  },
+  {
+    "street": "Via Salvo D'Acquisto",
+    "number": "28",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6052863,
+    "longitude": 8.8865067
+  },
+  {
+    "street": "Via Fratelli Rosselli",
+    "number": "18",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6042198,
+    "longitude": 8.8939105
+  },
+  {
+    "street": "Viale delle Rimembranze",
+    "number": "4",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6124563,
+    "longitude": 8.8991837
+  },
+  {
+    "street": "Via Gerenzano",
+    "number": "2",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.609131,
+    "longitude": 8.9066919
+  },
+  {
+    "street": "Viale Giuseppe Borri",
+    "number": "15",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6022388,
+    "longitude": 8.8868502
+  },
+  {
+    "street": "Viale Giuseppe Borri",
+    "number": "17",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.602382,
+    "longitude": 8.8861932
+  },
+  {
+    "street": "Viale Giuseppe Borri",
+    "number": "30",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6044241,
+    "longitude": 8.8812205
+  },
+  {
+    "street": "Via per Legnano",
+    "number": "3",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6058594,
+    "longitude": 8.9093045
+  },
+  {
+    "street": "Viale Giuseppe Borri",
+    "number": "36",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6058866,
+    "longitude": 8.8775097
+  },
+  {
+    "street": "Via Carlo Isnardo Azimonti",
+    "number": "5",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6022827,
+    "longitude": 8.8840428
+  },
+  {
+    "street": "Via Asti",
+    "number": "5",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6086717,
+    "longitude": 8.8739884
+  },
+  {
+    "street": "Via Gerenzano",
+    "number": "58",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6132942,
+    "longitude": 8.918896
+  },
+  {
+    "street": "Via Gerenzano",
+    "number": "70",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6181167,
+    "longitude": 8.9221379
+  },
+  {
+    "street": "Via San Giovanni",
+    "number": "8",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6105978,
+    "longitude": 8.8868449
+  },
+  {
+    "street": "Via Moncucco",
+    "number": "17",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6133634,
+    "longitude": 8.9052688
+  },
+  {
+    "street": "Via Damiano Chiesa",
+    "number": "6b",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6078549,
+    "longitude": 8.9012914
+  },
+  {
+    "street": "Viale Don Giovanni Minzoni",
+    "number": "1",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6141243,
+    "longitude": 8.8860655
+  },
+  {
+    "street": "Via Eugenio Cantoni",
+    "number": "6",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6098058,
+    "longitude": 8.900376
+  },
+  {
+    "street": "Via Don Giovanni Bettinelli",
+    "number": "10",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6081123,
+    "longitude": 8.9071451
+  },
+  {
+    "street": "Viale Giuseppe Borri",
+    "number": "21A",
+    "city": {
+      "name": "Castellanza",
+      "istat": "012042"
+    },
+    "latitude": 45.6036523,
+    "longitude": 8.880861
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "21",
+    "city": {
+      "name": "Margno",
+      "istat": "097047"
+    },
+    "latitude": 46.0304905,
+    "longitude": 9.3801609
+  },
+  {
+    "street": "Viale Sciatori",
+    "number": "6",
+    "city": {
+      "name": "Margno",
+      "istat": "097047"
+    },
+    "latitude": 46.027669,
+    "longitude": 9.4009562
+  },
+  {
+    "street": "Viale Sciatori",
+    "number": "4",
+    "city": {
+      "name": "Margno",
+      "istat": "097047"
+    },
+    "latitude": 46.0277016,
+    "longitude": 9.400755
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "27",
+    "city": {
+      "name": "Margno",
+      "istat": "097047"
+    },
+    "latitude": 46.0306584,
+    "longitude": 9.3801302
+  },
+  {
+    "street": "Via al Tennis",
+    "number": "2",
+    "city": {
+      "name": "Margno",
+      "istat": "097047"
+    },
+    "latitude": 46.0305685,
+    "longitude": 9.380737
+  },
+  {
+    "street": "Viale Sciatori",
+    "number": "8",
+    "city": {
+      "name": "Margno",
+      "istat": "097047"
+    },
+    "latitude": 46.0275315,
+    "longitude": 9.4017134
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "3",
+    "city": {
+      "name": "Margno",
+      "istat": "097047"
+    },
+    "latitude": 46.0291763,
+    "longitude": 9.3803562
+  }
+]

@@ -1,0 +1,1022 @@
+[
+  {
+    "street": "Piazza Quattro Novembre",
+    "number": "5",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7239869,
+    "longitude": 8.8028422
+  },
+  {
+    "street": "Piazza Quattro Novembre",
+    "number": "1",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7241606,
+    "longitude": 8.8030752
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "28",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7249312,
+    "longitude": 8.805944
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "10",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.721219,
+    "longitude": 8.8055196
+  },
+  {
+    "street": "Via Cavour",
+    "number": "3",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7248356,
+    "longitude": 8.8024785
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "2",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7241314,
+    "longitude": 8.8024007
+  },
+  {
+    "street": "Viale Alcide De Gasperi",
+    "number": "35",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7168329,
+    "longitude": 8.8005606
+  },
+  {
+    "street": "Via Adamello",
+    "number": "5",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7171055,
+    "longitude": 8.80081
+  },
+  {
+    "street": "Via Tarabara",
+    "number": "10",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7309647,
+    "longitude": 8.8110447
+  },
+  {
+    "street": "Via Tarabara",
+    "number": "20",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7305364,
+    "longitude": 8.8121068
+  },
+  {
+    "street": "Via Adige",
+    "number": "8",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7321381,
+    "longitude": 8.8091055
+  },
+  {
+    "street": "Via Adige",
+    "number": "10",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7317356,
+    "longitude": 8.8089137
+  },
+  {
+    "street": "Via Adige",
+    "number": "16",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.731715,
+    "longitude": 8.8084322
+  },
+  {
+    "street": "Via Adige",
+    "number": "14",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7317206,
+    "longitude": 8.808574
+  },
+  {
+    "street": "Via Adige",
+    "number": "12",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7317262,
+    "longitude": 8.8087139
+  },
+  {
+    "street": "Via Piave",
+    "number": "23",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7307956,
+    "longitude": 8.8074088
+  },
+  {
+    "street": "Via Piave",
+    "number": "21",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7308012,
+    "longitude": 8.8068402
+  },
+  {
+    "street": "Via Piave",
+    "number": "19",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7307956,
+    "longitude": 8.8063332
+  },
+  {
+    "street": "Via Filippo Turati",
+    "number": "24",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7205815,
+    "longitude": 8.799684
+  },
+  {
+    "street": "Via Piave",
+    "number": "14",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7266447,
+    "longitude": 8.8065049
+  },
+  {
+    "street": "Via Piave",
+    "number": "18",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.727461,
+    "longitude": 8.8064405
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "39",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7273,
+    "longitude": 8.8058504
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "49",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7270697,
+    "longitude": 8.8052416
+  },
+  {
+    "street": "Via Daniele Carabelli",
+    "number": "4",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7269901,
+    "longitude": 8.7997575
+  },
+  {
+    "street": "Via Guglielmo Oberdan",
+    "number": "1",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.725289,
+    "longitude": 8.8042197
+  },
+  {
+    "street": "Via Guglielmo Oberdan",
+    "number": "2",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7251729,
+    "longitude": 8.8041633
+  },
+  {
+    "street": "Via Guglielmo Oberdan",
+    "number": "5",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7247966,
+    "longitude": 8.8054535
+  },
+  {
+    "street": "Via Guglielmo Oberdan",
+    "number": "4",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7247703,
+    "longitude": 8.8055554
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "33",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7249913,
+    "longitude": 8.8057351
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "31",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7248827,
+    "longitude": 8.8057137
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "29",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7248022,
+    "longitude": 8.8056734
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "26",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7246449,
+    "longitude": 8.8058773
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "22",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7244483,
+    "longitude": 8.8058209
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "24",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7244951,
+    "longitude": 8.805829
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "4",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7232705,
+    "longitude": 8.8041097
+  },
+  {
+    "street": "Piazza Quattro Novembre",
+    "number": "2",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7237679,
+    "longitude": 8.8033344
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "6",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7231918,
+    "longitude": 8.8051182
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "8",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7231338,
+    "longitude": 8.8054749
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "1",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7231881,
+    "longitude": 8.8056278
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "23",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7230233,
+    "longitude": 8.8057217
+  },
+  {
+    "street": "Via Campagna",
+    "number": "9",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.725847,
+    "longitude": 8.8032353
+  },
+  {
+    "street": "Via Campagna",
+    "number": "1",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7257702,
+    "longitude": 8.8030475
+  },
+  {
+    "street": "Via privata al Castello",
+    "number": "7",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7255437,
+    "longitude": 8.8034123
+  },
+  {
+    "street": "Via Magenta",
+    "number": "8",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7256673,
+    "longitude": 8.803136
+  },
+  {
+    "street": "Via Magenta",
+    "number": "1",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7254444,
+    "longitude": 8.8032299
+  },
+  {
+    "street": "Via Magenta",
+    "number": "4",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7252834,
+    "longitude": 8.8036001
+  },
+  {
+    "street": "Via Magenta",
+    "number": "2",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7251336,
+    "longitude": 8.8036752
+  },
+  {
+    "street": "Via San Pietro",
+    "number": "3",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7250025,
+    "longitude": 8.8031521
+  },
+  {
+    "street": "Via Cavour",
+    "number": "11",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7255736,
+    "longitude": 8.8025272
+  },
+  {
+    "street": "Via Cavour",
+    "number": "9",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7254482,
+    "longitude": 8.802495
+  },
+  {
+    "street": "Via Cavour",
+    "number": "20",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7255081,
+    "longitude": 8.8026506
+  },
+  {
+    "street": "Via Cavour",
+    "number": "18",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7253246,
+    "longitude": 8.8026157
+  },
+  {
+    "street": "Via Cavour",
+    "number": "16",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7252909,
+    "longitude": 8.8026103
+  },
+  {
+    "street": "Via Cavour",
+    "number": "14",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7252441,
+    "longitude": 8.8026077
+  },
+  {
+    "street": "Via Cavour",
+    "number": "12",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7251186,
+    "longitude": 8.8026103
+  },
+  {
+    "street": "Via Cavour",
+    "number": "10",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7249295,
+    "longitude": 8.8025916
+  },
+  {
+    "street": "Via Cavour",
+    "number": "7",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7250699,
+    "longitude": 8.8024628
+  },
+  {
+    "street": "Via Cavour",
+    "number": "5",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7250381,
+    "longitude": 8.8024548
+  },
+  {
+    "street": "Via Cavour",
+    "number": "6a",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.724716,
+    "longitude": 8.8026854
+  },
+  {
+    "street": "Via Cavour",
+    "number": "8",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7247853,
+    "longitude": 8.8026613
+  },
+  {
+    "street": "Via Cavour",
+    "number": "1",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7244183,
+    "longitude": 8.8027176
+  },
+  {
+    "street": "Via Cavour",
+    "number": "6",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7245775,
+    "longitude": 8.8027498
+  },
+  {
+    "street": "Via Cavour",
+    "number": "2",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7243303,
+    "longitude": 8.8029054
+  },
+  {
+    "street": "Via Roma",
+    "number": "7",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7249183,
+    "longitude": 8.8036108
+  },
+  {
+    "street": "Via Roma",
+    "number": "10",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7248434,
+    "longitude": 8.8037744
+  },
+  {
+    "street": "Via Roma",
+    "number": "12",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7249857,
+    "longitude": 8.8037342
+  },
+  {
+    "street": "Via Roma",
+    "number": "3",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7246767,
+    "longitude": 8.8035142
+  },
+  {
+    "street": "Via Roma",
+    "number": "6",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7245644,
+    "longitude": 8.8036644
+  },
+  {
+    "street": "Via Roma",
+    "number": "4",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7243565,
+    "longitude": 8.8036993
+  },
+  {
+    "street": "Via Roma",
+    "number": "1",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7245887,
+    "longitude": 8.8035518
+  },
+  {
+    "street": "Via Roma",
+    "number": "2",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.724203,
+    "longitude": 8.8037235
+  },
+  {
+    "street": "Via Sant'Alessandro",
+    "number": "1",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7231151,
+    "longitude": 8.8034096
+  },
+  {
+    "street": "Via Sant'Alessandro",
+    "number": "3",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7229971,
+    "longitude": 8.8033667
+  },
+  {
+    "street": "Via Sant'Alessandro",
+    "number": "5",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7231731,
+    "longitude": 8.80393
+  },
+  {
+    "street": "Via San Venanzio",
+    "number": "2b",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7225046,
+    "longitude": 8.8039863
+  },
+  {
+    "street": "Via San Venanzio",
+    "number": "2",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.722529,
+    "longitude": 8.8037395
+  },
+  {
+    "street": "Via San Venanzio",
+    "number": "4",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.722484,
+    "longitude": 8.8041365
+  },
+  {
+    "street": "Via San Venanzio",
+    "number": "8",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7222013,
+    "longitude": 8.8052309
+  },
+  {
+    "street": "Via San Venanzio",
+    "number": "13",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7224466,
+    "longitude": 8.80566
+  },
+  {
+    "street": "Via San Venanzio",
+    "number": "11",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7224784,
+    "longitude": 8.8056251
+  },
+  {
+    "street": "Via San Venanzio",
+    "number": "9",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.722484,
+    "longitude": 8.8055474
+  },
+  {
+    "street": "Via San Venanzio",
+    "number": "7",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7224915,
+    "longitude": 8.8054803
+  },
+  {
+    "street": "Via San Venanzio",
+    "number": "5",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7224971,
+    "longitude": 8.8051906
+  },
+  {
+    "street": "Via San Venanzio",
+    "number": "6",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7224559,
+    "longitude": 8.804504
+  },
+  {
+    "street": "Viale Alcide De Gasperi",
+    "number": "33",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7172927,
+    "longitude": 8.800154
+  },
+  {
+    "street": "Via Adamello",
+    "number": "4",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7172306,
+    "longitude": 8.8005243
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "3",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7241906,
+    "longitude": 8.8069672
+  },
+  {
+    "street": "Via Goffredo Mameli",
+    "number": "48",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.736636,
+    "longitude": 8.8050081
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "8",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7252662,
+    "longitude": 8.8013728
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "20",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7232611,
+    "longitude": 8.806104
+  },
+  {
+    "street": "Via Sant'Alessandro",
+    "number": "19",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7197893,
+    "longitude": 8.80298
+  },
+  {
+    "street": "Via Bainsizza",
+    "number": "2",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7289742,
+    "longitude": 8.8015304
+  },
+  {
+    "street": "Via Campagna",
+    "number": "23",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7274787,
+    "longitude": 8.8026606
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "7",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7225141,
+    "longitude": 8.8002697
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "26",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7346122,
+    "longitude": 8.8073474
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "9",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7225,
+    "longitude": 8.7996462
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "16",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7356398,
+    "longitude": 8.8072143
+  },
+  {
+    "street": "Via Adige",
+    "number": "4",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7318545,
+    "longitude": 8.8094253
+  },
+  {
+    "street": "Via Adige",
+    "number": "6",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7320847,
+    "longitude": 8.8094113
+  },
+  {
+    "street": "Via Adige",
+    "number": "2",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7315245,
+    "longitude": 8.809436
+  },
+  {
+    "street": "Via Tarabara",
+    "number": "2",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7305374,
+    "longitude": 8.8087916
+  },
+  {
+    "street": "Via Piave",
+    "number": "28",
+    "city": {
+      "name": "Albizzate",
+      "istat": "012002"
+    },
+    "latitude": 45.7296709,
+    "longitude": 8.8064401
+  }
+]

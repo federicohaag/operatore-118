@@ -1,0 +1,192 @@
+[
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "3",
+    "city": {
+      "name": "Arsago Seprio",
+      "istat": "012005"
+    },
+    "latitude": 45.6883519,
+    "longitude": 8.7321371
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "2",
+    "city": {
+      "name": "Arsago Seprio",
+      "istat": "012005"
+    },
+    "latitude": 45.6899186,
+    "longitude": 8.7360726
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "24",
+    "city": {
+      "name": "Arsago Seprio",
+      "istat": "012005"
+    },
+    "latitude": 45.6900032,
+    "longitude": 8.734784
+  },
+  {
+    "street": "Via Achille Porraneo",
+    "number": "2",
+    "city": {
+      "name": "Arsago Seprio",
+      "istat": "012005"
+    },
+    "latitude": 45.6883716,
+    "longitude": 8.7334848
+  },
+  {
+    "street": "Via Sempione",
+    "number": "24",
+    "city": {
+      "name": "Arsago Seprio",
+      "istat": "012005"
+    },
+    "latitude": 45.6787155,
+    "longitude": 8.7283212
+  },
+  {
+    "street": "Via Sempione",
+    "number": "22",
+    "city": {
+      "name": "Arsago Seprio",
+      "istat": "012005"
+    },
+    "latitude": 45.6786951,
+    "longitude": 8.7287445
+  },
+  {
+    "street": "Via Sempione",
+    "number": "19",
+    "city": {
+      "name": "Arsago Seprio",
+      "istat": "012005"
+    },
+    "latitude": 45.6780833,
+    "longitude": 8.7295909
+  },
+  {
+    "street": "Via Sempione",
+    "number": "5",
+    "city": {
+      "name": "Arsago Seprio",
+      "istat": "012005"
+    },
+    "latitude": 45.6779711,
+    "longitude": 8.730595
+  },
+  {
+    "street": "Via Sempione",
+    "number": "15",
+    "city": {
+      "name": "Arsago Seprio",
+      "istat": "012005"
+    },
+    "latitude": 45.6780431,
+    "longitude": 8.7287594
+  },
+  {
+    "street": "Via Sempione",
+    "number": "17",
+    "city": {
+      "name": "Arsago Seprio",
+      "istat": "012005"
+    },
+    "latitude": 45.6783029,
+    "longitude": 8.728504
+  },
+  {
+    "street": "Via del Tornago",
+    "number": "8",
+    "city": {
+      "name": "Arsago Seprio",
+      "istat": "012005"
+    },
+    "latitude": 45.6844299,
+    "longitude": 8.7385547
+  },
+  {
+    "street": "Via Concordia",
+    "number": "2",
+    "city": {
+      "name": "Arsago Seprio",
+      "istat": "012005"
+    },
+    "latitude": 45.6892313,
+    "longitude": 8.7338954
+  },
+  {
+    "street": "Via Sempione",
+    "number": "26",
+    "city": {
+      "name": "Arsago Seprio",
+      "istat": "012005"
+    },
+    "latitude": 45.6790659,
+    "longitude": 8.7279048
+  },
+  {
+    "street": "Via Sempione",
+    "number": "33",
+    "city": {
+      "name": "Arsago Seprio",
+      "istat": "012005"
+    },
+    "latitude": 45.6777797,
+    "longitude": 8.7331801
+  },
+  {
+    "street": "Via Sempione",
+    "number": "25",
+    "city": {
+      "name": "Arsago Seprio",
+      "istat": "012005"
+    },
+    "latitude": 45.6782949,
+    "longitude": 8.7270528
+  },
+  {
+    "street": "Via Sempione",
+    "number": "14",
+    "city": {
+      "name": "Arsago Seprio",
+      "istat": "012005"
+    },
+    "latitude": 45.678325,
+    "longitude": 8.7307269
+  },
+  {
+    "street": "Piazza Venticinque Aprile",
+    "number": "1",
+    "city": {
+      "name": "Arsago Seprio",
+      "istat": "012005"
+    },
+    "latitude": 45.6879887,
+    "longitude": 8.7310651
+  },
+  {
+    "street": "Via Europa",
+    "number": "6",
+    "city": {
+      "name": "Arsago Seprio",
+      "istat": "012005"
+    },
+    "latitude": 45.6870718,
+    "longitude": 8.734981
+  },
+  {
+    "street": "Via Achille Porraneo",
+    "number": "32",
+    "city": {
+      "name": "Arsago Seprio",
+      "istat": "012005"
+    },
+    "latitude": 45.688855,
+    "longitude": 8.7357027
+  }
+]

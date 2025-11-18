@@ -1,0 +1,842 @@
+[
+  {
+    "street": "Via Rimembranze",
+    "number": "84",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7988839,
+    "longitude": 8.6453051
+  },
+  {
+    "street": "Via Montecalvo",
+    "number": "200",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.780586,
+    "longitude": 8.6414809
+  },
+  {
+    "street": "Via Virgilio",
+    "number": "1",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7860958,
+    "longitude": 8.6605791
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "80",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.789171,
+    "longitude": 8.6525857
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "46",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7895089,
+    "longitude": 8.6553726
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "8",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7900046,
+    "longitude": 8.6573715
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "5",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7899574,
+    "longitude": 8.6578899
+  },
+  {
+    "street": "Via Maggiore",
+    "number": "54",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7883267,
+    "longitude": 8.66007
+  },
+  {
+    "street": "Via Rimembranze",
+    "number": "103",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7979354,
+    "longitude": 8.6443118
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "16",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7983621,
+    "longitude": 8.6438425
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "78",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7980359,
+    "longitude": 8.6434969
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "40",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.797804,
+    "longitude": 8.6432748
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "29",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7978648,
+    "longitude": 8.6431986
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "73",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.798066,
+    "longitude": 8.6429223
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "77",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7980825,
+    "longitude": 8.6429305
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "3",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7894375,
+    "longitude": 8.6590317
+  },
+  {
+    "street": "Via Roma",
+    "number": "22",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.788812,
+    "longitude": 8.6575339
+  },
+  {
+    "street": "Via Roma",
+    "number": "28",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7886265,
+    "longitude": 8.6570548
+  },
+  {
+    "street": "Via Roma",
+    "number": "32",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7883808,
+    "longitude": 8.6562879
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "2",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7880933,
+    "longitude": 8.6563595
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "6",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7877462,
+    "longitude": 8.6568954
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "16",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.787164,
+    "longitude": 8.6556608
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "22",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7870566,
+    "longitude": 8.6557826
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "14",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7873377,
+    "longitude": 8.656113
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "12",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7874571,
+    "longitude": 8.6563758
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "8",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.787551,
+    "longitude": 8.6565823
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "13",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7874281,
+    "longitude": 8.6577451
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "15",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7874655,
+    "longitude": 8.6581219
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "17",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.787272,
+    "longitude": 8.6579149
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "28",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7871193,
+    "longitude": 8.6577859
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "19",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7870751,
+    "longitude": 8.6581185
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "8",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7875616,
+    "longitude": 8.65973
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "2",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.787926,
+    "longitude": 8.6604436
+  },
+  {
+    "street": "Via Maggiore",
+    "number": "24",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7889989,
+    "longitude": 8.6595472
+  },
+  {
+    "street": "Via Maggiore",
+    "number": "22",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7889554,
+    "longitude": 8.6594625
+  },
+  {
+    "street": "Via Maggiore",
+    "number": "18",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7888707,
+    "longitude": 8.6595429
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "22",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7864084,
+    "longitude": 8.6583114
+  },
+  {
+    "street": "Via Virgilio",
+    "number": "2",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.786466,
+    "longitude": 8.6610548
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "30",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7845861,
+    "longitude": 8.6565164
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "17",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7846322,
+    "longitude": 8.6570731
+  },
+  {
+    "street": "Via Brebbia",
+    "number": "101",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.8005318,
+    "longitude": 8.6457812
+  },
+  {
+    "street": "Via Preda",
+    "number": "14",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7997487,
+    "longitude": 8.6444903
+  },
+  {
+    "street": "Via Preda",
+    "number": "73",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.800376,
+    "longitude": 8.644358
+  },
+  {
+    "street": "Via Brebbia",
+    "number": "89",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.8004116,
+    "longitude": 8.6458326
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "2",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7981564,
+    "longitude": 8.6445022
+  },
+  {
+    "street": "Via del Vassalo",
+    "number": "29",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.8005417,
+    "longitude": 8.6448824
+  },
+  {
+    "street": "Via del Vassalo",
+    "number": "59",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.8006643,
+    "longitude": 8.6452532
+  },
+  {
+    "street": "Via del Vassalo",
+    "number": "71",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.8007101,
+    "longitude": 8.6454189
+  },
+  {
+    "street": "Via Mogno",
+    "number": "310",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.8019718,
+    "longitude": 8.6488569
+  },
+  {
+    "street": "Via Mogno",
+    "number": "441",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.8029916,
+    "longitude": 8.6497924
+  },
+  {
+    "street": "Via del Vassalo",
+    "number": "50",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.8005636,
+    "longitude": 8.6451996
+  },
+  {
+    "street": "Piazza Giuseppe Garibaldi",
+    "number": "61",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.797158,
+    "longitude": 8.643589
+  },
+  {
+    "street": "Piazza Giuseppe Garibaldi",
+    "number": "28",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7971525,
+    "longitude": 8.6438604
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "17",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7977686,
+    "longitude": 8.6444739
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "27",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7902992,
+    "longitude": 8.6580208
+  },
+  {
+    "street": "Via Roma",
+    "number": "21",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7866311,
+    "longitude": 8.654777
+  },
+  {
+    "street": "Via Roma",
+    "number": "25",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7859539,
+    "longitude": 8.6549474
+  },
+  {
+    "street": "Via Roma",
+    "number": "13",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7879012,
+    "longitude": 8.6554558
+  },
+  {
+    "street": "Via Roma",
+    "number": "46",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7863944,
+    "longitude": 8.6546309
+  },
+  {
+    "street": "Via Roma",
+    "number": "52",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7854309,
+    "longitude": 8.654922
+  },
+  {
+    "street": "Via Roma",
+    "number": "3",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7891907,
+    "longitude": 8.658813
+  },
+  {
+    "street": "Via Roma",
+    "number": "33",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7850614,
+    "longitude": 8.655206
+  },
+  {
+    "street": "Via Roma",
+    "number": "36",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7882534,
+    "longitude": 8.6559251
+  },
+  {
+    "street": "Via Roma",
+    "number": "44",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7865732,
+    "longitude": 8.6545965
+  },
+  {
+    "street": "Via Roma",
+    "number": "48",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7859109,
+    "longitude": 8.6548334
+  },
+  {
+    "street": "Via Roma",
+    "number": "50",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7854717,
+    "longitude": 8.6549427
+  },
+  {
+    "street": "Via Roma",
+    "number": "54",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7853935,
+    "longitude": 8.6549769
+  },
+  {
+    "street": "Via Roma",
+    "number": "62",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7842501,
+    "longitude": 8.6553199
+  },
+  {
+    "street": "Piazza Giuseppe Garibaldi",
+    "number": "32",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7971329,
+    "longitude": 8.6438218
+  },
+  {
+    "street": "Piazza Giuseppe Garibaldi",
+    "number": "38",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7970933,
+    "longitude": 8.6437456
+  },
+  {
+    "street": "Via Solferino",
+    "number": "464/1",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.792501,
+    "longitude": 8.6433199
+  },
+  {
+    "street": "Via Solferino",
+    "number": "301/4",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7946781,
+    "longitude": 8.6461893
+  },
+  {
+    "street": "Via San Francesco d'Assisi",
+    "number": "96",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.8001708,
+    "longitude": 8.6315405
+  },
+  {
+    "street": "Via San Francesco d'Assisi",
+    "number": "165",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.8004521,
+    "longitude": 8.631097
+  },
+  {
+    "street": "Via San Francesco d'Assisi",
+    "number": "87",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7996918,
+    "longitude": 8.6314566
+  },
+  {
+    "street": "Via Enrico Fermi",
+    "number": "2749",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.803796,
+    "longitude": 8.6299173
+  },
+  {
+    "street": "Via Achille Aliprandi",
+    "number": "1",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7900893,
+    "longitude": 8.6585846
+  },
+  {
+    "street": "Via Enrico Fermi",
+    "number": "479",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.8024039,
+    "longitude": 8.6296023
+  },
+  {
+    "street": "Via Enrico Fermi",
+    "number": "492",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.8026582,
+    "longitude": 8.6302792
+  },
+  {
+    "street": "Piazza Papa Giovanni Paolo I",
+    "number": "2",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.787924,
+    "longitude": 8.6610167
+  },
+  {
+    "street": "Via Maggiore",
+    "number": "1",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7892194,
+    "longitude": 8.6595405
+  },
+  {
+    "street": "Località Biss",
+    "number": "4",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7888915,
+    "longitude": 8.6486899
+  },
+  {
+    "street": "Via Solferino",
+    "number": "376",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.7940901,
+    "longitude": 8.6450875
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "154",
+    "city": {
+      "name": "Cadrezzate con Osmate",
+      "istat": "012143"
+    },
+    "latitude": 45.79562,
+    "longitude": 8.6429149
+  }
+]

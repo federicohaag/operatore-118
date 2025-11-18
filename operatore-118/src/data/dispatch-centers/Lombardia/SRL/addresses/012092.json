@@ -1,0 +1,2652 @@
+[
+  {
+    "street": "Via Luigi Ghiringhelli",
+    "number": "1",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9976395,
+    "longitude": 8.7471127
+  },
+  {
+    "street": "Corso Venticinque Aprile",
+    "number": "31",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9993356,
+    "longitude": 8.7427241
+  },
+  {
+    "street": "Via Santa Rita",
+    "number": "22",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9932778,
+    "longitude": 8.739363
+  },
+  {
+    "street": "Via Santa Rita",
+    "number": "5",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9933137,
+    "longitude": 8.7410854
+  },
+  {
+    "street": "Via Santa Rita",
+    "number": "8",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9936364,
+    "longitude": 8.7420114
+  },
+  {
+    "street": "Via Santa Rita",
+    "number": "8a",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9936916,
+    "longitude": 8.7420882
+  },
+  {
+    "street": "Via Santa Rita",
+    "number": "16a",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9935751,
+    "longitude": 8.740317
+  },
+  {
+    "street": "Via Santa Rita",
+    "number": "18",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9934763,
+    "longitude": 8.7400202
+  },
+  {
+    "street": "Via Santa Rita",
+    "number": "18a",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9932486,
+    "longitude": 8.7401804
+  },
+  {
+    "street": "Via Santa Rita",
+    "number": "16",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9934761,
+    "longitude": 8.7403893
+  },
+  {
+    "street": "Via Santa Rita",
+    "number": "20",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9931741,
+    "longitude": 8.7398859
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "29",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0023495,
+    "longitude": 8.7436708
+  },
+  {
+    "street": "Via Enrico Forlanini",
+    "number": "6",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9962293,
+    "longitude": 8.7462224
+  },
+  {
+    "street": "Via Frédéric Chopin",
+    "number": "123",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.019708,
+    "longitude": 8.7564204
+  },
+  {
+    "street": "Via Frédéric Chopin",
+    "number": "125",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0197378,
+    "longitude": 8.756301
+  },
+  {
+    "street": "Via della Vittoria",
+    "number": "3",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.006951,
+    "longitude": 8.7456404
+  },
+  {
+    "street": "Via della Vittoria",
+    "number": "2A",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0040174,
+    "longitude": 8.7432477
+  },
+  {
+    "street": "Via della Vittoria",
+    "number": "2B",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0040359,
+    "longitude": 8.743251
+  },
+  {
+    "street": "Via della Vittoria",
+    "number": "4",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0041586,
+    "longitude": 8.7433686
+  },
+  {
+    "street": "Via del Porto",
+    "number": "16",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0039292,
+    "longitude": 8.7434351
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "9",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0034971,
+    "longitude": 8.7428308
+  },
+  {
+    "street": "Via Felice Cavallotti",
+    "number": "32",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0031351,
+    "longitude": 8.7441764
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "20",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0022425,
+    "longitude": 8.7434503
+  },
+  {
+    "street": "Via Felice Cavallotti",
+    "number": "53",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0030111,
+    "longitude": 8.7447947
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "28",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0033767,
+    "longitude": 8.7430877
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "46",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0024643,
+    "longitude": 8.745013
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "10",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0028263,
+    "longitude": 8.7425861
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "30",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0034199,
+    "longitude": 8.7431534
+  },
+  {
+    "street": "Via Felice Cavallotti",
+    "number": "29",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0032385,
+    "longitude": 8.7439684
+  },
+  {
+    "street": "Via Angelo Palazzi",
+    "number": "4",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0243511,
+    "longitude": 8.751761
+  },
+  {
+    "street": "Corso Venticinque Aprile",
+    "number": "68",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9980622,
+    "longitude": 8.7386292
+  },
+  {
+    "street": "Corso Venticinque Aprile",
+    "number": "81",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9984802,
+    "longitude": 8.7398815
+  },
+  {
+    "street": "Piazza Piave",
+    "number": "1",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9911012,
+    "longitude": 8.7499977
+  },
+  {
+    "street": "Via Creva",
+    "number": "29/C",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.995433,
+    "longitude": 8.7538048
+  },
+  {
+    "street": "Via Quindici Agosto",
+    "number": "8",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0010013,
+    "longitude": 8.7427029
+  },
+  {
+    "street": "Via Don Piero Folli",
+    "number": "1",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9939612,
+    "longitude": 8.7328946
+  },
+  {
+    "street": "Via Filippo Turati",
+    "number": "106",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9900449,
+    "longitude": 8.7614538
+  },
+  {
+    "street": "Piazza Guglielmo Marconi",
+    "number": "31A",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9971246,
+    "longitude": 8.7360701
+  },
+  {
+    "street": "Piazza Guglielmo Marconi",
+    "number": "13",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9968927,
+    "longitude": 8.7371456
+  },
+  {
+    "street": "Piazza Guglielmo Marconi",
+    "number": "27",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9962728,
+    "longitude": 8.735534
+  },
+  {
+    "street": "Piazza Risorgimento",
+    "number": "13",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0003769,
+    "longitude": 8.7450014
+  },
+  {
+    "street": "Via Dumenza",
+    "number": "42",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0160341,
+    "longitude": 8.7634086
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "1",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0028763,
+    "longitude": 8.7422246
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "29",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0011775,
+    "longitude": 8.7400518
+  },
+  {
+    "street": "Viale Giovanni Amendola",
+    "number": "5",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9981631,
+    "longitude": 8.736931
+  },
+  {
+    "street": "Via Quindici Agosto",
+    "number": "26",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0008271,
+    "longitude": 8.7431247
+  },
+  {
+    "street": "Corso Venticinque Aprile",
+    "number": "73",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9985529,
+    "longitude": 8.7400089
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "33",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0009789,
+    "longitude": 8.7396803
+  },
+  {
+    "street": "Piazza Giuseppe Garibaldi",
+    "number": "32/B",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0010347,
+    "longitude": 8.7423203
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "29",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.000978,
+    "longitude": 8.7450623
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "7",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0013721,
+    "longitude": 8.7404658
+  },
+  {
+    "street": "Corso Venticinque Aprile",
+    "number": "64",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.998237,
+    "longitude": 8.7389025
+  },
+  {
+    "street": "Corso Venticinque Aprile",
+    "number": "52",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9985832,
+    "longitude": 8.7395731
+  },
+  {
+    "street": "Corso Venticinque Aprile",
+    "number": "54",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9985664,
+    "longitude": 8.7395409
+  },
+  {
+    "street": "Corso Venticinque Aprile",
+    "number": "56",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9985491,
+    "longitude": 8.7395087
+  },
+  {
+    "street": "Corso Venticinque Aprile",
+    "number": "58a",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9985058,
+    "longitude": 8.7394222
+  },
+  {
+    "street": "Corso Venticinque Aprile",
+    "number": "58",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9985268,
+    "longitude": 8.7394671
+  },
+  {
+    "street": "Via Elvio Copelli",
+    "number": "13",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.990037,
+    "longitude": 8.7484046
+  },
+  {
+    "street": "Via Voldomino",
+    "number": "5",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9996449,
+    "longitude": 8.7449251
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "5",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0024267,
+    "longitude": 8.7455514
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "7",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0024318,
+    "longitude": 8.7455724
+  },
+  {
+    "street": "Piazza Papa Giovanni Ventitreesimo",
+    "number": "10",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0024529,
+    "longitude": 8.7452013
+  },
+  {
+    "street": "Piazza Papa Giovanni Ventitreesimo",
+    "number": "12",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0025068,
+    "longitude": 8.7452692
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "12",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0024144,
+    "longitude": 8.7455511
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "8",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0023763,
+    "longitude": 8.74544
+  },
+  {
+    "street": "Piazza Papa Giovanni Ventitreesimo",
+    "number": "14",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0025635,
+    "longitude": 8.7453023
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "1A",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0024497,
+    "longitude": 8.7453889
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "14",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0024319,
+    "longitude": 8.7456197
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "3",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0024246,
+    "longitude": 8.7454904
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "1",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0024766,
+    "longitude": 8.7452885
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "10",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.002394,
+    "longitude": 8.7454949
+  },
+  {
+    "street": "Via Pellegrini",
+    "number": "8",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0034888,
+    "longitude": 8.7450688
+  },
+  {
+    "street": "Via Pellegrini",
+    "number": "5",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0034756,
+    "longitude": 8.7449967
+  },
+  {
+    "street": "Via Pellegrini",
+    "number": "6",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0034498,
+    "longitude": 8.7450894
+  },
+  {
+    "street": "Via Pellegrini",
+    "number": "4B",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0034097,
+    "longitude": 8.7453121
+  },
+  {
+    "street": "Via Pellegrini",
+    "number": "4C",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0033791,
+    "longitude": 8.745223
+  },
+  {
+    "street": "Via Pellegrini",
+    "number": "3C",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0033233,
+    "longitude": 8.7450101
+  },
+  {
+    "street": "Via Pellegrini",
+    "number": "3",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0032452,
+    "longitude": 8.7450153
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "3",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0026382,
+    "longitude": 8.7423076
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "1",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0027181,
+    "longitude": 8.7424046
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "5",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0025743,
+    "longitude": 8.742229
+  },
+  {
+    "street": "Via della Vittoria",
+    "number": "9",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0020266,
+    "longitude": 8.7415776
+  },
+  {
+    "street": "Via della Vittoria",
+    "number": "7",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0021794,
+    "longitude": 8.7417591
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "24",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0021709,
+    "longitude": 8.7435019
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "1",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9986404,
+    "longitude": 8.7403235
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "16",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9979984,
+    "longitude": 8.7398569
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "37",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0003261,
+    "longitude": 8.738636
+  },
+  {
+    "street": "Piazza Guglielmo Marconi",
+    "number": "3",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9972883,
+    "longitude": 8.7380899
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "9",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.002632,
+    "longitude": 8.7430822
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "16",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0023535,
+    "longitude": 8.7431921
+  },
+  {
+    "street": "Corso XXV Aprile",
+    "number": "69",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9986847,
+    "longitude": 8.740412
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "13",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9994019,
+    "longitude": 8.7398152
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "5",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9999422,
+    "longitude": 8.7395852
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "2",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0026613,
+    "longitude": 8.7425463
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "34",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.002046,
+    "longitude": 8.7439834
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "9A",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0025761,
+    "longitude": 8.7432109
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "12",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9995354,
+    "longitude": 8.741159
+  },
+  {
+    "street": "Via Quindici Agosto",
+    "number": "19",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.00136,
+    "longitude": 8.7432735
+  },
+  {
+    "street": "Viale Giovanni Amendola",
+    "number": "12",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9988234,
+    "longitude": 8.7359661
+  },
+  {
+    "street": "Via Bernardino Luini",
+    "number": "16",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.000095,
+    "longitude": 8.7456907
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "11",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9960875,
+    "longitude": 8.7494408
+  },
+  {
+    "street": "Piazza Guglielmo Marconi",
+    "number": "24",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9975905,
+    "longitude": 8.7374848
+  },
+  {
+    "street": "Viale Rimembranze",
+    "number": "2",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9995815,
+    "longitude": 8.7470605
+  },
+  {
+    "street": "Piazza Guglielmo Marconi",
+    "number": "21",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9984209,
+    "longitude": 8.7424823
+  },
+  {
+    "street": "Via Paolo Berra",
+    "number": "74",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0261412,
+    "longitude": 8.7595988
+  },
+  {
+    "street": "Via Delle Motte",
+    "number": "18",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0148922,
+    "longitude": 8.7647111
+  },
+  {
+    "street": "Via Quindici Agosto",
+    "number": "13",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0011464,
+    "longitude": 8.7427503
+  },
+  {
+    "street": "Piazza Giuseppe Garibaldi",
+    "number": "28",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0010788,
+    "longitude": 8.7421335
+  },
+  {
+    "street": "Via Angelo Palazzi",
+    "number": "1",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0256467,
+    "longitude": 8.7504142
+  },
+  {
+    "street": "Corso Venticinque Aprile",
+    "number": "43",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9992387,
+    "longitude": 8.7419994
+  },
+  {
+    "street": "Corso Venticinque Aprile",
+    "number": "49",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9991691,
+    "longitude": 8.7418052
+  },
+  {
+    "street": "Corso Venticinque Aprile",
+    "number": "53",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9991447,
+    "longitude": 8.7417315
+  },
+  {
+    "street": "Corso Venticinque Aprile",
+    "number": "55",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.99908,
+    "longitude": 8.7415446
+  },
+  {
+    "street": "Corso Venticinque Aprile",
+    "number": "57",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9990072,
+    "longitude": 8.741336
+  },
+  {
+    "street": "Corso Venticinque Aprile",
+    "number": "61",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9986627,
+    "longitude": 8.7408646
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "47",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9995853,
+    "longitude": 8.7404645
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "51",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9994589,
+    "longitude": 8.7404069
+  },
+  {
+    "street": "Piazza Guglielmo Marconi",
+    "number": "18",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9979007,
+    "longitude": 8.7376775
+  },
+  {
+    "street": "Via XV Agosto",
+    "number": "19",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0015544,
+    "longitude": 8.7432335
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "4",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0012525,
+    "longitude": 8.7411275
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "4A",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0011415,
+    "longitude": 8.7410724
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "23",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0012907,
+    "longitude": 8.745115
+  },
+  {
+    "street": "Piazza Risorgimento",
+    "number": "1/A",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0009563,
+    "longitude": 8.7448588
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "2",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0008314,
+    "longitude": 8.7379815
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "6a",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0012909,
+    "longitude": 8.7394666
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "35",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.000555,
+    "longitude": 8.7392595
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "6",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0017733,
+    "longitude": 8.7404773
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "9",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0012554,
+    "longitude": 8.7402204
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "5C",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0013846,
+    "longitude": 8.7405405
+  },
+  {
+    "street": "Via Enrico Forlanini",
+    "number": "25",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9962414,
+    "longitude": 8.7446057
+  },
+  {
+    "street": "Via Enrico Forlanini",
+    "number": "3",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9972132,
+    "longitude": 8.7455839
+  },
+  {
+    "street": "Via Enrico Forlanini",
+    "number": "10",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9970173,
+    "longitude": 8.7457193
+  },
+  {
+    "street": "Via Filippo Turati",
+    "number": "2",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9971364,
+    "longitude": 8.7463639
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "6",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9972641,
+    "longitude": 8.7462354
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "4",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9977149,
+    "longitude": 8.7461716
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "5B",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0005845,
+    "longitude": 8.7410723
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "26",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9942381,
+    "longitude": 8.7320183
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "24",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9942193,
+    "longitude": 8.7324782
+  },
+  {
+    "street": "Via San Pietro",
+    "number": "35",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0019483,
+    "longitude": 8.7465646
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "63",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9941369,
+    "longitude": 8.7328644
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "65",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.994053,
+    "longitude": 8.7328671
+  },
+  {
+    "street": "Via Vittorio Sereni",
+    "number": "29",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0014326,
+    "longitude": 8.7422727
+  },
+  {
+    "street": "Corso Venticinque Aprile",
+    "number": "22",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9998785,
+    "longitude": 8.7438445
+  },
+  {
+    "street": "Via Vittorio Sereni",
+    "number": "1",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0023662,
+    "longitude": 8.7430631
+  },
+  {
+    "street": "Via Asmara",
+    "number": "56",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9911742,
+    "longitude": 8.7466563
+  },
+  {
+    "street": "Via Vittorio Sereni",
+    "number": "13",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0018429,
+    "longitude": 8.7426453
+  },
+  {
+    "street": "Via Vittorio Sereni",
+    "number": "21",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0016895,
+    "longitude": 8.7425227
+  },
+  {
+    "street": "Via Lugano",
+    "number": "24",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0053068,
+    "longitude": 8.7500001
+  },
+  {
+    "street": "Via Voldomino",
+    "number": "32",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9969729,
+    "longitude": 8.7442963
+  },
+  {
+    "street": "Via Voldomino",
+    "number": "21",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.996199,
+    "longitude": 8.7439682
+  },
+  {
+    "street": "Via Delle Dogane",
+    "number": "2",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9966608,
+    "longitude": 8.7427959
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "12",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9992648,
+    "longitude": 8.7393745
+  },
+  {
+    "street": "Corso Venticinque Aprile",
+    "number": "8",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0001415,
+    "longitude": 8.7423328
+  },
+  {
+    "street": "Via Voldomino",
+    "number": "3",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9995929,
+    "longitude": 8.7449224
+  },
+  {
+    "street": "Via Quindici Agosto",
+    "number": "17",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0011304,
+    "longitude": 8.7430292
+  },
+  {
+    "street": "Via Voldomino",
+    "number": "11",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9986169,
+    "longitude": 8.7450768
+  },
+  {
+    "street": "Via Bernardino Luini",
+    "number": "26",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9993754,
+    "longitude": 8.7463612
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "5D",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0013578,
+    "longitude": 8.7404184
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "33",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9995653,
+    "longitude": 8.7407727
+  },
+  {
+    "street": "Via al Lido",
+    "number": "1",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.996633,
+    "longitude": 8.7315724
+  },
+  {
+    "street": "Via Quindici Agosto",
+    "number": "3",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0012766,
+    "longitude": 8.7424563
+  },
+  {
+    "street": "Corso Venticinque Aprile",
+    "number": "17",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.999852,
+    "longitude": 8.7435599
+  },
+  {
+    "street": "Via Vittorio Sereni",
+    "number": "25",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0016169,
+    "longitude": 8.7424336
+  },
+  {
+    "street": "Via Johann Sebastian Bach",
+    "number": "74",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0204232,
+    "longitude": 8.7544413
+  },
+  {
+    "street": "Via Johann Sebastian Bach",
+    "number": "72",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0205035,
+    "longitude": 8.7542359
+  },
+  {
+    "street": "Via Richard Wagner",
+    "number": "102",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0203554,
+    "longitude": 8.7540901
+  },
+  {
+    "street": "Via Johann Sebastian Bach",
+    "number": "42",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0200301,
+    "longitude": 8.755921
+  },
+  {
+    "street": "Via Johann Sebastian Bach",
+    "number": "78",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0203353,
+    "longitude": 8.754689
+  },
+  {
+    "street": "Via Richard Wagner",
+    "number": "100",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0202097,
+    "longitude": 8.7542134
+  },
+  {
+    "street": "Via Johann Sebastian Bach",
+    "number": "52",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0203516,
+    "longitude": 8.7553716
+  },
+  {
+    "street": "Via Johann Sebastian Bach",
+    "number": "48",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0203352,
+    "longitude": 8.755736
+  },
+  {
+    "street": "Via Johann Sebastian Bach",
+    "number": "76",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0202174,
+    "longitude": 8.7545013
+  },
+  {
+    "street": "Via Johann Sebastian Bach",
+    "number": "54",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0203987,
+    "longitude": 8.7551693
+  },
+  {
+    "street": "Via Johann Sebastian Bach",
+    "number": "50",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0204631,
+    "longitude": 8.7555851
+  },
+  {
+    "street": "Via Johann Sebastian Bach",
+    "number": "66",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0208382,
+    "longitude": 8.754036
+  },
+  {
+    "street": "Via Johann Strauss",
+    "number": "30",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0206991,
+    "longitude": 8.7554552
+  },
+  {
+    "street": "Via Johann Strauss",
+    "number": "20",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0208925,
+    "longitude": 8.7547606
+  },
+  {
+    "street": "Via Johann Strauss",
+    "number": "28",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0207075,
+    "longitude": 8.7550704
+  },
+  {
+    "street": "Via Johann Strauss",
+    "number": "26",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0207517,
+    "longitude": 8.7548354
+  },
+  {
+    "street": "Via Johann Sebastian Bach",
+    "number": "38",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0204874,
+    "longitude": 8.7564199
+  },
+  {
+    "street": "Via Johann Strauss",
+    "number": "36",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0205632,
+    "longitude": 8.7561572
+  },
+  {
+    "street": "Via Johann Sebastian Bach",
+    "number": "64",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0209286,
+    "longitude": 8.7542983
+  },
+  {
+    "street": "Via Johann Sebastian Bach",
+    "number": "62",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0207434,
+    "longitude": 8.7543701
+  },
+  {
+    "street": "Via Johann Strauss",
+    "number": "32",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0206173,
+    "longitude": 8.7556307
+  },
+  {
+    "street": "Via Johann Strauss",
+    "number": "34",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0205821,
+    "longitude": 8.7559289
+  },
+  {
+    "street": "Via Johann Strauss",
+    "number": "24",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0208341,
+    "longitude": 8.7546266
+  },
+  {
+    "street": "Via Richard Wagner",
+    "number": "114",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0203957,
+    "longitude": 8.7535021
+  },
+  {
+    "street": "Via Johann Sebastian Bach",
+    "number": "86",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0197682,
+    "longitude": 8.7549029
+  },
+  {
+    "street": "Via Richard Wagner",
+    "number": "124",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0195278,
+    "longitude": 8.7541603
+  },
+  {
+    "street": "Via Richard Wagner",
+    "number": "122",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0197,
+    "longitude": 8.7539787
+  },
+  {
+    "street": "Via Richard Wagner",
+    "number": "110",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0207555,
+    "longitude": 8.7534453
+  },
+  {
+    "street": "Via Richard Wagner",
+    "number": "108",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0208165,
+    "longitude": 8.7536227
+  },
+  {
+    "street": "Via Richard Wagner",
+    "number": "128",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0193571,
+    "longitude": 8.7545735
+  },
+  {
+    "street": "Via Johann Sebastian Bach",
+    "number": "88",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0195805,
+    "longitude": 8.755136
+  },
+  {
+    "street": "Via Richard Wagner",
+    "number": "96",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0197404,
+    "longitude": 8.7544218
+  },
+  {
+    "street": "Via Richard Wagner",
+    "number": "106",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0206188,
+    "longitude": 8.7537219
+  },
+  {
+    "street": "Via Johann Sebastian Bach",
+    "number": "94",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0195038,
+    "longitude": 8.7548343
+  },
+  {
+    "street": "Via Johann Sebastian Bach",
+    "number": "133",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0198898,
+    "longitude": 8.7552416
+  },
+  {
+    "street": "Via Frédéric Chopin",
+    "number": "95",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0198975,
+    "longitude": 8.7565919
+  },
+  {
+    "street": "Via Franz Liszt",
+    "number": "163",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0186279,
+    "longitude": 8.7558093
+  },
+  {
+    "street": "Via Wolfgang Amadeus Mozart",
+    "number": "61",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0199047,
+    "longitude": 8.757435
+  },
+  {
+    "street": "Via Johann Sebastian Bach",
+    "number": "89",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0203372,
+    "longitude": 8.7567484
+  },
+  {
+    "street": "Via Frédéric Chopin",
+    "number": "105",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0190371,
+    "longitude": 8.7566762
+  },
+  {
+    "street": "Via Johann Sebastian Bach",
+    "number": "145",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0189958,
+    "longitude": 8.7563105
+  },
+  {
+    "street": "Via Wolfgang Amadeus Mozart",
+    "number": "21",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0193913,
+    "longitude": 8.7576785
+  },
+  {
+    "street": "Via Frédéric Chopin",
+    "number": "107",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0189388,
+    "longitude": 8.7568113
+  },
+  {
+    "street": "Via Johann Sebastian Bach",
+    "number": "87",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.02023,
+    "longitude": 8.7566506
+  },
+  {
+    "street": "Via Johann Sebastian Bach",
+    "number": "143",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0191069,
+    "longitude": 8.7562052
+  },
+  {
+    "street": "Via Frédéric Chopin",
+    "number": "109",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0188221,
+    "longitude": 8.7568194
+  },
+  {
+    "street": "Via Franz Liszt",
+    "number": "169",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0189932,
+    "longitude": 8.7553045
+  },
+  {
+    "street": "Via Frédéric Chopin",
+    "number": "117",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0191847,
+    "longitude": 8.7564004
+  },
+  {
+    "street": "Via Wolfgang Amadeus Mozart",
+    "number": "25",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0191395,
+    "longitude": 8.7577933
+  },
+  {
+    "street": "Via Frédéric Chopin",
+    "number": "121",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0194993,
+    "longitude": 8.7563809
+  },
+  {
+    "street": "Via Johann Sebastian Bach",
+    "number": "127/129",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.019664,
+    "longitude": 8.7555624
+  },
+  {
+    "street": "Via Wolfgang Amadeus Mozart",
+    "number": "83",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0200697,
+    "longitude": 8.7567763
+  },
+  {
+    "street": "Via Wolfgang Amadeus Mozart",
+    "number": "85",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0201021,
+    "longitude": 8.7569118
+  },
+  {
+    "street": "Via Franz Liszt",
+    "number": "167",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.018896,
+    "longitude": 8.7554878
+  },
+  {
+    "street": "Via Johann Sebastian Bach",
+    "number": "151",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0191705,
+    "longitude": 8.7557253
+  },
+  {
+    "street": "Via Wolfgang Amadeus Mozart",
+    "number": "23",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.019273,
+    "longitude": 8.7577483
+  },
+  {
+    "street": "Via Franz Liszt",
+    "number": "165",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0187875,
+    "longitude": 8.7556812
+  },
+  {
+    "street": "Via Frédéric Chopin",
+    "number": "99",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0195339,
+    "longitude": 8.7567227
+  },
+  {
+    "street": "Via Wolfgang Amadeus Mozart",
+    "number": "53",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0193154,
+    "longitude": 8.757172
+  },
+  {
+    "street": "Via Wolfgang Amadeus Mozart",
+    "number": "67",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0201047,
+    "longitude": 8.7572334
+  },
+  {
+    "street": "Via Johann Sebastian Bach",
+    "number": "93",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.02005,
+    "longitude": 8.756604
+  },
+  {
+    "street": "Via Frédéric Chopin",
+    "number": "75",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0191181,
+    "longitude": 8.7569438
+  },
+  {
+    "street": "Via Frédéric Chopin",
+    "number": "77",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0189641,
+    "longitude": 8.7570416
+  },
+  {
+    "street": "Via Wolfgang Amadeus Mozart",
+    "number": "79",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0197323,
+    "longitude": 8.7569067
+  },
+  {
+    "street": "Via Johann Sebastian Bach",
+    "number": "137",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0195482,
+    "longitude": 8.7556769
+  },
+  {
+    "street": "Via Wolfgang Amadeus Mozart",
+    "number": "39",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0188757,
+    "longitude": 8.7579144
+  },
+  {
+    "street": "Via Wolfgang Amadeus Mozart",
+    "number": "37",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0189945,
+    "longitude": 8.7584171
+  },
+  {
+    "street": "Via Wolfgang Amadeus Mozart",
+    "number": "81",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0199283,
+    "longitude": 8.7568013
+  },
+  {
+    "street": "Via Frédéric Chopin",
+    "number": "97",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0196863,
+    "longitude": 8.7566339
+  },
+  {
+    "street": "Via Wolfgang Amadeus Mozart",
+    "number": "63",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0200121,
+    "longitude": 8.757409
+  },
+  {
+    "street": "Via Johann Sebastian Bach",
+    "number": "139",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0194201,
+    "longitude": 8.7558643
+  },
+  {
+    "street": "Via Franz Liszt",
+    "number": "171",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.019135,
+    "longitude": 8.7549829
+  },
+  {
+    "street": "Via Wolfgang Amadeus Mozart",
+    "number": "41",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.018519,
+    "longitude": 8.7580586
+  },
+  {
+    "street": "Via Johann Sebastian Bach",
+    "number": "131",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.019795,
+    "longitude": 8.7554347
+  },
+  {
+    "street": "Via Johann Sebastian Bach",
+    "number": "153",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0191294,
+    "longitude": 8.7555601
+  },
+  {
+    "street": "Via Dumenza",
+    "number": "31",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0162748,
+    "longitude": 8.7628221
+  },
+  {
+    "street": "Via Flavio Fornara",
+    "number": "5",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.994766,
+    "longitude": 8.7302621
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "5",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0018017,
+    "longitude": 8.7404524
+  },
+  {
+    "street": "Piazza Crivelli Serbelloni",
+    "number": "1",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0025295,
+    "longitude": 8.7424557
+  },
+  {
+    "street": "Via della Vittoria",
+    "number": "2",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0040015,
+    "longitude": 8.7433231
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "5B",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0013094,
+    "longitude": 8.7405532
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "18 A",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0010714,
+    "longitude": 8.7401443
+  },
+  {
+    "street": "Via Don Piero Folli",
+    "number": "2",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.993727,
+    "longitude": 8.7334865
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "20",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9945566,
+    "longitude": 8.7321705
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "18",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9945215,
+    "longitude": 8.7325718
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "6",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9995463,
+    "longitude": 8.7393501
+  },
+  {
+    "street": "Via Lugano",
+    "number": "13",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0047849,
+    "longitude": 8.7475777
+  },
+  {
+    "street": "Via del Marinaio",
+    "number": "2",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0039007,
+    "longitude": 8.743698
+  },
+  {
+    "street": "Piazza San Francesco d'Assisi",
+    "number": "15",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0033269,
+    "longitude": 8.7462637
+  },
+  {
+    "street": "Piazza Giuseppe Garibaldi",
+    "number": "10",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0011556,
+    "longitude": 8.7415827
+  },
+  {
+    "street": "Via Enrico Forlanini",
+    "number": "2",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9965495,
+    "longitude": 8.7448903
+  },
+  {
+    "street": "Via Creva",
+    "number": "29a",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.995939,
+    "longitude": 8.7537498
+  },
+  {
+    "street": "Via Beltempo",
+    "number": "1",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9966905,
+    "longitude": 8.7524624
+  },
+  {
+    "street": "Corso Venticinque Aprile",
+    "number": "40",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9990751,
+    "longitude": 8.7405728
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "28",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9941928,
+    "longitude": 8.7314466
+  },
+  {
+    "street": "Via Cantonale",
+    "number": "123",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9928867,
+    "longitude": 8.7878407
+  },
+  {
+    "street": "Corso Venticinque Aprile",
+    "number": "4",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9997642,
+    "longitude": 8.7439289
+  },
+  {
+    "street": "Via Bernardino Luini",
+    "number": "29",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9983163,
+    "longitude": 8.7479108
+  },
+  {
+    "street": "Via Voldomino",
+    "number": "33",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9951676,
+    "longitude": 8.7425838
+  },
+  {
+    "street": "Via Creva",
+    "number": "29b",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9961112,
+    "longitude": 8.7541048
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "79",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 45.9947369,
+    "longitude": 8.7335901
+  },
+  {
+    "street": "Piazza Risorgimento",
+    "number": "2",
+    "city": {
+      "name": "Luino",
+      "istat": "012092"
+    },
+    "latitude": 46.0002763,
+    "longitude": 8.7434872
+  }
+]

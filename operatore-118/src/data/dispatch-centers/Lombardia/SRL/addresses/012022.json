@@ -1,0 +1,42 @@
+[
+  {
+    "street": "Via Bernardino Luini",
+    "number": "6",
+    "city": {
+      "name": "Brissago-Valtravaglia",
+      "istat": "012022"
+    },
+    "latitude": 45.9498367,
+    "longitude": 8.7466508
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "47",
+    "city": {
+      "name": "Brissago-Valtravaglia",
+      "istat": "012022"
+    },
+    "latitude": 45.9668251,
+    "longitude": 8.7505156
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "15",
+    "city": {
+      "name": "Brissago-Valtravaglia",
+      "istat": "012022"
+    },
+    "latitude": 45.9495883,
+    "longitude": 8.7482185
+  },
+  {
+    "street": "Via Gaggio",
+    "number": "23",
+    "city": {
+      "name": "Brissago-Valtravaglia",
+      "istat": "012022"
+    },
+    "latitude": 45.9638169,
+    "longitude": 8.7368148
+  }
+]

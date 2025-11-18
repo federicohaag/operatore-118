@@ -1,0 +1,52 @@
+[
+  {
+    "street": "Via Antonio Besana",
+    "number": "67",
+    "city": {
+      "name": "Moltrasio",
+      "istat": "013152"
+    },
+    "latitude": 45.8613338,
+    "longitude": 9.0989471
+  },
+  {
+    "street": "Via Ranzato",
+    "number": "1",
+    "city": {
+      "name": "Moltrasio",
+      "istat": "013152"
+    },
+    "latitude": 45.8501545,
+    "longitude": 9.0889915
+  },
+  {
+    "street": "Fratelli Recchi",
+    "number": "8/A",
+    "city": {
+      "name": "Moltrasio",
+      "istat": "013152"
+    },
+    "latitude": 45.8620095,
+    "longitude": 9.0997255
+  },
+  {
+    "street": "Via Regina",
+    "number": "24",
+    "city": {
+      "name": "Moltrasio",
+      "istat": "013152"
+    },
+    "latitude": 45.8605614,
+    "longitude": 9.100929
+  },
+  {
+    "street": "Via per Tosnacco",
+    "number": "5",
+    "city": {
+      "name": "Moltrasio",
+      "istat": "013152"
+    },
+    "latitude": 45.8640248,
+    "longitude": 9.1035157
+  }
+]

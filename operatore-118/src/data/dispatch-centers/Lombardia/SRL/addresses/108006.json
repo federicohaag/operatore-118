@@ -1,0 +1,342 @@
+[
+  {
+    "street": "Via Circonvallazione",
+    "number": "26",
+    "city": {
+      "name": "Bellusco",
+      "istat": "108006"
+    },
+    "latitude": 45.613129,
+    "longitude": 9.414779
+  },
+  {
+    "street": "Piazza Fratelli Kennedy",
+    "number": "7",
+    "city": {
+      "name": "Bellusco",
+      "istat": "108006"
+    },
+    "latitude": 45.6184101,
+    "longitude": 9.4185824
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "2",
+    "city": {
+      "name": "Bellusco",
+      "istat": "108006"
+    },
+    "latitude": 45.619244,
+    "longitude": 9.4202871
+  },
+  {
+    "street": "Corso Alpi",
+    "number": "23",
+    "city": {
+      "name": "Bellusco",
+      "istat": "108006"
+    },
+    "latitude": 45.6230449,
+    "longitude": 9.4198028
+  },
+  {
+    "street": "Via Liguria",
+    "number": "2",
+    "city": {
+      "name": "Bellusco",
+      "istat": "108006"
+    },
+    "latitude": 45.6135639,
+    "longitude": 9.415001
+  },
+  {
+    "street": "Viale Brianza",
+    "number": "2",
+    "city": {
+      "name": "Bellusco",
+      "istat": "108006"
+    },
+    "latitude": 45.614619,
+    "longitude": 9.4117105
+  },
+  {
+    "street": "Via Circonvallazione",
+    "number": "47",
+    "city": {
+      "name": "Bellusco",
+      "istat": "108006"
+    },
+    "latitude": 45.6141892,
+    "longitude": 9.4099797
+  },
+  {
+    "street": "Via Ornago",
+    "number": "22",
+    "city": {
+      "name": "Bellusco",
+      "istat": "108006"
+    },
+    "latitude": 45.6114376,
+    "longitude": 9.4185526
+  },
+  {
+    "street": "Via Circonvallazione",
+    "number": "70",
+    "city": {
+      "name": "Bellusco",
+      "istat": "108006"
+    },
+    "latitude": 45.6147555,
+    "longitude": 9.4036919
+  },
+  {
+    "street": "Via Castello",
+    "number": "16",
+    "city": {
+      "name": "Bellusco",
+      "istat": "108006"
+    },
+    "latitude": 45.6170598,
+    "longitude": 9.4168239
+  },
+  {
+    "street": "Via Castello",
+    "number": "20",
+    "city": {
+      "name": "Bellusco",
+      "istat": "108006"
+    },
+    "latitude": 45.6171862,
+    "longitude": 9.4165813
+  },
+  {
+    "street": "Via Castello",
+    "number": "24",
+    "city": {
+      "name": "Bellusco",
+      "istat": "108006"
+    },
+    "latitude": 45.6172047,
+    "longitude": 9.4161671
+  },
+  {
+    "street": "Via Castello",
+    "number": "22",
+    "city": {
+      "name": "Bellusco",
+      "istat": "108006"
+    },
+    "latitude": 45.6171947,
+    "longitude": 9.4162403
+  },
+  {
+    "street": "Via Castello",
+    "number": "18",
+    "city": {
+      "name": "Bellusco",
+      "istat": "108006"
+    },
+    "latitude": 45.6171036,
+    "longitude": 9.4167142
+  },
+  {
+    "street": "Via Castello",
+    "number": "11",
+    "city": {
+      "name": "Bellusco",
+      "istat": "108006"
+    },
+    "latitude": 45.6166063,
+    "longitude": 9.4169483
+  },
+  {
+    "street": "Via Castello",
+    "number": "8",
+    "city": {
+      "name": "Bellusco",
+      "istat": "108006"
+    },
+    "latitude": 45.6170797,
+    "longitude": 9.4171045
+  },
+  {
+    "street": "Via Castello",
+    "number": "12",
+    "city": {
+      "name": "Bellusco",
+      "istat": "108006"
+    },
+    "latitude": 45.6170589,
+    "longitude": 9.4169942
+  },
+  {
+    "street": "Via Castello",
+    "number": "26",
+    "city": {
+      "name": "Bellusco",
+      "istat": "108006"
+    },
+    "latitude": 45.617211,
+    "longitude": 9.4160779
+  },
+  {
+    "street": "Via Castello",
+    "number": "14",
+    "city": {
+      "name": "Bellusco",
+      "istat": "108006"
+    },
+    "latitude": 45.6170637,
+    "longitude": 9.4169192
+  },
+  {
+    "street": "Via San Giuseppe",
+    "number": "61",
+    "city": {
+      "name": "Bellusco",
+      "istat": "108006"
+    },
+    "latitude": 45.6063915,
+    "longitude": 9.4247051
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "28",
+    "city": {
+      "name": "Bellusco",
+      "istat": "108006"
+    },
+    "latitude": 45.6220061,
+    "longitude": 9.4181372
+  },
+  {
+    "street": "Piazza Fratelli Kennedy",
+    "number": "1",
+    "city": {
+      "name": "Bellusco",
+      "istat": "108006"
+    },
+    "latitude": 45.6185545,
+    "longitude": 9.4177984
+  },
+  {
+    "street": "Via Roma",
+    "number": "12",
+    "city": {
+      "name": "Bellusco",
+      "istat": "108006"
+    },
+    "latitude": 45.6180097,
+    "longitude": 9.42028
+  },
+  {
+    "street": "Via Giovanni Pascoli",
+    "number": "9",
+    "city": {
+      "name": "Bellusco",
+      "istat": "108006"
+    },
+    "latitude": 45.6180394,
+    "longitude": 9.4221963
+  },
+  {
+    "street": "Via Roma",
+    "number": "34a",
+    "city": {
+      "name": "Bellusco",
+      "istat": "108006"
+    },
+    "latitude": 45.6215862,
+    "longitude": 9.4202185
+  },
+  {
+    "street": "Via Roma",
+    "number": "34",
+    "city": {
+      "name": "Bellusco",
+      "istat": "108006"
+    },
+    "latitude": 45.6214051,
+    "longitude": 9.4202185
+  },
+  {
+    "street": "Via dell'Industria",
+    "number": "1",
+    "city": {
+      "name": "Bellusco",
+      "istat": "108006"
+    },
+    "latitude": 45.6154332,
+    "longitude": 9.4428964
+  },
+  {
+    "street": "Via Adda",
+    "number": "18",
+    "city": {
+      "name": "Bellusco",
+      "istat": "108006"
+    },
+    "latitude": 45.6144369,
+    "longitude": 9.4348555
+  },
+  {
+    "street": "Via del Borgo",
+    "number": "6",
+    "city": {
+      "name": "Bellusco",
+      "istat": "108006"
+    },
+    "latitude": 45.6100333,
+    "longitude": 9.429173
+  },
+  {
+    "street": "Via Ornago",
+    "number": "26",
+    "city": {
+      "name": "Bellusco",
+      "istat": "108006"
+    },
+    "latitude": 45.6104728,
+    "longitude": 9.4180017
+  },
+  {
+    "street": "Via Circonvallazione",
+    "number": "18",
+    "city": {
+      "name": "Bellusco",
+      "istat": "108006"
+    },
+    "latitude": 45.612809,
+    "longitude": 9.4203509
+  },
+  {
+    "street": "Via Brianza",
+    "number": "2",
+    "city": {
+      "name": "Bellusco",
+      "istat": "108006"
+    },
+    "latitude": 45.6142775,
+    "longitude": 9.4119067
+  },
+  {
+    "street": "Via Liguria",
+    "number": "3",
+    "city": {
+      "name": "Bellusco",
+      "istat": "108006"
+    },
+    "latitude": 45.6138347,
+    "longitude": 9.414032
+  },
+  {
+    "street": "Via Dolomiti",
+    "number": "16",
+    "city": {
+      "name": "Bellusco",
+      "istat": "108006"
+    },
+    "latitude": 45.6173173,
+    "longitude": 9.430675
+  }
+]

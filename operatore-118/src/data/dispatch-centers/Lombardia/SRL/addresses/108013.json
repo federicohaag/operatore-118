@@ -1,0 +1,302 @@
+[
+  {
+    "street": "Via Alessandro Volta",
+    "number": "35",
+    "city": {
+      "name": "Burago di Molgora",
+      "istat": "108013"
+    },
+    "latitude": 45.5884127,
+    "longitude": 9.3823183
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "37",
+    "city": {
+      "name": "Burago di Molgora",
+      "istat": "108013"
+    },
+    "latitude": 45.5883167,
+    "longitude": 9.3824313
+  },
+  {
+    "street": "Largo Enrico Toti",
+    "number": "2",
+    "city": {
+      "name": "Burago di Molgora",
+      "istat": "108013"
+    },
+    "latitude": 45.5970264,
+    "longitude": 9.382962
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "7",
+    "city": {
+      "name": "Burago di Molgora",
+      "istat": "108013"
+    },
+    "latitude": 45.5970246,
+    "longitude": 9.3779114
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "4b",
+    "city": {
+      "name": "Burago di Molgora",
+      "istat": "108013"
+    },
+    "latitude": 45.5934688,
+    "longitude": 9.3869581
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "42a",
+    "city": {
+      "name": "Burago di Molgora",
+      "istat": "108013"
+    },
+    "latitude": 45.5946104,
+    "longitude": 9.3772577
+  },
+  {
+    "street": "Viale dell'Industria",
+    "number": "3",
+    "city": {
+      "name": "Burago di Molgora",
+      "istat": "108013"
+    },
+    "latitude": 45.5924576,
+    "longitude": 9.3731723
+  },
+  {
+    "street": "Viale dell'Industria",
+    "number": "5",
+    "city": {
+      "name": "Burago di Molgora",
+      "istat": "108013"
+    },
+    "latitude": 45.5918313,
+    "longitude": 9.3730751
+  },
+  {
+    "street": "Viale dell'Industria",
+    "number": "9",
+    "city": {
+      "name": "Burago di Molgora",
+      "istat": "108013"
+    },
+    "latitude": 45.5914054,
+    "longitude": 9.3730028
+  },
+  {
+    "street": "Viale dell'Industria",
+    "number": "7",
+    "city": {
+      "name": "Burago di Molgora",
+      "istat": "108013"
+    },
+    "latitude": 45.5914821,
+    "longitude": 9.3730225
+  },
+  {
+    "street": "Viale dell'Industria",
+    "number": "15",
+    "city": {
+      "name": "Burago di Molgora",
+      "istat": "108013"
+    },
+    "latitude": 45.5911031,
+    "longitude": 9.3729176
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "23",
+    "city": {
+      "name": "Burago di Molgora",
+      "istat": "108013"
+    },
+    "latitude": 45.5919559,
+    "longitude": 9.3879935
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "25",
+    "city": {
+      "name": "Burago di Molgora",
+      "istat": "108013"
+    },
+    "latitude": 45.591849,
+    "longitude": 9.3880187
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "6",
+    "city": {
+      "name": "Burago di Molgora",
+      "istat": "108013"
+    },
+    "latitude": 45.5934097,
+    "longitude": 9.3872043
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "3",
+    "city": {
+      "name": "Burago di Molgora",
+      "istat": "108013"
+    },
+    "latitude": 45.5935971,
+    "longitude": 9.385975
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "1b",
+    "city": {
+      "name": "Burago di Molgora",
+      "istat": "108013"
+    },
+    "latitude": 45.5935959,
+    "longitude": 9.3857792
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "4",
+    "city": {
+      "name": "Burago di Molgora",
+      "istat": "108013"
+    },
+    "latitude": 45.5934577,
+    "longitude": 9.3860057
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "1c",
+    "city": {
+      "name": "Burago di Molgora",
+      "istat": "108013"
+    },
+    "latitude": 45.5935879,
+    "longitude": 9.3858278
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "4a",
+    "city": {
+      "name": "Burago di Molgora",
+      "istat": "108013"
+    },
+    "latitude": 45.5934648,
+    "longitude": 9.3860891
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "42",
+    "city": {
+      "name": "Burago di Molgora",
+      "istat": "108013"
+    },
+    "latitude": 45.5951244,
+    "longitude": 9.3770921
+  },
+  {
+    "street": "Via Fratelli Cervi",
+    "number": "2",
+    "city": {
+      "name": "Burago di Molgora",
+      "istat": "108013"
+    },
+    "latitude": 45.5994182,
+    "longitude": 9.3768914
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "24",
+    "city": {
+      "name": "Burago di Molgora",
+      "istat": "108013"
+    },
+    "latitude": 45.5960973,
+    "longitude": 9.37716
+  },
+  {
+    "street": "Via A. Gramsci",
+    "number": "16",
+    "city": {
+      "name": "Burago di Molgora",
+      "istat": "108013"
+    },
+    "latitude": 45.5965561,
+    "longitude": 9.3774047
+  },
+  {
+    "street": "Piazza Don Decio",
+    "number": "1",
+    "city": {
+      "name": "Burago di Molgora",
+      "istat": "108013"
+    },
+    "latitude": 45.596493,
+    "longitude": 9.3775541
+  },
+  {
+    "street": "Piazza Giacomo Matteotti",
+    "number": "12",
+    "city": {
+      "name": "Burago di Molgora",
+      "istat": "108013"
+    },
+    "latitude": 45.5955135,
+    "longitude": 9.3792585
+  },
+  {
+    "street": "Strada Provinciale per Ornago",
+    "number": "11",
+    "city": {
+      "name": "Burago di Molgora",
+      "istat": "108013"
+    },
+    "latitude": 45.5975772,
+    "longitude": 9.3946783
+  },
+  {
+    "street": "Via dell'Industria",
+    "number": "3/a",
+    "city": {
+      "name": "Burago di Molgora",
+      "istat": "108013"
+    },
+    "latitude": 45.5938364,
+    "longitude": 9.3739115
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "15",
+    "city": {
+      "name": "Burago di Molgora",
+      "istat": "108013"
+    },
+    "latitude": 45.592815,
+    "longitude": 9.3889637
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "44",
+    "city": {
+      "name": "Burago di Molgora",
+      "istat": "108013"
+    },
+    "latitude": 45.5947219,
+    "longitude": 9.3772233
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "46",
+    "city": {
+      "name": "Burago di Molgora",
+      "istat": "108013"
+    },
+    "latitude": 45.5945077,
+    "longitude": 9.3778906
+  }
+]

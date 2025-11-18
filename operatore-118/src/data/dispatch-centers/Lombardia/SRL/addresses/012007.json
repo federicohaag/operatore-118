@@ -1,0 +1,542 @@
+[
+  {
+    "street": "Viale Luigi Cadorna",
+    "number": "1",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8838912,
+    "longitude": 8.7104972
+  },
+  {
+    "street": "Viale Luigi Cadorna",
+    "number": "4",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8855083,
+    "longitude": 8.7083543
+  },
+  {
+    "street": "Via Biasini",
+    "number": "13",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8862406,
+    "longitude": 8.7100486
+  },
+  {
+    "street": "Via Roma",
+    "number": "1",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8854124,
+    "longitude": 8.7090294
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "11B",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8846201,
+    "longitude": 8.7040961
+  },
+  {
+    "street": "Via privata Papa Giovanni XXIII",
+    "number": "11a",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8843906,
+    "longitude": 8.704344
+  },
+  {
+    "street": "Via privata Papa Giovanni XXIII",
+    "number": "9",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8844704,
+    "longitude": 8.7045691
+  },
+  {
+    "street": "Via delle Rimemranze",
+    "number": "3",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8848106,
+    "longitude": 8.7023367
+  },
+  {
+    "street": "Via delle Rimemranze",
+    "number": "5",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8849744,
+    "longitude": 8.7025763
+  },
+  {
+    "street": "Via delle Rimemranze",
+    "number": "7",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8847868,
+    "longitude": 8.7026745
+  },
+  {
+    "street": "Via delle Rimemranze",
+    "number": "1",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8847292,
+    "longitude": 8.7014925
+  },
+  {
+    "street": "Via Camillo Benso conte di Cavour",
+    "number": "1",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.885272,
+    "longitude": 8.7096906
+  },
+  {
+    "street": "Via Camillo Benso conte di Cavour",
+    "number": "2",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8852061,
+    "longitude": 8.7099839
+  },
+  {
+    "street": "Via Camillo Benso conte di Cavour",
+    "number": "3",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8855344,
+    "longitude": 8.7108182
+  },
+  {
+    "street": "Via Camillo Benso conte di Cavour",
+    "number": "4",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8853391,
+    "longitude": 8.7106499
+  },
+  {
+    "street": "Vicolo della Chiesa",
+    "number": "1",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8850329,
+    "longitude": 8.7099177
+  },
+  {
+    "street": "Vicolo Porro",
+    "number": "1",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8852618,
+    "longitude": 8.710736
+  },
+  {
+    "street": "Vicolo Porro",
+    "number": "2",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8852055,
+    "longitude": 8.7105533
+  },
+  {
+    "street": "Via Camillo Benso conte di Cavour",
+    "number": "5",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.885462,
+    "longitude": 8.7109546
+  },
+  {
+    "street": "Vicolo Litta",
+    "number": "2",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8852116,
+    "longitude": 8.7110702
+  },
+  {
+    "street": "Vicolo Litta",
+    "number": "1",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.885309,
+    "longitude": 8.7112636
+  },
+  {
+    "street": "Vicolo Litta",
+    "number": "3",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8850258,
+    "longitude": 8.7113123
+  },
+  {
+    "street": "Vicolo Litta",
+    "number": "4",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8848794,
+    "longitude": 8.7113565
+  },
+  {
+    "street": "Via Camillo Benso conte di Cavour",
+    "number": "6",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8852998,
+    "longitude": 8.7116346
+  },
+  {
+    "street": "Vicolo Stella",
+    "number": "4",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8854486,
+    "longitude": 8.7114813
+  },
+  {
+    "street": "Via Stella",
+    "number": "17",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8856307,
+    "longitude": 8.7119178
+  },
+  {
+    "street": "Via Stella",
+    "number": "15",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8856854,
+    "longitude": 8.7119378
+  },
+  {
+    "street": "Via Stella",
+    "number": "13",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8857465,
+    "longitude": 8.7118746
+  },
+  {
+    "street": "Via Stella",
+    "number": "11",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8857583,
+    "longitude": 8.711776
+  },
+  {
+    "street": "Via Stella",
+    "number": "18",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8856411,
+    "longitude": 8.7118087
+  },
+  {
+    "street": "Via Stella",
+    "number": "16",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8856687,
+    "longitude": 8.711717
+  },
+  {
+    "street": "Via Stella",
+    "number": "14",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.885726,
+    "longitude": 8.7116544
+  },
+  {
+    "street": "Via Stella",
+    "number": "9",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8857712,
+    "longitude": 8.7116873
+  },
+  {
+    "street": "Via Stella",
+    "number": "12",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8857569,
+    "longitude": 8.7115605
+  },
+  {
+    "street": "Via Stella",
+    "number": "10",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8857876,
+    "longitude": 8.7114508
+  },
+  {
+    "street": "Via Stella",
+    "number": "8",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8858114,
+    "longitude": 8.7113626
+  },
+  {
+    "street": "Via Stella",
+    "number": "5",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8859055,
+    "longitude": 8.7114194
+  },
+  {
+    "street": "Via Stella",
+    "number": "3",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8859949,
+    "longitude": 8.7113597
+  },
+  {
+    "street": "Via Stella",
+    "number": "1",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8860174,
+    "longitude": 8.7112519
+  },
+  {
+    "street": "Via Stella",
+    "number": "4",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8859137,
+    "longitude": 8.7109904
+  },
+  {
+    "street": "Via Stella",
+    "number": "2",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8859031,
+    "longitude": 8.7107444
+  },
+  {
+    "street": "Via Roma",
+    "number": "2",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8854264,
+    "longitude": 8.7091861
+  },
+  {
+    "street": "Via Roma",
+    "number": "3",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8856544,
+    "longitude": 8.7091637
+  },
+  {
+    "street": "Via Roma",
+    "number": "5",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8856215,
+    "longitude": 8.7094554
+  },
+  {
+    "street": "Via Biasini",
+    "number": "4",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8857574,
+    "longitude": 8.7099292
+  },
+  {
+    "street": "Vicolo Barbieri",
+    "number": "6",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8860515,
+    "longitude": 8.7101685
+  },
+  {
+    "street": "Via Biasini",
+    "number": "2",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8858818,
+    "longitude": 8.7100541
+  },
+  {
+    "street": "Via Biasini",
+    "number": "3",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8857162,
+    "longitude": 8.7096332
+  },
+  {
+    "street": "Vicolo Vincenti",
+    "number": "1",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8862619,
+    "longitude": 8.7102978
+  },
+  {
+    "street": "Vicolo Vincenti",
+    "number": "3",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8863853,
+    "longitude": 8.7104108
+  },
+  {
+    "street": "Vicolo Vincenti",
+    "number": "5",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8864676,
+    "longitude": 8.7107064
+  },
+  {
+    "street": "Vicolo Vincenti",
+    "number": "2",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8862631,
+    "longitude": 8.7104334
+  },
+  {
+    "street": "Vicolo Vincenti",
+    "number": "4",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8863514,
+    "longitude": 8.7105516
+  },
+  {
+    "street": "Via Biasini",
+    "number": "5",
+    "city": {
+      "name": "Azzio",
+      "istat": "012007"
+    },
+    "latitude": 45.8856947,
+    "longitude": 8.7096059
+  }
+]

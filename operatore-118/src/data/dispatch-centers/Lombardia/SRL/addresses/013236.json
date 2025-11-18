@@ -1,0 +1,22 @@
+[
+  {
+    "street": "Gorla",
+    "number": "8",
+    "city": {
+      "name": "Veleso",
+      "istat": "013236"
+    },
+    "latitude": 45.9078932,
+    "longitude": 9.1725807
+  },
+  {
+    "street": "Via Zerboni",
+    "number": "6",
+    "city": {
+      "name": "Veleso",
+      "istat": "013236"
+    },
+    "latitude": 45.9099705,
+    "longitude": 9.1792191
+  }
+]

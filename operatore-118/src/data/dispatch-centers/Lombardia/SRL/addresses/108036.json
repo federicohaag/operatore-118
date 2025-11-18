@@ -1,0 +1,252 @@
+[
+  {
+    "street": "Via Giovanni Falcone",
+    "number": "16",
+    "city": {
+      "name": "Ornago",
+      "istat": "108036"
+    },
+    "latitude": 45.5980076,
+    "longitude": 9.4159765
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "10",
+    "city": {
+      "name": "Ornago",
+      "istat": "108036"
+    },
+    "latitude": 45.6003691,
+    "longitude": 9.4216011
+  },
+  {
+    "street": "Via Santuario",
+    "number": "6",
+    "city": {
+      "name": "Ornago",
+      "istat": "108036"
+    },
+    "latitude": 45.5982923,
+    "longitude": 9.422033
+  },
+  {
+    "street": "Via Roma",
+    "number": "13",
+    "city": {
+      "name": "Ornago",
+      "istat": "108036"
+    },
+    "latitude": 45.5988334,
+    "longitude": 9.4188947
+  },
+  {
+    "street": "Via Roncello",
+    "number": "2",
+    "city": {
+      "name": "Ornago",
+      "istat": "108036"
+    },
+    "latitude": 45.5986231,
+    "longitude": 9.4341178
+  },
+  {
+    "street": "Via Giulio Banfi",
+    "number": "6",
+    "city": {
+      "name": "Ornago",
+      "istat": "108036"
+    },
+    "latitude": 45.5934498,
+    "longitude": 9.4319234
+  },
+  {
+    "street": "Via Libero Grassi",
+    "number": "17",
+    "city": {
+      "name": "Ornago",
+      "istat": "108036"
+    },
+    "latitude": 45.6049297,
+    "longitude": 9.4096372
+  },
+  {
+    "street": "Via Libero Grassi",
+    "number": "15",
+    "city": {
+      "name": "Ornago",
+      "istat": "108036"
+    },
+    "latitude": 45.6049286,
+    "longitude": 9.4094662
+  },
+  {
+    "street": "Via Libero Grassi",
+    "number": "13",
+    "city": {
+      "name": "Ornago",
+      "istat": "108036"
+    },
+    "latitude": 45.6049281,
+    "longitude": 9.4094206
+  },
+  {
+    "street": "Via Libero Grassi",
+    "number": "11a",
+    "city": {
+      "name": "Ornago",
+      "istat": "108036"
+    },
+    "latitude": 45.6049267,
+    "longitude": 9.4092865
+  },
+  {
+    "street": "Via Libero Grassi",
+    "number": "11",
+    "city": {
+      "name": "Ornago",
+      "istat": "108036"
+    },
+    "latitude": 45.6049252,
+    "longitude": 9.409143
+  },
+  {
+    "street": "Via Libero Grassi",
+    "number": "19",
+    "city": {
+      "name": "Ornago",
+      "istat": "108036"
+    },
+    "latitude": 45.6051117,
+    "longitude": 9.4098075
+  },
+  {
+    "street": "Via Libero Grassi",
+    "number": "9",
+    "city": {
+      "name": "Ornago",
+      "istat": "108036"
+    },
+    "latitude": 45.6046839,
+    "longitude": 9.4091624
+  },
+  {
+    "street": "Via Libero Grassi",
+    "number": "7",
+    "city": {
+      "name": "Ornago",
+      "istat": "108036"
+    },
+    "latitude": 45.6046989,
+    "longitude": 9.4094735
+  },
+  {
+    "street": "Via Libero Grassi",
+    "number": "5",
+    "city": {
+      "name": "Ornago",
+      "istat": "108036"
+    },
+    "latitude": 45.6046989,
+    "longitude": 9.4097927
+  },
+  {
+    "street": "Via Libero Grassi",
+    "number": "6",
+    "city": {
+      "name": "Ornago",
+      "istat": "108036"
+    },
+    "latitude": 45.6043968,
+    "longitude": 9.4101655
+  },
+  {
+    "street": "Via Libero Grassi",
+    "number": "6a",
+    "city": {
+      "name": "Ornago",
+      "istat": "108036"
+    },
+    "latitude": 45.6046483,
+    "longitude": 9.4101629
+  },
+  {
+    "street": "Via Libero Grassi",
+    "number": "6b",
+    "city": {
+      "name": "Ornago",
+      "istat": "108036"
+    },
+    "latitude": 45.6047214,
+    "longitude": 9.4104364
+  },
+  {
+    "street": "Via Libero Grassi",
+    "number": "12",
+    "city": {
+      "name": "Ornago",
+      "istat": "108036"
+    },
+    "latitude": 45.604924,
+    "longitude": 9.4102995
+  },
+  {
+    "street": "Via Libero Grassi",
+    "number": "14",
+    "city": {
+      "name": "Ornago",
+      "istat": "108036"
+    },
+    "latitude": 45.6051606,
+    "longitude": 9.4101137
+  },
+  {
+    "street": "Via Carlo Porta",
+    "number": "2",
+    "city": {
+      "name": "Ornago",
+      "istat": "108036"
+    },
+    "latitude": 45.5997698,
+    "longitude": 9.424526
+  },
+  {
+    "street": "Strada Provinciale per Ornago",
+    "number": "11",
+    "city": {
+      "name": "Ornago",
+      "istat": "108036"
+    },
+    "latitude": 45.5975772,
+    "longitude": 9.3946783
+  },
+  {
+    "street": "Via Giulio Banfi",
+    "number": "4",
+    "city": {
+      "name": "Ornago",
+      "istat": "108036"
+    },
+    "latitude": 45.5944671,
+    "longitude": 9.4292908
+  },
+  {
+    "street": "Via Carlo Porta",
+    "number": "4",
+    "city": {
+      "name": "Ornago",
+      "istat": "108036"
+    },
+    "latitude": 45.5996566,
+    "longitude": 9.4251846
+  },
+  {
+    "street": "Via Carlo Porta",
+    "number": "6",
+    "city": {
+      "name": "Ornago",
+      "istat": "108036"
+    },
+    "latitude": 45.6004436,
+    "longitude": 9.4251872
+  }
+]

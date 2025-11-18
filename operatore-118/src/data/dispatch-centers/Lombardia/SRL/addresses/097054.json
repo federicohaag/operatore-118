@@ -1,0 +1,412 @@
+[
+  {
+    "street": "Via Provinciale",
+    "number": "39",
+    "city": {
+      "name": "Monticello Brianza",
+      "istat": "097054"
+    },
+    "latitude": 45.7154006,
+    "longitude": 9.3181033
+  },
+  {
+    "street": "Via Virginia Besozzi",
+    "number": "11",
+    "city": {
+      "name": "Monticello Brianza",
+      "istat": "097054"
+    },
+    "latitude": 45.7086609,
+    "longitude": 9.3205128
+  },
+  {
+    "street": "Via Virginia Besozzi",
+    "number": "2",
+    "city": {
+      "name": "Monticello Brianza",
+      "istat": "097054"
+    },
+    "latitude": 45.7077962,
+    "longitude": 9.3190872
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "42",
+    "city": {
+      "name": "Monticello Brianza",
+      "istat": "097054"
+    },
+    "latitude": 45.7185774,
+    "longitude": 9.3179053
+  },
+  {
+    "street": "Via Giuseppe Sirtori",
+    "number": "17",
+    "city": {
+      "name": "Monticello Brianza",
+      "istat": "097054"
+    },
+    "latitude": 45.7084653,
+    "longitude": 9.3132315
+  },
+  {
+    "street": "Via Generale Giuseppe Sirtori",
+    "number": "15",
+    "city": {
+      "name": "Monticello Brianza",
+      "istat": "097054"
+    },
+    "latitude": 45.7069183,
+    "longitude": 9.3121464
+  },
+  {
+    "street": "Via Virginia Besozzi",
+    "number": "1",
+    "city": {
+      "name": "Monticello Brianza",
+      "istat": "097054"
+    },
+    "latitude": 45.7084849,
+    "longitude": 9.316087
+  },
+  {
+    "street": "Via Immacolata",
+    "number": "7",
+    "city": {
+      "name": "Monticello Brianza",
+      "istat": "097054"
+    },
+    "latitude": 45.7154403,
+    "longitude": 9.294611
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "57",
+    "city": {
+      "name": "Monticello Brianza",
+      "istat": "097054"
+    },
+    "latitude": 45.719102,
+    "longitude": 9.3173499
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "67",
+    "city": {
+      "name": "Monticello Brianza",
+      "istat": "097054"
+    },
+    "latitude": 45.7219165,
+    "longitude": 9.3163167
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "69",
+    "city": {
+      "name": "Monticello Brianza",
+      "istat": "097054"
+    },
+    "latitude": 45.7218592,
+    "longitude": 9.3159546
+  },
+  {
+    "street": "Via Canova",
+    "number": "4a",
+    "city": {
+      "name": "Monticello Brianza",
+      "istat": "097054"
+    },
+    "latitude": 45.7118335,
+    "longitude": 9.3034637
+  },
+  {
+    "street": "Via Vincenzo Foppa",
+    "number": "1",
+    "city": {
+      "name": "Monticello Brianza",
+      "istat": "097054"
+    },
+    "latitude": 45.7011294,
+    "longitude": 9.3213008
+  },
+  {
+    "street": "Via Vincenzo Foppa",
+    "number": "5",
+    "city": {
+      "name": "Monticello Brianza",
+      "istat": "097054"
+    },
+    "latitude": 45.7020611,
+    "longitude": 9.322688
+  },
+  {
+    "street": "Via Vincenzo Foppa",
+    "number": "3",
+    "city": {
+      "name": "Monticello Brianza",
+      "istat": "097054"
+    },
+    "latitude": 45.7015727,
+    "longitude": 9.3219134
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "10",
+    "city": {
+      "name": "Monticello Brianza",
+      "istat": "097054"
+    },
+    "latitude": 45.7044317,
+    "longitude": 9.3076844
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "8",
+    "city": {
+      "name": "Monticello Brianza",
+      "istat": "097054"
+    },
+    "latitude": 45.704702,
+    "longitude": 9.3083141
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "6",
+    "city": {
+      "name": "Monticello Brianza",
+      "istat": "097054"
+    },
+    "latitude": 45.7047886,
+    "longitude": 9.3085509
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "4",
+    "city": {
+      "name": "Monticello Brianza",
+      "istat": "097054"
+    },
+    "latitude": 45.7048854,
+    "longitude": 9.3087444
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "2",
+    "city": {
+      "name": "Monticello Brianza",
+      "istat": "097054"
+    },
+    "latitude": 45.705075,
+    "longitude": 9.3090831
+  },
+  {
+    "street": "Via Roma",
+    "number": "12",
+    "city": {
+      "name": "Monticello Brianza",
+      "istat": "097054"
+    },
+    "latitude": 45.7044768,
+    "longitude": 9.3094353
+  },
+  {
+    "street": "Via Roma",
+    "number": "10",
+    "city": {
+      "name": "Monticello Brianza",
+      "istat": "097054"
+    },
+    "latitude": 45.7046782,
+    "longitude": 9.3093243
+  },
+  {
+    "street": "Via Roma",
+    "number": "8",
+    "city": {
+      "name": "Monticello Brianza",
+      "istat": "097054"
+    },
+    "latitude": 45.704752,
+    "longitude": 9.3092994
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "9",
+    "city": {
+      "name": "Monticello Brianza",
+      "istat": "097054"
+    },
+    "latitude": 45.7040407,
+    "longitude": 9.3092965
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "5",
+    "city": {
+      "name": "Monticello Brianza",
+      "istat": "097054"
+    },
+    "latitude": 45.7044315,
+    "longitude": 9.3087184
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "7",
+    "city": {
+      "name": "Monticello Brianza",
+      "istat": "097054"
+    },
+    "latitude": 45.703997,
+    "longitude": 9.3091585
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "14",
+    "city": {
+      "name": "Monticello Brianza",
+      "istat": "097054"
+    },
+    "latitude": 45.7039543,
+    "longitude": 9.3079235
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "12",
+    "city": {
+      "name": "Monticello Brianza",
+      "istat": "097054"
+    },
+    "latitude": 45.7040934,
+    "longitude": 9.3077278
+  },
+  {
+    "street": "Via Teodoro Moneta",
+    "number": "17",
+    "city": {
+      "name": "Monticello Brianza",
+      "istat": "097054"
+    },
+    "latitude": 45.7146204,
+    "longitude": 9.2959655
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "40",
+    "city": {
+      "name": "Monticello Brianza",
+      "istat": "097054"
+    },
+    "latitude": 45.7185047,
+    "longitude": 9.3179566
+  },
+  {
+    "street": "Via Canova",
+    "number": "7",
+    "city": {
+      "name": "Monticello Brianza",
+      "istat": "097054"
+    },
+    "latitude": 45.7112603,
+    "longitude": 9.3053932
+  },
+  {
+    "street": "Via San Michele",
+    "number": "1",
+    "city": {
+      "name": "Monticello Brianza",
+      "istat": "097054"
+    },
+    "latitude": 45.7164396,
+    "longitude": 9.2994394
+  },
+  {
+    "street": "Via San Michele",
+    "number": "24",
+    "city": {
+      "name": "Monticello Brianza",
+      "istat": "097054"
+    },
+    "latitude": 45.716072,
+    "longitude": 9.2965868
+  },
+  {
+    "street": "Via Teodoro Moneta",
+    "number": "2",
+    "city": {
+      "name": "Monticello Brianza",
+      "istat": "097054"
+    },
+    "latitude": 45.715477,
+    "longitude": 9.2947581
+  },
+  {
+    "street": "Via Luciano Manara",
+    "number": "26",
+    "city": {
+      "name": "Monticello Brianza",
+      "istat": "097054"
+    },
+    "latitude": 45.7248343,
+    "longitude": 9.3017777
+  },
+  {
+    "street": "Via Donatello",
+    "number": "5",
+    "city": {
+      "name": "Monticello Brianza",
+      "istat": "097054"
+    },
+    "latitude": 45.7127469,
+    "longitude": 9.3084804
+  },
+  {
+    "street": "Via Gaetano Casati",
+    "number": "2",
+    "city": {
+      "name": "Monticello Brianza",
+      "istat": "097054"
+    },
+    "latitude": 45.7147241,
+    "longitude": 9.3197927
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "33",
+    "city": {
+      "name": "Monticello Brianza",
+      "istat": "097054"
+    },
+    "latitude": 45.7149291,
+    "longitude": 9.3181407
+  },
+  {
+    "street": "Via San Michele",
+    "number": "16d",
+    "city": {
+      "name": "Monticello Brianza",
+      "istat": "097054"
+    },
+    "latitude": 45.7172067,
+    "longitude": 9.2961088
+  },
+  {
+    "street": "Via dei Mille",
+    "number": "27",
+    "city": {
+      "name": "Monticello Brianza",
+      "istat": "097054"
+    },
+    "latitude": 45.7031382,
+    "longitude": 9.3070417
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "21",
+    "city": {
+      "name": "Monticello Brianza",
+      "istat": "097054"
+    },
+    "latitude": 45.7049847,
+    "longitude": 9.3069655
+  }
+]

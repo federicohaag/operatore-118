@@ -1,0 +1,272 @@
+[
+  {
+    "street": "Via del Peschierone",
+    "number": "1",
+    "city": {
+      "name": "Sirtori",
+      "istat": "097076"
+    },
+    "latitude": 45.7296588,
+    "longitude": 9.3414586
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "39",
+    "city": {
+      "name": "Sirtori",
+      "istat": "097076"
+    },
+    "latitude": 45.730182,
+    "longitude": 9.344057
+  },
+  {
+    "street": "Località Isola d'Elba",
+    "number": "14",
+    "city": {
+      "name": "Sirtori",
+      "istat": "097076"
+    },
+    "latitude": 45.7290712,
+    "longitude": 9.3353371
+  },
+  {
+    "street": "Via privata Papa Giovanni XXIII",
+    "number": "5",
+    "city": {
+      "name": "Sirtori",
+      "istat": "097076"
+    },
+    "latitude": 45.7333587,
+    "longitude": 9.3333083
+  },
+  {
+    "street": "Via del Peschierone",
+    "number": "10",
+    "city": {
+      "name": "Sirtori",
+      "istat": "097076"
+    },
+    "latitude": 45.7309711,
+    "longitude": 9.3357101
+  },
+  {
+    "street": "Via del Peschierone",
+    "number": "12",
+    "city": {
+      "name": "Sirtori",
+      "istat": "097076"
+    },
+    "latitude": 45.7304034,
+    "longitude": 9.335681
+  },
+  {
+    "street": "Via Arnigò",
+    "number": "3/5",
+    "city": {
+      "name": "Sirtori",
+      "istat": "097076"
+    },
+    "latitude": 45.7359241,
+    "longitude": 9.3320897
+  },
+  {
+    "street": "Via Teresa Prevosti",
+    "number": "49",
+    "city": {
+      "name": "Sirtori",
+      "istat": "097076"
+    },
+    "latitude": 45.7357438,
+    "longitude": 9.3317039
+  },
+  {
+    "street": "Via Teresa Prevosti",
+    "number": "8",
+    "city": {
+      "name": "Sirtori",
+      "istat": "097076"
+    },
+    "latitude": 45.7364008,
+    "longitude": 9.3312616
+  },
+  {
+    "street": "Via Teresa Prevosti",
+    "number": "2",
+    "city": {
+      "name": "Sirtori",
+      "istat": "097076"
+    },
+    "latitude": 45.7367594,
+    "longitude": 9.3312106
+  },
+  {
+    "street": "Piazza Brioschi",
+    "number": "17",
+    "city": {
+      "name": "Sirtori",
+      "istat": "097076"
+    },
+    "latitude": 45.7368305,
+    "longitude": 9.3315754
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "12",
+    "city": {
+      "name": "Sirtori",
+      "istat": "097076"
+    },
+    "latitude": 45.7370216,
+    "longitude": 9.3301154
+  },
+  {
+    "street": "Via Arnigò",
+    "number": "25",
+    "city": {
+      "name": "Sirtori",
+      "istat": "097076"
+    },
+    "latitude": 45.7350413,
+    "longitude": 9.3346043
+  },
+  {
+    "street": "Via Lecco",
+    "number": "30",
+    "city": {
+      "name": "Sirtori",
+      "istat": "097076"
+    },
+    "latitude": 45.7499668,
+    "longitude": 9.333396
+  },
+  {
+    "street": "Via Como",
+    "number": "28",
+    "city": {
+      "name": "Sirtori",
+      "istat": "097076"
+    },
+    "latitude": 45.7494271,
+    "longitude": 9.3324845
+  },
+  {
+    "street": "Via Lecco",
+    "number": "26",
+    "city": {
+      "name": "Sirtori",
+      "istat": "097076"
+    },
+    "latitude": 45.7492785,
+    "longitude": 9.3336681
+  },
+  {
+    "street": "Via delle Industrie",
+    "number": "17",
+    "city": {
+      "name": "Sirtori",
+      "istat": "097076"
+    },
+    "latitude": 45.7449148,
+    "longitude": 9.325069
+  },
+  {
+    "street": "Via Giovanni Besana",
+    "number": "2",
+    "city": {
+      "name": "Sirtori",
+      "istat": "097076"
+    },
+    "latitude": 45.7334333,
+    "longitude": 9.3310275
+  },
+  {
+    "street": "Via Pineta",
+    "number": "1",
+    "city": {
+      "name": "Sirtori",
+      "istat": "097076"
+    },
+    "latitude": 45.7370121,
+    "longitude": 9.3292072
+  },
+  {
+    "street": "Via Lissolo",
+    "number": "30",
+    "city": {
+      "name": "Sirtori",
+      "istat": "097076"
+    },
+    "latitude": 45.7355794,
+    "longitude": 9.3436942
+  },
+  {
+    "street": "Via Teresa Prevosti",
+    "number": "57",
+    "city": {
+      "name": "Sirtori",
+      "istat": "097076"
+    },
+    "latitude": 45.7347172,
+    "longitude": 9.3317657
+  },
+  {
+    "street": "Piazza Don Arnoldo Brioschi",
+    "number": "12",
+    "city": {
+      "name": "Sirtori",
+      "istat": "097076"
+    },
+    "latitude": 45.7373509,
+    "longitude": 9.3323801
+  },
+  {
+    "street": "Via delle Industrie",
+    "number": "17c",
+    "city": {
+      "name": "Sirtori",
+      "istat": "097076"
+    },
+    "latitude": 45.7448318,
+    "longitude": 9.3250299
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "8",
+    "city": {
+      "name": "Sirtori",
+      "istat": "097076"
+    },
+    "latitude": 45.7496475,
+    "longitude": 9.3290768
+  },
+  {
+    "street": "Via Como",
+    "number": "22",
+    "city": {
+      "name": "Sirtori",
+      "istat": "097076"
+    },
+    "latitude": 45.7494238,
+    "longitude": 9.3319338
+  },
+  {
+    "street": "Via Lecco",
+    "number": "21",
+    "city": {
+      "name": "Sirtori",
+      "istat": "097076"
+    },
+    "latitude": 45.7499472,
+    "longitude": 9.3309498
+  },
+  {
+    "street": "Via Como",
+    "number": "7",
+    "city": {
+      "name": "Sirtori",
+      "istat": "097076"
+    },
+    "latitude": 45.7501496,
+    "longitude": 9.3288373
+  }
+]

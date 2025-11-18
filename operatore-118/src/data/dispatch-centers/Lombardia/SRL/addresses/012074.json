@@ -1,0 +1,122 @@
+[
+  {
+    "street": "Via Arcangelo Castelli",
+    "number": "64",
+    "city": {
+      "name": "Gemonio",
+      "istat": "012074"
+    },
+    "latitude": 45.879436,
+    "longitude": 8.688569
+  },
+  {
+    "street": "Via Cavalier Ingegner Francesco Rosaspina",
+    "number": "2",
+    "city": {
+      "name": "Gemonio",
+      "istat": "012074"
+    },
+    "latitude": 45.8802726,
+    "longitude": 8.6720828
+  },
+  {
+    "street": "Piazza Vittoria",
+    "number": "9",
+    "city": {
+      "name": "Gemonio",
+      "istat": "012074"
+    },
+    "latitude": 45.8788504,
+    "longitude": 8.6747339
+  },
+  {
+    "street": "Via Marsala",
+    "number": "11",
+    "city": {
+      "name": "Gemonio",
+      "istat": "012074"
+    },
+    "latitude": 45.8800485,
+    "longitude": 8.6753116
+  },
+  {
+    "street": "Via Rocco Cellina",
+    "number": "20",
+    "city": {
+      "name": "Gemonio",
+      "istat": "012074"
+    },
+    "latitude": 45.8785078,
+    "longitude": 8.676952
+  },
+  {
+    "street": "Via Edoardo Curti",
+    "number": "4",
+    "city": {
+      "name": "Gemonio",
+      "istat": "012074"
+    },
+    "latitude": 45.8829806,
+    "longitude": 8.6745965
+  },
+  {
+    "street": "Via Edoardo Curti",
+    "number": "8",
+    "city": {
+      "name": "Gemonio",
+      "istat": "012074"
+    },
+    "latitude": 45.8830068,
+    "longitude": 8.674382
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "18",
+    "city": {
+      "name": "Gemonio",
+      "istat": "012074"
+    },
+    "latitude": 45.8768737,
+    "longitude": 8.6737469
+  },
+  {
+    "street": "Via Clivio",
+    "number": "4",
+    "city": {
+      "name": "Gemonio",
+      "istat": "012074"
+    },
+    "latitude": 45.8728964,
+    "longitude": 8.6727817
+  },
+  {
+    "street": "Via 1° Maggio",
+    "number": "13",
+    "city": {
+      "name": "Gemonio",
+      "istat": "012074"
+    },
+    "latitude": 45.8865706,
+    "longitude": 8.665601
+  },
+  {
+    "street": "Via mulino della Prea",
+    "number": "27",
+    "city": {
+      "name": "Gemonio",
+      "istat": "012074"
+    },
+    "latitude": 45.8713072,
+    "longitude": 8.6718395
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "6",
+    "city": {
+      "name": "Gemonio",
+      "istat": "012074"
+    },
+    "latitude": 45.8808765,
+    "longitude": 8.6721884
+  }
+]

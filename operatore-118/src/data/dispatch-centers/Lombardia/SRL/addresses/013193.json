@@ -1,0 +1,102 @@
+[
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "22",
+    "city": {
+      "name": "Pusiano",
+      "istat": "013193"
+    },
+    "latitude": 45.8133855,
+    "longitude": 9.2817736
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "41",
+    "city": {
+      "name": "Pusiano",
+      "istat": "013193"
+    },
+    "latitude": 45.8138896,
+    "longitude": 9.2854696
+  },
+  {
+    "street": "Piazza Parini",
+    "number": "1",
+    "city": {
+      "name": "Pusiano",
+      "istat": "013193"
+    },
+    "latitude": 45.8135377,
+    "longitude": 9.2825847
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "68",
+    "city": {
+      "name": "Pusiano",
+      "istat": "013193"
+    },
+    "latitude": 45.813486,
+    "longitude": 9.2884202
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "45",
+    "city": {
+      "name": "Pusiano",
+      "istat": "013193"
+    },
+    "latitude": 45.8140391,
+    "longitude": 9.2858912
+  },
+  {
+    "street": "Via Madonna della Neve",
+    "number": "1",
+    "city": {
+      "name": "Pusiano",
+      "istat": "013193"
+    },
+    "latitude": 45.8146942,
+    "longitude": 9.2806953
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "47",
+    "city": {
+      "name": "Pusiano",
+      "istat": "013193"
+    },
+    "latitude": 45.813796,
+    "longitude": 9.2862012
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "77",
+    "city": {
+      "name": "Pusiano",
+      "istat": "013193"
+    },
+    "latitude": 45.8142658,
+    "longitude": 9.289554
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "81a",
+    "city": {
+      "name": "Pusiano",
+      "istat": "013193"
+    },
+    "latitude": 45.8149315,
+    "longitude": 9.2914322
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "81",
+    "city": {
+      "name": "Pusiano",
+      "istat": "013193"
+    },
+    "latitude": 45.8149723,
+    "longitude": 9.2917958
+  }
+]

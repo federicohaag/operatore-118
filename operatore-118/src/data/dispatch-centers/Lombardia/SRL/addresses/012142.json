@@ -1,0 +1,1042 @@
+[
+  {
+    "street": "Via Volontari della Libertà",
+    "number": "5",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.036036,
+    "longitude": 8.7396341
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "19",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.044881,
+    "longitude": 8.7335972
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "5",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0444512,
+    "longitude": 8.7355375
+  },
+  {
+    "street": "Via Petrolo",
+    "number": "18",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0730058,
+    "longitude": 8.7922137
+  },
+  {
+    "street": "Via Oliari",
+    "number": "1",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0412602,
+    "longitude": 8.7407071
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "10",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0410081,
+    "longitude": 8.7400217
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "1/3",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0432565,
+    "longitude": 8.7381692
+  },
+  {
+    "street": "Piazza Roma",
+    "number": "10",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0365956,
+    "longitude": 8.7424464
+  },
+  {
+    "street": "Via Europa",
+    "number": "17",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.1031972,
+    "longitude": 8.7529157
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "11",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0429423,
+    "longitude": 8.7386128
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "9",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0429907,
+    "longitude": 8.7385833
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "7",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0430373,
+    "longitude": 8.7385645
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "3",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0431452,
+    "longitude": 8.7385136
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "3",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0447631,
+    "longitude": 8.7354559
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "1",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0448897,
+    "longitude": 8.7355471
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "2",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0450386,
+    "longitude": 8.7355041
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "6",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0446011,
+    "longitude": 8.7349275
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "11",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0440575,
+    "longitude": 8.7350374
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "9",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.044266,
+    "longitude": 8.7351608
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "12",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0437801,
+    "longitude": 8.7347665
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "15",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0433947,
+    "longitude": 8.7347853
+  },
+  {
+    "street": "Via Pietro Valsecchi",
+    "number": "20",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0429572,
+    "longitude": 8.7350562
+  },
+  {
+    "street": "Via Pietro Valsecchi",
+    "number": "9",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.042637,
+    "longitude": 8.7362659
+  },
+  {
+    "street": "Via Pietro Valsecchi",
+    "number": "16",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0428194,
+    "longitude": 8.7357375
+  },
+  {
+    "street": "Via Pietro Valsecchi",
+    "number": "14",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0427766,
+    "longitude": 8.7360004
+  },
+  {
+    "street": "Via Pietro Valsecchi",
+    "number": "12",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0427301,
+    "longitude": 8.7361693
+  },
+  {
+    "street": "Via Pietro Valsecchi",
+    "number": "10",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0426612,
+    "longitude": 8.7365207
+  },
+  {
+    "street": "Via Pietro Valsecchi",
+    "number": "8",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0426388,
+    "longitude": 8.7367943
+  },
+  {
+    "street": "Via Pietro Valsecchi",
+    "number": "7",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0425606,
+    "longitude": 8.7367648
+  },
+  {
+    "street": "Via Pietro Valsecchi",
+    "number": "3",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0425737,
+    "longitude": 8.73732
+  },
+  {
+    "street": "Via Francesco Baroggi",
+    "number": "18",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0444243,
+    "longitude": 8.7403589
+  },
+  {
+    "street": "Via Francesco Baroggi",
+    "number": "16",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0441152,
+    "longitude": 8.7406942
+  },
+  {
+    "street": "Via Francesco Baroggi",
+    "number": "14",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0438322,
+    "longitude": 8.7413353
+  },
+  {
+    "street": "Via Francesco Baroggi",
+    "number": "10",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0439365,
+    "longitude": 8.7406433
+  },
+  {
+    "street": "Via Francesco Baroggi",
+    "number": "13",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0435716,
+    "longitude": 8.74076
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "35",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0368056,
+    "longitude": 8.7419549
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "33",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0368465,
+    "longitude": 8.7419361
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "31",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0368838,
+    "longitude": 8.7419093
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "29",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0369136,
+    "longitude": 8.7418784
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "27",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0369434,
+    "longitude": 8.7418476
+  },
+  {
+    "street": "Piazza Roma",
+    "number": "7",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0366408,
+    "longitude": 8.7423223
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "3",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0410451,
+    "longitude": 8.7402892
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "8",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0412872,
+    "longitude": 8.7399432
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "6",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0413225,
+    "longitude": 8.7399137
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "4",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0413747,
+    "longitude": 8.7398708
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "12",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0406411,
+    "longitude": 8.7402302
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "23",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0422609,
+    "longitude": 8.7391654
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "21",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0423894,
+    "longitude": 8.7390071
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "19",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0425383,
+    "longitude": 8.7388784
+  },
+  {
+    "street": "Piazza Roma",
+    "number": "17",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0363606,
+    "longitude": 8.742722
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "32",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0384739,
+    "longitude": 8.7407935
+  },
+  {
+    "street": "Via Zanotti",
+    "number": "1",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0377961,
+    "longitude": 8.7413299
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "60",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0371984,
+    "longitude": 8.7413648
+  },
+  {
+    "street": "Via Vincenzo Taccolini",
+    "number": "4",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0387718,
+    "longitude": 8.7422928
+  },
+  {
+    "street": "Via Vincenzo Taccolini",
+    "number": "2",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.039038,
+    "longitude": 8.7422714
+  },
+  {
+    "street": "Via Oliari",
+    "number": "21",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0395929,
+    "longitude": 8.74203
+  },
+  {
+    "street": "Via Oliari",
+    "number": "19",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0397009,
+    "longitude": 8.7418395
+  },
+  {
+    "street": "Via Oliari",
+    "number": "5",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.040373,
+    "longitude": 8.7413245
+  },
+  {
+    "street": "Via Oliari",
+    "number": "3",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0406746,
+    "longitude": 8.7411636
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "14",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.039995,
+    "longitude": 8.7404072
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "22",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0393136,
+    "longitude": 8.7405333
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "7",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0397187,
+    "longitude": 8.7406702
+  },
+  {
+    "street": "Via Vittorio Caretti",
+    "number": "4",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0390874,
+    "longitude": 8.7437573
+  },
+  {
+    "street": "Via Vittorio Caretti",
+    "number": "3",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0389319,
+    "longitude": 8.743481
+  },
+  {
+    "street": "Via Zanotti",
+    "number": "2",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0377328,
+    "longitude": 8.7414131
+  },
+  {
+    "street": "Piazza Ferdinando Caronesi",
+    "number": "1",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0449548,
+    "longitude": 8.7421217
+  },
+  {
+    "street": "Piazza Ferdinando Caronesi",
+    "number": "3",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0450169,
+    "longitude": 8.7421559
+  },
+  {
+    "street": "Via Pietro Valsecchi",
+    "number": "2/A",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0426441,
+    "longitude": 8.7374985
+  },
+  {
+    "street": "SS 394",
+    "number": "41",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0465871,
+    "longitude": 8.7329088
+  },
+  {
+    "street": "Piazza Ferdinando Caronesi",
+    "number": "6",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0449098,
+    "longitude": 8.7421929
+  },
+  {
+    "street": "Piazza Ferdinando Caronesi",
+    "number": "4",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0448715,
+    "longitude": 8.742144
+  },
+  {
+    "street": "Piazza Ferdinando Caronesi",
+    "number": "2",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0448327,
+    "longitude": 8.7420952
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "8",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0435572,
+    "longitude": 8.738065
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "7",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0435204,
+    "longitude": 8.7380522
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "6",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0434911,
+    "longitude": 8.7380442
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "5",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0434455,
+    "longitude": 8.7380321
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "15",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0433733,
+    "longitude": 8.7383359
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "14",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0434054,
+    "longitude": 8.7383185
+  },
+  {
+    "street": "Piazza Vittorio Veneto",
+    "number": "13",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0434343,
+    "longitude": 8.738295
+  },
+  {
+    "street": "Via Francesco Baroggi",
+    "number": "6",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0438257,
+    "longitude": 8.7394953
+  },
+  {
+    "street": "Via Francesco Baroggi",
+    "number": "7",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0440854,
+    "longitude": 8.7393276
+  },
+  {
+    "street": "Via Goffredo Mameli",
+    "number": "7",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0382279,
+    "longitude": 8.7425788
+  },
+  {
+    "street": "Via Goffredo Mameli",
+    "number": "3",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0382998,
+    "longitude": 8.7425099
+  },
+  {
+    "street": "Saredi",
+    "number": "2",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0709183,
+    "longitude": 8.7996549
+  },
+  {
+    "street": "Via Pietro Valsecchi",
+    "number": "23",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0429805,
+    "longitude": 8.7341294
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "4",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.1010346,
+    "longitude": 8.7396255
+  },
+  {
+    "street": "Via Pietro Tomasina",
+    "number": "12",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.1015529,
+    "longitude": 8.7385384
+  },
+  {
+    "street": "Via Aquilino Catenazzi",
+    "number": "1",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0455737,
+    "longitude": 8.7401887
+  },
+  {
+    "street": "Via Europa",
+    "number": "37",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.1038804,
+    "longitude": 8.7556886
+  },
+  {
+    "street": "Via Temistocle Solera",
+    "number": "1",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0474724,
+    "longitude": 8.7413068
+  },
+  {
+    "street": "Via Aquilino Catenazzi",
+    "number": "6a",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0454583,
+    "longitude": 8.7419413
+  },
+  {
+    "street": "Via Corsini",
+    "number": "3",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0389776,
+    "longitude": 8.7339108
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "4",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0429496,
+    "longitude": 8.7382575
+  },
+  {
+    "street": "Via Pietraperzia",
+    "number": "13",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.042082,
+    "longitude": 8.7330095
+  },
+  {
+    "street": "Via Francesco Baroggi",
+    "number": "11",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0441628,
+    "longitude": 8.7397522
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "6",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0426129,
+    "longitude": 8.7384443
+  },
+  {
+    "street": "via Casati",
+    "number": "2",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0446869,
+    "longitude": 8.739215
+  },
+  {
+    "street": "Via Fiora Bernadino",
+    "number": "2",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0359873,
+    "longitude": 8.7427596
+  },
+  {
+    "street": "Viale Giuseppe Garibaldi",
+    "number": "58",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0375385,
+    "longitude": 8.7408911
+  },
+  {
+    "street": "Via Argentina",
+    "number": "6",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.044669,
+    "longitude": 8.7341973
+  },
+  {
+    "street": "Via Pietraperzia",
+    "number": "2",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0428117,
+    "longitude": 8.732646
+  },
+  {
+    "street": "Via Pietraperzia",
+    "number": "4",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0426566,
+    "longitude": 8.7326638
+  },
+  {
+    "street": "Via alla Quadra",
+    "number": "6",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0771683,
+    "longitude": 8.7782267
+  },
+  {
+    "street": "Via al Rifugio",
+    "number": "1",
+    "city": {
+      "name": "Maccagno con Pino e Veddasca",
+      "istat": "012142"
+    },
+    "latitude": 46.0758558,
+    "longitude": 8.7777854
+  }
+]

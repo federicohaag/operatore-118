@@ -1,0 +1,22 @@
+[
+  {
+    "street": "Piazza della Chiesa",
+    "number": "1",
+    "city": {
+      "name": "Erve",
+      "istat": "097034"
+    },
+    "latitude": 45.8206609,
+    "longitude": 9.4523294
+  },
+  {
+    "street": "Piazza della Chiesa",
+    "number": "3",
+    "city": {
+      "name": "Erve",
+      "istat": "097034"
+    },
+    "latitude": 45.8206728,
+    "longitude": 9.4523347
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "street": "Piazza Roma",
+    "number": "1",
+    "city": {
+      "name": "Lozza",
+      "istat": "012091"
+    },
+    "latitude": 45.7754035,
+    "longitude": 8.8571429
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "1",
+    "city": {
+      "name": "Lozza",
+      "istat": "012091"
+    },
+    "latitude": 45.7808128,
+    "longitude": 8.8616801
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "57",
+    "city": {
+      "name": "Lozza",
+      "istat": "012091"
+    },
+    "latitude": 45.7774475,
+    "longitude": 8.8624972
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "15",
+    "city": {
+      "name": "Lozza",
+      "istat": "012091"
+    },
+    "latitude": 45.7760266,
+    "longitude": 8.8589113
+  }
+]

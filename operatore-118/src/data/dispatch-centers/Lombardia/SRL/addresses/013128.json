@@ -1,0 +1,72 @@
+[
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "18",
+    "city": {
+      "name": "Limido Comasco",
+      "istat": "013128"
+    },
+    "latitude": 45.6890606,
+    "longitude": 8.976561
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "21",
+    "city": {
+      "name": "Limido Comasco",
+      "istat": "013128"
+    },
+    "latitude": 45.6896996,
+    "longitude": 8.9760487
+  },
+  {
+    "street": "Via Monviso",
+    "number": "2",
+    "city": {
+      "name": "Limido Comasco",
+      "istat": "013128"
+    },
+    "latitude": 45.6915614,
+    "longitude": 8.9764075
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "27",
+    "city": {
+      "name": "Limido Comasco",
+      "istat": "013128"
+    },
+    "latitude": 45.690704,
+    "longitude": 8.9761238
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "27",
+    "city": {
+      "name": "Limido Comasco",
+      "istat": "013128"
+    },
+    "latitude": 45.6874536,
+    "longitude": 8.9762584
+  },
+  {
+    "street": "Via del Lavoro",
+    "number": "3",
+    "city": {
+      "name": "Limido Comasco",
+      "istat": "013128"
+    },
+    "latitude": 45.6828613,
+    "longitude": 8.9715146
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "1",
+    "city": {
+      "name": "Limido Comasco",
+      "istat": "013128"
+    },
+    "latitude": 45.6906411,
+    "longitude": 8.9810279
+  }
+]

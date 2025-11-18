@@ -1,0 +1,42 @@
+[
+  {
+    "street": "Via Arciprete Spazzi",
+    "number": "7",
+    "city": {
+      "name": "Alta Valle Intelvi",
+      "istat": "013253"
+    },
+    "latitude": 45.9787176,
+    "longitude": 9.0210561
+  },
+  {
+    "street": "via Paraviso",
+    "number": "30",
+    "city": {
+      "name": "Alta Valle Intelvi",
+      "istat": "013253"
+    },
+    "latitude": 45.9768742,
+    "longitude": 9.027527
+  },
+  {
+    "street": "Via Martino Novi",
+    "number": "26",
+    "city": {
+      "name": "Alta Valle Intelvi",
+      "istat": "013253"
+    },
+    "latitude": 45.9822287,
+    "longitude": 9.0242445
+  },
+  {
+    "street": "Località le Quadre",
+    "number": "19",
+    "city": {
+      "name": "Alta Valle Intelvi",
+      "istat": "013253"
+    },
+    "latitude": 45.9961672,
+    "longitude": 9.0685968
+  }
+]

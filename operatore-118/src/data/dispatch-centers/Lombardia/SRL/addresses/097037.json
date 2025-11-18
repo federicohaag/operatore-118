@@ -1,0 +1,142 @@
+[
+  {
+    "street": "Via Europa",
+    "number": "4",
+    "city": {
+      "name": "Garbagnate Monastero",
+      "istat": "097037"
+    },
+    "latitude": 45.7711028,
+    "longitude": 9.2890883
+  },
+  {
+    "street": "Strada Statale 36",
+    "number": "10",
+    "city": {
+      "name": "Garbagnate Monastero",
+      "istat": "097037"
+    },
+    "latitude": 45.7724461,
+    "longitude": 9.2890292
+  },
+  {
+    "street": "Strada Statale 36 del lago di Como e dello Spluga",
+    "number": "10",
+    "city": {
+      "name": "Garbagnate Monastero",
+      "istat": "097037"
+    },
+    "latitude": 45.7717507,
+    "longitude": 9.2890003
+  },
+  {
+    "street": "Viale Brianza",
+    "number": "4",
+    "city": {
+      "name": "Garbagnate Monastero",
+      "istat": "097037"
+    },
+    "latitude": 45.769391,
+    "longitude": 9.3063624
+  },
+  {
+    "street": "Via Italia",
+    "number": "56",
+    "city": {
+      "name": "Garbagnate Monastero",
+      "istat": "097037"
+    },
+    "latitude": 45.7665529,
+    "longitude": 9.2972312
+  },
+  {
+    "street": "Via Italia",
+    "number": "52",
+    "city": {
+      "name": "Garbagnate Monastero",
+      "istat": "097037"
+    },
+    "latitude": 45.7668925,
+    "longitude": 9.2972724
+  },
+  {
+    "street": "Via Italia",
+    "number": "54",
+    "city": {
+      "name": "Garbagnate Monastero",
+      "istat": "097037"
+    },
+    "latitude": 45.7666997,
+    "longitude": 9.2972525
+  },
+  {
+    "street": "Via Italia",
+    "number": "58",
+    "city": {
+      "name": "Garbagnate Monastero",
+      "istat": "097037"
+    },
+    "latitude": 45.7660003,
+    "longitude": 9.2971291
+  },
+  {
+    "street": "Strada Statale 36 del lago di Como e dello Spluga",
+    "number": "km 36,13",
+    "city": {
+      "name": "Garbagnate Monastero",
+      "istat": "097037"
+    },
+    "latitude": 45.7734045,
+    "longitude": 9.286795
+  },
+  {
+    "street": "Strada Statale 36 del lago di Como e dello Spluga",
+    "number": "km 36,9",
+    "city": {
+      "name": "Garbagnate Monastero",
+      "istat": "097037"
+    },
+    "latitude": 45.7727201,
+    "longitude": 9.2866531
+  },
+  {
+    "street": "Via Gaetana Boselli Butti",
+    "number": "7",
+    "city": {
+      "name": "Garbagnate Monastero",
+      "istat": "097037"
+    },
+    "latitude": 45.7731402,
+    "longitude": 9.3020985
+  },
+  {
+    "street": "Via Casa Paradiso",
+    "number": "2",
+    "city": {
+      "name": "Garbagnate Monastero",
+      "istat": "097037"
+    },
+    "latitude": 45.7761811,
+    "longitude": 9.2992043
+  },
+  {
+    "street": "Via Molteno",
+    "number": "39",
+    "city": {
+      "name": "Garbagnate Monastero",
+      "istat": "097037"
+    },
+    "latitude": 45.7753361,
+    "longitude": 9.3047583
+  },
+  {
+    "street": "Via Roma",
+    "number": "7",
+    "city": {
+      "name": "Garbagnate Monastero",
+      "istat": "097037"
+    },
+    "latitude": 45.7662313,
+    "longitude": 9.3105663
+  }
+]

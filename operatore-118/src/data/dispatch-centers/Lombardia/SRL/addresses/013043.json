@@ -1,0 +1,132 @@
+[
+  {
+    "street": "Via Faleggia",
+    "number": "6",
+    "city": {
+      "name": "Capiago Intimiano",
+      "istat": "013043"
+    },
+    "latitude": 45.7722847,
+    "longitude": 9.1137317
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "6",
+    "city": {
+      "name": "Capiago Intimiano",
+      "istat": "013043"
+    },
+    "latitude": 45.7747625,
+    "longitude": 9.1211884
+  },
+  {
+    "street": "Via Kennedy",
+    "number": "15 a",
+    "city": {
+      "name": "Capiago Intimiano",
+      "istat": "013043"
+    },
+    "latitude": 45.7704189,
+    "longitude": 9.1121997
+  },
+  {
+    "street": "Via Fiume",
+    "number": "19",
+    "city": {
+      "name": "Capiago Intimiano",
+      "istat": "013043"
+    },
+    "latitude": 45.7643552,
+    "longitude": 9.1325798
+  },
+  {
+    "street": "Via Umberto Primo",
+    "number": "1",
+    "city": {
+      "name": "Capiago Intimiano",
+      "istat": "013043"
+    },
+    "latitude": 45.7743538,
+    "longitude": 9.12042
+  },
+  {
+    "street": "Via Per Albate",
+    "number": "5",
+    "city": {
+      "name": "Capiago Intimiano",
+      "istat": "013043"
+    },
+    "latitude": 45.772907,
+    "longitude": 9.1195002
+  },
+  {
+    "street": "Via del Carroccio",
+    "number": "3",
+    "city": {
+      "name": "Capiago Intimiano",
+      "istat": "013043"
+    },
+    "latitude": 45.7639949,
+    "longitude": 9.1290925
+  },
+  {
+    "street": "Via per Senna",
+    "number": "23",
+    "city": {
+      "name": "Capiago Intimiano",
+      "istat": "013043"
+    },
+    "latitude": 45.7641683,
+    "longitude": 9.121592
+  },
+  {
+    "street": "Via per Senna",
+    "number": "39",
+    "city": {
+      "name": "Capiago Intimiano",
+      "istat": "013043"
+    },
+    "latitude": 45.7639223,
+    "longitude": 9.1179376
+  },
+  {
+    "street": "Via Montecastello",
+    "number": "22",
+    "city": {
+      "name": "Capiago Intimiano",
+      "istat": "013043"
+    },
+    "latitude": 45.7628701,
+    "longitude": 9.1266945
+  },
+  {
+    "street": "Via Kennedy",
+    "number": "10",
+    "city": {
+      "name": "Capiago Intimiano",
+      "istat": "013043"
+    },
+    "latitude": 45.7708253,
+    "longitude": 9.1122116
+  },
+  {
+    "street": "Via per Albate",
+    "number": "10b",
+    "city": {
+      "name": "Capiago Intimiano",
+      "istat": "013043"
+    },
+    "latitude": 45.7731848,
+    "longitude": 9.1183638
+  },
+  {
+    "street": "Via Kennedy",
+    "number": "29",
+    "city": {
+      "name": "Capiago Intimiano",
+      "istat": "013043"
+    },
+    "latitude": 45.7698951,
+    "longitude": 9.1126802
+  }
+]

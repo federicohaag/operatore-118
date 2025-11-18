@@ -1,0 +1,552 @@
+[
+  {
+    "street": "Via Varese",
+    "number": "8",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.821669,
+    "longitude": 8.9129545
+  },
+  {
+    "street": "Via Varese",
+    "number": "6",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8216316,
+    "longitude": 8.9128128
+  },
+  {
+    "street": "Via Italo Buzzi",
+    "number": "3",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8226277,
+    "longitude": 8.9133746
+  },
+  {
+    "street": "Via Como",
+    "number": "6",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8211948,
+    "longitude": 8.9136964
+  },
+  {
+    "street": "Via Milano",
+    "number": "24",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8202465,
+    "longitude": 8.9123397
+  },
+  {
+    "street": "Via Milano",
+    "number": "11",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8196266,
+    "longitude": 8.9132156
+  },
+  {
+    "street": "Via Milano",
+    "number": "9",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8199159,
+    "longitude": 8.9131741
+  },
+  {
+    "street": "Via Milano",
+    "number": "2",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8213224,
+    "longitude": 8.9123683
+  },
+  {
+    "street": "Via Milano",
+    "number": "48",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8180087,
+    "longitude": 8.9122981
+  },
+  {
+    "street": "Via Ronco Vecchio",
+    "number": "5",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8267257,
+    "longitude": 8.9226532
+  },
+  {
+    "street": "Via Ronco Vecchio",
+    "number": "3",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8263336,
+    "longitude": 8.9228077
+  },
+  {
+    "street": "Via Milano",
+    "number": "28",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8200502,
+    "longitude": 8.9125157
+  },
+  {
+    "street": "Via Milano",
+    "number": "30",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8199875,
+    "longitude": 8.9122608
+  },
+  {
+    "street": "Via Milano",
+    "number": "36",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.819884,
+    "longitude": 8.9125828
+  },
+  {
+    "street": "Via Milano",
+    "number": "20",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8201517,
+    "longitude": 8.9119021
+  },
+  {
+    "street": "Via Milano",
+    "number": "38",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8197342,
+    "longitude": 8.9125881
+  },
+  {
+    "street": "Via Milano",
+    "number": "44",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8191795,
+    "longitude": 8.912676
+  },
+  {
+    "street": "Via Milano",
+    "number": "32",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8198867,
+    "longitude": 8.9118826
+  },
+  {
+    "street": "Via Milano",
+    "number": "34",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8196717,
+    "longitude": 8.9118886
+  },
+  {
+    "street": "Via Milano",
+    "number": "40",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.819487,
+    "longitude": 8.9120898
+  },
+  {
+    "street": "Via Milano",
+    "number": "42",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8192498,
+    "longitude": 8.9122608
+  },
+  {
+    "street": "Via Milano",
+    "number": "7",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8201409,
+    "longitude": 8.9130361
+  },
+  {
+    "street": "Via Milano",
+    "number": "5",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8204942,
+    "longitude": 8.9129314
+  },
+  {
+    "street": "Via Milano",
+    "number": "18",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8204238,
+    "longitude": 8.9118676
+  },
+  {
+    "street": "Via Milano",
+    "number": "14",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8205136,
+    "longitude": 8.912331
+  },
+  {
+    "street": "Via Milano",
+    "number": "12",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8207499,
+    "longitude": 8.9123346
+  },
+  {
+    "street": "Via Como",
+    "number": "21",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8206966,
+    "longitude": 8.9132018
+  },
+  {
+    "street": "Via Como",
+    "number": "15",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8207943,
+    "longitude": 8.9134831
+  },
+  {
+    "street": "Via Como",
+    "number": "7",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8208635,
+    "longitude": 8.9137463
+  },
+  {
+    "street": "Via Como",
+    "number": "17",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8203601,
+    "longitude": 8.9136482
+  },
+  {
+    "street": "Via Como",
+    "number": "19",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8202894,
+    "longitude": 8.9133568
+  },
+  {
+    "street": "Via Como",
+    "number": "9",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8206536,
+    "longitude": 8.91379
+  },
+  {
+    "street": "Via Como",
+    "number": "11",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8204494,
+    "longitude": 8.9139041
+  },
+  {
+    "street": "Via Como",
+    "number": "13",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8202312,
+    "longitude": 8.9139661
+  },
+  {
+    "street": "Via Milano",
+    "number": "6",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8211252,
+    "longitude": 8.9123328
+  },
+  {
+    "street": "Via Milano",
+    "number": "8",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8209124,
+    "longitude": 8.9120811
+  },
+  {
+    "street": "Via Varese",
+    "number": "16",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8217991,
+    "longitude": 8.9135666
+  },
+  {
+    "street": "Via Varese",
+    "number": "1",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8214306,
+    "longitude": 8.9127399
+  },
+  {
+    "street": "Via Como",
+    "number": "10",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8212827,
+    "longitude": 8.9131591
+  },
+  {
+    "street": "Via Como",
+    "number": "4",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8214033,
+    "longitude": 8.9135831
+  },
+  {
+    "street": "Via Como",
+    "number": "8",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8210749,
+    "longitude": 8.9135839
+  },
+  {
+    "street": "Via Como",
+    "number": "12",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8210438,
+    "longitude": 8.9131346
+  },
+  {
+    "street": "Via Como",
+    "number": "3",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8213718,
+    "longitude": 8.9140682
+  },
+  {
+    "street": "Via XXV Aprile",
+    "number": "7",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8259926,
+    "longitude": 8.9160699
+  },
+  {
+    "street": "Via Varese",
+    "number": "14",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8217499,
+    "longitude": 8.9134163
+  },
+  {
+    "street": "Via San Maffeo",
+    "number": "17",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8253024,
+    "longitude": 8.9151926
+  },
+  {
+    "street": "Via Teodolinda Buzzi",
+    "number": "21",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8247096,
+    "longitude": 8.9153522
+  },
+  {
+    "street": "Via Francesca Lavizzari",
+    "number": "15",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8245393,
+    "longitude": 8.9130607
+  },
+  {
+    "street": "Via Italo Buzzi",
+    "number": "1",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8224575,
+    "longitude": 8.9134673
+  },
+  {
+    "street": "Via Italo Buzzi",
+    "number": "4",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8227198,
+    "longitude": 8.9136771
+  },
+  {
+    "street": "Via Ronco Vecchio",
+    "number": "1",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8254034,
+    "longitude": 8.917116
+  },
+  {
+    "street": "Via Varese",
+    "number": "12",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8217534,
+    "longitude": 8.9132856
+  },
+  {
+    "street": "Via Varese",
+    "number": "10",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8217241,
+    "longitude": 8.9131449
+  },
+  {
+    "street": "Via Como",
+    "number": "5",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8210586,
+    "longitude": 8.9140885
+  },
+  {
+    "street": "Via Milano",
+    "number": "10",
+    "city": {
+      "name": "Rodero",
+      "istat": "013197"
+    },
+    "latitude": 45.8206376,
+    "longitude": 8.9116963
+  }
+]

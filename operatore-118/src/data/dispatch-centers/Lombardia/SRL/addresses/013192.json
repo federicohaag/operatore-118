@@ -1,0 +1,72 @@
+[
+  {
+    "street": "Via Inarca",
+    "number": "16",
+    "city": {
+      "name": "Proserpio",
+      "istat": "013192"
+    },
+    "latitude": 45.8258129,
+    "longitude": 9.2564472
+  },
+  {
+    "street": "Via Giancarlo Puecher",
+    "number": "7",
+    "city": {
+      "name": "Proserpio",
+      "istat": "013192"
+    },
+    "latitude": 45.8282417,
+    "longitude": 9.2476725
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "5",
+    "city": {
+      "name": "Proserpio",
+      "istat": "013192"
+    },
+    "latitude": 45.8287675,
+    "longitude": 9.2462372
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "6",
+    "city": {
+      "name": "Proserpio",
+      "istat": "013192"
+    },
+    "latitude": 45.8287623,
+    "longitude": 9.2462567
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "7",
+    "city": {
+      "name": "Proserpio",
+      "istat": "013192"
+    },
+    "latitude": 45.8289634,
+    "longitude": 9.2465515
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "9",
+    "city": {
+      "name": "Proserpio",
+      "istat": "013192"
+    },
+    "latitude": 45.8290462,
+    "longitude": 9.247073
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "11",
+    "city": {
+      "name": "Proserpio",
+      "istat": "013192"
+    },
+    "latitude": 45.8291295,
+    "longitude": 9.2475093
+  }
+]

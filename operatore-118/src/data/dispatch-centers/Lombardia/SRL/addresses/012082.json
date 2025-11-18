@@ -1,0 +1,82 @@
+[
+  {
+    "street": "Via Patrioti",
+    "number": "7",
+    "city": {
+      "name": "Inarzo",
+      "istat": "012082"
+    },
+    "latitude": 45.7858321,
+    "longitude": 8.734881
+  },
+  {
+    "street": "Via Patrioti",
+    "number": "28",
+    "city": {
+      "name": "Inarzo",
+      "istat": "012082"
+    },
+    "latitude": 45.7859877,
+    "longitude": 8.7364254
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "14",
+    "city": {
+      "name": "Inarzo",
+      "istat": "012082"
+    },
+    "latitude": 45.7836416,
+    "longitude": 8.7349086
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "3",
+    "city": {
+      "name": "Inarzo",
+      "istat": "012082"
+    },
+    "latitude": 45.7852811,
+    "longitude": 8.7342039
+  },
+  {
+    "street": "Via Patrioti",
+    "number": "3",
+    "city": {
+      "name": "Inarzo",
+      "istat": "012082"
+    },
+    "latitude": 45.7856616,
+    "longitude": 8.7346507
+  },
+  {
+    "street": "Via San Francesco",
+    "number": "62",
+    "city": {
+      "name": "Inarzo",
+      "istat": "012082"
+    },
+    "latitude": 45.7909899,
+    "longitude": 8.736705
+  },
+  {
+    "street": "Via Patrioti",
+    "number": "26",
+    "city": {
+      "name": "Inarzo",
+      "istat": "012082"
+    },
+    "latitude": 45.7859579,
+    "longitude": 8.7363724
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "11",
+    "city": {
+      "name": "Inarzo",
+      "istat": "012082"
+    },
+    "latitude": 45.778812,
+    "longitude": 8.7347954
+  }
+]

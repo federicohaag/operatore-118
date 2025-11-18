@@ -1,0 +1,102 @@
+[
+  {
+    "street": "Via Provinciale",
+    "number": "20h",
+    "city": {
+      "name": "Dolzago",
+      "istat": "097031"
+    },
+    "latitude": 45.7709237,
+    "longitude": 9.3384805
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "6",
+    "city": {
+      "name": "Dolzago",
+      "istat": "097031"
+    },
+    "latitude": 45.7741711,
+    "longitude": 9.3387359
+  },
+  {
+    "street": "Via Bettolino",
+    "number": "12",
+    "city": {
+      "name": "Dolzago",
+      "istat": "097031"
+    },
+    "latitude": 45.7711585,
+    "longitude": 9.3393397
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "2",
+    "city": {
+      "name": "Dolzago",
+      "istat": "097031"
+    },
+    "latitude": 45.7745302,
+    "longitude": 9.3388924
+  },
+  {
+    "street": "Via Provinciale per Sirone",
+    "number": "30/32",
+    "city": {
+      "name": "Dolzago",
+      "istat": "097031"
+    },
+    "latitude": 45.7674875,
+    "longitude": 9.3385127
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "32",
+    "city": {
+      "name": "Dolzago",
+      "istat": "097031"
+    },
+    "latitude": 45.7676784,
+    "longitude": 9.3385587
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "30",
+    "city": {
+      "name": "Dolzago",
+      "istat": "097031"
+    },
+    "latitude": 45.7679656,
+    "longitude": 9.3377839
+  },
+  {
+    "street": "Via Campagnola",
+    "number": "4",
+    "city": {
+      "name": "Dolzago",
+      "istat": "097031"
+    },
+    "latitude": 45.7727269,
+    "longitude": 9.3394567
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "5",
+    "city": {
+      "name": "Dolzago",
+      "istat": "097031"
+    },
+    "latitude": 45.7705483,
+    "longitude": 9.3452437
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "9",
+    "city": {
+      "name": "Dolzago",
+      "istat": "097031"
+    },
+    "latitude": 45.7637314,
+    "longitude": 9.3335644
+  }
+]

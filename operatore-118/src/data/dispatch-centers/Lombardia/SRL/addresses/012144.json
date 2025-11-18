@@ -1,0 +1,362 @@
+[
+  {
+    "street": "Via Vitaliano Quaglia",
+    "number": "12",
+    "city": {
+      "name": "Bardello con Malgesso e Bregano",
+      "istat": "012144"
+    },
+    "latitude": 45.83494,
+    "longitude": 8.6997514
+  },
+  {
+    "street": "Via Roma",
+    "number": "11",
+    "city": {
+      "name": "Bardello con Malgesso e Bregano",
+      "istat": "012144"
+    },
+    "latitude": 45.8349664,
+    "longitude": 8.6981156
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "2",
+    "city": {
+      "name": "Bardello con Malgesso e Bregano",
+      "istat": "012144"
+    },
+    "latitude": 45.8348343,
+    "longitude": 8.6979072
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "3",
+    "city": {
+      "name": "Bardello con Malgesso e Bregano",
+      "istat": "012144"
+    },
+    "latitude": 45.8346793,
+    "longitude": 8.6985082
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "1",
+    "city": {
+      "name": "Bardello con Malgesso e Bregano",
+      "istat": "012144"
+    },
+    "latitude": 45.8347568,
+    "longitude": 8.6979014
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "4",
+    "city": {
+      "name": "Bardello con Malgesso e Bregano",
+      "istat": "012144"
+    },
+    "latitude": 45.834795,
+    "longitude": 8.6978306
+  },
+  {
+    "street": "Via Piave",
+    "number": "3",
+    "city": {
+      "name": "Bardello con Malgesso e Bregano",
+      "istat": "012144"
+    },
+    "latitude": 45.8350219,
+    "longitude": 8.6978177
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "3",
+    "city": {
+      "name": "Bardello con Malgesso e Bregano",
+      "istat": "012144"
+    },
+    "latitude": 45.8347159,
+    "longitude": 8.6978356
+  },
+  {
+    "street": "Piazza Guglielmo Marconi",
+    "number": "11",
+    "city": {
+      "name": "Bardello con Malgesso e Bregano",
+      "istat": "012144"
+    },
+    "latitude": 45.8280825,
+    "longitude": 8.6797366
+  },
+  {
+    "street": "Via Piave",
+    "number": "39",
+    "city": {
+      "name": "Bardello con Malgesso e Bregano",
+      "istat": "012144"
+    },
+    "latitude": 45.8238609,
+    "longitude": 8.6877571
+  },
+  {
+    "street": "Viale Rimembranze",
+    "number": "234",
+    "city": {
+      "name": "Bardello con Malgesso e Bregano",
+      "istat": "012144"
+    },
+    "latitude": 45.8275067,
+    "longitude": 8.6763049
+  },
+  {
+    "street": "Viale Rimembranze",
+    "number": "290",
+    "city": {
+      "name": "Bardello con Malgesso e Bregano",
+      "istat": "012144"
+    },
+    "latitude": 45.8279692,
+    "longitude": 8.6758076
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "2a",
+    "city": {
+      "name": "Bardello con Malgesso e Bregano",
+      "istat": "012144"
+    },
+    "latitude": 45.8353898,
+    "longitude": 8.6971311
+  },
+  {
+    "street": "Via Vitaliano Quaglia",
+    "number": "1",
+    "city": {
+      "name": "Bardello con Malgesso e Bregano",
+      "istat": "012144"
+    },
+    "latitude": 45.8345406,
+    "longitude": 8.6988286
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "20",
+    "city": {
+      "name": "Bardello con Malgesso e Bregano",
+      "istat": "012144"
+    },
+    "latitude": 45.8339508,
+    "longitude": 8.6998093
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "8",
+    "city": {
+      "name": "Bardello con Malgesso e Bregano",
+      "istat": "012144"
+    },
+    "latitude": 45.8343518,
+    "longitude": 8.6989258
+  },
+  {
+    "street": "Via Vitaliano Quaglia",
+    "number": "4",
+    "city": {
+      "name": "Bardello con Malgesso e Bregano",
+      "istat": "012144"
+    },
+    "latitude": 45.8345642,
+    "longitude": 8.6990278
+  },
+  {
+    "street": "Via Vitaliano Quaglia",
+    "number": "8",
+    "city": {
+      "name": "Bardello con Malgesso e Bregano",
+      "istat": "012144"
+    },
+    "latitude": 45.8347272,
+    "longitude": 8.6993287
+  },
+  {
+    "street": "Via Vitaliano Quaglia",
+    "number": "5",
+    "city": {
+      "name": "Bardello con Malgesso e Bregano",
+      "istat": "012144"
+    },
+    "latitude": 45.8348882,
+    "longitude": 8.6994895
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "37",
+    "city": {
+      "name": "Bardello con Malgesso e Bregano",
+      "istat": "012144"
+    },
+    "latitude": 45.8338634,
+    "longitude": 8.70023
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "17",
+    "city": {
+      "name": "Bardello con Malgesso e Bregano",
+      "istat": "012144"
+    },
+    "latitude": 45.8344219,
+    "longitude": 8.6990237
+  },
+  {
+    "street": "Via Vitaliano Quaglia",
+    "number": "6",
+    "city": {
+      "name": "Bardello con Malgesso e Bregano",
+      "istat": "012144"
+    },
+    "latitude": 45.8346786,
+    "longitude": 8.6992246
+  },
+  {
+    "street": "Via Vitaliano Quaglia",
+    "number": "10",
+    "city": {
+      "name": "Bardello con Malgesso e Bregano",
+      "istat": "012144"
+    },
+    "latitude": 45.8347789,
+    "longitude": 8.6994094
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "9",
+    "city": {
+      "name": "Bardello con Malgesso e Bregano",
+      "istat": "012144"
+    },
+    "latitude": 45.8409555,
+    "longitude": 8.6960521
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "28",
+    "city": {
+      "name": "Bardello con Malgesso e Bregano",
+      "istat": "012144"
+    },
+    "latitude": 45.8415378,
+    "longitude": 8.6963888
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "19",
+    "city": {
+      "name": "Bardello con Malgesso e Bregano",
+      "istat": "012144"
+    },
+    "latitude": 45.841547,
+    "longitude": 8.6957348
+  },
+  {
+    "street": "Via Piave",
+    "number": "40",
+    "city": {
+      "name": "Bardello con Malgesso e Bregano",
+      "istat": "012144"
+    },
+    "latitude": 45.8398498,
+    "longitude": 8.6957318
+  },
+  {
+    "street": "Via Piave",
+    "number": "10",
+    "city": {
+      "name": "Bardello con Malgesso e Bregano",
+      "istat": "012144"
+    },
+    "latitude": 45.8352796,
+    "longitude": 8.6977222
+  },
+  {
+    "street": "Via Piave",
+    "number": "8",
+    "city": {
+      "name": "Bardello con Malgesso e Bregano",
+      "istat": "012144"
+    },
+    "latitude": 45.8352007,
+    "longitude": 8.6977873
+  },
+  {
+    "street": "Via Piave",
+    "number": "6",
+    "city": {
+      "name": "Bardello con Malgesso e Bregano",
+      "istat": "012144"
+    },
+    "latitude": 45.8351147,
+    "longitude": 8.6978585
+  },
+  {
+    "street": "Via Piave",
+    "number": "2",
+    "city": {
+      "name": "Bardello con Malgesso e Bregano",
+      "istat": "012144"
+    },
+    "latitude": 45.8350053,
+    "longitude": 8.6979383
+  },
+  {
+    "street": "Via Piave",
+    "number": "4",
+    "city": {
+      "name": "Bardello con Malgesso e Bregano",
+      "istat": "012144"
+    },
+    "latitude": 45.8350714,
+    "longitude": 8.6978847
+  },
+  {
+    "street": "Via Piave",
+    "number": "23",
+    "city": {
+      "name": "Bardello con Malgesso e Bregano",
+      "istat": "012144"
+    },
+    "latitude": 45.836515,
+    "longitude": 8.6966655
+  },
+  {
+    "street": "Via Enrico Fermi",
+    "number": "93",
+    "city": {
+      "name": "Bardello con Malgesso e Bregano",
+      "istat": "012144"
+    },
+    "latitude": 45.8261958,
+    "longitude": 8.6890938
+  },
+  {
+    "street": "Via G. Pascoli",
+    "number": "18",
+    "city": {
+      "name": "Bardello con Malgesso e Bregano",
+      "istat": "012144"
+    },
+    "latitude": 45.8356987,
+    "longitude": 8.6881877
+  },
+  {
+    "street": "Via G. Pascoli",
+    "number": "16",
+    "city": {
+      "name": "Bardello con Malgesso e Bregano",
+      "istat": "012144"
+    },
+    "latitude": 45.8358146,
+    "longitude": 8.6885306
+  }
+]

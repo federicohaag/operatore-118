@@ -1,0 +1,162 @@
+[
+  {
+    "street": "Via Giuseppe Maggi",
+    "number": "1",
+    "city": {
+      "name": "Cuvio",
+      "istat": "012063"
+    },
+    "latitude": 45.8983929,
+    "longitude": 8.7338269
+  },
+  {
+    "street": "Via Giuseppe Maggi",
+    "number": "10",
+    "city": {
+      "name": "Cuvio",
+      "istat": "012063"
+    },
+    "latitude": 45.8987215,
+    "longitude": 8.7340657
+  },
+  {
+    "street": "Via Giuseppe Maggi",
+    "number": "3",
+    "city": {
+      "name": "Cuvio",
+      "istat": "012063"
+    },
+    "latitude": 45.8985964,
+    "longitude": 8.7338698
+  },
+  {
+    "street": "Via Giuseppe Maggi",
+    "number": "5",
+    "city": {
+      "name": "Cuvio",
+      "istat": "012063"
+    },
+    "latitude": 45.8989118,
+    "longitude": 8.7337304
+  },
+  {
+    "street": "Via Giuseppe Maggi",
+    "number": "6",
+    "city": {
+      "name": "Cuvio",
+      "istat": "012063"
+    },
+    "latitude": 45.8980999,
+    "longitude": 8.7341302
+  },
+  {
+    "street": "Via Giuseppe Maggi",
+    "number": "7",
+    "city": {
+      "name": "Cuvio",
+      "istat": "012063"
+    },
+    "latitude": 45.8991515,
+    "longitude": 8.7337527
+  },
+  {
+    "street": "Via Giuseppe Maggi",
+    "number": "8",
+    "city": {
+      "name": "Cuvio",
+      "istat": "012063"
+    },
+    "latitude": 45.8984153,
+    "longitude": 8.7340951
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "14",
+    "city": {
+      "name": "Cuvio",
+      "istat": "012063"
+    },
+    "latitude": 45.8967822,
+    "longitude": 8.7309394
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "12a",
+    "city": {
+      "name": "Cuvio",
+      "istat": "012063"
+    },
+    "latitude": 45.8970032,
+    "longitude": 8.7320141
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "15",
+    "city": {
+      "name": "Cuvio",
+      "istat": "012063"
+    },
+    "latitude": 45.9021364,
+    "longitude": 8.7346187
+  },
+  {
+    "street": "Via Cantone",
+    "number": "16",
+    "city": {
+      "name": "Cuvio",
+      "istat": "012063"
+    },
+    "latitude": 45.8990243,
+    "longitude": 8.7293318
+  },
+  {
+    "street": "Località Fornaci",
+    "number": "2",
+    "city": {
+      "name": "Cuvio",
+      "istat": "012063"
+    },
+    "latitude": 45.8866623,
+    "longitude": 8.7445975
+  },
+  {
+    "street": "Località Fornaci",
+    "number": "1",
+    "city": {
+      "name": "Cuvio",
+      "istat": "012063"
+    },
+    "latitude": 45.8875532,
+    "longitude": 8.7457969
+  },
+  {
+    "street": "Via Tito Livio",
+    "number": "2",
+    "city": {
+      "name": "Cuvio",
+      "istat": "012063"
+    },
+    "latitude": 45.8980626,
+    "longitude": 8.7322089
+  },
+  {
+    "street": "Largo Cappia",
+    "number": "8",
+    "city": {
+      "name": "Cuvio",
+      "istat": "012063"
+    },
+    "latitude": 45.8959409,
+    "longitude": 8.7285467
+  },
+  {
+    "street": "Via Giuseppe Maggi",
+    "number": "40",
+    "city": {
+      "name": "Cuvio",
+      "istat": "012063"
+    },
+    "latitude": 45.9024317,
+    "longitude": 8.7348531
+  }
+]

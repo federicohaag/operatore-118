@@ -1,0 +1,4202 @@
+[
+  {
+    "street": "Via Ludwig Van Beethoven",
+    "number": "2",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5789661,
+    "longitude": 9.2309442
+  },
+  {
+    "street": "Via Fratelli Cervi",
+    "number": "3a",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5793446,
+    "longitude": 9.2309185
+  },
+  {
+    "street": "Via Carlo Cattaneo",
+    "number": "7",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5932198,
+    "longitude": 9.2349241
+  },
+  {
+    "street": "Via Pavia",
+    "number": "30",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5833051,
+    "longitude": 9.2333682
+  },
+  {
+    "street": "Via Libertà",
+    "number": "47",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5976935,
+    "longitude": 9.223488
+  },
+  {
+    "street": "Viale Alfonso Casati",
+    "number": "2a",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5942347,
+    "longitude": 9.2258991
+  },
+  {
+    "street": "Via Baruso",
+    "number": "17",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5946765,
+    "longitude": 9.2288919
+  },
+  {
+    "street": "Via Baruso",
+    "number": "1",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5942799,
+    "longitude": 9.2285007
+  },
+  {
+    "street": "Piazza Giuseppe Garibaldi",
+    "number": "20",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5937364,
+    "longitude": 9.227092
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "18",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5965092,
+    "longitude": 9.2200933
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "8",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5941834,
+    "longitude": 9.2319227
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "49",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.591927,
+    "longitude": 9.2417169
+  },
+  {
+    "street": "Via Pavia",
+    "number": "8",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5824823,
+    "longitude": 9.230096
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "37",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5921055,
+    "longitude": 9.2410599
+  },
+  {
+    "street": "Via Europa",
+    "number": "33a",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5880259,
+    "longitude": 9.2274916
+  },
+  {
+    "street": "Via della Giardina",
+    "number": "21",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5943333,
+    "longitude": 9.242333
+  },
+  {
+    "street": "Via Italia",
+    "number": "66",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5922346,
+    "longitude": 9.2208884
+  },
+  {
+    "street": "Viale della Repubblica",
+    "number": "27/f",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5914163,
+    "longitude": 9.2317244
+  },
+  {
+    "street": "Via Beato Angelico",
+    "number": "2",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5925635,
+    "longitude": 9.2338576
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "2",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5935907,
+    "longitude": 9.2328276
+  },
+  {
+    "street": "Via Libertà",
+    "number": "44a",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5991144,
+    "longitude": 9.2230248
+  },
+  {
+    "street": "Via Trieste",
+    "number": "65",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5989263,
+    "longitude": 9.2287469
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "43",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5934135,
+    "longitude": 9.2320862
+  },
+  {
+    "street": "Piazza Giuseppe Garibaldi",
+    "number": "23",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5935068,
+    "longitude": 9.2274024
+  },
+  {
+    "street": "Vicolo Pastrengo",
+    "number": "6",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5978354,
+    "longitude": 9.2234277
+  },
+  {
+    "street": "Via Piave",
+    "number": "29",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5966836,
+    "longitude": 9.2285799
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "7",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5936865,
+    "longitude": 9.2316786
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "10",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5931767,
+    "longitude": 9.227667
+  },
+  {
+    "street": "Via della Ricostruzione",
+    "number": "38",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5893521,
+    "longitude": 9.2220274
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "6c",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5937703,
+    "longitude": 9.2321905
+  },
+  {
+    "street": "Via Trieste",
+    "number": "45",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5986328,
+    "longitude": 9.2274588
+  },
+  {
+    "street": "Via Trieste",
+    "number": "47",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5986504,
+    "longitude": 9.2275391
+  },
+  {
+    "street": "Via Trieste",
+    "number": "51",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5986626,
+    "longitude": 9.2275914
+  },
+  {
+    "street": "Via Trieste",
+    "number": "55",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5986785,
+    "longitude": 9.2276692
+  },
+  {
+    "street": "Via Varese",
+    "number": "2",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5857038,
+    "longitude": 9.2269962
+  },
+  {
+    "street": "Viale della Repubblica",
+    "number": "86",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.590492,
+    "longitude": 9.2156164
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "30",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.594961,
+    "longitude": 9.2320561
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "28",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5949066,
+    "longitude": 9.2320347
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "26",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5948521,
+    "longitude": 9.2319998
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "24",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5947883,
+    "longitude": 9.2319891
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "22",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5947283,
+    "longitude": 9.2319676
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "20",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5946476,
+    "longitude": 9.2319569
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "18",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5945988,
+    "longitude": 9.2319542
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "16",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5945331,
+    "longitude": 9.2319408
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "14",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5944636,
+    "longitude": 9.2319274
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "15a",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5945762,
+    "longitude": 9.2317691
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "15b",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.594625,
+    "longitude": 9.2317799
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "15",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5945631,
+    "longitude": 9.2316511
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "12",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5943979,
+    "longitude": 9.2319328
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "6",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5947864,
+    "longitude": 9.2313614
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "4",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.59455,
+    "longitude": 9.2312059
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "1",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5943379,
+    "longitude": 9.2310342
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "8",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5941896,
+    "longitude": 9.2316484
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "10",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5941671,
+    "longitude": 9.2315733
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "12",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5941596,
+    "longitude": 9.2314875
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "14",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5941633,
+    "longitude": 9.2313829
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "16",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5941596,
+    "longitude": 9.2312971
+  },
+  {
+    "street": "Via San Francesco",
+    "number": "11",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5967927,
+    "longitude": 9.234859
+  },
+  {
+    "street": "Piazza Giacomo Matteotti",
+    "number": "1",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.593647,
+    "longitude": 9.2296949
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "3",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5940545,
+    "longitude": 9.2312032
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "5",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5940526,
+    "longitude": 9.2311415
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "7",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5940488,
+    "longitude": 9.2310798
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "9",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5940507,
+    "longitude": 9.2310154
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "11",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5940507,
+    "longitude": 9.2309511
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "13",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5940395,
+    "longitude": 9.2308599
+  },
+  {
+    "street": "Piazza 9 Novembre 1989",
+    "number": "3",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5936735,
+    "longitude": 9.2306104
+  },
+  {
+    "street": "Via Giuseppe Saragat",
+    "number": "10",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5939738,
+    "longitude": 9.2307445
+  },
+  {
+    "street": "Via Giuseppe Saragat",
+    "number": "12",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5940132,
+    "longitude": 9.2307258
+  },
+  {
+    "street": "Via Giuseppe Saragat",
+    "number": "5",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5939681,
+    "longitude": 9.2306185
+  },
+  {
+    "street": "Via Giuseppe Saragat",
+    "number": "3",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5938086,
+    "longitude": 9.2306721
+  },
+  {
+    "street": "Via Giuseppe Saragat",
+    "number": "8",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5938462,
+    "longitude": 9.2308116
+  },
+  {
+    "street": "Via Giuseppe Saragat",
+    "number": "4",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5936678,
+    "longitude": 9.2308599
+  },
+  {
+    "street": "Via Giuseppe Saragat",
+    "number": "6",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5937242,
+    "longitude": 9.2308331
+  },
+  {
+    "street": "Via Giuseppe Saragat",
+    "number": "1",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.593666,
+    "longitude": 9.2307365
+  },
+  {
+    "street": "Via Giuseppe Saragat",
+    "number": "2",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5935646,
+    "longitude": 9.2309162
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "20",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5934576,
+    "longitude": 9.230935
+  },
+  {
+    "street": "Piazza Giacomo Matteotti",
+    "number": "10",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5932258,
+    "longitude": 9.2295335
+  },
+  {
+    "street": "Piazza Giacomo Matteotti",
+    "number": "9",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5932333,
+    "longitude": 9.2295858
+  },
+  {
+    "street": "Piazza Giacomo Matteotti",
+    "number": "8",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5932474,
+    "longitude": 9.2296824
+  },
+  {
+    "street": "Piazza Giacomo Matteotti",
+    "number": "7",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5932681,
+    "longitude": 9.2298809
+  },
+  {
+    "street": "Piazza 9 Novembre 1989",
+    "number": "8",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5934013,
+    "longitude": 9.2304334
+  },
+  {
+    "street": "Piazza Giacomo Matteotti",
+    "number": "5",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.59333,
+    "longitude": 9.2300686
+  },
+  {
+    "street": "Via Gabrio Casati",
+    "number": "1",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5936115,
+    "longitude": 9.228867
+  },
+  {
+    "street": "Via Gabrio Casati",
+    "number": "1b",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5938649,
+    "longitude": 9.2286792
+  },
+  {
+    "street": "Via Gabrio Casati",
+    "number": "1a",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5937636,
+    "longitude": 9.2287436
+  },
+  {
+    "street": "Via Gabrio Casati",
+    "number": "3",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5940038,
+    "longitude": 9.2285693
+  },
+  {
+    "street": "Via Don Giovanni Ferrario",
+    "number": "15",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5941253,
+    "longitude": 9.2283878
+  },
+  {
+    "street": "Via Don Giovanni Ferrario",
+    "number": "13",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5941089,
+    "longitude": 9.2282957
+  },
+  {
+    "street": "Via Don Giovanni Ferrario",
+    "number": "17",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5941746,
+    "longitude": 9.2284432
+  },
+  {
+    "street": "Via Baruso",
+    "number": "11",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.59455,
+    "longitude": 9.2287812
+  },
+  {
+    "street": "Via Baruso",
+    "number": "9",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5945218,
+    "longitude": 9.228757
+  },
+  {
+    "street": "Via Baruso",
+    "number": "7",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5944862,
+    "longitude": 9.2287275
+  },
+  {
+    "street": "Via Baruso",
+    "number": "15",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5946119,
+    "longitude": 9.2288402
+  },
+  {
+    "street": "Via Baruso",
+    "number": "5",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5943923,
+    "longitude": 9.2286578
+  },
+  {
+    "street": "Via Baruso",
+    "number": "29",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5948859,
+    "longitude": 9.2291486
+  },
+  {
+    "street": "Via Baruso",
+    "number": "25",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5948146,
+    "longitude": 9.2290708
+  },
+  {
+    "street": "Via Baruso",
+    "number": "23",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5947639,
+    "longitude": 9.2290038
+  },
+  {
+    "street": "Via Baruso",
+    "number": "19",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.594717,
+    "longitude": 9.2289555
+  },
+  {
+    "street": "Via Baruso",
+    "number": "31",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5950098,
+    "longitude": 9.2293203
+  },
+  {
+    "street": "Viale Alfonso Casati",
+    "number": "17",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5954264,
+    "longitude": 9.2295992
+  },
+  {
+    "street": "Viale Alfonso Casati",
+    "number": "21",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5955653,
+    "longitude": 9.2306104
+  },
+  {
+    "street": "Viale Alfonso Casati",
+    "number": "25",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5956273,
+    "longitude": 9.2308867
+  },
+  {
+    "street": "Viale Alfonso Casati",
+    "number": "23",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5956779,
+    "longitude": 9.230766
+  },
+  {
+    "street": "Viale Alfonso Casati",
+    "number": "27",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5957042,
+    "longitude": 9.2310101
+  },
+  {
+    "street": "Viale Alfonso Casati",
+    "number": "29",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5957474,
+    "longitude": 9.2310986
+  },
+  {
+    "street": "Viale Alfonso Casati",
+    "number": "31",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5957718,
+    "longitude": 9.231222
+  },
+  {
+    "street": "Viale Alfonso Casati",
+    "number": "33",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5958074,
+    "longitude": 9.2315116
+  },
+  {
+    "street": "Viale Alfonso Casati",
+    "number": "39",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5959219,
+    "longitude": 9.2318416
+  },
+  {
+    "street": "Viale Alfonso Casati",
+    "number": "37",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5959031,
+    "longitude": 9.2317772
+  },
+  {
+    "street": "Viale Alfonso Casati",
+    "number": "35",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5958787,
+    "longitude": 9.2317101
+  },
+  {
+    "street": "Viale Alfonso Casati",
+    "number": "43",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5959763,
+    "longitude": 9.2319998
+  },
+  {
+    "street": "Viale Alfonso Casati",
+    "number": "26",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5955991,
+    "longitude": 9.2312783
+  },
+  {
+    "street": "Viale Alfonso Casati",
+    "number": "45",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5961171,
+    "longitude": 9.2324156
+  },
+  {
+    "street": "Viale Alfonso Casati",
+    "number": "47",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5961546,
+    "longitude": 9.2325819
+  },
+  {
+    "street": "Viale Alfonso Casati",
+    "number": "49",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5962147,
+    "longitude": 9.2328125
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "58",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5959163,
+    "longitude": 9.233526
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "42",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.595631,
+    "longitude": 9.2332953
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "36",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5954602,
+    "longitude": 9.233239
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "40",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5955597,
+    "longitude": 9.2332685
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "38",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5955071,
+    "longitude": 9.2332524
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "46",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5957173,
+    "longitude": 9.2333168
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "44",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5956798,
+    "longitude": 9.233306
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "48",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5957586,
+    "longitude": 9.2333195
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "52",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5958177,
+    "longitude": 9.2333302
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "50",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.595784,
+    "longitude": 9.2333235
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "54",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.59589,
+    "longitude": 9.2333597
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "66",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5961377,
+    "longitude": 9.2334214
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "60",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5959989,
+    "longitude": 9.2333811
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "66a",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.596316,
+    "longitude": 9.2335823
+  },
+  {
+    "street": "Via Margherita Gaudenzi",
+    "number": "8",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5963592,
+    "longitude": 9.2340893
+  },
+  {
+    "street": "Via San Francesco",
+    "number": "4",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5966257,
+    "longitude": 9.2344245
+  },
+  {
+    "street": "Via San Francesco",
+    "number": "2",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.59659,
+    "longitude": 9.2341697
+  },
+  {
+    "street": "Via San Francesco",
+    "number": "1",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5965975,
+    "longitude": 9.2336816
+  },
+  {
+    "street": "Via San Francesco",
+    "number": "3",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5966895,
+    "longitude": 9.2341885
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "4",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5973689,
+    "longitude": 9.2342046
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "2",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5967327,
+    "longitude": 9.2341027
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "1a",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5970498,
+    "longitude": 9.2340168
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "1",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5968734,
+    "longitude": 9.2339632
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "3",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5971305,
+    "longitude": 9.2340624
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "5",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5972976,
+    "longitude": 9.2339525
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "7",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5972319,
+    "longitude": 9.2338532
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "74",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.597048,
+    "longitude": 9.2336842
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "72",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.596941,
+    "longitude": 9.2336494
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "70",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5967965,
+    "longitude": 9.2336011
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "68",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5967233,
+    "longitude": 9.2335823
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "33",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5970874,
+    "longitude": 9.2335126
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "35",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5972938,
+    "longitude": 9.2335528
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "37",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5974965,
+    "longitude": 9.2335555
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "82",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5977611,
+    "longitude": 9.2338666
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "84",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5979225,
+    "longitude": 9.2339095
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "39",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5981402,
+    "longitude": 9.2337567
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "43",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5983147,
+    "longitude": 9.2338344
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "41",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.598204,
+    "longitude": 9.2338103
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "47",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5985794,
+    "longitude": 9.2339256
+  },
+  {
+    "street": "Via Eugenio Villoresi",
+    "number": "19",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5919205,
+    "longitude": 9.229449
+  },
+  {
+    "street": "Via Carlo Collodi",
+    "number": "7",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5927932,
+    "longitude": 9.2285317
+  },
+  {
+    "street": "Via Carlo Collodi",
+    "number": "5",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.592782,
+    "longitude": 9.2283574
+  },
+  {
+    "street": "Via Eugenio Villoresi",
+    "number": "4",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5931442,
+    "longitude": 9.2289716
+  },
+  {
+    "street": "Via Eugenio Villoresi",
+    "number": "6",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.593101,
+    "longitude": 9.2289528
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "8",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5920425,
+    "longitude": 9.2287034
+  },
+  {
+    "street": "Via Eugenio Villoresi",
+    "number": "12",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.59144,
+    "longitude": 9.2290655
+  },
+  {
+    "street": "Via Eugenio Villoresi",
+    "number": "10",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5917816,
+    "longitude": 9.2290601
+  },
+  {
+    "street": "Via Eugenio Villoresi",
+    "number": "25",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5914006,
+    "longitude": 9.2292157
+  },
+  {
+    "street": "Via Eugenio Villoresi",
+    "number": "23",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5916464,
+    "longitude": 9.2292023
+  },
+  {
+    "street": "Via Eugenio Villoresi",
+    "number": "21",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.591791,
+    "longitude": 9.2292023
+  },
+  {
+    "street": "Via Eugenio Villoresi",
+    "number": "17",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5923916,
+    "longitude": 9.2291915
+  },
+  {
+    "street": "Via Eugenio Villoresi",
+    "number": "15",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5925661,
+    "longitude": 9.2291406
+  },
+  {
+    "street": "Via Eugenio Villoresi",
+    "number": "13",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5926318,
+    "longitude": 9.2291138
+  },
+  {
+    "street": "Via Eugenio Villoresi",
+    "number": "3",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5929762,
+    "longitude": 9.2290252
+  },
+  {
+    "street": "Via Eugenio Villoresi",
+    "number": "5",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5929162,
+    "longitude": 9.2290373
+  },
+  {
+    "street": "Via Eugenio Villoresi",
+    "number": "1",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5930935,
+    "longitude": 9.2290387
+  },
+  {
+    "street": "Via Luogo Pio",
+    "number": "3",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5931039,
+    "longitude": 9.229905
+  },
+  {
+    "street": "Via Luogo Pio",
+    "number": "5",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5929725,
+    "longitude": 9.2299613
+  },
+  {
+    "street": "Via Luogo Pio",
+    "number": "7",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5926956,
+    "longitude": 9.2300954
+  },
+  {
+    "street": "Via Luogo Pio",
+    "number": "2",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5928064,
+    "longitude": 9.2299479
+  },
+  {
+    "street": "Via Luogo Pio",
+    "number": "4",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.592735,
+    "longitude": 9.2299882
+  },
+  {
+    "street": "Via Luogo Pio",
+    "number": "9",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5925474,
+    "longitude": 9.2303824
+  },
+  {
+    "street": "Via Luogo Pio",
+    "number": "15",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5924291,
+    "longitude": 9.2305461
+  },
+  {
+    "street": "Via Luogo Pio",
+    "number": "8",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5924591,
+    "longitude": 9.2301732
+  },
+  {
+    "street": "Via Luogo Pio",
+    "number": "6",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.592523,
+    "longitude": 9.2301115
+  },
+  {
+    "street": "Via Luogo Pio",
+    "number": "12",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5920612,
+    "longitude": 9.2304897
+  },
+  {
+    "street": "Via Luogo Pio",
+    "number": "19",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5921307,
+    "longitude": 9.230589
+  },
+  {
+    "street": "Via Luogo Pio",
+    "number": "17",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.592157,
+    "longitude": 9.230589
+  },
+  {
+    "street": "Via Luogo Pio",
+    "number": "21",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5920256,
+    "longitude": 9.2305917
+  },
+  {
+    "street": "Via Luogo Pio",
+    "number": "23",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5919299,
+    "longitude": 9.2306024
+  },
+  {
+    "street": "Piazza Giacomo Matteotti",
+    "number": "19",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5933375,
+    "longitude": 9.2290708
+  },
+  {
+    "street": "Piazza Giacomo Matteotti",
+    "number": "18",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5932662,
+    "longitude": 9.2290521
+  },
+  {
+    "street": "Piazza Giacomo Matteotti",
+    "number": "13",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5932005,
+    "longitude": 9.2293149
+  },
+  {
+    "street": "Piazza Giacomo Matteotti",
+    "number": "14",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5931949,
+    "longitude": 9.2292559
+  },
+  {
+    "street": "Piazza Giacomo Matteotti",
+    "number": "15",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5931874,
+    "longitude": 9.2291808
+  },
+  {
+    "street": "Piazza Giacomo Matteotti",
+    "number": "16",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5931742,
+    "longitude": 9.2291084
+  },
+  {
+    "street": "Piazza Giacomo Matteotti",
+    "number": "11",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5932202,
+    "longitude": 9.2294705
+  },
+  {
+    "street": "Piazza Giacomo Matteotti",
+    "number": "12",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5932165,
+    "longitude": 9.2293994
+  },
+  {
+    "street": "Viale della Repubblica",
+    "number": "45",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5911566,
+    "longitude": 9.2295456
+  },
+  {
+    "street": "Viale della Repubblica",
+    "number": "43",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5912711,
+    "longitude": 9.229854
+  },
+  {
+    "street": "Viale della Repubblica",
+    "number": "43a",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5912185,
+    "longitude": 9.2297065
+  },
+  {
+    "street": "Viale della Repubblica",
+    "number": "39",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5914081,
+    "longitude": 9.2301947
+  },
+  {
+    "street": "Viale della Repubblica",
+    "number": "41",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5913311,
+    "longitude": 9.2299694
+  },
+  {
+    "street": "Viale della Repubblica",
+    "number": "37",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5914794,
+    "longitude": 9.2303932
+  },
+  {
+    "street": "Viale della Repubblica",
+    "number": "14",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5918116,
+    "longitude": 9.2304468
+  },
+  {
+    "street": "Viale della Repubblica",
+    "number": "16",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5916558,
+    "longitude": 9.2300364
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "4",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5941896,
+    "longitude": 9.23226
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "34",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5949366,
+    "longitude": 9.2324746
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "32",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5949478,
+    "longitude": 9.2324075
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "27",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5948709,
+    "longitude": 9.232901
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "25",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5948165,
+    "longitude": 9.2328849
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "23",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5947602,
+    "longitude": 9.2328769
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "21",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5947039,
+    "longitude": 9.2328581
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "19",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5946438,
+    "longitude": 9.2328447
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "17",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5945819,
+    "longitude": 9.2328313
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "15",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5944899,
+    "longitude": 9.2328528
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "11",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5943191,
+    "longitude": 9.2327964
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "10",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5943567,
+    "longitude": 9.2329466
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "16",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5945612,
+    "longitude": 9.2330083
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "24",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5947452,
+    "longitude": 9.2330512
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "22",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5946813,
+    "longitude": 9.2330378
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "26",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5949328,
+    "longitude": 9.2331049
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "32b",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5952219,
+    "longitude": 9.2331827
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "32a",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5951543,
+    "longitude": 9.2331612
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "32",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5950942,
+    "longitude": 9.2331424
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "34",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.595327,
+    "longitude": 9.2332041
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "4",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5950511,
+    "longitude": 9.2334214
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "6",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5950942,
+    "longitude": 9.2337245
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "1a",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5951581,
+    "longitude": 9.2336172
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "8",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5951393,
+    "longitude": 9.2340249
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "1",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5952144,
+    "longitude": 9.233982
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "3",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.595235,
+    "longitude": 9.2341295
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "7",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5953007,
+    "longitude": 9.234615
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "5",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5952819,
+    "longitude": 9.2344943
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "10a",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5952894,
+    "longitude": 9.2349341
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "10",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5952369,
+    "longitude": 9.2346364
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "12",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5953195,
+    "longitude": 9.2351219
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "13",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5949572,
+    "longitude": 9.2343789
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "11",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.594884,
+    "longitude": 9.2343923
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "10",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5948897,
+    "longitude": 9.2345399
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "7",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5947264,
+    "longitude": 9.234446
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "3b",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5945931,
+    "longitude": 9.2344755
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "3a",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5945087,
+    "longitude": 9.234505
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "3",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.594366,
+    "longitude": 9.2345425
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "4",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5945781,
+    "longitude": 9.2346284
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "2",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.594306,
+    "longitude": 9.2347008
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "1",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5942703,
+    "longitude": 9.2345586
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "9",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.594092,
+    "longitude": 9.2344674
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "10",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5939738,
+    "longitude": 9.2343333
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "16",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5941145,
+    "longitude": 9.2356744
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "11",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.594229,
+    "longitude": 9.2353848
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "13",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5942741,
+    "longitude": 9.2357093
+  },
+  {
+    "street": "Via Guglielmo Oberdan",
+    "number": "5",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.594747,
+    "longitude": 9.2354169
+  },
+  {
+    "street": "Via Guglielmo Oberdan",
+    "number": "2",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5944374,
+    "longitude": 9.2356369
+  },
+  {
+    "street": "Via Guglielmo Oberdan",
+    "number": "4",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5944955,
+    "longitude": 9.2356127
+  },
+  {
+    "street": "Via Guglielmo Oberdan",
+    "number": "6",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5946701,
+    "longitude": 9.2355698
+  },
+  {
+    "street": "Via Guglielmo Oberdan",
+    "number": "6a",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5948465,
+    "longitude": 9.2355055
+  },
+  {
+    "street": "Via Guglielmo Oberdan",
+    "number": "11",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.594961,
+    "longitude": 9.2353311
+  },
+  {
+    "street": "Via Guglielmo Oberdan",
+    "number": "8",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5951243,
+    "longitude": 9.2354196
+  },
+  {
+    "street": "Via Guglielmo Oberdan",
+    "number": "12",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5952782,
+    "longitude": 9.2353767
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "1",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5955595,
+    "longitude": 9.2351112
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "2",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5956366,
+    "longitude": 9.2352587
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "4",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5959557,
+    "longitude": 9.2351407
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "3",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5959332,
+    "longitude": 9.2350012
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "5",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5960777,
+    "longitude": 9.2349529
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "6a",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5962259,
+    "longitude": 9.2350548
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "6",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5961133,
+    "longitude": 9.2350978
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "8",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5963142,
+    "longitude": 9.2350093
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "10",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5965975,
+    "longitude": 9.2349288
+  },
+  {
+    "street": "Via Indipendenza",
+    "number": "11",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5965506,
+    "longitude": 9.2348134
+  },
+  {
+    "street": "Via Margherita Gaudenzi",
+    "number": "1",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5953645,
+    "longitude": 9.2342636
+  },
+  {
+    "street": "Via Margherita Gaudenzi",
+    "number": "3",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5954715,
+    "longitude": 9.234218
+  },
+  {
+    "street": "Via Margherita Gaudenzi",
+    "number": "5",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5955165,
+    "longitude": 9.2341965
+  },
+  {
+    "street": "Via Margherita Gaudenzi",
+    "number": "7",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5956404,
+    "longitude": 9.2341912
+  },
+  {
+    "street": "Via Margherita Gaudenzi",
+    "number": "4",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5957718,
+    "longitude": 9.2342743
+  },
+  {
+    "street": "Via Margherita Gaudenzi",
+    "number": "2",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5954208,
+    "longitude": 9.2343736
+  },
+  {
+    "street": "Via Margherita Gaudenzi",
+    "number": "9",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5960233,
+    "longitude": 9.2340705
+  },
+  {
+    "street": "Via Margherita Gaudenzi",
+    "number": "6",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5961021,
+    "longitude": 9.2341778
+  },
+  {
+    "street": "Viale della Repubblica",
+    "number": "32",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5906031,
+    "longitude": 9.2264626
+  },
+  {
+    "street": "Via Bezzecca",
+    "number": "4/11",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5892861,
+    "longitude": 9.2174641
+  },
+  {
+    "street": "Viale della Repubblica",
+    "number": "27",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5914506,
+    "longitude": 9.2318601
+  },
+  {
+    "street": "Via Bezzecca",
+    "number": "4",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5892258,
+    "longitude": 9.2177364
+  },
+  {
+    "street": "Via Gabriele D'Annunzio",
+    "number": "4",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5958809,
+    "longitude": 9.2413204
+  },
+  {
+    "street": "Via Luigi Figini",
+    "number": "18d",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5816927,
+    "longitude": 9.2366449
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "29",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5935209,
+    "longitude": 9.2314398
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "55",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5933258,
+    "longitude": 9.2323893
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "25",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5935562,
+    "longitude": 9.2312425
+  },
+  {
+    "street": "Via Luigi Galvani",
+    "number": "13",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5966441,
+    "longitude": 9.2291981
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "42",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5933111,
+    "longitude": 9.2320264
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "12",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5932252,
+    "longitude": 9.2279549
+  },
+  {
+    "street": "Viale della Repubblica",
+    "number": "72",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5898773,
+    "longitude": 9.2204602
+  },
+  {
+    "street": "Viale della Repubblica",
+    "number": "77a",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5899602,
+    "longitude": 9.2248846
+  },
+  {
+    "street": "Viale della Repubblica",
+    "number": "68",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5898805,
+    "longitude": 9.2207451
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "14",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5925398,
+    "longitude": 9.2126289
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "12",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5924353,
+    "longitude": 9.2126781
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "10",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5921822,
+    "longitude": 9.2127775
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "8",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5920813,
+    "longitude": 9.2128396
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "6",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5917823,
+    "longitude": 9.2129328
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "4",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5915978,
+    "longitude": 9.2129998
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "2",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5913094,
+    "longitude": 9.2131192
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "16",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.59263,
+    "longitude": 9.2125925
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "18",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5927256,
+    "longitude": 9.2125608
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "20",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5928304,
+    "longitude": 9.2125442
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "22",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5929695,
+    "longitude": 9.212462
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "24",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5930367,
+    "longitude": 9.2124324
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "26",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5931714,
+    "longitude": 9.2123813
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "28",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.59333,
+    "longitude": 9.2123057
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "30",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5935052,
+    "longitude": 9.2122356
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "49",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5937399,
+    "longitude": 9.2122646
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "45",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5938046,
+    "longitude": 9.2125573
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "47",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5937718,
+    "longitude": 9.2124165
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "41",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5919428,
+    "longitude": 9.2415173
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "31",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5906706,
+    "longitude": 9.2268008
+  },
+  {
+    "street": "Via Fratelli Bandiera",
+    "number": "9a",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5713107,
+    "longitude": 9.224712
+  },
+  {
+    "street": "Via Libertà",
+    "number": "13",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5945467,
+    "longitude": 9.2249568
+  },
+  {
+    "street": "Viale Alfonso Casati",
+    "number": "5",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5952531,
+    "longitude": 9.2273265
+  },
+  {
+    "street": "Piazza Antonio Gramsci",
+    "number": "6",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5941021,
+    "longitude": 9.2281266
+  },
+  {
+    "street": "Via Baruso",
+    "number": "3",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5943278,
+    "longitude": 9.2285607
+  },
+  {
+    "street": "De Amicis",
+    "number": "3a",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5921724,
+    "longitude": 9.2287125
+  },
+  {
+    "street": "Piazza Giuseppe Garibaldi",
+    "number": "34",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5930378,
+    "longitude": 9.2271383
+  },
+  {
+    "street": "Viale Alfonso Casati",
+    "number": "2",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5941198,
+    "longitude": 9.2259736
+  },
+  {
+    "street": "Via Libertà",
+    "number": "2",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5951069,
+    "longitude": 9.2252567
+  },
+  {
+    "street": "Via Libertà",
+    "number": "2a",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5955583,
+    "longitude": 9.2253422
+  },
+  {
+    "street": "Via Libertà",
+    "number": "9",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.593662,
+    "longitude": 9.2254202
+  },
+  {
+    "street": "Viale della Repubblica",
+    "number": "87/89",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5895479,
+    "longitude": 9.219827
+  },
+  {
+    "street": "Viale della Repubblica",
+    "number": "98",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5900183,
+    "longitude": 9.2142192
+  },
+  {
+    "street": "Viale della Repubblica",
+    "number": "17",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5921292,
+    "longitude": 9.2321865
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "9",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.599221,
+    "longitude": 9.2243962
+  },
+  {
+    "street": "Via Mentana",
+    "number": "1",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.592537,
+    "longitude": 9.2130353
+  },
+  {
+    "street": "Via Fratelli Cairoli",
+    "number": "3",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5924426,
+    "longitude": 9.2129546
+  },
+  {
+    "street": "Via Mentana",
+    "number": "2",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.592555,
+    "longitude": 9.2131599
+  },
+  {
+    "street": "Via Mentana",
+    "number": "3",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5926813,
+    "longitude": 9.2129545
+  },
+  {
+    "street": "Via Mentana",
+    "number": "5",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5928404,
+    "longitude": 9.212896
+  },
+  {
+    "street": "Via Mentana",
+    "number": "4",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5926642,
+    "longitude": 9.2131279
+  },
+  {
+    "street": "Via Mentana",
+    "number": "6",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5928745,
+    "longitude": 9.2130253
+  },
+  {
+    "street": "Via Mentana",
+    "number": "7",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5929614,
+    "longitude": 9.2128434
+  },
+  {
+    "street": "Via Mentana",
+    "number": "9",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5930665,
+    "longitude": 9.2128199
+  },
+  {
+    "street": "Via Mentana",
+    "number": "11",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5931702,
+    "longitude": 9.2127833
+  },
+  {
+    "street": "Via Mentana",
+    "number": "18",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5932874,
+    "longitude": 9.2130542
+  },
+  {
+    "street": "Via Mentana",
+    "number": "18A",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5932406,
+    "longitude": 9.2130743
+  },
+  {
+    "street": "Via Mentana",
+    "number": "15",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5933202,
+    "longitude": 9.2129316
+  },
+  {
+    "street": "Via Mentana",
+    "number": "20",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5934248,
+    "longitude": 9.2129957
+  },
+  {
+    "street": "Via Mentana",
+    "number": "17",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5933967,
+    "longitude": 9.2128935
+  },
+  {
+    "street": "Via Mentana",
+    "number": "19",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5934495,
+    "longitude": 9.2128713
+  },
+  {
+    "street": "Via Mentana",
+    "number": "21",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5935112,
+    "longitude": 9.2128454
+  },
+  {
+    "street": "Via Mentana",
+    "number": "23",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5936185,
+    "longitude": 9.2128003
+  },
+  {
+    "street": "Via Mentana",
+    "number": "26",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5937723,
+    "longitude": 9.2128489
+  },
+  {
+    "street": "Via Mentana",
+    "number": "24",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5936372,
+    "longitude": 9.212906
+  },
+  {
+    "street": "Via Mentana",
+    "number": "22",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.593581,
+    "longitude": 9.2129297
+  },
+  {
+    "street": "Via Fratelli Cairoli",
+    "number": "5",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5925077,
+    "longitude": 9.2133223
+  },
+  {
+    "street": "Via Italia",
+    "number": "123",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5911191,
+    "longitude": 9.2146635
+  },
+  {
+    "street": "Via Italia",
+    "number": "129",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.591021,
+    "longitude": 9.2139416
+  },
+  {
+    "street": "Via Italia",
+    "number": "133",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5910042,
+    "longitude": 9.2137987
+  },
+  {
+    "street": "Via Italia",
+    "number": "98",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5911027,
+    "longitude": 9.2134389
+  },
+  {
+    "street": "Via Italia",
+    "number": "35",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.592575,
+    "longitude": 9.2245694
+  },
+  {
+    "street": "Viale della Repubblica",
+    "number": "91",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.589359,
+    "longitude": 9.2194486
+  },
+  {
+    "street": "Via Ciro Menotti",
+    "number": "6",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5923889,
+    "longitude": 9.2404216
+  },
+  {
+    "street": "Via Lodi",
+    "number": "1",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5860365,
+    "longitude": 9.2274587
+  },
+  {
+    "street": "Viale della Repubblica",
+    "number": "9",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5921447,
+    "longitude": 9.2327826
+  },
+  {
+    "street": "Via Filippo Meda",
+    "number": "2",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5866271,
+    "longitude": 9.2246328
+  },
+  {
+    "street": "Via Monza",
+    "number": "18",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5873807,
+    "longitude": 9.2342191
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "2",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5939177,
+    "longitude": 9.225073
+  },
+  {
+    "street": "Via Michele Robecchi",
+    "number": "12",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5926429,
+    "longitude": 9.2145273
+  },
+  {
+    "street": "Via Michele Robecchi",
+    "number": "14",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5928341,
+    "longitude": 9.2144648
+  },
+  {
+    "street": "Via Michele Robecchi",
+    "number": "16",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5930662,
+    "longitude": 9.2143733
+  },
+  {
+    "street": "Via Generale Gaetano Giardino",
+    "number": "1",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5991385,
+    "longitude": 9.2332419
+  },
+  {
+    "street": "Via Giovanni Falcone e Paolo Borsellino",
+    "number": "15",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5872091,
+    "longitude": 9.2375786
+  },
+  {
+    "street": "Viale Valassina",
+    "number": "57",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5982304,
+    "longitude": 9.2368482
+  },
+  {
+    "street": "Via Pusiano",
+    "number": "2",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5914657,
+    "longitude": 9.2385592
+  },
+  {
+    "street": "Viale Combattenti",
+    "number": "4",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5758187,
+    "longitude": 9.2301035
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "13",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5927994,
+    "longitude": 9.2360885
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "1",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.6002511,
+    "longitude": 9.2229623
+  },
+  {
+    "street": "Via Carlo Cattaneo",
+    "number": "8",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5933594,
+    "longitude": 9.2365269
+  },
+  {
+    "street": "Via Curtatone",
+    "number": "21",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5866053,
+    "longitude": 9.217604
+  },
+  {
+    "street": "Via Luigi Figini",
+    "number": "59",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5810984,
+    "longitude": 9.2339848
+  },
+  {
+    "street": "Via Salvador Allende",
+    "number": "3",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5975253,
+    "longitude": 9.2218052
+  },
+  {
+    "street": "Via della Ricostruzione",
+    "number": "1",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5890274,
+    "longitude": 9.2262367
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "12",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5967232,
+    "longitude": 9.2218377
+  },
+  {
+    "street": "Via Federico Confalonieri",
+    "number": "41",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5807883,
+    "longitude": 9.2291237
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "2",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5923973,
+    "longitude": 9.2284734
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "3",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.6005045,
+    "longitude": 9.2238121
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "32",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.593069,
+    "longitude": 9.2317377
+  },
+  {
+    "street": "Piazza della Chiesa",
+    "number": "10",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5926785,
+    "longitude": 9.2270943
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "13",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5917997,
+    "longitude": 9.2265487
+  },
+  {
+    "street": "Viale della Repubblica",
+    "number": "74",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5904789,
+    "longitude": 9.2195589
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "4",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5923579,
+    "longitude": 9.2349266
+  },
+  {
+    "street": "Via Italia",
+    "number": "50",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5929084,
+    "longitude": 9.2224035
+  },
+  {
+    "street": "Via Italia",
+    "number": "70",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5924745,
+    "longitude": 9.2191323
+  },
+  {
+    "street": "Via Italia",
+    "number": "78",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5916987,
+    "longitude": 9.2167591
+  },
+  {
+    "street": "Via Italia",
+    "number": "115",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.591379,
+    "longitude": 9.2165967
+  },
+  {
+    "street": "Via Michele Robecchi",
+    "number": "8",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5921611,
+    "longitude": 9.2152223
+  },
+  {
+    "street": "Via Italia",
+    "number": "117",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5910739,
+    "longitude": 9.2162487
+  },
+  {
+    "street": "Via Roma",
+    "number": "65",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5912153,
+    "longitude": 9.2193279
+  },
+  {
+    "street": "Via Roma",
+    "number": "67",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5909666,
+    "longitude": 9.2189151
+  },
+  {
+    "street": "Via Italia",
+    "number": "95",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5917635,
+    "longitude": 9.2191345
+  },
+  {
+    "street": "Via Italia",
+    "number": "74a-b",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5919902,
+    "longitude": 9.217401
+  },
+  {
+    "street": "Via Maria Montessori",
+    "number": "16",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5923767,
+    "longitude": 9.2162253
+  },
+  {
+    "street": "Via Italia-Via Roma",
+    "number": "71-99",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5915637,
+    "longitude": 9.2182284
+  },
+  {
+    "street": "Via Italia",
+    "number": "74",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.59188,
+    "longitude": 9.2177956
+  },
+  {
+    "street": "Via Italia",
+    "number": "89",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5917967,
+    "longitude": 9.2199115
+  },
+  {
+    "street": "Via Italia",
+    "number": "93",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5917757,
+    "longitude": 9.2194156
+  },
+  {
+    "street": "Via Italia",
+    "number": "91",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5918192,
+    "longitude": 9.2196844
+  },
+  {
+    "street": "Via Italia",
+    "number": "80-82",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5919143,
+    "longitude": 9.2161456
+  },
+  {
+    "street": "Via Italia",
+    "number": "84-86",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5918037,
+    "longitude": 9.2155611
+  },
+  {
+    "street": "Via Italia",
+    "number": "111",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5913952,
+    "longitude": 9.2168661
+  },
+  {
+    "street": "Via Italia",
+    "number": "105",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5915452,
+    "longitude": 9.2175003
+  },
+  {
+    "street": "Via Italia",
+    "number": "107b",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5910176,
+    "longitude": 9.2170097
+  },
+  {
+    "street": "Via Italia",
+    "number": "107",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5911265,
+    "longitude": 9.2175186
+  },
+  {
+    "street": "Via Italia",
+    "number": "101-103",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5915306,
+    "longitude": 9.217936
+  },
+  {
+    "street": "Via Italia",
+    "number": "107a",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5907984,
+    "longitude": 9.2175636
+  },
+  {
+    "street": "Via Roma",
+    "number": "69",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5913364,
+    "longitude": 9.2180787
+  },
+  {
+    "street": "Via Italia",
+    "number": "113",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5912336,
+    "longitude": 9.2166255
+  },
+  {
+    "street": "Via Trieste",
+    "number": "44",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5980215,
+    "longitude": 9.2257994
+  },
+  {
+    "street": "Via Italia",
+    "number": "74c",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5922473,
+    "longitude": 9.2173145
+  },
+  {
+    "street": "Via Italia",
+    "number": "76a",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5920879,
+    "longitude": 9.2168525
+  },
+  {
+    "street": "Via Michele Robecchi",
+    "number": "16-18",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.593264,
+    "longitude": 9.2149816
+  },
+  {
+    "street": "Via Maria Montessori",
+    "number": "8",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5933843,
+    "longitude": 9.2155782
+  },
+  {
+    "street": "Via Italia",
+    "number": "76b",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5920389,
+    "longitude": 9.2166305
+  },
+  {
+    "street": "Via Maria Montessori",
+    "number": "10-14",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5929522,
+    "longitude": 9.216081
+  },
+  {
+    "street": "Via Italia",
+    "number": "77",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5918927,
+    "longitude": 9.2171267
+  },
+  {
+    "street": "Via Italia",
+    "number": "88-90",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5917089,
+    "longitude": 9.2151962
+  },
+  {
+    "street": "Via Luigi Galvani",
+    "number": "2",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.595684,
+    "longitude": 9.230095
+  },
+  {
+    "street": "Viale Alfonso Casati",
+    "number": "22",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5952511,
+    "longitude": 9.2303559
+  },
+  {
+    "street": "Via Italia",
+    "number": "97",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.591571,
+    "longitude": 9.2188727
+  },
+  {
+    "street": "Via Pavia",
+    "number": "24/25",
+    "city": {
+      "name": "Muggiò",
+      "istat": "108034"
+    },
+    "latitude": 45.5812313,
+    "longitude": 9.2329471
+  }
+]

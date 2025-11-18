@@ -1,0 +1,1462 @@
+[
+  {
+    "street": "Via Cesare Battisti",
+    "number": "1",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6030217,
+    "longitude": 9.2686817
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "10",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.604664,
+    "longitude": 9.2649732
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "42b",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6100469,
+    "longitude": 9.2712586
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "2",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6101871,
+    "longitude": 9.2709147
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "40",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6098809,
+    "longitude": 9.2710768
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "44a",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6104998,
+    "longitude": 9.2716779
+  },
+  {
+    "street": "Via Adamello",
+    "number": "12",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6076105,
+    "longitude": 9.2634926
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "79",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6103616,
+    "longitude": 9.2711263
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "46b",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6115356,
+    "longitude": 9.2724209
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "48",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6116492,
+    "longitude": 9.2724335
+  },
+  {
+    "street": "Via Rimembranze",
+    "number": "2",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6127665,
+    "longitude": 9.2720927
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "109",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6133845,
+    "longitude": 9.2727521
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "121",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6140272,
+    "longitude": 9.2726235
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "117",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6139119,
+    "longitude": 9.2725747
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "143",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6167321,
+    "longitude": 9.2735558
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "159",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6198783,
+    "longitude": 9.2746172
+  },
+  {
+    "street": "Via Piave",
+    "number": "18",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6119481,
+    "longitude": 9.2741176
+  },
+  {
+    "street": "Via della Misericordia",
+    "number": "3",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6194807,
+    "longitude": 9.2722225
+  },
+  {
+    "street": "Via Italia",
+    "number": "24",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6085312,
+    "longitude": 9.2735617
+  },
+  {
+    "street": "Via Ambrogio Villa",
+    "number": "2",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6079518,
+    "longitude": 9.2734016
+  },
+  {
+    "street": "Via Trento",
+    "number": "1",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6084106,
+    "longitude": 9.2741576
+  },
+  {
+    "street": "Via Ambrogio Villa",
+    "number": "48",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6062495,
+    "longitude": 9.2691111
+  },
+  {
+    "street": "Via Italia",
+    "number": "23",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6082561,
+    "longitude": 9.2736471
+  },
+  {
+    "street": "Via Ambrogio Villa",
+    "number": "44",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6063016,
+    "longitude": 9.2692877
+  },
+  {
+    "street": "Via Ambrogio Villa",
+    "number": "50",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6062275,
+    "longitude": 9.2690542
+  },
+  {
+    "street": "Via Ambrogio Villa",
+    "number": "46",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6062728,
+    "longitude": 9.2691621
+  },
+  {
+    "street": "Via Italia",
+    "number": "32",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6080382,
+    "longitude": 9.2734173
+  },
+  {
+    "street": "Via della Misericordia",
+    "number": "15",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6190029,
+    "longitude": 9.2705107
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "10",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6097673,
+    "longitude": 9.2750493
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "16",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6107451,
+    "longitude": 9.274609
+  },
+  {
+    "street": "Piazzetta Don Primo Mazzolari",
+    "number": "17",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6104983,
+    "longitude": 9.274546
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "17",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6098137,
+    "longitude": 9.274948
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "18",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6107488,
+    "longitude": 9.2745313
+  },
+  {
+    "street": "Via Italia",
+    "number": "2",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6106412,
+    "longitude": 9.2738731
+  },
+  {
+    "street": "Via Milano",
+    "number": "2",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.609809,
+    "longitude": 9.2734842
+  },
+  {
+    "street": "Via Italia",
+    "number": "18",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6090116,
+    "longitude": 9.2736518
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "18",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.610121,
+    "longitude": 9.2751364
+  },
+  {
+    "street": "Via Enzo Ferrari",
+    "number": "2",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6104217,
+    "longitude": 9.2756018
+  },
+  {
+    "street": "Via Parrocchia",
+    "number": "2",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6110981,
+    "longitude": 9.2755703
+  },
+  {
+    "street": "Via Milano",
+    "number": "2b",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6097678,
+    "longitude": 9.2732535
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "20",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6107554,
+    "longitude": 9.2744535
+  },
+  {
+    "street": "Via Italia",
+    "number": "20",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6089197,
+    "longitude": 9.2736183
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "20",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6108964,
+    "longitude": 9.2754161
+  },
+  {
+    "street": "Piazzetta Don Primo Mazzolari",
+    "number": "21",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6105772,
+    "longitude": 9.2745648
+  },
+  {
+    "street": "Via Italia",
+    "number": "22",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6087714,
+    "longitude": 9.2735982
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "22",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6109658,
+    "longitude": 9.2754214
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "23",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6099892,
+    "longitude": 9.2749923
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "24",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6110286,
+    "longitude": 9.2754201
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "25",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6100548,
+    "longitude": 9.2750017
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "26",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6110849,
+    "longitude": 9.2754281
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "44",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6107558,
+    "longitude": 9.2730099
+  },
+  {
+    "street": "Piazza Marco Bonfanti",
+    "number": "1",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6106337,
+    "longitude": 9.2753778
+  },
+  {
+    "street": "Via Italia",
+    "number": "1",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6104854,
+    "longitude": 9.27403
+  },
+  {
+    "street": "Piazzetta Don Primo Mazzolari",
+    "number": "11",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6104045,
+    "longitude": 9.2745983
+  },
+  {
+    "street": "Via Italia",
+    "number": "12",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6096571,
+    "longitude": 9.2737564
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "12",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6098977,
+    "longitude": 9.27506
+  },
+  {
+    "street": "Piazzetta Don Primo Mazzolari",
+    "number": "13",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6104224,
+    "longitude": 9.274546
+  },
+  {
+    "street": "Piazzetta Don Primo Mazzolari",
+    "number": "1",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6105302,
+    "longitude": 9.2749054
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "27",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6101656,
+    "longitude": 9.2750555
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "2",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6106975,
+    "longitude": 9.2751921
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "12",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6107263,
+    "longitude": 9.2747673
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "21",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6099366,
+    "longitude": 9.2749789
+  },
+  {
+    "street": "Piazzetta Don Primo Mazzolari",
+    "number": "3",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6104711,
+    "longitude": 9.2748773
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "3",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6105652,
+    "longitude": 9.2750794
+  },
+  {
+    "street": "Via Milano",
+    "number": "3",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6096327,
+    "longitude": 9.2730309
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "3",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6092358,
+    "longitude": 9.2748937
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "31",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6102697,
+    "longitude": 9.2750888
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "33",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6103227,
+    "longitude": 9.275127
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "35",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6103841,
+    "longitude": 9.2751532
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "7",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6105886,
+    "longitude": 9.2749333
+  },
+  {
+    "street": "Piazzetta Don Primo Mazzolari",
+    "number": "5",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6104383,
+    "longitude": 9.2747606
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "1",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6105521,
+    "longitude": 9.2751626
+  },
+  {
+    "street": "Viale Vedano",
+    "number": "1",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6099179,
+    "longitude": 9.277529
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "10",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6107197,
+    "longitude": 9.2748545
+  },
+  {
+    "street": "Via Italia",
+    "number": "11",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6093644,
+    "longitude": 9.2738423
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "11",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6095815,
+    "longitude": 9.2749272
+  },
+  {
+    "street": "Via Italia",
+    "number": "13",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6091861,
+    "longitude": 9.2738235
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "14",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6107357,
+    "longitude": 9.2746895
+  },
+  {
+    "street": "Via Italia",
+    "number": "14",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6094413,
+    "longitude": 9.2737216
+  },
+  {
+    "street": "Via Italia",
+    "number": "16",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6091814,
+    "longitude": 9.2736693
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "17",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6106775,
+    "longitude": 9.2742537
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "14",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6099896,
+    "longitude": 9.2750801
+  },
+  {
+    "street": "Via Italia",
+    "number": "15",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6090369,
+    "longitude": 9.2739147
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "19",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6098869,
+    "longitude": 9.2749641
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "5",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6093292,
+    "longitude": 9.2749071
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "59",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6111703,
+    "longitude": 9.2753061
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "22",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6107826,
+    "longitude": 9.2742644
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "5",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6105783,
+    "longitude": 9.275011
+  },
+  {
+    "street": "Via Italia",
+    "number": "5",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6101111,
+    "longitude": 9.2739616
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "69",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6114592,
+    "longitude": 9.2753613
+  },
+  {
+    "street": "Piazzetta Don Primo Mazzolari",
+    "number": "7",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6104496,
+    "longitude": 9.2746935
+  },
+  {
+    "street": "Via Italia",
+    "number": "7",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.609794,
+    "longitude": 9.2738999
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "7",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6094117,
+    "longitude": 9.2749084
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "71",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6114939,
+    "longitude": 9.275376
+  },
+  {
+    "street": "Via Italia",
+    "number": "8",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.610038,
+    "longitude": 9.2738114
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "8",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6096453,
+    "longitude": 9.2751351
+  },
+  {
+    "street": "Piazzetta Don Primo Mazzolari",
+    "number": "9",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6104505,
+    "longitude": 9.2746117
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "9",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6094933,
+    "longitude": 9.2749165
+  },
+  {
+    "street": "Via Enzo Ferrari",
+    "number": "3",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6099798,
+    "longitude": 9.2773291
+  },
+  {
+    "street": "Via Italia",
+    "number": "3",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6103241,
+    "longitude": 9.2740112
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "37",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6104805,
+    "longitude": 9.2751884
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "39",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6105253,
+    "longitude": 9.2752075
+  },
+  {
+    "street": "Via Italia",
+    "number": "4",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6105624,
+    "longitude": 9.2739026
+  },
+  {
+    "street": "Via Milano",
+    "number": "4",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6097209,
+    "longitude": 9.2730121
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "4",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6091988,
+    "longitude": 9.2750841
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "47",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6108832,
+    "longitude": 9.2752766
+  },
+  {
+    "street": "Via Enzo Ferrari",
+    "number": "6",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6099826,
+    "longitude": 9.2769483
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "6",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.610716,
+    "longitude": 9.2749685
+  },
+  {
+    "street": "Via Italia",
+    "number": "6",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6102575,
+    "longitude": 9.273861
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "6",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6094352,
+    "longitude": 9.2751136
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "63",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6113427,
+    "longitude": 9.2753413
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "65",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6113822,
+    "longitude": 9.2753465
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "67",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6114235,
+    "longitude": 9.2753519
+  },
+  {
+    "street": "Piazzetta Don Primo Mazzolari",
+    "number": "19",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6105387,
+    "longitude": 9.2745581
+  },
+  {
+    "street": "Via privata Ventiquattro Maggio",
+    "number": "1",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6092511,
+    "longitude": 9.2717287
+  },
+  {
+    "street": "Via privata Ventiquattro Maggio",
+    "number": "3",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6091742,
+    "longitude": 9.2712405
+  },
+  {
+    "street": "Via privata Ventiquattro Maggio",
+    "number": "5",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6091104,
+    "longitude": 9.2708543
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "89",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.612461,
+    "longitude": 9.2752537
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "56",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6105267,
+    "longitude": 9.2721225
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "34",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6107478,
+    "longitude": 9.2734773
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "70",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.61063,
+    "longitude": 9.2724561
+  },
+  {
+    "street": "Via Piave",
+    "number": "5",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6118631,
+    "longitude": 9.2745956
+  },
+  {
+    "street": "Via Ambrogio Villa",
+    "number": "30",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6064611,
+    "longitude": 9.2698217
+  },
+  {
+    "street": "Via Tagliamento",
+    "number": "4",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6114905,
+    "longitude": 9.273698
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "46",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6109625,
+    "longitude": 9.2722949
+  },
+  {
+    "street": "Largo Repubblica",
+    "number": "7",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6099391,
+    "longitude": 9.2719124
+  },
+  {
+    "street": "Via Trieste",
+    "number": "41",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6083661,
+    "longitude": 9.2707374
+  },
+  {
+    "street": "Via Rimembranze",
+    "number": "31",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6116864,
+    "longitude": 9.2688667
+  },
+  {
+    "street": "Via Antonio Meucci",
+    "number": "1",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.617511,
+    "longitude": 9.2693553
+  },
+  {
+    "street": "Via della Misericordia",
+    "number": "49",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6175705,
+    "longitude": 9.2643912
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "36",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6107506,
+    "longitude": 9.2733432
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "74",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.610583,
+    "longitude": 9.272208
+  },
+  {
+    "street": "Via Libertà",
+    "number": "1",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6108005,
+    "longitude": 9.271222
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "44",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6097936,
+    "longitude": 9.2709939
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "77",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6097189,
+    "longitude": 9.2704324
+  },
+  {
+    "street": "Via Europa",
+    "number": "65",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6105495,
+    "longitude": 9.2644978
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "6",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6081462,
+    "longitude": 9.2686741
+  },
+  {
+    "street": "Via Luigi Negrelli",
+    "number": "60",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6073243,
+    "longitude": 9.2585335
+  },
+  {
+    "street": "Via Parrocchia",
+    "number": "1",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6112756,
+    "longitude": 9.2757877
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "32",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6115636,
+    "longitude": 9.275777
+  },
+  {
+    "street": "Via Giovanni Battista Pergolesi",
+    "number": "33",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.602285,
+    "longitude": 9.2601687
+  },
+  {
+    "street": "Via Cadore",
+    "number": "48",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6039214,
+    "longitude": 9.2616638
+  },
+  {
+    "street": "Largo Repubblica",
+    "number": "3",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6102456,
+    "longitude": 9.2729049
+  },
+  {
+    "street": "Via Vittorio Alfieri",
+    "number": "32",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6161676,
+    "longitude": 9.2660241
+  },
+  {
+    "street": "Via Enrico Fermi",
+    "number": "6",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6172971,
+    "longitude": 9.2701267
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "58",
+    "city": {
+      "name": "Vedano al Lambro",
+      "istat": "108046"
+    },
+    "latitude": 45.6107126,
+    "longitude": 9.2726028
+  }
+]

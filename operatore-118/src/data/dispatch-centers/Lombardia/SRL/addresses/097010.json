@@ -1,0 +1,142 @@
+[
+  {
+    "street": "Via Giulio Prinetti",
+    "number": "14",
+    "city": {
+      "name": "Brivio",
+      "istat": "097010"
+    },
+    "latitude": 45.7369756,
+    "longitude": 9.4281971
+  },
+  {
+    "street": "Piazza Frigerio",
+    "number": "12",
+    "city": {
+      "name": "Brivio",
+      "istat": "097010"
+    },
+    "latitude": 45.7419364,
+    "longitude": 9.4490157
+  },
+  {
+    "street": "Piazza Frigerio",
+    "number": "11",
+    "city": {
+      "name": "Brivio",
+      "istat": "097010"
+    },
+    "latitude": 45.7418768,
+    "longitude": 9.4490924
+  },
+  {
+    "street": "Lung'Adda Monfalcone",
+    "number": "15;16",
+    "city": {
+      "name": "Brivio",
+      "istat": "097010"
+    },
+    "latitude": 45.7436884,
+    "longitude": 9.4502592
+  },
+  {
+    "street": "Piazza Frigerio",
+    "number": "7",
+    "city": {
+      "name": "Brivio",
+      "istat": "097010"
+    },
+    "latitude": 45.7421336,
+    "longitude": 9.4492878
+  },
+  {
+    "street": "Via Vittorio Emanuele II",
+    "number": "25a",
+    "city": {
+      "name": "Brivio",
+      "istat": "097010"
+    },
+    "latitude": 45.7422468,
+    "longitude": 9.4470908
+  },
+  {
+    "street": "Via Nazionale",
+    "number": "10",
+    "city": {
+      "name": "Brivio",
+      "istat": "097010"
+    },
+    "latitude": 45.7386686,
+    "longitude": 9.4215175
+  },
+  {
+    "street": "Via Nazionale",
+    "number": "18",
+    "city": {
+      "name": "Brivio",
+      "istat": "097010"
+    },
+    "latitude": 45.7445491,
+    "longitude": 9.425506
+  },
+  {
+    "street": "Piazza del Lavoro",
+    "number": "3",
+    "city": {
+      "name": "Brivio",
+      "istat": "097010"
+    },
+    "latitude": 45.7415631,
+    "longitude": 9.4453604
+  },
+  {
+    "street": "Via Como",
+    "number": "146a",
+    "city": {
+      "name": "Brivio",
+      "istat": "097010"
+    },
+    "latitude": 45.7350745,
+    "longitude": 9.4216556
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "7",
+    "city": {
+      "name": "Brivio",
+      "istat": "097010"
+    },
+    "latitude": 45.7434234,
+    "longitude": 9.4497767
+  },
+  {
+    "street": "Via Como",
+    "number": "83",
+    "city": {
+      "name": "Brivio",
+      "istat": "097010"
+    },
+    "latitude": 45.7338433,
+    "longitude": 9.431084
+  },
+  {
+    "street": "Piazza Carlo Frigerio",
+    "number": "7",
+    "city": {
+      "name": "Brivio",
+      "istat": "097010"
+    },
+    "latitude": 45.7414557,
+    "longitude": 9.448895
+  },
+  {
+    "street": "Via Bicocca",
+    "number": "1",
+    "city": {
+      "name": "Brivio",
+      "istat": "097010"
+    },
+    "latitude": 45.7399938,
+    "longitude": 9.4217885
+  }
+]

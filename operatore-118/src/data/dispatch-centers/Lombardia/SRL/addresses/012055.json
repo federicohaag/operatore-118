@@ -1,0 +1,462 @@
+[
+  {
+    "street": "Via Stazione",
+    "number": "8",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.8388776,
+    "longitude": 8.7469756
+  },
+  {
+    "street": "Via Stazione",
+    "number": "2",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.8394454,
+    "longitude": 8.7468102
+  },
+  {
+    "street": "Via Piave",
+    "number": "16",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.8419458,
+    "longitude": 8.7480042
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "50",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.8407115,
+    "longitude": 8.7440874
+  },
+  {
+    "street": "Via Piave",
+    "number": "20",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.8414848,
+    "longitude": 8.7491042
+  },
+  {
+    "street": "Via Orocco",
+    "number": "9",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.841933,
+    "longitude": 8.7374569
+  },
+  {
+    "street": "Viale Guido Borghi",
+    "number": "22",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.8417522,
+    "longitude": 8.7373968
+  },
+  {
+    "street": "Via Orocco",
+    "number": "7",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.8418137,
+    "longitude": 8.7377432
+  },
+  {
+    "street": "Viale Guido Borghi",
+    "number": "30",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.84236,
+    "longitude": 8.7336768
+  },
+  {
+    "street": "Via Orocco",
+    "number": "35",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.8426198,
+    "longitude": 8.7333826
+  },
+  {
+    "street": "Via Motte d'oro",
+    "number": "7",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.8433109,
+    "longitude": 8.7347329
+  },
+  {
+    "street": "Viale Guido Borghi",
+    "number": "29/a",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.8418709,
+    "longitude": 8.733904
+  },
+  {
+    "street": "Viale Guido Borghi",
+    "number": "35",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.8420233,
+    "longitude": 8.7329524
+  },
+  {
+    "street": "Via Orocco",
+    "number": "27",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.8425265,
+    "longitude": 8.7344212
+  },
+  {
+    "street": "Via Orocco",
+    "number": "26",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.8427284,
+    "longitude": 8.7357177
+  },
+  {
+    "street": "Via Motte d'oro",
+    "number": "1",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.8428725,
+    "longitude": 8.7347227
+  },
+  {
+    "street": "Via Orocco",
+    "number": "34",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.8427386,
+    "longitude": 8.7346878
+  },
+  {
+    "street": "Via Orocco",
+    "number": "56",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.8428593,
+    "longitude": 8.7332208
+  },
+  {
+    "street": "Via Motte d'oro",
+    "number": "2",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.8427304,
+    "longitude": 8.7350273
+  },
+  {
+    "street": "Viale Guido Borghi",
+    "number": "33",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.8419135,
+    "longitude": 8.7331975
+  },
+  {
+    "street": "Via Orocco",
+    "number": "58",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.8429466,
+    "longitude": 8.7329499
+  },
+  {
+    "street": "Via Motte d'oro",
+    "number": "6",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.8428968,
+    "longitude": 8.7349441
+  },
+  {
+    "street": "Viale Guido Borghi",
+    "number": "31",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.8419835,
+    "longitude": 8.7333461
+  },
+  {
+    "street": "Via Orocco",
+    "number": "28",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.8427497,
+    "longitude": 8.7354584
+  },
+  {
+    "street": "Via Orocco",
+    "number": "19",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.8426056,
+    "longitude": 8.7359561
+  },
+  {
+    "street": "Viale Guido Borghi",
+    "number": "29/c",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.8419165,
+    "longitude": 8.7335458
+  },
+  {
+    "street": "Viale Guido Borghi",
+    "number": "32/a",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.8423732,
+    "longitude": 8.732912
+  },
+  {
+    "street": "Via Orocco",
+    "number": "17",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.8424341,
+    "longitude": 8.7362844
+  },
+  {
+    "street": "Via Orocco",
+    "number": "39",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.8426665,
+    "longitude": 8.732963
+  },
+  {
+    "street": "Via Orocco",
+    "number": "21",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.8424859,
+    "longitude": 8.7352909
+  },
+  {
+    "street": "Via Orocco",
+    "number": "19/a",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.842497,
+    "longitude": 8.7357453
+  },
+  {
+    "street": "Viale Guido Borghi",
+    "number": "32",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.8423621,
+    "longitude": 8.7333316
+  },
+  {
+    "street": "Via Orocco",
+    "number": "41",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.8426711,
+    "longitude": 8.7324525
+  },
+  {
+    "street": "Via Orocco",
+    "number": "65",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.8428655,
+    "longitude": 8.7319828
+  },
+  {
+    "street": "Via Giardini",
+    "number": "2",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.8412032,
+    "longitude": 8.7456295
+  },
+  {
+    "street": "Viale Guido Borghi",
+    "number": "13",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.8398354,
+    "longitude": 8.7409738
+  },
+  {
+    "street": "Via Piave",
+    "number": "31",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.8416198,
+    "longitude": 8.7472804
+  },
+  {
+    "street": "Viale Guido Borghi",
+    "number": "40",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.8424185,
+    "longitude": 8.7309599
+  },
+  {
+    "street": "Via Orocco",
+    "number": "23",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.8424823,
+    "longitude": 8.7348472
+  },
+  {
+    "street": "Via Orocco",
+    "number": "65/d",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.84288,
+    "longitude": 8.7321963
+  },
+  {
+    "street": "Via Motte d'oro",
+    "number": "11",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.843656,
+    "longitude": 8.7349777
+  },
+  {
+    "street": "Via Orocco",
+    "number": "5",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.8417813,
+    "longitude": 8.7381328
+  },
+  {
+    "street": "Via Orocco",
+    "number": "3",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.8415846,
+    "longitude": 8.7385094
+  },
+  {
+    "street": "Via Orocco",
+    "number": "11",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.842012,
+    "longitude": 8.7372174
+  },
+  {
+    "street": "Via Orocco",
+    "number": "13/b",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.8422274,
+    "longitude": 8.7367397
+  },
+  {
+    "street": "Via Orocco",
+    "number": "15",
+    "city": {
+      "name": "Comerio",
+      "istat": "012055"
+    },
+    "latitude": 45.8423177,
+    "longitude": 8.7365091
+  }
+]

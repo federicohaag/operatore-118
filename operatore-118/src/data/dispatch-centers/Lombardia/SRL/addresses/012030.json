@@ -1,0 +1,252 @@
+[
+  {
+    "street": "Via Fratelli Giordano",
+    "number": "7",
+    "city": {
+      "name": "Cantello",
+      "istat": "012030"
+    },
+    "latitude": 45.8201873,
+    "longitude": 8.8934403
+  },
+  {
+    "street": "Via Monte Generoso",
+    "number": "2",
+    "city": {
+      "name": "Cantello",
+      "istat": "012030"
+    },
+    "latitude": 45.8415918,
+    "longitude": 8.9135306
+  },
+  {
+    "street": "Via Elvezia",
+    "number": "31",
+    "city": {
+      "name": "Cantello",
+      "istat": "012030"
+    },
+    "latitude": 45.836696,
+    "longitude": 8.9062506
+  },
+  {
+    "street": "Piazza Monte Grappa",
+    "number": "1",
+    "city": {
+      "name": "Cantello",
+      "istat": "012030"
+    },
+    "latitude": 45.8214081,
+    "longitude": 8.8961789
+  },
+  {
+    "street": "Via Lugano",
+    "number": "43",
+    "city": {
+      "name": "Cantello",
+      "istat": "012030"
+    },
+    "latitude": 45.8335248,
+    "longitude": 8.9084536
+  },
+  {
+    "street": "Via Lugano",
+    "number": "2",
+    "city": {
+      "name": "Cantello",
+      "istat": "012030"
+    },
+    "latitude": 45.8330417,
+    "longitude": 8.9097803
+  },
+  {
+    "street": "Via Elvezia",
+    "number": "36",
+    "city": {
+      "name": "Cantello",
+      "istat": "012030"
+    },
+    "latitude": 45.8394101,
+    "longitude": 8.9100791
+  },
+  {
+    "street": "Via Monastero",
+    "number": "7",
+    "city": {
+      "name": "Cantello",
+      "istat": "012030"
+    },
+    "latitude": 45.8184057,
+    "longitude": 8.8956459
+  },
+  {
+    "street": "Via Monte Generoso",
+    "number": "8A",
+    "city": {
+      "name": "Cantello",
+      "istat": "012030"
+    },
+    "latitude": 45.8411097,
+    "longitude": 8.9108919
+  },
+  {
+    "street": "Via Lugano",
+    "number": "10",
+    "city": {
+      "name": "Cantello",
+      "istat": "012030"
+    },
+    "latitude": 45.8385018,
+    "longitude": 8.9106494
+  },
+  {
+    "street": "Via San Bernardino",
+    "number": "19",
+    "city": {
+      "name": "Cantello",
+      "istat": "012030"
+    },
+    "latitude": 45.8416728,
+    "longitude": 8.9135577
+  },
+  {
+    "street": "Via Chiesa",
+    "number": "3",
+    "city": {
+      "name": "Cantello",
+      "istat": "012030"
+    },
+    "latitude": 45.8223434,
+    "longitude": 8.9053086
+  },
+  {
+    "street": "Via Don Simone Martegani",
+    "number": "6",
+    "city": {
+      "name": "Cantello",
+      "istat": "012030"
+    },
+    "latitude": 45.8200554,
+    "longitude": 8.8966384
+  },
+  {
+    "street": "Via Monte Generoso",
+    "number": "8b",
+    "city": {
+      "name": "Cantello",
+      "istat": "012030"
+    },
+    "latitude": 45.840621,
+    "longitude": 8.9105308
+  },
+  {
+    "street": "Via Lugano",
+    "number": "4C",
+    "city": {
+      "name": "Cantello",
+      "istat": "012030"
+    },
+    "latitude": 45.8354619,
+    "longitude": 8.9104654
+  },
+  {
+    "street": "Via Monte Generoso",
+    "number": "8",
+    "city": {
+      "name": "Cantello",
+      "istat": "012030"
+    },
+    "latitude": 45.8408301,
+    "longitude": 8.9107519
+  },
+  {
+    "street": "Via dei Bucaneve",
+    "number": "1",
+    "city": {
+      "name": "Cantello",
+      "istat": "012030"
+    },
+    "latitude": 45.8325886,
+    "longitude": 8.9086328
+  },
+  {
+    "street": "Via San Bernardino",
+    "number": "17",
+    "city": {
+      "name": "Cantello",
+      "istat": "012030"
+    },
+    "latitude": 45.8419358,
+    "longitude": 8.9136678
+  },
+  {
+    "street": "Via Felice Mina",
+    "number": "4",
+    "city": {
+      "name": "Cantello",
+      "istat": "012030"
+    },
+    "latitude": 45.8391625,
+    "longitude": 8.9092557
+  },
+  {
+    "street": "Via Monte Generoso",
+    "number": "13",
+    "city": {
+      "name": "Cantello",
+      "istat": "012030"
+    },
+    "latitude": 45.840121,
+    "longitude": 8.9108514
+  },
+  {
+    "street": "Via Monte Generoso",
+    "number": "10",
+    "city": {
+      "name": "Cantello",
+      "istat": "012030"
+    },
+    "latitude": 45.8403787,
+    "longitude": 8.9105725
+  },
+  {
+    "street": "Via Elvezia",
+    "number": "19",
+    "city": {
+      "name": "Cantello",
+      "istat": "012030"
+    },
+    "latitude": 45.8396389,
+    "longitude": 8.9098329
+  },
+  {
+    "street": "Via Monte Generoso",
+    "number": "4",
+    "city": {
+      "name": "Cantello",
+      "istat": "012030"
+    },
+    "latitude": 45.8418011,
+    "longitude": 8.9127086
+  },
+  {
+    "street": "Via San Bernardino",
+    "number": "11",
+    "city": {
+      "name": "Cantello",
+      "istat": "012030"
+    },
+    "latitude": 45.8420539,
+    "longitude": 8.9132098
+  },
+  {
+    "street": "Via Lugano",
+    "number": "4",
+    "city": {
+      "name": "Cantello",
+      "istat": "012030"
+    },
+    "latitude": 45.8353457,
+    "longitude": 8.910977
+  }
+]

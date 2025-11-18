@@ -1,0 +1,2152 @@
+[
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "2",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6595855,
+    "longitude": 9.2701507
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "19",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6588942,
+    "longitude": 9.2674567
+  },
+  {
+    "street": "Via Roma",
+    "number": "5",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6618392,
+    "longitude": 9.2677585
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "23",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6607594,
+    "longitude": 9.2668405
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "37",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6608832,
+    "longitude": 9.2664462
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "11",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.66105,
+    "longitude": 9.267098
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "15",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6610078,
+    "longitude": 9.2668418
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "8",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6611611,
+    "longitude": 9.2672616
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "12",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6611358,
+    "longitude": 9.2671241
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "4",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.661162,
+    "longitude": 9.2674742
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "1",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6610673,
+    "longitude": 9.2676016
+  },
+  {
+    "street": "Piazza Cavalieri di Vittorio Veneto",
+    "number": "1",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6612623,
+    "longitude": 9.2679033
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "6",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6607707,
+    "longitude": 9.2657897
+  },
+  {
+    "street": "Viale delle Rimembranze",
+    "number": "3",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6609647,
+    "longitude": 9.2636574
+  },
+  {
+    "street": "Via Undici Febbraio",
+    "number": "60",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6606259,
+    "longitude": 9.2680629
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "6",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.657874,
+    "longitude": 9.2668629
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "4",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6579021,
+    "longitude": 9.2669139
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "3",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6579316,
+    "longitude": 9.2673799
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "5",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6589906,
+    "longitude": 9.2692426
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "23",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6576167,
+    "longitude": 9.2677165
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "15",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6576898,
+    "longitude": 9.2677621
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "11",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.657791,
+    "longitude": 9.2675999
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "21",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6576448,
+    "longitude": 9.2677595
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "17",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6576701,
+    "longitude": 9.2677729
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "13",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6577535,
+    "longitude": 9.2676589
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "5",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6578866,
+    "longitude": 9.2674389
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "28",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6583665,
+    "longitude": 9.2673263
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "16",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6586637,
+    "longitude": 9.2683113
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "13a",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6584481,
+    "longitude": 9.2681611
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "9a",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6582513,
+    "longitude": 9.2689282
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "1",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6593868,
+    "longitude": 9.2700836
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "2b",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6594618,
+    "longitude": 9.2699414
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "6",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.659325,
+    "longitude": 9.2696544
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "12",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6590007,
+    "longitude": 9.2689866
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "4",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6595312,
+    "longitude": 9.268147
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "6",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6593887,
+    "longitude": 9.2682677
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "18",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6585643,
+    "longitude": 9.2681263
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "14",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6586899,
+    "longitude": 9.268365
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "9",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.658165,
+    "longitude": 9.2691133
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "7",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.658898,
+    "longitude": 9.269057
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "3",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.659122,
+    "longitude": 9.2695465
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "4",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6593831,
+    "longitude": 9.2697698
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "10",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6591413,
+    "longitude": 9.2692521
+  },
+  {
+    "street": "Via Vittorio Emanuele Secondo",
+    "number": "30",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6598293,
+    "longitude": 9.2700085
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "2",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6596399,
+    "longitude": 9.2680612
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "8",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6592612,
+    "longitude": 9.2683643
+  },
+  {
+    "street": "Via Undici Febbraio",
+    "number": "14",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6614737,
+    "longitude": 9.2676029
+  },
+  {
+    "street": "Via Roma",
+    "number": "18",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6619142,
+    "longitude": 9.2672676
+  },
+  {
+    "street": "Via Roma",
+    "number": "7",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6618317,
+    "longitude": 9.2675949
+  },
+  {
+    "street": "Via Undici Febbraio",
+    "number": "3",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6616817,
+    "longitude": 9.26756
+  },
+  {
+    "street": "Via Undici Febbraio",
+    "number": "4",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6617099,
+    "longitude": 9.2674755
+  },
+  {
+    "street": "Via Undici Febbraio",
+    "number": "20",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6612703,
+    "longitude": 9.2677156
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "12",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6590202,
+    "longitude": 9.2685906
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "11",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6591374,
+    "longitude": 9.2686872
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "5",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6593736,
+    "longitude": 9.2684311
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "1",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6597889,
+    "longitude": 9.2681213
+  },
+  {
+    "street": "Via Camillo Cavour",
+    "number": "10",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6599004,
+    "longitude": 9.2683479
+  },
+  {
+    "street": "Via Camillo Cavour",
+    "number": "7",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6600785,
+    "longitude": 9.2687583
+  },
+  {
+    "street": "Via Camillo Cavour",
+    "number": "6",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6597111,
+    "longitude": 9.2677873
+  },
+  {
+    "street": "Via Camillo Cavour",
+    "number": "2",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.65948,
+    "longitude": 9.2671416
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "25",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6586186,
+    "longitude": 9.2678269
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "14",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6589659,
+    "longitude": 9.268655
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "10",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6590896,
+    "longitude": 9.2685182
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "9",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6591983,
+    "longitude": 9.2686054
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "3",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6595592,
+    "longitude": 9.2682741
+  },
+  {
+    "street": "Via Camillo Cavour",
+    "number": "12",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.659981,
+    "longitude": 9.2686912
+  },
+  {
+    "street": "Via Camillo Cavour",
+    "number": "5",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6599791,
+    "longitude": 9.2683989
+  },
+  {
+    "street": "Via Camillo Cavour",
+    "number": "4",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6596295,
+    "longitude": 9.2675385
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "23",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6587067,
+    "longitude": 9.2676633
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "15",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6595878,
+    "longitude": 9.2670651
+  },
+  {
+    "street": "Via Undici Febbraio",
+    "number": "5",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6614962,
+    "longitude": 9.2676727
+  },
+  {
+    "street": "Via Roma",
+    "number": "9",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6617698,
+    "longitude": 9.2672918
+  },
+  {
+    "street": "Via Roma",
+    "number": "12",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6619142,
+    "longitude": 9.267552
+  },
+  {
+    "street": "Via Undici Febbraio",
+    "number": "1",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6617736,
+    "longitude": 9.2675345
+  },
+  {
+    "street": "Via Undici Febbraio",
+    "number": "6",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6616592,
+    "longitude": 9.2675023
+  },
+  {
+    "street": "Via Undici Febbraio",
+    "number": "16",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6613987,
+    "longitude": 9.2676351
+  },
+  {
+    "street": "Via Undici Febbraio",
+    "number": "18",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.661334,
+    "longitude": 9.2676834
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "21",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6606685,
+    "longitude": 9.2670014
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "19",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6607969,
+    "longitude": 9.2669424
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "27",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6609132,
+    "longitude": 9.2665723
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "9",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6610641,
+    "longitude": 9.2671959
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "13",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.661035,
+    "longitude": 9.2669947
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "17",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6609506,
+    "longitude": 9.266819
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "6",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6611714,
+    "longitude": 9.2673307
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "10",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6611461,
+    "longitude": 9.2671858
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "14",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6611217,
+    "longitude": 9.2670524
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "2",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6611442,
+    "longitude": 9.2677357
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "25",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6609488,
+    "longitude": 9.2666179
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "7",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6610725,
+    "longitude": 9.2673984
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "16",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6611086,
+    "longitude": 9.26698
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "18",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6610983,
+    "longitude": 9.2669082
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "8",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6607444,
+    "longitude": 9.2658756
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "5",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6588606,
+    "longitude": 9.2668396
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "1",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6589197,
+    "longitude": 9.2667578
+  },
+  {
+    "street": "Via Undici Febbraio",
+    "number": "56",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6608752,
+    "longitude": 9.2678188
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "4",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6605087,
+    "longitude": 9.268028
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "8",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6604703,
+    "longitude": 9.2678872
+  },
+  {
+    "street": "Via Don Giovanni Rossi",
+    "number": "10",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6614769,
+    "longitude": 9.2678282
+  },
+  {
+    "street": "Via Undici Febbraio",
+    "number": "58",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6608096,
+    "longitude": 9.2679744
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "2",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6605293,
+    "longitude": 9.2680951
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "6",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.66049,
+    "longitude": 9.2679516
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "4",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6607304,
+    "longitude": 9.2687442
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "2",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6606338,
+    "longitude": 9.2684907
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "10",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6604389,
+    "longitude": 9.2677719
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "4",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6597949,
+    "longitude": 9.2676539
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "14",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6603405,
+    "longitude": 9.2674983
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "11",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6601211,
+    "longitude": 9.2671925
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "18",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6602003,
+    "longitude": 9.2670785
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "15",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6600579,
+    "longitude": 9.2669498
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "20",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.660131,
+    "longitude": 9.2668586
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "24",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6598788,
+    "longitude": 9.2666574
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "22",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6599501,
+    "longitude": 9.2665797
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "20",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6600991,
+    "longitude": 9.2664549
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "4",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6620004,
+    "longitude": 9.2674085
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "1",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.661991,
+    "longitude": 9.2673441
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "11",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6603273,
+    "longitude": 9.2664388
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "41",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6608635,
+    "longitude": 9.2660258
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "5",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6606395,
+    "longitude": 9.2661894
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "12",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6605963,
+    "longitude": 9.2659802
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "1",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6603826,
+    "longitude": 9.2681072
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "12",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6603939,
+    "longitude": 9.2676297
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "13",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6600874,
+    "longitude": 9.2670745
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "16",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6602313,
+    "longitude": 9.2671952
+  },
+  {
+    "street": "Viale delle Rimembranze",
+    "number": "7",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6608138,
+    "longitude": 9.2630552
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "18",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6602692,
+    "longitude": 9.2661666
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "18a",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6601624,
+    "longitude": 9.266298
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "16",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6604323,
+    "longitude": 9.2661076
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "13",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.660183,
+    "longitude": 9.2665569
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "9",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6604379,
+    "longitude": 9.2663423
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "43",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.660691,
+    "longitude": 9.2652989
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "7",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6605401,
+    "longitude": 9.2662672
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "14",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6605682,
+    "longitude": 9.2660043
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "10",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6606357,
+    "longitude": 9.2659453
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "3",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6613762,
+    "longitude": 9.2656074
+  },
+  {
+    "street": "Via Roma",
+    "number": "38",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6618186,
+    "longitude": 9.2652721
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "2",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6609488,
+    "longitude": 9.265724
+  },
+  {
+    "street": "Viale delle Rimembranze",
+    "number": "4",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6612122,
+    "longitude": 9.2629761
+  },
+  {
+    "street": "Via Francesco Petrarca",
+    "number": "12",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6593272,
+    "longitude": 9.26502
+  },
+  {
+    "street": "Via Francesco Petrarca",
+    "number": "18",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6590291,
+    "longitude": 9.265433
+  },
+  {
+    "street": "Via Francesco Petrarca",
+    "number": "14",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6592072,
+    "longitude": 9.2651675
+  },
+  {
+    "street": "Via Francesco Petrarca",
+    "number": "10",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6593835,
+    "longitude": 9.2649395
+  },
+  {
+    "street": "Via Francesco Petrarca",
+    "number": "6",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6595653,
+    "longitude": 9.2647195
+  },
+  {
+    "street": "Via Francesco Petrarca",
+    "number": "2",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6597565,
+    "longitude": 9.2645211
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "6a",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6603583,
+    "longitude": 9.2647973
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "4a",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6605551,
+    "longitude": 9.2646283
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "2a",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6608288,
+    "longitude": 9.2644554
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "2",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6609938,
+    "longitude": 9.2643735
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "8",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.659905,
+    "longitude": 9.2652252
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "10d",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.659644,
+    "longitude": 9.2655416
+  },
+  {
+    "street": "Via Roma",
+    "number": "31",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6614915,
+    "longitude": 9.2645707
+  },
+  {
+    "street": "Via Bersò",
+    "number": "16",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.659361,
+    "longitude": 9.2641536
+  },
+  {
+    "street": "Via Bersò",
+    "number": "12",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6593028,
+    "longitude": 9.2640704
+  },
+  {
+    "street": "Via Bersò",
+    "number": "17",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6595072,
+    "longitude": 9.2637298
+  },
+  {
+    "street": "Via Francesco Petrarca",
+    "number": "16",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.659151,
+    "longitude": 9.2652587
+  },
+  {
+    "street": "Via Francesco Petrarca",
+    "number": "8",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6595091,
+    "longitude": 9.2647973
+  },
+  {
+    "street": "Via Francesco Petrarca",
+    "number": "4",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6597003,
+    "longitude": 9.2645801
+  },
+  {
+    "street": "Via Francesco Petrarca",
+    "number": "15",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6593253,
+    "longitude": 9.2653338
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "6",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.660422,
+    "longitude": 9.2647437
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "4",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6606582,
+    "longitude": 9.2645627
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "10c",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6596918,
+    "longitude": 9.2654839
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "10a",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6597748,
+    "longitude": 9.2653787
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "12a",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6593047,
+    "longitude": 9.2659574
+  },
+  {
+    "street": "Via Bersò",
+    "number": "14",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6593272,
+    "longitude": 9.2641
+  },
+  {
+    "street": "Via Bersò",
+    "number": "19",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6595822,
+    "longitude": 9.2638586
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "10b",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6597331,
+    "longitude": 9.2654276
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "10e",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6594964,
+    "longitude": 9.2657166
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "12",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6594393,
+    "longitude": 9.2657957
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "7",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.65884,
+    "longitude": 9.2668664
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "24",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6585488,
+    "longitude": 9.2662133
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "20",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6588018,
+    "longitude": 9.2657868
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "3",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6588906,
+    "longitude": 9.2667967
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "22",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6586987,
+    "longitude": 9.2659531
+  },
+  {
+    "street": "Via Silvio Pellico",
+    "number": "28",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6593214,
+    "longitude": 9.2667688
+  },
+  {
+    "street": "Via Camillo Cavour",
+    "number": "2a",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6595801,
+    "longitude": 9.2674179
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "19",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6606824,
+    "longitude": 9.260887
+  },
+  {
+    "street": "Via Emanuele Filiberto",
+    "number": "1",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6488553,
+    "longitude": 9.2818841
+  },
+  {
+    "street": "Via Emanuele Filiberto",
+    "number": "16",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6489509,
+    "longitude": 9.2813718
+  },
+  {
+    "street": "Via Conte Paolo Taverna",
+    "number": "114",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.659609,
+    "longitude": 9.290189
+  },
+  {
+    "street": "Via Bersò",
+    "number": "6",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6594579,
+    "longitude": 9.2623339
+  },
+  {
+    "street": "Via Don Davide Colli",
+    "number": "66",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6755235,
+    "longitude": 9.2900138
+  },
+  {
+    "street": "Via Don Davide Colli",
+    "number": "72",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6753287,
+    "longitude": 9.2895549
+  },
+  {
+    "street": "Via Don Davide Colli",
+    "number": "45",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6761161,
+    "longitude": 9.290636
+  },
+  {
+    "street": "Via Don Davide Colli",
+    "number": "3",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.677983,
+    "longitude": 9.2898861
+  },
+  {
+    "street": "Via Don Davide Colli",
+    "number": "1",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6781315,
+    "longitude": 9.2898769
+  },
+  {
+    "street": "Via Cagnola",
+    "number": "39",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6776552,
+    "longitude": 9.2863536
+  },
+  {
+    "street": "Via Luigi Cagnola",
+    "number": "58",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6763078,
+    "longitude": 9.2808661
+  },
+  {
+    "street": "Via Luigi Cagnola",
+    "number": "29",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6780909,
+    "longitude": 9.2870335
+  },
+  {
+    "street": "Via Achille Grandi",
+    "number": "12",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6799105,
+    "longitude": 9.2883766
+  },
+  {
+    "street": "Via Achille Grandi",
+    "number": "7",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6801648,
+    "longitude": 9.2895093
+  },
+  {
+    "street": "Via Achille Grandi",
+    "number": "17",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6801004,
+    "longitude": 9.2887558
+  },
+  {
+    "street": "Via Achille Grandi",
+    "number": "15",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6801162,
+    "longitude": 9.2890243
+  },
+  {
+    "street": "Via Achille Grandi",
+    "number": "12a",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6799451,
+    "longitude": 9.2883603
+  },
+  {
+    "street": "Via Achille Grandi",
+    "number": "8a",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6802258,
+    "longitude": 9.2888898
+  },
+  {
+    "street": "Via Achille Grandi",
+    "number": "9",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6801135,
+    "longitude": 9.2891658
+  },
+  {
+    "street": "Via Emanuele Filiberto",
+    "number": "4",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6488921,
+    "longitude": 9.2816027
+  },
+  {
+    "street": "Via Dottor Serafino Biffi",
+    "number": "8",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6660169,
+    "longitude": 9.2573593
+  },
+  {
+    "street": "Piazza Boretti",
+    "number": "10",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6614065,
+    "longitude": 9.260083
+  },
+  {
+    "street": "Piazza Boretti",
+    "number": "3",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6615286,
+    "longitude": 9.2597406
+  },
+  {
+    "street": "Piazza Boretti",
+    "number": "8",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6614967,
+    "longitude": 9.2600235
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "5",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6610648,
+    "longitude": 9.2603183
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "2",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6610268,
+    "longitude": 9.2600761
+  },
+  {
+    "street": "Via Conte Paolo Taverna",
+    "number": "14",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6502455,
+    "longitude": 9.2824324
+  },
+  {
+    "street": "Via Conte Paolo Taverna",
+    "number": "20",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6504888,
+    "longitude": 9.2828786
+  },
+  {
+    "street": "Via Andrea Appiani",
+    "number": "6",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6667447,
+    "longitude": 9.2568887
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "1",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6602569,
+    "longitude": 9.2908549
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "5",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6596975,
+    "longitude": 9.2916262
+  },
+  {
+    "street": "Via Luigi Cagnola",
+    "number": "79",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.675878,
+    "longitude": 9.281718
+  },
+  {
+    "street": "Piazza della Chiesa",
+    "number": "1",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6786081,
+    "longitude": 9.2902429
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "15",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6608179,
+    "longitude": 9.260803
+  },
+  {
+    "street": "Via Conte Paolo Taverna",
+    "number": "2",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6484251,
+    "longitude": 9.2831019
+  },
+  {
+    "street": "Via Conte Paolo Taverna",
+    "number": "74",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6572467,
+    "longitude": 9.2875542
+  },
+  {
+    "street": "Viale delle Rimembranze",
+    "number": "2",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6613959,
+    "longitude": 9.2633035
+  },
+  {
+    "street": "Via 11 Settembre 2001",
+    "number": "3",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6616859,
+    "longitude": 9.2631206
+  },
+  {
+    "street": "Via Pietro Micca",
+    "number": "11",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6676229,
+    "longitude": 9.2774439
+  },
+  {
+    "street": "Via Sacro Cuore",
+    "number": "7",
+    "city": {
+      "name": "Triuggio",
+      "istat": "108043"
+    },
+    "latitude": 45.6658892,
+    "longitude": 9.2861385
+  }
+]

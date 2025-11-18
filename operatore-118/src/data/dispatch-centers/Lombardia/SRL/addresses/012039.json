@@ -1,0 +1,4602 @@
+[
+  {
+    "street": "Via Como",
+    "number": "7",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6736622,
+    "longitude": 8.7447803
+  },
+  {
+    "street": "Via Ronchetto",
+    "number": "6",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6642401,
+    "longitude": 8.7559052
+  },
+  {
+    "street": "Via Sempione",
+    "number": "40",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6773019,
+    "longitude": 8.734862
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "3",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6716113,
+    "longitude": 8.7407836
+  },
+  {
+    "street": "Via Sempione",
+    "number": "33",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.671671,
+    "longitude": 8.7498441
+  },
+  {
+    "street": "Via Sempione",
+    "number": "8",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6755636,
+    "longitude": 8.7423994
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "4",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6726406,
+    "longitude": 8.7451991
+  },
+  {
+    "street": "Via Sempione",
+    "number": "17",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6704167,
+    "longitude": 8.7527361
+  },
+  {
+    "street": "Via Sempione",
+    "number": "69",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6760005,
+    "longitude": 8.7391378
+  },
+  {
+    "street": "Via Sempione",
+    "number": "71",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6760477,
+    "longitude": 8.7388582
+  },
+  {
+    "street": "Via Enrico Toti",
+    "number": "1",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6767512,
+    "longitude": 8.7391618
+  },
+  {
+    "street": "Via Enrico Toti",
+    "number": "13",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6761526,
+    "longitude": 8.7417147
+  },
+  {
+    "street": "Via Enrico Toti",
+    "number": "27",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6755692,
+    "longitude": 8.7433966
+  },
+  {
+    "street": "Via Enrico Toti",
+    "number": "29",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6754618,
+    "longitude": 8.7437458
+  },
+  {
+    "street": "Via Enrico Toti",
+    "number": "29a",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6753498,
+    "longitude": 8.7439225
+  },
+  {
+    "street": "Via Enrico Toti",
+    "number": "29b",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6753357,
+    "longitude": 8.7439857
+  },
+  {
+    "street": "Via Enrico Toti",
+    "number": "29c",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6753348,
+    "longitude": 8.7441384
+  },
+  {
+    "street": "Via Enrico Toti",
+    "number": "29d",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6753313,
+    "longitude": 8.7442962
+  },
+  {
+    "street": "Via Enrico Toti",
+    "number": "31",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6751813,
+    "longitude": 8.7442552
+  },
+  {
+    "street": "Via Enrico Toti",
+    "number": "3",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6766404,
+    "longitude": 8.7396641
+  },
+  {
+    "street": "Via Enrico Toti",
+    "number": "5",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6765749,
+    "longitude": 8.7400044
+  },
+  {
+    "street": "Via Enrico Toti",
+    "number": "9",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6765184,
+    "longitude": 8.7404595
+  },
+  {
+    "street": "Via Trieste",
+    "number": "1",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.674202,
+    "longitude": 8.7463537
+  },
+  {
+    "street": "Via Trieste",
+    "number": "13",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6731731,
+    "longitude": 8.7482185
+  },
+  {
+    "street": "Via Trieste",
+    "number": "5",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6738119,
+    "longitude": 8.7473111
+  },
+  {
+    "street": "Via Trieste",
+    "number": "7",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6736669,
+    "longitude": 8.7475713
+  },
+  {
+    "street": "Via Sempione",
+    "number": "30",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6767909,
+    "longitude": 8.7364409
+  },
+  {
+    "street": "Via Sempione",
+    "number": "32",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6768842,
+    "longitude": 8.7360344
+  },
+  {
+    "street": "Via Sempione",
+    "number": "34",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6770375,
+    "longitude": 8.7355003
+  },
+  {
+    "street": "Via Sempione",
+    "number": "6",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.675336,
+    "longitude": 8.7430497
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "2",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6749173,
+    "longitude": 8.7448827
+  },
+  {
+    "street": "Via Trieste",
+    "number": "9",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6733532,
+    "longitude": 8.7478055
+  },
+  {
+    "street": "Via Sempione",
+    "number": "47",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6726772,
+    "longitude": 8.7481329
+  },
+  {
+    "street": "Via Sempione",
+    "number": "5",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6691254,
+    "longitude": 8.7582435
+  },
+  {
+    "street": "Via Sempione",
+    "number": "7",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6691515,
+    "longitude": 8.7581586
+  },
+  {
+    "street": "Via Sempione",
+    "number": "12",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.675882,
+    "longitude": 8.7403941
+  },
+  {
+    "street": "Via Milano",
+    "number": "164",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6728375,
+    "longitude": 8.7474502
+  },
+  {
+    "street": "Via Milano",
+    "number": "168",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6728475,
+    "longitude": 8.7477198
+  },
+  {
+    "street": "Via Milano",
+    "number": "166",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6728115,
+    "longitude": 8.7476137
+  },
+  {
+    "street": "Via Sempione",
+    "number": "45",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6720819,
+    "longitude": 8.7491282
+  },
+  {
+    "street": "Via Trieste",
+    "number": "4",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6723095,
+    "longitude": 8.7497994
+  },
+  {
+    "street": "Via Trieste",
+    "number": "2",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6723696,
+    "longitude": 8.7495489
+  },
+  {
+    "street": "Via Torino",
+    "number": "20",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6740804,
+    "longitude": 8.7410168
+  },
+  {
+    "street": "Via Sempione",
+    "number": "10",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6756249,
+    "longitude": 8.7417976
+  },
+  {
+    "street": "Via Sempione",
+    "number": "24",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6766099,
+    "longitude": 8.7372924
+  },
+  {
+    "street": "Via Sempione",
+    "number": "26",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6766452,
+    "longitude": 8.7370923
+  },
+  {
+    "street": "Via Sempione",
+    "number": "28",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6767772,
+    "longitude": 8.7365072
+  },
+  {
+    "street": "Via Enrico Toti",
+    "number": "25",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.675836,
+    "longitude": 8.7426384
+  },
+  {
+    "street": "Via Sempione",
+    "number": "59",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6752581,
+    "longitude": 8.742365
+  },
+  {
+    "street": "Via Enrico Toti",
+    "number": "7",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6765312,
+    "longitude": 8.7402826
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "1",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6750357,
+    "longitude": 8.7448686
+  },
+  {
+    "street": "Via Enrico Toti",
+    "number": "23",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6759766,
+    "longitude": 8.7421968
+  },
+  {
+    "street": "Via Sempione",
+    "number": "57",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6749222,
+    "longitude": 8.7431674
+  },
+  {
+    "street": "Via Sempione",
+    "number": "79",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6767026,
+    "longitude": 8.7361759
+  },
+  {
+    "street": "Via Sempione",
+    "number": "85",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6769963,
+    "longitude": 8.7346056
+  },
+  {
+    "street": "Via Sempione",
+    "number": "21",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6708362,
+    "longitude": 8.7513148
+  },
+  {
+    "street": "Via Sempione",
+    "number": "19",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6706747,
+    "longitude": 8.7516126
+  },
+  {
+    "street": "Via Sempione",
+    "number": "23",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6709429,
+    "longitude": 8.751212
+  },
+  {
+    "street": "Via Macallè",
+    "number": "1",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6770891,
+    "longitude": 8.7387511
+  },
+  {
+    "street": "Via Goffredo Mameli",
+    "number": "10",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6775442,
+    "longitude": 8.7367478
+  },
+  {
+    "street": "Via Goffredo Mameli",
+    "number": "12",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6775802,
+    "longitude": 8.7365841
+  },
+  {
+    "street": "Via Goffredo Mameli",
+    "number": "14",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.677621,
+    "longitude": 8.7364344
+  },
+  {
+    "street": "Via Goffredo Mameli",
+    "number": "16",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6776651,
+    "longitude": 8.7362262
+  },
+  {
+    "street": "Via Sempione",
+    "number": "18",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6767728,
+    "longitude": 8.7380529
+  },
+  {
+    "street": "Via Goffredo Mameli",
+    "number": "2",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6775908,
+    "longitude": 8.7378319
+  },
+  {
+    "street": "Via Sempione",
+    "number": "20",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.676629,
+    "longitude": 8.7386447
+  },
+  {
+    "street": "Via Goffredo Mameli",
+    "number": "3",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6774886,
+    "longitude": 8.7378658
+  },
+  {
+    "street": "Via Goffredo Mameli",
+    "number": "4",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.677594,
+    "longitude": 8.7374881
+  },
+  {
+    "street": "Via Goffredo Mameli",
+    "number": "5",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.677469,
+    "longitude": 8.7375524
+  },
+  {
+    "street": "Via Goffredo Mameli",
+    "number": "6",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6775246,
+    "longitude": 8.7373442
+  },
+  {
+    "street": "Via Goffredo Mameli",
+    "number": "8",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6775279,
+    "longitude": 8.7368741
+  },
+  {
+    "street": "Via Macallè",
+    "number": "8",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6769469,
+    "longitude": 8.7389663
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "28",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6691137,
+    "longitude": 8.7574835
+  },
+  {
+    "street": "Piazza Giuseppe Mazzini",
+    "number": "3",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6737696,
+    "longitude": 8.7415084
+  },
+  {
+    "street": "Via Milano",
+    "number": "142",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6731314,
+    "longitude": 8.7446947
+  },
+  {
+    "street": "Via Milano",
+    "number": "106",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6731308,
+    "longitude": 8.7443443
+  },
+  {
+    "street": "Via Milano",
+    "number": "96",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6731706,
+    "longitude": 8.7440926
+  },
+  {
+    "street": "Via Torino",
+    "number": "8",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6740076,
+    "longitude": 8.741471
+  },
+  {
+    "street": "Via Torino",
+    "number": "6",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6739954,
+    "longitude": 8.7415327
+  },
+  {
+    "street": "Via Torino",
+    "number": "12",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.674031,
+    "longitude": 8.7413315
+  },
+  {
+    "street": "Via San Giovanni Bosco",
+    "number": "8",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6747095,
+    "longitude": 8.741182
+  },
+  {
+    "street": "Via Como",
+    "number": "9",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6739252,
+    "longitude": 8.7450105
+  },
+  {
+    "street": "Via Torino",
+    "number": "9",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6739673,
+    "longitude": 8.7412437
+  },
+  {
+    "street": "Via Roma",
+    "number": "2",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6740104,
+    "longitude": 8.7409332
+  },
+  {
+    "street": "Via Milano",
+    "number": "22",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6735864,
+    "longitude": 8.7424723
+  },
+  {
+    "street": "Piazza della Chiesa",
+    "number": "3",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6743726,
+    "longitude": 8.7421077
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "3",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6738755,
+    "longitude": 8.743
+  },
+  {
+    "street": "Piazza della Chiesa",
+    "number": "7",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6744696,
+    "longitude": 8.7410532
+  },
+  {
+    "street": "Via Milano",
+    "number": "70",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6733201,
+    "longitude": 8.7435118
+  },
+  {
+    "street": "Via Milano",
+    "number": "92",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6731875,
+    "longitude": 8.7439856
+  },
+  {
+    "street": "Via Milano",
+    "number": "16",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6736454,
+    "longitude": 8.742314
+  },
+  {
+    "street": "Via Torino",
+    "number": "5",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6739373,
+    "longitude": 8.7414033
+  },
+  {
+    "street": "Via Torino",
+    "number": "16",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.674062,
+    "longitude": 8.7411639
+  },
+  {
+    "street": "Via Milano",
+    "number": "18",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6736201,
+    "longitude": 8.742365
+  },
+  {
+    "street": "Piazza della Chiesa",
+    "number": "2",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6742217,
+    "longitude": 8.7418126
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "2",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6737987,
+    "longitude": 8.7430218
+  },
+  {
+    "street": "Via Milano",
+    "number": "62",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6733932,
+    "longitude": 8.7431423
+  },
+  {
+    "street": "Via Milano",
+    "number": "66",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6733679,
+    "longitude": 8.7432603
+  },
+  {
+    "street": "Piazza Giuseppe Mazzini",
+    "number": "7",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6737883,
+    "longitude": 8.741786
+  },
+  {
+    "street": "Via Milano",
+    "number": "7",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.67335,
+    "longitude": 8.7439329
+  },
+  {
+    "street": "Via Torino",
+    "number": "7",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6739486,
+    "longitude": 8.7413349
+  },
+  {
+    "street": "Via Milano",
+    "number": "78",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6733051,
+    "longitude": 8.7436512
+  },
+  {
+    "street": "Via Como",
+    "number": "1",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6737406,
+    "longitude": 8.7445961
+  },
+  {
+    "street": "Via Torino",
+    "number": "1",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.673913,
+    "longitude": 8.74154
+  },
+  {
+    "street": "Via Milano",
+    "number": "11",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6735946,
+    "longitude": 8.7440469
+  },
+  {
+    "street": "Via Torino",
+    "number": "11",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6739851,
+    "longitude": 8.7411538
+  },
+  {
+    "street": "Via Beato Giuseppe Cottolengo",
+    "number": "12",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6751471,
+    "longitude": 8.740439
+  },
+  {
+    "street": "Via Milano",
+    "number": "13",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6736808,
+    "longitude": 8.7440952
+  },
+  {
+    "street": "Via Milano",
+    "number": "136",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6731661,
+    "longitude": 8.7444789
+  },
+  {
+    "street": "Via Beato Giuseppe Cottolengo",
+    "number": "14",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6751152,
+    "longitude": 8.7403398
+  },
+  {
+    "street": "Via Torino",
+    "number": "14",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6740517,
+    "longitude": 8.7412376
+  },
+  {
+    "street": "Via Venezia",
+    "number": "2",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6733978,
+    "longitude": 8.742866
+  },
+  {
+    "street": "Via Milano",
+    "number": "146",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6730846,
+    "longitude": 8.7448713
+  },
+  {
+    "street": "Via Beato Giuseppe Cottolengo",
+    "number": "16",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6751902,
+    "longitude": 8.7408601
+  },
+  {
+    "street": "Via Beato Giuseppe Cottolengo",
+    "number": "18",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.675149,
+    "longitude": 8.7411672
+  },
+  {
+    "street": "Via Torino",
+    "number": "18",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6740695,
+    "longitude": 8.7411116
+  },
+  {
+    "street": "Via Como",
+    "number": "2",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6734032,
+    "longitude": 8.7448133
+  },
+  {
+    "street": "Via Beato Giuseppe Cottolengo",
+    "number": "20",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.674985,
+    "longitude": 8.7411565
+  },
+  {
+    "street": "Via Torino",
+    "number": "2",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6739767,
+    "longitude": 8.7416574
+  },
+  {
+    "street": "Via Milano",
+    "number": "1",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6737856,
+    "longitude": 8.7422607
+  },
+  {
+    "street": "Via Beato Giuseppe Cottolengo",
+    "number": "10",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6752052,
+    "longitude": 8.7406522
+  },
+  {
+    "street": "Via Milano",
+    "number": "102",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6731463,
+    "longitude": 8.7442465
+  },
+  {
+    "street": "Via Milano",
+    "number": "104",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6731384,
+    "longitude": 8.7442959
+  },
+  {
+    "street": "Via Como",
+    "number": "11",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6740592,
+    "longitude": 8.7450071
+  },
+  {
+    "street": "Via Torino",
+    "number": "13",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6740029,
+    "longitude": 8.7410572
+  },
+  {
+    "street": "Via Milano",
+    "number": "138",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6731568,
+    "longitude": 8.7445567
+  },
+  {
+    "street": "Via Milano",
+    "number": "14",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6736792,
+    "longitude": 8.7422282
+  },
+  {
+    "street": "Via Milano",
+    "number": "140",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6731427,
+    "longitude": 8.7446458
+  },
+  {
+    "street": "Via Milano",
+    "number": "144",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6731089,
+    "longitude": 8.7447815
+  },
+  {
+    "street": "Via Milano",
+    "number": "15",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6735937,
+    "longitude": 8.7441421
+  },
+  {
+    "street": "Via San Giovanni Bosco",
+    "number": "2",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6750478,
+    "longitude": 8.7419477
+  },
+  {
+    "street": "Via Milano",
+    "number": "20",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6736042,
+    "longitude": 8.7424227
+  },
+  {
+    "street": "Via Torino",
+    "number": "22",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.674091,
+    "longitude": 8.7409547
+  },
+  {
+    "street": "Via Milano",
+    "number": "28",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6735293,
+    "longitude": 8.7426748
+  },
+  {
+    "street": "Via Como",
+    "number": "3",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.673853,
+    "longitude": 8.7445505
+  },
+  {
+    "street": "Via Milano",
+    "number": "3",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6735262,
+    "longitude": 8.7429405
+  },
+  {
+    "street": "Via Torino",
+    "number": "3",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6739242,
+    "longitude": 8.7414784
+  },
+  {
+    "street": "Via Milano",
+    "number": "30",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6735058,
+    "longitude": 8.7427499
+  },
+  {
+    "street": "Piazza Giuseppe Mazzini",
+    "number": "4",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6737462,
+    "longitude": 8.7415674
+  },
+  {
+    "street": "Via San Giovanni Bosco",
+    "number": "5",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6745136,
+    "longitude": 8.7415427
+  },
+  {
+    "street": "Via Sempione",
+    "number": "55",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6741679,
+    "longitude": 8.7445719
+  },
+  {
+    "street": "Piazza Giuseppe Mazzini",
+    "number": "6",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6737124,
+    "longitude": 8.741668
+  },
+  {
+    "street": "Piazza della Chiesa",
+    "number": "6",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6744954,
+    "longitude": 8.7417697
+  },
+  {
+    "street": "Via San Giovanni Bosco",
+    "number": "6",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6747104,
+    "longitude": 8.741815
+  },
+  {
+    "street": "Via Beato Giuseppe Cottolengo",
+    "number": "26",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6751733,
+    "longitude": 8.7417399
+  },
+  {
+    "street": "Via San Giovanni Bosco",
+    "number": "3",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6745361,
+    "longitude": 8.7413724
+  },
+  {
+    "street": "Via Venezia",
+    "number": "3",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6732695,
+    "longitude": 8.7429103
+  },
+  {
+    "street": "Via Milano",
+    "number": "34",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6734678,
+    "longitude": 8.7428625
+  },
+  {
+    "street": "Via San Giovanni Bosco",
+    "number": "4",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6748697,
+    "longitude": 8.7419156
+  },
+  {
+    "street": "Via Sempione",
+    "number": "4",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6749447,
+    "longitude": 8.7438635
+  },
+  {
+    "street": "Via Torino",
+    "number": "4",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6739889,
+    "longitude": 8.7415957
+  },
+  {
+    "street": "Via Como",
+    "number": "5",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6738783,
+    "longitude": 8.7445934
+  },
+  {
+    "street": "Via Milano",
+    "number": "5",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6735084,
+    "longitude": 8.7430156
+  },
+  {
+    "street": "Via Milano",
+    "number": "6",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6737691,
+    "longitude": 8.7420016
+  },
+  {
+    "street": "Via Milano",
+    "number": "60",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6733997,
+    "longitude": 8.7430954
+  },
+  {
+    "street": "Via Milano",
+    "number": "64",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.673381,
+    "longitude": 8.7431959
+  },
+  {
+    "street": "Via Milano",
+    "number": "68",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6733426,
+    "longitude": 8.7433783
+  },
+  {
+    "street": "Via Milano",
+    "number": "9",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6735843,
+    "longitude": 8.7439973
+  },
+  {
+    "street": "Via Milano",
+    "number": "94",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6731803,
+    "longitude": 8.7440313
+  },
+  {
+    "street": "Via Milano",
+    "number": "98",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.673162,
+    "longitude": 8.7441472
+  },
+  {
+    "street": "Via Milano",
+    "number": "100",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6731532,
+    "longitude": 8.7442025
+  },
+  {
+    "street": "Via Verbano",
+    "number": "16",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6747535,
+    "longitude": 8.7399084
+  },
+  {
+    "street": "Via Venezia",
+    "number": "12",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6731928,
+    "longitude": 8.7428185
+  },
+  {
+    "street": "Via Firenze",
+    "number": "13",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6731906,
+    "longitude": 8.7420013
+  },
+  {
+    "street": "Via Torino",
+    "number": "68",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6741768,
+    "longitude": 8.7403583
+  },
+  {
+    "street": "Via Novara",
+    "number": "1",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6727277,
+    "longitude": 8.7415164
+  },
+  {
+    "street": "Via Venezia",
+    "number": "1",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6734102,
+    "longitude": 8.7429983
+  },
+  {
+    "street": "Via Firenze",
+    "number": "10",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6732145,
+    "longitude": 8.7418383
+  },
+  {
+    "street": "Via Verbano",
+    "number": "10",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6744836,
+    "longitude": 8.7400331
+  },
+  {
+    "street": "Via Roma",
+    "number": "11",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6736113,
+    "longitude": 8.7411892
+  },
+  {
+    "street": "Via Venezia",
+    "number": "15",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.672855,
+    "longitude": 8.7430988
+  },
+  {
+    "street": "Via Torino",
+    "number": "25",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6741102,
+    "longitude": 8.7402967
+  },
+  {
+    "street": "Via Firenze",
+    "number": "1",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6735064,
+    "longitude": 8.7418282
+  },
+  {
+    "street": "Via Roma",
+    "number": "1",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6737997,
+    "longitude": 8.7411034
+  },
+  {
+    "street": "Via Verbano",
+    "number": "1",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6742148,
+    "longitude": 8.7400339
+  },
+  {
+    "street": "Via Verbano",
+    "number": "11",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6745464,
+    "longitude": 8.7399084
+  },
+  {
+    "street": "Via Roma",
+    "number": "10",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6731882,
+    "longitude": 8.7415168
+  },
+  {
+    "street": "Via Venezia",
+    "number": "11",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6727172,
+    "longitude": 8.7433791
+  },
+  {
+    "street": "Via Verbano",
+    "number": "12",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6745567,
+    "longitude": 8.7399929
+  },
+  {
+    "street": "Via Roma",
+    "number": "13",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6732665,
+    "longitude": 8.7415158
+  },
+  {
+    "street": "Via Verbano",
+    "number": "13",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6745923,
+    "longitude": 8.7398802
+  },
+  {
+    "street": "Via Verbano",
+    "number": "14",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6746308,
+    "longitude": 8.7399553
+  },
+  {
+    "street": "Via Roma",
+    "number": "15",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6732393,
+    "longitude": 8.7415466
+  },
+  {
+    "street": "Via Venezia",
+    "number": "13",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6727313,
+    "longitude": 8.7432893
+  },
+  {
+    "street": "Via Venezia",
+    "number": "14",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6732059,
+    "longitude": 8.7427072
+  },
+  {
+    "street": "Via Firenze",
+    "number": "15",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6732009,
+    "longitude": 8.7421957
+  },
+  {
+    "street": "Via Torino",
+    "number": "15",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6740662,
+    "longitude": 8.7407969
+  },
+  {
+    "street": "Via Venezia",
+    "number": "16",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6731488,
+    "longitude": 8.7427019
+  },
+  {
+    "street": "Via Firenze",
+    "number": "17",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6732028,
+    "longitude": 8.7422815
+  },
+  {
+    "street": "Via Torino",
+    "number": "17",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6740793,
+    "longitude": 8.7406869
+  },
+  {
+    "street": "Via Venezia",
+    "number": "18",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6731628,
+    "longitude": 8.7428159
+  },
+  {
+    "street": "Vicolo dei Romani",
+    "number": "3",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6737107,
+    "longitude": 8.7409813
+  },
+  {
+    "street": "Via Venezia",
+    "number": "30",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6728768,
+    "longitude": 8.7424202
+  },
+  {
+    "street": "Via Verbano",
+    "number": "30",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6755884,
+    "longitude": 8.7394779
+  },
+  {
+    "street": "Via Torino",
+    "number": "31",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6741243,
+    "longitude": 8.7400982
+  },
+  {
+    "street": "Via Milano",
+    "number": "32",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6734833,
+    "longitude": 8.7428092
+  },
+  {
+    "street": "Via Venezia",
+    "number": "32",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6728599,
+    "longitude": 8.7422902
+  },
+  {
+    "street": "Vicolo dei Romani",
+    "number": "25",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6736957,
+    "longitude": 8.7407708
+  },
+  {
+    "street": "Via Verbano",
+    "number": "26",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6753917,
+    "longitude": 8.7395906
+  },
+  {
+    "street": "Via Verbano",
+    "number": "8",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6743585,
+    "longitude": 8.7400995
+  },
+  {
+    "street": "Via Roma",
+    "number": "17",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6731868,
+    "longitude": 8.7415949
+  },
+  {
+    "street": "Via Verbano",
+    "number": "18",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6748322,
+    "longitude": 8.7398574
+  },
+  {
+    "street": "Via Roma",
+    "number": "19",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6731522,
+    "longitude": 8.7416164
+  },
+  {
+    "street": "Via Torino",
+    "number": "19",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6740868,
+    "longitude": 8.7405904
+  },
+  {
+    "street": "Via Firenze",
+    "number": "19",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6731625,
+    "longitude": 8.7421649
+  },
+  {
+    "street": "Via Venezia",
+    "number": "19",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6729075,
+    "longitude": 8.7428145
+  },
+  {
+    "street": "Via Beato Giuseppe Cottolengo",
+    "number": "2",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6752788,
+    "longitude": 8.7398568
+  },
+  {
+    "street": "Via Roma",
+    "number": "24",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6729212,
+    "longitude": 8.7416519
+  },
+  {
+    "street": "Via Verbano",
+    "number": "24",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6751091,
+    "longitude": 8.7397347
+  },
+  {
+    "street": "Via Roma",
+    "number": "25",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.672708,
+    "longitude": 8.7417713
+  },
+  {
+    "street": "Via Verbano",
+    "number": "19",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6747657,
+    "longitude": 8.7396952
+  },
+  {
+    "street": "Via Firenze",
+    "number": "2",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6735743,
+    "longitude": 8.7417371
+  },
+  {
+    "street": "Via Novara",
+    "number": "2",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6728551,
+    "longitude": 8.7415339
+  },
+  {
+    "street": "Via Roma",
+    "number": "20",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6730631,
+    "longitude": 8.7416043
+  },
+  {
+    "street": "Via Verbano",
+    "number": "20",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6749241,
+    "longitude": 8.739891
+  },
+  {
+    "street": "Via Roma",
+    "number": "21",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6728504,
+    "longitude": 8.7417431
+  },
+  {
+    "street": "Via Venezia",
+    "number": "21",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6728634,
+    "longitude": 8.7427086
+  },
+  {
+    "street": "Via Verbano",
+    "number": "21",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6748322,
+    "longitude": 8.7396254
+  },
+  {
+    "street": "Via Venezia",
+    "number": "22",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6729824,
+    "longitude": 8.7427206
+  },
+  {
+    "street": "Via Firenze",
+    "number": "23",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6731512,
+    "longitude": 8.7419758
+  },
+  {
+    "street": "Via Torino",
+    "number": "23",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6740999,
+    "longitude": 8.7404214
+  },
+  {
+    "street": "Via Verbano",
+    "number": "23",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6748782,
+    "longitude": 8.7396308
+  },
+  {
+    "street": "Via Milano",
+    "number": "24",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6735752,
+    "longitude": 8.7425141
+  },
+  {
+    "street": "Via Venezia",
+    "number": "24",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6731776,
+    "longitude": 8.7424491
+  },
+  {
+    "street": "Via Firenze",
+    "number": "25",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6731208,
+    "longitude": 8.7419094
+  },
+  {
+    "street": "Via Venezia",
+    "number": "27",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6727353,
+    "longitude": 8.7424041
+  },
+  {
+    "street": "Via Verbano",
+    "number": "27",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6751354,
+    "longitude": 8.7395926
+  },
+  {
+    "street": "Via Venezia",
+    "number": "28",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6730436,
+    "longitude": 8.7423981
+  },
+  {
+    "street": "Via Venezia",
+    "number": "28a",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6729855,
+    "longitude": 8.7424182
+  },
+  {
+    "street": "Via Torino",
+    "number": "29",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6741196,
+    "longitude": 8.7401545
+  },
+  {
+    "street": "Via Venezia",
+    "number": "29",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6727934,
+    "longitude": 8.7423532
+  },
+  {
+    "street": "Via Verbano",
+    "number": "29",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6753415,
+    "longitude": 8.7394719
+  },
+  {
+    "street": "Via Novara",
+    "number": "3",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.672723,
+    "longitude": 8.7414749
+  },
+  {
+    "street": "Via Roma",
+    "number": "3",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6736835,
+    "longitude": 8.7412435
+  },
+  {
+    "street": "Via Genova",
+    "number": "2",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6731348,
+    "longitude": 8.7411024
+  },
+  {
+    "street": "Vicolo dei Romani",
+    "number": "2",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6737566,
+    "longitude": 8.7409652
+  },
+  {
+    "street": "Via Venezia",
+    "number": "20",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6730747,
+    "longitude": 8.7428025
+  },
+  {
+    "street": "Via Firenze",
+    "number": "21",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6731559,
+    "longitude": 8.7420536
+  },
+  {
+    "street": "Via Torino",
+    "number": "21",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6740915,
+    "longitude": 8.7405018
+  },
+  {
+    "street": "Via Roma",
+    "number": "22",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6729512,
+    "longitude": 8.7416398
+  },
+  {
+    "street": "Via Verbano",
+    "number": "22",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6750435,
+    "longitude": 8.7397602
+  },
+  {
+    "street": "Via Roma",
+    "number": "23",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6728017,
+    "longitude": 8.7417578
+  },
+  {
+    "street": "Via Venezia",
+    "number": "23",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6728475,
+    "longitude": 8.7426335
+  },
+  {
+    "street": "Via Venezia",
+    "number": "25",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6728353,
+    "longitude": 8.7425168
+  },
+  {
+    "street": "Via Venezia",
+    "number": "31",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6727465,
+    "longitude": 8.7418382
+  },
+  {
+    "street": "Via Verbano",
+    "number": "33",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6756264,
+    "longitude": 8.7392506
+  },
+  {
+    "street": "Via Verbano",
+    "number": "25",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6749288,
+    "longitude": 8.7396026
+  },
+  {
+    "street": "Via Venezia",
+    "number": "26",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6731223,
+    "longitude": 8.742386
+  },
+  {
+    "street": "Via Firenze",
+    "number": "27",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6731114,
+    "longitude": 8.7418745
+  },
+  {
+    "street": "Vicolo dei Romani",
+    "number": "4",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6737407,
+    "longitude": 8.7408486
+  },
+  {
+    "street": "Via Venezia",
+    "number": "42",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6728271,
+    "longitude": 8.7420675
+  },
+  {
+    "street": "Via Torino",
+    "number": "27",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.674114,
+    "longitude": 8.7402122
+  },
+  {
+    "street": "Via Verbano",
+    "number": "34",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6758424,
+    "longitude": 8.7393679
+  },
+  {
+    "street": "Via Verbano",
+    "number": "35",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6756948,
+    "longitude": 8.7391795
+  },
+  {
+    "street": "Via Firenze",
+    "number": "4",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6735565,
+    "longitude": 8.741729
+  },
+  {
+    "street": "Via Genova",
+    "number": "4",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6731339,
+    "longitude": 8.7410688
+  },
+  {
+    "street": "Via Venezia",
+    "number": "46",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6728168,
+    "longitude": 8.7419522
+  },
+  {
+    "street": "Via Venezia",
+    "number": "48",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6728139,
+    "longitude": 8.7418785
+  },
+  {
+    "street": "Via Roma",
+    "number": "5",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6737322,
+    "longitude": 8.7412462
+  },
+  {
+    "street": "Via Firenze",
+    "number": "6",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6734965,
+    "longitude": 8.7417666
+  },
+  {
+    "street": "Via Verbano",
+    "number": "6",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6743126,
+    "longitude": 8.7401223
+  },
+  {
+    "street": "Via Roma",
+    "number": "7",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.673661,
+    "longitude": 8.7413334
+  },
+  {
+    "street": "Via Torino",
+    "number": "70",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6741777,
+    "longitude": 8.7402712
+  },
+  {
+    "street": "Via Firenze",
+    "number": "8",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6733255,
+    "longitude": 8.7418142
+  },
+  {
+    "street": "Via Venezia",
+    "number": "8",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6732341,
+    "longitude": 8.7428199
+  },
+  {
+    "street": "Via Venezia",
+    "number": "9",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6727857,
+    "longitude": 8.7433134
+  },
+  {
+    "street": "Via Verbano",
+    "number": "32",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6757618,
+    "longitude": 8.7394028
+  },
+  {
+    "street": "Via Torino",
+    "number": "33",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.674128,
+    "longitude": 8.7400137
+  },
+  {
+    "street": "Via Venezia",
+    "number": "44",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6728196,
+    "longitude": 8.7419884
+  },
+  {
+    "street": "Via Verbano",
+    "number": "47",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6757885,
+    "longitude": 8.7390816
+  },
+  {
+    "street": "Via Firenze",
+    "number": "5",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6733696,
+    "longitude": 8.7418725
+  },
+  {
+    "street": "Via Venezia",
+    "number": "5",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6730822,
+    "longitude": 8.7429044
+  },
+  {
+    "street": "Via Roma",
+    "number": "6",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6733119,
+    "longitude": 8.7413719
+  },
+  {
+    "street": "Via Firenze",
+    "number": "7",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6733152,
+    "longitude": 8.741898
+  },
+  {
+    "street": "Via Venezia",
+    "number": "7",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6728203,
+    "longitude": 8.7432504
+  },
+  {
+    "street": "Via Torino",
+    "number": "72",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6741758,
+    "longitude": 8.7402363
+  },
+  {
+    "street": "Via Roma",
+    "number": "8",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6732782,
+    "longitude": 8.7414175
+  },
+  {
+    "street": "Via Verbano",
+    "number": "9",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.674493,
+    "longitude": 8.7399325
+  },
+  {
+    "street": "Via Verbano",
+    "number": "45",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6758091,
+    "longitude": 8.7389877
+  },
+  {
+    "street": "Via Torino",
+    "number": "53",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6737491,
+    "longitude": 8.739194
+  },
+  {
+    "street": "Via Torino",
+    "number": "59",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6736516,
+    "longitude": 8.7391564
+  },
+  {
+    "street": "Via Torino",
+    "number": "41",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6740471,
+    "longitude": 8.7395531
+  },
+  {
+    "street": "Via Torino",
+    "number": "49",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6738081,
+    "longitude": 8.7392289
+  },
+  {
+    "street": "Via Torino",
+    "number": "61",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6734801,
+    "longitude": 8.7390773
+  },
+  {
+    "street": "Via Torino",
+    "number": "98",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6732993,
+    "longitude": 8.7389077
+  },
+  {
+    "street": "Via Magenta",
+    "number": "21",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6722572,
+    "longitude": 8.7388145
+  },
+  {
+    "street": "Via Magenta",
+    "number": "5",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6729254,
+    "longitude": 8.7388641
+  },
+  {
+    "street": "Via San Giorgio",
+    "number": "2",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6730688,
+    "longitude": 8.738734
+  },
+  {
+    "street": "Vicolo dei Romani",
+    "number": "18",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6735781,
+    "longitude": 8.7399058
+  },
+  {
+    "street": "Vicolo dei Romani",
+    "number": "27",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6736596,
+    "longitude": 8.7403711
+  },
+  {
+    "street": "Via Bologna",
+    "number": "1",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6731339,
+    "longitude": 8.7396302
+  },
+  {
+    "street": "Via Bologna",
+    "number": "3",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6728537,
+    "longitude": 8.7396396
+  },
+  {
+    "street": "Via Bologna",
+    "number": "4",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6729807,
+    "longitude": 8.7395534
+  },
+  {
+    "street": "Via Torino",
+    "number": "39",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6741277,
+    "longitude": 8.7399433
+  },
+  {
+    "street": "Via Ciro Menotti",
+    "number": "2",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6735701,
+    "longitude": 8.7389117
+  },
+  {
+    "street": "Via San Giorgio",
+    "number": "1",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6729385,
+    "longitude": 8.7386944
+  },
+  {
+    "street": "Via Magenta",
+    "number": "1",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6731137,
+    "longitude": 8.7389566
+  },
+  {
+    "street": "Vicolo dei Romani",
+    "number": "12",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6737027,
+    "longitude": 8.7404737
+  },
+  {
+    "street": "Via Torino",
+    "number": "94",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6737631,
+    "longitude": 8.7391082
+  },
+  {
+    "street": "Via Torino",
+    "number": "96",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6733874,
+    "longitude": 8.7388969
+  },
+  {
+    "street": "Vicolo dei Romani",
+    "number": "24",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6732187,
+    "longitude": 8.7396329
+  },
+  {
+    "street": "Via Bologna",
+    "number": "2",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6730285,
+    "longitude": 8.7395507
+  },
+  {
+    "street": "Via Torino",
+    "number": "63",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.673408,
+    "longitude": 8.7390371
+  },
+  {
+    "street": "Via Magenta",
+    "number": "2",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6728504,
+    "longitude": 8.7387769
+  },
+  {
+    "street": "Via Magenta",
+    "number": "15",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6725637,
+    "longitude": 8.7388158
+  },
+  {
+    "street": "Via Magenta",
+    "number": "9",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6725861,
+    "longitude": 8.7388212
+  },
+  {
+    "street": "Via Magenta",
+    "number": "7",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6728841,
+    "longitude": 8.7388534
+  },
+  {
+    "street": "Via Magenta",
+    "number": "3",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6729451,
+    "longitude": 8.7388721
+  },
+  {
+    "street": "Vicolo dei Romani",
+    "number": "33",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6731737,
+    "longitude": 8.7393214
+  },
+  {
+    "street": "Vicolo dei Romani",
+    "number": "31a",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6734497,
+    "longitude": 8.7400218
+  },
+  {
+    "street": "Vicolo dei Romani",
+    "number": "16",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6735996,
+    "longitude": 8.7399594
+  },
+  {
+    "street": "Vicolo dei Romani",
+    "number": "14",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6736671,
+    "longitude": 8.740237
+  },
+  {
+    "street": "Via Novara",
+    "number": "56",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6724498,
+    "longitude": 8.7393378
+  },
+  {
+    "street": "Via Genova",
+    "number": "15",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6728874,
+    "longitude": 8.7402583
+  },
+  {
+    "street": "Via Genova",
+    "number": "13",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6726981,
+    "longitude": 8.7401577
+  },
+  {
+    "street": "Via Novara",
+    "number": "44",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6726255,
+    "longitude": 8.7404457
+  },
+  {
+    "street": "Via Novara",
+    "number": "7",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6726681,
+    "longitude": 8.7411042
+  },
+  {
+    "street": "Via Novara",
+    "number": "41",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6724236,
+    "longitude": 8.7395873
+  },
+  {
+    "street": "Via Novara",
+    "number": "43",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6724179,
+    "longitude": 8.7395309
+  },
+  {
+    "street": "Via Novara",
+    "number": "54",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6724676,
+    "longitude": 8.7394263
+  },
+  {
+    "street": "Via Novara",
+    "number": "47",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6723936,
+    "longitude": 8.73926
+  },
+  {
+    "street": "Via Novara",
+    "number": "49",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6723697,
+    "longitude": 8.738962
+  },
+  {
+    "street": "Via Novara",
+    "number": "52",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6724896,
+    "longitude": 8.7397127
+  },
+  {
+    "street": "Via Genova",
+    "number": "10",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6731971,
+    "longitude": 8.7407041
+  },
+  {
+    "street": "Via Genova",
+    "number": "3",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6730926,
+    "longitude": 8.7405886
+  },
+  {
+    "street": "Via Genova",
+    "number": "16",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6730289,
+    "longitude": 8.7402127
+  },
+  {
+    "street": "Via Genova",
+    "number": "22",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.672596,
+    "longitude": 8.7400652
+  },
+  {
+    "street": "Via Genova",
+    "number": "18",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6728406,
+    "longitude": 8.7401001
+  },
+  {
+    "street": "Via Genova",
+    "number": "17",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6726222,
+    "longitude": 8.7401537
+  },
+  {
+    "street": "Via Novara",
+    "number": "36",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6726274,
+    "longitude": 8.7405048
+  },
+  {
+    "street": "Via Novara",
+    "number": "29",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6724517,
+    "longitude": 8.7405708
+  },
+  {
+    "street": "Via Novara",
+    "number": "35",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6725126,
+    "longitude": 8.7403321
+  },
+  {
+    "street": "Via Novara",
+    "number": "25",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6724901,
+    "longitude": 8.7408819
+  },
+  {
+    "street": "Via Genova",
+    "number": "6",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6731971,
+    "longitude": 8.7407631
+  },
+  {
+    "street": "Via Genova",
+    "number": "7",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6728799,
+    "longitude": 8.7402932
+  },
+  {
+    "street": "Via Novara",
+    "number": "16",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6728396,
+    "longitude": 8.7408974
+  },
+  {
+    "street": "Via Novara",
+    "number": "26",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6727141,
+    "longitude": 8.7409041
+  },
+  {
+    "street": "Via Novara",
+    "number": "34",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6726166,
+    "longitude": 8.7407324
+  },
+  {
+    "street": "Via Novara",
+    "number": "13",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6726597,
+    "longitude": 8.7410653
+  },
+  {
+    "street": "Via Novara",
+    "number": "45",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6724132,
+    "longitude": 8.7394384
+  },
+  {
+    "street": "Via Novara",
+    "number": "58",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6724484,
+    "longitude": 8.7391806
+  },
+  {
+    "street": "Via Genova",
+    "number": "24",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6724104,
+    "longitude": 8.7400567
+  },
+  {
+    "street": "Via Genova",
+    "number": "8",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6732103,
+    "longitude": 8.740743
+  },
+  {
+    "street": "Via Genova",
+    "number": "12",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6731386,
+    "longitude": 8.7405886
+  },
+  {
+    "street": "Via Genova",
+    "number": "14",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6731114,
+    "longitude": 8.7404461
+  },
+  {
+    "street": "Via Genova",
+    "number": "5",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6729109,
+    "longitude": 8.7402972
+  },
+  {
+    "street": "Via Genova",
+    "number": "19",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.672492,
+    "longitude": 8.740151
+  },
+  {
+    "street": "Via Novara",
+    "number": "37",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6724803,
+    "longitude": 8.7399462
+  },
+  {
+    "street": "Via Novara",
+    "number": "31",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6724545,
+    "longitude": 8.7405239
+  },
+  {
+    "street": "Via Novara",
+    "number": "46",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6725604,
+    "longitude": 8.7403763
+  },
+  {
+    "street": "Via Novara",
+    "number": "15",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6724929,
+    "longitude": 8.7409564
+  },
+  {
+    "street": "Via Novara",
+    "number": "20",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6728312,
+    "longitude": 8.7408571
+  },
+  {
+    "street": "Via Novara",
+    "number": "28",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6726766,
+    "longitude": 8.7409269
+  },
+  {
+    "street": "Via Novara",
+    "number": "12",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6727234,
+    "longitude": 8.7409631
+  },
+  {
+    "street": "Vicolo dei Romani",
+    "number": "10",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6737233,
+    "longitude": 8.7406851
+  },
+  {
+    "street": "Via Novara",
+    "number": "10",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6727225,
+    "longitude": 8.7411311
+  },
+  {
+    "street": "Via Novara",
+    "number": "5",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6726991,
+    "longitude": 8.7413161
+  },
+  {
+    "street": "Via Roma",
+    "number": "32",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6726338,
+    "longitude": 8.7417011
+  },
+  {
+    "street": "Via Roma",
+    "number": "58",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6708702,
+    "longitude": 8.7410329
+  },
+  {
+    "street": "Via Roma",
+    "number": "52",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6709967,
+    "longitude": 8.7415419
+  },
+  {
+    "street": "Via Roma",
+    "number": "36",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.672392,
+    "longitude": 8.7417078
+  },
+  {
+    "street": "Via Roma",
+    "number": "27",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6726572,
+    "longitude": 8.7417937
+  },
+  {
+    "street": "Piazza Trattati di Roma 1957",
+    "number": "1",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6715261,
+    "longitude": 8.7418795
+  },
+  {
+    "street": "Via Roma",
+    "number": "34",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6725335,
+    "longitude": 8.7416897
+  },
+  {
+    "street": "Via Roma",
+    "number": "51",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6726151,
+    "longitude": 8.741791
+  },
+  {
+    "street": "Via Roma",
+    "number": "38",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6719685,
+    "longitude": 8.7417668
+  },
+  {
+    "street": "Piazza Trattati di Roma 1957",
+    "number": "3a",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6714624,
+    "longitude": 8.7416703
+  },
+  {
+    "street": "Piazza Trattati di Roma 1957",
+    "number": "5",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6713293,
+    "longitude": 8.741504
+  },
+  {
+    "street": "Via Roma",
+    "number": "55",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6715102,
+    "longitude": 8.7422211
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "29",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.671889,
+    "longitude": 8.7462238
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "2b",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6727552,
+    "longitude": 8.7448115
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "2",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6728723,
+    "longitude": 8.7451521
+  },
+  {
+    "street": "Piazza Trattati di Roma 1957",
+    "number": "3b",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6714381,
+    "longitude": 8.7415496
+  },
+  {
+    "street": "Via Roma",
+    "number": "57",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6714446,
+    "longitude": 8.7422721
+  },
+  {
+    "street": "Via Roma",
+    "number": "54",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6709301,
+    "longitude": 8.7412059
+  },
+  {
+    "street": "Via Roma",
+    "number": "50",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6710285,
+    "longitude": 8.7416706
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "38",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6715458,
+    "longitude": 8.742663
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "19",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6712947,
+    "longitude": 8.7428005
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "13",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6715083,
+    "longitude": 8.7433128
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "34",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6715346,
+    "longitude": 8.7430151
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "27",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6721034,
+    "longitude": 8.7468493
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "24",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6720434,
+    "longitude": 8.7439364
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "20",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6718635,
+    "longitude": 8.7442341
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "16",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.671633,
+    "longitude": 8.7448081
+  },
+  {
+    "street": "Via Giacomo Puccini",
+    "number": "1b",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.671305,
+    "longitude": 8.7446848
+  },
+  {
+    "street": "Via Giacomo Puccini",
+    "number": "1",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6712281,
+    "longitude": 8.7447679
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "11",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6714887,
+    "longitude": 8.7445453
+  },
+  {
+    "street": "Via Roma",
+    "number": "48",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6712403,
+    "longitude": 8.7422849
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "40",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6713125,
+    "longitude": 8.7425403
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "17",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6713378,
+    "longitude": 8.7429453
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "36",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6714559,
+    "longitude": 8.7428729
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "30",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.671781,
+    "longitude": 8.7435327
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "32",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6716077,
+    "longitude": 8.743231
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "26",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6718354,
+    "longitude": 8.7436146
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "22",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6720134,
+    "longitude": 8.7440383
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "18",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6717586,
+    "longitude": 8.7443978
+  },
+  {
+    "street": "Via Giacomo Puccini",
+    "number": "1a",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6713275,
+    "longitude": 8.7446526
+  },
+  {
+    "street": "Via Giacomo Puccini",
+    "number": "3",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6710332,
+    "longitude": 8.7449771
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "9",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6714812,
+    "longitude": 8.7448081
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "8",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6718581,
+    "longitude": 8.7453173
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "12",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6719579,
+    "longitude": 8.744877
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "7",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6716093,
+    "longitude": 8.7450648
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "3",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6716562,
+    "longitude": 8.7456247
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "19",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6721083,
+    "longitude": 8.7465229
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "17",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6720727,
+    "longitude": 8.7463164
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "6",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6718797,
+    "longitude": 8.7453749
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "10",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6718741,
+    "longitude": 8.7450142
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "14",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6716899,
+    "longitude": 8.7449736
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "2",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6720067,
+    "longitude": 8.7456441
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "1",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6719289,
+    "longitude": 8.7457193
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "21",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6721945,
+    "longitude": 8.7467321
+  },
+  {
+    "street": "Via Milano",
+    "number": "160",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6729342,
+    "longitude": 8.7468708
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "15",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.672068,
+    "longitude": 8.7462708
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "10",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6720287,
+    "longitude": 8.7459888
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "13",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6723426,
+    "longitude": 8.7459412
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "6",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6724504,
+    "longitude": 8.7456656
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "5",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6727306,
+    "longitude": 8.7455721
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "8",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6723061,
+    "longitude": 8.7457856
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "7",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6726205,
+    "longitude": 8.7456445
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "2a",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.672788,
+    "longitude": 8.7450408
+  },
+  {
+    "street": "Via Milano",
+    "number": "162",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.672921,
+    "longitude": 8.7469807
+  },
+  {
+    "street": "Via Milano",
+    "number": "158",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6729735,
+    "longitude": 8.7464617
+  },
+  {
+    "street": "Via Milano",
+    "number": "154",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6729819,
+    "longitude": 8.7463249
+  },
+  {
+    "street": "Via Milano",
+    "number": "150",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6730532,
+    "longitude": 8.7454525
+  },
+  {
+    "street": "Via Milano",
+    "number": "19",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6731188,
+    "longitude": 8.7456168
+  },
+  {
+    "street": "Via Milano",
+    "number": "156",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6729707,
+    "longitude": 8.746388
+  },
+  {
+    "street": "Via Milano",
+    "number": "21",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6730813,
+    "longitude": 8.7459762
+  },
+  {
+    "street": "Via Milano",
+    "number": "152",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.67304,
+    "longitude": 8.7455732
+  },
+  {
+    "street": "Via Milano",
+    "number": "148",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6730569,
+    "longitude": 8.7453399
+  },
+  {
+    "street": "Via Adua",
+    "number": "18",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6741406,
+    "longitude": 8.7370056
+  },
+  {
+    "street": "Via Sempione",
+    "number": "27",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6713504,
+    "longitude": 8.7496706
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "16",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6686881,
+    "longitude": 8.7565622
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "19",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6687125,
+    "longitude": 8.7561786
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "18",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6688868,
+    "longitude": 8.7561464
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "19a",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6690423,
+    "longitude": 8.755779
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "21",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6692598,
+    "longitude": 8.7561116
+  },
+  {
+    "street": "Via Sempione",
+    "number": "25",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.671278,
+    "longitude": 8.7505746
+  },
+  {
+    "street": "Via Piave",
+    "number": "9b",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6701883,
+    "longitude": 8.7411465
+  },
+  {
+    "street": "Via Piave",
+    "number": "9a",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.670247,
+    "longitude": 8.741443
+  },
+  {
+    "street": "Via Piave",
+    "number": "9",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6703379,
+    "longitude": 8.7418011
+  },
+  {
+    "street": "Via Piave",
+    "number": "7",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6703956,
+    "longitude": 8.741974
+  },
+  {
+    "street": "Via Piave",
+    "number": "17",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6699896,
+    "longitude": 8.7408063
+  },
+  {
+    "street": "Via Piave",
+    "number": "19",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6699805,
+    "longitude": 8.7407901
+  },
+  {
+    "street": "Via Piave",
+    "number": "31",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.669682,
+    "longitude": 8.740331
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "1",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6718726,
+    "longitude": 8.7410116
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "7",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6716719,
+    "longitude": 8.7403574
+  },
+  {
+    "street": "Via Sempione",
+    "number": "22",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6765973,
+    "longitude": 8.7378521
+  },
+  {
+    "street": "Via Sempione",
+    "number": "53",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6753956,
+    "longitude": 8.7411589
+  },
+  {
+    "street": "Via Sempione",
+    "number": "14",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6760493,
+    "longitude": 8.7399761
+  },
+  {
+    "street": "Via Trieste",
+    "number": "6/8",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6720786,
+    "longitude": 8.7502698
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "1",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6706931,
+    "longitude": 8.7401818
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "28",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6698487,
+    "longitude": 8.7539671
+  },
+  {
+    "street": "Via Roma",
+    "number": "63",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6706898,
+    "longitude": 8.7440731
+  },
+  {
+    "street": "Via Trieste",
+    "number": "98",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6693652,
+    "longitude": 8.7602253
+  },
+  {
+    "street": "Via Papa Giovanni XXIII",
+    "number": "264",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6532718,
+    "longitude": 8.7427019
+  },
+  {
+    "street": "Via Roma",
+    "number": "96",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6648826,
+    "longitude": 8.7482144
+  },
+  {
+    "street": "Via Roma",
+    "number": "98",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6636453,
+    "longitude": 8.7493187
+  },
+  {
+    "street": "Via Roma",
+    "number": "104",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6593515,
+    "longitude": 8.753837
+  },
+  {
+    "street": "Via Sempione",
+    "number": "11",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6693978,
+    "longitude": 8.755033
+  },
+  {
+    "street": "Via Gioacchino Rossini",
+    "number": "1",
+    "city": {
+      "name": "Casorate Sempione",
+      "istat": "012039"
+    },
+    "latitude": 45.6712619,
+    "longitude": 8.7440552
+  }
+]

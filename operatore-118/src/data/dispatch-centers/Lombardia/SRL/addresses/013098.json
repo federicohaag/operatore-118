@@ -1,0 +1,442 @@
+[
+  {
+    "street": "Via Derta",
+    "number": "1",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.8656147,
+    "longitude": 9.1627016
+  },
+  {
+    "street": "Via al Soldo",
+    "number": "1",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.8654791,
+    "longitude": 9.1632296
+  },
+  {
+    "street": "Via Pisciola",
+    "number": "9",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.8656077,
+    "longitude": 9.1626467
+  },
+  {
+    "street": "Piazza Sant'Antonio",
+    "number": "2/4",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.8583505,
+    "longitude": 9.1527801
+  },
+  {
+    "street": "Piazza Sant'Antonio",
+    "number": "14",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.8585055,
+    "longitude": 9.1531645
+  },
+  {
+    "street": "Via di Mezzo",
+    "number": "3",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.8580897,
+    "longitude": 9.1591047
+  },
+  {
+    "street": "Piazza Sant'Antonio",
+    "number": "1",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.8584973,
+    "longitude": 9.1527214
+  },
+  {
+    "street": "Piazza Sant'Antonio",
+    "number": "10",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.8584748,
+    "longitude": 9.1530737
+  },
+  {
+    "street": "Piazza Sant'Antonio",
+    "number": "12",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.8584452,
+    "longitude": 9.153159
+  },
+  {
+    "street": "Piazza Sant'Antonio",
+    "number": "18",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.8585707,
+    "longitude": 9.1531815
+  },
+  {
+    "street": "Piazza Sant'Antonio",
+    "number": "5",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.8586078,
+    "longitude": 9.1528829
+  },
+  {
+    "street": "Piazza Sant'Antonio",
+    "number": "8",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.8584326,
+    "longitude": 9.152963
+  },
+  {
+    "street": "Piazza Sant'Antonio",
+    "number": "9",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.8586707,
+    "longitude": 9.1531841
+  },
+  {
+    "street": "Piazza San Giorgio",
+    "number": "1",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.8590099,
+    "longitude": 9.1593768
+  },
+  {
+    "street": "Via Felice Baragiola",
+    "number": "4",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.8581817,
+    "longitude": 9.1535403
+  },
+  {
+    "street": "Via per Bellagio",
+    "number": "1",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.8593921,
+    "longitude": 9.1440436
+  },
+  {
+    "street": "Via Mario Prada",
+    "number": "8",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.8579364,
+    "longitude": 9.148964
+  },
+  {
+    "street": "Via Pisciola",
+    "number": "16",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.8654756,
+    "longitude": 9.1626889
+  },
+  {
+    "street": "Piazza Cavaliere Emilo Fasola",
+    "number": "1",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.866351,
+    "longitude": 9.1613752
+  },
+  {
+    "street": "Via Pangelista",
+    "number": "2",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.8647898,
+    "longitude": 9.1625723
+  },
+  {
+    "street": "Via all'Approdo",
+    "number": "7",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.864379,
+    "longitude": 9.1611497
+  },
+  {
+    "street": "Via all'Approdo",
+    "number": "9",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.8645252,
+    "longitude": 9.161329
+  },
+  {
+    "street": "Via all'Approdo",
+    "number": "11",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.8646159,
+    "longitude": 9.16127
+  },
+  {
+    "street": "Via all'Approdo",
+    "number": "15",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.8647931,
+    "longitude": 9.1613865
+  },
+  {
+    "street": "Via all'Approdo",
+    "number": "2",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.8642912,
+    "longitude": 9.16148
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "109",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.8647768,
+    "longitude": 9.161597
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "70",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.8649809,
+    "longitude": 9.1616234
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "111",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.8649992,
+    "longitude": 9.1614235
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "113",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.8652422,
+    "longitude": 9.1613578
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "115",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.865496,
+    "longitude": 9.1613723
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "101",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.8640346,
+    "longitude": 9.1629666
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "103",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.8640303,
+    "longitude": 9.1627206
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "68",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.8641792,
+    "longitude": 9.1625796
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "105",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.8640399,
+    "longitude": 9.1623152
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "107",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.8646002,
+    "longitude": 9.1616906
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "117",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.8660037,
+    "longitude": 9.1615182
+  },
+  {
+    "street": "Via Fontana Vecchia",
+    "number": "16",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.8563996,
+    "longitude": 9.1535632
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "27",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.8593796,
+    "longitude": 9.1514666
+  },
+  {
+    "street": "Via Cappelletta",
+    "number": "22",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.8550321,
+    "longitude": 9.1634085
+  },
+  {
+    "street": "Piazza Sant'Antonio",
+    "number": "3",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.8585705,
+    "longitude": 9.1527547
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "2",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.8745094,
+    "longitude": 9.1581289
+  },
+  {
+    "street": "Via Cappelletta",
+    "number": "24",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.8528952,
+    "longitude": 9.1656861
+  },
+  {
+    "street": "Via alle rive",
+    "number": "44",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.8649698,
+    "longitude": 9.1510868
+  },
+  {
+    "street": "Via all'Approdo",
+    "number": "3",
+    "city": {
+      "name": "Faggeto Lario",
+      "istat": "013098"
+    },
+    "latitude": 45.8643017,
+    "longitude": 9.1606596
+  }
+]

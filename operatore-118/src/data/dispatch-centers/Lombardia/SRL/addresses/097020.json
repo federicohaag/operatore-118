@@ -1,0 +1,872 @@
+[
+  {
+    "street": "Piazza Giuseppe Mazzini",
+    "number": "2",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6946455,
+    "longitude": 9.3968212
+  },
+  {
+    "street": "Piazza Giuseppe Mazzini",
+    "number": "3",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6946303,
+    "longitude": 9.3967477
+  },
+  {
+    "street": "Piazza San Giovanni",
+    "number": "1",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6922873,
+    "longitude": 9.3993237
+  },
+  {
+    "street": "Via Spluga",
+    "number": "49",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6946714,
+    "longitude": 9.4042572
+  },
+  {
+    "street": "Via Lecco",
+    "number": "37",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6931847,
+    "longitude": 9.4011413
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "2b",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6936278,
+    "longitude": 9.4025432
+  },
+  {
+    "street": "Via Spluga",
+    "number": "23",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.696605,
+    "longitude": 9.405015
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "2c",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6935863,
+    "longitude": 9.4027631
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "9",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6915428,
+    "longitude": 9.403124
+  },
+  {
+    "street": "Via Spluga",
+    "number": "67",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6915,
+    "longitude": 9.4021163
+  },
+  {
+    "street": "Via Statale",
+    "number": "10",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6950585,
+    "longitude": 9.4030794
+  },
+  {
+    "street": "Via Statale",
+    "number": "12",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6950089,
+    "longitude": 9.4030306
+  },
+  {
+    "street": "Via Statale",
+    "number": "8",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.695094,
+    "longitude": 9.403115
+  },
+  {
+    "street": "Via Statale",
+    "number": "14",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.69485,
+    "longitude": 9.4028747
+  },
+  {
+    "street": "Via Spluga",
+    "number": "113",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6894305,
+    "longitude": 9.4017763
+  },
+  {
+    "street": "Via degli Alpini",
+    "number": "12",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6862213,
+    "longitude": 9.3942556
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "8",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6915856,
+    "longitude": 9.4031346
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "6",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6916157,
+    "longitude": 9.4031668
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "2",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6975985,
+    "longitude": 9.3947455
+  },
+  {
+    "street": "Via Regina",
+    "number": "15",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6862928,
+    "longitude": 9.3915202
+  },
+  {
+    "street": "Via Regina",
+    "number": "13",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.686332,
+    "longitude": 9.3915427
+  },
+  {
+    "street": "Via Regina",
+    "number": "23",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6853084,
+    "longitude": 9.3909915
+  },
+  {
+    "street": "Via Regina",
+    "number": "25",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6847846,
+    "longitude": 9.391227
+  },
+  {
+    "street": "Via Regina",
+    "number": "17",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6862576,
+    "longitude": 9.3914999
+  },
+  {
+    "street": "Via Regina",
+    "number": "19",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6861346,
+    "longitude": 9.3914294
+  },
+  {
+    "street": "Via Regina",
+    "number": "21",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6859498,
+    "longitude": 9.3913267
+  },
+  {
+    "street": "Via Regina",
+    "number": "19b",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6859871,
+    "longitude": 9.3913447
+  },
+  {
+    "street": "Via Spluga",
+    "number": "65",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6919184,
+    "longitude": 9.4022898
+  },
+  {
+    "street": "Via Spluga",
+    "number": "103",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.689995,
+    "longitude": 9.401838
+  },
+  {
+    "street": "Via Spluga",
+    "number": "30/32",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6923875,
+    "longitude": 9.401867
+  },
+  {
+    "street": "Via Cavalieri di Vittorio Veneto",
+    "number": "12",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6841726,
+    "longitude": 9.4004253
+  },
+  {
+    "street": "Via Cavalieri di Vittorio Veneto",
+    "number": "2",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6841239,
+    "longitude": 9.4006024
+  },
+  {
+    "street": "Via Spluga",
+    "number": "73",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6898383,
+    "longitude": 9.4017885
+  },
+  {
+    "street": "Via Roma",
+    "number": "22",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6932281,
+    "longitude": 9.3978599
+  },
+  {
+    "street": "Via Spluga",
+    "number": "29",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6964055,
+    "longitude": 9.4047708
+  },
+  {
+    "street": "Via Spluga",
+    "number": "115",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6890083,
+    "longitude": 9.4024746
+  },
+  {
+    "street": "Via Lecco",
+    "number": "43/45",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.693873,
+    "longitude": 9.4012225
+  },
+  {
+    "street": "Via Alessandro Pirovano",
+    "number": "3",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6943332,
+    "longitude": 9.4005426
+  },
+  {
+    "street": "Piazza Enrico da Cernusco",
+    "number": "1",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6929746,
+    "longitude": 9.4011372
+  },
+  {
+    "street": "Via Spluga",
+    "number": "97",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6902914,
+    "longitude": 9.4023083
+  },
+  {
+    "street": "Via Spluga",
+    "number": "79",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6909459,
+    "longitude": 9.4023564
+  },
+  {
+    "street": "Via Spluga",
+    "number": "87",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6907136,
+    "longitude": 9.4022945
+  },
+  {
+    "street": "Via Spluga",
+    "number": "89",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6905746,
+    "longitude": 9.4022758
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "15",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.691323,
+    "longitude": 9.4029844
+  },
+  {
+    "street": "Via Spluga",
+    "number": "47",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6950441,
+    "longitude": 9.4038432
+  },
+  {
+    "street": "Via Spluga",
+    "number": "54",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6908509,
+    "longitude": 9.4006204
+  },
+  {
+    "street": "Via Resegone",
+    "number": "2/F",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6878742,
+    "longitude": 9.3956065
+  },
+  {
+    "street": "Via Resegone",
+    "number": "2/G",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6877166,
+    "longitude": 9.3956791
+  },
+  {
+    "street": "Via Resegone",
+    "number": "2/H",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6875596,
+    "longitude": 9.3957534
+  },
+  {
+    "street": "Via Resegone",
+    "number": "2/A",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6878546,
+    "longitude": 9.3950655
+  },
+  {
+    "street": "Via Resegone",
+    "number": "2/B",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6878892,
+    "longitude": 9.3951344
+  },
+  {
+    "street": "Via Resegone",
+    "number": "2/C",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6879247,
+    "longitude": 9.3952102
+  },
+  {
+    "street": "Via Resegone",
+    "number": "2/D",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6879577,
+    "longitude": 9.3952874
+  },
+  {
+    "street": "Via Resegone",
+    "number": "2/E",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.687985,
+    "longitude": 9.3953656
+  },
+  {
+    "street": "Via San Marco",
+    "number": "2/B",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6881705,
+    "longitude": 9.3958765
+  },
+  {
+    "street": "Via San Marco",
+    "number": "2/C",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6881991,
+    "longitude": 9.3960026
+  },
+  {
+    "street": "Via San Marco",
+    "number": "2/E",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6882061,
+    "longitude": 9.3962521
+  },
+  {
+    "street": "Via San Marco",
+    "number": "2/D",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6881784,
+    "longitude": 9.3961347
+  },
+  {
+    "street": "Via San Marco",
+    "number": "2/G",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6883063,
+    "longitude": 9.3964565
+  },
+  {
+    "street": "Via San Marco",
+    "number": "2/F",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6882768,
+    "longitude": 9.3963392
+  },
+  {
+    "street": "Via San Marco",
+    "number": "2/M",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6884132,
+    "longitude": 9.3969119
+  },
+  {
+    "street": "Via San Marco",
+    "number": "2/L",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6883855,
+    "longitude": 9.3967951
+  },
+  {
+    "street": "Via San Marco",
+    "number": "2/N",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6883921,
+    "longitude": 9.3970413
+  },
+  {
+    "street": "Via San Marco",
+    "number": "2/P",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6884197,
+    "longitude": 9.397158
+  },
+  {
+    "street": "Via San Marco",
+    "number": "2/Q",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6884941,
+    "longitude": 9.3972545
+  },
+  {
+    "street": "Via San Marco",
+    "number": "2/R",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6885218,
+    "longitude": 9.3973711
+  },
+  {
+    "street": "Via San Marco",
+    "number": "2/I",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6883155,
+    "longitude": 9.3967099
+  },
+  {
+    "street": "Via San Marco",
+    "number": "2/S",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6883927,
+    "longitude": 9.3975707
+  },
+  {
+    "street": "Via San Marco",
+    "number": "2/T",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6883202,
+    "longitude": 9.3976762
+  },
+  {
+    "street": "Via San Marco",
+    "number": "2/U",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6882341,
+    "longitude": 9.3977134
+  },
+  {
+    "street": "Via degli Alpini",
+    "number": "2/A",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.688049,
+    "longitude": 9.3977433
+  },
+  {
+    "street": "Via San Marco",
+    "number": "2/V",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6881352,
+    "longitude": 9.3977061
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "2/A",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.687953,
+    "longitude": 9.3975284
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "2/B",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6879254,
+    "longitude": 9.3974118
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "2/C",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6879493,
+    "longitude": 9.3972629
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "2/D",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6879216,
+    "longitude": 9.3971462
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "2/E",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6878462,
+    "longitude": 9.3970429
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "2/F",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6878186,
+    "longitude": 9.3969263
+  },
+  {
+    "street": "Via San Marco",
+    "number": "2/H",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6877418,
+    "longitude": 9.3965937
+  },
+  {
+    "street": "Via San Marco",
+    "number": "2/A",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6879114,
+    "longitude": 9.3962154
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "1/G",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6870043,
+    "longitude": 9.3956875
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "1/A",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6876089,
+    "longitude": 9.3973296
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "1/B",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6873632,
+    "longitude": 9.3966203
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "1/C",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.687346,
+    "longitude": 9.396541
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "1/D",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.687306,
+    "longitude": 9.3964744
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "1/E",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6872897,
+    "longitude": 9.3963962
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "1/F",
+    "city": {
+      "name": "Cernusco Lombardone",
+      "istat": "097020"
+    },
+    "latitude": 45.6872946,
+    "longitude": 9.3963086
+  }
+]

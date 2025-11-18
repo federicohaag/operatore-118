@@ -1,0 +1,232 @@
+[
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "38",
+    "city": {
+      "name": "Casale Litta",
+      "istat": "012036"
+    },
+    "latitude": 45.7510756,
+    "longitude": 8.7282531
+  },
+  {
+    "street": "Via Roma",
+    "number": "6",
+    "city": {
+      "name": "Casale Litta",
+      "istat": "012036"
+    },
+    "latitude": 45.7683627,
+    "longitude": 8.7373128
+  },
+  {
+    "street": "Via Roma",
+    "number": "4",
+    "city": {
+      "name": "Casale Litta",
+      "istat": "012036"
+    },
+    "latitude": 45.7684115,
+    "longitude": 8.7375747
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "12",
+    "city": {
+      "name": "Casale Litta",
+      "istat": "012036"
+    },
+    "latitude": 45.752787,
+    "longitude": 8.7285232
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "68",
+    "city": {
+      "name": "Casale Litta",
+      "istat": "012036"
+    },
+    "latitude": 45.749625,
+    "longitude": 8.7277315
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "20",
+    "city": {
+      "name": "Casale Litta",
+      "istat": "012036"
+    },
+    "latitude": 45.7518023,
+    "longitude": 8.728371
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "35",
+    "city": {
+      "name": "Casale Litta",
+      "istat": "012036"
+    },
+    "latitude": 45.7505973,
+    "longitude": 8.7281855
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "59",
+    "city": {
+      "name": "Casale Litta",
+      "istat": "012036"
+    },
+    "latitude": 45.7497933,
+    "longitude": 8.7279675
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "79",
+    "city": {
+      "name": "Casale Litta",
+      "istat": "012036"
+    },
+    "latitude": 45.7476066,
+    "longitude": 8.7262555
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "14",
+    "city": {
+      "name": "Casale Litta",
+      "istat": "012036"
+    },
+    "latitude": 45.7524073,
+    "longitude": 8.7285307
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "5",
+    "city": {
+      "name": "Casale Litta",
+      "istat": "012036"
+    },
+    "latitude": 45.7522346,
+    "longitude": 8.7286829
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "1",
+    "city": {
+      "name": "Casale Litta",
+      "istat": "012036"
+    },
+    "latitude": 45.7531183,
+    "longitude": 8.7293402
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "1",
+    "city": {
+      "name": "Casale Litta",
+      "istat": "012036"
+    },
+    "latitude": 45.7515943,
+    "longitude": 8.728458
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "106",
+    "city": {
+      "name": "Casale Litta",
+      "istat": "012036"
+    },
+    "latitude": 45.7482427,
+    "longitude": 8.7266503
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "3",
+    "city": {
+      "name": "Casale Litta",
+      "istat": "012036"
+    },
+    "latitude": 45.7530808,
+    "longitude": 8.7293442
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "90",
+    "city": {
+      "name": "Casale Litta",
+      "istat": "012036"
+    },
+    "latitude": 45.7486693,
+    "longitude": 8.7269882
+  },
+  {
+    "street": "Via Tordera Inferiore",
+    "number": "44",
+    "city": {
+      "name": "Casale Litta",
+      "istat": "012036"
+    },
+    "latitude": 45.7629943,
+    "longitude": 8.7322469
+  },
+  {
+    "street": "Via Tordera Inferiore",
+    "number": "52",
+    "city": {
+      "name": "Casale Litta",
+      "istat": "012036"
+    },
+    "latitude": 45.7593731,
+    "longitude": 8.7322661
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "67",
+    "city": {
+      "name": "Casale Litta",
+      "istat": "012036"
+    },
+    "latitude": 45.7488422,
+    "longitude": 8.7272779
+  },
+  {
+    "street": "Via Fratelli Cervi",
+    "number": "44",
+    "city": {
+      "name": "Casale Litta",
+      "istat": "012036"
+    },
+    "latitude": 45.7578935,
+    "longitude": 8.7328202
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "19a",
+    "city": {
+      "name": "Casale Litta",
+      "istat": "012036"
+    },
+    "latitude": 45.7514936,
+    "longitude": 8.724349
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "17",
+    "city": {
+      "name": "Casale Litta",
+      "istat": "012036"
+    },
+    "latitude": 45.7516901,
+    "longitude": 8.7245046
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "11",
+    "city": {
+      "name": "Casale Litta",
+      "istat": "012036"
+    },
+    "latitude": 45.778812,
+    "longitude": 8.7347954
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "street": "Via San Martino",
+    "number": "11",
+    "city": {
+      "name": "Castelnuovo Bozzente",
+      "istat": "013059"
+    },
+    "latitude": 45.7627554,
+    "longitude": 8.9401923
+  },
+  {
+    "street": "Via Cattaneo",
+    "number": "6",
+    "city": {
+      "name": "Castelnuovo Bozzente",
+      "istat": "013059"
+    },
+    "latitude": 45.764264,
+    "longitude": 8.9413476
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "11",
+    "city": {
+      "name": "Castelnuovo Bozzente",
+      "istat": "013059"
+    },
+    "latitude": 45.7635875,
+    "longitude": 8.9391682
+  }
+]

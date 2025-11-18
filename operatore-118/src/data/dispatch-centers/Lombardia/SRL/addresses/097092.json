@@ -1,0 +1,122 @@
+[
+  {
+    "street": "Via Curone",
+    "number": "15",
+    "city": {
+      "name": "La Valletta Brianza",
+      "istat": "097092"
+    },
+    "latitude": 45.7230487,
+    "longitude": 9.3651772
+  },
+  {
+    "street": "Via della Pesa",
+    "number": "1",
+    "city": {
+      "name": "La Valletta Brianza",
+      "istat": "097092"
+    },
+    "latitude": 45.7376132,
+    "longitude": 9.3703068
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "93",
+    "city": {
+      "name": "La Valletta Brianza",
+      "istat": "097092"
+    },
+    "latitude": 45.7391635,
+    "longitude": 9.3651603
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "2",
+    "city": {
+      "name": "La Valletta Brianza",
+      "istat": "097092"
+    },
+    "latitude": 45.739351,
+    "longitude": 9.3612695
+  },
+  {
+    "street": "Via Bagaggera",
+    "number": "25",
+    "city": {
+      "name": "La Valletta Brianza",
+      "istat": "097092"
+    },
+    "latitude": 45.7110051,
+    "longitude": 9.3838532
+  },
+  {
+    "street": "Via Canova",
+    "number": "81",
+    "city": {
+      "name": "La Valletta Brianza",
+      "istat": "097092"
+    },
+    "latitude": 45.7384892,
+    "longitude": 9.3622378
+  },
+  {
+    "street": "Via Bagaggera",
+    "number": "13",
+    "city": {
+      "name": "La Valletta Brianza",
+      "istat": "097092"
+    },
+    "latitude": 45.714738,
+    "longitude": 9.3814372
+  },
+  {
+    "street": "Via Curone",
+    "number": "7",
+    "city": {
+      "name": "La Valletta Brianza",
+      "istat": "097092"
+    },
+    "latitude": 45.7260284,
+    "longitude": 9.3627618
+  },
+  {
+    "street": "Via Statale",
+    "number": "61",
+    "city": {
+      "name": "La Valletta Brianza",
+      "istat": "097092"
+    },
+    "latitude": 45.7378734,
+    "longitude": 9.3638347
+  },
+  {
+    "street": "Via Lombardia",
+    "number": "89",
+    "city": {
+      "name": "La Valletta Brianza",
+      "istat": "097092"
+    },
+    "latitude": 45.729861,
+    "longitude": 9.3867301
+  },
+  {
+    "street": "Via Albareda",
+    "number": "19",
+    "city": {
+      "name": "La Valletta Brianza",
+      "istat": "097092"
+    },
+    "latitude": 45.734524,
+    "longitude": 9.3794126
+  },
+  {
+    "street": "Via Marco Brusadelli",
+    "number": "45",
+    "city": {
+      "name": "La Valletta Brianza",
+      "istat": "097092"
+    },
+    "latitude": 45.7378247,
+    "longitude": 9.3737332
+  }
+]

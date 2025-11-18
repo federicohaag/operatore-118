@@ -1,0 +1,5162 @@
+[
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "20",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8013127,
+    "longitude": 9.4117541
+  },
+  {
+    "street": "Via Professore Mario Redaelli",
+    "number": "19a",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8018899,
+    "longitude": 9.4132185
+  },
+  {
+    "street": "Via Milano",
+    "number": "24",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.780803,
+    "longitude": 9.4241009
+  },
+  {
+    "street": "Via Professore Mario Redaelli",
+    "number": "16",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8024931,
+    "longitude": 9.4119968
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "16",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7919861,
+    "longitude": 9.4124921
+  },
+  {
+    "street": "Via Spluga",
+    "number": "58",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7902152,
+    "longitude": 9.4170089
+  },
+  {
+    "street": "Via Milano",
+    "number": "2",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7834463,
+    "longitude": 9.4235762
+  },
+  {
+    "street": "Via Milano",
+    "number": "97",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7639637,
+    "longitude": 9.4262717
+  },
+  {
+    "street": "Via Professore Mario Redaelli",
+    "number": "50",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8010578,
+    "longitude": 9.4131435
+  },
+  {
+    "street": "Via Professore Mario Redaelli",
+    "number": "24",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8018484,
+    "longitude": 9.4127275
+  },
+  {
+    "street": "Via Spluga",
+    "number": "108",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7849597,
+    "longitude": 9.422475
+  },
+  {
+    "street": "Via Spluga",
+    "number": "68",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7890926,
+    "longitude": 9.4185336
+  },
+  {
+    "street": "Via Spluga",
+    "number": "70",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7887896,
+    "longitude": 9.4190084
+  },
+  {
+    "street": "Via Professore Mario Redaelli",
+    "number": "1",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8037749,
+    "longitude": 9.4093215
+  },
+  {
+    "street": "Via Professore Mario Redaelli",
+    "number": "2",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8036515,
+    "longitude": 9.4097346
+  },
+  {
+    "street": "Via Professore Mario Redaelli",
+    "number": "3",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8037132,
+    "longitude": 9.4098365
+  },
+  {
+    "street": "Via Professore Mario Redaelli",
+    "number": "5",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8036945,
+    "longitude": 9.4100028
+  },
+  {
+    "street": "Via Professore Mario Redaelli",
+    "number": "4",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.803573,
+    "longitude": 9.4100699
+  },
+  {
+    "street": "Via Professore Mario Redaelli",
+    "number": "6",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8035244,
+    "longitude": 9.4104239
+  },
+  {
+    "street": "Via Professore Mario Redaelli",
+    "number": "14",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8032502,
+    "longitude": 9.411137
+  },
+  {
+    "street": "Via Professore Mario Redaelli",
+    "number": "11",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8032438,
+    "longitude": 9.4114482
+  },
+  {
+    "street": "Via Professore Mario Redaelli",
+    "number": "15",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.802666,
+    "longitude": 9.4124372
+  },
+  {
+    "street": "Via Professore Mario Redaelli",
+    "number": "17",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8022106,
+    "longitude": 9.4127453
+  },
+  {
+    "street": "Via Professore Mario Redaelli",
+    "number": "18",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8020947,
+    "longitude": 9.4126837
+  },
+  {
+    "street": "Via Professore Mario Redaelli",
+    "number": "20",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8020568,
+    "longitude": 9.4127073
+  },
+  {
+    "street": "Via Professore Mario Redaelli",
+    "number": "22",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8019073,
+    "longitude": 9.4125651
+  },
+  {
+    "street": "Via Professore Mario Redaelli",
+    "number": "21a",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8016735,
+    "longitude": 9.4130399
+  },
+  {
+    "street": "Via Professore Mario Redaelli",
+    "number": "21b",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8016511,
+    "longitude": 9.4130452
+  },
+  {
+    "street": "Via Professore Mario Redaelli",
+    "number": "26",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8017259,
+    "longitude": 9.4128602
+  },
+  {
+    "street": "Via Professore Mario Redaelli",
+    "number": "28",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8016791,
+    "longitude": 9.412887
+  },
+  {
+    "street": "Via Professore Mario Redaelli",
+    "number": "30",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.801638,
+    "longitude": 9.4128977
+  },
+  {
+    "street": "Via Professore Mario Redaelli",
+    "number": "21c",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8016137,
+    "longitude": 9.4130613
+  },
+  {
+    "street": "Via Professore Mario Redaelli",
+    "number": "27c",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8015718,
+    "longitude": 9.4132329
+  },
+  {
+    "street": "Via Professore Mario Redaelli",
+    "number": "25c",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8015956,
+    "longitude": 9.4133077
+  },
+  {
+    "street": "Via Professore Mario Redaelli",
+    "number": "25b",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.801659,
+    "longitude": 9.4133401
+  },
+  {
+    "street": "Via Professore Mario Redaelli",
+    "number": "29",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8015183,
+    "longitude": 9.4130967
+  },
+  {
+    "street": "Via Professore Mario Redaelli",
+    "number": "36",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8014614,
+    "longitude": 9.4129611
+  },
+  {
+    "street": "Via Professore Mario Redaelli",
+    "number": "38",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8014163,
+    "longitude": 9.4129919
+  },
+  {
+    "street": "Via Professore Mario Redaelli",
+    "number": "40",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8013722,
+    "longitude": 9.4130135
+  },
+  {
+    "street": "Via Professore Mario Redaelli",
+    "number": "31",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8014474,
+    "longitude": 9.4131352
+  },
+  {
+    "street": "Via Professore Mario Redaelli",
+    "number": "42",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8013185,
+    "longitude": 9.4130551
+  },
+  {
+    "street": "Via Professore Mario Redaelli",
+    "number": "44",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.801165,
+    "longitude": 9.4131152
+  },
+  {
+    "street": "Via Professore Mario Redaelli",
+    "number": "37a",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8011617,
+    "longitude": 9.4132969
+  },
+  {
+    "street": "Via Professore Mario Redaelli",
+    "number": "37b",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8011456,
+    "longitude": 9.4133031
+  },
+  {
+    "street": "Via Professore Mario Redaelli",
+    "number": "48",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8010941,
+    "longitude": 9.4131567
+  },
+  {
+    "street": "Via Professore Mario Redaelli",
+    "number": "37c",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8010951,
+    "longitude": 9.4133185
+  },
+  {
+    "street": "Via Sant'Agnese",
+    "number": "1",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.80102,
+    "longitude": 9.4134186
+  },
+  {
+    "street": "Via Sant'Agnese",
+    "number": "3",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8009652,
+    "longitude": 9.4134402
+  },
+  {
+    "street": "Via Sant'Agnese",
+    "number": "5",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8009126,
+    "longitude": 9.4134633
+  },
+  {
+    "street": "Via Sant'Agnese",
+    "number": "7;9",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8007762,
+    "longitude": 9.4135265
+  },
+  {
+    "street": "Via Sant'Agnese",
+    "number": "11",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8006688,
+    "longitude": 9.4135727
+  },
+  {
+    "street": "Via Sant'Agnese",
+    "number": "13",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8006097,
+    "longitude": 9.4135927
+  },
+  {
+    "street": "Via Sant'Agnese",
+    "number": "8",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8005743,
+    "longitude": 9.4134402
+  },
+  {
+    "street": "Via Sant'Agnese",
+    "number": "10",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8005152,
+    "longitude": 9.4134433
+  },
+  {
+    "street": "Via Sant'Agnese",
+    "number": "12",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8004572,
+    "longitude": 9.4134525
+  },
+  {
+    "street": "Via Sant'Agnese",
+    "number": "14",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8004185,
+    "longitude": 9.4134587
+  },
+  {
+    "street": "Via Sant'Agnese",
+    "number": "15",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8004089,
+    "longitude": 9.4136158
+  },
+  {
+    "street": "Via Sant'Agnese",
+    "number": "17",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8003724,
+    "longitude": 9.4136143
+  },
+  {
+    "street": "Via Sant'Agnese",
+    "number": "19",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8003337,
+    "longitude": 9.4136174
+  },
+  {
+    "street": "Via Sant'Agnese",
+    "number": "25",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8001414,
+    "longitude": 9.4135788
+  },
+  {
+    "street": "Via Sant'Agnese",
+    "number": "26",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8001275,
+    "longitude": 9.4134941
+  },
+  {
+    "street": "Via Sant'Agnese",
+    "number": "28",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8000459,
+    "longitude": 9.4134818
+  },
+  {
+    "street": "Via Sant'Agnese",
+    "number": "27",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7999965,
+    "longitude": 9.4136035
+  },
+  {
+    "street": "Via Don Ambrogio Colombo",
+    "number": "2",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8000136,
+    "longitude": 9.413451
+  },
+  {
+    "street": "Via Sant'Agnese",
+    "number": "32",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7998686,
+    "longitude": 9.4135881
+  },
+  {
+    "street": "Via Sant'Agnese",
+    "number": "29",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7998332,
+    "longitude": 9.4137622
+  },
+  {
+    "street": "Via Sant'Agnese",
+    "number": "29a",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.799758,
+    "longitude": 9.4138284
+  },
+  {
+    "street": "Via Sant'Agnese",
+    "number": "33",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7995056,
+    "longitude": 9.4140995
+  },
+  {
+    "street": "Via Sant'Agnese",
+    "number": "35",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7994401,
+    "longitude": 9.4141134
+  },
+  {
+    "street": "Via Sant'Agnese",
+    "number": "37",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.79925,
+    "longitude": 9.4142444
+  },
+  {
+    "street": "Via Sant'Agnese",
+    "number": "39",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7992135,
+    "longitude": 9.4142613
+  },
+  {
+    "street": "Via Sant'Agnese",
+    "number": "41",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7991501,
+    "longitude": 9.4142921
+  },
+  {
+    "street": "Via Sant'Agnese",
+    "number": "49",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7988827,
+    "longitude": 9.4143198
+  },
+  {
+    "street": "Via Sant'Agnese",
+    "number": "51",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7988312,
+    "longitude": 9.414343
+  },
+  {
+    "street": "Via Sant'Agnese",
+    "number": "53",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7987431,
+    "longitude": 9.4143722
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "1",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7984305,
+    "longitude": 9.4144261
+  },
+  {
+    "street": "Via Sant'Agnese",
+    "number": "42",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7985251,
+    "longitude": 9.4141596
+  },
+  {
+    "street": "Via Sant'Agnese",
+    "number": "40",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7985809,
+    "longitude": 9.4141504
+  },
+  {
+    "street": "Via Sant'Agnese",
+    "number": "38",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7986915,
+    "longitude": 9.4141365
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "90",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7908366,
+    "longitude": 9.4176474
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "67",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.790929,
+    "longitude": 9.4178892
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "92",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7907668,
+    "longitude": 9.4177028
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "94",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.790697,
+    "longitude": 9.4177568
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "69",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7906701,
+    "longitude": 9.4180325
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "98",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7905219,
+    "longitude": 9.417974
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "96",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7906551,
+    "longitude": 9.4177937
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "71",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.790523,
+    "longitude": 9.4181804
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "79",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7899547,
+    "longitude": 9.4191079
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "79d",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.790168,
+    "longitude": 9.4201236
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "81",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7895119,
+    "longitude": 9.4190565
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "87",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7890104,
+    "longitude": 9.4195586
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "2",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7981448,
+    "longitude": 9.4142551
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "4",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7980664,
+    "longitude": 9.4142844
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "6",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7980289,
+    "longitude": 9.4142998
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "6a",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7979966,
+    "longitude": 9.4143152
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "8",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7979343,
+    "longitude": 9.4143337
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "10",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7978796,
+    "longitude": 9.4143553
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "12",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7978226,
+    "longitude": 9.4143722
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "18",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7975649,
+    "longitude": 9.4144539
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "16",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7976196,
+    "longitude": 9.4144415
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "14",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7977399,
+    "longitude": 9.4144077
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "7",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7977582,
+    "longitude": 9.4150531
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "20",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7974897,
+    "longitude": 9.4144985
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "24",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7974274,
+    "longitude": 9.4145294
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "26",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7973651,
+    "longitude": 9.4145617
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "9",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7973758,
+    "longitude": 9.4147558
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "30",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7972104,
+    "longitude": 9.4146264
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "11",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7972298,
+    "longitude": 9.4148729
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "13",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7970654,
+    "longitude": 9.4148945
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "32",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.797059,
+    "longitude": 9.4147681
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "15",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7968678,
+    "longitude": 9.4149499
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "17",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7968184,
+    "longitude": 9.4149792
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "40",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7966401,
+    "longitude": 9.4149283
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "23",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7965048,
+    "longitude": 9.4150963
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "42",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7964801,
+    "longitude": 9.4149869
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "25",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7962953,
+    "longitude": 9.4151902
+  },
+  {
+    "street": "Via del Pino",
+    "number": "2",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7960343,
+    "longitude": 9.4151563
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "31a",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.796058,
+    "longitude": 9.4156509
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "31",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7960837,
+    "longitude": 9.4157679
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "29",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7961697,
+    "longitude": 9.4158712
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "46",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7958206,
+    "longitude": 9.4152703
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "33",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7957604,
+    "longitude": 9.4154306
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "35",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7955435,
+    "longitude": 9.4155153
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "50",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7955349,
+    "longitude": 9.4153982
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "52",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7954017,
+    "longitude": 9.4154306
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "37",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7954275,
+    "longitude": 9.4155553
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "39",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7952169,
+    "longitude": 9.4156493
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "41",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7942879,
+    "longitude": 9.4161192
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "45",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.794101,
+    "longitude": 9.4162008
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "47",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.793986,
+    "longitude": 9.4162424
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "62",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7936702,
+    "longitude": 9.41613
+  },
+  {
+    "street": "Via Sentierone",
+    "number": "1",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7932975,
+    "longitude": 9.4162933
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "66",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7930462,
+    "longitude": 9.4163857
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "53",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7936326,
+    "longitude": 9.4172206
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "51b",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7935596,
+    "longitude": 9.4170512
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "51a",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7933201,
+    "longitude": 9.4167385
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "55a",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7930472,
+    "longitude": 9.4166568
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "68",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7925048,
+    "longitude": 9.4166183
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "57",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7924113,
+    "longitude": 9.4168047
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "76",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7919258,
+    "longitude": 9.4168894
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "63",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7920257,
+    "longitude": 9.4172284
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "82",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7916831,
+    "longitude": 9.4170419
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "84",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7914382,
+    "longitude": 9.4171744
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "86",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7911234,
+    "longitude": 9.4175056
+  },
+  {
+    "street": "Via Cesare Cantù",
+    "number": "88",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7909333,
+    "longitude": 9.4175611
+  },
+  {
+    "street": "Via Spluga",
+    "number": "53",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7886977,
+    "longitude": 9.4205616
+  },
+  {
+    "street": "Via Spluga",
+    "number": "49",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7887164,
+    "longitude": 9.4203819
+  },
+  {
+    "street": "Via Spluga",
+    "number": "51",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7887893,
+    "longitude": 9.4207359
+  },
+  {
+    "street": "Via Spluga",
+    "number": "11",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8017633,
+    "longitude": 9.408764
+  },
+  {
+    "street": "Via Spluga",
+    "number": "9",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8023,
+    "longitude": 9.4082624
+  },
+  {
+    "street": "Via Spluga",
+    "number": "7",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8024496,
+    "longitude": 9.4084931
+  },
+  {
+    "street": "Via Spluga",
+    "number": "1",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.802717,
+    "longitude": 9.4084046
+  },
+  {
+    "street": "Via Spluga",
+    "number": "3",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8027749,
+    "longitude": 9.4084984
+  },
+  {
+    "street": "Via Spluga",
+    "number": "3b",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8027674,
+    "longitude": 9.4090054
+  },
+  {
+    "street": "Via Spluga",
+    "number": "13",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8015318,
+    "longitude": 9.4090473
+  },
+  {
+    "street": "Via Spluga",
+    "number": "24",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.800896,
+    "longitude": 9.4094523
+  },
+  {
+    "street": "Via Spluga",
+    "number": "15",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8005221,
+    "longitude": 9.4099378
+  },
+  {
+    "street": "Via Spluga",
+    "number": "17",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8002883,
+    "longitude": 9.4099968
+  },
+  {
+    "street": "Via Spluga",
+    "number": "19",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7997385,
+    "longitude": 9.4102435
+  },
+  {
+    "street": "Via Spluga",
+    "number": "32",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7992318,
+    "longitude": 9.4101523
+  },
+  {
+    "street": "Via Spluga",
+    "number": "34",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7991626,
+    "longitude": 9.4101738
+  },
+  {
+    "street": "Via Spluga",
+    "number": "21",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7992841,
+    "longitude": 9.4104688
+  },
+  {
+    "street": "Via Spluga",
+    "number": "23",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7990878,
+    "longitude": 9.41056
+  },
+  {
+    "street": "Via Spluga",
+    "number": "36",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7975544,
+    "longitude": 9.4110375
+  },
+  {
+    "street": "Via Spluga",
+    "number": "29",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7968606,
+    "longitude": 9.4115981
+  },
+  {
+    "street": "Via Spluga",
+    "number": "31",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7964866,
+    "longitude": 9.4117375
+  },
+  {
+    "street": "Via Spluga",
+    "number": "56",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7908914,
+    "longitude": 9.4158582
+  },
+  {
+    "street": "Via Spluga",
+    "number": "56a",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7906976,
+    "longitude": 9.4160224
+  },
+  {
+    "street": "Via Spluga",
+    "number": "56b",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7906396,
+    "longitude": 9.4161395
+  },
+  {
+    "street": "Via Spluga",
+    "number": "56c",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7903947,
+    "longitude": 9.4160809
+  },
+  {
+    "street": "Via Spluga",
+    "number": "56g",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7902872,
+    "longitude": 9.4167403
+  },
+  {
+    "street": "Via Spluga",
+    "number": "41",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7904784,
+    "longitude": 9.417033
+  },
+  {
+    "street": "Via Spluga",
+    "number": "60",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7898941,
+    "longitude": 9.4176369
+  },
+  {
+    "street": "Via Spluga",
+    "number": "62",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7897587,
+    "longitude": 9.4178094
+  },
+  {
+    "street": "Via Spluga",
+    "number": "64",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7895246,
+    "longitude": 9.4182099
+  },
+  {
+    "street": "Via Spluga",
+    "number": "82",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7882291,
+    "longitude": 9.4198059
+  },
+  {
+    "street": "Via Spluga",
+    "number": "82a",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7881302,
+    "longitude": 9.4198891
+  },
+  {
+    "street": "Via Spluga",
+    "number": "55",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.78833,
+    "longitude": 9.4199908
+  },
+  {
+    "street": "Via Spluga",
+    "number": "57",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7880035,
+    "longitude": 9.4202188
+  },
+  {
+    "street": "Via Spluga",
+    "number": "84",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7879025,
+    "longitude": 9.420114
+  },
+  {
+    "street": "Via Spluga",
+    "number": "59",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7877499,
+    "longitude": 9.4204406
+  },
+  {
+    "street": "Via Spluga",
+    "number": "65",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7875007,
+    "longitude": 9.4206686
+  },
+  {
+    "street": "Via Spluga",
+    "number": "92",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7869421,
+    "longitude": 9.4208381
+  },
+  {
+    "street": "Via Spluga",
+    "number": "94",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7867144,
+    "longitude": 9.4211
+  },
+  {
+    "street": "Via Spluga",
+    "number": "98",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7862739,
+    "longitude": 9.420798
+  },
+  {
+    "street": "Via Spluga",
+    "number": "102",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.786319,
+    "longitude": 9.4210784
+  },
+  {
+    "street": "Via Spluga",
+    "number": "100",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7862245,
+    "longitude": 9.4209367
+  },
+  {
+    "street": "Via Spluga",
+    "number": "104",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7861321,
+    "longitude": 9.4215745
+  },
+  {
+    "street": "Via Spluga",
+    "number": "106",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7860569,
+    "longitude": 9.4216422
+  },
+  {
+    "street": "Via Spluga",
+    "number": "67",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7854876,
+    "longitude": 9.4224156
+  },
+  {
+    "street": "Via Spluga",
+    "number": "69",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7854553,
+    "longitude": 9.4224371
+  },
+  {
+    "street": "Via Spluga",
+    "number": "85",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7850965,
+    "longitude": 9.4227915
+  },
+  {
+    "street": "Via Spluga",
+    "number": "83",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7852405,
+    "longitude": 9.423038
+  },
+  {
+    "street": "Via Spluga",
+    "number": "75",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7853479,
+    "longitude": 9.4231181
+  },
+  {
+    "street": "Via Spluga",
+    "number": "77",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7854532,
+    "longitude": 9.4233152
+  },
+  {
+    "street": "Via Spluga",
+    "number": "81",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7854403,
+    "longitude": 9.4234939
+  },
+  {
+    "street": "Via Spluga",
+    "number": "79",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7855097,
+    "longitude": 9.4235838
+  },
+  {
+    "street": "Via del Lavoro",
+    "number": "4d",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7854741,
+    "longitude": 9.4234175
+  },
+  {
+    "street": "Via del Lavoro",
+    "number": "4c",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.78549,
+    "longitude": 9.423451
+  },
+  {
+    "street": "Via Spluga",
+    "number": "89",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7848401,
+    "longitude": 9.4228234
+  },
+  {
+    "street": "Via Spluga",
+    "number": "93",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7847316,
+    "longitude": 9.4230996
+  },
+  {
+    "street": "Via Spluga",
+    "number": "91",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7848606,
+    "longitude": 9.4235838
+  },
+  {
+    "street": "Via Spluga",
+    "number": "112",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7848157,
+    "longitude": 9.4226075
+  },
+  {
+    "street": "Via Spluga",
+    "number": "110",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7849037,
+    "longitude": 9.4225578
+  },
+  {
+    "street": "Via Spluga",
+    "number": "95",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7846109,
+    "longitude": 9.4231144
+  },
+  {
+    "street": "Via Spluga",
+    "number": "118",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7846799,
+    "longitude": 9.4226541
+  },
+  {
+    "street": "Via Spluga",
+    "number": "38",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7948494,
+    "longitude": 9.4122707
+  },
+  {
+    "street": "Via Spluga",
+    "number": "48",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7912965,
+    "longitude": 9.4150528
+  },
+  {
+    "street": "Via Spluga",
+    "number": "52",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7911263,
+    "longitude": 9.4151519
+  },
+  {
+    "street": "Via Spluga",
+    "number": "35",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7914486,
+    "longitude": 9.4151933
+  },
+  {
+    "street": "Via Spluga",
+    "number": "50",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7910941,
+    "longitude": 9.4151994
+  },
+  {
+    "street": "Via Spluga",
+    "number": "54",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7910468,
+    "longitude": 9.415489
+  },
+  {
+    "street": "Via Spluga",
+    "number": "56f",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7902994,
+    "longitude": 9.4165588
+  },
+  {
+    "street": "Via Spluga",
+    "number": "56e",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7901871,
+    "longitude": 9.4164234
+  },
+  {
+    "street": "Via Milano",
+    "number": "1",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.783689,
+    "longitude": 9.4237292
+  },
+  {
+    "street": "Via Milano",
+    "number": "3",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7834741,
+    "longitude": 9.4238278
+  },
+  {
+    "street": "Via Milano",
+    "number": "6",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7832979,
+    "longitude": 9.4237046
+  },
+  {
+    "street": "Via Milano",
+    "number": "14",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7822881,
+    "longitude": 9.4239665
+  },
+  {
+    "street": "Via Milano",
+    "number": "16",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7822408,
+    "longitude": 9.4239572
+  },
+  {
+    "street": "Via Milano",
+    "number": "18",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7821678,
+    "longitude": 9.4232054
+  },
+  {
+    "street": "Via Milano",
+    "number": "13",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.780741,
+    "longitude": 9.4245303
+  },
+  {
+    "street": "Via Milano",
+    "number": "32",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7801946,
+    "longitude": 9.4245629
+  },
+  {
+    "street": "Via Milano",
+    "number": "42",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7745238,
+    "longitude": 9.425173
+  },
+  {
+    "street": "Via Milano",
+    "number": "67",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7715989,
+    "longitude": 9.4258108
+  },
+  {
+    "street": "Via Milano",
+    "number": "69",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7716118,
+    "longitude": 9.4259155
+  },
+  {
+    "street": "Via Milano",
+    "number": "79",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7697098,
+    "longitude": 9.4249573
+  },
+  {
+    "street": "Via Milano",
+    "number": "81",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7696196,
+    "longitude": 9.4249512
+  },
+  {
+    "street": "Via Milano",
+    "number": "85",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7686933,
+    "longitude": 9.4249049
+  },
+  {
+    "street": "Via Milano",
+    "number": "60",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7686224,
+    "longitude": 9.4247509
+  },
+  {
+    "street": "Via Milano",
+    "number": "95",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7667246,
+    "longitude": 9.425059
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "1",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8014671,
+    "longitude": 9.4128139
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "4",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8015412,
+    "longitude": 9.4128933
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "6",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8015363,
+    "longitude": 9.4128437
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "8",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8015277,
+    "longitude": 9.4127853
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "3",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8014388,
+    "longitude": 9.4127323
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "5",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8014444,
+    "longitude": 9.4126845
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "10",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8015048,
+    "longitude": 9.4126836
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "12",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8014552,
+    "longitude": 9.412467
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "7",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8013262,
+    "longitude": 9.4122417
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "9",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8011981,
+    "longitude": 9.4122604
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "11",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.801299,
+    "longitude": 9.4121089
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "13",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8012871,
+    "longitude": 9.4120436
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "15",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8012731,
+    "longitude": 9.4119851
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "14",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8013773,
+    "longitude": 9.4119789
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "16",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8013612,
+    "longitude": 9.4119188
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "18",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8013408,
+    "longitude": 9.4118495
+  },
+  {
+    "street": "Piazza Roma",
+    "number": "6",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8015803,
+    "longitude": 9.4122316
+  },
+  {
+    "street": "Piazza Roma",
+    "number": "5",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8015739,
+    "longitude": 9.4121515
+  },
+  {
+    "street": "Piazza Roma",
+    "number": "1",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8014987,
+    "longitude": 9.4118526
+  },
+  {
+    "street": "Piazza Roma",
+    "number": "4",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8016426,
+    "longitude": 9.4120452
+  },
+  {
+    "street": "Piazza Roma",
+    "number": "3",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8017103,
+    "longitude": 9.4120005
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "17",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8012205,
+    "longitude": 9.4118079
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "22",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8013161,
+    "longitude": 9.4116354
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "24",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8012506,
+    "longitude": 9.4114983
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "19",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.801097,
+    "longitude": 9.4114228
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "32",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8011282,
+    "longitude": 9.4112718
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "21",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.801039,
+    "longitude": 9.4112595
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "27",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8009531,
+    "longitude": 9.4110546
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "36",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8010369,
+    "longitude": 9.4110068
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "38",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8009982,
+    "longitude": 9.4108836
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "40",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8009918,
+    "longitude": 9.4108543
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "29",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8008715,
+    "longitude": 9.4107604
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "1",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8009531,
+    "longitude": 9.4107604
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "31",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8007641,
+    "longitude": 9.4104214
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "33",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8006921,
+    "longitude": 9.4102088
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "35",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8006685,
+    "longitude": 9.4101318
+  },
+  {
+    "street": "Via Gambate",
+    "number": "2",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8004735,
+    "longitude": 9.4094504
+  },
+  {
+    "street": "Via Gambate",
+    "number": "4",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8004507,
+    "longitude": 9.409378
+  },
+  {
+    "street": "Via Gambate",
+    "number": "6",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8005288,
+    "longitude": 9.4091586
+  },
+  {
+    "street": "Via Gambate",
+    "number": "3",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8004018,
+    "longitude": 9.4091259
+  },
+  {
+    "street": "Via Ronco Praderigo",
+    "number": "1a",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8003562,
+    "longitude": 9.4094318
+  },
+  {
+    "street": "Via Gambate",
+    "number": "6a",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8005548,
+    "longitude": 9.4088363
+  },
+  {
+    "street": "Via Gambate",
+    "number": "8",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8006574,
+    "longitude": 9.4086168
+  },
+  {
+    "street": "Via Gambate",
+    "number": "5",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8004881,
+    "longitude": 9.4088293
+  },
+  {
+    "street": "Via Gambate",
+    "number": "14",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8003611,
+    "longitude": 9.4076595
+  },
+  {
+    "street": "Via Gambate",
+    "number": "38",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8003449,
+    "longitude": 9.4075614
+  },
+  {
+    "street": "Via Gambate",
+    "number": "36",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8004067,
+    "longitude": 9.4075591
+  },
+  {
+    "street": "Via Gambate",
+    "number": "16",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8006558,
+    "longitude": 9.4076595
+  },
+  {
+    "street": "Via Gambate",
+    "number": "18",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8007567,
+    "longitude": 9.4075964
+  },
+  {
+    "street": "Via Gambate",
+    "number": "34",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8008137,
+    "longitude": 9.4073513
+  },
+  {
+    "street": "Via Gambate",
+    "number": "32",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8009716,
+    "longitude": 9.4072812
+  },
+  {
+    "street": "Via Gambate",
+    "number": "30",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8009944,
+    "longitude": 9.4073396
+  },
+  {
+    "street": "Via Gambate",
+    "number": "20",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8010432,
+    "longitude": 9.4076501
+  },
+  {
+    "street": "Via Gambate",
+    "number": "22",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8011034,
+    "longitude": 9.4077342
+  },
+  {
+    "street": "Via Gambate",
+    "number": "28",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8011262,
+    "longitude": 9.4075871
+  },
+  {
+    "street": "Via Gambate",
+    "number": "42",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8001479,
+    "longitude": 9.4074377
+  },
+  {
+    "street": "Via Gambate",
+    "number": "44",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8000888,
+    "longitude": 9.4072207
+  },
+  {
+    "street": "Via Gambate",
+    "number": "54",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8000459,
+    "longitude": 9.407002
+  },
+  {
+    "street": "Via Gambate",
+    "number": "50",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8002016,
+    "longitude": 9.4071144
+  },
+  {
+    "street": "Via Gambate",
+    "number": "52",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8002575,
+    "longitude": 9.4070821
+  },
+  {
+    "street": "Via Gambate",
+    "number": "52e",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8002123,
+    "longitude": 9.4070251
+  },
+  {
+    "street": "Via Gambate",
+    "number": "52d",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8003187,
+    "longitude": 9.4069681
+  },
+  {
+    "street": "Via Gambate",
+    "number": "52c",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8006505,
+    "longitude": 9.4067909
+  },
+  {
+    "street": "Via Gambate",
+    "number": "52b",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8007107,
+    "longitude": 9.406757
+  },
+  {
+    "street": "Via Gambate",
+    "number": "52a",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8007676,
+    "longitude": 9.4067601
+  },
+  {
+    "street": "Via Gambate",
+    "number": "9",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.799946,
+    "longitude": 9.4068849
+  },
+  {
+    "street": "Via Gambate",
+    "number": "54a",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8000212,
+    "longitude": 9.406891
+  },
+  {
+    "street": "Via Gambate",
+    "number": "56",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7999625,
+    "longitude": 9.4064441
+  },
+  {
+    "street": "Via Gambate",
+    "number": "56a",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8003776,
+    "longitude": 9.4059047
+  },
+  {
+    "street": "Via Gambate",
+    "number": "58",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7998518,
+    "longitude": 9.4062713
+  },
+  {
+    "street": "Via Gambate",
+    "number": "68",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8006478,
+    "longitude": 9.4050431
+  },
+  {
+    "street": "Via Gambate",
+    "number": "60",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8005681,
+    "longitude": 9.4044967
+  },
+  {
+    "street": "Via Gambate",
+    "number": "62",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8004297,
+    "longitude": 9.4042843
+  },
+  {
+    "street": "Via Gambate",
+    "number": "64",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8002865,
+    "longitude": 9.4040461
+  },
+  {
+    "street": "Via Gambate",
+    "number": "66",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8002848,
+    "longitude": 9.4042516
+  },
+  {
+    "street": "Via Gambate",
+    "number": "72",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7993016,
+    "longitude": 9.4053794
+  },
+  {
+    "street": "Via Gambate",
+    "number": "15",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7988604,
+    "longitude": 9.4050408
+  },
+  {
+    "street": "Via Gambate",
+    "number": "76",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7996516,
+    "longitude": 9.4040928
+  },
+  {
+    "street": "Via Gambate",
+    "number": "80",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7997234,
+    "longitude": 9.4039412
+  },
+  {
+    "street": "Via Gambate",
+    "number": "78a",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7996625,
+    "longitude": 9.4040062
+  },
+  {
+    "street": "Via Gambate",
+    "number": "17",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7987937,
+    "longitude": 9.404921
+  },
+  {
+    "street": "Via Gambate",
+    "number": "86",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7984054,
+    "longitude": 9.4044636
+  },
+  {
+    "street": "Via Gambate",
+    "number": "98",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.798037,
+    "longitude": 9.4043132
+  },
+  {
+    "street": "Via Gambate",
+    "number": "100",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7979023,
+    "longitude": 9.4043742
+  },
+  {
+    "street": "Via Ronco Praderigo",
+    "number": "49",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7976713,
+    "longitude": 9.4049819
+  },
+  {
+    "street": "Via Ronco Praderigo",
+    "number": "51",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7976161,
+    "longitude": 9.4048925
+  },
+  {
+    "street": "Via Ronco Praderigo",
+    "number": "47",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7978641,
+    "longitude": 9.4055227
+  },
+  {
+    "street": "Via Ronco Praderigo",
+    "number": "24",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7980667,
+    "longitude": 9.4057808
+  },
+  {
+    "street": "Via Ronco Praderigo",
+    "number": "45",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7980922,
+    "longitude": 9.4061386
+  },
+  {
+    "street": "Via Ronco Praderigo",
+    "number": "43",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7981234,
+    "longitude": 9.4062178
+  },
+  {
+    "street": "Via Ronco Praderigo",
+    "number": "22",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7982169,
+    "longitude": 9.4062422
+  },
+  {
+    "street": "Via Ronco Praderigo",
+    "number": "41",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7981773,
+    "longitude": 9.4064902
+  },
+  {
+    "street": "Via Ronco Praderigo",
+    "number": "39a",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7982113,
+    "longitude": 9.4066488
+  },
+  {
+    "street": "Via Ronco Praderigo",
+    "number": "20a",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7982807,
+    "longitude": 9.4066061
+  },
+  {
+    "street": "Via Ronco Praderigo",
+    "number": "20",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7983091,
+    "longitude": 9.406726
+  },
+  {
+    "street": "Via Ronco Praderigo",
+    "number": "23",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7982991,
+    "longitude": 9.4072566
+  },
+  {
+    "street": "Via Ronco Praderigo",
+    "number": "39",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7982623,
+    "longitude": 9.4071936
+  },
+  {
+    "street": "Via Ronco Praderigo",
+    "number": "27",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7981262,
+    "longitude": 9.4072891
+  },
+  {
+    "street": "Via Ronco Praderigo",
+    "number": "31",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7981036,
+    "longitude": 9.407159
+  },
+  {
+    "street": "Via Ronco Praderigo",
+    "number": "37",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.798173,
+    "longitude": 9.4070797
+  },
+  {
+    "street": "Via Ronco Praderigo",
+    "number": "16",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7984891,
+    "longitude": 9.407472
+  },
+  {
+    "street": "Via Ronco Praderigo",
+    "number": "14",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7985684,
+    "longitude": 9.4076123
+  },
+  {
+    "street": "Via Ronco Praderigo",
+    "number": "19",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.798652,
+    "longitude": 9.4080676
+  },
+  {
+    "street": "Via Ronco Praderigo",
+    "number": "12",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7988533,
+    "longitude": 9.4082201
+  },
+  {
+    "street": "Via Ronco Praderigo",
+    "number": "10",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7989936,
+    "longitude": 9.4085941
+  },
+  {
+    "street": "Via Ronco Praderigo",
+    "number": "17",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7989922,
+    "longitude": 9.4088299
+  },
+  {
+    "street": "Via Ronco Praderigo",
+    "number": "15",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.799063,
+    "longitude": 9.4091592
+  },
+  {
+    "street": "Via Ronco Praderigo",
+    "number": "9",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7992217,
+    "longitude": 9.409145
+  },
+  {
+    "street": "Via Ronco Praderigo",
+    "number": "8",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7993266,
+    "longitude": 9.4090047
+  },
+  {
+    "street": "Via Ronco Praderigo",
+    "number": "6",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7996157,
+    "longitude": 9.4088706
+  },
+  {
+    "street": "Via Ronco Praderigo",
+    "number": "5",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7999034,
+    "longitude": 9.4089641
+  },
+  {
+    "street": "Via Ronco Praderigo",
+    "number": "3",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8000522,
+    "longitude": 9.4090759
+  },
+  {
+    "street": "Via Ronco Praderigo",
+    "number": "1",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8001967,
+    "longitude": 9.4092263
+  },
+  {
+    "street": "Via Ronco Praderigo",
+    "number": "2",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8001556,
+    "longitude": 9.409019
+  },
+  {
+    "street": "Via Ronco Praderigo",
+    "number": "4c",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7996015,
+    "longitude": 9.4080595
+  },
+  {
+    "street": "Via Ronco Praderigo",
+    "number": "4d",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7994981,
+    "longitude": 9.4080229
+  },
+  {
+    "street": "Via Professore Mario Redaelli",
+    "number": "19b",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8018807,
+    "longitude": 9.4130441
+  },
+  {
+    "street": "Via Professore Mario Redaelli",
+    "number": "19c",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8018097,
+    "longitude": 9.4129664
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "22a",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.801299,
+    "longitude": 9.4115817
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "34",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8010769,
+    "longitude": 9.4111906
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "2",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8011807,
+    "longitude": 9.4107381
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "4",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8013876,
+    "longitude": 9.4105958
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "5",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8013989,
+    "longitude": 9.4104514
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "6",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8016512,
+    "longitude": 9.41086
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "8",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8015959,
+    "longitude": 9.4104514
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "14",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8017291,
+    "longitude": 9.4103498
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "16",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8018978,
+    "longitude": 9.41024
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "7",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8018751,
+    "longitude": 9.4101303
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "9",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8021132,
+    "longitude": 9.4099819
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "18",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8021613,
+    "longitude": 9.4100734
+  },
+  {
+    "street": "Via Aspide",
+    "number": "20",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8023668,
+    "longitude": 9.4098315
+  },
+  {
+    "street": "Via Aspide",
+    "number": "1a",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8024575,
+    "longitude": 9.4099697
+  },
+  {
+    "street": "Via Aspide",
+    "number": "18",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8026531,
+    "longitude": 9.4100103
+  },
+  {
+    "street": "Via Aspide",
+    "number": "18a",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8025043,
+    "longitude": 9.4098802
+  },
+  {
+    "street": "Via Aspide",
+    "number": "16",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8027466,
+    "longitude": 9.4100876
+  },
+  {
+    "street": "Via Aspide",
+    "number": "14",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8029804,
+    "longitude": 9.4095814
+  },
+  {
+    "street": "Via Aspide",
+    "number": "12",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.803047,
+    "longitude": 9.4093151
+  },
+  {
+    "street": "Via Aspide",
+    "number": "10",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8031009,
+    "longitude": 9.4090997
+  },
+  {
+    "street": "Via Aspide",
+    "number": "8",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8031335,
+    "longitude": 9.4089269
+  },
+  {
+    "street": "Via Aspide",
+    "number": "22",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8021291,
+    "longitude": 9.4096006
+  },
+  {
+    "street": "Via Aspide",
+    "number": "24",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8022408,
+    "longitude": 9.4093141
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "2",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8015685,
+    "longitude": 9.4097824
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "2",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7939421,
+    "longitude": 9.4122341
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "1",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7935078,
+    "longitude": 9.4125243
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "4",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7935867,
+    "longitude": 9.4123898
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "3",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7932166,
+    "longitude": 9.4125668
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "8",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7928588,
+    "longitude": 9.4124429
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "10",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7926613,
+    "longitude": 9.4124748
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "12",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7922566,
+    "longitude": 9.4125031
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "14",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7921332,
+    "longitude": 9.4125456
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "9",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7920814,
+    "longitude": 9.4126553
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "11",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.792037,
+    "longitude": 9.4126836
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "20a",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7917032,
+    "longitude": 9.4118877
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "20",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.791648,
+    "longitude": 9.4117521
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "20b",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7915644,
+    "longitude": 9.4114573
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "22",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7918295,
+    "longitude": 9.4126689
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "13",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7918054,
+    "longitude": 9.4128335
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "15",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7917232,
+    "longitude": 9.4129717
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "17",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7916324,
+    "longitude": 9.4130978
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "19",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7914298,
+    "longitude": 9.4133336
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "26",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7913702,
+    "longitude": 9.4132665
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "28",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7911094,
+    "longitude": 9.4134332
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "23",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7909805,
+    "longitude": 9.4136344
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "32",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7909124,
+    "longitude": 9.4135653
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "34",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7906658,
+    "longitude": 9.4137198
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "25",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.79068,
+    "longitude": 9.4138417
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "29",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7904915,
+    "longitude": 9.4139881
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "27",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7905822,
+    "longitude": 9.4138946
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "36",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7905156,
+    "longitude": 9.4138336
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "38",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.790422,
+    "longitude": 9.413917
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "31;33",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7904135,
+    "longitude": 9.4141202
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "40",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7903129,
+    "longitude": 9.4140105
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "42",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7902477,
+    "longitude": 9.4140775
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "35",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7902321,
+    "longitude": 9.4142564
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "44",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7900677,
+    "longitude": 9.4141162
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "44b",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7899557,
+    "longitude": 9.4140999
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "46",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7896878,
+    "longitude": 9.41423
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "39",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7896127,
+    "longitude": 9.4143824
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "41",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7894213,
+    "longitude": 9.4144292
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "50a",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.78923,
+    "longitude": 9.4143743
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "52",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7891563,
+    "longitude": 9.4143865
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "54",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7891052,
+    "longitude": 9.4144007
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "43",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7890811,
+    "longitude": 9.4145512
+  },
+  {
+    "street": "Via Santa Maria",
+    "number": "45",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7888714,
+    "longitude": 9.4145756
+  },
+  {
+    "street": "Via Ronco Praderigo",
+    "number": "53",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7974809,
+    "longitude": 9.4047579
+  },
+  {
+    "street": "Via Ronco Praderigo",
+    "number": "53b",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7972173,
+    "longitude": 9.4044692
+  },
+  {
+    "street": "Via Ronco Praderigo",
+    "number": "71",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7971153,
+    "longitude": 9.4042944
+  },
+  {
+    "street": "Via Citerna",
+    "number": "1",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7971408,
+    "longitude": 9.4063068
+  },
+  {
+    "street": "Via Citerna",
+    "number": "1a",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7972422,
+    "longitude": 9.4062398
+  },
+  {
+    "street": "Via Citerna",
+    "number": "1b",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7972964,
+    "longitude": 9.4061915
+  },
+  {
+    "street": "Via Citerna",
+    "number": "1c",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7973394,
+    "longitude": 9.4061406
+  },
+  {
+    "street": "Via Citerna",
+    "number": "1d",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7974497,
+    "longitude": 9.4060306
+  },
+  {
+    "street": "Via Citerna",
+    "number": "1e",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.797504,
+    "longitude": 9.4059796
+  },
+  {
+    "street": "Via Citerna",
+    "number": "3",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7975694,
+    "longitude": 9.4059099
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "42",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7973188,
+    "longitude": 9.4066207
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "40",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.797446,
+    "longitude": 9.4068648
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "41",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.797302,
+    "longitude": 9.4069238
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "38",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7975918,
+    "longitude": 9.4069908
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "39",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.797474,
+    "longitude": 9.4070981
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "31",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7972646,
+    "longitude": 9.4075085
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "35",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7971898,
+    "longitude": 9.4074575
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "37",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7973431,
+    "longitude": 9.4073422
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "33",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7970925,
+    "longitude": 9.407589
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "29",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.797704,
+    "longitude": 9.4072966
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "27",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7977882,
+    "longitude": 9.4074736
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "21",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7972945,
+    "longitude": 9.4079698
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "19",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.797431,
+    "longitude": 9.4079672
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "23",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7973843,
+    "longitude": 9.407884
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "17",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7979023,
+    "longitude": 9.4077606
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "15",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7980107,
+    "longitude": 9.4081174
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "32",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7981248,
+    "longitude": 9.4081978
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "13",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7981342,
+    "longitude": 9.4086404
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "18",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7980163,
+    "longitude": 9.4089623
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "14",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.797805,
+    "longitude": 9.4096838
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "9",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7978256,
+    "longitude": 9.4099708
+  },
+  {
+    "street": "Via Diligenza",
+    "number": "1",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7974516,
+    "longitude": 9.4093914
+  },
+  {
+    "street": "Via Diligenza",
+    "number": "1a",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7973263,
+    "longitude": 9.409429
+  },
+  {
+    "street": "Via Diligenza",
+    "number": "2a",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7971131,
+    "longitude": 9.4094075
+  },
+  {
+    "street": "Via Diligenza",
+    "number": "1b",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7971038,
+    "longitude": 9.4095711
+  },
+  {
+    "street": "Via Diligenza",
+    "number": "2",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7969448,
+    "longitude": 9.4095363
+  },
+  {
+    "street": "Via Diligenza",
+    "number": "4",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7965876,
+    "longitude": 9.4098393
+  },
+  {
+    "street": "Via Diligenza",
+    "number": "5",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.796668,
+    "longitude": 9.4099252
+  },
+  {
+    "street": "Via Diligenza",
+    "number": "6",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.79641,
+    "longitude": 9.4100164
+  },
+  {
+    "street": "Via Diligenza",
+    "number": "8",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.79615,
+    "longitude": 9.410239
+  },
+  {
+    "street": "Via Diligenza",
+    "number": "10",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7959312,
+    "longitude": 9.4104428
+  },
+  {
+    "street": "Via Diligenza",
+    "number": "12",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7957947,
+    "longitude": 9.4105609
+  },
+  {
+    "street": "Via Diligenza",
+    "number": "14",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7956937,
+    "longitude": 9.410636
+  },
+  {
+    "street": "Via Diligenza",
+    "number": "16",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7955778,
+    "longitude": 9.4107379
+  },
+  {
+    "street": "Via Diligenza",
+    "number": "7a",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7956451,
+    "longitude": 9.4111992
+  },
+  {
+    "street": "Via Diligenza",
+    "number": "7b",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7958172,
+    "longitude": 9.4111831
+  },
+  {
+    "street": "Via Diligenza",
+    "number": "7c",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7960042,
+    "longitude": 9.41088
+  },
+  {
+    "street": "Via Diligenza",
+    "number": "7d",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7961706,
+    "longitude": 9.410872
+  },
+  {
+    "street": "Via Diligenza",
+    "number": "7f",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7964044,
+    "longitude": 9.4105206
+  },
+  {
+    "street": "Via Diligenza",
+    "number": "7e",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7963427,
+    "longitude": 9.4108774
+  },
+  {
+    "street": "Via Diligenza",
+    "number": "7g",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7965764,
+    "longitude": 9.4105287
+  },
+  {
+    "street": "Via Diligenza",
+    "number": "7h",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7967485,
+    "longitude": 9.4105233
+  },
+  {
+    "street": "Via Diligenza",
+    "number": "7l",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7965016,
+    "longitude": 9.4108318
+  },
+  {
+    "street": "Via Diligenza",
+    "number": "7i",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.796799,
+    "longitude": 9.4105609
+  },
+  {
+    "street": "Via Diligenza",
+    "number": "7m",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7963688,
+    "longitude": 9.410931
+  },
+  {
+    "street": "Via Diligenza",
+    "number": "7n",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.796337,
+    "longitude": 9.4109498
+  },
+  {
+    "street": "Via Diligenza",
+    "number": "7o",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7962697,
+    "longitude": 9.4110088
+  },
+  {
+    "street": "Via Diligenza",
+    "number": "7p",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7962379,
+    "longitude": 9.4110383
+  },
+  {
+    "street": "Via Diligenza",
+    "number": "7q",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7962118,
+    "longitude": 9.4110598
+  },
+  {
+    "street": "Via Diligenza",
+    "number": "7r",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7961369,
+    "longitude": 9.4111134
+  },
+  {
+    "street": "Via Diligenza",
+    "number": "7s",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7960734,
+    "longitude": 9.4111107
+  },
+  {
+    "street": "Via Diligenza",
+    "number": "20",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7951701,
+    "longitude": 9.4112073
+  },
+  {
+    "street": "Via Diligenza",
+    "number": "9",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7950362,
+    "longitude": 9.4114728
+  },
+  {
+    "street": "Via Diligenza",
+    "number": "11",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7949259,
+    "longitude": 9.411556
+  },
+  {
+    "street": "Via Diligenza",
+    "number": "13",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7947744,
+    "longitude": 9.4116874
+  },
+  {
+    "street": "Via Diligenza",
+    "number": "32",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7945949,
+    "longitude": 9.4116901
+  },
+  {
+    "street": "Via Diligenza",
+    "number": "15",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7945257,
+    "longitude": 9.4119529
+  },
+  {
+    "street": "Via Diligenza",
+    "number": "17",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7943854,
+    "longitude": 9.4119985
+  },
+  {
+    "street": "Via Diligenza",
+    "number": "19",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7943218,
+    "longitude": 9.4120441
+  },
+  {
+    "street": "Via Diligenza",
+    "number": "36",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7943405,
+    "longitude": 9.4118993
+  },
+  {
+    "street": "Via Diligenza",
+    "number": "34",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7944191,
+    "longitude": 9.411843
+  },
+  {
+    "street": "Via Diligenza",
+    "number": "26",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7948791,
+    "longitude": 9.4113306
+  },
+  {
+    "street": "Via Diligenza",
+    "number": "30",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7948099,
+    "longitude": 9.411395
+  },
+  {
+    "street": "Via Diligenza",
+    "number": "28",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.794679,
+    "longitude": 9.41099
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "28",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7983597,
+    "longitude": 9.4088264
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "26",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7984037,
+    "longitude": 9.4089595
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "24",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7984558,
+    "longitude": 9.4090856
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "22",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7984965,
+    "longitude": 9.4091977
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "20",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7985014,
+    "longitude": 9.4097511
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "12",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7984932,
+    "longitude": 9.4099729
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "6;8",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7986886,
+    "longitude": 9.4101107
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "2",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7981953,
+    "longitude": 9.4103769
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "4",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.798179,
+    "longitude": 9.4103255
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "10",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7980732,
+    "longitude": 9.4100406
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "1",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7978958,
+    "longitude": 9.4104679
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "3",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7978307,
+    "longitude": 9.4105146
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "5",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7973325,
+    "longitude": 9.410573
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "7",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7973623,
+    "longitude": 9.4104683
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "30",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7982404,
+    "longitude": 9.4085849
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "34",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7979487,
+    "longitude": 9.4075872
+  },
+  {
+    "street": "Via Belvedere",
+    "number": "36",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7978178,
+    "longitude": 9.407327
+  },
+  {
+    "street": "Via Gambate",
+    "number": "1",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8003735,
+    "longitude": 9.4091871
+  },
+  {
+    "street": "Via Martiri della Libertà",
+    "number": "8",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.8013266,
+    "longitude": 9.41486
+  },
+  {
+    "street": "Via Milano",
+    "number": "7",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7827358,
+    "longitude": 9.4246721
+  },
+  {
+    "street": "Via Postale Vecchia",
+    "number": "1A, 1B",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7902352,
+    "longitude": 9.4159263
+  },
+  {
+    "street": "Via Stoppata",
+    "number": "2",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7874553,
+    "longitude": 9.4248797
+  },
+  {
+    "street": "Via Stoppata",
+    "number": "4",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7878089,
+    "longitude": 9.4246491
+  },
+  {
+    "street": "Via Stoppata",
+    "number": "1",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7879457,
+    "longitude": 9.4245168
+  },
+  {
+    "street": "Via dell'Industria",
+    "number": "8",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.788427,
+    "longitude": 9.4232998
+  },
+  {
+    "street": "Via Concordia",
+    "number": "5",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7878539,
+    "longitude": 9.4236914
+  },
+  {
+    "street": "Via Concordia",
+    "number": "7",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.787637,
+    "longitude": 9.4238822
+  },
+  {
+    "street": "Via Milano",
+    "number": "5",
+    "city": {
+      "name": "Olginate",
+      "istat": "097059"
+    },
+    "latitude": 45.7829815,
+    "longitude": 9.4243678
+  }
+]

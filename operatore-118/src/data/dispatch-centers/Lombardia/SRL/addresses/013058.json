@@ -1,0 +1,352 @@
+[
+  {
+    "street": "Via Lambro",
+    "number": "21",
+    "city": {
+      "name": "Castelmarte",
+      "istat": "013058"
+    },
+    "latitude": 45.8414906,
+    "longitude": 9.2512709
+  },
+  {
+    "street": "Via Lambro",
+    "number": "35",
+    "city": {
+      "name": "Castelmarte",
+      "istat": "013058"
+    },
+    "latitude": 45.8434445,
+    "longitude": 9.2538047
+  },
+  {
+    "street": "Via Mar Rosso",
+    "number": "1a",
+    "city": {
+      "name": "Castelmarte",
+      "istat": "013058"
+    },
+    "latitude": 45.8415598,
+    "longitude": 9.251351
+  },
+  {
+    "street": "Via Lambro",
+    "number": "12",
+    "city": {
+      "name": "Castelmarte",
+      "istat": "013058"
+    },
+    "latitude": 45.8438113,
+    "longitude": 9.2538433
+  },
+  {
+    "street": "Via al Castello",
+    "number": "2",
+    "city": {
+      "name": "Castelmarte",
+      "istat": "013058"
+    },
+    "latitude": 45.8297911,
+    "longitude": 9.2356466
+  },
+  {
+    "street": "Via Mariola",
+    "number": "12",
+    "city": {
+      "name": "Castelmarte",
+      "istat": "013058"
+    },
+    "latitude": 45.8317108,
+    "longitude": 9.2366009
+  },
+  {
+    "street": "via Valleggio",
+    "number": "25",
+    "city": {
+      "name": "Castelmarte",
+      "istat": "013058"
+    },
+    "latitude": 45.8317417,
+    "longitude": 9.2374822
+  },
+  {
+    "street": "Via al Castello",
+    "number": "1",
+    "city": {
+      "name": "Castelmarte",
+      "istat": "013058"
+    },
+    "latitude": 45.8315072,
+    "longitude": 9.2371501
+  },
+  {
+    "street": "Via Mariola",
+    "number": "11",
+    "city": {
+      "name": "Castelmarte",
+      "istat": "013058"
+    },
+    "latitude": 45.8327102,
+    "longitude": 9.2376488
+  },
+  {
+    "street": "Via al Castello",
+    "number": "3",
+    "city": {
+      "name": "Castelmarte",
+      "istat": "013058"
+    },
+    "latitude": 45.8313625,
+    "longitude": 9.2370729
+  },
+  {
+    "street": "Via Mariola",
+    "number": "3",
+    "city": {
+      "name": "Castelmarte",
+      "istat": "013058"
+    },
+    "latitude": 45.8333628,
+    "longitude": 9.2376648
+  },
+  {
+    "street": "Via Cà Nova",
+    "number": "12",
+    "city": {
+      "name": "Castelmarte",
+      "istat": "013058"
+    },
+    "latitude": 45.8445683,
+    "longitude": 9.2562093
+  },
+  {
+    "street": "Via delle Marcite",
+    "number": "1",
+    "city": {
+      "name": "Castelmarte",
+      "istat": "013058"
+    },
+    "latitude": 45.8405288,
+    "longitude": 9.2461708
+  },
+  {
+    "street": "Via Cà Nova",
+    "number": "8",
+    "city": {
+      "name": "Castelmarte",
+      "istat": "013058"
+    },
+    "latitude": 45.8443735,
+    "longitude": 9.255925
+  },
+  {
+    "street": "Via Lambro",
+    "number": "15",
+    "city": {
+      "name": "Castelmarte",
+      "istat": "013058"
+    },
+    "latitude": 45.8407579,
+    "longitude": 9.2493631
+  },
+  {
+    "street": "Via Lambro",
+    "number": "17",
+    "city": {
+      "name": "Castelmarte",
+      "istat": "013058"
+    },
+    "latitude": 45.8410216,
+    "longitude": 9.2498154
+  },
+  {
+    "street": "Via Lambro",
+    "number": "9",
+    "city": {
+      "name": "Castelmarte",
+      "istat": "013058"
+    },
+    "latitude": 45.840234,
+    "longitude": 9.2482831
+  },
+  {
+    "street": "Via Cà Bianca",
+    "number": "2",
+    "city": {
+      "name": "Castelmarte",
+      "istat": "013058"
+    },
+    "latitude": 45.8429596,
+    "longitude": 9.2542544
+  },
+  {
+    "street": "Via Cascina Emilia",
+    "number": "3",
+    "city": {
+      "name": "Castelmarte",
+      "istat": "013058"
+    },
+    "latitude": 45.8398655,
+    "longitude": 9.2532944
+  },
+  {
+    "street": "Via al Castello",
+    "number": "21",
+    "city": {
+      "name": "Castelmarte",
+      "istat": "013058"
+    },
+    "latitude": 45.8294188,
+    "longitude": 9.2367091
+  },
+  {
+    "street": "Via al Castello",
+    "number": "2a",
+    "city": {
+      "name": "Castelmarte",
+      "istat": "013058"
+    },
+    "latitude": 45.828937,
+    "longitude": 9.2335139
+  },
+  {
+    "street": "Via al Castello",
+    "number": "27",
+    "city": {
+      "name": "Castelmarte",
+      "istat": "013058"
+    },
+    "latitude": 45.8285889,
+    "longitude": 9.2362202
+  },
+  {
+    "street": "Via al Castello",
+    "number": "25",
+    "city": {
+      "name": "Castelmarte",
+      "istat": "013058"
+    },
+    "latitude": 45.8288308,
+    "longitude": 9.2359354
+  },
+  {
+    "street": "Via al Castello",
+    "number": "22",
+    "city": {
+      "name": "Castelmarte",
+      "istat": "013058"
+    },
+    "latitude": 45.8284294,
+    "longitude": 9.235836
+  },
+  {
+    "street": "Via al Castello",
+    "number": "20",
+    "city": {
+      "name": "Castelmarte",
+      "istat": "013058"
+    },
+    "latitude": 45.8284125,
+    "longitude": 9.2352754
+  },
+  {
+    "street": "Via al Castello",
+    "number": "10",
+    "city": {
+      "name": "Castelmarte",
+      "istat": "013058"
+    },
+    "latitude": 45.8286812,
+    "longitude": 9.2343564
+  },
+  {
+    "street": "Via al Castello",
+    "number": "8",
+    "city": {
+      "name": "Castelmarte",
+      "istat": "013058"
+    },
+    "latitude": 45.8293363,
+    "longitude": 9.2359049
+  },
+  {
+    "street": "Via al Castello",
+    "number": "6",
+    "city": {
+      "name": "Castelmarte",
+      "istat": "013058"
+    },
+    "latitude": 45.829783,
+    "longitude": 9.2361648
+  },
+  {
+    "street": "Via al Castello",
+    "number": "19",
+    "city": {
+      "name": "Castelmarte",
+      "istat": "013058"
+    },
+    "latitude": 45.8297046,
+    "longitude": 9.2367555
+  },
+  {
+    "street": "Via al Castello",
+    "number": "15",
+    "city": {
+      "name": "Castelmarte",
+      "istat": "013058"
+    },
+    "latitude": 45.8299711,
+    "longitude": 9.2368107
+  },
+  {
+    "street": "Via al Castello",
+    "number": "7",
+    "city": {
+      "name": "Castelmarte",
+      "istat": "013058"
+    },
+    "latitude": 45.8302649,
+    "longitude": 9.2362946
+  },
+  {
+    "street": "Via al Castello",
+    "number": "9",
+    "city": {
+      "name": "Castelmarte",
+      "istat": "013058"
+    },
+    "latitude": 45.8303821,
+    "longitude": 9.2368185
+  },
+  {
+    "street": "Via al Castello",
+    "number": "5",
+    "city": {
+      "name": "Castelmarte",
+      "istat": "013058"
+    },
+    "latitude": 45.8305301,
+    "longitude": 9.2364849
+  },
+  {
+    "street": "Via al Castello",
+    "number": "3a",
+    "city": {
+      "name": "Castelmarte",
+      "istat": "013058"
+    },
+    "latitude": 45.8307578,
+    "longitude": 9.2366853
+  },
+  {
+    "street": "Via al Castello",
+    "number": "23",
+    "city": {
+      "name": "Castelmarte",
+      "istat": "013058"
+    },
+    "latitude": 45.8291268,
+    "longitude": 9.2365576
+  }
+]

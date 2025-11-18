@@ -1,0 +1,52 @@
+[
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "3e",
+    "city": {
+      "name": "Orsenigo",
+      "istat": "013170"
+    },
+    "latitude": 45.779293,
+    "longitude": 9.1854347
+  },
+  {
+    "street": "Via Enrico Fermi",
+    "number": "93",
+    "city": {
+      "name": "Orsenigo",
+      "istat": "013170"
+    },
+    "latitude": 45.7751612,
+    "longitude": 9.1753046
+  },
+  {
+    "street": "Strada Provinciale ex Strada Statale 342 Briantea",
+    "number": "snc",
+    "city": {
+      "name": "Orsenigo",
+      "istat": "013170"
+    },
+    "latitude": 45.7824643,
+    "longitude": 9.16556
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "226",
+    "city": {
+      "name": "Orsenigo",
+      "istat": "013170"
+    },
+    "latitude": 45.7695361,
+    "longitude": 9.1627685
+  },
+  {
+    "street": "Strada Provinciale ex Strada Statale 342 Briantea",
+    "number": "342",
+    "city": {
+      "name": "Orsenigo",
+      "istat": "013170"
+    },
+    "latitude": 45.7830074,
+    "longitude": 9.1648382
+  }
+]

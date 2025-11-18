@@ -1,0 +1,12 @@
+[
+  {
+    "street": "Via Colle di Sogno",
+    "number": "2",
+    "city": {
+      "name": "Carenno",
+      "istat": "097014"
+    },
+    "latitude": 45.7932998,
+    "longitude": 9.4815905
+  }
+]

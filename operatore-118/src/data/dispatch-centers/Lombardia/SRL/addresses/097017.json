@@ -1,0 +1,322 @@
+[
+  {
+    "street": "Via Italia Libera",
+    "number": "2",
+    "city": {
+      "name": "Cassago Brianza",
+      "istat": "097017"
+    },
+    "latitude": 45.7401484,
+    "longitude": 9.2936816
+  },
+  {
+    "street": "Via Don Milani",
+    "number": "20",
+    "city": {
+      "name": "Cassago Brianza",
+      "istat": "097017"
+    },
+    "latitude": 45.7432223,
+    "longitude": 9.2903835
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "64",
+    "city": {
+      "name": "Cassago Brianza",
+      "istat": "097017"
+    },
+    "latitude": 45.734935,
+    "longitude": 9.2903154
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "100",
+    "city": {
+      "name": "Cassago Brianza",
+      "istat": "097017"
+    },
+    "latitude": 45.7338973,
+    "longitude": 9.2887792
+  },
+  {
+    "street": "Piazza Don Giovanni Motta",
+    "number": "2",
+    "city": {
+      "name": "Cassago Brianza",
+      "istat": "097017"
+    },
+    "latitude": 45.7394736,
+    "longitude": 9.294946
+  },
+  {
+    "street": "Via Rimembranze",
+    "number": "3",
+    "city": {
+      "name": "Cassago Brianza",
+      "istat": "097017"
+    },
+    "latitude": 45.7397373,
+    "longitude": 9.2926638
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "52",
+    "city": {
+      "name": "Cassago Brianza",
+      "istat": "097017"
+    },
+    "latitude": 45.7352481,
+    "longitude": 9.2908184
+  },
+  {
+    "street": "Piazza Don Giovanni Motta",
+    "number": "8",
+    "city": {
+      "name": "Cassago Brianza",
+      "istat": "097017"
+    },
+    "latitude": 45.7403571,
+    "longitude": 9.2948065
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "4",
+    "city": {
+      "name": "Cassago Brianza",
+      "istat": "097017"
+    },
+    "latitude": 45.7398682,
+    "longitude": 9.2934259
+  },
+  {
+    "street": "Via Tremoncino",
+    "number": "14",
+    "city": {
+      "name": "Cassago Brianza",
+      "istat": "097017"
+    },
+    "latitude": 45.7336088,
+    "longitude": 9.2858733
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "90",
+    "city": {
+      "name": "Cassago Brianza",
+      "istat": "097017"
+    },
+    "latitude": 45.7341428,
+    "longitude": 9.2890945
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "47",
+    "city": {
+      "name": "Cassago Brianza",
+      "istat": "097017"
+    },
+    "latitude": 45.7338129,
+    "longitude": 9.2893337
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "66",
+    "city": {
+      "name": "Cassago Brianza",
+      "istat": "097017"
+    },
+    "latitude": 45.7347381,
+    "longitude": 9.2900995
+  },
+  {
+    "street": "Piazza Duca Uberto Visconti di Modrone",
+    "number": "10",
+    "city": {
+      "name": "Cassago Brianza",
+      "istat": "097017"
+    },
+    "latitude": 45.7386522,
+    "longitude": 9.2924302
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "2",
+    "city": {
+      "name": "Cassago Brianza",
+      "istat": "097017"
+    },
+    "latitude": 45.737967,
+    "longitude": 9.292579
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "84",
+    "city": {
+      "name": "Cassago Brianza",
+      "istat": "097017"
+    },
+    "latitude": 45.7346029,
+    "longitude": 9.2896904
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "94",
+    "city": {
+      "name": "Cassago Brianza",
+      "istat": "097017"
+    },
+    "latitude": 45.7339596,
+    "longitude": 9.2888904
+  },
+  {
+    "street": "Via San Gregorio",
+    "number": "9",
+    "city": {
+      "name": "Cassago Brianza",
+      "istat": "097017"
+    },
+    "latitude": 45.7323443,
+    "longitude": 9.2904342
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "15",
+    "city": {
+      "name": "Cassago Brianza",
+      "istat": "097017"
+    },
+    "latitude": 45.7374694,
+    "longitude": 9.292777
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "36",
+    "city": {
+      "name": "Cassago Brianza",
+      "istat": "097017"
+    },
+    "latitude": 45.7357165,
+    "longitude": 9.2914891
+  },
+  {
+    "street": "Piazza Visconti di Modrone",
+    "number": "18",
+    "city": {
+      "name": "Cassago Brianza",
+      "istat": "097017"
+    },
+    "latitude": 45.7391515,
+    "longitude": 9.2926197
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "60",
+    "city": {
+      "name": "Cassago Brianza",
+      "istat": "097017"
+    },
+    "latitude": 45.73503,
+    "longitude": 9.2904586
+  },
+  {
+    "street": "Via Tremoncino",
+    "number": "34",
+    "city": {
+      "name": "Cassago Brianza",
+      "istat": "097017"
+    },
+    "latitude": 45.7335779,
+    "longitude": 9.2840091
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "92a",
+    "city": {
+      "name": "Cassago Brianza",
+      "istat": "097017"
+    },
+    "latitude": 45.734013,
+    "longitude": 9.288984
+  },
+  {
+    "street": "Via Nazario Sauro",
+    "number": "24",
+    "city": {
+      "name": "Cassago Brianza",
+      "istat": "097017"
+    },
+    "latitude": 45.7373751,
+    "longitude": 9.2923645
+  },
+  {
+    "street": "Piazza Italia Libera",
+    "number": "2",
+    "city": {
+      "name": "Cassago Brianza",
+      "istat": "097017"
+    },
+    "latitude": 45.7405122,
+    "longitude": 9.2948423
+  },
+  {
+    "street": "Via Visconti",
+    "number": "34",
+    "city": {
+      "name": "Cassago Brianza",
+      "istat": "097017"
+    },
+    "latitude": 45.7382304,
+    "longitude": 9.2949994
+  },
+  {
+    "street": "Via Italia Libera",
+    "number": "5",
+    "city": {
+      "name": "Cassago Brianza",
+      "istat": "097017"
+    },
+    "latitude": 45.7408932,
+    "longitude": 9.293877
+  },
+  {
+    "street": "Piazza Trento e Trieste",
+    "number": "1",
+    "city": {
+      "name": "Cassago Brianza",
+      "istat": "097017"
+    },
+    "latitude": 45.7404483,
+    "longitude": 9.2936212
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "26",
+    "city": {
+      "name": "Cassago Brianza",
+      "istat": "097017"
+    },
+    "latitude": 45.7304119,
+    "longitude": 9.2902993
+  },
+  {
+    "street": "Via Tremoncino",
+    "number": "50a",
+    "city": {
+      "name": "Cassago Brianza",
+      "istat": "097017"
+    },
+    "latitude": 45.7344048,
+    "longitude": 9.2821936
+  },
+  {
+    "street": "Località Costa",
+    "number": "12",
+    "city": {
+      "name": "Cassago Brianza",
+      "istat": "097017"
+    },
+    "latitude": 45.7398079,
+    "longitude": 9.2774423
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "street": "Via Imbarcadero",
+    "number": "5",
+    "city": {
+      "name": "Oliveto Lario",
+      "istat": "097060"
+    },
+    "latitude": 45.9564825,
+    "longitude": 9.2726263
+  },
+  {
+    "street": "Strada statale 583 Lariana",
+    "number": "87",
+    "city": {
+      "name": "Oliveto Lario",
+      "istat": "097060"
+    },
+    "latitude": 45.912154,
+    "longitude": 9.2942436
+  },
+  {
+    "street": "Piazza Conciliazione",
+    "number": "3",
+    "city": {
+      "name": "Oliveto Lario",
+      "istat": "097060"
+    },
+    "latitude": 45.9307082,
+    "longitude": 9.2851528
+  },
+  {
+    "street": "Via Garibaldi",
+    "number": "131",
+    "city": {
+      "name": "Oliveto Lario",
+      "istat": "097060"
+    },
+    "latitude": 45.9152999,
+    "longitude": 9.2923619
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "43",
+    "city": {
+      "name": "Oliveto Lario",
+      "istat": "097060"
+    },
+    "latitude": 45.9309374,
+    "longitude": 9.2838295
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "101",
+    "city": {
+      "name": "Oliveto Lario",
+      "istat": "097060"
+    },
+    "latitude": 45.9127612,
+    "longitude": 9.2932132
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "31",
+    "city": {
+      "name": "Oliveto Lario",
+      "istat": "097060"
+    },
+    "latitude": 45.9076814,
+    "longitude": 9.2974522
+  },
+  {
+    "street": "Via Paolo Carcano",
+    "number": "4",
+    "city": {
+      "name": "Oliveto Lario",
+      "istat": "097060"
+    },
+    "latitude": 45.9306597,
+    "longitude": 9.2832085
+  },
+  {
+    "street": "Via Garibaldi",
+    "number": "35",
+    "city": {
+      "name": "Oliveto Lario",
+      "istat": "097060"
+    },
+    "latitude": 45.9079167,
+    "longitude": 9.2972514
+  },
+  {
+    "street": "Via Paolo Carcano",
+    "number": "2",
+    "city": {
+      "name": "Oliveto Lario",
+      "istat": "097060"
+    },
+    "latitude": 45.9308757,
+    "longitude": 9.2832226
+  },
+  {
+    "street": "Via Garibaldi",
+    "number": "20",
+    "city": {
+      "name": "Oliveto Lario",
+      "istat": "097060"
+    },
+    "latitude": 45.9092831,
+    "longitude": 9.2957213
+  },
+  {
+    "street": "Via Garibaldi",
+    "number": "52",
+    "city": {
+      "name": "Oliveto Lario",
+      "istat": "097060"
+    },
+    "latitude": 45.9214528,
+    "longitude": 9.2883603
+  },
+  {
+    "street": "Località San Giorgio",
+    "number": "5",
+    "city": {
+      "name": "Oliveto Lario",
+      "istat": "097060"
+    },
+    "latitude": 45.8983023,
+    "longitude": 9.3019977
+  }
+]

@@ -1,0 +1,382 @@
+[
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "241",
+    "city": {
+      "name": "Cardano al Campo",
+      "istat": "012032"
+    },
+    "latitude": 45.6507005,
+    "longitude": 8.7469986
+  },
+  {
+    "street": "Piazza Giuseppe Mazzini",
+    "number": "13",
+    "city": {
+      "name": "Cardano al Campo",
+      "istat": "012032"
+    },
+    "latitude": 45.6447569,
+    "longitude": 8.7723068
+  },
+  {
+    "street": "Via al Campo",
+    "number": "116",
+    "city": {
+      "name": "Cardano al Campo",
+      "istat": "012032"
+    },
+    "latitude": 45.641856,
+    "longitude": 8.753834
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "1",
+    "city": {
+      "name": "Cardano al Campo",
+      "istat": "012032"
+    },
+    "latitude": 45.6465737,
+    "longitude": 8.7733824
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "147",
+    "city": {
+      "name": "Cardano al Campo",
+      "istat": "012032"
+    },
+    "latitude": 45.6529793,
+    "longitude": 8.7634231
+  },
+  {
+    "street": "Via Bruno Ferrazzi",
+    "number": "38",
+    "city": {
+      "name": "Cardano al Campo",
+      "istat": "012032"
+    },
+    "latitude": 45.6486523,
+    "longitude": 8.7811792
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "39",
+    "city": {
+      "name": "Cardano al Campo",
+      "istat": "012032"
+    },
+    "latitude": 45.642911,
+    "longitude": 8.7767976
+  },
+  {
+    "street": "Via Francesco Buffoni",
+    "number": "31",
+    "city": {
+      "name": "Cardano al Campo",
+      "istat": "012032"
+    },
+    "latitude": 45.6506896,
+    "longitude": 8.7789184
+  },
+  {
+    "street": "Via Goffredo Mameli",
+    "number": "36",
+    "city": {
+      "name": "Cardano al Campo",
+      "istat": "012032"
+    },
+    "latitude": 45.645718,
+    "longitude": 8.772199
+  },
+  {
+    "street": "Via dei Chiosetti",
+    "number": "16c",
+    "city": {
+      "name": "Cardano al Campo",
+      "istat": "012032"
+    },
+    "latitude": 45.6410662,
+    "longitude": 8.7765734
+  },
+  {
+    "street": "Via Gabriele D'Annunzio",
+    "number": "3",
+    "city": {
+      "name": "Cardano al Campo",
+      "istat": "012032"
+    },
+    "latitude": 45.6512412,
+    "longitude": 8.7527958
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "56",
+    "city": {
+      "name": "Cardano al Campo",
+      "istat": "012032"
+    },
+    "latitude": 45.642281,
+    "longitude": 8.7810408
+  },
+  {
+    "street": "Via per Casorate",
+    "number": "9",
+    "city": {
+      "name": "Cardano al Campo",
+      "istat": "012032"
+    },
+    "latitude": 45.654563,
+    "longitude": 8.7598039
+  },
+  {
+    "street": "Via Torre",
+    "number": "2",
+    "city": {
+      "name": "Cardano al Campo",
+      "istat": "012032"
+    },
+    "latitude": 45.6450899,
+    "longitude": 8.7734243
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "89",
+    "city": {
+      "name": "Cardano al Campo",
+      "istat": "012032"
+    },
+    "latitude": 45.6398834,
+    "longitude": 8.7854639
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "76",
+    "city": {
+      "name": "Cardano al Campo",
+      "istat": "012032"
+    },
+    "latitude": 45.6391839,
+    "longitude": 8.7847478
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "73",
+    "city": {
+      "name": "Cardano al Campo",
+      "istat": "012032"
+    },
+    "latitude": 45.6398745,
+    "longitude": 8.783673
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "83a",
+    "city": {
+      "name": "Cardano al Campo",
+      "istat": "012032"
+    },
+    "latitude": 45.6363755,
+    "longitude": 8.7668809
+  },
+  {
+    "street": "Via al campo",
+    "number": "23",
+    "city": {
+      "name": "Cardano al Campo",
+      "istat": "012032"
+    },
+    "latitude": 45.6425083,
+    "longitude": 8.7652953
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "157",
+    "city": {
+      "name": "Cardano al Campo",
+      "istat": "012032"
+    },
+    "latitude": 45.6529425,
+    "longitude": 8.7624406
+  },
+  {
+    "street": "Via Baroldo",
+    "number": "12",
+    "city": {
+      "name": "Cardano al Campo",
+      "istat": "012032"
+    },
+    "latitude": 45.6437742,
+    "longitude": 8.7583547
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "125",
+    "city": {
+      "name": "Cardano al Campo",
+      "istat": "012032"
+    },
+    "latitude": 45.6536964,
+    "longitude": 8.7619933
+  },
+  {
+    "street": "Via al Campo",
+    "number": "99",
+    "city": {
+      "name": "Cardano al Campo",
+      "istat": "012032"
+    },
+    "latitude": 45.6417397,
+    "longitude": 8.7590829
+  },
+  {
+    "street": "Via Stelvio",
+    "number": "35",
+    "city": {
+      "name": "Cardano al Campo",
+      "istat": "012032"
+    },
+    "latitude": 45.6526397,
+    "longitude": 8.7818367
+  },
+  {
+    "street": "Via Papa Giovanni XXIII",
+    "number": "264",
+    "city": {
+      "name": "Cardano al Campo",
+      "istat": "012032"
+    },
+    "latitude": 45.6532718,
+    "longitude": 8.7427019
+  },
+  {
+    "street": "Piazza Giuseppe Mazzini",
+    "number": "19",
+    "city": {
+      "name": "Cardano al Campo",
+      "istat": "012032"
+    },
+    "latitude": 45.6445347,
+    "longitude": 8.7732525
+  },
+  {
+    "street": "Via delle Biolle",
+    "number": "78",
+    "city": {
+      "name": "Cardano al Campo",
+      "istat": "012032"
+    },
+    "latitude": 45.6479226,
+    "longitude": 8.7607476
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "20",
+    "city": {
+      "name": "Cardano al Campo",
+      "istat": "012032"
+    },
+    "latitude": 45.6524622,
+    "longitude": 8.7711777
+  },
+  {
+    "street": "Via al Campo",
+    "number": "100",
+    "city": {
+      "name": "Cardano al Campo",
+      "istat": "012032"
+    },
+    "latitude": 45.643201,
+    "longitude": 8.7605127
+  },
+  {
+    "street": "Via Carreggia",
+    "number": "2",
+    "city": {
+      "name": "Cardano al Campo",
+      "istat": "012032"
+    },
+    "latitude": 45.646113,
+    "longitude": 8.7679976
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "94",
+    "city": {
+      "name": "Cardano al Campo",
+      "istat": "012032"
+    },
+    "latitude": 45.6527641,
+    "longitude": 8.766345
+  },
+  {
+    "street": "Viale Europa Est",
+    "number": "57",
+    "city": {
+      "name": "Cardano al Campo",
+      "istat": "012032"
+    },
+    "latitude": 45.6422669,
+    "longitude": 8.7784937
+  },
+  {
+    "street": "Via Vesuvio",
+    "number": "16",
+    "city": {
+      "name": "Cardano al Campo",
+      "istat": "012032"
+    },
+    "latitude": 45.6519507,
+    "longitude": 8.7599291
+  },
+  {
+    "street": "Via al Campo",
+    "number": "10",
+    "city": {
+      "name": "Cardano al Campo",
+      "istat": "012032"
+    },
+    "latitude": 45.6426876,
+    "longitude": 8.7671834
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "25",
+    "city": {
+      "name": "Cardano al Campo",
+      "istat": "012032"
+    },
+    "latitude": 45.6437836,
+    "longitude": 8.7697421
+  },
+  {
+    "street": "Via dell'Ongaro",
+    "number": "48",
+    "city": {
+      "name": "Cardano al Campo",
+      "istat": "012032"
+    },
+    "latitude": 45.6448008,
+    "longitude": 8.7609033
+  },
+  {
+    "street": "Viale Giovanni Agusta",
+    "number": "520",
+    "city": {
+      "name": "Cardano al Campo",
+      "istat": "012032"
+    },
+    "latitude": 45.6314816,
+    "longitude": 8.7430465
+  },
+  {
+    "street": "Via Papa Giovanni XXIII",
+    "number": "206",
+    "city": {
+      "name": "Cardano al Campo",
+      "istat": "012032"
+    },
+    "latitude": 45.653632,
+    "longitude": 8.7564754
+  }
+]

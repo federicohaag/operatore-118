@@ -1,0 +1,32 @@
+[
+  {
+    "street": "Via Gabriele Colombo",
+    "number": "3",
+    "city": {
+      "name": "Camparada",
+      "istat": "108014"
+    },
+    "latitude": 45.6530386,
+    "longitude": 9.3247858
+  },
+  {
+    "street": "Via Resegone",
+    "number": "26",
+    "city": {
+      "name": "Camparada",
+      "istat": "108014"
+    },
+    "latitude": 45.6546611,
+    "longitude": 9.3284407
+  },
+  {
+    "street": "Via Gabriele Colombo",
+    "number": "2",
+    "city": {
+      "name": "Camparada",
+      "istat": "108014"
+    },
+    "latitude": 45.6520498,
+    "longitude": 9.324941
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "street": "Viale Don Ernesto Tentori",
+    "number": "1",
+    "city": {
+      "name": "Duno",
+      "istat": "012066"
+    },
+    "latitude": 45.9124121,
+    "longitude": 8.7380984
+  },
+  {
+    "street": "Via Roma",
+    "number": "2",
+    "city": {
+      "name": "Duno",
+      "istat": "012066"
+    },
+    "latitude": 45.9142669,
+    "longitude": 8.7376619
+  },
+  {
+    "street": "Via Roma",
+    "number": "6",
+    "city": {
+      "name": "Duno",
+      "istat": "012066"
+    },
+    "latitude": 45.9142253,
+    "longitude": 8.7374843
+  },
+  {
+    "street": "Via Roma",
+    "number": "1",
+    "city": {
+      "name": "Duno",
+      "istat": "012066"
+    },
+    "latitude": 45.9140741,
+    "longitude": 8.7372439
+  },
+  {
+    "street": "Via Roma",
+    "number": "e",
+    "city": {
+      "name": "Duno",
+      "istat": "012066"
+    },
+    "latitude": 45.9139511,
+    "longitude": 8.7370502
+  },
+  {
+    "street": "Via Roma",
+    "number": "10",
+    "city": {
+      "name": "Duno",
+      "istat": "012066"
+    },
+    "latitude": 45.9140827,
+    "longitude": 8.7372192
+  },
+  {
+    "street": "Via Roma",
+    "number": "8",
+    "city": {
+      "name": "Duno",
+      "istat": "012066"
+    },
+    "latitude": 45.9141288,
+    "longitude": 8.7373001
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "13",
+    "city": {
+      "name": "Duno",
+      "istat": "012066"
+    },
+    "latitude": 45.9143626,
+    "longitude": 8.7373594
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "5",
+    "city": {
+      "name": "Duno",
+      "istat": "012066"
+    },
+    "latitude": 45.9141218,
+    "longitude": 8.7368323
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "2",
+    "city": {
+      "name": "Duno",
+      "istat": "012066"
+    },
+    "latitude": 45.9140978,
+    "longitude": 8.7367201
+  },
+  {
+    "street": "Via San Martino",
+    "number": "5",
+    "city": {
+      "name": "Duno",
+      "istat": "012066"
+    },
+    "latitude": 45.9143072,
+    "longitude": 8.7366143
+  },
+  {
+    "street": "Via San Martino",
+    "number": "7",
+    "city": {
+      "name": "Duno",
+      "istat": "012066"
+    },
+    "latitude": 45.9146249,
+    "longitude": 8.736523
+  },
+  {
+    "street": "Via San Martino",
+    "number": "12",
+    "city": {
+      "name": "Duno",
+      "istat": "012066"
+    },
+    "latitude": 45.9148425,
+    "longitude": 8.736537
+  },
+  {
+    "street": "Via San Martino",
+    "number": "10",
+    "city": {
+      "name": "Duno",
+      "istat": "012066"
+    },
+    "latitude": 45.9146768,
+    "longitude": 8.7365713
+  },
+  {
+    "street": "Via San Martino",
+    "number": "4",
+    "city": {
+      "name": "Duno",
+      "istat": "012066"
+    },
+    "latitude": 45.9134451,
+    "longitude": 8.736507
+  },
+  {
+    "street": "Via San Martino",
+    "number": "1",
+    "city": {
+      "name": "Duno",
+      "istat": "012066"
+    },
+    "latitude": 45.913109,
+    "longitude": 8.7368765
+  },
+  {
+    "street": "Via N. Pirotta",
+    "number": "9",
+    "city": {
+      "name": "Duno",
+      "istat": "012066"
+    },
+    "latitude": 45.9136203,
+    "longitude": 8.7375414
+  },
+  {
+    "street": "Via N. Pirotta",
+    "number": "4",
+    "city": {
+      "name": "Duno",
+      "istat": "012066"
+    },
+    "latitude": 45.9137148,
+    "longitude": 8.7374394
+  },
+  {
+    "street": "Via N. Pirotta",
+    "number": "7",
+    "city": {
+      "name": "Duno",
+      "istat": "012066"
+    },
+    "latitude": 45.9138799,
+    "longitude": 8.737627
+  },
+  {
+    "street": "Via N. Pirotta",
+    "number": "5",
+    "city": {
+      "name": "Duno",
+      "istat": "012066"
+    },
+    "latitude": 45.9139127,
+    "longitude": 8.7376636
+  },
+  {
+    "street": "Via N. Pirotta",
+    "number": "1",
+    "city": {
+      "name": "Duno",
+      "istat": "012066"
+    },
+    "latitude": 45.9141328,
+    "longitude": 8.7379182
+  },
+  {
+    "street": "Via N. Pirotta",
+    "number": "10",
+    "city": {
+      "name": "Duno",
+      "istat": "012066"
+    },
+    "latitude": 45.9133259,
+    "longitude": 8.7378935
+  },
+  {
+    "street": "Via Mario Borgato",
+    "number": "3",
+    "city": {
+      "name": "Duno",
+      "istat": "012066"
+    },
+    "latitude": 45.9135049,
+    "longitude": 8.7379403
+  },
+  {
+    "street": "Via Mario Borgato",
+    "number": "5",
+    "city": {
+      "name": "Duno",
+      "istat": "012066"
+    },
+    "latitude": 45.9136116,
+    "longitude": 8.7379756
+  },
+  {
+    "street": "Via Mario Borgato",
+    "number": "4",
+    "city": {
+      "name": "Duno",
+      "istat": "012066"
+    },
+    "latitude": 45.9136702,
+    "longitude": 8.7380862
+  },
+  {
+    "street": "Via Mario Borgato",
+    "number": "6",
+    "city": {
+      "name": "Duno",
+      "istat": "012066"
+    },
+    "latitude": 45.9136965,
+    "longitude": 8.7381115
+  },
+  {
+    "street": "Via Mario Borgato",
+    "number": "8",
+    "city": {
+      "name": "Duno",
+      "istat": "012066"
+    },
+    "latitude": 45.9138109,
+    "longitude": 8.738215
+  },
+  {
+    "street": "Via Mario Borgato",
+    "number": "12",
+    "city": {
+      "name": "Duno",
+      "istat": "012066"
+    },
+    "latitude": 45.9139035,
+    "longitude": 8.7383049
+  },
+  {
+    "street": "Via Mario Borgato",
+    "number": "7",
+    "city": {
+      "name": "Duno",
+      "istat": "012066"
+    },
+    "latitude": 45.9138744,
+    "longitude": 8.7382249
+  },
+  {
+    "street": "Via Mario Borgato",
+    "number": "14",
+    "city": {
+      "name": "Duno",
+      "istat": "012066"
+    },
+    "latitude": 45.9139831,
+    "longitude": 8.73834
+  },
+  {
+    "street": "Via Mario Borgato",
+    "number": "18",
+    "city": {
+      "name": "Duno",
+      "istat": "012066"
+    },
+    "latitude": 45.9140423,
+    "longitude": 8.7383914
+  },
+  {
+    "street": "Via Domenico Malcotti",
+    "number": "6",
+    "city": {
+      "name": "Duno",
+      "istat": "012066"
+    },
+    "latitude": 45.9141299,
+    "longitude": 8.7385162
+  },
+  {
+    "street": "Via Mario Borgato",
+    "number": "24",
+    "city": {
+      "name": "Duno",
+      "istat": "012066"
+    },
+    "latitude": 45.9142338,
+    "longitude": 8.7381302
+  },
+  {
+    "street": "Via Monsignor Cambiano",
+    "number": "3",
+    "city": {
+      "name": "Duno",
+      "istat": "012066"
+    },
+    "latitude": 45.9144371,
+    "longitude": 8.7380093
+  },
+  {
+    "street": "Via San Martino",
+    "number": "14",
+    "city": {
+      "name": "Duno",
+      "istat": "012066"
+    },
+    "latitude": 45.9157253,
+    "longitude": 8.7367029
+  },
+  {
+    "street": "Via Alfredo Sonzini",
+    "number": "4",
+    "city": {
+      "name": "Duno",
+      "istat": "012066"
+    },
+    "latitude": 45.9134792,
+    "longitude": 8.739295
+  }
+]

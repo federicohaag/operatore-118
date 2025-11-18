@@ -1,0 +1,82 @@
+[
+  {
+    "street": "Via Milano",
+    "number": "19",
+    "city": {
+      "name": "Bizzarone",
+      "istat": "013024"
+    },
+    "latitude": 45.8388807,
+    "longitude": 8.9553217
+  },
+  {
+    "street": "Via Roma",
+    "number": "8",
+    "city": {
+      "name": "Bizzarone",
+      "istat": "013024"
+    },
+    "latitude": 45.8357442,
+    "longitude": 8.9445103
+  },
+  {
+    "street": "Via Milano",
+    "number": "21",
+    "city": {
+      "name": "Bizzarone",
+      "istat": "013024"
+    },
+    "latitude": 45.8390222,
+    "longitude": 8.9555719
+  },
+  {
+    "street": "Via Santa Margherita",
+    "number": "1",
+    "city": {
+      "name": "Bizzarone",
+      "istat": "013024"
+    },
+    "latitude": 45.8326256,
+    "longitude": 8.936154
+  },
+  {
+    "street": "Via Ratti",
+    "number": "5",
+    "city": {
+      "name": "Bizzarone",
+      "istat": "013024"
+    },
+    "latitude": 45.8344936,
+    "longitude": 8.9526809
+  },
+  {
+    "street": "Via Ratti",
+    "number": "7",
+    "city": {
+      "name": "Bizzarone",
+      "istat": "013024"
+    },
+    "latitude": 45.8344205,
+    "longitude": 8.9530257
+  },
+  {
+    "street": "Via Ratti",
+    "number": "9",
+    "city": {
+      "name": "Bizzarone",
+      "istat": "013024"
+    },
+    "latitude": 45.8343148,
+    "longitude": 8.9533618
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "41",
+    "city": {
+      "name": "Bizzarone",
+      "istat": "013024"
+    },
+    "latitude": 45.83154,
+    "longitude": 8.9482033
+  }
+]

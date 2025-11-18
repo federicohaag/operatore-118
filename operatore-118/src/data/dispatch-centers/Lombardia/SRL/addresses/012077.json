@@ -1,0 +1,652 @@
+[
+  {
+    "street": "Viale Europa",
+    "number": "4a",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6944187,
+    "longitude": 8.6762329
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "8",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6971859,
+    "longitude": 8.6567657
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "6",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6968116,
+    "longitude": 8.6550626
+  },
+  {
+    "street": "Via Roma",
+    "number": "52",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.7001006,
+    "longitude": 8.655732
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "1",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6966745,
+    "longitude": 8.6553033
+  },
+  {
+    "street": "Via Roma",
+    "number": "10",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6981129,
+    "longitude": 8.6559233
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "33",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.7022016,
+    "longitude": 8.6615221
+  },
+  {
+    "street": "Viale Europa",
+    "number": "4",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6922781,
+    "longitude": 8.6815353
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "22",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6870784,
+    "longitude": 8.6625257
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "32",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6849777,
+    "longitude": 8.6624101
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "10",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6866837,
+    "longitude": 8.6639711
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "16",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6861724,
+    "longitude": 8.6639272
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "4",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6860268,
+    "longitude": 8.6648812
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "20",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6861475,
+    "longitude": 8.6637655
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "17",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.7011142,
+    "longitude": 8.6599297
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "8",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6866641,
+    "longitude": 8.6650718
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "12",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6874464,
+    "longitude": 8.6629596
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "6",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6865986,
+    "longitude": 8.6648116
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "28",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6951383,
+    "longitude": 8.6530685
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "63",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6951234,
+    "longitude": 8.6531892
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "71",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6943833,
+    "longitude": 8.6521877
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "73",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6943233,
+    "longitude": 8.6521126
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "59",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.695231,
+    "longitude": 8.6532921
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "24",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6953809,
+    "longitude": 8.6533511
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "18",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6962858,
+    "longitude": 8.654652
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "14",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6963336,
+    "longitude": 8.6547057
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "3",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6968005,
+    "longitude": 8.6553255
+  },
+  {
+    "street": "Via Piave",
+    "number": "4",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6971078,
+    "longitude": 8.6553926
+  },
+  {
+    "street": "Via Piave",
+    "number": "2",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.697105,
+    "longitude": 8.6555334
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "12",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6963781,
+    "longitude": 8.6547636
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "8",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6964455,
+    "longitude": 8.6548334
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "69",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.694566,
+    "longitude": 8.6525133
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "38",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6942325,
+    "longitude": 8.6518427
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "42",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6934363,
+    "longitude": 8.6511239
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "7",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6962708,
+    "longitude": 8.6547422
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "31",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6960086,
+    "longitude": 8.6544726
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "33",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6958212,
+    "longitude": 8.6540381
+  },
+  {
+    "street": "Vicolo Ticino",
+    "number": "2",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6955233,
+    "longitude": 8.653499
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "26",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6952648,
+    "longitude": 8.6532254
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "61",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6952067,
+    "longitude": 8.6533018
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "30",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6946765,
+    "longitude": 8.6524811
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "40",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6940264,
+    "longitude": 8.6515691
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "44",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6928855,
+    "longitude": 8.6509549
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "67",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6946865,
+    "longitude": 8.6526654
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "57",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.7040327,
+    "longitude": 8.667891
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "49",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.7038604,
+    "longitude": 8.6663997
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "47",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.7038753,
+    "longitude": 8.6648065
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "45",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.7037611,
+    "longitude": 8.6645195
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "51",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.7042013,
+    "longitude": 8.6666894
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "39",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.7024096,
+    "longitude": 8.6619513
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "12",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.7020602,
+    "longitude": 8.6615959
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "14",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.7023674,
+    "longitude": 8.6620411
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "10",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.7019815,
+    "longitude": 8.6614832
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "31",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.7020621,
+    "longitude": 8.6613598
+  },
+  {
+    "street": "Via Porto della Torre",
+    "number": "18",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6951624,
+    "longitude": 8.6596611
+  },
+  {
+    "street": "Viale Europa",
+    "number": "81",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.7119209,
+    "longitude": 8.6558576
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "1",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6966435,
+    "longitude": 8.6556316
+  },
+  {
+    "street": "Viale Europa",
+    "number": "1",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6947387,
+    "longitude": 8.6732972
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "5/B",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6835859,
+    "longitude": 8.660106
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "2/A",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6915723,
+    "longitude": 8.6747021
+  },
+  {
+    "street": "Via Roma",
+    "number": "71/C",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6994014,
+    "longitude": 8.6560712
+  },
+  {
+    "street": "Via Monte Tabor",
+    "number": "2",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6961657,
+    "longitude": 8.6562447
+  },
+  {
+    "street": "Viale Europa",
+    "number": "7",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6975707,
+    "longitude": 8.6683949
+  },
+  {
+    "street": "Viale Europa",
+    "number": "12",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.695031,
+    "longitude": 8.6740629
+  },
+  {
+    "street": "Piazza Libertà",
+    "number": "2",
+    "city": {
+      "name": "Golasecca",
+      "istat": "012077"
+    },
+    "latitude": 45.6966001,
+    "longitude": 8.6559046
+  }
+]

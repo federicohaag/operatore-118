@@ -1,0 +1,1002 @@
+[
+  {
+    "street": "Corso Milano",
+    "number": "2",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.654806,
+    "longitude": 9.13011
+  },
+  {
+    "street": "Via Piave",
+    "number": "27",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6553369,
+    "longitude": 9.1309241
+  },
+  {
+    "street": "Via Fiume",
+    "number": "4",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6536456,
+    "longitude": 9.1312986
+  },
+  {
+    "street": "Via Don Carlo Borghi",
+    "number": "4e",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6605996,
+    "longitude": 9.1365573
+  },
+  {
+    "street": "Via Don Carlo Borghi",
+    "number": "4c",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6604975,
+    "longitude": 9.1370432
+  },
+  {
+    "street": "Corso Milano",
+    "number": "4/A",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6551603,
+    "longitude": 9.1299125
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "3",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6520906,
+    "longitude": 9.1321677
+  },
+  {
+    "street": "Via Marisa Bellisario",
+    "number": "8g",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.662818,
+    "longitude": 9.1352881
+  },
+  {
+    "street": "Via Marisa Bellisario",
+    "number": "8c",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6629905,
+    "longitude": 9.1359345
+  },
+  {
+    "street": "Via Marisa Bellisario",
+    "number": "6/8",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6623531,
+    "longitude": 9.1355295
+  },
+  {
+    "street": "Via Marisa Bellisario",
+    "number": "10",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6618582,
+    "longitude": 9.1358594
+  },
+  {
+    "street": "Via Luigi Capuana",
+    "number": "9",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6582584,
+    "longitude": 9.1398089
+  },
+  {
+    "street": "Corso Milano",
+    "number": "62",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6571551,
+    "longitude": 9.1285268
+  },
+  {
+    "street": "Corso Milano",
+    "number": "74",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6572001,
+    "longitude": 9.1284841
+  },
+  {
+    "street": "Via Emilio Longoni",
+    "number": "79",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6497609,
+    "longitude": 9.1189495
+  },
+  {
+    "street": "Via Niccolò Paganini",
+    "number": "107",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6517537,
+    "longitude": 9.113573
+  },
+  {
+    "street": "Corso Milano",
+    "number": "52",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6569092,
+    "longitude": 9.1286914
+  },
+  {
+    "street": "Via Emilio Longoni",
+    "number": "86",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6510929,
+    "longitude": 9.1200985
+  },
+  {
+    "street": "Via Emilio Longoni",
+    "number": "90",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6509766,
+    "longitude": 9.1204767
+  },
+  {
+    "street": "Via Fratelli Porro",
+    "number": "7",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6582465,
+    "longitude": 9.1273691
+  },
+  {
+    "street": "Corso Milano",
+    "number": "90",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6576737,
+    "longitude": 9.1281537
+  },
+  {
+    "street": "Corso Milano",
+    "number": "97/99",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6578381,
+    "longitude": 9.1278609
+  },
+  {
+    "street": "Via Fratelli Porro",
+    "number": "2",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6584438,
+    "longitude": 9.1274448
+  },
+  {
+    "street": "Via Fratelli Porro",
+    "number": "9",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6581096,
+    "longitude": 9.1270044
+  },
+  {
+    "street": "Via Emilio Longoni",
+    "number": "122",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6494316,
+    "longitude": 9.1155558
+  },
+  {
+    "street": "Via Raffaello Sanzio",
+    "number": "1",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6498817,
+    "longitude": 9.1153189
+  },
+  {
+    "street": "Corso Milano",
+    "number": "58",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6570056,
+    "longitude": 9.1286332
+  },
+  {
+    "street": "Corso Milano",
+    "number": "110",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6582323,
+    "longitude": 9.1278996
+  },
+  {
+    "street": "Corso Milano",
+    "number": "92",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6578232,
+    "longitude": 9.1281513
+  },
+  {
+    "street": "Corso Milano",
+    "number": "77",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6569572,
+    "longitude": 9.128485
+  },
+  {
+    "street": "Corso Milano",
+    "number": "81",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6574128,
+    "longitude": 9.1283384
+  },
+  {
+    "street": "Corso Milano",
+    "number": "103",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6579374,
+    "longitude": 9.1278004
+  },
+  {
+    "street": "Corso Milano",
+    "number": "115",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6583124,
+    "longitude": 9.1275532
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "32",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6594599,
+    "longitude": 9.1307893
+  },
+  {
+    "street": "Corso Guglielmo Marconi",
+    "number": "52",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6581403,
+    "longitude": 9.1350501
+  },
+  {
+    "street": "Via Como",
+    "number": "13",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6585451,
+    "longitude": 9.1340712
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "18",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6528956,
+    "longitude": 9.1310253
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "15",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6528791,
+    "longitude": 9.1313252
+  },
+  {
+    "street": "Via Nazionale dei Giovi",
+    "number": "14",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6531276,
+    "longitude": 9.1309076
+  },
+  {
+    "street": "Largo Armando Diaz",
+    "number": "5",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6586355,
+    "longitude": 9.1266428
+  },
+  {
+    "street": "Corso Guglielmo Marconi",
+    "number": "57/59",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6599179,
+    "longitude": 9.1386674
+  },
+  {
+    "street": "Via Bernardo Luini",
+    "number": "5",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6571996,
+    "longitude": 9.1332715
+  },
+  {
+    "street": "Via Torquato Tasso",
+    "number": "20",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6532446,
+    "longitude": 9.1367036
+  },
+  {
+    "street": "Corso Guglielmo Marconi",
+    "number": "48",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.658052,
+    "longitude": 9.1347519
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "29",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6555603,
+    "longitude": 9.1344217
+  },
+  {
+    "street": "Via degli Artigiani",
+    "number": "17/19",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6532984,
+    "longitude": 9.1370809
+  },
+  {
+    "street": "Via Como",
+    "number": "1",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6602864,
+    "longitude": 9.1342344
+  },
+  {
+    "street": "Via degli Artigiani",
+    "number": "11",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6527958,
+    "longitude": 9.1366769
+  },
+  {
+    "street": "Via degli Artigiani",
+    "number": "1",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6525336,
+    "longitude": 9.1361534
+  },
+  {
+    "street": "Via Torquato Tasso",
+    "number": "1",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.652867,
+    "longitude": 9.1361351
+  },
+  {
+    "street": "Via Torquato Tasso",
+    "number": "16",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6531613,
+    "longitude": 9.1364991
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "41",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6537886,
+    "longitude": 9.1346686
+  },
+  {
+    "street": "Via Torquato Tasso",
+    "number": "10",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6530215,
+    "longitude": 9.1358485
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "55",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6524123,
+    "longitude": 9.1358363
+  },
+  {
+    "street": "Via Torquato Tasso",
+    "number": "5",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6532346,
+    "longitude": 9.1356407
+  },
+  {
+    "street": "Via Torquato Tasso",
+    "number": "3/5",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6533565,
+    "longitude": 9.1360215
+  },
+  {
+    "street": "Via Torquato Tasso",
+    "number": "3",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6533706,
+    "longitude": 9.1354231
+  },
+  {
+    "street": "Via degli Artigiani",
+    "number": "9",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6526693,
+    "longitude": 9.1364756
+  },
+  {
+    "street": "Via Torquato Tasso",
+    "number": "8",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6529265,
+    "longitude": 9.1355899
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "63",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6521339,
+    "longitude": 9.1366217
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "61",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6524811,
+    "longitude": 9.1368439
+  },
+  {
+    "street": "Via Torquato Tasso",
+    "number": "2",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6528315,
+    "longitude": 9.1352997
+  },
+  {
+    "street": "Via Enrico Toti",
+    "number": "35",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6594383,
+    "longitude": 9.1303989
+  },
+  {
+    "street": "Corso Guglielmo Marconi",
+    "number": "11",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6578344,
+    "longitude": 9.1335521
+  },
+  {
+    "street": "Via Emilio Longoni",
+    "number": "47",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6525286,
+    "longitude": 9.1244604
+  },
+  {
+    "street": "Corso Milano",
+    "number": "10",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6555756,
+    "longitude": 9.1295136
+  },
+  {
+    "street": "Corso Milano",
+    "number": "19/21",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6555243,
+    "longitude": 9.1294227
+  },
+  {
+    "street": "Via Emilio Longoni",
+    "number": "152",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6466786,
+    "longitude": 9.1091454
+  },
+  {
+    "street": "Piazza Cavour",
+    "number": "13",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6566459,
+    "longitude": 9.129886
+  },
+  {
+    "street": "Via Emilio Longoni",
+    "number": "110",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6503395,
+    "longitude": 9.1176545
+  },
+  {
+    "street": "Piazza Cavour",
+    "number": "30",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6561195,
+    "longitude": 9.1300789
+  },
+  {
+    "street": "Via Marisa Bellisario",
+    "number": "1",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6609836,
+    "longitude": 9.1371919
+  },
+  {
+    "street": "Via Don Carlo Borghi",
+    "number": "4",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6603875,
+    "longitude": 9.1364624
+  },
+  {
+    "street": "Via Piave",
+    "number": "17",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6556313,
+    "longitude": 9.1305692
+  },
+  {
+    "street": "Via Emilio Longoni",
+    "number": "82",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6510294,
+    "longitude": 9.1205808
+  },
+  {
+    "street": "Viale Dante Alighieri",
+    "number": "1",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.653636,
+    "longitude": 9.1284819
+  },
+  {
+    "street": "Viale Dante Alighieri",
+    "number": "3",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6536988,
+    "longitude": 9.1284911
+  },
+  {
+    "street": "Corso Guglielmo Marconi",
+    "number": "46",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6581485,
+    "longitude": 9.1349099
+  },
+  {
+    "street": "Via Roma",
+    "number": "9",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6556643,
+    "longitude": 9.1296101
+  },
+  {
+    "street": "Via Roma",
+    "number": "5",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6557189,
+    "longitude": 9.1296917
+  },
+  {
+    "street": "Via Luigi Capuana",
+    "number": "32",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.657576,
+    "longitude": 9.140211
+  },
+  {
+    "street": "Via Luigi Capuana",
+    "number": "29",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6583908,
+    "longitude": 9.1412332
+  },
+  {
+    "street": "Via Luigi Capuana",
+    "number": "24",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6580696,
+    "longitude": 9.1396444
+  },
+  {
+    "street": "Via Luigi Capuana",
+    "number": "41",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6579941,
+    "longitude": 9.1424602
+  },
+  {
+    "street": "Via Luigi Capuana",
+    "number": "28",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6576073,
+    "longitude": 9.13963
+  },
+  {
+    "street": "Via Luigi Capuana",
+    "number": "33/35",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6582711,
+    "longitude": 9.1417175
+  },
+  {
+    "street": "Corso Guglielmo Marconi",
+    "number": "53",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6594198,
+    "longitude": 9.1368731
+  },
+  {
+    "street": "Via Luigi Capuana",
+    "number": "27",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6584093,
+    "longitude": 9.1406562
+  },
+  {
+    "street": "Via Don Davide Albertario",
+    "number": "10",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.658423,
+    "longitude": 9.133574
+  },
+  {
+    "street": "Via Niccolò Machiavelli",
+    "number": "16",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6498108,
+    "longitude": 9.116469
+  },
+  {
+    "street": "Via Raffaello Sanzio",
+    "number": "18",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6520359,
+    "longitude": 9.1151457
+  },
+  {
+    "street": "Via Raffaello Sanzio",
+    "number": "2",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6495447,
+    "longitude": 9.1161804
+  },
+  {
+    "street": "Via Giovanni Segantini",
+    "number": "23",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6522827,
+    "longitude": 9.1184926
+  },
+  {
+    "street": "Via Luigi Pirandello",
+    "number": "20",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6523662,
+    "longitude": 9.117426
+  },
+  {
+    "street": "Via Luigi Capuana",
+    "number": "44",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6573813,
+    "longitude": 9.1425104
+  },
+  {
+    "street": "Via Raffaello Sanzio",
+    "number": "11/13",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6500842,
+    "longitude": 9.1147369
+  },
+  {
+    "street": "Via Emilio Longoni",
+    "number": "124",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6489832,
+    "longitude": 9.1146319
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "41",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.656617,
+    "longitude": 9.1264947
+  },
+  {
+    "street": "Via Raffaello Sanzio",
+    "number": "23",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6508527,
+    "longitude": 9.1139353
+  },
+  {
+    "street": "Via Don Davide Albertario",
+    "number": "13",
+    "city": {
+      "name": "Barlassina",
+      "istat": "108005"
+    },
+    "latitude": 45.6589345,
+    "longitude": 9.1336732
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "street": "Via Nino Bixio",
+    "number": "8",
+    "city": {
+      "name": "Biandronno",
+      "istat": "012014"
+    },
+    "latitude": 45.7972671,
+    "longitude": 8.708641
+  },
+  {
+    "street": "Via Roma",
+    "number": "35",
+    "city": {
+      "name": "Biandronno",
+      "istat": "012014"
+    },
+    "latitude": 45.8201808,
+    "longitude": 8.712086
+  },
+  {
+    "street": "Piazza C. Corvi",
+    "number": "1",
+    "city": {
+      "name": "Biandronno",
+      "istat": "012014"
+    },
+    "latitude": 45.7978833,
+    "longitude": 8.7029221
+  },
+  {
+    "street": "Via Giuseppe Borghi",
+    "number": "48",
+    "city": {
+      "name": "Biandronno",
+      "istat": "012014"
+    },
+    "latitude": 45.7990715,
+    "longitude": 8.7034384
+  },
+  {
+    "street": "Via Giuseppe Borghi",
+    "number": "35",
+    "city": {
+      "name": "Biandronno",
+      "istat": "012014"
+    },
+    "latitude": 45.798633,
+    "longitude": 8.703336
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "7",
+    "city": {
+      "name": "Biandronno",
+      "istat": "012014"
+    },
+    "latitude": 45.821402,
+    "longitude": 8.7127047
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "23c",
+    "city": {
+      "name": "Biandronno",
+      "istat": "012014"
+    },
+    "latitude": 45.815439,
+    "longitude": 8.7025258
+  },
+  {
+    "street": "Via Pio Selvini",
+    "number": "40",
+    "city": {
+      "name": "Biandronno",
+      "istat": "012014"
+    },
+    "latitude": 45.8078492,
+    "longitude": 8.7086166
+  },
+  {
+    "street": "Via Giuseppe Borghi",
+    "number": "3h",
+    "city": {
+      "name": "Biandronno",
+      "istat": "012014"
+    },
+    "latitude": 45.8026697,
+    "longitude": 8.7061311
+  },
+  {
+    "street": "Via Rimembranze",
+    "number": "18",
+    "city": {
+      "name": "Biandronno",
+      "istat": "012014"
+    },
+    "latitude": 45.8285861,
+    "longitude": 8.7110438
+  },
+  {
+    "street": "Via Pio Selvini",
+    "number": "15",
+    "city": {
+      "name": "Biandronno",
+      "istat": "012014"
+    },
+    "latitude": 45.8117245,
+    "longitude": 8.7115319
+  },
+  {
+    "street": "Via Giuseppe Borghi",
+    "number": "22",
+    "city": {
+      "name": "Biandronno",
+      "istat": "012014"
+    },
+    "latitude": 45.8018747,
+    "longitude": 8.7047195
+  },
+  {
+    "street": "Via Roma",
+    "number": "75",
+    "city": {
+      "name": "Biandronno",
+      "istat": "012014"
+    },
+    "latitude": 45.8179672,
+    "longitude": 8.7113676
+  },
+  {
+    "street": "Via Roma",
+    "number": "18",
+    "city": {
+      "name": "Biandronno",
+      "istat": "012014"
+    },
+    "latitude": 45.8182897,
+    "longitude": 8.7113203
+  },
+  {
+    "street": "Via Roma",
+    "number": "67",
+    "city": {
+      "name": "Biandronno",
+      "istat": "012014"
+    },
+    "latitude": 45.8183121,
+    "longitude": 8.711442
+  },
+  {
+    "street": "Via Roma",
+    "number": "65",
+    "city": {
+      "name": "Biandronno",
+      "istat": "012014"
+    },
+    "latitude": 45.8184554,
+    "longitude": 8.7114663
+  },
+  {
+    "street": "Via Celso Parola",
+    "number": "1a",
+    "city": {
+      "name": "Biandronno",
+      "istat": "012014"
+    },
+    "latitude": 45.8209368,
+    "longitude": 8.7130236
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "1",
+    "city": {
+      "name": "Biandronno",
+      "istat": "012014"
+    },
+    "latitude": 45.821374,
+    "longitude": 8.7135308
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "6",
+    "city": {
+      "name": "Biandronno",
+      "istat": "012014"
+    },
+    "latitude": 45.8218593,
+    "longitude": 8.7138433
+  },
+  {
+    "street": "Via Roma",
+    "number": "25",
+    "city": {
+      "name": "Biandronno",
+      "istat": "012014"
+    },
+    "latitude": 45.8204358,
+    "longitude": 8.7123216
+  },
+  {
+    "street": "Via Roma",
+    "number": "31",
+    "city": {
+      "name": "Biandronno",
+      "istat": "012014"
+    },
+    "latitude": 45.8203189,
+    "longitude": 8.7122102
+  },
+  {
+    "street": "Via Roma",
+    "number": "29",
+    "city": {
+      "name": "Biandronno",
+      "istat": "012014"
+    },
+    "latitude": 45.8203395,
+    "longitude": 8.7121848
+  },
+  {
+    "street": "Via Roma",
+    "number": "3",
+    "city": {
+      "name": "Biandronno",
+      "istat": "012014"
+    },
+    "latitude": 45.8210995,
+    "longitude": 8.7132893
+  },
+  {
+    "street": "Via Roma",
+    "number": "1",
+    "city": {
+      "name": "Biandronno",
+      "istat": "012014"
+    },
+    "latitude": 45.821208,
+    "longitude": 8.7133724
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "4",
+    "city": {
+      "name": "Biandronno",
+      "istat": "012014"
+    },
+    "latitude": 45.8217278,
+    "longitude": 8.7137372
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "17",
+    "city": {
+      "name": "Biandronno",
+      "istat": "012014"
+    },
+    "latitude": 45.8225998,
+    "longitude": 8.7149032
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "58",
+    "city": {
+      "name": "Biandronno",
+      "istat": "012014"
+    },
+    "latitude": 45.8236547,
+    "longitude": 8.7167237
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "62",
+    "city": {
+      "name": "Biandronno",
+      "istat": "012014"
+    },
+    "latitude": 45.8237038,
+    "longitude": 8.7167485
+  },
+  {
+    "street": "Via Rimembranze",
+    "number": "1",
+    "city": {
+      "name": "Biandronno",
+      "istat": "012014"
+    },
+    "latitude": 45.8243417,
+    "longitude": 8.7166164
+  },
+  {
+    "street": "Via Rimembranze",
+    "number": "12b",
+    "city": {
+      "name": "Biandronno",
+      "istat": "012014"
+    },
+    "latitude": 45.8267786,
+    "longitude": 8.713685
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "60",
+    "city": {
+      "name": "Biandronno",
+      "istat": "012014"
+    },
+    "latitude": 45.8236799,
+    "longitude": 8.7167357
+  },
+  {
+    "street": "Via Rimembranze",
+    "number": "14",
+    "city": {
+      "name": "Biandronno",
+      "istat": "012014"
+    },
+    "latitude": 45.8276368,
+    "longitude": 8.7117645
+  },
+  {
+    "street": "Via Rimembranze",
+    "number": "29",
+    "city": {
+      "name": "Biandronno",
+      "istat": "012014"
+    },
+    "latitude": 45.8276912,
+    "longitude": 8.7114431
+  },
+  {
+    "street": "Via Giuseppe Borghi",
+    "number": "5",
+    "city": {
+      "name": "Biandronno",
+      "istat": "012014"
+    },
+    "latitude": 45.8023276,
+    "longitude": 8.7061911
+  }
+]

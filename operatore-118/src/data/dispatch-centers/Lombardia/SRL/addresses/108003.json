@@ -1,0 +1,912 @@
+[
+  {
+    "street": "Piazza Conciliazione",
+    "number": "28",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.659008,
+    "longitude": 9.2555083
+  },
+  {
+    "street": "Via Roma",
+    "number": "24",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6597487,
+    "longitude": 9.2586627
+  },
+  {
+    "street": "Via Salvadori",
+    "number": "1",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6567045,
+    "longitude": 9.2613218
+  },
+  {
+    "street": "Via Italia",
+    "number": "3",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6583487,
+    "longitude": 9.2547974
+  },
+  {
+    "street": "Via Italia",
+    "number": "9",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.658253,
+    "longitude": 9.2545826
+  },
+  {
+    "street": "Via Milano",
+    "number": "3",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6556942,
+    "longitude": 9.2547034
+  },
+  {
+    "street": "Via Trento",
+    "number": "39",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6558405,
+    "longitude": 9.2546118
+  },
+  {
+    "street": "Viale Lombardia",
+    "number": "10",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6574268,
+    "longitude": 9.2534999
+  },
+  {
+    "street": "Viale Lombardia",
+    "number": "3",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6571818,
+    "longitude": 9.2531625
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "1",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6574094,
+    "longitude": 9.2528696
+  },
+  {
+    "street": "Viale Lombardia",
+    "number": "1",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.656946,
+    "longitude": 9.2533722
+  },
+  {
+    "street": "Viale Lombardia",
+    "number": "15",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6574163,
+    "longitude": 9.2529579
+  },
+  {
+    "street": "Via Due Giugno",
+    "number": "4",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.65826,
+    "longitude": 9.2517952
+  },
+  {
+    "street": "Viale Lombardia",
+    "number": "47",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6600892,
+    "longitude": 9.249445
+  },
+  {
+    "street": "Viale Lombardia",
+    "number": "39",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6596196,
+    "longitude": 9.250676
+  },
+  {
+    "street": "Via San Valerio",
+    "number": "4",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6597706,
+    "longitude": 9.2560829
+  },
+  {
+    "street": "Via Roma",
+    "number": "2a",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.65987,
+    "longitude": 9.256386
+  },
+  {
+    "street": "Piazza Conciliazione",
+    "number": "38/40",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6594955,
+    "longitude": 9.2559786
+  },
+  {
+    "street": "Piazza Conciliazione",
+    "number": "33",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6591473,
+    "longitude": 9.2557053
+  },
+  {
+    "street": "Piazza Conciliazione",
+    "number": "29",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6590402,
+    "longitude": 9.2555752
+  },
+  {
+    "street": "Piazza Conciliazione",
+    "number": "31",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6590714,
+    "longitude": 9.2556291
+  },
+  {
+    "street": "Piazza Conciliazione",
+    "number": "21",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6585819,
+    "longitude": 9.2551498
+  },
+  {
+    "street": "Via Italia",
+    "number": "11",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.658013,
+    "longitude": 9.2541549
+  },
+  {
+    "street": "Via Italia",
+    "number": "15",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6579758,
+    "longitude": 9.2540484
+  },
+  {
+    "street": "Via Italia",
+    "number": "17",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6579207,
+    "longitude": 9.2539419
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "25",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6604629,
+    "longitude": 9.2592323
+  },
+  {
+    "street": "Via Galeazzo Viganò",
+    "number": "25",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6579433,
+    "longitude": 9.2573145
+  },
+  {
+    "street": "Via Galeazzo Viganò",
+    "number": "9",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6586032,
+    "longitude": 9.2582077
+  },
+  {
+    "street": "Via Galeazzo Viganò",
+    "number": "2",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6591319,
+    "longitude": 9.2587817
+  },
+  {
+    "street": "Via Galeazzo Viganò",
+    "number": "4",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6590288,
+    "longitude": 9.2586181
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "2",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6588225,
+    "longitude": 9.2582694
+  },
+  {
+    "street": "Via Galeazzo Viganò",
+    "number": "14",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6578815,
+    "longitude": 9.2569578
+  },
+  {
+    "street": "Via Galeazzo Viganò",
+    "number": "16",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6577577,
+    "longitude": 9.2567807
+  },
+  {
+    "street": "Via Galeazzo Viganò",
+    "number": "24",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6576021,
+    "longitude": 9.2565393
+  },
+  {
+    "street": "Via Galeazzo Viganò",
+    "number": "23",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6581139,
+    "longitude": 9.2575532
+  },
+  {
+    "street": "Via Trento",
+    "number": "2",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6569141,
+    "longitude": 9.2554611
+  },
+  {
+    "street": "Via Galeazzo Viganò",
+    "number": "30",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6573228,
+    "longitude": 9.2561102
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "14",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6570041,
+    "longitude": 9.2556167
+  },
+  {
+    "street": "Via Trento",
+    "number": "22",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6564445,
+    "longitude": 9.2546725
+  },
+  {
+    "street": "Via Achille Grandi",
+    "number": "1",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6573753,
+    "longitude": 9.2524463
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "5",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6572665,
+    "longitude": 9.2525965
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "42",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.65497,
+    "longitude": 9.2469826
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "66",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6530108,
+    "longitude": 9.242211
+  },
+  {
+    "street": "Via Gorizia",
+    "number": "44",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6504119,
+    "longitude": 9.2491906
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "50",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6549112,
+    "longitude": 9.2467764
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "17",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6577868,
+    "longitude": 9.2549283
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "18",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.653125,
+    "longitude": 9.2384561
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "18b",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.653568,
+    "longitude": 9.2381817
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "16a",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6527422,
+    "longitude": 9.2388612
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "10",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6563748,
+    "longitude": 9.2436012
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "16",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.656028,
+    "longitude": 9.2420053
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "6b",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6566559,
+    "longitude": 9.244205
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "4c",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6569206,
+    "longitude": 9.2444432
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "23e",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6553853,
+    "longitude": 9.2424922
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "23g",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6552425,
+    "longitude": 9.2420625
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "21",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6562562,
+    "longitude": 9.24515
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "8",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6570369,
+    "longitude": 9.2434299
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "4d",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6571195,
+    "longitude": 9.2443476
+  },
+  {
+    "street": "Via John Fitzgerald Kennedy",
+    "number": "2",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6544889,
+    "longitude": 9.2478868
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "6",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6579852,
+    "longitude": 9.2542096
+  },
+  {
+    "street": "Viale Lombardia",
+    "number": "23",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6581555,
+    "longitude": 9.2523382
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "6",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6514358,
+    "longitude": 9.2389816
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "24",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6574182,
+    "longitude": 9.2550981
+  },
+  {
+    "street": "Via Galeazzo Viganò",
+    "number": "12",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6580646,
+    "longitude": 9.2571987
+  },
+  {
+    "street": "Via Trieste",
+    "number": "29",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6536291,
+    "longitude": 9.2501705
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "13",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6602397,
+    "longitude": 9.2594423
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "54",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6561349,
+    "longitude": 9.2568918
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "33",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.65731,
+    "longitude": 9.2554891
+  },
+  {
+    "street": "Via Italia",
+    "number": "2",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6586602,
+    "longitude": 9.2547503
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "20",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6562786,
+    "longitude": 9.2586791
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "15",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6572506,
+    "longitude": 9.2599908
+  },
+  {
+    "street": "Via Milano",
+    "number": "2",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6556352,
+    "longitude": 9.2542156
+  },
+  {
+    "street": "Via Canzi e Colombo",
+    "number": "11",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6571394,
+    "longitude": 9.2414974
+  },
+  {
+    "street": "Via Montello",
+    "number": "275",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6517161,
+    "longitude": 9.2376015
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "20",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6541201,
+    "longitude": 9.2380851
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "28",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6553621,
+    "longitude": 9.2394514
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "22",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6557431,
+    "longitude": 9.2411346
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "17",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6567103,
+    "longitude": 9.2600249
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "29",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.655695,
+    "longitude": 9.2586891
+  },
+  {
+    "street": "Via delle Valli",
+    "number": "1",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6432668,
+    "longitude": 9.2370176
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "88",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6507823,
+    "longitude": 9.2386975
+  },
+  {
+    "street": "Via Sant'Ambrogio",
+    "number": "31",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6574824,
+    "longitude": 9.2448794
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "21",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6563123,
+    "longitude": 9.259401
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "18",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6565222,
+    "longitude": 9.2592402
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "23",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6560799,
+    "longitude": 9.2592361
+  },
+  {
+    "street": "Via delle Rimembranze",
+    "number": "5",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6578766,
+    "longitude": 9.2579229
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "31",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.655428,
+    "longitude": 9.2583452
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "25",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.655899,
+    "longitude": 9.2588736
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "34",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6557402,
+    "longitude": 9.2579637
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "22-32",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6559376,
+    "longitude": 9.2582213
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "27",
+    "city": {
+      "name": "Albiate",
+      "istat": "108003"
+    },
+    "latitude": 45.6557799,
+    "longitude": 9.2588222
+  }
+]

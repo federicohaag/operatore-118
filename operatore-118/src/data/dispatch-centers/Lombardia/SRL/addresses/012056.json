@@ -1,0 +1,32 @@
+[
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "27",
+    "city": {
+      "name": "Cremenaga",
+      "istat": "012056"
+    },
+    "latitude": 45.9884084,
+    "longitude": 8.8072822
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "1",
+    "city": {
+      "name": "Cremenaga",
+      "istat": "012056"
+    },
+    "latitude": 45.9883141,
+    "longitude": 8.8073496
+  },
+  {
+    "street": "Via Cesare Battisti",
+    "number": "3",
+    "city": {
+      "name": "Cremenaga",
+      "istat": "012056"
+    },
+    "latitude": 45.9880562,
+    "longitude": 8.8077234
+  }
+]

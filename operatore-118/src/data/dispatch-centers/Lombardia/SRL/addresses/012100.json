@@ -1,0 +1,12 @@
+[
+  {
+    "street": "Via Maurilio Gianoli",
+    "number": "1",
+    "city": {
+      "name": "Masciago Primo",
+      "istat": "012100"
+    },
+    "latitude": 45.9164404,
+    "longitude": 8.7807871
+  }
+]

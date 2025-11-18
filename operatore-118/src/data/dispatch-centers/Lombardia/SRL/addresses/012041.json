@@ -1,0 +1,52 @@
+[
+  {
+    "street": "Via Quattro Novembre",
+    "number": "4",
+    "city": {
+      "name": "Cassano Valcuvia",
+      "istat": "012041"
+    },
+    "latitude": 45.9326801,
+    "longitude": 8.7682186
+  },
+  {
+    "street": "Vicolo Costanza",
+    "number": "2",
+    "city": {
+      "name": "Cassano Valcuvia",
+      "istat": "012041"
+    },
+    "latitude": 45.931677,
+    "longitude": 8.767828
+  },
+  {
+    "street": "Via Noga",
+    "number": "936",
+    "city": {
+      "name": "Cassano Valcuvia",
+      "istat": "012041"
+    },
+    "latitude": 45.923213,
+    "longitude": 8.7650077
+  },
+  {
+    "street": "Via per Ferrera",
+    "number": "50",
+    "city": {
+      "name": "Cassano Valcuvia",
+      "istat": "012041"
+    },
+    "latitude": 45.932704,
+    "longitude": 8.7768919
+  },
+  {
+    "street": "Via Roncaccio",
+    "number": "15",
+    "city": {
+      "name": "Cassano Valcuvia",
+      "istat": "012041"
+    },
+    "latitude": 45.9330851,
+    "longitude": 8.7701366
+  }
+]

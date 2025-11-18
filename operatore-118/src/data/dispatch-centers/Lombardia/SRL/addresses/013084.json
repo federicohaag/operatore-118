@@ -1,0 +1,172 @@
+[
+  {
+    "street": "Via per Cantù",
+    "number": "27",
+    "city": {
+      "name": "Cucciago",
+      "istat": "013084"
+    },
+    "latitude": 45.7423975,
+    "longitude": 9.1087919
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "11",
+    "city": {
+      "name": "Cucciago",
+      "istat": "013084"
+    },
+    "latitude": 45.7387545,
+    "longitude": 9.0962653
+  },
+  {
+    "street": "Via Stazione",
+    "number": "6m",
+    "city": {
+      "name": "Cucciago",
+      "istat": "013084"
+    },
+    "latitude": 45.7412222,
+    "longitude": 9.08284
+  },
+  {
+    "street": "Via del Pozzo",
+    "number": "4",
+    "city": {
+      "name": "Cucciago",
+      "istat": "013084"
+    },
+    "latitude": 45.7381022,
+    "longitude": 9.0964239
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "2",
+    "city": {
+      "name": "Cucciago",
+      "istat": "013084"
+    },
+    "latitude": 45.7387167,
+    "longitude": 9.0947126
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "6/8",
+    "city": {
+      "name": "Cucciago",
+      "istat": "013084"
+    },
+    "latitude": 45.7388306,
+    "longitude": 9.0946135
+  },
+  {
+    "street": "Via Spinada",
+    "number": "5",
+    "city": {
+      "name": "Cucciago",
+      "istat": "013084"
+    },
+    "latitude": 45.739297,
+    "longitude": 9.1001539
+  },
+  {
+    "street": "Via Spinada",
+    "number": "3",
+    "city": {
+      "name": "Cucciago",
+      "istat": "013084"
+    },
+    "latitude": 45.7386984,
+    "longitude": 9.1001861
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "2C",
+    "city": {
+      "name": "Cucciago",
+      "istat": "013084"
+    },
+    "latitude": 45.741346,
+    "longitude": 9.1001024
+  },
+  {
+    "street": "Via Sant'Arialdo",
+    "number": "2",
+    "city": {
+      "name": "Cucciago",
+      "istat": "013084"
+    },
+    "latitude": 45.7405806,
+    "longitude": 9.0938079
+  },
+  {
+    "street": "Via per Cantù",
+    "number": "10",
+    "city": {
+      "name": "Cucciago",
+      "istat": "013084"
+    },
+    "latitude": 45.7401519,
+    "longitude": 9.1002235
+  },
+  {
+    "street": "Via Filippo Rienti",
+    "number": "45",
+    "city": {
+      "name": "Cucciago",
+      "istat": "013084"
+    },
+    "latitude": 45.7252012,
+    "longitude": 9.104048
+  },
+  {
+    "street": "Via Montina",
+    "number": "50",
+    "city": {
+      "name": "Cucciago",
+      "istat": "013084"
+    },
+    "latitude": 45.7261685,
+    "longitude": 9.0987783
+  },
+  {
+    "street": "Via Stazione",
+    "number": "8a",
+    "city": {
+      "name": "Cucciago",
+      "istat": "013084"
+    },
+    "latitude": 45.7400397,
+    "longitude": 9.0850274
+  },
+  {
+    "street": "Via alla Stazione",
+    "number": "29",
+    "city": {
+      "name": "Cucciago",
+      "istat": "013084"
+    },
+    "latitude": 45.7336011,
+    "longitude": 9.0930919
+  },
+  {
+    "street": "Via Stazione",
+    "number": "6",
+    "city": {
+      "name": "Cucciago",
+      "istat": "013084"
+    },
+    "latitude": 45.7418378,
+    "longitude": 9.0833278
+  },
+  {
+    "street": "Via del Michelbecco",
+    "number": "21",
+    "city": {
+      "name": "Cucciago",
+      "istat": "013084"
+    },
+    "latitude": 45.7434907,
+    "longitude": 9.0939174
+  }
+]

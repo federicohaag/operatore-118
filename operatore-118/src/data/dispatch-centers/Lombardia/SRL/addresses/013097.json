@@ -1,0 +1,392 @@
+[
+  {
+    "street": "Piazza Venticinque Aprile",
+    "number": "2",
+    "city": {
+      "name": "Eupilio",
+      "istat": "013097"
+    },
+    "latitude": 45.8180685,
+    "longitude": 9.2642801
+  },
+  {
+    "street": "Via Del Conte",
+    "number": "22",
+    "city": {
+      "name": "Eupilio",
+      "istat": "013097"
+    },
+    "latitude": 45.8222392,
+    "longitude": 9.2690679
+  },
+  {
+    "street": "Via Lecco",
+    "number": "20",
+    "city": {
+      "name": "Eupilio",
+      "istat": "013097"
+    },
+    "latitude": 45.8156935,
+    "longitude": 9.268648
+  },
+  {
+    "street": "Via Ceresuola",
+    "number": "8",
+    "city": {
+      "name": "Eupilio",
+      "istat": "013097"
+    },
+    "latitude": 45.8177638,
+    "longitude": 9.276437
+  },
+  {
+    "street": "Via Del Conte",
+    "number": "1",
+    "city": {
+      "name": "Eupilio",
+      "istat": "013097"
+    },
+    "latitude": 45.8211636,
+    "longitude": 9.2691621
+  },
+  {
+    "street": "Via Lecco",
+    "number": "12",
+    "city": {
+      "name": "Eupilio",
+      "istat": "013097"
+    },
+    "latitude": 45.8179428,
+    "longitude": 9.2645515
+  },
+  {
+    "street": "Via Roma",
+    "number": "24",
+    "city": {
+      "name": "Eupilio",
+      "istat": "013097"
+    },
+    "latitude": 45.8204622,
+    "longitude": 9.2668561
+  },
+  {
+    "street": "Via Roma",
+    "number": "26",
+    "city": {
+      "name": "Eupilio",
+      "istat": "013097"
+    },
+    "latitude": 45.8206113,
+    "longitude": 9.2671398
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "2",
+    "city": {
+      "name": "Eupilio",
+      "istat": "013097"
+    },
+    "latitude": 45.8137536,
+    "longitude": 9.2606478
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "6",
+    "city": {
+      "name": "Eupilio",
+      "istat": "013097"
+    },
+    "latitude": 45.8125125,
+    "longitude": 9.2566094
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "4",
+    "city": {
+      "name": "Eupilio",
+      "istat": "013097"
+    },
+    "latitude": 45.8125527,
+    "longitude": 9.2578764
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "9",
+    "city": {
+      "name": "Eupilio",
+      "istat": "013097"
+    },
+    "latitude": 45.8130212,
+    "longitude": 9.2590553
+  },
+  {
+    "street": "Via Giorgio Amendola",
+    "number": "6",
+    "city": {
+      "name": "Eupilio",
+      "istat": "013097"
+    },
+    "latitude": 45.8252791,
+    "longitude": 9.2678367
+  },
+  {
+    "street": "Via Giorgio Amendola",
+    "number": "4",
+    "city": {
+      "name": "Eupilio",
+      "istat": "013097"
+    },
+    "latitude": 45.8250124,
+    "longitude": 9.2680211
+  },
+  {
+    "street": "Via Giorgio Amendola",
+    "number": "2",
+    "city": {
+      "name": "Eupilio",
+      "istat": "013097"
+    },
+    "latitude": 45.8249303,
+    "longitude": 9.267816
+  },
+  {
+    "street": "Via Roma",
+    "number": "28",
+    "city": {
+      "name": "Eupilio",
+      "istat": "013097"
+    },
+    "latitude": 45.8204472,
+    "longitude": 9.2675941
+  },
+  {
+    "street": "Via Roma",
+    "number": "30",
+    "city": {
+      "name": "Eupilio",
+      "istat": "013097"
+    },
+    "latitude": 45.8201492,
+    "longitude": 9.2678542
+  },
+  {
+    "street": "Piazza Andrea Appiani",
+    "number": "1",
+    "city": {
+      "name": "Eupilio",
+      "istat": "013097"
+    },
+    "latitude": 45.8218271,
+    "longitude": 9.2692245
+  },
+  {
+    "street": "Piazza Andrea Appiani",
+    "number": "2",
+    "city": {
+      "name": "Eupilio",
+      "istat": "013097"
+    },
+    "latitude": 45.8217985,
+    "longitude": 9.2691959
+  },
+  {
+    "street": "Piazza Venticinque Aprile",
+    "number": "1",
+    "city": {
+      "name": "Eupilio",
+      "istat": "013097"
+    },
+    "latitude": 45.8177601,
+    "longitude": 9.2641584
+  },
+  {
+    "street": "Piazza Venticinque Aprile",
+    "number": "3",
+    "city": {
+      "name": "Eupilio",
+      "istat": "013097"
+    },
+    "latitude": 45.8181102,
+    "longitude": 9.2643543
+  },
+  {
+    "street": "Piazza Venticinque Aprile",
+    "number": "4",
+    "city": {
+      "name": "Eupilio",
+      "istat": "013097"
+    },
+    "latitude": 45.8181721,
+    "longitude": 9.2644065
+  },
+  {
+    "street": "Piazza Venticinque Aprile",
+    "number": "5",
+    "city": {
+      "name": "Eupilio",
+      "istat": "013097"
+    },
+    "latitude": 45.8182686,
+    "longitude": 9.264477
+  },
+  {
+    "street": "Piazza Venticinque Aprile",
+    "number": "6",
+    "city": {
+      "name": "Eupilio",
+      "istat": "013097"
+    },
+    "latitude": 45.8182443,
+    "longitude": 9.2645441
+  },
+  {
+    "street": "Piazza Venticinque Aprile",
+    "number": "7",
+    "city": {
+      "name": "Eupilio",
+      "istat": "013097"
+    },
+    "latitude": 45.8182843,
+    "longitude": 9.2646481
+  },
+  {
+    "street": "Piazza Venticinque Aprile",
+    "number": "8",
+    "city": {
+      "name": "Eupilio",
+      "istat": "013097"
+    },
+    "latitude": 45.8182769,
+    "longitude": 9.2647454
+  },
+  {
+    "street": "Piazza Venticinque Aprile",
+    "number": "10",
+    "city": {
+      "name": "Eupilio",
+      "istat": "013097"
+    },
+    "latitude": 45.8181511,
+    "longitude": 9.2648162
+  },
+  {
+    "street": "Piazza Venticinque Aprile",
+    "number": "11",
+    "city": {
+      "name": "Eupilio",
+      "istat": "013097"
+    },
+    "latitude": 45.8179957,
+    "longitude": 9.264726
+  },
+  {
+    "street": "Piazza Venticinque Aprile",
+    "number": "12",
+    "city": {
+      "name": "Eupilio",
+      "istat": "013097"
+    },
+    "latitude": 45.8179782,
+    "longitude": 9.2645642
+  },
+  {
+    "street": "Piazza Venticinque Aprile",
+    "number": "13",
+    "city": {
+      "name": "Eupilio",
+      "istat": "013097"
+    },
+    "latitude": 45.8178909,
+    "longitude": 9.2644552
+  },
+  {
+    "street": "Via Panigatti",
+    "number": "2",
+    "city": {
+      "name": "Eupilio",
+      "istat": "013097"
+    },
+    "latitude": 45.8204696,
+    "longitude": 9.2648527
+  },
+  {
+    "street": "Viale Combattenti",
+    "number": "16",
+    "city": {
+      "name": "Eupilio",
+      "istat": "013097"
+    },
+    "latitude": 45.8235432,
+    "longitude": 9.2680581
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "1",
+    "city": {
+      "name": "Eupilio",
+      "istat": "013097"
+    },
+    "latitude": 45.8190679,
+    "longitude": 9.2689892
+  },
+  {
+    "street": "Via Ghislanzoni",
+    "number": "10",
+    "city": {
+      "name": "Eupilio",
+      "istat": "013097"
+    },
+    "latitude": 45.8212382,
+    "longitude": 9.2703491
+  },
+  {
+    "street": "Via Cornizzolo",
+    "number": "57",
+    "city": {
+      "name": "Eupilio",
+      "istat": "013097"
+    },
+    "latitude": 45.8241162,
+    "longitude": 9.2777012
+  },
+  {
+    "street": "Piazza Freyrie",
+    "number": "1",
+    "city": {
+      "name": "Eupilio",
+      "istat": "013097"
+    },
+    "latitude": 45.8198509,
+    "longitude": 9.2694256
+  },
+  {
+    "street": "Via Lecco",
+    "number": "29",
+    "city": {
+      "name": "Eupilio",
+      "istat": "013097"
+    },
+    "latitude": 45.8164728,
+    "longitude": 9.2719913
+  },
+  {
+    "street": "Via Gaetano Strambio",
+    "number": "9",
+    "city": {
+      "name": "Eupilio",
+      "istat": "013097"
+    },
+    "latitude": 45.8151944,
+    "longitude": 9.26394
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "29",
+    "city": {
+      "name": "Eupilio",
+      "istat": "013097"
+    },
+    "latitude": 45.8169267,
+    "longitude": 9.2682507
+  }
+]

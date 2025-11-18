@@ -1,0 +1,502 @@
+[
+  {
+    "street": "Via Quattro Novembre",
+    "number": "101",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0174272,
+    "longitude": 9.2362791
+  },
+  {
+    "street": "Viale Benedetto Castelli",
+    "number": "9/13",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0208444,
+    "longitude": 9.2414583
+  },
+  {
+    "street": "Largo Cavour",
+    "number": "3",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0199286,
+    "longitude": 9.2393853
+  },
+  {
+    "street": "Via Mazzini",
+    "number": "27",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0196184,
+    "longitude": 9.2388401
+  },
+  {
+    "street": "Via E. Caronti",
+    "number": "17",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0195774,
+    "longitude": 9.2378826
+  },
+  {
+    "street": "Piazza Giuseppe Garibaldi",
+    "number": "7",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0197722,
+    "longitude": 9.2392926
+  },
+  {
+    "street": "Via Camozzi Carlo",
+    "number": "15",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0207334,
+    "longitude": 9.2393928
+  },
+  {
+    "street": "Via Benedetto Castelli",
+    "number": "21",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0213319,
+    "longitude": 9.2424478
+  },
+  {
+    "street": "Piazza Giuseppe Garibaldi",
+    "number": "9",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0195382,
+    "longitude": 9.2388776
+  },
+  {
+    "street": "Via Carlo Camozzi",
+    "number": "12",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0203448,
+    "longitude": 9.239382
+  },
+  {
+    "street": "Via Alfredo Wyatt",
+    "number": "26",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0175978,
+    "longitude": 9.223744
+  },
+  {
+    "street": "Via ai Monti di Nava",
+    "number": "11",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.012964,
+    "longitude": 9.2183538
+  },
+  {
+    "street": "Via ai Monti di Nava",
+    "number": "4",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0134593,
+    "longitude": 9.2186187
+  },
+  {
+    "street": "Via ai Monti di Nava",
+    "number": "9",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0133445,
+    "longitude": 9.2185628
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "93",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0170734,
+    "longitude": 9.2367195
+  },
+  {
+    "street": "Via Malagrida Padre Gabriele",
+    "number": "3",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0216883,
+    "longitude": 9.240945
+  },
+  {
+    "street": "Via per la Grona",
+    "number": "69",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0289274,
+    "longitude": 9.2319902
+  },
+  {
+    "street": "Via Calvi",
+    "number": "20",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0199726,
+    "longitude": 9.2387348
+  },
+  {
+    "street": "Via Como",
+    "number": "26",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0200392,
+    "longitude": 9.2369985
+  },
+  {
+    "street": "Via Monsignor Emilio Poletti",
+    "number": "40",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0193477,
+    "longitude": 9.2329675
+  },
+  {
+    "street": "Via Monsignor Emilio Poletti",
+    "number": "42",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0192936,
+    "longitude": 9.23315
+  },
+  {
+    "street": "Piazza Giuseppe Garibaldi",
+    "number": "11",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0196353,
+    "longitude": 9.2388957
+  },
+  {
+    "street": "Via Carlo Porta",
+    "number": "1",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0203013,
+    "longitude": 9.2388145
+  },
+  {
+    "street": "Via ai Monti di Nava",
+    "number": "2",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0135576,
+    "longitude": 9.2191842
+  },
+  {
+    "street": "Piazza Giuseppe Garibaldi",
+    "number": "10",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0196033,
+    "longitude": 9.2389193
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "42",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0187893,
+    "longitude": 9.2367858
+  },
+  {
+    "street": "Piazza Giuseppe Garibaldi",
+    "number": "15",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0196783,
+    "longitude": 9.2387193
+  },
+  {
+    "street": "Piazza Giuseppe Garibaldi",
+    "number": "2",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0199753,
+    "longitude": 9.2390081
+  },
+  {
+    "street": "Via Annetta e Celestino Lusardi",
+    "number": "37",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0214401,
+    "longitude": 9.2387703
+  },
+  {
+    "street": "Via Carlo Camozzi",
+    "number": "16",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0206047,
+    "longitude": 9.2395205
+  },
+  {
+    "street": "Fabio Filzi",
+    "number": "31",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0278185,
+    "longitude": 9.2338123
+  },
+  {
+    "street": "Via per Plesio",
+    "number": "1",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0272279,
+    "longitude": 9.2329958
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "39",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0188974,
+    "longitude": 9.2369408
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "35",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0189209,
+    "longitude": 9.2370055
+  },
+  {
+    "street": "via movembre",
+    "number": "48",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0187302,
+    "longitude": 9.2363832
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "46",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0187838,
+    "longitude": 9.2364006
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "52",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0185704,
+    "longitude": 9.2362499
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "36",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0191804,
+    "longitude": 9.2372088
+  },
+  {
+    "street": "Via Camozzi Carlo",
+    "number": "3",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.020303,
+    "longitude": 9.2391796
+  },
+  {
+    "street": "Via Camozzi Carlo",
+    "number": "28",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0206671,
+    "longitude": 9.2395864
+  },
+  {
+    "street": "Via Camozzi Carlo",
+    "number": "24",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0206285,
+    "longitude": 9.239559
+  },
+  {
+    "street": "Via Camozzi Carlo",
+    "number": "20",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0205994,
+    "longitude": 9.2395299
+  },
+  {
+    "street": "Via Malagrida Padre Gabriele",
+    "number": "5",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0217982,
+    "longitude": 9.2413102
+  },
+  {
+    "street": "Via Loveno",
+    "number": "8",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0229254,
+    "longitude": 9.2371612
+  },
+  {
+    "street": "Largo Cavour",
+    "number": "6",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0200102,
+    "longitude": 9.2398224
+  },
+  {
+    "street": "Via Carlo Camozzi",
+    "number": "55",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0215431,
+    "longitude": 9.2399015
+  },
+  {
+    "street": "Via Monsignor Emilio Poletti",
+    "number": "71",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0164878,
+    "longitude": 9.2345518
+  },
+  {
+    "street": "Via ai Monti di Nava",
+    "number": "5",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0135098,
+    "longitude": 9.219612
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "91",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0184848,
+    "longitude": 9.225096
+  },
+  {
+    "street": "Via per la Grona",
+    "number": "87",
+    "city": {
+      "name": "Menaggio",
+      "istat": "013145"
+    },
+    "latitude": 46.0306808,
+    "longitude": 9.2328144
+  }
+]

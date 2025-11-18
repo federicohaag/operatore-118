@@ -1,0 +1,232 @@
+[
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "1",
+    "city": {
+      "name": "Saltrio",
+      "istat": "012117"
+    },
+    "latitude": 45.8743499,
+    "longitude": 8.9218864
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "10",
+    "city": {
+      "name": "Saltrio",
+      "istat": "012117"
+    },
+    "latitude": 45.874135,
+    "longitude": 8.9219236
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "10",
+    "city": {
+      "name": "Saltrio",
+      "istat": "012117"
+    },
+    "latitude": 45.8746309,
+    "longitude": 8.9223289
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "11",
+    "city": {
+      "name": "Saltrio",
+      "istat": "012117"
+    },
+    "latitude": 45.8746735,
+    "longitude": 8.922259
+  },
+  {
+    "street": "Via Pompeo Marchesi",
+    "number": "5",
+    "city": {
+      "name": "Saltrio",
+      "istat": "012117"
+    },
+    "latitude": 45.8748256,
+    "longitude": 8.9223322
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "6",
+    "city": {
+      "name": "Saltrio",
+      "istat": "012117"
+    },
+    "latitude": 45.8741546,
+    "longitude": 8.9218256
+  },
+  {
+    "street": "Via Pompeo Marchesi",
+    "number": "7",
+    "city": {
+      "name": "Saltrio",
+      "istat": "012117"
+    },
+    "latitude": 45.8748256,
+    "longitude": 8.9223852
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "8",
+    "city": {
+      "name": "Saltrio",
+      "istat": "012117"
+    },
+    "latitude": 45.8741459,
+    "longitude": 8.9218706
+  },
+  {
+    "street": "Via Cave",
+    "number": "1",
+    "city": {
+      "name": "Saltrio",
+      "istat": "012117"
+    },
+    "latitude": 45.8749119,
+    "longitude": 8.9227266
+  },
+  {
+    "street": "Piazza Giacomo Matteotti",
+    "number": "5",
+    "city": {
+      "name": "Saltrio",
+      "istat": "012117"
+    },
+    "latitude": 45.8749629,
+    "longitude": 8.921796
+  },
+  {
+    "street": "Piazza Giacomo Matteotti",
+    "number": "7",
+    "city": {
+      "name": "Saltrio",
+      "istat": "012117"
+    },
+    "latitude": 45.8749747,
+    "longitude": 8.9218613
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "2",
+    "city": {
+      "name": "Saltrio",
+      "istat": "012117"
+    },
+    "latitude": 45.8744649,
+    "longitude": 8.9251717
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "23",
+    "city": {
+      "name": "Saltrio",
+      "istat": "012117"
+    },
+    "latitude": 45.8737433,
+    "longitude": 8.9231203
+  },
+  {
+    "street": "Via Vela",
+    "number": "27",
+    "city": {
+      "name": "Saltrio",
+      "istat": "012117"
+    },
+    "latitude": 45.8744153,
+    "longitude": 8.9246961
+  },
+  {
+    "street": "Via del Fontanino",
+    "number": "3",
+    "city": {
+      "name": "Saltrio",
+      "istat": "012117"
+    },
+    "latitude": 45.8741929,
+    "longitude": 8.9261718
+  },
+  {
+    "street": "Via del Magro",
+    "number": "4",
+    "city": {
+      "name": "Saltrio",
+      "istat": "012117"
+    },
+    "latitude": 45.8732404,
+    "longitude": 8.9236798
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "4",
+    "city": {
+      "name": "Saltrio",
+      "istat": "012117"
+    },
+    "latitude": 45.8744791,
+    "longitude": 8.9251896
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "6",
+    "city": {
+      "name": "Saltrio",
+      "istat": "012117"
+    },
+    "latitude": 45.8744926,
+    "longitude": 8.9252066
+  },
+  {
+    "street": "Via del Fontanino",
+    "number": "8",
+    "city": {
+      "name": "Saltrio",
+      "istat": "012117"
+    },
+    "latitude": 45.8741544,
+    "longitude": 8.9261583
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "27",
+    "city": {
+      "name": "Saltrio",
+      "istat": "012117"
+    },
+    "latitude": 45.8737129,
+    "longitude": 8.9235899
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "10",
+    "city": {
+      "name": "Saltrio",
+      "istat": "012117"
+    },
+    "latitude": 45.8746828,
+    "longitude": 8.9255969
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "37",
+    "city": {
+      "name": "Saltrio",
+      "istat": "012117"
+    },
+    "latitude": 45.8735474,
+    "longitude": 8.9243919
+  },
+  {
+    "street": "Via Pompeo Marchesi",
+    "number": "16",
+    "city": {
+      "name": "Saltrio",
+      "istat": "012117"
+    },
+    "latitude": 45.8747392,
+    "longitude": 8.9241517
+  }
+]

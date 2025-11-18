@@ -1,0 +1,132 @@
+[
+  {
+    "street": "Via San Lorenzo",
+    "number": "21",
+    "city": {
+      "name": "Sumirago",
+      "istat": "012124"
+    },
+    "latitude": 45.7407043,
+    "longitude": 8.7811274
+  },
+  {
+    "street": "Via Cristina Barbiano di Belgioioso",
+    "number": "23",
+    "city": {
+      "name": "Sumirago",
+      "istat": "012124"
+    },
+    "latitude": 45.754981,
+    "longitude": 8.7939936
+  },
+  {
+    "street": "Via Pirovano",
+    "number": "20",
+    "city": {
+      "name": "Sumirago",
+      "istat": "012124"
+    },
+    "latitude": 45.7382047,
+    "longitude": 8.7927156
+  },
+  {
+    "street": "Via Pirovano",
+    "number": "22",
+    "city": {
+      "name": "Sumirago",
+      "istat": "012124"
+    },
+    "latitude": 45.7374115,
+    "longitude": 8.7918341
+  },
+  {
+    "street": "Via Giosuè Carducci",
+    "number": "6",
+    "city": {
+      "name": "Sumirago",
+      "istat": "012124"
+    },
+    "latitude": 45.7421578,
+    "longitude": 8.7853347
+  },
+  {
+    "street": "Via San Vincenzo",
+    "number": "13",
+    "city": {
+      "name": "Sumirago",
+      "istat": "012124"
+    },
+    "latitude": 45.7318981,
+    "longitude": 8.7777941
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "13",
+    "city": {
+      "name": "Sumirago",
+      "istat": "012124"
+    },
+    "latitude": 45.7532515,
+    "longitude": 8.7886619
+  },
+  {
+    "street": "Via San Lorenzo",
+    "number": "8",
+    "city": {
+      "name": "Sumirago",
+      "istat": "012124"
+    },
+    "latitude": 45.7395127,
+    "longitude": 8.7806467
+  },
+  {
+    "street": "Via Attilio Sandroni",
+    "number": "1",
+    "city": {
+      "name": "Sumirago",
+      "istat": "012124"
+    },
+    "latitude": 45.7385859,
+    "longitude": 8.7821126
+  },
+  {
+    "street": "Via Immacolata",
+    "number": "7",
+    "city": {
+      "name": "Sumirago",
+      "istat": "012124"
+    },
+    "latitude": 45.7580004,
+    "longitude": 8.788163
+  },
+  {
+    "street": "Via Immacolata",
+    "number": "9",
+    "city": {
+      "name": "Sumirago",
+      "istat": "012124"
+    },
+    "latitude": 45.7581755,
+    "longitude": 8.7882527
+  },
+  {
+    "street": "Via Attilio Sandroni",
+    "number": "34",
+    "city": {
+      "name": "Sumirago",
+      "istat": "012124"
+    },
+    "latitude": 45.7329532,
+    "longitude": 8.785155
+  },
+  {
+    "street": "Via Locarno",
+    "number": "26",
+    "city": {
+      "name": "Sumirago",
+      "istat": "012124"
+    },
+    "latitude": 45.7412523,
+    "longitude": 8.7883189
+  }
+]

@@ -1,0 +1,3652 @@
+[
+  {
+    "street": "Viale Lombardia",
+    "number": "72",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6871546,
+    "longitude": 9.1843875
+  },
+  {
+    "street": "Via Como",
+    "number": "42",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.71042,
+    "longitude": 9.16765
+  },
+  {
+    "street": "Via per Novedrate",
+    "number": "22",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7059967,
+    "longitude": 9.1656082
+  },
+  {
+    "street": "Via Emanuele D'Adda",
+    "number": "16",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6977677,
+    "longitude": 9.1788734
+  },
+  {
+    "street": "Via Pace",
+    "number": "1",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7002632,
+    "longitude": 9.1765827
+  },
+  {
+    "street": "Via Cardinale Ferrari",
+    "number": "3",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6982921,
+    "longitude": 9.176284
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "104",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6898565,
+    "longitude": 9.1861014
+  },
+  {
+    "street": "Via Cardinale Ferrari",
+    "number": "1b",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6983979,
+    "longitude": 9.1764057
+  },
+  {
+    "street": "Via Cardinale Ferrari",
+    "number": "1a",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.698456,
+    "longitude": 9.1764539
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "8",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6988007,
+    "longitude": 9.1761911
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "9a",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.698771,
+    "longitude": 9.1756048
+  },
+  {
+    "street": "Via Sant'Agata",
+    "number": "71/73",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6821581,
+    "longitude": 9.1740979
+  },
+  {
+    "street": "Via Sant'Agata",
+    "number": "28",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6817615,
+    "longitude": 9.1749254
+  },
+  {
+    "street": "Via Sant'Agata",
+    "number": "6e",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6830865,
+    "longitude": 9.1757605
+  },
+  {
+    "street": "Via Sant'Agata",
+    "number": "30h",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.682743,
+    "longitude": 9.1751704
+  },
+  {
+    "street": "Via Sant'Agata",
+    "number": "77",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6824369,
+    "longitude": 9.1763812
+  },
+  {
+    "street": "Via Luigi Fumagalli",
+    "number": "2/6",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6811105,
+    "longitude": 9.1754029
+  },
+  {
+    "street": "Via Sant'Agata",
+    "number": "15",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6828175,
+    "longitude": 9.1764994
+  },
+  {
+    "street": "Via Sant'Agata",
+    "number": "19",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.68254,
+    "longitude": 9.177252
+  },
+  {
+    "street": "Via Sant'Agata",
+    "number": "4",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6837262,
+    "longitude": 9.1761605
+  },
+  {
+    "street": "Via Sant'Agata",
+    "number": "77b",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.682332,
+    "longitude": 9.1761864
+  },
+  {
+    "street": "Via Sant'Agata",
+    "number": "13",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6830372,
+    "longitude": 9.1766611
+  },
+  {
+    "street": "Via Sant'Agata",
+    "number": "14",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6840979,
+    "longitude": 9.1764161
+  },
+  {
+    "street": "Via Sant'Agata",
+    "number": "11",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.683139,
+    "longitude": 9.1767023
+  },
+  {
+    "street": "Via Sant'Agata",
+    "number": "6a",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6833186,
+    "longitude": 9.1758913
+  },
+  {
+    "street": "Via Sant'Agata",
+    "number": "69",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6821324,
+    "longitude": 9.1771696
+  },
+  {
+    "street": "Via Sant'Agata",
+    "number": "28e",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6822036,
+    "longitude": 9.1747893
+  },
+  {
+    "street": "Via Sant'Agata",
+    "number": "18b",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6829512,
+    "longitude": 9.174378
+  },
+  {
+    "street": "Via Sant'Agata",
+    "number": "22c",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6820787,
+    "longitude": 9.1740582
+  },
+  {
+    "street": "Via Sant'Agata",
+    "number": "20d",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6823479,
+    "longitude": 9.1742127
+  },
+  {
+    "street": "Via Sant'Agata",
+    "number": "7",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6833757,
+    "longitude": 9.1768534
+  },
+  {
+    "street": "Via Sant'Agata",
+    "number": "79",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6821188,
+    "longitude": 9.1760749
+  },
+  {
+    "street": "Via Sant'Agata",
+    "number": "6h",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6831392,
+    "longitude": 9.1754606
+  },
+  {
+    "street": "Via Montebello",
+    "number": "75",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6990271,
+    "longitude": 9.1813427
+  },
+  {
+    "street": "Viale Lombardia",
+    "number": "54",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6883388,
+    "longitude": 9.1816591
+  },
+  {
+    "street": "Via Como",
+    "number": "41",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7089941,
+    "longitude": 9.168827
+  },
+  {
+    "street": "Via Sant'Alessandro",
+    "number": "106",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6774053,
+    "longitude": 9.1901212
+  },
+  {
+    "street": "Via Alfredo Rutschi",
+    "number": "4",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6894944,
+    "longitude": 9.1736198
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "1",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.694276,
+    "longitude": 9.1827039
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "12",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6940279,
+    "longitude": 9.1815719
+  },
+  {
+    "street": "Via Sant'Agostino",
+    "number": "164/170",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6892992,
+    "longitude": 9.1526143
+  },
+  {
+    "street": "Via Alfredo Rutschi",
+    "number": "2",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6891992,
+    "longitude": 9.1735291
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "101",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7024824,
+    "longitude": 9.1663989
+  },
+  {
+    "street": "Via Sant'Agostino",
+    "number": "46",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6949239,
+    "longitude": 9.1671987
+  },
+  {
+    "street": "Via Sant'Agostino",
+    "number": "170",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.688848,
+    "longitude": 9.1523552
+  },
+  {
+    "street": "Via Sant'Agata",
+    "number": "12 b/c",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.68421,
+    "longitude": 9.1757333
+  },
+  {
+    "street": "Strada Cascina Amata",
+    "number": "45",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7152647,
+    "longitude": 9.1663898
+  },
+  {
+    "street": "Via Como",
+    "number": "9",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.703741,
+    "longitude": 9.1738676
+  },
+  {
+    "street": "Via Giovanni Amendola",
+    "number": "37",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7029476,
+    "longitude": 9.1744432
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "9",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7031538,
+    "longitude": 9.1766944
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "64/66",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7030499,
+    "longitude": 9.1749786
+  },
+  {
+    "street": "Via Tommaso Grossi",
+    "number": "20",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7034649,
+    "longitude": 9.1738054
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "11",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7031905,
+    "longitude": 9.1776873
+  },
+  {
+    "street": "Via Giovanni Amendola",
+    "number": "28",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7027064,
+    "longitude": 9.1746505
+  },
+  {
+    "street": "Via Sant'Agostino",
+    "number": "152",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6906989,
+    "longitude": 9.1552941
+  },
+  {
+    "street": "Via Sant'Agostino",
+    "number": "150",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6908544,
+    "longitude": 9.1556213
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "60/62",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7029957,
+    "longitude": 9.1750517
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "56",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7029474,
+    "longitude": 9.175173
+  },
+  {
+    "street": "Via dei Cipressi",
+    "number": "12",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6933561,
+    "longitude": 9.1742834
+  },
+  {
+    "street": "Via San Rocco",
+    "number": "53",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7026184,
+    "longitude": 9.1750909
+  },
+  {
+    "street": "Via Como",
+    "number": "74",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7130771,
+    "longitude": 9.1637453
+  },
+  {
+    "street": "Via ai ferri",
+    "number": "22",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7089844,
+    "longitude": 9.1674294
+  },
+  {
+    "street": "Via La Valle",
+    "number": "60",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7150715,
+    "longitude": 9.1652903
+  },
+  {
+    "street": "Strada Cascina Amata",
+    "number": "37",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7141692,
+    "longitude": 9.1662974
+  },
+  {
+    "street": "Strada Cascina Amata",
+    "number": "43",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7149857,
+    "longitude": 9.1665147
+  },
+  {
+    "street": "Via ai ferri",
+    "number": "7",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7088254,
+    "longitude": 9.1678959
+  },
+  {
+    "street": "Via Como",
+    "number": "48",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7111926,
+    "longitude": 9.1668933
+  },
+  {
+    "street": "Via Como",
+    "number": "64",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7123779,
+    "longitude": 9.1648489
+  },
+  {
+    "street": "Via Como",
+    "number": "68",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7125811,
+    "longitude": 9.1645754
+  },
+  {
+    "street": "Via La Valle",
+    "number": "27/29",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7138848,
+    "longitude": 9.1648994
+  },
+  {
+    "street": "Via ai ferri",
+    "number": "37",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7084565,
+    "longitude": 9.1649052
+  },
+  {
+    "street": "Piazza Roma",
+    "number": "50",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6974834,
+    "longitude": 9.178351
+  },
+  {
+    "street": "Via Emanuele D'Adda",
+    "number": "17",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6979916,
+    "longitude": 9.1788522
+  },
+  {
+    "street": "Piazza Roma",
+    "number": "42",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6972545,
+    "longitude": 9.1786269
+  },
+  {
+    "street": "Via Como",
+    "number": "76",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7136075,
+    "longitude": 9.1630041
+  },
+  {
+    "street": "Piazza Roma",
+    "number": "40",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6971934,
+    "longitude": 9.1787048
+  },
+  {
+    "street": "Piazza Roma",
+    "number": "53",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6973414,
+    "longitude": 9.1780951
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "3",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6985615,
+    "longitude": 9.1797273
+  },
+  {
+    "street": "Piazza Roma",
+    "number": "35",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.696833,
+    "longitude": 9.1787046
+  },
+  {
+    "street": "Piazza Roma",
+    "number": "17",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6965692,
+    "longitude": 9.1791613
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "4",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6976836,
+    "longitude": 9.1785492
+  },
+  {
+    "street": "Via Como",
+    "number": "46",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7107063,
+    "longitude": 9.1670937
+  },
+  {
+    "street": "Via ai ferri",
+    "number": "26",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7084733,
+    "longitude": 9.1669668
+  },
+  {
+    "street": "Via ai ferri",
+    "number": "26b",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.708419,
+    "longitude": 9.1663379
+  },
+  {
+    "street": "Piazza Roma",
+    "number": "49",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6972435,
+    "longitude": 9.1782231
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "26",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.698327,
+    "longitude": 9.1793112
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "6",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6984387,
+    "longitude": 9.179789
+  },
+  {
+    "street": "Piazza Roma",
+    "number": "31",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6967189,
+    "longitude": 9.178896
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "32",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6983708,
+    "longitude": 9.1793536
+  },
+  {
+    "street": "Piazza Roma",
+    "number": "12",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6968132,
+    "longitude": 9.1792241
+  },
+  {
+    "street": "Piazza Roma",
+    "number": "46",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.697338,
+    "longitude": 9.1785146
+  },
+  {
+    "street": "Piazza Roma",
+    "number": "21",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6966427,
+    "longitude": 9.1790206
+  },
+  {
+    "street": "Via Santa Caterina da Siena",
+    "number": "24",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6885315,
+    "longitude": 9.1798179
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "38",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6995864,
+    "longitude": 9.177592
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "37",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6995614,
+    "longitude": 9.1774757
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "36",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6995346,
+    "longitude": 9.1775524
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "34",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6994374,
+    "longitude": 9.1775158
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "35",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6994253,
+    "longitude": 9.177432
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "32",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6993356,
+    "longitude": 9.1774628
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "30",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.699292,
+    "longitude": 9.1774414
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "27",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6991698,
+    "longitude": 9.1772912
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "29",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6992606,
+    "longitude": 9.1773438
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "24",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6991906,
+    "longitude": 9.1773961
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "22",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6991152,
+    "longitude": 9.1773626
+  },
+  {
+    "street": "Via Sant'Alessandro",
+    "number": "120",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.679573,
+    "longitude": 9.1909349
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "48",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6850273,
+    "longitude": 9.1801456
+  },
+  {
+    "street": "Via Pietro Mascagni",
+    "number": "16/18",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.679895,
+    "longitude": 9.1925266
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "17/19",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6831165,
+    "longitude": 9.1918403
+  },
+  {
+    "street": "Viale Lombardia",
+    "number": "82",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6857101,
+    "longitude": 9.1862381
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "63b",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6858997,
+    "longitude": 9.1819118
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "63a",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6860338,
+    "longitude": 9.1820186
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "1",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6858836,
+    "longitude": 9.1875229
+  },
+  {
+    "street": "Via Fratelli Cervi",
+    "number": "18",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6854192,
+    "longitude": 9.1819167
+  },
+  {
+    "street": "Via Milano",
+    "number": "7",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6839313,
+    "longitude": 9.1902819
+  },
+  {
+    "street": "Via Tre Venezie",
+    "number": "36",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6793546,
+    "longitude": 9.1866975
+  },
+  {
+    "street": "Via Sant'Antonio Da Padova",
+    "number": "80",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.681908,
+    "longitude": 9.1822747
+  },
+  {
+    "street": "Via Padre Masciadri",
+    "number": "2f",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6848842,
+    "longitude": 9.1898323
+  },
+  {
+    "street": "Via Gaetano Donizetti",
+    "number": "10",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6772639,
+    "longitude": 9.1917183
+  },
+  {
+    "street": "Via Don Guanella",
+    "number": "10/14",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6850158,
+    "longitude": 9.1873471
+  },
+  {
+    "street": "Via Pio X",
+    "number": "1",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6844525,
+    "longitude": 9.1889863
+  },
+  {
+    "street": "Via Tre Venezie",
+    "number": "77/79",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6815234,
+    "longitude": 9.1876694
+  },
+  {
+    "street": "Via Sant'Antonio Da Padova",
+    "number": "56",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6801659,
+    "longitude": 9.1844574
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "55",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6805111,
+    "longitude": 9.1832659
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "26/28",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6819525,
+    "longitude": 9.1833679
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "37",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6818745,
+    "longitude": 9.1853289
+  },
+  {
+    "street": "Via Sant'Antonio Da Padova",
+    "number": "48",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6799844,
+    "longitude": 9.1842296
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "93/95",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6846996,
+    "longitude": 9.181073
+  },
+  {
+    "street": "Via Don Guanella",
+    "number": "7",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6847001,
+    "longitude": 9.1875384
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "31",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6826459,
+    "longitude": 9.1848875
+  },
+  {
+    "street": "Via Padre Masciadri",
+    "number": "2",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6849128,
+    "longitude": 9.1896485
+  },
+  {
+    "street": "Via Pietro Mascagni",
+    "number": "17/19",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6808668,
+    "longitude": 9.1933149
+  },
+  {
+    "street": "Via Antonio Vivaldi",
+    "number": "26",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6791855,
+    "longitude": 9.1929246
+  },
+  {
+    "street": "Via Pio X",
+    "number": "50",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6813106,
+    "longitude": 9.1854877
+  },
+  {
+    "street": "Via Sant'Alessandro",
+    "number": "153",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6813731,
+    "longitude": 9.1888012
+  },
+  {
+    "street": "Via Sant'Alessandro",
+    "number": "155",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.682153,
+    "longitude": 9.1887786
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "6",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6849757,
+    "longitude": 9.1858411
+  },
+  {
+    "street": "Via Milano",
+    "number": "17",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6827294,
+    "longitude": 9.1912356
+  },
+  {
+    "street": "Via Sant'Alessandro",
+    "number": "169/171",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6839697,
+    "longitude": 9.1889949
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "59",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.68595,
+    "longitude": 9.1823161
+  },
+  {
+    "street": "Via Tre Venezie",
+    "number": "83",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6816964,
+    "longitude": 9.1878046
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "24",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6823901,
+    "longitude": 9.183451
+  },
+  {
+    "street": "Via Milano",
+    "number": "28",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6815073,
+    "longitude": 9.191128
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "107",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6873148,
+    "longitude": 9.1880573
+  },
+  {
+    "street": "Via Sant'Alessandro",
+    "number": "112",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6778205,
+    "longitude": 9.1906217
+  },
+  {
+    "street": "Via Giancarlo Puecher",
+    "number": "22",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6826645,
+    "longitude": 9.1877852
+  },
+  {
+    "street": "Via Don Guanella",
+    "number": "28",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6840702,
+    "longitude": 9.1860849
+  },
+  {
+    "street": "Via Padre Masciadri",
+    "number": "4a",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.684273,
+    "longitude": 9.1901359
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "117",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6865671,
+    "longitude": 9.1885708
+  },
+  {
+    "street": "Via Pietro Mascagni",
+    "number": "12",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6792875,
+    "longitude": 9.1911122
+  },
+  {
+    "street": "Via Padre Masciadri",
+    "number": "32",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6839887,
+    "longitude": 9.1924178
+  },
+  {
+    "street": "Via Giancarlo Puecher",
+    "number": "6/8",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6832504,
+    "longitude": 9.1858525
+  },
+  {
+    "street": "Via Padre Masciadri",
+    "number": "5",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6853728,
+    "longitude": 9.1893518
+  },
+  {
+    "street": "Via Sant'Antonio Da Padova",
+    "number": "97",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6784316,
+    "longitude": 9.1836351
+  },
+  {
+    "street": "Via Giancarlo Puecher",
+    "number": "26",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6825056,
+    "longitude": 9.1881272
+  },
+  {
+    "street": "Via Padre Masciadori",
+    "number": "1",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6858295,
+    "longitude": 9.1891688
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "91",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.684431,
+    "longitude": 9.1813786
+  },
+  {
+    "street": "Via Don Luigi Sturzo",
+    "number": "65",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6855186,
+    "longitude": 9.1811921
+  },
+  {
+    "street": "Via Giancarlo Puecher",
+    "number": "14",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6826459,
+    "longitude": 9.1862796
+  },
+  {
+    "street": "Via Sant'Antonio Da Padova",
+    "number": "102/104",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6829899,
+    "longitude": 9.1814894
+  },
+  {
+    "street": "Via Milano",
+    "number": "12",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6837741,
+    "longitude": 9.1895857
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "30/32",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6813694,
+    "longitude": 9.182987
+  },
+  {
+    "street": "Via Antonio Vivaldi",
+    "number": "24",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6793388,
+    "longitude": 9.1934219
+  },
+  {
+    "street": "Via Don Guanella",
+    "number": "17",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6840632,
+    "longitude": 9.1872185
+  },
+  {
+    "street": "Via Sant'Antonio Da Padova",
+    "number": "95",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6780731,
+    "longitude": 9.1836147
+  },
+  {
+    "street": "Via Pio X",
+    "number": "68",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6796542,
+    "longitude": 9.1840372
+  },
+  {
+    "street": "Via Aldo Moro",
+    "number": "23",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6831487,
+    "longitude": 9.1848241
+  },
+  {
+    "street": "Via Tre Venezie",
+    "number": "79",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6815669,
+    "longitude": 9.1876978
+  },
+  {
+    "street": "Via Fratelli Cervi",
+    "number": "4a",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.684751,
+    "longitude": 9.184518
+  },
+  {
+    "street": "Via Tre Venezie",
+    "number": "85",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6817961,
+    "longitude": 9.1878696
+  },
+  {
+    "street": "Via Fratelli Cervi",
+    "number": "6",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.685088,
+    "longitude": 9.1831296
+  },
+  {
+    "street": "Via Tre Venezie",
+    "number": "56",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6809193,
+    "longitude": 9.1876974
+  },
+  {
+    "street": "Via Pietro Mascagni",
+    "number": "22",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6800496,
+    "longitude": 9.1929649
+  },
+  {
+    "street": "Viale Lombardia",
+    "number": "62/bis",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6875763,
+    "longitude": 9.1832393
+  },
+  {
+    "street": "Via Cardinale Ferrari",
+    "number": "34a",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.695624,
+    "longitude": 9.173526
+  },
+  {
+    "street": "Corso Brianza",
+    "number": "12",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6998761,
+    "longitude": 9.1767986
+  },
+  {
+    "street": "Via per Cabiate",
+    "number": "100",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6872457,
+    "longitude": 9.1720533
+  },
+  {
+    "street": "Via per Cabiate",
+    "number": "19",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6907354,
+    "longitude": 9.173872
+  },
+  {
+    "street": "Via Alla madonna",
+    "number": "11",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6999297,
+    "longitude": 9.1767517
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "6c",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6986472,
+    "longitude": 9.1764908
+  },
+  {
+    "street": "Via per Cabiate",
+    "number": "152a",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6830921,
+    "longitude": 9.1716985
+  },
+  {
+    "street": "Via per Cabiate",
+    "number": "154",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6829703,
+    "longitude": 9.1716932
+  },
+  {
+    "street": "Via per Cabiate",
+    "number": "79",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6853679,
+    "longitude": 9.1723109
+  },
+  {
+    "street": "Via per Cabiate",
+    "number": "6",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6923858,
+    "longitude": 9.1742971
+  },
+  {
+    "street": "Via per Cabiate",
+    "number": "75",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6857473,
+    "longitude": 9.1724336
+  },
+  {
+    "street": "Via Sant'Antonio Da Padova",
+    "number": "2",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6751646,
+    "longitude": 9.1879922
+  },
+  {
+    "street": "Via Sant'Antonio Da Padova",
+    "number": "4",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6752104,
+    "longitude": 9.1879598
+  },
+  {
+    "street": "Via Sant'Antonio Da Padova",
+    "number": "5",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6756191,
+    "longitude": 9.1873962
+  },
+  {
+    "street": "Via Sant'Antonio Da Padova",
+    "number": "5/a",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6757079,
+    "longitude": 9.1873048
+  },
+  {
+    "street": "Via Sant'Antonio Da Padova",
+    "number": "7",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.675872,
+    "longitude": 9.1871212
+  },
+  {
+    "street": "Via Sant'Antonio Da Padova",
+    "number": "7/a",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6758838,
+    "longitude": 9.1871095
+  },
+  {
+    "street": "Via Sant'Antonio Da Padova",
+    "number": "7/b",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6759522,
+    "longitude": 9.1870401
+  },
+  {
+    "street": "Via Sant'Antonio Da Padova",
+    "number": "7/c",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6759884,
+    "longitude": 9.1870025
+  },
+  {
+    "street": "Via Sant'Antonio Da Padova",
+    "number": "9",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6760646,
+    "longitude": 9.1869189
+  },
+  {
+    "street": "Via Sant'Antonio Da Padova",
+    "number": "19",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6764216,
+    "longitude": 9.1865244
+  },
+  {
+    "street": "Via Sant'Antonio Da Padova",
+    "number": "21",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6764757,
+    "longitude": 9.1864648
+  },
+  {
+    "street": "Via Sant'Antonio Da Padova",
+    "number": "23",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6764968,
+    "longitude": 9.1864408
+  },
+  {
+    "street": "Via Sant'Antonio Da Padova",
+    "number": "25",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6765546,
+    "longitude": 9.1863774
+  },
+  {
+    "street": "Via Sant'Antonio Da Padova",
+    "number": "27",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6765972,
+    "longitude": 9.1862828
+  },
+  {
+    "street": "Via Sant'Antonio Da Padova",
+    "number": "8",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6766302,
+    "longitude": 9.186443
+  },
+  {
+    "street": "Via Puglie",
+    "number": "8",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6768325,
+    "longitude": 9.1867112
+  },
+  {
+    "street": "Via Puglie",
+    "number": "6/e",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6769679,
+    "longitude": 9.1867619
+  },
+  {
+    "street": "Via Puglie",
+    "number": "10",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6772677,
+    "longitude": 9.1871466
+  },
+  {
+    "street": "Via per Cabiate",
+    "number": "79b",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6851864,
+    "longitude": 9.1722803
+  },
+  {
+    "street": "Corso Brianza",
+    "number": "27b",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7015398,
+    "longitude": 9.1754188
+  },
+  {
+    "street": "Via Sant'Agata",
+    "number": "43",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6827899,
+    "longitude": 9.1779713
+  },
+  {
+    "street": "Via Sant'Agata",
+    "number": "29",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6835809,
+    "longitude": 9.1780042
+  },
+  {
+    "street": "Via Luigi Fumagalli",
+    "number": "51",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6806209,
+    "longitude": 9.1776372
+  },
+  {
+    "street": "Via Luigi Fumagalli",
+    "number": "91",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6803367,
+    "longitude": 9.1782368
+  },
+  {
+    "street": "Via Luigi Fumagalli",
+    "number": "37/39",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6809617,
+    "longitude": 9.1769771
+  },
+  {
+    "street": "Via Sant'Agata",
+    "number": "45",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6825661,
+    "longitude": 9.177806
+  },
+  {
+    "street": "Via Sant'Agata",
+    "number": "45a",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6823988,
+    "longitude": 9.1776849
+  },
+  {
+    "street": "Via Luigi Fumagalli",
+    "number": "22",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6806901,
+    "longitude": 9.1764741
+  },
+  {
+    "street": "Via Luigi Fumagalli",
+    "number": "35",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6810842,
+    "longitude": 9.176748
+  },
+  {
+    "street": "Via Sant'Agata",
+    "number": "63",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6816094,
+    "longitude": 9.1787243
+  },
+  {
+    "street": "Via Luigi Fumagalli",
+    "number": "24/26",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6805976,
+    "longitude": 9.1766923
+  },
+  {
+    "street": "Via Sant'Agata",
+    "number": "39a",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6831309,
+    "longitude": 9.1781657
+  },
+  {
+    "street": "Via Luigi Fumagalli",
+    "number": "97/99",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6801962,
+    "longitude": 9.1785095
+  },
+  {
+    "street": "Via Sant'Agata",
+    "number": "66",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6833051,
+    "longitude": 9.1783404
+  },
+  {
+    "street": "Via Sant'Agata",
+    "number": "65",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6817844,
+    "longitude": 9.1779468
+  },
+  {
+    "street": "Via Luigi Fumagalli",
+    "number": "45",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6808315,
+    "longitude": 9.177214
+  },
+  {
+    "street": "Via Sant'Agata",
+    "number": "58",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6817232,
+    "longitude": 9.1750519
+  },
+  {
+    "street": "Via Sant'Agata",
+    "number": "4e",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6838598,
+    "longitude": 9.1763321
+  },
+  {
+    "street": "Via Sant'Agata",
+    "number": "35",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6834694,
+    "longitude": 9.1783928
+  },
+  {
+    "street": "Via Sant'Agata",
+    "number": "49",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6820263,
+    "longitude": 9.1787173
+  },
+  {
+    "street": "Via Sant'Agata",
+    "number": "41a",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6828894,
+    "longitude": 9.1780112
+  },
+  {
+    "street": "Via Monsignor G. Colombo",
+    "number": "36",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6894423,
+    "longitude": 9.1803131
+  },
+  {
+    "street": "Via Sant'Agata",
+    "number": "41",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6830305,
+    "longitude": 9.1780999
+  },
+  {
+    "street": "Via J. F. Kennedy",
+    "number": "1",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7014374,
+    "longitude": 9.1790476
+  },
+  {
+    "street": "Via per Cabiate",
+    "number": "104",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6870266,
+    "longitude": 9.1719001
+  },
+  {
+    "street": "Via Cardinale Ferrari",
+    "number": "10",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6979915,
+    "longitude": 9.1750829
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "4d",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6985909,
+    "longitude": 9.1765909
+  },
+  {
+    "street": "Via Spaino",
+    "number": "2",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7034664,
+    "longitude": 9.1825206
+  },
+  {
+    "street": "Via Carlo Mauri",
+    "number": "5c",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6959832,
+    "longitude": 9.1862736
+  },
+  {
+    "street": "Via San Francesco",
+    "number": "35",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6953463,
+    "longitude": 9.1849377
+  },
+  {
+    "street": "Via San Francesco",
+    "number": "39/41",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6954937,
+    "longitude": 9.1851449
+  },
+  {
+    "street": "Via Palmiro Togliatti",
+    "number": "71",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7055972,
+    "longitude": 9.1812321
+  },
+  {
+    "street": "Via San Francesco",
+    "number": "29",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6953949,
+    "longitude": 9.1848895
+  },
+  {
+    "street": "Via Montebello",
+    "number": "61",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6993352,
+    "longitude": 9.1808397
+  },
+  {
+    "street": "Via Benvenuto Cellini",
+    "number": "2/4",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6827519,
+    "longitude": 9.1706977
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "69",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6960769,
+    "longitude": 9.1764935
+  },
+  {
+    "street": "Via Don Giovanni Minzoni",
+    "number": "16",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6829655,
+    "longitude": 9.1674592
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "71",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6961297,
+    "longitude": 9.1765269
+  },
+  {
+    "street": "Via Palmiro Togliatti",
+    "number": "82D",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7055245,
+    "longitude": 9.1821369
+  },
+  {
+    "street": "Via San Martino",
+    "number": "93",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7098306,
+    "longitude": 9.184533
+  },
+  {
+    "street": "Via San Martino",
+    "number": "71",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7094284,
+    "longitude": 9.1845374
+  },
+  {
+    "street": "Via San Martino",
+    "number": "73",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7094249,
+    "longitude": 9.1845247
+  },
+  {
+    "street": "Via San Martino",
+    "number": "96",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7093107,
+    "longitude": 9.1846421
+  },
+  {
+    "street": "Via San Martino",
+    "number": "94",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7091859,
+    "longitude": 9.1845947
+  },
+  {
+    "street": "Via San Martino",
+    "number": "92",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7091638,
+    "longitude": 9.1845793
+  },
+  {
+    "street": "Via San Martino",
+    "number": "69",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7091806,
+    "longitude": 9.1844601
+  },
+  {
+    "street": "Via San Martino",
+    "number": "80",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7082315,
+    "longitude": 9.1846513
+  },
+  {
+    "street": "Via San Martino",
+    "number": "76E",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7082732,
+    "longitude": 9.18405
+  },
+  {
+    "street": "Via San Martino",
+    "number": "76D",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7082091,
+    "longitude": 9.1839802
+  },
+  {
+    "street": "Via San Martino",
+    "number": "76B",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7081214,
+    "longitude": 9.1838915
+  },
+  {
+    "street": "Via San Martino",
+    "number": "76C",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7081883,
+    "longitude": 9.183962
+  },
+  {
+    "street": "Via San Martino",
+    "number": "76A",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7079241,
+    "longitude": 9.1836962
+  },
+  {
+    "street": "Via San Martino",
+    "number": "76",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7076448,
+    "longitude": 9.1834162
+  },
+  {
+    "street": "Via San Martino",
+    "number": "62",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7077,
+    "longitude": 9.1849078
+  },
+  {
+    "street": "Via San Martino",
+    "number": "58",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7074644,
+    "longitude": 9.1846372
+  },
+  {
+    "street": "Via San Martino",
+    "number": "74I",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7076561,
+    "longitude": 9.1838102
+  },
+  {
+    "street": "Via San Martino",
+    "number": "74L",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7076357,
+    "longitude": 9.1837126
+  },
+  {
+    "street": "Via San Martino",
+    "number": "74N",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7075865,
+    "longitude": 9.1837076
+  },
+  {
+    "street": "Via San Martino",
+    "number": "74M",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7075684,
+    "longitude": 9.1837147
+  },
+  {
+    "street": "Via San Martino",
+    "number": "51",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7067875,
+    "longitude": 9.1836304
+  },
+  {
+    "street": "Via San Martino",
+    "number": "59",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7069925,
+    "longitude": 9.1834298
+  },
+  {
+    "street": "Via San Martino",
+    "number": "61",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7070933,
+    "longitude": 9.1833337
+  },
+  {
+    "street": "Via Cappellina",
+    "number": "3",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7075032,
+    "longitude": 9.182843
+  },
+  {
+    "street": "Via Cappellina",
+    "number": "5",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7076575,
+    "longitude": 9.1826206
+  },
+  {
+    "street": "Via Cappellina",
+    "number": "7",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7076859,
+    "longitude": 9.1825812
+  },
+  {
+    "street": "Via Cappellina",
+    "number": "9",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7077276,
+    "longitude": 9.1825105
+  },
+  {
+    "street": "Via Cappellina",
+    "number": "11",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7077419,
+    "longitude": 9.1824846
+  },
+  {
+    "street": "Via Cappellina",
+    "number": "6",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7078823,
+    "longitude": 9.1825506
+  },
+  {
+    "street": "Via Cappellina",
+    "number": "13",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.707885,
+    "longitude": 9.1822207
+  },
+  {
+    "street": "Via Cappellina",
+    "number": "15",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7079157,
+    "longitude": 9.1821414
+  },
+  {
+    "street": "Via Ronco Grande",
+    "number": "1",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7079251,
+    "longitude": 9.1816272
+  },
+  {
+    "street": "Via Ronco Grande",
+    "number": "94",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7077483,
+    "longitude": 9.181667
+  },
+  {
+    "street": "Via Ronco Grande",
+    "number": "90",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7075044,
+    "longitude": 9.1814366
+  },
+  {
+    "street": "Via Ronco Grande",
+    "number": "92",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7075243,
+    "longitude": 9.1815111
+  },
+  {
+    "street": "Via Ronco Grande",
+    "number": "88",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7074297,
+    "longitude": 9.1813087
+  },
+  {
+    "street": "Via Ronco Grande",
+    "number": "84",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7073201,
+    "longitude": 9.1811199
+  },
+  {
+    "street": "Via Ronco Grande",
+    "number": "80",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7071949,
+    "longitude": 9.1809022
+  },
+  {
+    "street": "Via Ronco Grande",
+    "number": "82",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7072687,
+    "longitude": 9.1810334
+  },
+  {
+    "street": "Via Ronco Grande",
+    "number": "86",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7073868,
+    "longitude": 9.1812355
+  },
+  {
+    "street": "Via Ronco Grande",
+    "number": "74",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7069786,
+    "longitude": 9.1806161
+  },
+  {
+    "street": "Via Ronco Grande",
+    "number": "70",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7068911,
+    "longitude": 9.1805338
+  },
+  {
+    "street": "Via Ronco Grande",
+    "number": "68",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7068175,
+    "longitude": 9.1804646
+  },
+  {
+    "street": "Via Ronco Grande",
+    "number": "66",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7067091,
+    "longitude": 9.1803494
+  },
+  {
+    "street": "Via Ronco Grande",
+    "number": "64",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7066145,
+    "longitude": 9.1802342
+  },
+  {
+    "street": "Via Ronco Grande",
+    "number": "62A",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7065457,
+    "longitude": 9.1802188
+  },
+  {
+    "street": "Via Ronco Grande",
+    "number": "62",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7064854,
+    "longitude": 9.1800698
+  },
+  {
+    "street": "Via Ronco Grande",
+    "number": "60",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7063707,
+    "longitude": 9.1799181
+  },
+  {
+    "street": "Via Ronco Grande",
+    "number": "40",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7061273,
+    "longitude": 9.1799031
+  },
+  {
+    "street": "Via Ronco Grande",
+    "number": "46",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.706068,
+    "longitude": 9.1800343
+  },
+  {
+    "street": "Via Ronco Grande",
+    "number": "52",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7061297,
+    "longitude": 9.1801086
+  },
+  {
+    "street": "Via Ronco Grande",
+    "number": "54A",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7061472,
+    "longitude": 9.1800951
+  },
+  {
+    "street": "Via Ronco Grande",
+    "number": "44",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7060708,
+    "longitude": 9.1799974
+  },
+  {
+    "street": "Via San Francesco",
+    "number": "3",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6954025,
+    "longitude": 9.1839747
+  },
+  {
+    "street": "Via Giovanni Songia",
+    "number": "10/12",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6929175,
+    "longitude": 9.1802394
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "16",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6939383,
+    "longitude": 9.1815315
+  },
+  {
+    "street": "Viale Piave",
+    "number": "29",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6946875,
+    "longitude": 9.1823636
+  },
+  {
+    "street": "Via dei Vivai",
+    "number": "5y",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6921602,
+    "longitude": 9.1798335
+  },
+  {
+    "street": "Viale Piave",
+    "number": "32",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6944643,
+    "longitude": 9.1820759
+  },
+  {
+    "street": "Via Giovanni Songia",
+    "number": "10",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6931305,
+    "longitude": 9.1804031
+  },
+  {
+    "street": "Via San Francesco",
+    "number": "13",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.695366,
+    "longitude": 9.1842553
+  },
+  {
+    "street": "Via Giovanni Songia",
+    "number": "32",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6927332,
+    "longitude": 9.1795199
+  },
+  {
+    "street": "Via Risorgimento",
+    "number": "51",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7000586,
+    "longitude": 9.1775647
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "14",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6936985,
+    "longitude": 9.1812231
+  },
+  {
+    "street": "Via per Novedrate",
+    "number": "21/23",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7057317,
+    "longitude": 9.1664351
+  },
+  {
+    "street": "Via Como",
+    "number": "63",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7105424,
+    "longitude": 9.1658999
+  },
+  {
+    "street": "Via Como",
+    "number": "61",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7103774,
+    "longitude": 9.1660677
+  },
+  {
+    "street": "Via Como",
+    "number": "43",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7091649,
+    "longitude": 9.1685426
+  },
+  {
+    "street": "Via Como",
+    "number": "49",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7094953,
+    "longitude": 9.1676373
+  },
+  {
+    "street": "Via per Novedrate",
+    "number": "12",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7079283,
+    "longitude": 9.1663176
+  },
+  {
+    "street": "Via Como",
+    "number": "55",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7099035,
+    "longitude": 9.1668258
+  },
+  {
+    "street": "Strada Cascina Amata",
+    "number": "9",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7119242,
+    "longitude": 9.1670916
+  },
+  {
+    "street": "Via La Valle",
+    "number": "52/54",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7145314,
+    "longitude": 9.1654036
+  },
+  {
+    "street": "Via Como",
+    "number": "82",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7142906,
+    "longitude": 9.1622029
+  },
+  {
+    "street": "Via La Valle",
+    "number": "46",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7136435,
+    "longitude": 9.1657629
+  },
+  {
+    "street": "Via Como",
+    "number": "72",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7129583,
+    "longitude": 9.1644152
+  },
+  {
+    "street": "Strada Cascina Amata",
+    "number": "31",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7135736,
+    "longitude": 9.1665755
+  },
+  {
+    "street": "Via La Valle",
+    "number": "23",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7133161,
+    "longitude": 9.164962
+  },
+  {
+    "street": "Via Como",
+    "number": "56",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7118832,
+    "longitude": 9.1659774
+  },
+  {
+    "street": "Via La Valle",
+    "number": "72",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7161088,
+    "longitude": 9.1657718
+  },
+  {
+    "street": "Via La Valle",
+    "number": "76",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7164025,
+    "longitude": 9.1660303
+  },
+  {
+    "street": "Via La Valle",
+    "number": "61",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7151926,
+    "longitude": 9.1643849
+  },
+  {
+    "street": "Via La Valle",
+    "number": "77",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7162242,
+    "longitude": 9.1634476
+  },
+  {
+    "street": "Via La Valle",
+    "number": "47/49",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7147137,
+    "longitude": 9.1645698
+  },
+  {
+    "street": "Via Como",
+    "number": "81",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7118148,
+    "longitude": 9.1643076
+  },
+  {
+    "street": "Via ai ferri",
+    "number": "33",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7082095,
+    "longitude": 9.1654122
+  },
+  {
+    "street": "Via Como",
+    "number": "73",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7103108,
+    "longitude": 9.1651163
+  },
+  {
+    "street": "Via Rogorina",
+    "number": "3",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7078629,
+    "longitude": 9.1584971
+  },
+  {
+    "street": "Via per Novedrate",
+    "number": "130",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7016048,
+    "longitude": 9.1519435
+  },
+  {
+    "street": "Via Rogorina",
+    "number": "2",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7081079,
+    "longitude": 9.158304
+  },
+  {
+    "street": "Via Santo Stefano",
+    "number": "46",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6963831,
+    "longitude": 9.1761891
+  },
+  {
+    "street": "Via Emanuele D'Adda",
+    "number": "1",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.696223,
+    "longitude": 9.1766308
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "41",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6938992,
+    "longitude": 9.1802621
+  },
+  {
+    "street": "Piazza Roma",
+    "number": "41",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6968763,
+    "longitude": 9.1783417
+  },
+  {
+    "street": "Via Sant'Agostino",
+    "number": "147",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6894504,
+    "longitude": 9.1568451
+  },
+  {
+    "street": "Via Salvo D'Acquisto",
+    "number": "56",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6981406,
+    "longitude": 9.1828373
+  },
+  {
+    "street": "Via Sant'Antonio Da Padova",
+    "number": "6",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6769513,
+    "longitude": 9.1878555
+  },
+  {
+    "street": "Piazza Martiri della Libertà",
+    "number": "7",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6960031,
+    "longitude": 9.1807396
+  },
+  {
+    "street": "Via Passalacqua Trotti",
+    "number": "10",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6965724,
+    "longitude": 9.1815768
+  },
+  {
+    "street": "Via Sant'Agostino",
+    "number": "165",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6879622,
+    "longitude": 9.1537988
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "13",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6991023,
+    "longitude": 9.1750386
+  },
+  {
+    "street": "Via del Ciocchino",
+    "number": "34",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6893022,
+    "longitude": 9.1657659
+  },
+  {
+    "street": "Via Lambro",
+    "number": "15",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6979606,
+    "longitude": 9.18859
+  },
+  {
+    "street": "Via Giosuè Carducci",
+    "number": "22",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6995414,
+    "longitude": 9.1721517
+  },
+  {
+    "street": "Via Pace",
+    "number": "5",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7003938,
+    "longitude": 9.1766186
+  },
+  {
+    "street": "Via Sant'Agata",
+    "number": "1",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6838271,
+    "longitude": 9.1774716
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "10",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.702755,
+    "longitude": 9.1774064
+  },
+  {
+    "street": "Via Como",
+    "number": "3",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7031609,
+    "longitude": 9.1742938
+  },
+  {
+    "street": "Via Antonio Stoppani",
+    "number": "79",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6664126,
+    "longitude": 9.1874268
+  },
+  {
+    "street": "Via Milano",
+    "number": "51",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6674201,
+    "longitude": 9.1857736
+  },
+  {
+    "street": "Strada Provinciale 32 Novedratese",
+    "number": "123",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7002108,
+    "longitude": 9.151478
+  },
+  {
+    "street": "Strada Provinciale 32 Novedratese",
+    "number": "130",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7012059,
+    "longitude": 9.1510118
+  },
+  {
+    "street": "Via San Martino",
+    "number": "7",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7034229,
+    "longitude": 9.1857806
+  },
+  {
+    "street": "Via Sant'Agostino",
+    "number": "86",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6962784,
+    "longitude": 9.1628053
+  },
+  {
+    "street": "Via Sant'Agostino",
+    "number": "160",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.690743,
+    "longitude": 9.1543176
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "77",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7015117,
+    "longitude": 9.1700836
+  },
+  {
+    "street": "SP32",
+    "number": "108a",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7130608,
+    "longitude": 9.1844957
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "47",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.7113217,
+    "longitude": 9.1854089
+  },
+  {
+    "street": "Via per Cabiate",
+    "number": "111",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6818527,
+    "longitude": 9.1724047
+  },
+  {
+    "street": "Via per Cascina Amata",
+    "number": "84",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.718231,
+    "longitude": 9.1672017
+  },
+  {
+    "street": "Viale Lombardia",
+    "number": "78",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6860254,
+    "longitude": 9.1853388
+  },
+  {
+    "street": "Via Isonzo",
+    "number": "111",
+    "city": {
+      "name": "Mariano Comense",
+      "istat": "013143"
+    },
+    "latitude": 45.6870847,
+    "longitude": 9.1883039
+  }
+]

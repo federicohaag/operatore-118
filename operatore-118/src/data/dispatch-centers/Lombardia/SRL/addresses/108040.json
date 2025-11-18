@@ -1,0 +1,3052 @@
+[
+  {
+    "street": "Corso Isonzo",
+    "number": "5",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6427355,
+    "longitude": 9.1430879
+  },
+  {
+    "street": "Via Adua",
+    "number": "29b",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6475101,
+    "longitude": 9.1436893
+  },
+  {
+    "street": "Via Preposto Mezzera",
+    "number": "46/3",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6413235,
+    "longitude": 9.1383573
+  },
+  {
+    "street": "Via Tonale",
+    "number": "50",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6402071,
+    "longitude": 9.1522917
+  },
+  {
+    "street": "Viale Vittorio Veneto",
+    "number": "3/5",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6473385,
+    "longitude": 9.1385068
+  },
+  {
+    "street": "Corso Guglielmo Marconi",
+    "number": "43",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6467444,
+    "longitude": 9.1387128
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "4",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6513306,
+    "longitude": 9.1446821
+  },
+  {
+    "street": "Via Adua",
+    "number": "29c",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6473972,
+    "longitude": 9.1441119
+  },
+  {
+    "street": "Via Vignazzola",
+    "number": "20",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6505767,
+    "longitude": 9.1498149
+  },
+  {
+    "street": "Via Vignazzola",
+    "number": "12",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6510584,
+    "longitude": 9.1493335
+  },
+  {
+    "street": "Via Giosuè Carducci",
+    "number": "11",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.650432,
+    "longitude": 9.1484988
+  },
+  {
+    "street": "Via Francesco Baracca",
+    "number": "18",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6464673,
+    "longitude": 9.1361122
+  },
+  {
+    "street": "Via San Francesco d'Assisi",
+    "number": "2",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6490402,
+    "longitude": 9.1449513
+  },
+  {
+    "street": "Via Vittorio Alfieri",
+    "number": "2",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6483143,
+    "longitude": 9.1442245
+  },
+  {
+    "street": "Via Adua",
+    "number": "4",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6490139,
+    "longitude": 9.1440955
+  },
+  {
+    "street": "Via Adua",
+    "number": "14",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6479705,
+    "longitude": 9.1435706
+  },
+  {
+    "street": "Via Giovanni Fantoni",
+    "number": "9",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6479899,
+    "longitude": 9.1423565
+  },
+  {
+    "street": "Via Adua",
+    "number": "32",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6473333,
+    "longitude": 9.1431664
+  },
+  {
+    "street": "Via Adua",
+    "number": "28",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6474379,
+    "longitude": 9.1432098
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "9",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6460709,
+    "longitude": 9.1405201
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "5",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.646241,
+    "longitude": 9.1396599
+  },
+  {
+    "street": "Piazza Cardinal Confalonieri",
+    "number": "2",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6461829,
+    "longitude": 9.1391143
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "2a",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6462011,
+    "longitude": 9.1390598
+  },
+  {
+    "street": "Corso Guglielmo Marconi",
+    "number": "19",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6464317,
+    "longitude": 9.1386649
+  },
+  {
+    "street": "Corso Guglielmo Marconi",
+    "number": "5",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6456707,
+    "longitude": 9.138166
+  },
+  {
+    "street": "Corso Guglielmo Marconi",
+    "number": "62",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6478027,
+    "longitude": 9.1397429
+  },
+  {
+    "street": "Piazza Giuseppe Mazzini",
+    "number": "1",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6481711,
+    "longitude": 9.1397356
+  },
+  {
+    "street": "Corso Guglielmo Marconi",
+    "number": "47",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6479061,
+    "longitude": 9.1395113
+  },
+  {
+    "street": "Piazza Giuseppe Mazzini",
+    "number": "11",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6480789,
+    "longitude": 9.1400329
+  },
+  {
+    "street": "Via Federico Zeuner",
+    "number": "5",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6496143,
+    "longitude": 9.1397447
+  },
+  {
+    "street": "Corso Montello",
+    "number": "3",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6504814,
+    "longitude": 9.138455
+  },
+  {
+    "street": "Corso Montello",
+    "number": "3a",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.650311,
+    "longitude": 9.138458
+  },
+  {
+    "street": "Corso Dante Alighieri",
+    "number": "13",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6503173,
+    "longitude": 9.1404742
+  },
+  {
+    "street": "Corso Dante Alighieri",
+    "number": "10",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6502057,
+    "longitude": 9.1407922
+  },
+  {
+    "street": "Corso Dante Alighieri",
+    "number": "12",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6502094,
+    "longitude": 9.1408468
+  },
+  {
+    "street": "Via Federico Borromeo",
+    "number": "2",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6501567,
+    "longitude": 9.1415301
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "45",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6530406,
+    "longitude": 9.1438007
+  },
+  {
+    "street": "Via don Luigi Sturzo",
+    "number": "19",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.637749,
+    "longitude": 9.150191
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "31",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6523487,
+    "longitude": 9.1436794
+  },
+  {
+    "street": "Via Farga",
+    "number": "2",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.650841,
+    "longitude": 9.1412974
+  },
+  {
+    "street": "Piazza Giuseppe Verdi",
+    "number": "5",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6504197,
+    "longitude": 9.1414451
+  },
+  {
+    "street": "Corso Dante Alighieri",
+    "number": "25",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6502837,
+    "longitude": 9.1411943
+  },
+  {
+    "street": "Corso Dante Alighieri",
+    "number": "23",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6502804,
+    "longitude": 9.14107
+  },
+  {
+    "street": "Piazza Giuseppe Verdi",
+    "number": "17",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.650245,
+    "longitude": 9.1414976
+  },
+  {
+    "street": "Via Federico Borromeo",
+    "number": "24",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6501231,
+    "longitude": 9.142954
+  },
+  {
+    "street": "Via Federico Borromeo",
+    "number": "37",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6502252,
+    "longitude": 9.1431715
+  },
+  {
+    "street": "Via Federico Borromeo",
+    "number": "43",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6502423,
+    "longitude": 9.143431
+  },
+  {
+    "street": "Via Goito",
+    "number": "2",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6427352,
+    "longitude": 9.1411992
+  },
+  {
+    "street": "Via San Martino",
+    "number": "38",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6427188,
+    "longitude": 9.140563
+  },
+  {
+    "street": "Via San Martino",
+    "number": "20",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6428594,
+    "longitude": 9.1398174
+  },
+  {
+    "street": "Piazza Leonardo da Vinci",
+    "number": "3",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6432982,
+    "longitude": 9.1391146
+  },
+  {
+    "street": "Piazza Roma",
+    "number": "6",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6432784,
+    "longitude": 9.1364746
+  },
+  {
+    "street": "Corso Giuseppe Garibaldi",
+    "number": "74",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.643636,
+    "longitude": 9.1361421
+  },
+  {
+    "street": "Via Cacciatori delle Alpi",
+    "number": "13",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6425838,
+    "longitude": 9.1304495
+  },
+  {
+    "street": "Corso Isonzo",
+    "number": "9",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.642937,
+    "longitude": 9.1440502
+  },
+  {
+    "street": "Via Salvo D'Acquisto",
+    "number": "7",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6396411,
+    "longitude": 9.1624803
+  },
+  {
+    "street": "Via Salvo D'Acquisto",
+    "number": "14",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6395204,
+    "longitude": 9.1621399
+  },
+  {
+    "street": "Via Achille Grandi",
+    "number": "5",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6407441,
+    "longitude": 9.1624608
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "23",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6442666,
+    "longitude": 9.1416721
+  },
+  {
+    "street": "Via Solferino",
+    "number": "16",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6440617,
+    "longitude": 9.1402607
+  },
+  {
+    "street": "Via Solferino",
+    "number": "8",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6435992,
+    "longitude": 9.1401629
+  },
+  {
+    "street": "Via San Martino",
+    "number": "26",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6428167,
+    "longitude": 9.1400564
+  },
+  {
+    "street": "Via Meredo",
+    "number": "46",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6469056,
+    "longitude": 9.1703188
+  },
+  {
+    "street": "Via Meredo",
+    "number": "26",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6464687,
+    "longitude": 9.17306
+  },
+  {
+    "street": "Via Salvo D'Acquisto",
+    "number": "3",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6398269,
+    "longitude": 9.1623427
+  },
+  {
+    "street": "Via Salvo D'Acquisto",
+    "number": "1",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6399488,
+    "longitude": 9.1623078
+  },
+  {
+    "street": "Corso Isonzo",
+    "number": "170",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6386957,
+    "longitude": 9.1606777
+  },
+  {
+    "street": "Corso Giacomo Matteotti",
+    "number": "6",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6435467,
+    "longitude": 9.1416949
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "9",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6423211,
+    "longitude": 9.1685161
+  },
+  {
+    "street": "Corso Isonzo",
+    "number": "41",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6419018,
+    "longitude": 9.1477802
+  },
+  {
+    "street": "Via Sabotino",
+    "number": "50",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6377485,
+    "longitude": 9.1433249
+  },
+  {
+    "street": "Via Monte Cevedale",
+    "number": "5",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.637801,
+    "longitude": 9.143113
+  },
+  {
+    "street": "Via Sabotino",
+    "number": "54",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6373134,
+    "longitude": 9.1431923
+  },
+  {
+    "street": "Via Cadore",
+    "number": "23",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6372601,
+    "longitude": 9.144712
+  },
+  {
+    "street": "Via Cadore",
+    "number": "17",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6370901,
+    "longitude": 9.1447077
+  },
+  {
+    "street": "Via Cadore",
+    "number": "15",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6373345,
+    "longitude": 9.1452476
+  },
+  {
+    "street": "Via Cadore",
+    "number": "11",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6370439,
+    "longitude": 9.1452208
+  },
+  {
+    "street": "Via Cadore",
+    "number": "13",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6372051,
+    "longitude": 9.1452288
+  },
+  {
+    "street": "Via Cadore",
+    "number": "5",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6371958,
+    "longitude": 9.1455373
+  },
+  {
+    "street": "Via Cadore",
+    "number": "3",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6375221,
+    "longitude": 9.1458055
+  },
+  {
+    "street": "Via Cascina Rossa",
+    "number": "36",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6384654,
+    "longitude": 9.1468408
+  },
+  {
+    "street": "Via Cascina Rossa",
+    "number": "10",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6405039,
+    "longitude": 9.1473853
+  },
+  {
+    "street": "Via Asiago",
+    "number": "19",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6395636,
+    "longitude": 9.1514008
+  },
+  {
+    "street": "Via don Luigi Sturzo",
+    "number": "2",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.637267,
+    "longitude": 9.1473823
+  },
+  {
+    "street": "Via don Luigi Sturzo",
+    "number": "3",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6378479,
+    "longitude": 9.147449
+  },
+  {
+    "street": "Via Trento e Trieste",
+    "number": "5",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6401601,
+    "longitude": 9.1622848
+  },
+  {
+    "street": "Via Europa Unita",
+    "number": "13",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6444707,
+    "longitude": 9.1450544
+  },
+  {
+    "street": "Piazza Venticinque Aprile",
+    "number": "1",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6477051,
+    "longitude": 9.1384165
+  },
+  {
+    "street": "Via San Fermo della Battaglia",
+    "number": "2",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6444771,
+    "longitude": 9.137587
+  },
+  {
+    "street": "Via Vignone",
+    "number": "1",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6391601,
+    "longitude": 9.1763143
+  },
+  {
+    "street": "Via Vignone",
+    "number": "1a",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.639342,
+    "longitude": 9.1763599
+  },
+  {
+    "street": "Via Vignone",
+    "number": "1b",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6392238,
+    "longitude": 9.1760434
+  },
+  {
+    "street": "Via Vignone",
+    "number": "22",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6402721,
+    "longitude": 9.1742838
+  },
+  {
+    "street": "Via Vignone",
+    "number": "23",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.640289,
+    "longitude": 9.1740344
+  },
+  {
+    "street": "Via Vignone",
+    "number": "24",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.640379,
+    "longitude": 9.1737125
+  },
+  {
+    "street": "Via Vignone",
+    "number": "28",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6407785,
+    "longitude": 9.172983
+  },
+  {
+    "street": "Via Vignone",
+    "number": "47",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6409191,
+    "longitude": 9.1737259
+  },
+  {
+    "street": "Via Vignone",
+    "number": "11",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6412874,
+    "longitude": 9.1743716
+  },
+  {
+    "street": "Via Vignone",
+    "number": "13",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6413588,
+    "longitude": 9.1746613
+  },
+  {
+    "street": "Via Vignone",
+    "number": "14",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6406016,
+    "longitude": 9.1756013
+  },
+  {
+    "street": "Via Vignone",
+    "number": "18",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6404964,
+    "longitude": 9.1753301
+  },
+  {
+    "street": "Via Filippo Corridoni",
+    "number": "18",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6464023,
+    "longitude": 9.1404696
+  },
+  {
+    "street": "Via Trento e Trieste",
+    "number": "58",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6393528,
+    "longitude": 9.1652521
+  },
+  {
+    "street": "Via Meredo",
+    "number": "44",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.646385,
+    "longitude": 9.1734694
+  },
+  {
+    "street": "Via Attilio Confalonieri",
+    "number": "25",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6380905,
+    "longitude": 9.1416009
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "23",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6398516,
+    "longitude": 9.1420122
+  },
+  {
+    "street": "Piazza Giuseppe Verdi",
+    "number": "2",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6504752,
+    "longitude": 9.141241
+  },
+  {
+    "street": "Corso Dante Alighieri",
+    "number": "14",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6501616,
+    "longitude": 9.1414121
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "20",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6458555,
+    "longitude": 9.1404665
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "12",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6461239,
+    "longitude": 9.1403211
+  },
+  {
+    "street": "Via Montecassino",
+    "number": "35",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6382384,
+    "longitude": 9.1670237
+  },
+  {
+    "street": "Via Montecassino",
+    "number": "32",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6380828,
+    "longitude": 9.1669995
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "5",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6457564,
+    "longitude": 9.1438316
+  },
+  {
+    "street": "Via Trento e Trieste",
+    "number": "36",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6395075,
+    "longitude": 9.1642887
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "59",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6385731,
+    "longitude": 9.1751015
+  },
+  {
+    "street": "Via Trento e Trieste",
+    "number": "20",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6397088,
+    "longitude": 9.1634293
+  },
+  {
+    "street": "Via Trento e Trieste",
+    "number": "28",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6395836,
+    "longitude": 9.1639838
+  },
+  {
+    "street": "Via Federico Borromeo",
+    "number": "40",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6501456,
+    "longitude": 9.1435519
+  },
+  {
+    "street": "Via Raffaello Sanzio",
+    "number": "36",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.650124,
+    "longitude": 9.1412749
+  },
+  {
+    "street": "Via Raffaello Sanzio",
+    "number": "12",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6473807,
+    "longitude": 9.1411638
+  },
+  {
+    "street": "Via Trento e Trieste",
+    "number": "66",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6393533,
+    "longitude": 9.1654794
+  },
+  {
+    "street": "Via Giorgio Ambrosoli",
+    "number": "19",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6437255,
+    "longitude": 9.1623543
+  },
+  {
+    "street": "Via Giorgio Ambrosoli",
+    "number": "17",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6439143,
+    "longitude": 9.1624797
+  },
+  {
+    "street": "Via Giorgio Ambrosoli",
+    "number": "15",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6443949,
+    "longitude": 9.1626245
+  },
+  {
+    "street": "Via Cadore",
+    "number": "12",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6379681,
+    "longitude": 9.1451391
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "1",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6412917,
+    "longitude": 9.1413079
+  },
+  {
+    "street": "Via Preposto Mezzera",
+    "number": "16",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6423474,
+    "longitude": 9.1389422
+  },
+  {
+    "street": "Via Attilio Confalonieri",
+    "number": "38",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.64123,
+    "longitude": 9.1413687
+  },
+  {
+    "street": "Corso Isonzo",
+    "number": "121 bis",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6403096,
+    "longitude": 9.1554183
+  },
+  {
+    "street": "Piazza Giuseppe Mazzini",
+    "number": "3",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6482801,
+    "longitude": 9.1397915
+  },
+  {
+    "street": "Via Augusto Maderna",
+    "number": "34 bis",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6515601,
+    "longitude": 9.1430062
+  },
+  {
+    "street": "Corso Guglielmo Marconi",
+    "number": "64",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6480302,
+    "longitude": 9.1399185
+  },
+  {
+    "street": "Piazza Giuseppe Verdi",
+    "number": "4",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6507107,
+    "longitude": 9.1413856
+  },
+  {
+    "street": "Piazza Giuseppe Verdi",
+    "number": "20",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6501918,
+    "longitude": 9.1412936
+  },
+  {
+    "street": "Corso Guglielmo Marconi",
+    "number": "49",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6480266,
+    "longitude": 9.1396426
+  },
+  {
+    "street": "Corso Guglielmo Marconi",
+    "number": "52/54",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6476272,
+    "longitude": 9.1396453
+  },
+  {
+    "street": "Corso Dante Alighieri",
+    "number": "4",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6501877,
+    "longitude": 9.1406579
+  },
+  {
+    "street": "Corso Dante Alighieri",
+    "number": "16",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.650166,
+    "longitude": 9.1410852
+  },
+  {
+    "street": "Piazza Giuseppe Verdi",
+    "number": "7",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6507705,
+    "longitude": 9.1413644
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "13",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6383399,
+    "longitude": 9.1699362
+  },
+  {
+    "street": "Via Adua",
+    "number": "27",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6478521,
+    "longitude": 9.1437967
+  },
+  {
+    "street": "Via Adua",
+    "number": "23",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6479015,
+    "longitude": 9.1438235
+  },
+  {
+    "street": "Via Adua",
+    "number": "21",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6479546,
+    "longitude": 9.1438509
+  },
+  {
+    "street": "Corso Isonzo",
+    "number": "17",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6425731,
+    "longitude": 9.1445137
+  },
+  {
+    "street": "Via Attilio Confalonieri",
+    "number": "28",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6416573,
+    "longitude": 9.141338
+  },
+  {
+    "street": "Corso Isonzo",
+    "number": "27",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6421414,
+    "longitude": 9.146163
+  },
+  {
+    "street": "Corso Isonzo",
+    "number": "21",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6422446,
+    "longitude": 9.1455242
+  },
+  {
+    "street": "Via Luigi Maderna",
+    "number": "4",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6476725,
+    "longitude": 9.141986
+  },
+  {
+    "street": "Via Vignazzola",
+    "number": "20/22",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6506677,
+    "longitude": 9.1503372
+  },
+  {
+    "street": "Via Preposto Mezzera",
+    "number": "50d",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6403169,
+    "longitude": 9.1393033
+  },
+  {
+    "street": "Corso Giuseppe Garibaldi",
+    "number": "13",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6430119,
+    "longitude": 9.1361846
+  },
+  {
+    "street": "Via Sabotino",
+    "number": "58",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.637037,
+    "longitude": 9.1430595
+  },
+  {
+    "street": "Via Montecassino",
+    "number": "9",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.638806,
+    "longitude": 9.1616724
+  },
+  {
+    "street": "Via Montecassino",
+    "number": "3",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6388499,
+    "longitude": 9.1614173
+  },
+  {
+    "street": "Via Giosuè Carducci",
+    "number": "16",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6499431,
+    "longitude": 9.1480465
+  },
+  {
+    "street": "Via Gabriele d'Annunzio",
+    "number": "2",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6486148,
+    "longitude": 9.148066
+  },
+  {
+    "street": "Via Zara",
+    "number": "32",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6410176,
+    "longitude": 9.1586854
+  },
+  {
+    "street": "Corso Giuseppe Garibaldi",
+    "number": "72",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6430922,
+    "longitude": 9.1364282
+  },
+  {
+    "street": "Corso Giuseppe Garibaldi",
+    "number": "89",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6491703,
+    "longitude": 9.1328005
+  },
+  {
+    "street": "Corso Giuseppe Garibaldi",
+    "number": "87",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6494627,
+    "longitude": 9.1329896
+  },
+  {
+    "street": "Via Attilio Confalonieri",
+    "number": "17",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6393592,
+    "longitude": 9.1415668
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "40",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6411865,
+    "longitude": 9.1712912
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "38",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6412983,
+    "longitude": 9.1708289
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "34",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6413829,
+    "longitude": 9.1704066
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "28",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6415797,
+    "longitude": 9.1694091
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "24",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.641686,
+    "longitude": 9.1688955
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "6",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6461332,
+    "longitude": 9.1397055
+  },
+  {
+    "street": "Corso Guglielmo Marconi",
+    "number": "41",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6477591,
+    "longitude": 9.1395166
+  },
+  {
+    "street": "Via Vignazzola",
+    "number": "155",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.647823,
+    "longitude": 9.1681002
+  },
+  {
+    "street": "Corso Guglielmo Marconi",
+    "number": "40",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6473538,
+    "longitude": 9.1394506
+  },
+  {
+    "street": "Via Nicolò Tommaseo",
+    "number": "22",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.646591,
+    "longitude": 9.1398181
+  },
+  {
+    "street": "Corso Guglielmo Marconi",
+    "number": "30",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6470155,
+    "longitude": 9.1392449
+  },
+  {
+    "street": "Via Sabotino",
+    "number": "66",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6367256,
+    "longitude": 9.142931
+  },
+  {
+    "street": "Via Emilio Longoni",
+    "number": "10",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6470877,
+    "longitude": 9.1412572
+  },
+  {
+    "street": "Via Trento e Trieste",
+    "number": "53",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6393784,
+    "longitude": 9.1657755
+  },
+  {
+    "street": "Via Trento e Trieste",
+    "number": "68",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6392733,
+    "longitude": 9.1658528
+  },
+  {
+    "street": "Via Martiri d'Ungheria",
+    "number": "30",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.651633,
+    "longitude": 9.1349718
+  },
+  {
+    "street": "Largo Volontari del sangue",
+    "number": "2",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6515673,
+    "longitude": 9.1354478
+  },
+  {
+    "street": "Via Brennero",
+    "number": "17f",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6525359,
+    "longitude": 9.1380704
+  },
+  {
+    "street": "Via Brennero",
+    "number": "17e",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.652565,
+    "longitude": 9.1377788
+  },
+  {
+    "street": "Via Sprelunga",
+    "number": "10",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6493814,
+    "longitude": 9.1310133
+  },
+  {
+    "street": "Largo Volontari del sangue",
+    "number": "1",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6515653,
+    "longitude": 9.1350216
+  },
+  {
+    "street": "Via Antonio Monti",
+    "number": "15",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.644905,
+    "longitude": 9.1388517
+  },
+  {
+    "street": "Via Stelvio",
+    "number": "6",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6516851,
+    "longitude": 9.1391403
+  },
+  {
+    "street": "Via Sprelunga",
+    "number": "8",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6506833,
+    "longitude": 9.1305197
+  },
+  {
+    "street": "Via Antonio Monti",
+    "number": "13",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6446039,
+    "longitude": 9.1385857
+  },
+  {
+    "street": "Via Antonio Monti",
+    "number": "13a",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6446006,
+    "longitude": 9.1386018
+  },
+  {
+    "street": "Via Sprelunga",
+    "number": "1",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6493951,
+    "longitude": 9.1324857
+  },
+  {
+    "street": "Corso Montello",
+    "number": "34",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6514091,
+    "longitude": 9.1370176
+  },
+  {
+    "street": "Corso Montello",
+    "number": "22",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.651112,
+    "longitude": 9.1378438
+  },
+  {
+    "street": "Via Trento e Trieste",
+    "number": "3",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6402347,
+    "longitude": 9.1620033
+  },
+  {
+    "street": "Via della Roggia",
+    "number": "3",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.640305,
+    "longitude": 9.1620138
+  },
+  {
+    "street": "Via Federico Borromeo",
+    "number": "34",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6501489,
+    "longitude": 9.1432368
+  },
+  {
+    "street": "Via Federico Borromeo",
+    "number": "28",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.650145,
+    "longitude": 9.1431235
+  },
+  {
+    "street": "Corso Isonzo",
+    "number": "112",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6397064,
+    "longitude": 9.1561076
+  },
+  {
+    "street": "Corso Isonzo",
+    "number": "173",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.639465,
+    "longitude": 9.1602664
+  },
+  {
+    "street": "Corso Isonzo",
+    "number": "146",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6391842,
+    "longitude": 9.1570071
+  },
+  {
+    "street": "Corso Isonzo",
+    "number": "115",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6403975,
+    "longitude": 9.154929
+  },
+  {
+    "street": "Corso Giuseppe Garibaldi",
+    "number": "3",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6413124,
+    "longitude": 9.1367315
+  },
+  {
+    "street": "Corso Giuseppe Garibaldi",
+    "number": "70",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6430245,
+    "longitude": 9.1364344
+  },
+  {
+    "street": "Corso Giuseppe Garibaldi",
+    "number": "30",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6396892,
+    "longitude": 9.1378895
+  },
+  {
+    "street": "Corso Giuseppe Garibaldi",
+    "number": "40",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6414631,
+    "longitude": 9.1374044
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "23/25",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6389463,
+    "longitude": 9.1420249
+  },
+  {
+    "street": "Corso Giuseppe Garibaldi",
+    "number": "2",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.636698,
+    "longitude": 9.1385027
+  },
+  {
+    "street": "Corso Giuseppe Garibaldi",
+    "number": "25",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6437661,
+    "longitude": 9.13582
+  },
+  {
+    "street": "Corso Giuseppe Garibaldi",
+    "number": "65",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6452108,
+    "longitude": 9.1355736
+  },
+  {
+    "street": "Corso Giuseppe Garibaldi",
+    "number": "58/60",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6425043,
+    "longitude": 9.1365866
+  },
+  {
+    "street": "Corso Giuseppe Garibaldi",
+    "number": "29",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6438778,
+    "longitude": 9.1357958
+  },
+  {
+    "street": "Piazza del Seminario",
+    "number": "6",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6496373,
+    "longitude": 9.1439727
+  },
+  {
+    "street": "Via Federico Borromeo",
+    "number": "17",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6502215,
+    "longitude": 9.1422469
+  },
+  {
+    "street": "Via Umbria",
+    "number": "2",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6468361,
+    "longitude": 9.1283901
+  },
+  {
+    "street": "Vicolo Felice Giani",
+    "number": "19",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6444696,
+    "longitude": 9.138341
+  },
+  {
+    "street": "Via Antonio Rosmini",
+    "number": "41",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6450465,
+    "longitude": 9.1648067
+  },
+  {
+    "street": "Via Raffaello Sanzio",
+    "number": "9",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6498067,
+    "longitude": 9.1409283
+  },
+  {
+    "street": "Corso Isonzo",
+    "number": "43",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6417945,
+    "longitude": 9.1482392
+  },
+  {
+    "street": "Corso Isonzo",
+    "number": "47",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.642102,
+    "longitude": 9.1487863
+  },
+  {
+    "street": "Piazza Quattro Novembre",
+    "number": "2",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6449057,
+    "longitude": 9.1439688
+  },
+  {
+    "street": "Via Adua",
+    "number": "44",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6461276,
+    "longitude": 9.1425117
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "20",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6381534,
+    "longitude": 9.1698386
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "20a",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6381571,
+    "longitude": 9.1700355
+  },
+  {
+    "street": "Via San Martino",
+    "number": "13",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6430314,
+    "longitude": 9.1395354
+  },
+  {
+    "street": "Via Giovanni Fantoni",
+    "number": "4c",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6480789,
+    "longitude": 9.1427764
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "16b",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6380415,
+    "longitude": 9.1694954
+  },
+  {
+    "street": "Via San Martino",
+    "number": "21",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6429764,
+    "longitude": 9.1398301
+  },
+  {
+    "street": "Via Attilio Confalonieri",
+    "number": "4",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6425344,
+    "longitude": 9.1414603
+  },
+  {
+    "street": "Via Tonale",
+    "number": "35",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6406034,
+    "longitude": 9.1513367
+  },
+  {
+    "street": "Via Giovanni Fantoni",
+    "number": "4",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6480418,
+    "longitude": 9.1429357
+  },
+  {
+    "street": "Via Europa Unita",
+    "number": "7",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6429319,
+    "longitude": 9.1446434
+  },
+  {
+    "street": "Corso Guglielmo Marconi",
+    "number": "51",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6480981,
+    "longitude": 9.139683
+  },
+  {
+    "street": "Via Montecassino",
+    "number": "12",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6384824,
+    "longitude": 9.1622589
+  },
+  {
+    "street": "Via Attilio Confalonieri",
+    "number": "32",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6414408,
+    "longitude": 9.141354
+  },
+  {
+    "street": "Via Bartolomeo Colleoni",
+    "number": "2",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.64304,
+    "longitude": 9.1671954
+  },
+  {
+    "street": "Via Prealpi",
+    "number": "42",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.644855,
+    "longitude": 9.1671799
+  },
+  {
+    "street": "Via San Carlo",
+    "number": "43",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.65292,
+    "longitude": 9.1437775
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "25",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6399715,
+    "longitude": 9.1419638
+  },
+  {
+    "street": "Via Trento e Trieste",
+    "number": "25",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6396405,
+    "longitude": 9.1643279
+  },
+  {
+    "street": "Via Vignazzola",
+    "number": "136b",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.647776,
+    "longitude": 9.1638564
+  },
+  {
+    "street": "Via Vignazzola",
+    "number": "140",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6478906,
+    "longitude": 9.1656393
+  },
+  {
+    "street": "Via Nicolò Tommaseo",
+    "number": "18",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6464545,
+    "longitude": 9.1397346
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "30",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6415743,
+    "longitude": 9.1694396
+  },
+  {
+    "street": "Piazza Leonardo da Vinci",
+    "number": "7",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6431202,
+    "longitude": 9.1390965
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "2",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6462428,
+    "longitude": 9.1394092
+  },
+  {
+    "street": "Corso Guglielmo Marconi",
+    "number": "28",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6469017,
+    "longitude": 9.1391969
+  },
+  {
+    "street": "Via Vignone",
+    "number": "43/44",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6407602,
+    "longitude": 9.1759249
+  },
+  {
+    "street": "Via Vignone",
+    "number": "39",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6410699,
+    "longitude": 9.1750957
+  },
+  {
+    "street": "Via Vignone",
+    "number": "48",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6407943,
+    "longitude": 9.1744045
+  },
+  {
+    "street": "Via Vignone",
+    "number": "41",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6411659,
+    "longitude": 9.1758209
+  },
+  {
+    "street": "Via Vignone",
+    "number": "7",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6395286,
+    "longitude": 9.1754528
+  },
+  {
+    "street": "Via Vignone",
+    "number": "20",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6404198,
+    "longitude": 9.1747432
+  },
+  {
+    "street": "Via Vignone",
+    "number": "17",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.639696,
+    "longitude": 9.1758816
+  },
+  {
+    "street": "Corso Isonzo",
+    "number": "90",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6400383,
+    "longitude": 9.153078
+  },
+  {
+    "street": "Via Redipuglia",
+    "number": "50",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.642993,
+    "longitude": 9.1488983
+  },
+  {
+    "street": "Via Vignazzola",
+    "number": "136c",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6474199,
+    "longitude": 9.1638538
+  },
+  {
+    "street": "Via della Cavalla",
+    "number": "81",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6471229,
+    "longitude": 9.165133
+  },
+  {
+    "street": "Via della Cavalla",
+    "number": "87",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6472646,
+    "longitude": 9.1645215
+  },
+  {
+    "street": "Via Vignazzola",
+    "number": "136/138",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6480315,
+    "longitude": 9.164461
+  },
+  {
+    "street": "Via della Cavalla",
+    "number": "85",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6476149,
+    "longitude": 9.1647662
+  },
+  {
+    "street": "Via della Cavalla",
+    "number": "83",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6472026,
+    "longitude": 9.1648689
+  },
+  {
+    "street": "Via Sprelunga",
+    "number": "55",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6479083,
+    "longitude": 9.127834
+  },
+  {
+    "street": "Corso Giuseppe Garibaldi",
+    "number": "21/23",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6435786,
+    "longitude": 9.1358762
+  },
+  {
+    "street": "Via Bartolomeo Colleoni",
+    "number": "4",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.643348,
+    "longitude": 9.1675532
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "11",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6426287,
+    "longitude": 9.1686325
+  },
+  {
+    "street": "Via Groane",
+    "number": "10",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6434912,
+    "longitude": 9.1286385
+  },
+  {
+    "street": "Via Vignazzola",
+    "number": "110",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6488399,
+    "longitude": 9.161741
+  },
+  {
+    "street": "Via Generoso Galimberti",
+    "number": "16",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.646105,
+    "longitude": 9.1367134
+  },
+  {
+    "street": "Via Marsala",
+    "number": "7",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6475902,
+    "longitude": 9.1332034
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "20",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6443127,
+    "longitude": 9.1316307
+  },
+  {
+    "street": "Via Eritrea",
+    "number": "30",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6469197,
+    "longitude": 9.1495697
+  },
+  {
+    "street": "Via Montecassino",
+    "number": "18",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6375394,
+    "longitude": 9.164136
+  },
+  {
+    "street": "Corso Isonzo",
+    "number": "2",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6420567,
+    "longitude": 9.1419553
+  },
+  {
+    "street": "Corso Guglielmo Marconi",
+    "number": "35",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6474633,
+    "longitude": 9.1391266
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "7",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6386972,
+    "longitude": 9.1687518
+  },
+  {
+    "street": "Via Socrate",
+    "number": "23",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6458477,
+    "longitude": 9.1600452
+  },
+  {
+    "street": "Via Monte Bianco",
+    "number": "1",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6441043,
+    "longitude": 9.1297451
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "15",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6433554,
+    "longitude": 9.1309987
+  },
+  {
+    "street": "Corso Isonzo",
+    "number": "106",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6399208,
+    "longitude": 9.155308
+  },
+  {
+    "street": "Via Adua",
+    "number": "41/43",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6460511,
+    "longitude": 9.1431422
+  },
+  {
+    "street": "Via Sabotino",
+    "number": "75",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6375888,
+    "longitude": 9.1439764
+  },
+  {
+    "street": "Via Cascina Rossa",
+    "number": "65",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6386244,
+    "longitude": 9.147695
+  },
+  {
+    "street": "Via Guido Miglioli",
+    "number": "21",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6381666,
+    "longitude": 9.1525542
+  },
+  {
+    "street": "Via don Luigi Sturzo",
+    "number": "11",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6378332,
+    "longitude": 9.149565
+  },
+  {
+    "street": "Via Cadore",
+    "number": "2",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6378309,
+    "longitude": 9.1464611
+  },
+  {
+    "street": "Via Asiago",
+    "number": "16",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6398125,
+    "longitude": 9.1496296
+  },
+  {
+    "street": "Via Guido Miglioli",
+    "number": "17",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6389271,
+    "longitude": 9.1517608
+  },
+  {
+    "street": "Via Guido Miglioli",
+    "number": "12",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6382845,
+    "longitude": 9.1500507
+  },
+  {
+    "street": "Via Vignone",
+    "number": "1c",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6388732,
+    "longitude": 9.1751034
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "43",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6377127,
+    "longitude": 9.1424616
+  },
+  {
+    "street": "Via Sabotino",
+    "number": "52",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.637938,
+    "longitude": 9.1440214
+  },
+  {
+    "street": "Via della Repubblica",
+    "number": "41",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6382691,
+    "longitude": 9.1424721
+  },
+  {
+    "street": "Corso Isonzo",
+    "number": "7",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6428315,
+    "longitude": 9.1437249
+  },
+  {
+    "street": "Piazza Italia",
+    "number": "9",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6398859,
+    "longitude": 9.1635316
+  },
+  {
+    "street": "Corso Giuseppe Garibaldi",
+    "number": "7",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6427293,
+    "longitude": 9.1361969
+  },
+  {
+    "street": "Via Ada Negri",
+    "number": "3",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.649916,
+    "longitude": 9.149043
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "32",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6453349,
+    "longitude": 9.1413244
+  },
+  {
+    "street": "Via Ruggero Leoncavallo",
+    "number": "8",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6555225,
+    "longitude": 9.1404635
+  },
+  {
+    "street": "Via Giovanni Fantoni",
+    "number": "8",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6490573,
+    "longitude": 9.1419418
+  },
+  {
+    "street": "Via Contardo Ferrini",
+    "number": "24",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6381925,
+    "longitude": 9.1541768
+  },
+  {
+    "street": "Corso Isonzo",
+    "number": "15",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6429237,
+    "longitude": 9.1446227
+  },
+  {
+    "street": "Via Preposto Mezzera",
+    "number": "29",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6404939,
+    "longitude": 9.1397097
+  },
+  {
+    "street": "Corso Giuseppe Garibaldi",
+    "number": "5",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6422722,
+    "longitude": 9.1363491
+  },
+  {
+    "street": "Via Borghetto",
+    "number": "7",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.638638,
+    "longitude": 9.1674539
+  },
+  {
+    "street": "Via Brennero",
+    "number": "17c",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6525106,
+    "longitude": 9.1387703
+  },
+  {
+    "street": "Via Trento e Trieste",
+    "number": "39",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.639757,
+    "longitude": 9.164861
+  },
+  {
+    "street": "Via della Cavalla",
+    "number": "22",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6426605,
+    "longitude": 9.165231
+  },
+  {
+    "street": "Via della Cavalla",
+    "number": "42",
+    "city": {
+      "name": "Seveso",
+      "istat": "108040"
+    },
+    "latitude": 45.6456388,
+    "longitude": 9.165931
+  }
+]

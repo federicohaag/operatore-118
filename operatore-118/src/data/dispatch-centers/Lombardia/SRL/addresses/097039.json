@@ -1,0 +1,52 @@
+[
+  {
+    "street": "Via Resegone",
+    "number": "2",
+    "city": {
+      "name": "Imbersago",
+      "istat": "097039"
+    },
+    "latitude": 45.7062747,
+    "longitude": 9.4499955
+  },
+  {
+    "street": "Via Brianza",
+    "number": "21",
+    "city": {
+      "name": "Imbersago",
+      "istat": "097039"
+    },
+    "latitude": 45.7108364,
+    "longitude": 9.4397687
+  },
+  {
+    "street": "Via Adda",
+    "number": "31",
+    "city": {
+      "name": "Imbersago",
+      "istat": "097039"
+    },
+    "latitude": 45.7074109,
+    "longitude": 9.4561679
+  },
+  {
+    "street": "Via Michelangelo Buonarroti",
+    "number": "1",
+    "city": {
+      "name": "Imbersago",
+      "istat": "097039"
+    },
+    "latitude": 45.7066649,
+    "longitude": 9.451877
+  },
+  {
+    "street": "Via dei Ronchi",
+    "number": "16",
+    "city": {
+      "name": "Imbersago",
+      "istat": "097039"
+    },
+    "latitude": 45.7070617,
+    "longitude": 9.4405035
+  }
+]

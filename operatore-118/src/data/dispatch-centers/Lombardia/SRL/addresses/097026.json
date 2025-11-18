@@ -1,0 +1,142 @@
+[
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "1",
+    "city": {
+      "name": "Costa Masnaga",
+      "istat": "097026"
+    },
+    "latitude": 45.7686147,
+    "longitude": 9.277266
+  },
+  {
+    "street": "Via Luigi Cadorna",
+    "number": "9",
+    "city": {
+      "name": "Costa Masnaga",
+      "istat": "097026"
+    },
+    "latitude": 45.7647242,
+    "longitude": 9.2854568
+  },
+  {
+    "street": "Via Paradiso",
+    "number": "20",
+    "city": {
+      "name": "Costa Masnaga",
+      "istat": "097026"
+    },
+    "latitude": 45.758901,
+    "longitude": 9.280422
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "6",
+    "city": {
+      "name": "Costa Masnaga",
+      "istat": "097026"
+    },
+    "latitude": 45.7683684,
+    "longitude": 9.277326
+  },
+  {
+    "street": "Via Giuseppe Parini",
+    "number": "1",
+    "city": {
+      "name": "Costa Masnaga",
+      "istat": "097026"
+    },
+    "latitude": 45.7676532,
+    "longitude": 9.2820764
+  },
+  {
+    "street": "Piazzale Assunta",
+    "number": "5",
+    "city": {
+      "name": "Costa Masnaga",
+      "istat": "097026"
+    },
+    "latitude": 45.7674931,
+    "longitude": 9.2802181
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "18",
+    "city": {
+      "name": "Costa Masnaga",
+      "istat": "097026"
+    },
+    "latitude": 45.7681071,
+    "longitude": 9.2776192
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "14",
+    "city": {
+      "name": "Costa Masnaga",
+      "istat": "097026"
+    },
+    "latitude": 45.768275,
+    "longitude": 9.277388
+  },
+  {
+    "street": "Piazza Giuseppe Colombo",
+    "number": "20/22",
+    "city": {
+      "name": "Costa Masnaga",
+      "istat": "097026"
+    },
+    "latitude": 45.7683995,
+    "longitude": 9.2768271
+  },
+  {
+    "street": "Via Camisasca",
+    "number": "35",
+    "city": {
+      "name": "Costa Masnaga",
+      "istat": "097026"
+    },
+    "latitude": 45.7646874,
+    "longitude": 9.2516319
+  },
+  {
+    "street": "Via Camisasca",
+    "number": "37",
+    "city": {
+      "name": "Costa Masnaga",
+      "istat": "097026"
+    },
+    "latitude": 45.7648619,
+    "longitude": 9.2514684
+  },
+  {
+    "street": "Via Sant'Ambrogio",
+    "number": "14",
+    "city": {
+      "name": "Costa Masnaga",
+      "istat": "097026"
+    },
+    "latitude": 45.7706793,
+    "longitude": 9.2516743
+  },
+  {
+    "street": "Via Camisasca",
+    "number": "37A",
+    "city": {
+      "name": "Costa Masnaga",
+      "istat": "097026"
+    },
+    "latitude": 45.7649097,
+    "longitude": 9.2513481
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "3",
+    "city": {
+      "name": "Costa Masnaga",
+      "istat": "097026"
+    },
+    "latitude": 45.7654911,
+    "longitude": 9.2771459
+  }
+]

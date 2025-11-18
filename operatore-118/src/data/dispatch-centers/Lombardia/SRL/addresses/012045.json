@@ -1,0 +1,222 @@
+[
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "21",
+    "city": {
+      "name": "Castelveccana",
+      "istat": "012045"
+    },
+    "latitude": 45.9526611,
+    "longitude": 8.6736005
+  },
+  {
+    "street": "Piazza Lago",
+    "number": "1",
+    "city": {
+      "name": "Castelveccana",
+      "istat": "012045"
+    },
+    "latitude": 45.9467633,
+    "longitude": 8.661473
+  },
+  {
+    "street": "Via Monfalcone",
+    "number": "15",
+    "city": {
+      "name": "Castelveccana",
+      "istat": "012045"
+    },
+    "latitude": 45.9469533,
+    "longitude": 8.6612815
+  },
+  {
+    "street": "Piazza Lago",
+    "number": "3",
+    "city": {
+      "name": "Castelveccana",
+      "istat": "012045"
+    },
+    "latitude": 45.9464313,
+    "longitude": 8.661542
+  },
+  {
+    "street": "Via Monfalcone",
+    "number": "7",
+    "city": {
+      "name": "Castelveccana",
+      "istat": "012045"
+    },
+    "latitude": 45.9469887,
+    "longitude": 8.6619447
+  },
+  {
+    "street": "Via Zampori Fratelli",
+    "number": "38",
+    "city": {
+      "name": "Castelveccana",
+      "istat": "012045"
+    },
+    "latitude": 45.9517082,
+    "longitude": 8.6711181
+  },
+  {
+    "street": "Via Luigi e Franco Zampori",
+    "number": "28",
+    "city": {
+      "name": "Castelveccana",
+      "istat": "012045"
+    },
+    "latitude": 45.9529903,
+    "longitude": 8.6715006
+  },
+  {
+    "street": "Via Capitano Barassi",
+    "number": "2",
+    "city": {
+      "name": "Castelveccana",
+      "istat": "012045"
+    },
+    "latitude": 45.9547102,
+    "longitude": 8.670186
+  },
+  {
+    "street": "Via alla Fermata",
+    "number": "7",
+    "city": {
+      "name": "Castelveccana",
+      "istat": "012045"
+    },
+    "latitude": 45.9475184,
+    "longitude": 8.6653483
+  },
+  {
+    "street": "Via alla Fermata",
+    "number": "5",
+    "city": {
+      "name": "Castelveccana",
+      "istat": "012045"
+    },
+    "latitude": 45.9478325,
+    "longitude": 8.6656652
+  },
+  {
+    "street": "Via alla Fermata",
+    "number": "4",
+    "city": {
+      "name": "Castelveccana",
+      "istat": "012045"
+    },
+    "latitude": 45.9478471,
+    "longitude": 8.6655526
+  },
+  {
+    "street": "Via Europa",
+    "number": "83",
+    "city": {
+      "name": "Castelveccana",
+      "istat": "012045"
+    },
+    "latitude": 45.9399209,
+    "longitude": 8.6573918
+  },
+  {
+    "street": "Località Sant'Antonio",
+    "number": "15",
+    "city": {
+      "name": "Castelveccana",
+      "istat": "012045"
+    },
+    "latitude": 45.9331,
+    "longitude": 8.6972909
+  },
+  {
+    "street": "Località Sant'Antonio",
+    "number": "10",
+    "city": {
+      "name": "Castelveccana",
+      "istat": "012045"
+    },
+    "latitude": 45.931799,
+    "longitude": 8.6976906
+  },
+  {
+    "street": "Località Sant'Antonio",
+    "number": "8",
+    "city": {
+      "name": "Castelveccana",
+      "istat": "012045"
+    },
+    "latitude": 45.9315157,
+    "longitude": 8.6955131
+  },
+  {
+    "street": "Località Sant'Antonio",
+    "number": "2",
+    "city": {
+      "name": "Castelveccana",
+      "istat": "012045"
+    },
+    "latitude": 45.9318174,
+    "longitude": 8.6916784
+  },
+  {
+    "street": "Località Sant'Antonio",
+    "number": "6",
+    "city": {
+      "name": "Castelveccana",
+      "istat": "012045"
+    },
+    "latitude": 45.9302606,
+    "longitude": 8.6946292
+  },
+  {
+    "street": "Località Sant'Antonio",
+    "number": "1",
+    "city": {
+      "name": "Castelveccana",
+      "istat": "012045"
+    },
+    "latitude": 45.9324463,
+    "longitude": 8.6923662
+  },
+  {
+    "street": "Piazza Lago",
+    "number": "2",
+    "city": {
+      "name": "Castelveccana",
+      "istat": "012045"
+    },
+    "latitude": 45.9470601,
+    "longitude": 8.6606054
+  },
+  {
+    "street": "Via Europa",
+    "number": "3",
+    "city": {
+      "name": "Castelveccana",
+      "istat": "012045"
+    },
+    "latitude": 45.9462448,
+    "longitude": 8.6653566
+  },
+  {
+    "street": "Via Martiri Zampori",
+    "number": "8",
+    "city": {
+      "name": "Castelveccana",
+      "istat": "012045"
+    },
+    "latitude": 45.9539295,
+    "longitude": 8.6708115
+  },
+  {
+    "street": "Via per Nasca",
+    "number": "5",
+    "city": {
+      "name": "Castelveccana",
+      "istat": "012045"
+    },
+    "latitude": 45.9525287,
+    "longitude": 8.6781857
+  }
+]

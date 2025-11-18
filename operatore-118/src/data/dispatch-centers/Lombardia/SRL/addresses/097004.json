@@ -1,0 +1,322 @@
+[
+  {
+    "street": "Piazzetta Guglielmo Marconi",
+    "number": "5",
+    "city": {
+      "name": "Ballabio",
+      "istat": "097004"
+    },
+    "latitude": 45.9015862,
+    "longitude": 9.4218376
+  },
+  {
+    "street": "Via Aurelio Saffi",
+    "number": "11",
+    "city": {
+      "name": "Ballabio",
+      "istat": "097004"
+    },
+    "latitude": 45.9015901,
+    "longitude": 9.4218796
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "105",
+    "city": {
+      "name": "Ballabio",
+      "istat": "097004"
+    },
+    "latitude": 45.920766,
+    "longitude": 9.4387399
+  },
+  {
+    "street": "Via Corno del Nibbio",
+    "number": "5,7",
+    "city": {
+      "name": "Ballabio",
+      "istat": "097004"
+    },
+    "latitude": 45.9069299,
+    "longitude": 9.3989374
+  },
+  {
+    "street": "Piazzetta dell'Era",
+    "number": "2",
+    "city": {
+      "name": "Ballabio",
+      "istat": "097004"
+    },
+    "latitude": 45.9016125,
+    "longitude": 9.4215065
+  },
+  {
+    "street": "Piazzetta dell'Era",
+    "number": "3",
+    "city": {
+      "name": "Ballabio",
+      "istat": "097004"
+    },
+    "latitude": 45.9016878,
+    "longitude": 9.4215407
+  },
+  {
+    "street": "Via Prato Caminaccio",
+    "number": "1",
+    "city": {
+      "name": "Ballabio",
+      "istat": "097004"
+    },
+    "latitude": 45.9207414,
+    "longitude": 9.4380368
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "144",
+    "city": {
+      "name": "Ballabio",
+      "istat": "097004"
+    },
+    "latitude": 45.9156127,
+    "longitude": 9.4345418
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "138",
+    "city": {
+      "name": "Ballabio",
+      "istat": "097004"
+    },
+    "latitude": 45.9091044,
+    "longitude": 9.4307827
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "111",
+    "city": {
+      "name": "Ballabio",
+      "istat": "097004"
+    },
+    "latitude": 45.9215044,
+    "longitude": 9.4389022
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "83/a",
+    "city": {
+      "name": "Ballabio",
+      "istat": "097004"
+    },
+    "latitude": 45.9052964,
+    "longitude": 9.4286363
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "128",
+    "city": {
+      "name": "Ballabio",
+      "istat": "097004"
+    },
+    "latitude": 45.9066245,
+    "longitude": 9.4299346
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "69",
+    "city": {
+      "name": "Ballabio",
+      "istat": "097004"
+    },
+    "latitude": 45.9019895,
+    "longitude": 9.4268648
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "89",
+    "city": {
+      "name": "Ballabio",
+      "istat": "097004"
+    },
+    "latitude": 45.9059441,
+    "longitude": 9.4289963
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "130",
+    "city": {
+      "name": "Ballabio",
+      "istat": "097004"
+    },
+    "latitude": 45.9062174,
+    "longitude": 9.4302506
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "4",
+    "city": {
+      "name": "Ballabio",
+      "istat": "097004"
+    },
+    "latitude": 45.8976657,
+    "longitude": 9.4197367
+  },
+  {
+    "street": "Via Carlo Mauri",
+    "number": "1",
+    "city": {
+      "name": "Ballabio",
+      "istat": "097004"
+    },
+    "latitude": 45.9090923,
+    "longitude": 9.398167
+  },
+  {
+    "street": "Via C. Mauri",
+    "number": "2",
+    "city": {
+      "name": "Ballabio",
+      "istat": "097004"
+    },
+    "latitude": 45.9075863,
+    "longitude": 9.397938
+  },
+  {
+    "street": "Via C. Mauri",
+    "number": "42",
+    "city": {
+      "name": "Ballabio",
+      "istat": "097004"
+    },
+    "latitude": 45.9147315,
+    "longitude": 9.4091524
+  },
+  {
+    "street": "Via C. Mauri",
+    "number": "46",
+    "city": {
+      "name": "Ballabio",
+      "istat": "097004"
+    },
+    "latitude": 45.9165359,
+    "longitude": 9.412277
+  },
+  {
+    "street": "Via C. Mauri",
+    "number": "56",
+    "city": {
+      "name": "Ballabio",
+      "istat": "097004"
+    },
+    "latitude": 45.9211343,
+    "longitude": 9.4109705
+  },
+  {
+    "street": "Via Corno del Nibbio",
+    "number": "3",
+    "city": {
+      "name": "Ballabio",
+      "istat": "097004"
+    },
+    "latitude": 45.9071563,
+    "longitude": 9.3987889
+  },
+  {
+    "street": "Via Sandro Pertini",
+    "number": "23",
+    "city": {
+      "name": "Ballabio",
+      "istat": "097004"
+    },
+    "latitude": 45.8897118,
+    "longitude": 9.4269019
+  },
+  {
+    "street": "Via della Ratta",
+    "number": "20",
+    "city": {
+      "name": "Ballabio",
+      "istat": "097004"
+    },
+    "latitude": 45.8856315,
+    "longitude": 9.4209349
+  },
+  {
+    "street": "Via Roccolo Aldè",
+    "number": "3",
+    "city": {
+      "name": "Ballabio",
+      "istat": "097004"
+    },
+    "latitude": 45.9005029,
+    "longitude": 9.4064329
+  },
+  {
+    "street": "Via C. Mauri",
+    "number": "10",
+    "city": {
+      "name": "Ballabio",
+      "istat": "097004"
+    },
+    "latitude": 45.9122366,
+    "longitude": 9.4011044
+  },
+  {
+    "street": "Via C. Mauri",
+    "number": "1",
+    "city": {
+      "name": "Ballabio",
+      "istat": "097004"
+    },
+    "latitude": 45.9136627,
+    "longitude": 9.4043325
+  },
+  {
+    "street": "Via C. Mauri",
+    "number": "3",
+    "city": {
+      "name": "Ballabio",
+      "istat": "097004"
+    },
+    "latitude": 45.9134704,
+    "longitude": 9.4025178
+  },
+  {
+    "street": "Via Roccolo Aldè",
+    "number": "1",
+    "city": {
+      "name": "Ballabio",
+      "istat": "097004"
+    },
+    "latitude": 45.9003941,
+    "longitude": 9.4058909
+  },
+  {
+    "street": "Via Piani Resinelli",
+    "number": "4",
+    "city": {
+      "name": "Ballabio",
+      "istat": "097004"
+    },
+    "latitude": 45.9029,
+    "longitude": 9.4194994
+  },
+  {
+    "street": "Strada Provinciale 62 della Valsassina",
+    "number": "150",
+    "city": {
+      "name": "Ballabio",
+      "istat": "097004"
+    },
+    "latitude": 45.9207114,
+    "longitude": 9.4392506
+  },
+  {
+    "street": "Via Provinciale",
+    "number": "103",
+    "city": {
+      "name": "Ballabio",
+      "istat": "097004"
+    },
+    "latitude": 45.9208042,
+    "longitude": 9.4387573
+  }
+]

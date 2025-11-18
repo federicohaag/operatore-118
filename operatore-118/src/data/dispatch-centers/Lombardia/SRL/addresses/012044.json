@@ -1,0 +1,392 @@
+[
+  {
+    "street": "Via San Giuseppe",
+    "number": "128",
+    "city": {
+      "name": "Castelseprio",
+      "istat": "012044"
+    },
+    "latitude": 45.7169038,
+    "longitude": 8.8612199
+  },
+  {
+    "street": "Via Camillo Benso conte di Cavour",
+    "number": "76",
+    "city": {
+      "name": "Castelseprio",
+      "istat": "012044"
+    },
+    "latitude": 45.7161919,
+    "longitude": 8.8622462
+  },
+  {
+    "street": "Via Crotto",
+    "number": "72",
+    "city": {
+      "name": "Castelseprio",
+      "istat": "012044"
+    },
+    "latitude": 45.7095868,
+    "longitude": 8.867257
+  },
+  {
+    "street": "Via San Giuseppe",
+    "number": "114",
+    "city": {
+      "name": "Castelseprio",
+      "istat": "012044"
+    },
+    "latitude": 45.716975,
+    "longitude": 8.8613251
+  },
+  {
+    "street": "Via Lonate Ceppino",
+    "number": "1184",
+    "city": {
+      "name": "Castelseprio",
+      "istat": "012044"
+    },
+    "latitude": 45.7098637,
+    "longitude": 8.8678324
+  },
+  {
+    "street": "Via Vecchio Asilo",
+    "number": "32",
+    "city": {
+      "name": "Castelseprio",
+      "istat": "012044"
+    },
+    "latitude": 45.715646,
+    "longitude": 8.8634738
+  },
+  {
+    "street": "Via don Mario Vallini",
+    "number": "111",
+    "city": {
+      "name": "Castelseprio",
+      "istat": "012044"
+    },
+    "latitude": 45.7172273,
+    "longitude": 8.8596796
+  },
+  {
+    "street": "Via don Mario Vallini",
+    "number": "85",
+    "city": {
+      "name": "Castelseprio",
+      "istat": "012044"
+    },
+    "latitude": 45.7170934,
+    "longitude": 8.8593846
+  },
+  {
+    "street": "Via don Mario Vallini",
+    "number": "56",
+    "city": {
+      "name": "Castelseprio",
+      "istat": "012044"
+    },
+    "latitude": 45.7169148,
+    "longitude": 8.8592755
+  },
+  {
+    "street": "Via don Mario Vallini",
+    "number": "59",
+    "city": {
+      "name": "Castelseprio",
+      "istat": "012044"
+    },
+    "latitude": 45.71674,
+    "longitude": 8.858991
+  },
+  {
+    "street": "Via don Mario Vallini",
+    "number": "61",
+    "city": {
+      "name": "Castelseprio",
+      "istat": "012044"
+    },
+    "latitude": 45.7167912,
+    "longitude": 8.8589569
+  },
+  {
+    "street": "Via don Mario Vallini",
+    "number": "105",
+    "city": {
+      "name": "Castelseprio",
+      "istat": "012044"
+    },
+    "latitude": 45.7172076,
+    "longitude": 8.8595677
+  },
+  {
+    "street": "Via don Mario Vallini",
+    "number": "26",
+    "city": {
+      "name": "Castelseprio",
+      "istat": "012044"
+    },
+    "latitude": 45.7167075,
+    "longitude": 8.8595204
+  },
+  {
+    "street": "Via don Mario Vallini",
+    "number": "65",
+    "city": {
+      "name": "Castelseprio",
+      "istat": "012044"
+    },
+    "latitude": 45.7168708,
+    "longitude": 8.8590602
+  },
+  {
+    "street": "Via San Giuseppe",
+    "number": "156",
+    "city": {
+      "name": "Castelseprio",
+      "istat": "012044"
+    },
+    "latitude": 45.7167914,
+    "longitude": 8.8608457
+  },
+  {
+    "street": "Via don Mario Vallini",
+    "number": "39",
+    "city": {
+      "name": "Castelseprio",
+      "istat": "012044"
+    },
+    "latitude": 45.7166401,
+    "longitude": 8.8594836
+  },
+  {
+    "street": "Via don Mario Vallini",
+    "number": "67",
+    "city": {
+      "name": "Castelseprio",
+      "istat": "012044"
+    },
+    "latitude": 45.7169731,
+    "longitude": 8.8591917
+  },
+  {
+    "street": "Via San Giuseppe",
+    "number": "155",
+    "city": {
+      "name": "Castelseprio",
+      "istat": "012044"
+    },
+    "latitude": 45.7166718,
+    "longitude": 8.8609274
+  },
+  {
+    "street": "Via don Mario Vallini",
+    "number": "101",
+    "city": {
+      "name": "Castelseprio",
+      "istat": "012044"
+    },
+    "latitude": 45.7171922,
+    "longitude": 8.8595418
+  },
+  {
+    "street": "Via San Giuseppe",
+    "number": "177",
+    "city": {
+      "name": "Castelseprio",
+      "istat": "012044"
+    },
+    "latitude": 45.7165481,
+    "longitude": 8.8606554
+  },
+  {
+    "street": "Via don Mario Vallini",
+    "number": "63",
+    "city": {
+      "name": "Castelseprio",
+      "istat": "012044"
+    },
+    "latitude": 45.7168211,
+    "longitude": 8.8589925
+  },
+  {
+    "street": "Via San Giuseppe",
+    "number": "175",
+    "city": {
+      "name": "Castelseprio",
+      "istat": "012044"
+    },
+    "latitude": 45.7165532,
+    "longitude": 8.8607085
+  },
+  {
+    "street": "Via San Giuseppe",
+    "number": "169",
+    "city": {
+      "name": "Castelseprio",
+      "istat": "012044"
+    },
+    "latitude": 45.7166451,
+    "longitude": 8.8607117
+  },
+  {
+    "street": "Via San Giuseppe",
+    "number": "179",
+    "city": {
+      "name": "Castelseprio",
+      "istat": "012044"
+    },
+    "latitude": 45.7165574,
+    "longitude": 8.8606031
+  },
+  {
+    "street": "Via don Mario Vallini",
+    "number": "93",
+    "city": {
+      "name": "Castelseprio",
+      "istat": "012044"
+    },
+    "latitude": 45.7171322,
+    "longitude": 8.859494
+  },
+  {
+    "street": "Via don Mario Vallini",
+    "number": "13",
+    "city": {
+      "name": "Castelseprio",
+      "istat": "012044"
+    },
+    "latitude": 45.7167509,
+    "longitude": 8.8593007
+  },
+  {
+    "street": "Via San Giuseppe",
+    "number": "72",
+    "city": {
+      "name": "Castelseprio",
+      "istat": "012044"
+    },
+    "latitude": 45.7170013,
+    "longitude": 8.8619148
+  },
+  {
+    "street": "Via San Giuseppe",
+    "number": "52",
+    "city": {
+      "name": "Castelseprio",
+      "istat": "012044"
+    },
+    "latitude": 45.7169749,
+    "longitude": 8.8622544
+  },
+  {
+    "street": "Via San Giuseppe",
+    "number": "54",
+    "city": {
+      "name": "Castelseprio",
+      "istat": "012044"
+    },
+    "latitude": 45.7169789,
+    "longitude": 8.8621797
+  },
+  {
+    "street": "Via San Giuseppe",
+    "number": "32",
+    "city": {
+      "name": "Castelseprio",
+      "istat": "012044"
+    },
+    "latitude": 45.7169653,
+    "longitude": 8.8624237
+  },
+  {
+    "street": "Via San Giuseppe",
+    "number": "20",
+    "city": {
+      "name": "Castelseprio",
+      "istat": "012044"
+    },
+    "latitude": 45.7169505,
+    "longitude": 8.8626709
+  },
+  {
+    "street": "Via San Giuseppe",
+    "number": "2",
+    "city": {
+      "name": "Castelseprio",
+      "istat": "012044"
+    },
+    "latitude": 45.7169602,
+    "longitude": 8.8628563
+  },
+  {
+    "street": "Via Milano",
+    "number": "2",
+    "city": {
+      "name": "Castelseprio",
+      "istat": "012044"
+    },
+    "latitude": 45.7169171,
+    "longitude": 8.8628801
+  },
+  {
+    "street": "Via Milano",
+    "number": "4",
+    "city": {
+      "name": "Castelseprio",
+      "istat": "012044"
+    },
+    "latitude": 45.7169568,
+    "longitude": 8.8629198
+  },
+  {
+    "street": "Via Camillo Benso conte di Cavour",
+    "number": "1",
+    "city": {
+      "name": "Castelseprio",
+      "istat": "012044"
+    },
+    "latitude": 45.7168893,
+    "longitude": 8.8628769
+  },
+  {
+    "street": "Via Camillo Benso conte di Cavour",
+    "number": "15",
+    "city": {
+      "name": "Castelseprio",
+      "istat": "012044"
+    },
+    "latitude": 45.7167553,
+    "longitude": 8.8628415
+  },
+  {
+    "street": "Via Stazione",
+    "number": "2",
+    "city": {
+      "name": "Castelseprio",
+      "istat": "012044"
+    },
+    "latitude": 45.7294964,
+    "longitude": 8.8636231
+  },
+  {
+    "street": "Via San Giuseppe",
+    "number": "187",
+    "city": {
+      "name": "Castelseprio",
+      "istat": "012044"
+    },
+    "latitude": 45.7166162,
+    "longitude": 8.8605575
+  },
+  {
+    "street": "Via Insubria",
+    "number": "124",
+    "city": {
+      "name": "Castelseprio",
+      "istat": "012044"
+    },
+    "latitude": 45.7155855,
+    "longitude": 8.8592277
+  }
+]

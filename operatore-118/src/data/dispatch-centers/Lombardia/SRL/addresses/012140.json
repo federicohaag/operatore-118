@@ -1,0 +1,122 @@
+[
+  {
+    "street": "Piazza Guglielmo Marconi",
+    "number": "31",
+    "city": {
+      "name": "Vizzola Ticino",
+      "istat": "012140"
+    },
+    "latitude": 45.6310361,
+    "longitude": 8.6852776
+  },
+  {
+    "street": "Via Don Andrea Sacconago",
+    "number": "1",
+    "city": {
+      "name": "Vizzola Ticino",
+      "istat": "012140"
+    },
+    "latitude": 45.6255225,
+    "longitude": 8.6974921
+  },
+  {
+    "street": "Via Don Andrea Sacconago",
+    "number": "2",
+    "city": {
+      "name": "Vizzola Ticino",
+      "istat": "012140"
+    },
+    "latitude": 45.6241411,
+    "longitude": 8.6984011
+  },
+  {
+    "street": "Via per Tornavento",
+    "number": "5",
+    "city": {
+      "name": "Vizzola Ticino",
+      "istat": "012140"
+    },
+    "latitude": 45.6347264,
+    "longitude": 8.7037084
+  },
+  {
+    "street": "Piazza Guglielmo Marconi",
+    "number": "25",
+    "city": {
+      "name": "Vizzola Ticino",
+      "istat": "012140"
+    },
+    "latitude": 45.6311944,
+    "longitude": 8.6854794
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "8",
+    "city": {
+      "name": "Vizzola Ticino",
+      "istat": "012140"
+    },
+    "latitude": 45.6331878,
+    "longitude": 8.6720108
+  },
+  {
+    "street": "Via Antonio Locatelli",
+    "number": "2",
+    "city": {
+      "name": "Vizzola Ticino",
+      "istat": "012140"
+    },
+    "latitude": 45.6316001,
+    "longitude": 8.6897403
+  },
+  {
+    "street": "Via del gregge",
+    "number": "220",
+    "city": {
+      "name": "Vizzola Ticino",
+      "istat": "012140"
+    },
+    "latitude": 45.6153553,
+    "longitude": 8.7067234
+  },
+  {
+    "street": "Via per Tornavento",
+    "number": "15",
+    "city": {
+      "name": "Vizzola Ticino",
+      "istat": "012140"
+    },
+    "latitude": 45.6304649,
+    "longitude": 8.7071497
+  },
+  {
+    "street": "Piazza San Giulio",
+    "number": "1",
+    "city": {
+      "name": "Vizzola Ticino",
+      "istat": "012140"
+    },
+    "latitude": 45.6259693,
+    "longitude": 8.6968643
+  },
+  {
+    "street": "Piazza San Giulio",
+    "number": "4",
+    "city": {
+      "name": "Vizzola Ticino",
+      "istat": "012140"
+    },
+    "latitude": 45.6259771,
+    "longitude": 8.6959869
+  },
+  {
+    "street": "Via Locatelli",
+    "number": "1/B",
+    "city": {
+      "name": "Vizzola Ticino",
+      "istat": "012140"
+    },
+    "latitude": 45.6288565,
+    "longitude": 8.6880493
+  }
+]

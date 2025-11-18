@@ -1,0 +1,172 @@
+[
+  {
+    "street": "Via Carcano",
+    "number": "40",
+    "city": {
+      "name": "Rovello Porro",
+      "istat": "013202"
+    },
+    "latitude": 45.6609455,
+    "longitude": 9.0397753
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "139",
+    "city": {
+      "name": "Rovello Porro",
+      "istat": "013202"
+    },
+    "latitude": 45.6501037,
+    "longitude": 9.0370019
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "153",
+    "city": {
+      "name": "Rovello Porro",
+      "istat": "013202"
+    },
+    "latitude": 45.6488418,
+    "longitude": 9.0368611
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "6",
+    "city": {
+      "name": "Rovello Porro",
+      "istat": "013202"
+    },
+    "latitude": 45.6522227,
+    "longitude": 9.037029
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "111",
+    "city": {
+      "name": "Rovello Porro",
+      "istat": "013202"
+    },
+    "latitude": 45.6523468,
+    "longitude": 9.0374123
+  },
+  {
+    "street": "Piazza Risorgimento",
+    "number": "3",
+    "city": {
+      "name": "Rovello Porro",
+      "istat": "013202"
+    },
+    "latitude": 45.6543638,
+    "longitude": 9.0411135
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "133",
+    "city": {
+      "name": "Rovello Porro",
+      "istat": "013202"
+    },
+    "latitude": 45.6505414,
+    "longitude": 9.0370844
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "119",
+    "city": {
+      "name": "Rovello Porro",
+      "istat": "013202"
+    },
+    "latitude": 45.6530014,
+    "longitude": 9.0258598
+  },
+  {
+    "street": "Via Marchese Pagani",
+    "number": "62",
+    "city": {
+      "name": "Rovello Porro",
+      "istat": "013202"
+    },
+    "latitude": 45.6473563,
+    "longitude": 9.0503056
+  },
+  {
+    "street": "Via Francesco Petrarca",
+    "number": "1",
+    "city": {
+      "name": "Rovello Porro",
+      "istat": "013202"
+    },
+    "latitude": 45.6534564,
+    "longitude": 9.0260361
+  },
+  {
+    "street": "Via Cascina Imperiale",
+    "number": "4",
+    "city": {
+      "name": "Rovello Porro",
+      "istat": "013202"
+    },
+    "latitude": 45.643345,
+    "longitude": 9.041695
+  },
+  {
+    "street": "Via Marchese Pagani",
+    "number": "12",
+    "city": {
+      "name": "Rovello Porro",
+      "istat": "013202"
+    },
+    "latitude": 45.6513443,
+    "longitude": 9.0417538
+  },
+  {
+    "street": "Via Madonna",
+    "number": "18",
+    "city": {
+      "name": "Rovello Porro",
+      "istat": "013202"
+    },
+    "latitude": 45.6536433,
+    "longitude": 9.0435294
+  },
+  {
+    "street": "Via Cardinal Ferrari",
+    "number": "22",
+    "city": {
+      "name": "Rovello Porro",
+      "istat": "013202"
+    },
+    "latitude": 45.6530183,
+    "longitude": 9.0378456
+  },
+  {
+    "street": "Via Dottor Luigi Carcano",
+    "number": "6",
+    "city": {
+      "name": "Rovello Porro",
+      "istat": "013202"
+    },
+    "latitude": 45.6550942,
+    "longitude": 9.0406473
+  },
+  {
+    "street": "Via Bernardino Luini",
+    "number": "15",
+    "city": {
+      "name": "Rovello Porro",
+      "istat": "013202"
+    },
+    "latitude": 45.6540329,
+    "longitude": 9.0466721
+  },
+  {
+    "street": "Via Marchese Pagani",
+    "number": "73",
+    "city": {
+      "name": "Rovello Porro",
+      "istat": "013202"
+    },
+    "latitude": 45.6481484,
+    "longitude": 9.0512317
+  }
+]

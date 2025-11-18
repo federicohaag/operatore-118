@@ -1,0 +1,22 @@
+[
+  {
+    "street": "Piazza Chiesa",
+    "number": "1",
+    "city": {
+      "name": "Morterone",
+      "istat": "097055"
+    },
+    "latitude": 45.8762426,
+    "longitude": 9.4827587
+  },
+  {
+    "street": "Via Medalunga",
+    "number": "2",
+    "city": {
+      "name": "Morterone",
+      "istat": "097055"
+    },
+    "latitude": 45.8785678,
+    "longitude": 9.4847925
+  }
+]

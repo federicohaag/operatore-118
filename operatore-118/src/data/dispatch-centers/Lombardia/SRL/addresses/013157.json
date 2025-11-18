@@ -1,0 +1,392 @@
+[
+  {
+    "street": "Via Cantù",
+    "number": "13",
+    "city": {
+      "name": "Montorfano",
+      "istat": "013157"
+    },
+    "latitude": 45.7779774,
+    "longitude": 9.1401147
+  },
+  {
+    "street": "Piazza Roma",
+    "number": "4",
+    "city": {
+      "name": "Montorfano",
+      "istat": "013157"
+    },
+    "latitude": 45.7856768,
+    "longitude": 9.1462604
+  },
+  {
+    "street": "Piazza Roma",
+    "number": "10",
+    "city": {
+      "name": "Montorfano",
+      "istat": "013157"
+    },
+    "latitude": 45.7852469,
+    "longitude": 9.1463183
+  },
+  {
+    "street": "Piazza Roma",
+    "number": "7",
+    "city": {
+      "name": "Montorfano",
+      "istat": "013157"
+    },
+    "latitude": 45.7851739,
+    "longitude": 9.146203
+  },
+  {
+    "street": "Vicolo Corticella",
+    "number": "1",
+    "city": {
+      "name": "Montorfano",
+      "istat": "013157"
+    },
+    "latitude": 45.7852238,
+    "longitude": 9.146525
+  },
+  {
+    "street": "Vicolo Corticella",
+    "number": "3",
+    "city": {
+      "name": "Montorfano",
+      "istat": "013157"
+    },
+    "latitude": 45.7852248,
+    "longitude": 9.1466819
+  },
+  {
+    "street": "Via Molera",
+    "number": "6b",
+    "city": {
+      "name": "Montorfano",
+      "istat": "013157"
+    },
+    "latitude": 45.7853492,
+    "longitude": 9.1478862
+  },
+  {
+    "street": "Via Molera",
+    "number": "6",
+    "city": {
+      "name": "Montorfano",
+      "istat": "013157"
+    },
+    "latitude": 45.7853304,
+    "longitude": 9.1474651
+  },
+  {
+    "street": "Via Nebieno",
+    "number": "1",
+    "city": {
+      "name": "Montorfano",
+      "istat": "013157"
+    },
+    "latitude": 45.7852158,
+    "longitude": 9.1581111
+  },
+  {
+    "street": "Via Nebieno",
+    "number": "2",
+    "city": {
+      "name": "Montorfano",
+      "istat": "013157"
+    },
+    "latitude": 45.7848078,
+    "longitude": 9.157962
+  },
+  {
+    "street": "Via Nebieno",
+    "number": "6",
+    "city": {
+      "name": "Montorfano",
+      "istat": "013157"
+    },
+    "latitude": 45.7849651,
+    "longitude": 9.1586556
+  },
+  {
+    "street": "Via Nebieno",
+    "number": "4",
+    "city": {
+      "name": "Montorfano",
+      "istat": "013157"
+    },
+    "latitude": 45.7848708,
+    "longitude": 9.1579718
+  },
+  {
+    "street": "Via Nebieno",
+    "number": "8",
+    "city": {
+      "name": "Montorfano",
+      "istat": "013157"
+    },
+    "latitude": 45.7850541,
+    "longitude": 9.1588911
+  },
+  {
+    "street": "Via Nebieno",
+    "number": "10",
+    "city": {
+      "name": "Montorfano",
+      "istat": "013157"
+    },
+    "latitude": 45.7852219,
+    "longitude": 9.1588398
+  },
+  {
+    "street": "Via Nebieno",
+    "number": "48",
+    "city": {
+      "name": "Montorfano",
+      "istat": "013157"
+    },
+    "latitude": 45.7843122,
+    "longitude": 9.1600234
+  },
+  {
+    "street": "Via Nebieno",
+    "number": "46",
+    "city": {
+      "name": "Montorfano",
+      "istat": "013157"
+    },
+    "latitude": 45.7843359,
+    "longitude": 9.1600299
+  },
+  {
+    "street": "Via Nebieno",
+    "number": "44",
+    "city": {
+      "name": "Montorfano",
+      "istat": "013157"
+    },
+    "latitude": 45.7843769,
+    "longitude": 9.160016
+  },
+  {
+    "street": "Via Nebieno",
+    "number": "42",
+    "city": {
+      "name": "Montorfano",
+      "istat": "013157"
+    },
+    "latitude": 45.7844229,
+    "longitude": 9.1599506
+  },
+  {
+    "street": "Via Nebieno",
+    "number": "40",
+    "city": {
+      "name": "Montorfano",
+      "istat": "013157"
+    },
+    "latitude": 45.7844738,
+    "longitude": 9.1599334
+  },
+  {
+    "street": "Via Nebieno",
+    "number": "34",
+    "city": {
+      "name": "Montorfano",
+      "istat": "013157"
+    },
+    "latitude": 45.784633,
+    "longitude": 9.1598866
+  },
+  {
+    "street": "Via Nebieno",
+    "number": "36",
+    "city": {
+      "name": "Montorfano",
+      "istat": "013157"
+    },
+    "latitude": 45.784573,
+    "longitude": 9.1599056
+  },
+  {
+    "street": "Via Nebieno",
+    "number": "38",
+    "city": {
+      "name": "Montorfano",
+      "istat": "013157"
+    },
+    "latitude": 45.784513,
+    "longitude": 9.1599202
+  },
+  {
+    "street": "Via Nebieno",
+    "number": "100",
+    "city": {
+      "name": "Montorfano",
+      "istat": "013157"
+    },
+    "latitude": 45.7858224,
+    "longitude": 9.1609481
+  },
+  {
+    "street": "Via Nebieno",
+    "number": "102",
+    "city": {
+      "name": "Montorfano",
+      "istat": "013157"
+    },
+    "latitude": 45.7857653,
+    "longitude": 9.1607107
+  },
+  {
+    "street": "Via Cantù",
+    "number": "4",
+    "city": {
+      "name": "Montorfano",
+      "istat": "013157"
+    },
+    "latitude": 45.7812479,
+    "longitude": 9.143819
+  },
+  {
+    "street": "Via Cantù",
+    "number": "2",
+    "city": {
+      "name": "Montorfano",
+      "istat": "013157"
+    },
+    "latitude": 45.7851356,
+    "longitude": 9.1457842
+  },
+  {
+    "street": "Piazza Roma",
+    "number": "1",
+    "city": {
+      "name": "Montorfano",
+      "istat": "013157"
+    },
+    "latitude": 45.7853015,
+    "longitude": 9.1458045
+  },
+  {
+    "street": "Via Plinio",
+    "number": "3",
+    "city": {
+      "name": "Montorfano",
+      "istat": "013157"
+    },
+    "latitude": 45.7845766,
+    "longitude": 9.1618225
+  },
+  {
+    "street": "Piazza Roma",
+    "number": "18",
+    "city": {
+      "name": "Montorfano",
+      "istat": "013157"
+    },
+    "latitude": 45.7855465,
+    "longitude": 9.1462413
+  },
+  {
+    "street": "Via Como",
+    "number": "20",
+    "city": {
+      "name": "Montorfano",
+      "istat": "013157"
+    },
+    "latitude": 45.7862936,
+    "longitude": 9.1432102
+  },
+  {
+    "street": "Via Como",
+    "number": "22",
+    "city": {
+      "name": "Montorfano",
+      "istat": "013157"
+    },
+    "latitude": 45.7862995,
+    "longitude": 9.1429419
+  },
+  {
+    "street": "Via Brianza",
+    "number": "6b",
+    "city": {
+      "name": "Montorfano",
+      "istat": "013157"
+    },
+    "latitude": 45.7837462,
+    "longitude": 9.1506122
+  },
+  {
+    "street": "Via Alzate",
+    "number": "20",
+    "city": {
+      "name": "Montorfano",
+      "istat": "013157"
+    },
+    "latitude": 45.7798724,
+    "longitude": 9.1586525
+  },
+  {
+    "street": "Via Barbavara",
+    "number": "2",
+    "city": {
+      "name": "Montorfano",
+      "istat": "013157"
+    },
+    "latitude": 45.784285,
+    "longitude": 9.1491257
+  },
+  {
+    "street": "Strada Provinciale ex Strada Statale 342 Briantea",
+    "number": "342",
+    "city": {
+      "name": "Montorfano",
+      "istat": "013157"
+    },
+    "latitude": 45.7830074,
+    "longitude": 9.1648382
+  },
+  {
+    "street": "Via delle Molere",
+    "number": "2",
+    "city": {
+      "name": "Montorfano",
+      "istat": "013157"
+    },
+    "latitude": 45.7855415,
+    "longitude": 9.1534661
+  },
+  {
+    "street": "Via Barbavara",
+    "number": "1",
+    "city": {
+      "name": "Montorfano",
+      "istat": "013157"
+    },
+    "latitude": 45.7841555,
+    "longitude": 9.1486032
+  },
+  {
+    "street": "Via Barbavara",
+    "number": "6",
+    "city": {
+      "name": "Montorfano",
+      "istat": "013157"
+    },
+    "latitude": 45.7848467,
+    "longitude": 9.1483868
+  },
+  {
+    "street": "Via Barbavara",
+    "number": "4",
+    "city": {
+      "name": "Montorfano",
+      "istat": "013157"
+    },
+    "latitude": 45.7846943,
+    "longitude": 9.1487882
+  }
+]

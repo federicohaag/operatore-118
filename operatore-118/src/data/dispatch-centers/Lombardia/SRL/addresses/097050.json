@@ -1,0 +1,682 @@
+[
+  {
+    "street": "Via All'Agro",
+    "number": "1",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9321355,
+    "longitude": 9.4858669
+  },
+  {
+    "street": "Piazza Fontana",
+    "number": "1",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9327853,
+    "longitude": 9.4877481
+  },
+  {
+    "street": "Via Roncaiolo",
+    "number": "22a",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9306871,
+    "longitude": 9.4913502
+  },
+  {
+    "street": "Via Roncaiolo",
+    "number": "22d",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9304591,
+    "longitude": 9.492054
+  },
+  {
+    "street": "Via Roncaiolo",
+    "number": "22b",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9305914,
+    "longitude": 9.4916179
+  },
+  {
+    "street": "Via Roncaiolo",
+    "number": "22c",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9305311,
+    "longitude": 9.491826
+  },
+  {
+    "street": "Via Roncaiolo",
+    "number": "27a",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9302283,
+    "longitude": 9.4909215
+  },
+  {
+    "street": "Via Ingegner Carlo Rancilio",
+    "number": "27b",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9302343,
+    "longitude": 9.4911716
+  },
+  {
+    "street": "Via Roncaiolo",
+    "number": "22",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9306291,
+    "longitude": 9.4919156
+  },
+  {
+    "street": "Piazza Fontana",
+    "number": "2",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9316979,
+    "longitude": 9.4879723
+  },
+  {
+    "street": "Via Roncaiolo",
+    "number": "27d",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9300581,
+    "longitude": 9.4914218
+  },
+  {
+    "street": "Via Roncaiolo",
+    "number": "27e",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9300722,
+    "longitude": 9.4917159
+  },
+  {
+    "street": "Via Arturo Toscanini",
+    "number": "8",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9300023,
+    "longitude": 9.4884458
+  },
+  {
+    "street": "Via Roncaiolo",
+    "number": "24",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9306963,
+    "longitude": 9.4921624
+  },
+  {
+    "street": "Via Ingegner Carlo Rancilio",
+    "number": "8",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9308123,
+    "longitude": 9.4888484
+  },
+  {
+    "street": "Via Roncaiolo",
+    "number": "12",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.931559,
+    "longitude": 9.489336
+  },
+  {
+    "street": "Via Roncaiolo",
+    "number": "6",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9319195,
+    "longitude": 9.4884429
+  },
+  {
+    "street": "Via Roncaiolo",
+    "number": "4",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9320908,
+    "longitude": 9.4881465
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "12",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9308726,
+    "longitude": 9.4863926
+  },
+  {
+    "street": "Via Roncaiolo",
+    "number": "3",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9310203,
+    "longitude": 9.4907914
+  },
+  {
+    "street": "Via Ingegner Carlo Rancilio",
+    "number": "16",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9293945,
+    "longitude": 9.4904526
+  },
+  {
+    "street": "Via Roncaiolo",
+    "number": "26",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9308539,
+    "longitude": 9.4930967
+  },
+  {
+    "street": "Via Papa Giovanni XXIII",
+    "number": "5",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9315377,
+    "longitude": 9.486328
+  },
+  {
+    "street": "Via Ingegner Carlo Rancilio",
+    "number": "25",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9298576,
+    "longitude": 9.4905485
+  },
+  {
+    "street": "Via Ingegner Carlo Rancilio",
+    "number": "19",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9303041,
+    "longitude": 9.4897778
+  },
+  {
+    "street": "Via Ingegner Carlo Rancilio",
+    "number": "10",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9305144,
+    "longitude": 9.4890063
+  },
+  {
+    "street": "Via per Cassina",
+    "number": "18",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9318271,
+    "longitude": 9.4832989
+  },
+  {
+    "street": "Piazza Fontana",
+    "number": "9",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9326245,
+    "longitude": 9.487646
+  },
+  {
+    "street": "Via Ingegner Carlo Rancilio",
+    "number": "14",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9295968,
+    "longitude": 9.4898392
+  },
+  {
+    "street": "Via Ingegner Carlo Rancilio",
+    "number": "12",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9299728,
+    "longitude": 9.4896122
+  },
+  {
+    "street": "Via Roncaiolo",
+    "number": "14",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9313753,
+    "longitude": 9.4896623
+  },
+  {
+    "street": "Via Privata Belvedere",
+    "number": "7",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9326391,
+    "longitude": 9.4830111
+  },
+  {
+    "street": "Via Ingegner Carlo Rancilio",
+    "number": "23",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9300078,
+    "longitude": 9.4904184
+  },
+  {
+    "street": "Via per Cassina",
+    "number": "8",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9322263,
+    "longitude": 9.4834175
+  },
+  {
+    "street": "Via Ingegner Carlo Rancilio",
+    "number": "29",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9296833,
+    "longitude": 9.4909715
+  },
+  {
+    "street": "Via per Concenedo",
+    "number": "17",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9339576,
+    "longitude": 9.4821555
+  },
+  {
+    "street": "Via per Concenedo",
+    "number": "15",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9337621,
+    "longitude": 9.4823616
+  },
+  {
+    "street": "Via per Concenedo",
+    "number": "23",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9350245,
+    "longitude": 9.482088
+  },
+  {
+    "street": "Via per Concenedo",
+    "number": "31",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9356511,
+    "longitude": 9.481568
+  },
+  {
+    "street": "Via per Concenedo",
+    "number": "46",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9374289,
+    "longitude": 9.481349
+  },
+  {
+    "street": "Via per Concenedo",
+    "number": "42",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9374024,
+    "longitude": 9.4818943
+  },
+  {
+    "street": "Via per Concenedo",
+    "number": "24",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.933781,
+    "longitude": 9.4837938
+  },
+  {
+    "street": "Via per Concenedo",
+    "number": "45",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.937128,
+    "longitude": 9.4810959
+  },
+  {
+    "street": "Via privata dei Cedri",
+    "number": "6",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9345338,
+    "longitude": 9.4810028
+  },
+  {
+    "street": "Via Ingegner Carlo Rancilio",
+    "number": "2",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9312833,
+    "longitude": 9.4882096
+  },
+  {
+    "street": "Via per Concenedo",
+    "number": "29",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9355164,
+    "longitude": 9.4818378
+  },
+  {
+    "street": "Via per Concenedo",
+    "number": "25",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9352566,
+    "longitude": 9.4819447
+  },
+  {
+    "street": "Via per Concenedo",
+    "number": "19",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9344277,
+    "longitude": 9.481933
+  },
+  {
+    "street": "Via Arturo Toscanini",
+    "number": "21",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9303116,
+    "longitude": 9.4880145
+  },
+  {
+    "street": "Via Arturo Toscanini",
+    "number": "1",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9291609,
+    "longitude": 9.4913252
+  },
+  {
+    "street": "Via Arturo Toscanini",
+    "number": "3",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9289395,
+    "longitude": 9.4911968
+  },
+  {
+    "street": "Via per Concenedo",
+    "number": "34",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9352343,
+    "longitude": 9.4823783
+  },
+  {
+    "street": "Via per Concenedo",
+    "number": "26",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9341998,
+    "longitude": 9.4832898
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "3",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9315106,
+    "longitude": 9.4867663
+  },
+  {
+    "street": "Via Roncaiolo",
+    "number": "8",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9318026,
+    "longitude": 9.4887355
+  },
+  {
+    "street": "Via Roncaiolo",
+    "number": "10",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9316774,
+    "longitude": 9.4889283
+  },
+  {
+    "street": "Via Papa Giovanni Ventitreesimo",
+    "number": "22",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9318188,
+    "longitude": 9.4849591
+  },
+  {
+    "street": "Via per Cassina",
+    "number": "17",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9319147,
+    "longitude": 9.4837851
+  },
+  {
+    "street": "Via per Concenedo",
+    "number": "54",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.935626,
+    "longitude": 9.4822812
+  },
+  {
+    "street": "Via per Concenedo",
+    "number": "41",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9365075,
+    "longitude": 9.4816191
+  },
+  {
+    "street": "Via Ingegner Carlo Rancilio",
+    "number": "4",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.931021,
+    "longitude": 9.4886058
+  },
+  {
+    "street": "Via Arturo Toscanini",
+    "number": "6",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.929613,
+    "longitude": 9.4886298
+  },
+  {
+    "street": "Via per Cassina",
+    "number": "15",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9320998,
+    "longitude": 9.4839152
+  },
+  {
+    "street": "Via Privata Belvedere",
+    "number": "10",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9326124,
+    "longitude": 9.482517
+  },
+  {
+    "street": "Via per Concenedo",
+    "number": "21",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9347412,
+    "longitude": 9.4820983
+  },
+  {
+    "street": "Via per Concenedo",
+    "number": "32",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9345773,
+    "longitude": 9.482665
+  },
+  {
+    "street": "Via per Concenedo",
+    "number": "27",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9377578,
+    "longitude": 9.4809292
+  },
+  {
+    "street": "Via privata dei Cedri",
+    "number": "2",
+    "city": {
+      "name": "Moggio",
+      "istat": "097050"
+    },
+    "latitude": 45.9343522,
+    "longitude": 9.481145
+  }
+]

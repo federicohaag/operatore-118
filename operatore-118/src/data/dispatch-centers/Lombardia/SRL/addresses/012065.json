@@ -1,0 +1,82 @@
+[
+  {
+    "street": "Via Alessandro Volta",
+    "number": "10",
+    "city": {
+      "name": "Dumenza",
+      "istat": "012065"
+    },
+    "latitude": 46.0176719,
+    "longitude": 8.7878928
+  },
+  {
+    "street": "Località Palone",
+    "number": "13",
+    "city": {
+      "name": "Dumenza",
+      "istat": "012065"
+    },
+    "latitude": 46.0053976,
+    "longitude": 8.7918298
+  },
+  {
+    "street": "Località Alpe Pradecolo",
+    "number": "1",
+    "city": {
+      "name": "Dumenza",
+      "istat": "012065"
+    },
+    "latitude": 46.0432323,
+    "longitude": 8.8107385
+  },
+  {
+    "street": "Località Pragaletto",
+    "number": "3",
+    "city": {
+      "name": "Dumenza",
+      "istat": "012065"
+    },
+    "latitude": 46.0439033,
+    "longitude": 8.8001917
+  },
+  {
+    "street": "Località Alpe Pianello",
+    "number": "1",
+    "city": {
+      "name": "Dumenza",
+      "istat": "012065"
+    },
+    "latitude": 46.0424721,
+    "longitude": 8.7949868
+  },
+  {
+    "street": "Viale delle Rimembranze",
+    "number": "9",
+    "city": {
+      "name": "Dumenza",
+      "istat": "012065"
+    },
+    "latitude": 46.0243978,
+    "longitude": 8.785884
+  },
+  {
+    "street": "Località Piscina",
+    "number": "1",
+    "city": {
+      "name": "Dumenza",
+      "istat": "012065"
+    },
+    "latitude": 46.0224043,
+    "longitude": 8.7877834
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "5",
+    "city": {
+      "name": "Dumenza",
+      "istat": "012065"
+    },
+    "latitude": 46.0200907,
+    "longitude": 8.7894236
+  }
+]

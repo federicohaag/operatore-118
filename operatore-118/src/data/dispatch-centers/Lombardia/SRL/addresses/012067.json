@@ -1,0 +1,272 @@
+[
+  {
+    "street": "Via Armando Diaz",
+    "number": "40",
+    "city": {
+      "name": "Fagnano Olona",
+      "istat": "012067"
+    },
+    "latitude": 45.665526,
+    "longitude": 8.867753
+  },
+  {
+    "street": "Via Armando Diaz",
+    "number": "37",
+    "city": {
+      "name": "Fagnano Olona",
+      "istat": "012067"
+    },
+    "latitude": 45.665987,
+    "longitude": 8.867834
+  },
+  {
+    "street": "Piazza Alfredo Di Dio",
+    "number": "22",
+    "city": {
+      "name": "Fagnano Olona",
+      "istat": "012067"
+    },
+    "latitude": 45.6697477,
+    "longitude": 8.8700808
+  },
+  {
+    "street": "Viale Pompeo Saibene",
+    "number": "35",
+    "city": {
+      "name": "Fagnano Olona",
+      "istat": "012067"
+    },
+    "latitude": 45.6703617,
+    "longitude": 8.8712616
+  },
+  {
+    "street": "Via Filippo Corridoni",
+    "number": "62",
+    "city": {
+      "name": "Fagnano Olona",
+      "istat": "012067"
+    },
+    "latitude": 45.6782987,
+    "longitude": 8.8620681
+  },
+  {
+    "street": "Via per Busto",
+    "number": "70",
+    "city": {
+      "name": "Fagnano Olona",
+      "istat": "012067"
+    },
+    "latitude": 45.658434,
+    "longitude": 8.8691196
+  },
+  {
+    "street": "Via Milano",
+    "number": "2",
+    "city": {
+      "name": "Fagnano Olona",
+      "istat": "012067"
+    },
+    "latitude": 45.6696851,
+    "longitude": 8.8687362
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "44",
+    "city": {
+      "name": "Fagnano Olona",
+      "istat": "012067"
+    },
+    "latitude": 45.662363,
+    "longitude": 8.8808155
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "68",
+    "city": {
+      "name": "Fagnano Olona",
+      "istat": "012067"
+    },
+    "latitude": 45.6657228,
+    "longitude": 8.8722417
+  },
+  {
+    "street": "Via Lavaredo",
+    "number": "11",
+    "city": {
+      "name": "Fagnano Olona",
+      "istat": "012067"
+    },
+    "latitude": 45.6801317,
+    "longitude": 8.8634565
+  },
+  {
+    "street": "Via Filippo Corridoni",
+    "number": "60a",
+    "city": {
+      "name": "Fagnano Olona",
+      "istat": "012067"
+    },
+    "latitude": 45.6782689,
+    "longitude": 8.8623834
+  },
+  {
+    "street": "Via Felice Cavallotti",
+    "number": "9",
+    "city": {
+      "name": "Fagnano Olona",
+      "istat": "012067"
+    },
+    "latitude": 45.6784266,
+    "longitude": 8.867649
+  },
+  {
+    "street": "Via per Fornaci",
+    "number": "73c",
+    "city": {
+      "name": "Fagnano Olona",
+      "istat": "012067"
+    },
+    "latitude": 45.6693087,
+    "longitude": 8.8506464
+  },
+  {
+    "street": "Via Zara",
+    "number": "93",
+    "city": {
+      "name": "Fagnano Olona",
+      "istat": "012067"
+    },
+    "latitude": 45.6597344,
+    "longitude": 8.8763976
+  },
+  {
+    "street": "Via Zara",
+    "number": "98",
+    "city": {
+      "name": "Fagnano Olona",
+      "istat": "012067"
+    },
+    "latitude": 45.6598392,
+    "longitude": 8.8766227
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "127",
+    "city": {
+      "name": "Fagnano Olona",
+      "istat": "012067"
+    },
+    "latitude": 45.6672705,
+    "longitude": 8.8591893
+  },
+  {
+    "street": "Strada Provinciale Busto-Cassano",
+    "number": "3",
+    "city": {
+      "name": "Fagnano Olona",
+      "istat": "012067"
+    },
+    "latitude": 45.6429698,
+    "longitude": 8.8466254
+  },
+  {
+    "street": "Piazza Camillo Cavour",
+    "number": "9",
+    "city": {
+      "name": "Fagnano Olona",
+      "istat": "012067"
+    },
+    "latitude": 45.66954,
+    "longitude": 8.8741026
+  },
+  {
+    "street": "Via Giuseppe Verdi",
+    "number": "9",
+    "city": {
+      "name": "Fagnano Olona",
+      "istat": "012067"
+    },
+    "latitude": 45.6696709,
+    "longitude": 8.8726017
+  },
+  {
+    "street": "Viale Fratelli Ferrari",
+    "number": "16",
+    "city": {
+      "name": "Fagnano Olona",
+      "istat": "012067"
+    },
+    "latitude": 45.6700751,
+    "longitude": 8.871354
+  },
+  {
+    "street": "Via Cristoforo Colombo",
+    "number": "12",
+    "city": {
+      "name": "Fagnano Olona",
+      "istat": "012067"
+    },
+    "latitude": 45.6692635,
+    "longitude": 8.8799331
+  },
+  {
+    "street": "Via Lodovico Ariosto",
+    "number": "8a",
+    "city": {
+      "name": "Fagnano Olona",
+      "istat": "012067"
+    },
+    "latitude": 45.6635503,
+    "longitude": 8.870658
+  },
+  {
+    "street": "Piazza Camillo Cavour",
+    "number": "11",
+    "city": {
+      "name": "Fagnano Olona",
+      "istat": "012067"
+    },
+    "latitude": 45.6690504,
+    "longitude": 8.8738748
+  },
+  {
+    "street": "Viale Pompeo Saibene",
+    "number": "37",
+    "city": {
+      "name": "Fagnano Olona",
+      "istat": "012067"
+    },
+    "latitude": 45.6706798,
+    "longitude": 8.871237
+  },
+  {
+    "street": "Piazza Giacomo Matteotti",
+    "number": "4",
+    "city": {
+      "name": "Fagnano Olona",
+      "istat": "012067"
+    },
+    "latitude": 45.6721654,
+    "longitude": 8.8703864
+  },
+  {
+    "street": "Via Felice Cavallotti",
+    "number": "6",
+    "city": {
+      "name": "Fagnano Olona",
+      "istat": "012067"
+    },
+    "latitude": 45.6788433,
+    "longitude": 8.8681233
+  },
+  {
+    "street": "Via Legnano",
+    "number": "60",
+    "city": {
+      "name": "Fagnano Olona",
+      "istat": "012067"
+    },
+    "latitude": 45.6595682,
+    "longitude": 8.8805645
+  }
+]

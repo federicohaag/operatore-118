@@ -1,0 +1,52 @@
+[
+  {
+    "street": "Via Fratelli Riva",
+    "number": "7",
+    "city": {
+      "name": "Marzio",
+      "istat": "012099"
+    },
+    "latitude": 45.9379423,
+    "longitude": 8.858391
+  },
+  {
+    "street": "Via Menefoglio Marchese",
+    "number": "1",
+    "city": {
+      "name": "Marzio",
+      "istat": "012099"
+    },
+    "latitude": 45.9383043,
+    "longitude": 8.8584836
+  },
+  {
+    "street": "Via Menefoglio Marchese",
+    "number": "5",
+    "city": {
+      "name": "Marzio",
+      "istat": "012099"
+    },
+    "latitude": 45.9383273,
+    "longitude": 8.8585787
+  },
+  {
+    "street": "Via Ferruccio Bolchini",
+    "number": "10",
+    "city": {
+      "name": "Marzio",
+      "istat": "012099"
+    },
+    "latitude": 45.9385338,
+    "longitude": 8.8569378
+  },
+  {
+    "street": "Via Armida Barelli",
+    "number": "1",
+    "city": {
+      "name": "Marzio",
+      "istat": "012099"
+    },
+    "latitude": 45.9374914,
+    "longitude": 8.8556348
+  }
+]

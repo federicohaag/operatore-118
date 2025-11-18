@@ -1,0 +1,412 @@
+[
+  {
+    "street": "Viale della Repubblica",
+    "number": "12",
+    "city": {
+      "name": "Veduggio con Colzano",
+      "istat": "108047"
+    },
+    "latitude": 45.7301926,
+    "longitude": 9.2642113
+  },
+  {
+    "street": "Via Montegrappa",
+    "number": "34",
+    "city": {
+      "name": "Veduggio con Colzano",
+      "istat": "108047"
+    },
+    "latitude": 45.729646,
+    "longitude": 9.2650672
+  },
+  {
+    "street": "Via Fontana",
+    "number": "9",
+    "city": {
+      "name": "Veduggio con Colzano",
+      "istat": "108047"
+    },
+    "latitude": 45.7302321,
+    "longitude": 9.2718923
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "9",
+    "city": {
+      "name": "Veduggio con Colzano",
+      "istat": "108047"
+    },
+    "latitude": 45.7335031,
+    "longitude": 9.2742084
+  },
+  {
+    "street": "Via Piave",
+    "number": "59",
+    "city": {
+      "name": "Veduggio con Colzano",
+      "istat": "108047"
+    },
+    "latitude": 45.7320062,
+    "longitude": 9.2689387
+  },
+  {
+    "street": "Via Piave",
+    "number": "26",
+    "city": {
+      "name": "Veduggio con Colzano",
+      "istat": "108047"
+    },
+    "latitude": 45.7323582,
+    "longitude": 9.2691383
+  },
+  {
+    "street": "Via Piave",
+    "number": "45",
+    "city": {
+      "name": "Veduggio con Colzano",
+      "istat": "108047"
+    },
+    "latitude": 45.7326258,
+    "longitude": 9.2697553
+  },
+  {
+    "street": "Via Piave",
+    "number": "16",
+    "city": {
+      "name": "Veduggio con Colzano",
+      "istat": "108047"
+    },
+    "latitude": 45.7326032,
+    "longitude": 9.269237
+  },
+  {
+    "street": "Via Piave",
+    "number": "47",
+    "city": {
+      "name": "Veduggio con Colzano",
+      "istat": "108047"
+    },
+    "latitude": 45.7325871,
+    "longitude": 9.2697052
+  },
+  {
+    "street": "Via Piave",
+    "number": "57",
+    "city": {
+      "name": "Veduggio con Colzano",
+      "istat": "108047"
+    },
+    "latitude": 45.7321413,
+    "longitude": 9.2691293
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "17",
+    "city": {
+      "name": "Veduggio con Colzano",
+      "istat": "108047"
+    },
+    "latitude": 45.735394,
+    "longitude": 9.2710247
+  },
+  {
+    "street": "Via della Valletta",
+    "number": "4",
+    "city": {
+      "name": "Veduggio con Colzano",
+      "istat": "108047"
+    },
+    "latitude": 45.733236,
+    "longitude": 9.2647534
+  },
+  {
+    "street": "Via Montegrappa",
+    "number": "12",
+    "city": {
+      "name": "Veduggio con Colzano",
+      "istat": "108047"
+    },
+    "latitude": 45.7306608,
+    "longitude": 9.2669807
+  },
+  {
+    "street": "Via Montegrappa",
+    "number": "4",
+    "city": {
+      "name": "Veduggio con Colzano",
+      "istat": "108047"
+    },
+    "latitude": 45.7308372,
+    "longitude": 9.2672559
+  },
+  {
+    "street": "Via Montegrappa",
+    "number": "8",
+    "city": {
+      "name": "Veduggio con Colzano",
+      "istat": "108047"
+    },
+    "latitude": 45.7306976,
+    "longitude": 9.2671885
+  },
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "71",
+    "city": {
+      "name": "Veduggio con Colzano",
+      "istat": "108047"
+    },
+    "latitude": 45.7308253,
+    "longitude": 9.2674656
+  },
+  {
+    "street": "Via Montegrappa",
+    "number": "3",
+    "city": {
+      "name": "Veduggio con Colzano",
+      "istat": "108047"
+    },
+    "latitude": 45.7298708,
+    "longitude": 9.2666217
+  },
+  {
+    "street": "Via Montegrappa",
+    "number": "14",
+    "city": {
+      "name": "Veduggio con Colzano",
+      "istat": "108047"
+    },
+    "latitude": 45.7305137,
+    "longitude": 9.2668296
+  },
+  {
+    "street": "Via Montegrappa",
+    "number": "10",
+    "city": {
+      "name": "Veduggio con Colzano",
+      "istat": "108047"
+    },
+    "latitude": 45.730656,
+    "longitude": 9.2671105
+  },
+  {
+    "street": "Via Monte Grappa",
+    "number": "25",
+    "city": {
+      "name": "Veduggio con Colzano",
+      "istat": "108047"
+    },
+    "latitude": 45.7286777,
+    "longitude": 9.2652389
+  },
+  {
+    "street": "Via Concordia",
+    "number": "4/A",
+    "city": {
+      "name": "Veduggio con Colzano",
+      "istat": "108047"
+    },
+    "latitude": 45.7347517,
+    "longitude": 9.2748925
+  },
+  {
+    "street": "Via Fontana",
+    "number": "3",
+    "city": {
+      "name": "Veduggio con Colzano",
+      "istat": "108047"
+    },
+    "latitude": 45.7284364,
+    "longitude": 9.2667327
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "10",
+    "city": {
+      "name": "Veduggio con Colzano",
+      "istat": "108047"
+    },
+    "latitude": 45.7354637,
+    "longitude": 9.2712279
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "51",
+    "city": {
+      "name": "Veduggio con Colzano",
+      "istat": "108047"
+    },
+    "latitude": 45.7353248,
+    "longitude": 9.2679301
+  },
+  {
+    "street": "Via dell'Atleta",
+    "number": "16",
+    "city": {
+      "name": "Veduggio con Colzano",
+      "istat": "108047"
+    },
+    "latitude": 45.7380112,
+    "longitude": 9.2731592
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "22",
+    "city": {
+      "name": "Veduggio con Colzano",
+      "istat": "108047"
+    },
+    "latitude": 45.7354276,
+    "longitude": 9.2701273
+  },
+  {
+    "street": "Via Giovanni Segantini",
+    "number": "14",
+    "city": {
+      "name": "Veduggio con Colzano",
+      "istat": "108047"
+    },
+    "latitude": 45.7367244,
+    "longitude": 9.2683297
+  },
+  {
+    "street": "Via Giovanni Segantini",
+    "number": "1",
+    "city": {
+      "name": "Veduggio con Colzano",
+      "istat": "108047"
+    },
+    "latitude": 45.7355765,
+    "longitude": 9.2674654
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "17a",
+    "city": {
+      "name": "Veduggio con Colzano",
+      "istat": "108047"
+    },
+    "latitude": 45.7353949,
+    "longitude": 9.270909
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "55",
+    "city": {
+      "name": "Veduggio con Colzano",
+      "istat": "108047"
+    },
+    "latitude": 45.7354347,
+    "longitude": 9.2673071
+  },
+  {
+    "street": "Via Piave",
+    "number": "2",
+    "city": {
+      "name": "Veduggio con Colzano",
+      "istat": "108047"
+    },
+    "latitude": 45.7347357,
+    "longitude": 9.2730641
+  },
+  {
+    "street": "Via Piave",
+    "number": "55",
+    "city": {
+      "name": "Veduggio con Colzano",
+      "istat": "108047"
+    },
+    "latitude": 45.7317285,
+    "longitude": 9.271261
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "21",
+    "city": {
+      "name": "Veduggio con Colzano",
+      "istat": "108047"
+    },
+    "latitude": 45.7317908,
+    "longitude": 9.2795228
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "11",
+    "city": {
+      "name": "Veduggio con Colzano",
+      "istat": "108047"
+    },
+    "latitude": 45.731803,
+    "longitude": 9.279222
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "17",
+    "city": {
+      "name": "Veduggio con Colzano",
+      "istat": "108047"
+    },
+    "latitude": 45.7315298,
+    "longitude": 9.2792485
+  },
+  {
+    "street": "Via Libertà",
+    "number": "29",
+    "city": {
+      "name": "Veduggio con Colzano",
+      "istat": "108047"
+    },
+    "latitude": 45.7337597,
+    "longitude": 9.2626698
+  },
+  {
+    "street": "Via Libertà",
+    "number": "43",
+    "city": {
+      "name": "Veduggio con Colzano",
+      "istat": "108047"
+    },
+    "latitude": 45.7335094,
+    "longitude": 9.2634788
+  },
+  {
+    "street": "Via Giacomo Leopardi",
+    "number": "6",
+    "city": {
+      "name": "Veduggio con Colzano",
+      "istat": "108047"
+    },
+    "latitude": 45.7326466,
+    "longitude": 9.2573772
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "45",
+    "city": {
+      "name": "Veduggio con Colzano",
+      "istat": "108047"
+    },
+    "latitude": 45.7354128,
+    "longitude": 9.2681622
+  },
+  {
+    "street": "Via Piave",
+    "number": "28;30",
+    "city": {
+      "name": "Veduggio con Colzano",
+      "istat": "108047"
+    },
+    "latitude": 45.7332196,
+    "longitude": 9.2682311
+  },
+  {
+    "street": "Via Venticinque Aprile",
+    "number": "15",
+    "city": {
+      "name": "Veduggio con Colzano",
+      "istat": "108047"
+    },
+    "latitude": 45.7315739,
+    "longitude": 9.2790937
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "street": "Via Gio Batta Rinaldi",
+    "number": "1",
+    "city": {
+      "name": "Besano",
+      "istat": "012011"
+    },
+    "latitude": 45.8884931,
+    "longitude": 8.8878987
+  },
+  {
+    "street": "Piazza della Chiesa",
+    "number": "2",
+    "city": {
+      "name": "Besano",
+      "istat": "012011"
+    },
+    "latitude": 45.8892756,
+    "longitude": 8.8899848
+  },
+  {
+    "street": "Via Pietro Prestini",
+    "number": "5",
+    "city": {
+      "name": "Besano",
+      "istat": "012011"
+    },
+    "latitude": 45.8897316,
+    "longitude": 8.8897511
+  },
+  {
+    "street": "Via Giuseppe Restelli",
+    "number": "4",
+    "city": {
+      "name": "Besano",
+      "istat": "012011"
+    },
+    "latitude": 45.8881018,
+    "longitude": 8.8875507
+  },
+  {
+    "street": "Via Ventiquattro Maggio",
+    "number": "46",
+    "city": {
+      "name": "Besano",
+      "istat": "012011"
+    },
+    "latitude": 45.8961529,
+    "longitude": 8.89594
+  }
+]

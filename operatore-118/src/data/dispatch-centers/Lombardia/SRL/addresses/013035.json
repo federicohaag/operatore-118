@@ -1,0 +1,1502 @@
+[
+  {
+    "street": "Viale Repubblica",
+    "number": "142",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6785611,
+    "longitude": 9.1782931
+  },
+  {
+    "street": "Viale Brianza",
+    "number": "55",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6705613,
+    "longitude": 9.1797698
+  },
+  {
+    "street": "Via Bruno Buozzi",
+    "number": "22",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6675807,
+    "longitude": 9.1815721
+  },
+  {
+    "street": "Piazza della Libertà",
+    "number": "1",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6760221,
+    "longitude": 9.1684902
+  },
+  {
+    "street": "Via Achille Grandi",
+    "number": "68",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6741982,
+    "longitude": 9.1668396
+  },
+  {
+    "street": "Via Achille Grandi",
+    "number": "2",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6759253,
+    "longitude": 9.1679611
+  },
+  {
+    "street": "Via Vittorio Emanuele II",
+    "number": "25/27",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6761105,
+    "longitude": 9.1672332
+  },
+  {
+    "street": "Via Vittorio Emanuele II",
+    "number": "31",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6761741,
+    "longitude": 9.1669175
+  },
+  {
+    "street": "Via Vittorio Emanuele II",
+    "number": "45",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6762346,
+    "longitude": 9.1665006
+  },
+  {
+    "street": "Via Vittorio Emanuele",
+    "number": "49",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6762682,
+    "longitude": 9.1663723
+  },
+  {
+    "street": "Via Achille Grandi",
+    "number": "14",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6756094,
+    "longitude": 9.1677612
+  },
+  {
+    "street": "Via Antonio Gramsci",
+    "number": "14",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6770653,
+    "longitude": 9.1787629
+  },
+  {
+    "street": "Via Achille Grandi",
+    "number": "10",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6757093,
+    "longitude": 9.1677672
+  },
+  {
+    "street": "Via Achille Grandi",
+    "number": "6",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6758183,
+    "longitude": 9.1678479
+  },
+  {
+    "street": "Via Ponte",
+    "number": "8",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6757771,
+    "longitude": 9.1656143
+  },
+  {
+    "street": "Via Giacomo Matteotti",
+    "number": "39",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.673644,
+    "longitude": 9.1682659
+  },
+  {
+    "street": "Viale Repubblica",
+    "number": "48",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6727817,
+    "longitude": 9.1723631
+  },
+  {
+    "street": "Via Gianluca Padulli",
+    "number": "86",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6766559,
+    "longitude": 9.1723193
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "29",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6754765,
+    "longitude": 9.1692618
+  },
+  {
+    "street": "Via Gianluca Padulli",
+    "number": "8",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.674917,
+    "longitude": 9.1701228
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "2",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6756805,
+    "longitude": 9.1685331
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "4",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6756533,
+    "longitude": 9.1686163
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "6",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6756271,
+    "longitude": 9.1686767
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "10",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6755263,
+    "longitude": 9.1689312
+  },
+  {
+    "street": "Via Roma",
+    "number": "29",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6766113,
+    "longitude": 9.1688944
+  },
+  {
+    "street": "Via Roma",
+    "number": "49",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6781775,
+    "longitude": 9.1703194
+  },
+  {
+    "street": "Via Fratelli Kennedy",
+    "number": "7",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6639171,
+    "longitude": 9.1836985
+  },
+  {
+    "street": "Via Vittorio Emanuele II",
+    "number": "29",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6761452,
+    "longitude": 9.1670781
+  },
+  {
+    "street": "Via Milano",
+    "number": "27",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.667034,
+    "longitude": 9.1818005
+  },
+  {
+    "street": "Via Don Mario Mauri",
+    "number": "9",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6719701,
+    "longitude": 9.1721867
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "16",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6765182,
+    "longitude": 9.1693417
+  },
+  {
+    "street": "Viale Repubblica",
+    "number": "53",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6727317,
+    "longitude": 9.1719926
+  },
+  {
+    "street": "Via dell'Artigianato",
+    "number": "51/53",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6685534,
+    "longitude": 9.1712144
+  },
+  {
+    "street": "Via dell'Artigianato",
+    "number": "21",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6686378,
+    "longitude": 9.1713222
+  },
+  {
+    "street": "Via dell'Artigianato",
+    "number": "29",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6681508,
+    "longitude": 9.1707531
+  },
+  {
+    "street": "Via Bologna",
+    "number": "31",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6682087,
+    "longitude": 9.1801159
+  },
+  {
+    "street": "Via dell'Artigianato",
+    "number": "4",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6679148,
+    "longitude": 9.1725477
+  },
+  {
+    "street": "Via dell'Artigianato",
+    "number": "39/41",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6683647,
+    "longitude": 9.171023
+  },
+  {
+    "street": "Via Trieste",
+    "number": "43",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6676572,
+    "longitude": 9.1701508
+  },
+  {
+    "street": "Via Bruno Buozzi",
+    "number": "15",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6661353,
+    "longitude": 9.1808773
+  },
+  {
+    "street": "Via dell'Artigianato",
+    "number": "12/14",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6680459,
+    "longitude": 9.1723126
+  },
+  {
+    "street": "Via Bologna",
+    "number": "10a",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6654259,
+    "longitude": 9.1797268
+  },
+  {
+    "street": "Via dell'Artigianato",
+    "number": "40",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6677102,
+    "longitude": 9.1702266
+  },
+  {
+    "street": "Via dell'Artigianato",
+    "number": "16/18",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6682203,
+    "longitude": 9.1720345
+  },
+  {
+    "street": "Via Fratelli Kennedy",
+    "number": "1b",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6643742,
+    "longitude": 9.1800363
+  },
+  {
+    "street": "Via dell'Artigianato",
+    "number": "43/45/47",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6684483,
+    "longitude": 9.1711034
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "16/18",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6684627,
+    "longitude": 9.1726113
+  },
+  {
+    "street": "Via dell'Artigianato",
+    "number": "31",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6682456,
+    "longitude": 9.1708551
+  },
+  {
+    "street": "Via Luigi Einaudi",
+    "number": "44",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6658492,
+    "longitude": 9.1855493
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "7",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6682759,
+    "longitude": 9.1729228
+  },
+  {
+    "street": "Via Milano",
+    "number": "15",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6678053,
+    "longitude": 9.1797457
+  },
+  {
+    "street": "Via dell'Artigianato",
+    "number": "35",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6683172,
+    "longitude": 9.1709535
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "12",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6685954,
+    "longitude": 9.172378
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "37",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6683589,
+    "longitude": 9.1728039
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "36",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6692582,
+    "longitude": 9.170724
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "35",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6691382,
+    "longitude": 9.1709359
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "33",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6691363,
+    "longitude": 9.1705497
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "11/13",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6689958,
+    "longitude": 9.1706114
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "10",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6688252,
+    "longitude": 9.1705926
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "19/21",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6686753,
+    "longitude": 9.1704424
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "28",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6687802,
+    "longitude": 9.1701956
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "27",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6686828,
+    "longitude": 9.1700803
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "26",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6685141,
+    "longitude": 9.1700588
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "25",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6684691,
+    "longitude": 9.1701608
+  },
+  {
+    "street": "Via Giuseppe Di Vittorio",
+    "number": "21",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.670597,
+    "longitude": 9.184823
+  },
+  {
+    "street": "Via Bruno Buozzi",
+    "number": "34",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6690403,
+    "longitude": 9.1819675
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "11",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6739219,
+    "longitude": 9.1694997
+  },
+  {
+    "street": "Via Vittorio Veneto",
+    "number": "8",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6756115,
+    "longitude": 9.1687238
+  },
+  {
+    "street": "Piazza della Libertà",
+    "number": "6",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6759218,
+    "longitude": 9.1684426
+  },
+  {
+    "street": "Via Roma",
+    "number": "1",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6761663,
+    "longitude": 9.1684156
+  },
+  {
+    "street": "Via Don Giovanni Minzoni",
+    "number": "15",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6824328,
+    "longitude": 9.1672245
+  },
+  {
+    "street": "Via Gianluca Padulli",
+    "number": "79",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6766531,
+    "longitude": 9.1714924
+  },
+  {
+    "street": "Via Roma",
+    "number": "20",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6801472,
+    "longitude": 9.1715257
+  },
+  {
+    "street": "Via Roma",
+    "number": "13",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.676343,
+    "longitude": 9.1686035
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "45",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6796034,
+    "longitude": 9.176184
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "47",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6787347,
+    "longitude": 9.1762445
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "30",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6782533,
+    "longitude": 9.1759298
+  },
+  {
+    "street": "Via Gianluca Padulli",
+    "number": "109/111",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6804705,
+    "longitude": 9.174334
+  },
+  {
+    "street": "Viale Repubblica",
+    "number": "73",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6745788,
+    "longitude": 9.1741002
+  },
+  {
+    "street": "Viale Repubblica",
+    "number": "116",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6758448,
+    "longitude": 9.175867
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "17",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6801719,
+    "longitude": 9.1750097
+  },
+  {
+    "street": "Via Edmondo De Amicis",
+    "number": "39",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6792461,
+    "longitude": 9.1751953
+  },
+  {
+    "street": "Viale Repubblica",
+    "number": "107",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6797477,
+    "longitude": 9.1782067
+  },
+  {
+    "street": "Padulli",
+    "number": "79",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6781474,
+    "longitude": 9.172932
+  },
+  {
+    "street": "Via Piave",
+    "number": "4",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6806538,
+    "longitude": 9.1708308
+  },
+  {
+    "street": "Via San Domenico di Guzmán",
+    "number": "11",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6776706,
+    "longitude": 9.1684447
+  },
+  {
+    "street": "Via Vittorio Emanuele II",
+    "number": "3",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6760048,
+    "longitude": 9.1677707
+  },
+  {
+    "street": "Via Piave",
+    "number": "3",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6807916,
+    "longitude": 9.1697622
+  },
+  {
+    "street": "Via Don Giovanni Minzoni",
+    "number": "21",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6825401,
+    "longitude": 9.1671253
+  },
+  {
+    "street": "Via Don Giovanni Minzoni",
+    "number": "19",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6828978,
+    "longitude": 9.1672649
+  },
+  {
+    "street": "Via Don Giovanni Minzoni",
+    "number": "18",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6829786,
+    "longitude": 9.1674151
+  },
+  {
+    "street": "Via Paolo VI",
+    "number": "3",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.671004,
+    "longitude": 9.1794915
+  },
+  {
+    "street": "Via Europa",
+    "number": "28",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6727274,
+    "longitude": 9.1833491
+  },
+  {
+    "street": "Via Martin Luther King",
+    "number": "8",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6677761,
+    "longitude": 9.1764351
+  },
+  {
+    "street": "Via Francesco Baracca",
+    "number": "4",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6718797,
+    "longitude": 9.1754763
+  },
+  {
+    "street": "Via Piemonte",
+    "number": "6",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6631517,
+    "longitude": 9.1819657
+  },
+  {
+    "street": "Via Fratelli Kennedy",
+    "number": "24",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6629259,
+    "longitude": 9.1838773
+  },
+  {
+    "street": "Via Achille Grandi",
+    "number": "1",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6754507,
+    "longitude": 9.168003
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "19",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6696934,
+    "longitude": 9.1716823
+  },
+  {
+    "street": "Via dei Ronchi",
+    "number": "26",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6822373,
+    "longitude": 9.1584052
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "10",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6731234,
+    "longitude": 9.1703436
+  },
+  {
+    "street": "Via Achille Grandi",
+    "number": "4",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6758812,
+    "longitude": 9.1678263
+  },
+  {
+    "street": "Via Achille Grandi",
+    "number": "12",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6756676,
+    "longitude": 9.1676439
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "55",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6679126,
+    "longitude": 9.1760419
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "49",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6680913,
+    "longitude": 9.1751974
+  },
+  {
+    "street": "Via Milano",
+    "number": "13",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6679293,
+    "longitude": 9.1791832
+  },
+  {
+    "street": "Via Milano",
+    "number": "11",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.668525,
+    "longitude": 9.1784433
+  },
+  {
+    "street": "Via Martin Luther King",
+    "number": "3",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6682282,
+    "longitude": 9.1768766
+  },
+  {
+    "street": "Via Palermo",
+    "number": "9",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6676308,
+    "longitude": 9.1788996
+  },
+  {
+    "street": "Via Don Filippo Canali",
+    "number": "1",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6732358,
+    "longitude": 9.1694929
+  },
+  {
+    "street": "Viale Repubblica",
+    "number": "2",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6695208,
+    "longitude": 9.1698935
+  },
+  {
+    "street": "Via Europa",
+    "number": "30",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6724214,
+    "longitude": 9.184052
+  },
+  {
+    "street": "Via Europa",
+    "number": "18",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6715458,
+    "longitude": 9.1841125
+  },
+  {
+    "street": "Via Suore del Cottolengo",
+    "number": "11",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6715081,
+    "longitude": 9.1844583
+  },
+  {
+    "street": "Via Bruno Buozzi",
+    "number": "38",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.670096,
+    "longitude": 9.1825587
+  },
+  {
+    "street": "Via Bruno Buozzi",
+    "number": "42",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.670651,
+    "longitude": 9.18265
+  },
+  {
+    "street": "Via Bruno Buozzi",
+    "number": "27",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6680023,
+    "longitude": 9.1812504
+  },
+  {
+    "street": "Via Milano",
+    "number": "39",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6675582,
+    "longitude": 9.1828205
+  },
+  {
+    "street": "Via Milano",
+    "number": "47",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.66744,
+    "longitude": 9.18386
+  },
+  {
+    "street": "Via Bologna",
+    "number": "1",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6644438,
+    "longitude": 9.1788821
+  },
+  {
+    "street": "Via Piemonte",
+    "number": "7",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6636704,
+    "longitude": 9.1814774
+  },
+  {
+    "street": "Via Fratelli Kennedy",
+    "number": "18a",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.66369,
+    "longitude": 9.1826825
+  },
+  {
+    "street": "Via Fratelli Kennedy",
+    "number": "26",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6635079,
+    "longitude": 9.1841123
+  },
+  {
+    "street": "Via Fratelli Kennedy",
+    "number": "10",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6642872,
+    "longitude": 9.1855047
+  },
+  {
+    "street": "Via Filippo Turati",
+    "number": "14",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6636714,
+    "longitude": 9.1859436
+  },
+  {
+    "street": "Via Filippo Turati",
+    "number": "20e",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6624216,
+    "longitude": 9.1865891
+  },
+  {
+    "street": "Via Filippo Turati",
+    "number": "9",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.665077,
+    "longitude": 9.1860214
+  },
+  {
+    "street": "Via Filippo Turati",
+    "number": "4",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6654927,
+    "longitude": 9.1861543
+  },
+  {
+    "street": "Via Toscana",
+    "number": "6",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6669019,
+    "longitude": 9.1782128
+  },
+  {
+    "street": "Via Bologna",
+    "number": "12",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6659138,
+    "longitude": 9.1799821
+  },
+  {
+    "street": "Via Luigi Einaudi",
+    "number": "58",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6655831,
+    "longitude": 9.185776
+  },
+  {
+    "street": "Via Milano",
+    "number": "46",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6665304,
+    "longitude": 9.1819934
+  },
+  {
+    "street": "Via Bologna",
+    "number": "17",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6662651,
+    "longitude": 9.1790899
+  },
+  {
+    "street": "Via Bologna",
+    "number": "6",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6651189,
+    "longitude": 9.179725
+  },
+  {
+    "street": "Via Milano",
+    "number": "54",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6665754,
+    "longitude": 9.1834323
+  },
+  {
+    "street": "Via Milano",
+    "number": "58",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6663041,
+    "longitude": 9.1841666
+  },
+  {
+    "street": "Via Milano",
+    "number": "56",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6667519,
+    "longitude": 9.1841389
+  },
+  {
+    "street": "Via Milano",
+    "number": "42",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6665023,
+    "longitude": 9.1815413
+  },
+  {
+    "street": "Via Toscana",
+    "number": "5",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6663178,
+    "longitude": 9.1783817
+  },
+  {
+    "street": "Via Bologna",
+    "number": "23",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6672207,
+    "longitude": 9.179161
+  },
+  {
+    "street": "Via Bruno Buozzi",
+    "number": "2",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6646508,
+    "longitude": 9.1814243
+  },
+  {
+    "street": "Via Luigi Einaudi",
+    "number": "5",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6661904,
+    "longitude": 9.1852347
+  },
+  {
+    "street": "Viale Repubblica",
+    "number": "6",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6700647,
+    "longitude": 9.1698005
+  },
+  {
+    "street": "Viale Repubblica",
+    "number": "3",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6704393,
+    "longitude": 9.1684867
+  },
+  {
+    "street": "Via Milano",
+    "number": "50",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6663981,
+    "longitude": 9.1828846
+  },
+  {
+    "street": "Via Bruno Buozzi",
+    "number": "46",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6714456,
+    "longitude": 9.1830555
+  },
+  {
+    "street": "Via Europa",
+    "number": "7",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6705707,
+    "longitude": 9.1831361
+  },
+  {
+    "street": "Via Milano",
+    "number": "4",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6685837,
+    "longitude": 9.1754372
+  },
+  {
+    "street": "Via Milano",
+    "number": "51",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6674201,
+    "longitude": 9.1857736
+  },
+  {
+    "street": "Via per Cabiate",
+    "number": "111",
+    "city": {
+      "name": "Cabiate",
+      "istat": "013035"
+    },
+    "latitude": 45.6818527,
+    "longitude": 9.1724047
+  }
+]

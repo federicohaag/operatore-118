@@ -1,0 +1,112 @@
+[
+  {
+    "street": "Via Roma",
+    "number": "2",
+    "city": {
+      "name": "Blevio",
+      "istat": "013026"
+    },
+    "latitude": 45.8494006,
+    "longitude": 9.110376
+  },
+  {
+    "street": "Via Mezzovico",
+    "number": "2",
+    "city": {
+      "name": "Blevio",
+      "istat": "013026"
+    },
+    "latitude": 45.8410952,
+    "longitude": 9.104985
+  },
+  {
+    "street": "Via Mezzovico",
+    "number": "8",
+    "city": {
+      "name": "Blevio",
+      "istat": "013026"
+    },
+    "latitude": 45.8415189,
+    "longitude": 9.1051031
+  },
+  {
+    "street": "Via Enrico Caronti",
+    "number": "126",
+    "city": {
+      "name": "Blevio",
+      "istat": "013026"
+    },
+    "latitude": 45.8489302,
+    "longitude": 9.1097472
+  },
+  {
+    "street": "Via Enrico Caronti",
+    "number": "116",
+    "city": {
+      "name": "Blevio",
+      "istat": "013026"
+    },
+    "latitude": 45.8481491,
+    "longitude": 9.1081755
+  },
+  {
+    "street": "Via Enrico Caronti",
+    "number": "67",
+    "city": {
+      "name": "Blevio",
+      "istat": "013026"
+    },
+    "latitude": 45.8464975,
+    "longitude": 9.1056665
+  },
+  {
+    "street": "Via Enrico Caronti",
+    "number": "69",
+    "city": {
+      "name": "Blevio",
+      "istat": "013026"
+    },
+    "latitude": 45.8494502,
+    "longitude": 9.1089295
+  },
+  {
+    "street": "Via Enrico Caronti",
+    "number": "53",
+    "city": {
+      "name": "Blevio",
+      "istat": "013026"
+    },
+    "latitude": 45.8445804,
+    "longitude": 9.1049934
+  },
+  {
+    "street": "Via per Brunate",
+    "number": "39",
+    "city": {
+      "name": "Blevio",
+      "istat": "013026"
+    },
+    "latitude": 45.8340358,
+    "longitude": 9.1004885
+  },
+  {
+    "street": "Via alle Colme",
+    "number": "28",
+    "city": {
+      "name": "Blevio",
+      "istat": "013026"
+    },
+    "latitude": 45.8276438,
+    "longitude": 9.113724
+  },
+  {
+    "street": "Cazzanore",
+    "number": "15",
+    "city": {
+      "name": "Blevio",
+      "istat": "013026"
+    },
+    "latitude": 45.8452061,
+    "longitude": 9.1072697
+  }
+]

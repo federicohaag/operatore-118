@@ -1,0 +1,12 @@
+[
+  {
+    "street": "Via Castello",
+    "number": "2",
+    "city": {
+      "name": "Lurago Marinone",
+      "istat": "013137"
+    },
+    "latitude": 45.7056112,
+    "longitude": 8.9829594
+  }
+]

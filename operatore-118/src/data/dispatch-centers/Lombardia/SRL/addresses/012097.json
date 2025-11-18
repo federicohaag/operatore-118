@@ -1,0 +1,1962 @@
+[
+  {
+    "street": "Via Fratelli Sapori",
+    "number": "29a",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9474362,
+    "longitude": 8.8345
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "14",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9514983,
+    "longitude": 8.8346969
+  },
+  {
+    "street": "Via Statale",
+    "number": "24",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9459783,
+    "longitude": 8.8339476
+  },
+  {
+    "street": "Via del Quartiere",
+    "number": "2",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9501334,
+    "longitude": 8.8319424
+  },
+  {
+    "street": "Via San Camillo",
+    "number": "73",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9503161,
+    "longitude": 8.8394183
+  },
+  {
+    "street": "Via San Camillo",
+    "number": "32",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9498921,
+    "longitude": 8.8373818
+  },
+  {
+    "street": "Via Fratelli Sapori",
+    "number": "4",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9492463,
+    "longitude": 8.8349506
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "17",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9516796,
+    "longitude": 8.8338111
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "12",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9505008,
+    "longitude": 8.83304
+  },
+  {
+    "street": "Via Eugenio Pellini",
+    "number": "12",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9502211,
+    "longitude": 8.8336571
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "35",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9515538,
+    "longitude": 8.8328113
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "27",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9513448,
+    "longitude": 8.8326466
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "8",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9506549,
+    "longitude": 8.832543
+  },
+  {
+    "street": "Via Valleggio",
+    "number": "18",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9508822,
+    "longitude": 8.8326049
+  },
+  {
+    "street": "Via Statale",
+    "number": "233",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9505246,
+    "longitude": 8.8408562
+  },
+  {
+    "street": "Via Cavalier Busti",
+    "number": "14",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9515068,
+    "longitude": 8.8338125
+  },
+  {
+    "street": "Via Cavalier Busti",
+    "number": "6",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9515683,
+    "longitude": 8.8335764
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "31",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9514512,
+    "longitude": 8.8326747
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "33",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9514638,
+    "longitude": 8.832701
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "37",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9516392,
+    "longitude": 8.8328522
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "24",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9516683,
+    "longitude": 8.8329189
+  },
+  {
+    "street": "Via Mastri Marchirolesi",
+    "number": "1",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9526015,
+    "longitude": 8.8349578
+  },
+  {
+    "street": "Via Mastri Marchirolesi",
+    "number": "2",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9526658,
+    "longitude": 8.8349524
+  },
+  {
+    "street": "Via Statale",
+    "number": "32",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9435411,
+    "longitude": 8.8302965
+  },
+  {
+    "street": "Via Carpio",
+    "number": "20",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9388859,
+    "longitude": 8.8282032
+  },
+  {
+    "street": "Via Statale",
+    "number": "29",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9443661,
+    "longitude": 8.8343287
+  },
+  {
+    "street": "Via Statale",
+    "number": "35",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9435356,
+    "longitude": 8.8313499
+  },
+  {
+    "street": "Via Statale",
+    "number": "27",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9455955,
+    "longitude": 8.8346126
+  },
+  {
+    "street": "Via Giosuè Carducci",
+    "number": "20",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9492043,
+    "longitude": 8.831127
+  },
+  {
+    "street": "Via Giosuè Carducci",
+    "number": "23",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9493501,
+    "longitude": 8.8312261
+  },
+  {
+    "street": "Via Fratelli Sapori",
+    "number": "31",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9473458,
+    "longitude": 8.8343068
+  },
+  {
+    "street": "Via Fratelli Sapori",
+    "number": "29",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9474071,
+    "longitude": 8.8343977
+  },
+  {
+    "street": "Piazza Leonardo Borasio",
+    "number": "6",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9501085,
+    "longitude": 8.8326238
+  },
+  {
+    "street": "Piazza Leonardo Borasio",
+    "number": "7",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9500699,
+    "longitude": 8.8326734
+  },
+  {
+    "street": "Piazza Leonardo Borasio",
+    "number": "3",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9501994,
+    "longitude": 8.8324088
+  },
+  {
+    "street": "Piazza Leonardo Borasio",
+    "number": "4",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9502004,
+    "longitude": 8.832472
+  },
+  {
+    "street": "Vicolo Canicci",
+    "number": "13",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9496555,
+    "longitude": 8.8321119
+  },
+  {
+    "street": "Vicolo Canicci",
+    "number": "7",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9497226,
+    "longitude": 8.8322157
+  },
+  {
+    "street": "Vicolo Canicci",
+    "number": "14",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9498001,
+    "longitude": 8.8322531
+  },
+  {
+    "street": "Vicolo Canicci",
+    "number": "11",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9496519,
+    "longitude": 8.8321484
+  },
+  {
+    "street": "Vicolo Canicci",
+    "number": "16",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9496975,
+    "longitude": 8.8321435
+  },
+  {
+    "street": "Via Roma",
+    "number": "4",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.950203,
+    "longitude": 8.8322391
+  },
+  {
+    "street": "Via Roma",
+    "number": "2",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9502007,
+    "longitude": 8.8323164
+  },
+  {
+    "street": "Via Roma",
+    "number": "6",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9502049,
+    "longitude": 8.8321766
+  },
+  {
+    "street": "Via Roma",
+    "number": "8",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9502084,
+    "longitude": 8.8320469
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "19",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9508593,
+    "longitude": 8.8324499
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "17",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9507781,
+    "longitude": 8.8324634
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "13",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9507027,
+    "longitude": 8.8323538
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "15",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9507487,
+    "longitude": 8.832412
+  },
+  {
+    "street": "Via Valleggio",
+    "number": "29",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9509754,
+    "longitude": 8.8325638
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "12",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9507933,
+    "longitude": 8.8325036
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "10",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9507619,
+    "longitude": 8.832524
+  },
+  {
+    "street": "Piazza Leonardo Borasio",
+    "number": "1",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9500913,
+    "longitude": 8.8323204
+  },
+  {
+    "street": "Piazza Leonardo Borasio",
+    "number": "2",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9501323,
+    "longitude": 8.8323304
+  },
+  {
+    "street": "Vicolo Canicci",
+    "number": "9",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9496669,
+    "longitude": 8.8321679
+  },
+  {
+    "street": "Vicolo Canicci",
+    "number": "3h",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9499205,
+    "longitude": 8.8323653
+  },
+  {
+    "street": "Vicolo Canicci",
+    "number": "12",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9498191,
+    "longitude": 8.8322583
+  },
+  {
+    "street": "Vicolo Canicci",
+    "number": "10",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9498839,
+    "longitude": 8.8321013
+  },
+  {
+    "street": "Vicolo Canicci",
+    "number": "5",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9498203,
+    "longitude": 8.8322834
+  },
+  {
+    "street": "Vicolo Canicci",
+    "number": "3",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.949937,
+    "longitude": 8.8323824
+  },
+  {
+    "street": "Piazza Leonardo Borasio",
+    "number": "5",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9501453,
+    "longitude": 8.8325766
+  },
+  {
+    "street": "Vicolo Canicci",
+    "number": "4",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9500991,
+    "longitude": 8.8321563
+  },
+  {
+    "street": "Vicolo Canicci",
+    "number": "2",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9500916,
+    "longitude": 8.8322057
+  },
+  {
+    "street": "Via del Quartiere",
+    "number": "1",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9501543,
+    "longitude": 8.8319753
+  },
+  {
+    "street": "Via del Quartiere",
+    "number": "5",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9499969,
+    "longitude": 8.8318649
+  },
+  {
+    "street": "Via del Quartiere",
+    "number": "4",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9500775,
+    "longitude": 8.8319027
+  },
+  {
+    "street": "Via del Quartiere",
+    "number": "3",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9500847,
+    "longitude": 8.8319366
+  },
+  {
+    "street": "Via del Quartiere",
+    "number": "6",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9500116,
+    "longitude": 8.831855
+  },
+  {
+    "street": "Via del Quartiere",
+    "number": "7",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9499534,
+    "longitude": 8.8318274
+  },
+  {
+    "street": "Via del Quartiere",
+    "number": "9",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9498172,
+    "longitude": 8.8317948
+  },
+  {
+    "street": "Via Vaglio",
+    "number": "14",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9498939,
+    "longitude": 8.8319239
+  },
+  {
+    "street": "Via del Quartiere",
+    "number": "12",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9498624,
+    "longitude": 8.8316923
+  },
+  {
+    "street": "Via Vaglio",
+    "number": "20",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9497498,
+    "longitude": 8.8318827
+  },
+  {
+    "street": "Via Vaglio",
+    "number": "18",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.949789,
+    "longitude": 8.8318733
+  },
+  {
+    "street": "Vicolo Canicci",
+    "number": "15",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9496719,
+    "longitude": 8.8320284
+  },
+  {
+    "street": "Via Vaglio",
+    "number": "9",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9498138,
+    "longitude": 8.831988
+  },
+  {
+    "street": "Via Vaglio",
+    "number": "16",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9498252,
+    "longitude": 8.8318465
+  },
+  {
+    "street": "Via Vaglio",
+    "number": "18e",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.949772,
+    "longitude": 8.8318411
+  },
+  {
+    "street": "Via del Quartiere",
+    "number": "8",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9499614,
+    "longitude": 8.8318128
+  },
+  {
+    "street": "Vicolo Canicci",
+    "number": "17",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9497012,
+    "longitude": 8.8319531
+  },
+  {
+    "street": "Via Vaglio",
+    "number": "7",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9498596,
+    "longitude": 8.8320172
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "29",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9513963,
+    "longitude": 8.8326168
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "20",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9513481,
+    "longitude": 8.8326908
+  },
+  {
+    "street": "Via Pradello",
+    "number": "2",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9514226,
+    "longitude": 8.8320915
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "2",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9503171,
+    "longitude": 8.8326919
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "1",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9502791,
+    "longitude": 8.8326488
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "21",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9510222,
+    "longitude": 8.8324178
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "23",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.951211,
+    "longitude": 8.8323669
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "14",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9510881,
+    "longitude": 8.8325006
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "4",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9504404,
+    "longitude": 8.8325884
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "9",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9504656,
+    "longitude": 8.8324565
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "11",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9505227,
+    "longitude": 8.8324262
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "5",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9504026,
+    "longitude": 8.8325409
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "7",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9504426,
+    "longitude": 8.832488
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "3",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9503139,
+    "longitude": 8.8326267
+  },
+  {
+    "street": "Via Valleggio",
+    "number": "19",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9513918,
+    "longitude": 8.8315564
+  },
+  {
+    "street": "Via Pradello",
+    "number": "1",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9514397,
+    "longitude": 8.8317033
+  },
+  {
+    "street": "Via Mastri Marchirolesi",
+    "number": "12",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9530711,
+    "longitude": 8.8334324
+  },
+  {
+    "street": "Via Mastri Marchirolesi",
+    "number": "14",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9530272,
+    "longitude": 8.8332465
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "32",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.953243,
+    "longitude": 8.8329723
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "55",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9531732,
+    "longitude": 8.832472
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "59",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9532419,
+    "longitude": 8.8327099
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "28",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9530039,
+    "longitude": 8.8331413
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "30",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9531222,
+    "longitude": 8.8329654
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "53",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.953044,
+    "longitude": 8.8325054
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "55a",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9531627,
+    "longitude": 8.8324459
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "51",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.95303,
+    "longitude": 8.8329302
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "57",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9532007,
+    "longitude": 8.8327072
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "22",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9515956,
+    "longitude": 8.832971
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "39",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9516997,
+    "longitude": 8.8328772
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "26",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9520168,
+    "longitude": 8.8330018
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "65",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9532768,
+    "longitude": 8.8328799
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "69",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9536255,
+    "longitude": 8.8331015
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "67",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9534259,
+    "longitude": 8.8329855
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "36",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9538065,
+    "longitude": 8.8333999
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "71",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9537171,
+    "longitude": 8.8331698
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "34",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9534283,
+    "longitude": 8.8331533
+  },
+  {
+    "street": "Via Giuseppe Mazzini",
+    "number": "73",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.953855,
+    "longitude": 8.8332789
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "13",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9510848,
+    "longitude": 8.8340176
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "12",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9509592,
+    "longitude": 8.8340377
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "15",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.951299,
+    "longitude": 8.8341859
+  },
+  {
+    "street": "Via Cavalier Busti",
+    "number": "8",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9513559,
+    "longitude": 8.8334772
+  },
+  {
+    "street": "Via Cavalier Busti",
+    "number": "16",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9514263,
+    "longitude": 8.8340458
+  },
+  {
+    "street": "Via Cavalier Busti",
+    "number": "10",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.951343,
+    "longitude": 8.8335744
+  },
+  {
+    "street": "Via Cavalier Busti",
+    "number": "2",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9517077,
+    "longitude": 8.8331521
+  },
+  {
+    "street": "Via Cavalier Busti",
+    "number": "12",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9514597,
+    "longitude": 8.8336074
+  },
+  {
+    "street": "Via Cavalier Busti",
+    "number": "4",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9516723,
+    "longitude": 8.8332681
+  },
+  {
+    "street": "Piazza Quattro Novembre",
+    "number": "5",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9509888,
+    "longitude": 8.8311596
+  },
+  {
+    "street": "Piazza Quattro Novembre",
+    "number": "6",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9510078,
+    "longitude": 8.8312385
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "10",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9507898,
+    "longitude": 8.8339032
+  },
+  {
+    "street": "Via Eugenio Pellini",
+    "number": "1a",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9504057,
+    "longitude": 8.8330975
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "3",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9504592,
+    "longitude": 8.8329276
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "10",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.950371,
+    "longitude": 8.8329856
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "6",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9505072,
+    "longitude": 8.8337635
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "9",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9508531,
+    "longitude": 8.833826
+  },
+  {
+    "street": "Via Eugenio Pellini",
+    "number": "16",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9501666,
+    "longitude": 8.8337393
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "8",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9507429,
+    "longitude": 8.8338728
+  },
+  {
+    "street": "Via Eugenio Pellini",
+    "number": "6",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9503355,
+    "longitude": 8.8331381
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "3",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9505454,
+    "longitude": 8.8337288
+  },
+  {
+    "street": "Via Eugenio Pellini",
+    "number": "4",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9503387,
+    "longitude": 8.833083
+  },
+  {
+    "street": "Via Eugenio Pellini",
+    "number": "7",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9503134,
+    "longitude": 8.8334709
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "11",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9509267,
+    "longitude": 8.8338996
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "5",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9506864,
+    "longitude": 8.8337654
+  },
+  {
+    "street": "Via Eugenio Pellini",
+    "number": "1",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9504532,
+    "longitude": 8.8330003
+  },
+  {
+    "street": "Via Eugenio Pellini",
+    "number": "4a",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9503269,
+    "longitude": 8.8331042
+  },
+  {
+    "street": "Via Eugenio Pellini",
+    "number": "3",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9503898,
+    "longitude": 8.8331721
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "4",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9503135,
+    "longitude": 8.8327835
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "8",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.950369,
+    "longitude": 8.8328973
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "2",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9503389,
+    "longitude": 8.8336653
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "1",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9504049,
+    "longitude": 8.8328509
+  },
+  {
+    "street": "Via Eugenio Pellini",
+    "number": "5",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9503538,
+    "longitude": 8.8332898
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "4",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9503913,
+    "longitude": 8.833693
+  },
+  {
+    "street": "Via Eugenio Pellini",
+    "number": "2",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9503504,
+    "longitude": 8.8330604
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "1",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9503636,
+    "longitude": 8.8336196
+  },
+  {
+    "street": "Via Eugenio Pellini",
+    "number": "10",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9502611,
+    "longitude": 8.833569
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "6",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.950339,
+    "longitude": 8.8328208
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "7",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9507784,
+    "longitude": 8.833771
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "5",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9504969,
+    "longitude": 8.8329749
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "17",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9506408,
+    "longitude": 8.833531
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "14",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9505025,
+    "longitude": 8.833254
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "13",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9505503,
+    "longitude": 8.8333062
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "19",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9506927,
+    "longitude": 8.8336225
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "15",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9505977,
+    "longitude": 8.8334413
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "11",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9505909,
+    "longitude": 8.8331502
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "9",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.950623,
+    "longitude": 8.8330896
+  },
+  {
+    "street": "Via Camillo Benso Conte di Cavour",
+    "number": "16",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9505119,
+    "longitude": 8.8333453
+  },
+  {
+    "street": "Via Valleggio",
+    "number": "33",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.950754,
+    "longitude": 8.8329053
+  },
+  {
+    "street": "Via Valleggio",
+    "number": "4",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9511193,
+    "longitude": 8.8319858
+  },
+  {
+    "street": "Via Valleggio",
+    "number": "20",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9508253,
+    "longitude": 8.8327423
+  },
+  {
+    "street": "Via Valleggio",
+    "number": "22",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9507833,
+    "longitude": 8.8328044
+  },
+  {
+    "street": "Via Valleggio",
+    "number": "23",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9513351,
+    "longitude": 8.8317609
+  },
+  {
+    "street": "Via Valleggio",
+    "number": "24",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9507703,
+    "longitude": 8.8328258
+  },
+  {
+    "street": "Via Valleggio",
+    "number": "26",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9507577,
+    "longitude": 8.8328467
+  },
+  {
+    "street": "Via Valleggio",
+    "number": "16",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9509532,
+    "longitude": 8.8323956
+  },
+  {
+    "street": "Via Valleggio",
+    "number": "10",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9510456,
+    "longitude": 8.8321635
+  },
+  {
+    "street": "Via Valleggio",
+    "number": "28",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9507447,
+    "longitude": 8.8328683
+  },
+  {
+    "street": "Via Valleggio",
+    "number": "14",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9509844,
+    "longitude": 8.8323251
+  },
+  {
+    "street": "Via Valleggio",
+    "number": "6",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9510911,
+    "longitude": 8.8320521
+  },
+  {
+    "street": "Via Valleggio",
+    "number": "25",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9511101,
+    "longitude": 8.8321598
+  },
+  {
+    "street": "Via Valleggio",
+    "number": "8",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.951065,
+    "longitude": 8.8321057
+  },
+  {
+    "street": "Via Valleggio",
+    "number": "12",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9510199,
+    "longitude": 8.8322581
+  },
+  {
+    "street": "Via Valleggio",
+    "number": "7",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9512866,
+    "longitude": 8.8310206
+  },
+  {
+    "street": "Via Valleggio",
+    "number": "5",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9512146,
+    "longitude": 8.8311164
+  },
+  {
+    "street": "Via Valleggio",
+    "number": "11",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9513578,
+    "longitude": 8.8309302
+  },
+  {
+    "street": "Via Valleggio",
+    "number": "1",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9511236,
+    "longitude": 8.8312062
+  },
+  {
+    "street": "Via Valleggio",
+    "number": "15",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9513764,
+    "longitude": 8.8310986
+  },
+  {
+    "street": "Via Valleggio",
+    "number": "3",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9511648,
+    "longitude": 8.8311664
+  },
+  {
+    "street": "Via Valleggio",
+    "number": "13",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9513976,
+    "longitude": 8.8310482
+  },
+  {
+    "street": "Via Valleggio",
+    "number": "9",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9513204,
+    "longitude": 8.8309745
+  },
+  {
+    "street": "Via E. Scolari",
+    "number": "1",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9469374,
+    "longitude": 8.8325297
+  },
+  {
+    "street": "Via Stanislavo Odoni",
+    "number": "1",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9461828,
+    "longitude": 8.8325024
+  },
+  {
+    "street": "Via Fratelli Sapori",
+    "number": "3",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9489975,
+    "longitude": 8.8355535
+  },
+  {
+    "street": "Via Mastri Marchirolesi",
+    "number": "5",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.952471,
+    "longitude": 8.834124
+  },
+  {
+    "street": "Via Statale",
+    "number": "57",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9413162,
+    "longitude": 8.8284431
+  },
+  {
+    "street": "Via Costantino",
+    "number": "3",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9503203,
+    "longitude": 8.8413385
+  },
+  {
+    "street": "Via Cavaliere Emilio Busetti",
+    "number": "7a",
+    "city": {
+      "name": "Marchirolo",
+      "istat": "012097"
+    },
+    "latitude": 45.9429794,
+    "longitude": 8.8295362
+  }
+]

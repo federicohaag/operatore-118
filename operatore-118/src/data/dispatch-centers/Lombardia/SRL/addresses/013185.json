@@ -1,0 +1,42 @@
+[
+  {
+    "street": "Via alla Grona",
+    "number": "92",
+    "city": {
+      "name": "Plesio",
+      "istat": "013185"
+    },
+    "latitude": 46.0425477,
+    "longitude": 9.2271726
+  },
+  {
+    "street": "Via Alla Grona",
+    "number": "41/2",
+    "city": {
+      "name": "Plesio",
+      "istat": "013185"
+    },
+    "latitude": 46.036259,
+    "longitude": 9.2309725
+  },
+  {
+    "street": "Via del Murello",
+    "number": "93",
+    "city": {
+      "name": "Plesio",
+      "istat": "013185"
+    },
+    "latitude": 46.0545672,
+    "longitude": 9.2341057
+  },
+  {
+    "street": "Via San Gregorio",
+    "number": "2",
+    "city": {
+      "name": "Plesio",
+      "istat": "013185"
+    },
+    "latitude": 46.052931,
+    "longitude": 9.2332008
+  }
+]

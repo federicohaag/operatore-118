@@ -1,0 +1,402 @@
+[
+  {
+    "street": "Via Tridi",
+    "number": "1",
+    "city": {
+      "name": "Torno",
+      "istat": "013223"
+    },
+    "latitude": 45.8574058,
+    "longitude": 9.1162155
+  },
+  {
+    "street": "Via Plinio",
+    "number": "20",
+    "city": {
+      "name": "Torno",
+      "istat": "013223"
+    },
+    "latitude": 45.8570062,
+    "longitude": 9.1132504
+  },
+  {
+    "street": "Piazza Guido Casartelli",
+    "number": "3",
+    "city": {
+      "name": "Torno",
+      "istat": "013223"
+    },
+    "latitude": 45.8563301,
+    "longitude": 9.1134878
+  },
+  {
+    "street": "Via Roma",
+    "number": "28",
+    "city": {
+      "name": "Torno",
+      "istat": "013223"
+    },
+    "latitude": 45.8570578,
+    "longitude": 9.1158173
+  },
+  {
+    "street": "Via Cesare Poggi",
+    "number": "25",
+    "city": {
+      "name": "Torno",
+      "istat": "013223"
+    },
+    "latitude": 45.8578086,
+    "longitude": 9.1242887
+  },
+  {
+    "street": "Via Roma",
+    "number": "27",
+    "city": {
+      "name": "Torno",
+      "istat": "013223"
+    },
+    "latitude": 45.8570134,
+    "longitude": 9.1155566
+  },
+  {
+    "street": "Via Cesare Poggi",
+    "number": "10",
+    "city": {
+      "name": "Torno",
+      "istat": "013223"
+    },
+    "latitude": 45.8576004,
+    "longitude": 9.1204954
+  },
+  {
+    "street": "Piazza Venti Settembre",
+    "number": "1",
+    "city": {
+      "name": "Torno",
+      "istat": "013223"
+    },
+    "latitude": 45.8574548,
+    "longitude": 9.1176911
+  },
+  {
+    "street": "Via Tridi",
+    "number": "18",
+    "city": {
+      "name": "Torno",
+      "istat": "013223"
+    },
+    "latitude": 45.8570846,
+    "longitude": 9.1175278
+  },
+  {
+    "street": "Piazza Venti Settembre",
+    "number": "2",
+    "city": {
+      "name": "Torno",
+      "istat": "013223"
+    },
+    "latitude": 45.8574524,
+    "longitude": 9.1178115
+  },
+  {
+    "street": "Via Tridi",
+    "number": "2",
+    "city": {
+      "name": "Torno",
+      "istat": "013223"
+    },
+    "latitude": 45.857317,
+    "longitude": 9.1161931
+  },
+  {
+    "street": "Piazza Venti Settembre",
+    "number": "3",
+    "city": {
+      "name": "Torno",
+      "istat": "013223"
+    },
+    "latitude": 45.8574207,
+    "longitude": 9.1178279
+  },
+  {
+    "street": "Via Tridi",
+    "number": "33",
+    "city": {
+      "name": "Torno",
+      "istat": "013223"
+    },
+    "latitude": 45.8570064,
+    "longitude": 9.1173795
+  },
+  {
+    "street": "Via per Molina",
+    "number": "5",
+    "city": {
+      "name": "Torno",
+      "istat": "013223"
+    },
+    "latitude": 45.8575068,
+    "longitude": 9.1201242
+  },
+  {
+    "street": "Via Santa Croce",
+    "number": "6",
+    "city": {
+      "name": "Torno",
+      "istat": "013223"
+    },
+    "latitude": 45.857311,
+    "longitude": 9.1170997
+  },
+  {
+    "street": "Via Santa Croce",
+    "number": "8",
+    "city": {
+      "name": "Torno",
+      "istat": "013223"
+    },
+    "latitude": 45.8573433,
+    "longitude": 9.1170819
+  },
+  {
+    "street": "Via Roma",
+    "number": "29",
+    "city": {
+      "name": "Torno",
+      "istat": "013223"
+    },
+    "latitude": 45.8572753,
+    "longitude": 9.1157419
+  },
+  {
+    "street": "Via Pliniana",
+    "number": "15",
+    "city": {
+      "name": "Torno",
+      "istat": "013223"
+    },
+    "latitude": 45.858246,
+    "longitude": 9.1272991
+  },
+  {
+    "street": "Via al Pozzo",
+    "number": "17",
+    "city": {
+      "name": "Torno",
+      "istat": "013223"
+    },
+    "latitude": 45.8574687,
+    "longitude": 9.1186279
+  },
+  {
+    "street": "Via per Rasina",
+    "number": "1",
+    "city": {
+      "name": "Torno",
+      "istat": "013223"
+    },
+    "latitude": 45.8553687,
+    "longitude": 9.1154998
+  },
+  {
+    "street": "Via per Rasina",
+    "number": "3",
+    "city": {
+      "name": "Torno",
+      "istat": "013223"
+    },
+    "latitude": 45.8553336,
+    "longitude": 9.1154749
+  },
+  {
+    "street": "Via Tridi",
+    "number": "24",
+    "city": {
+      "name": "Torno",
+      "istat": "013223"
+    },
+    "latitude": 45.8569714,
+    "longitude": 9.1179476
+  },
+  {
+    "street": "Via Tridi",
+    "number": "28",
+    "city": {
+      "name": "Torno",
+      "istat": "013223"
+    },
+    "latitude": 45.8569623,
+    "longitude": 9.1184013
+  },
+  {
+    "street": "Via Tridi",
+    "number": "26",
+    "city": {
+      "name": "Torno",
+      "istat": "013223"
+    },
+    "latitude": 45.8570093,
+    "longitude": 9.1181855
+  },
+  {
+    "street": "Via Tridi",
+    "number": "45",
+    "city": {
+      "name": "Torno",
+      "istat": "013223"
+    },
+    "latitude": 45.8570309,
+    "longitude": 9.118242
+  },
+  {
+    "street": "Via Montepiatto",
+    "number": "270",
+    "city": {
+      "name": "Torno",
+      "istat": "013223"
+    },
+    "latitude": 45.8487818,
+    "longitude": 9.1223848
+  },
+  {
+    "street": "Via Tridi",
+    "number": "5",
+    "city": {
+      "name": "Torno",
+      "istat": "013223"
+    },
+    "latitude": 45.8573328,
+    "longitude": 9.1163845
+  },
+  {
+    "street": "Via Tridi",
+    "number": "7",
+    "city": {
+      "name": "Torno",
+      "istat": "013223"
+    },
+    "latitude": 45.8573213,
+    "longitude": 9.1164822
+  },
+  {
+    "street": "Via Tridi",
+    "number": "43",
+    "city": {
+      "name": "Torno",
+      "istat": "013223"
+    },
+    "latitude": 45.8570069,
+    "longitude": 9.1179769
+  },
+  {
+    "street": "Via Tridi",
+    "number": "41",
+    "city": {
+      "name": "Torno",
+      "istat": "013223"
+    },
+    "latitude": 45.8571289,
+    "longitude": 9.1177733
+  },
+  {
+    "street": "Via Tridi",
+    "number": "22",
+    "city": {
+      "name": "Torno",
+      "istat": "013223"
+    },
+    "latitude": 45.8569835,
+    "longitude": 9.117929
+  },
+  {
+    "street": "Via Pliniana",
+    "number": "17",
+    "city": {
+      "name": "Torno",
+      "istat": "013223"
+    },
+    "latitude": 45.8582652,
+    "longitude": 9.1273789
+  },
+  {
+    "street": "Via Torrazza",
+    "number": "10",
+    "city": {
+      "name": "Torno",
+      "istat": "013223"
+    },
+    "latitude": 45.8590819,
+    "longitude": 9.1177112
+  },
+  {
+    "street": "Via Piave",
+    "number": "26",
+    "city": {
+      "name": "Torno",
+      "istat": "013223"
+    },
+    "latitude": 45.8578571,
+    "longitude": 9.117468
+  },
+  {
+    "street": "Via Cesare Poggi",
+    "number": "29",
+    "city": {
+      "name": "Torno",
+      "istat": "013223"
+    },
+    "latitude": 45.856586,
+    "longitude": 9.133339
+  },
+  {
+    "street": "Via vecchia per Molina",
+    "number": "16",
+    "city": {
+      "name": "Torno",
+      "istat": "013223"
+    },
+    "latitude": 45.8574485,
+    "longitude": 9.122253
+  },
+  {
+    "street": "Via vecchia per Molina",
+    "number": "16a",
+    "city": {
+      "name": "Torno",
+      "istat": "013223"
+    },
+    "latitude": 45.857205,
+    "longitude": 9.1237685
+  },
+  {
+    "street": "Via Plinio",
+    "number": "2",
+    "city": {
+      "name": "Torno",
+      "istat": "013223"
+    },
+    "latitude": 45.8573765,
+    "longitude": 9.115623
+  },
+  {
+    "street": "Via vecchia per Molina",
+    "number": "15",
+    "city": {
+      "name": "Torno",
+      "istat": "013223"
+    },
+    "latitude": 45.8574855,
+    "longitude": 9.12578
+  },
+  {
+    "street": "Via Scilonico",
+    "number": "5",
+    "city": {
+      "name": "Torno",
+      "istat": "013223"
+    },
+    "latitude": 45.8566855,
+    "longitude": 9.116403
+  }
+]

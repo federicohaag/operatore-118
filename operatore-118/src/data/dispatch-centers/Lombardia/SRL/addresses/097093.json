@@ -1,0 +1,122 @@
+[
+  {
+    "street": "Via Roma",
+    "number": "102",
+    "city": {
+      "name": "Valvarrone",
+      "istat": "097093"
+    },
+    "latitude": 46.0833564,
+    "longitude": 9.3237555
+  },
+  {
+    "street": "Via Roma",
+    "number": "350",
+    "city": {
+      "name": "Valvarrone",
+      "istat": "097093"
+    },
+    "latitude": 46.0837313,
+    "longitude": 9.3265905
+  },
+  {
+    "street": "Via al Bacino",
+    "number": "84",
+    "city": {
+      "name": "Valvarrone",
+      "istat": "097093"
+    },
+    "latitude": 46.0830134,
+    "longitude": 9.3214414
+  },
+  {
+    "street": "Via al Bacino",
+    "number": "80",
+    "city": {
+      "name": "Valvarrone",
+      "istat": "097093"
+    },
+    "latitude": 46.0830238,
+    "longitude": 9.3214923
+  },
+  {
+    "street": "Via Roma",
+    "number": "94",
+    "city": {
+      "name": "Valvarrone",
+      "istat": "097093"
+    },
+    "latitude": 46.0832601,
+    "longitude": 9.3235947
+  },
+  {
+    "street": "Via ai Monti",
+    "number": "95",
+    "city": {
+      "name": "Valvarrone",
+      "istat": "097093"
+    },
+    "latitude": 46.084154,
+    "longitude": 9.32247
+  },
+  {
+    "street": "Via ai Monti",
+    "number": "97",
+    "city": {
+      "name": "Valvarrone",
+      "istat": "097093"
+    },
+    "latitude": 46.0841555,
+    "longitude": 9.3224981
+  },
+  {
+    "street": "Via al Bacino",
+    "number": "572",
+    "city": {
+      "name": "Valvarrone",
+      "istat": "097093"
+    },
+    "latitude": 46.0841669,
+    "longitude": 9.3221589
+  },
+  {
+    "street": "Via Dervio",
+    "number": "74",
+    "city": {
+      "name": "Valvarrone",
+      "istat": "097093"
+    },
+    "latitude": 46.0833216,
+    "longitude": 9.3221148
+  },
+  {
+    "street": "Via Dervio",
+    "number": "96",
+    "city": {
+      "name": "Valvarrone",
+      "istat": "097093"
+    },
+    "latitude": 46.0832176,
+    "longitude": 9.3218289
+  },
+  {
+    "street": "Strada Provinciale 67 Alta Valsassina e Valvarrone",
+    "number": "12",
+    "city": {
+      "name": "Valvarrone",
+      "istat": "097093"
+    },
+    "latitude": 46.0749688,
+    "longitude": 9.3642665
+  },
+  {
+    "street": "Via Caduti di Guerra",
+    "number": "6",
+    "city": {
+      "name": "Valvarrone",
+      "istat": "097093"
+    },
+    "latitude": 46.0748571,
+    "longitude": 9.3648077
+  }
+]

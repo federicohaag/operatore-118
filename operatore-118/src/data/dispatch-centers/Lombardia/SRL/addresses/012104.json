@@ -1,0 +1,62 @@
+[
+  {
+    "street": "Via Mendoza Leonelli",
+    "number": "3",
+    "city": {
+      "name": "Monvalle",
+      "istat": "012104"
+    },
+    "latitude": 45.857805,
+    "longitude": 8.6310573
+  },
+  {
+    "street": "Piazza Guglielmo Marconi",
+    "number": "8",
+    "city": {
+      "name": "Monvalle",
+      "istat": "012104"
+    },
+    "latitude": 45.8580047,
+    "longitude": 8.6320346
+  },
+  {
+    "street": "Via Tenente Giuseppe Lionelli Mendozza",
+    "number": "3",
+    "city": {
+      "name": "Monvalle",
+      "istat": "012104"
+    },
+    "latitude": 45.8575599,
+    "longitude": 8.6309372
+  },
+  {
+    "street": "Via Tense",
+    "number": "2",
+    "city": {
+      "name": "Monvalle",
+      "istat": "012104"
+    },
+    "latitude": 45.8477074,
+    "longitude": 8.6275655
+  },
+  {
+    "street": "Via Montenero",
+    "number": "57",
+    "city": {
+      "name": "Monvalle",
+      "istat": "012104"
+    },
+    "latitude": 45.846261,
+    "longitude": 8.6223465
+  },
+  {
+    "street": "Via Montenero",
+    "number": "37",
+    "city": {
+      "name": "Monvalle",
+      "istat": "012104"
+    },
+    "latitude": 45.8455565,
+    "longitude": 8.6230039
+  }
+]

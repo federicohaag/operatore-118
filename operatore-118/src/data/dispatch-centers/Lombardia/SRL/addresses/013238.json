@@ -1,0 +1,22 @@
+[
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "1",
+    "city": {
+      "name": "Veniano",
+      "istat": "013238"
+    },
+    "latitude": 45.7180223,
+    "longitude": 8.9862457
+  },
+  {
+    "street": "Via per Guanzate",
+    "number": "23",
+    "city": {
+      "name": "Veniano",
+      "istat": "013238"
+    },
+    "latitude": 45.7195028,
+    "longitude": 8.9952235
+  }
+]

@@ -1,0 +1,922 @@
+[
+  {
+    "street": "Via Cascina Trecate",
+    "number": "5",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6859626,
+    "longitude": 9.364298
+  },
+  {
+    "street": "Via Cascina Trecate",
+    "number": "3",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6858608,
+    "longitude": 9.3643557
+  },
+  {
+    "street": "Via Cascina Trecate",
+    "number": "9",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6860041,
+    "longitude": 9.3644439
+  },
+  {
+    "street": "Via Cascina Trecate",
+    "number": "2",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6858823,
+    "longitude": 9.3644613
+  },
+  {
+    "street": "Via Cascina Trecate",
+    "number": "12,13",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6859761,
+    "longitude": 9.3645956
+  },
+  {
+    "street": "Via Cascina Trecate",
+    "number": "15",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6859174,
+    "longitude": 9.364654
+  },
+  {
+    "street": "Via Cascina Trecate",
+    "number": "18",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6856653,
+    "longitude": 9.3646427
+  },
+  {
+    "street": "Via della Brughiera",
+    "number": "7",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6835757,
+    "longitude": 9.365921
+  },
+  {
+    "street": "Via della Brughiera",
+    "number": "13",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6829515,
+    "longitude": 9.3656688
+  },
+  {
+    "street": "Via Mazzini",
+    "number": "24",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6766771,
+    "longitude": 9.3949061
+  },
+  {
+    "street": "Via Statale",
+    "number": "36",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6776532,
+    "longitude": 9.3965816
+  },
+  {
+    "street": "Via Statale",
+    "number": "6",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6777941,
+    "longitude": 9.3966022
+  },
+  {
+    "street": "Piazza della Pace",
+    "number": "12b",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6779861,
+    "longitude": 9.394016
+  },
+  {
+    "street": "Via Roma",
+    "number": "27",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6816081,
+    "longitude": 9.3924512
+  },
+  {
+    "street": "Via Gaetano Donizetti",
+    "number": "12",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6811827,
+    "longitude": 9.3950449
+  },
+  {
+    "street": "Via Roma",
+    "number": "23",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6806112,
+    "longitude": 9.3921347
+  },
+  {
+    "street": "Via Roma",
+    "number": "25",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6809073,
+    "longitude": 9.3922286
+  },
+  {
+    "street": "Via Roma",
+    "number": "30",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.680587,
+    "longitude": 9.3928385
+  },
+  {
+    "street": "Via Gaetano Donizetti",
+    "number": "2",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6801788,
+    "longitude": 9.3945404
+  },
+  {
+    "street": "Via Roma",
+    "number": "29",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6819134,
+    "longitude": 9.392462
+  },
+  {
+    "street": "Via Roma",
+    "number": "11",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6783544,
+    "longitude": 9.3914401
+  },
+  {
+    "street": "Via Tommaso Edison",
+    "number": "3",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6735975,
+    "longitude": 9.3882016
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "14",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6753889,
+    "longitude": 9.3878343
+  },
+  {
+    "street": "Via Milano",
+    "number": "1",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6709162,
+    "longitude": 9.3909696
+  },
+  {
+    "street": "Via Milano",
+    "number": "3",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6704846,
+    "longitude": 9.3901496
+  },
+  {
+    "street": "Via Milano",
+    "number": "5",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6703187,
+    "longitude": 9.3899846
+  },
+  {
+    "street": "Via Trieste",
+    "number": "15",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6780718,
+    "longitude": 9.3888875
+  },
+  {
+    "street": "Via Gaetano Donizetti",
+    "number": "16",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6818032,
+    "longitude": 9.3953225
+  },
+  {
+    "street": "Via Gaetano Donizetti",
+    "number": "14",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6817134,
+    "longitude": 9.3952246
+  },
+  {
+    "street": "Via Roma",
+    "number": "31",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6820668,
+    "longitude": 9.3927295
+  },
+  {
+    "street": "Via Gaetano Donizetti",
+    "number": "24",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6829162,
+    "longitude": 9.3960006
+  },
+  {
+    "street": "Via Gaetano Donizetti",
+    "number": "24a",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6828404,
+    "longitude": 9.3960377
+  },
+  {
+    "street": "Via Roma",
+    "number": "37",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6828558,
+    "longitude": 9.3929094
+  },
+  {
+    "street": "Via Roma",
+    "number": "34",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6820099,
+    "longitude": 9.3928897
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "3",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6822606,
+    "longitude": 9.3937636
+  },
+  {
+    "street": "Via Gaetano Donizetti",
+    "number": "22",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6826954,
+    "longitude": 9.3958227
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "17",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.682566,
+    "longitude": 9.3952772
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "12",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6825467,
+    "longitude": 9.3949215
+  },
+  {
+    "street": "Via Roma",
+    "number": "32",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6819238,
+    "longitude": 9.3928673
+  },
+  {
+    "street": "Via Roma",
+    "number": "39",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6830142,
+    "longitude": 9.3929516
+  },
+  {
+    "street": "Via Roma",
+    "number": "33",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6821996,
+    "longitude": 9.3927755
+  },
+  {
+    "street": "Via Roma",
+    "number": "27a",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6816564,
+    "longitude": 9.3925306
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "1",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6829258,
+    "longitude": 9.3935051
+  },
+  {
+    "street": "Via Gaetano Donizetti",
+    "number": "7",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.682254,
+    "longitude": 9.395435
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "11",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6820872,
+    "longitude": 9.394447
+  },
+  {
+    "street": "Via Gaetano Donizetti",
+    "number": "9",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6825228,
+    "longitude": 9.3956024
+  },
+  {
+    "street": "Via Roma",
+    "number": "42bis",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6829197,
+    "longitude": 9.3931292
+  },
+  {
+    "street": "Via Roma",
+    "number": "42",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.68263,
+    "longitude": 9.3930554
+  },
+  {
+    "street": "Via Roma",
+    "number": "38",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6824294,
+    "longitude": 9.3930213
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "13",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6820465,
+    "longitude": 9.3946745
+  },
+  {
+    "street": "Via Gaetano Donizetti",
+    "number": "13c",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6829586,
+    "longitude": 9.3958848
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "10",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6825693,
+    "longitude": 9.3948157
+  },
+  {
+    "street": "Via Roma",
+    "number": "36",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6821652,
+    "longitude": 9.3929245
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "1",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.682284,
+    "longitude": 9.3936359
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "5",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6828531,
+    "longitude": 9.3938541
+  },
+  {
+    "street": "Via Roma",
+    "number": "33bis",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6824052,
+    "longitude": 9.3928349
+  },
+  {
+    "street": "Via Roma",
+    "number": "40",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6824747,
+    "longitude": 9.3930176
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "2",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6828925,
+    "longitude": 9.393384
+  },
+  {
+    "street": "Via Roma",
+    "number": "35",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.682638,
+    "longitude": 9.3928321
+  },
+  {
+    "street": "Via Gaetano Donizetti",
+    "number": "3",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.681628,
+    "longitude": 9.3950475
+  },
+  {
+    "street": "Via Gaetano Donizetti",
+    "number": "13d",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6830148,
+    "longitude": 9.3959278
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "15",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6826117,
+    "longitude": 9.3949995
+  },
+  {
+    "street": "Via Gaetano Donizetti",
+    "number": "28",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.683129,
+    "longitude": 9.3961547
+  },
+  {
+    "street": "Via Gaetano Donizetti",
+    "number": "5",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6820408,
+    "longitude": 9.395319
+  },
+  {
+    "street": "Via Gaetano Donizetti",
+    "number": "20a",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6826269,
+    "longitude": 9.3957806
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "15",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.681936,
+    "longitude": 9.3950359
+  },
+  {
+    "street": "Via Gaetano Donizetti",
+    "number": "13b",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6828152,
+    "longitude": 9.3958106
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "16",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.682417,
+    "longitude": 9.3954571
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "2",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6821346,
+    "longitude": 9.3937479
+  },
+  {
+    "street": "Via Gaetano Donizetti",
+    "number": "20",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6819965,
+    "longitude": 9.3953945
+  },
+  {
+    "street": "Via Alessandro Volta",
+    "number": "6",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6819968,
+    "longitude": 9.3943676
+  },
+  {
+    "street": "Via Gaetano Donizetti",
+    "number": "17",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6831257,
+    "longitude": 9.3959822
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "3",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6829075,
+    "longitude": 9.3936405
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "13",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.68265,
+    "longitude": 9.3948428
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "9",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6828149,
+    "longitude": 9.3940652
+  },
+  {
+    "street": "Via Gaetano Donizetti",
+    "number": "13e",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6830277,
+    "longitude": 9.3959273
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "4",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6828524,
+    "longitude": 9.3935601
+  },
+  {
+    "street": "Via Gaetano Donizetti",
+    "number": "26",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6831095,
+    "longitude": 9.3961078
+  },
+  {
+    "street": "Via Pinamonte de' Capitani",
+    "number": "24",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6757525,
+    "longitude": 9.3951244
+  },
+  {
+    "street": "Via delle Marasche",
+    "number": "1",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6805854,
+    "longitude": 9.3981246
+  },
+  {
+    "street": "Via Artigianato",
+    "number": "5",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6686871,
+    "longitude": 9.3879924
+  },
+  {
+    "street": "Via Martiri della Liberazione",
+    "number": "15",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6783896,
+    "longitude": 9.4058673
+  },
+  {
+    "street": "Via Primo Maggio",
+    "number": "1",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6783767,
+    "longitude": 9.4038248
+  },
+  {
+    "street": "Via Martiri della Liberazione",
+    "number": "17",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6778293,
+    "longitude": 9.4070752
+  },
+  {
+    "street": "via della Tecnica",
+    "number": "16",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.670662,
+    "longitude": 9.3962293
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "2",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6751766,
+    "longitude": 9.4077955
+  },
+  {
+    "street": "Via Statale",
+    "number": "18",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6809638,
+    "longitude": 9.3981285
+  },
+  {
+    "street": "Via Statale",
+    "number": "22",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6832648,
+    "longitude": 9.3987942
+  },
+  {
+    "street": "Via Milano",
+    "number": "7",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6700582,
+    "longitude": 9.3899202
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "16",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6792766,
+    "longitude": 9.3964597
+  },
+  {
+    "street": "Via Pinamonte de Capitani",
+    "number": "24",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.6758084,
+    "longitude": 9.3947988
+  },
+  {
+    "street": "Via Alessandro Manzoni",
+    "number": "18",
+    "city": {
+      "name": "Osnago",
+      "istat": "097061"
+    },
+    "latitude": 45.682225,
+    "longitude": 9.3958408
+  }
+]

@@ -1,0 +1,412 @@
+[
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "17",
+    "city": {
+      "name": "Caponago",
+      "istat": "108052"
+    },
+    "latitude": 45.566051,
+    "longitude": 9.3761468
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "12",
+    "city": {
+      "name": "Caponago",
+      "istat": "108052"
+    },
+    "latitude": 45.5661409,
+    "longitude": 9.3758114
+  },
+  {
+    "street": "Via Leonardo da Vinci",
+    "number": "2",
+    "city": {
+      "name": "Caponago",
+      "istat": "108052"
+    },
+    "latitude": 45.5671863,
+    "longitude": 9.3729684
+  },
+  {
+    "street": "Strada provinciale Pessano - Vimercate",
+    "number": "215",
+    "city": {
+      "name": "Caponago",
+      "istat": "108052"
+    },
+    "latitude": 45.5649265,
+    "longitude": 9.3839427
+  },
+  {
+    "street": "Via Santa Giuliana",
+    "number": "9",
+    "city": {
+      "name": "Caponago",
+      "istat": "108052"
+    },
+    "latitude": 45.5662572,
+    "longitude": 9.3752727
+  },
+  {
+    "street": "Via Alcide De Gasperi",
+    "number": "2",
+    "city": {
+      "name": "Caponago",
+      "istat": "108052"
+    },
+    "latitude": 45.5665032,
+    "longitude": 9.3760157
+  },
+  {
+    "street": "Cascina Turro",
+    "number": "1",
+    "city": {
+      "name": "Caponago",
+      "istat": "108052"
+    },
+    "latitude": 45.5707173,
+    "longitude": 9.3830703
+  },
+  {
+    "street": "Via delle Industrie",
+    "number": "17",
+    "city": {
+      "name": "Caponago",
+      "istat": "108052"
+    },
+    "latitude": 45.5714053,
+    "longitude": 9.3780147
+  },
+  {
+    "street": "Via Donatello",
+    "number": "20",
+    "city": {
+      "name": "Caponago",
+      "istat": "108052"
+    },
+    "latitude": 45.5682457,
+    "longitude": 9.3708844
+  },
+  {
+    "street": "Via Donatello",
+    "number": "20a",
+    "city": {
+      "name": "Caponago",
+      "istat": "108052"
+    },
+    "latitude": 45.5686381,
+    "longitude": 9.3708607
+  },
+  {
+    "street": "Cascina Turro",
+    "number": "3",
+    "city": {
+      "name": "Caponago",
+      "istat": "108052"
+    },
+    "latitude": 45.5707666,
+    "longitude": 9.3830629
+  },
+  {
+    "street": "Cascina Turro",
+    "number": "7",
+    "city": {
+      "name": "Caponago",
+      "istat": "108052"
+    },
+    "latitude": 45.5708078,
+    "longitude": 9.3830567
+  },
+  {
+    "street": "Via Donatello",
+    "number": "11",
+    "city": {
+      "name": "Caponago",
+      "istat": "108052"
+    },
+    "latitude": 45.5671886,
+    "longitude": 9.3708283
+  },
+  {
+    "street": "Via Donatello",
+    "number": "13",
+    "city": {
+      "name": "Caponago",
+      "istat": "108052"
+    },
+    "latitude": 45.5673632,
+    "longitude": 9.3708014
+  },
+  {
+    "street": "Via Donatello",
+    "number": "15",
+    "city": {
+      "name": "Caponago",
+      "istat": "108052"
+    },
+    "latitude": 45.5675528,
+    "longitude": 9.3707854
+  },
+  {
+    "street": "Via Senatore Luigi Simonetta",
+    "number": "15",
+    "city": {
+      "name": "Caponago",
+      "istat": "108052"
+    },
+    "latitude": 45.568948,
+    "longitude": 9.3725234
+  },
+  {
+    "street": "Via Senatore Luigi Simonetta",
+    "number": "13",
+    "city": {
+      "name": "Caponago",
+      "istat": "108052"
+    },
+    "latitude": 45.5690175,
+    "longitude": 9.3725315
+  },
+  {
+    "street": "Via Senatore Luigi Simonetta",
+    "number": "26",
+    "city": {
+      "name": "Caponago",
+      "istat": "108052"
+    },
+    "latitude": 45.5727902,
+    "longitude": 9.3746314
+  },
+  {
+    "street": "Via Fabio Filzi",
+    "number": "81",
+    "city": {
+      "name": "Caponago",
+      "istat": "108052"
+    },
+    "latitude": 45.5744215,
+    "longitude": 9.3814389
+  },
+  {
+    "street": "Via Senatore Luigi Simonetta",
+    "number": "24",
+    "city": {
+      "name": "Caponago",
+      "istat": "108052"
+    },
+    "latitude": 45.5724238,
+    "longitude": 9.3734538
+  },
+  {
+    "street": "Via delle Gerole",
+    "number": "3",
+    "city": {
+      "name": "Caponago",
+      "istat": "108052"
+    },
+    "latitude": 45.5640667,
+    "longitude": 9.3668247
+  },
+  {
+    "street": "Via Vittorio Emanuele",
+    "number": "37",
+    "city": {
+      "name": "Caponago",
+      "istat": "108052"
+    },
+    "latitude": 45.5662087,
+    "longitude": 9.3717313
+  },
+  {
+    "street": "Via Vittorio Emanuele",
+    "number": "44",
+    "city": {
+      "name": "Caponago",
+      "istat": "108052"
+    },
+    "latitude": 45.5663481,
+    "longitude": 9.3716643
+  },
+  {
+    "street": "Via Vittorio Emanuele",
+    "number": "40",
+    "city": {
+      "name": "Caponago",
+      "istat": "108052"
+    },
+    "latitude": 45.5663627,
+    "longitude": 9.3718896
+  },
+  {
+    "street": "Via Vittorio Emanuele",
+    "number": "34",
+    "city": {
+      "name": "Caponago",
+      "istat": "108052"
+    },
+    "latitude": 45.5663711,
+    "longitude": 9.3720371
+  },
+  {
+    "street": "Via Vittorio Emanuele",
+    "number": "32",
+    "city": {
+      "name": "Caponago",
+      "istat": "108052"
+    },
+    "latitude": 45.5663772,
+    "longitude": 9.3721424
+  },
+  {
+    "street": "Via delle Gerole",
+    "number": "3/1",
+    "city": {
+      "name": "Caponago",
+      "istat": "108052"
+    },
+    "latitude": 45.5640842,
+    "longitude": 9.3665289
+  },
+  {
+    "street": "Via Maestri del lavoro",
+    "number": "8",
+    "city": {
+      "name": "Caponago",
+      "istat": "108052"
+    },
+    "latitude": 45.5629443,
+    "longitude": 9.3656482
+  },
+  {
+    "street": "Via delle Gerole",
+    "number": "17",
+    "city": {
+      "name": "Caponago",
+      "istat": "108052"
+    },
+    "latitude": 45.5641361,
+    "longitude": 9.3628594
+  },
+  {
+    "street": "Via Maestri del lavoro",
+    "number": "12/14/16",
+    "city": {
+      "name": "Caponago",
+      "istat": "108052"
+    },
+    "latitude": 45.5628268,
+    "longitude": 9.3644003
+  },
+  {
+    "street": "Via Maestri del lavoro",
+    "number": "4",
+    "city": {
+      "name": "Caponago",
+      "istat": "108052"
+    },
+    "latitude": 45.5635306,
+    "longitude": 9.3658398
+  },
+  {
+    "street": "Via Galileo Galilei",
+    "number": "1",
+    "city": {
+      "name": "Caponago",
+      "istat": "108052"
+    },
+    "latitude": 45.5700179,
+    "longitude": 9.3677304
+  },
+  {
+    "street": "Via Camillo Olivetti",
+    "number": "2",
+    "city": {
+      "name": "Caponago",
+      "istat": "108052"
+    },
+    "latitude": 45.5723045,
+    "longitude": 9.3653165
+  },
+  {
+    "street": "Via Senatore Luigi Simonetta",
+    "number": "27",
+    "city": {
+      "name": "Caponago",
+      "istat": "108052"
+    },
+    "latitude": 45.5730798,
+    "longitude": 9.3704032
+  },
+  {
+    "street": "Via Guglielmo Marconi",
+    "number": "20",
+    "city": {
+      "name": "Caponago",
+      "istat": "108052"
+    },
+    "latitude": 45.5667452,
+    "longitude": 9.3615354
+  },
+  {
+    "street": "Viale Monza",
+    "number": "15",
+    "city": {
+      "name": "Caponago",
+      "istat": "108052"
+    },
+    "latitude": 45.5664957,
+    "longitude": 9.3655928
+  },
+  {
+    "street": "Via Casello Villoresi",
+    "number": "1",
+    "city": {
+      "name": "Caponago",
+      "istat": "108052"
+    },
+    "latitude": 45.557257,
+    "longitude": 9.3837669
+  },
+  {
+    "street": "Via Donatello",
+    "number": "20c",
+    "city": {
+      "name": "Caponago",
+      "istat": "108052"
+    },
+    "latitude": 45.5690231,
+    "longitude": 9.371859
+  },
+  {
+    "street": "Via Donatello",
+    "number": "20d",
+    "city": {
+      "name": "Caponago",
+      "istat": "108052"
+    },
+    "latitude": 45.5686259,
+    "longitude": 9.3719214
+  },
+  {
+    "street": "Via Donatello",
+    "number": "20b",
+    "city": {
+      "name": "Caponago",
+      "istat": "108052"
+    },
+    "latitude": 45.5689094,
+    "longitude": 9.3713876
+  },
+  {
+    "street": "Via Donatello",
+    "number": "20f",
+    "city": {
+      "name": "Caponago",
+      "istat": "108052"
+    },
+    "latitude": 45.5681096,
+    "longitude": 9.3712924
+  }
+]

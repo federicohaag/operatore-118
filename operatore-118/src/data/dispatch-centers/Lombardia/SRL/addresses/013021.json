@@ -1,0 +1,12 @@
+[
+  {
+    "street": "Via Italia",
+    "number": "127",
+    "city": {
+      "name": "Bene Lario",
+      "istat": "013021"
+    },
+    "latitude": 46.0329826,
+    "longitude": 9.18988
+  }
+]

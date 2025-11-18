@@ -1,0 +1,662 @@
+[
+  {
+    "street": "Piazza San Giorgio",
+    "number": "17",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0101771,
+    "longitude": 9.2833911
+  },
+  {
+    "street": "Riva Garibaldi",
+    "number": "14",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0103799,
+    "longitude": 9.2825837
+  },
+  {
+    "street": "Via Corrado Venini",
+    "number": "53",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0140476,
+    "longitude": 9.2839651
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "12",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0107977,
+    "longitude": 9.2834099
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "8",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.010625,
+    "longitude": 9.2834124
+  },
+  {
+    "street": "Piazzale Martiri della Libertà",
+    "number": "5",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0141537,
+    "longitude": 9.2831697
+  },
+  {
+    "street": "Via Corrado Venini",
+    "number": "6",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0103407,
+    "longitude": 9.2837854
+  },
+  {
+    "street": "Contrada Scoscesa",
+    "number": "13",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.010815,
+    "longitude": 9.2830521
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "2",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.009727,
+    "longitude": 9.2839741
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "7",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0096386,
+    "longitude": 9.2844062
+  },
+  {
+    "street": "Via Giovanni Polvani",
+    "number": "9",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0095984,
+    "longitude": 9.2844602
+  },
+  {
+    "street": "Via alla Riva",
+    "number": "1",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0139008,
+    "longitude": 9.283819
+  },
+  {
+    "street": "Via Imbarcadero",
+    "number": "13",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0139604,
+    "longitude": 9.2829862
+  },
+  {
+    "street": "Via Imbarcadero",
+    "number": "14",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0138626,
+    "longitude": 9.2830425
+  },
+  {
+    "street": "Via alla Riva",
+    "number": "2",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0139707,
+    "longitude": 9.2836715
+  },
+  {
+    "street": "Via alla Riva",
+    "number": "3",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0139216,
+    "longitude": 9.2837097
+  },
+  {
+    "street": "Via alla Riva",
+    "number": "4",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0138757,
+    "longitude": 9.2833993
+  },
+  {
+    "street": "Via alla Riva",
+    "number": "5",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0138959,
+    "longitude": 9.2835863
+  },
+  {
+    "street": "Via Imbarcadero",
+    "number": "6",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0144024,
+    "longitude": 9.2832977
+  },
+  {
+    "street": "Via alla Riva",
+    "number": "7",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.013886,
+    "longitude": 9.2835228
+  },
+  {
+    "street": "Via Imbarcadero",
+    "number": "9",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0142627,
+    "longitude": 9.283185
+  },
+  {
+    "street": "Via Imbarcadero",
+    "number": "15",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0139416,
+    "longitude": 9.2830028
+  },
+  {
+    "street": "Contrada G. B. Pirelli",
+    "number": "2",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0110424,
+    "longitude": 9.2832546
+  },
+  {
+    "street": "Via Corrado Venini",
+    "number": "13",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0106555,
+    "longitude": 9.2836141
+  },
+  {
+    "street": "Via Corrado Venini",
+    "number": "11",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0106282,
+    "longitude": 9.2836131
+  },
+  {
+    "street": "Via del Prestino",
+    "number": "11",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0098144,
+    "longitude": 9.282271
+  },
+  {
+    "street": "Contrada del Prato",
+    "number": "11",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0101594,
+    "longitude": 9.2829984
+  },
+  {
+    "street": "Via Corrado Venini",
+    "number": "1",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0103461,
+    "longitude": 9.2836444
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "6",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0096516,
+    "longitude": 9.2841244
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "10",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0096106,
+    "longitude": 9.2841847
+  },
+  {
+    "street": "Via Corrado Venini",
+    "number": "4",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0102956,
+    "longitude": 9.283798
+  },
+  {
+    "street": "Contrada dell’ Oste",
+    "number": "12",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.011203,
+    "longitude": 9.2831826
+  },
+  {
+    "street": "Contrada dei Cavalli",
+    "number": "12",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0106376,
+    "longitude": 9.2830489
+  },
+  {
+    "street": "Via Corrado Venini",
+    "number": "2",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.010234,
+    "longitude": 9.2838156
+  },
+  {
+    "street": "Via del Pino",
+    "number": "3",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 45.9949172,
+    "longitude": 9.2932637
+  },
+  {
+    "street": "Piazza San Giorgio",
+    "number": "18",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0101805,
+    "longitude": 9.2834748
+  },
+  {
+    "street": "Via Statale",
+    "number": "37/39",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 45.9996684,
+    "longitude": 9.2920305
+  },
+  {
+    "street": "Via Pino",
+    "number": "34A",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 45.9957194,
+    "longitude": 9.2930444
+  },
+  {
+    "street": "Contrada dei Sarti",
+    "number": "16",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0104893,
+    "longitude": 9.2829083
+  },
+  {
+    "street": "Via Statale",
+    "number": "29",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 45.99996,
+    "longitude": 9.2919544
+  },
+  {
+    "street": "Via Pino",
+    "number": "66",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 45.988394,
+    "longitude": 9.292394
+  },
+  {
+    "street": "Via Pino",
+    "number": "73",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 45.9883091,
+    "longitude": 9.2923515
+  },
+  {
+    "street": "Riva Garibaldi",
+    "number": "4",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.01036,
+    "longitude": 9.2824688
+  },
+  {
+    "street": "Via Corrado Venini",
+    "number": "59",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0136103,
+    "longitude": 9.2840344
+  },
+  {
+    "street": "Contrada dell'Arco",
+    "number": "8",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0107369,
+    "longitude": 9.2830288
+  },
+  {
+    "street": "Via Corrado Venini",
+    "number": "156",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0142896,
+    "longitude": 9.284323
+  },
+  {
+    "street": "Via Corrado Venini",
+    "number": "55",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0133127,
+    "longitude": 9.2839142
+  },
+  {
+    "street": "Via Corrado Venini",
+    "number": "8/12",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0105813,
+    "longitude": 9.2836311
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "4",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.009709,
+    "longitude": 9.284037
+  },
+  {
+    "street": "Via Giovanni Polvani",
+    "number": "16",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0094677,
+    "longitude": 9.2845032
+  },
+  {
+    "street": "Piazza al Prato",
+    "number": "2",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0100916,
+    "longitude": 9.281927
+  },
+  {
+    "street": "Via Corrado Venini",
+    "number": "7",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0136525,
+    "longitude": 9.2845519
+  },
+  {
+    "street": "Piazza San Giorgio",
+    "number": "14",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0100761,
+    "longitude": 9.2832056
+  },
+  {
+    "street": "Viale Giovanni Polvani",
+    "number": "4",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0092416,
+    "longitude": 9.2855305
+  },
+  {
+    "street": "Via Corrado Venini",
+    "number": "136",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0136242,
+    "longitude": 9.2841695
+  },
+  {
+    "street": "Piazzale Martiri della Libertà",
+    "number": "15",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0139132,
+    "longitude": 9.2830635
+  },
+  {
+    "street": "Via Corrado Venini",
+    "number": "154",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0142635,
+    "longitude": 9.2844064
+  },
+  {
+    "street": "Piazza San Giorgio",
+    "number": "2",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.009712,
+    "longitude": 9.2835954
+  },
+  {
+    "street": "Via Quattro Novembre",
+    "number": "18",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0092032,
+    "longitude": 9.2848382
+  },
+  {
+    "street": "Via Corrado Venini",
+    "number": "18",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0135001,
+    "longitude": 9.2845533
+  },
+  {
+    "street": "Piazza Venini",
+    "number": "2",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0098672,
+    "longitude": 9.2841809
+  },
+  {
+    "street": "Via Venini",
+    "number": "156",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0144369,
+    "longitude": 9.2851879
+  },
+  {
+    "street": "Piazzale Martiri della Libertà",
+    "number": "16",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0137582,
+    "longitude": 9.2833429
+  },
+  {
+    "street": "Via della Croce",
+    "number": "2",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0138332,
+    "longitude": 9.2842044
+  },
+  {
+    "street": "Via Venti Settembre",
+    "number": "9",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0105784,
+    "longitude": 9.2832046
+  },
+  {
+    "street": "Piazza San Giorgio",
+    "number": "23",
+    "city": {
+      "name": "Varenna",
+      "istat": "097084"
+    },
+    "latitude": 46.0100933,
+    "longitude": 9.2841754
+  }
+]

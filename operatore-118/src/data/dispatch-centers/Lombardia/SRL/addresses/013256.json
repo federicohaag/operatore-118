@@ -1,0 +1,162 @@
+[
+  {
+    "street": "Via Giuseppe Garibaldi",
+    "number": "13",
+    "city": {
+      "name": "Uggiate con Ronago",
+      "istat": "013256"
+    },
+    "latitude": 45.8246383,
+    "longitude": 8.9602195
+  },
+  {
+    "street": "Via Milano",
+    "number": "3",
+    "city": {
+      "name": "Uggiate con Ronago",
+      "istat": "013256"
+    },
+    "latitude": 45.830646,
+    "longitude": 8.9852622
+  },
+  {
+    "street": "Via Somazzo",
+    "number": "8",
+    "city": {
+      "name": "Uggiate con Ronago",
+      "istat": "013256"
+    },
+    "latitude": 45.8250034,
+    "longitude": 8.9613592
+  },
+  {
+    "street": "Via Roma",
+    "number": "29",
+    "city": {
+      "name": "Uggiate con Ronago",
+      "istat": "013256"
+    },
+    "latitude": 45.8253952,
+    "longitude": 8.9565328
+  },
+  {
+    "street": "Vicolo Romazzana",
+    "number": "5",
+    "city": {
+      "name": "Uggiate con Ronago",
+      "istat": "013256"
+    },
+    "latitude": 45.8144014,
+    "longitude": 8.9699309
+  },
+  {
+    "street": "Piazza della Repubblica",
+    "number": "1",
+    "city": {
+      "name": "Uggiate con Ronago",
+      "istat": "013256"
+    },
+    "latitude": 45.823319,
+    "longitude": 8.960598
+  },
+  {
+    "street": "Via San Gottardo SP 23",
+    "number": "33/35",
+    "city": {
+      "name": "Uggiate con Ronago",
+      "istat": "013256"
+    },
+    "latitude": 45.8290174,
+    "longitude": 8.9485385
+  },
+  {
+    "street": "Via San Gottardo SP 23",
+    "number": "33",
+    "city": {
+      "name": "Uggiate con Ronago",
+      "istat": "013256"
+    },
+    "latitude": 45.8288189,
+    "longitude": 8.9486481
+  },
+  {
+    "street": "Via Dante Alighieri",
+    "number": "13",
+    "city": {
+      "name": "Uggiate con Ronago",
+      "istat": "013256"
+    },
+    "latitude": 45.8269322,
+    "longitude": 8.96652
+  },
+  {
+    "street": "Via Roma",
+    "number": "2",
+    "city": {
+      "name": "Uggiate con Ronago",
+      "istat": "013256"
+    },
+    "latitude": 45.8252108,
+    "longitude": 8.9592215
+  },
+  {
+    "street": "Via Somazzo",
+    "number": "7",
+    "city": {
+      "name": "Uggiate con Ronago",
+      "istat": "013256"
+    },
+    "latitude": 45.8259683,
+    "longitude": 8.9593819
+  },
+  {
+    "street": "Piazza della Repubblica",
+    "number": "5",
+    "city": {
+      "name": "Uggiate con Ronago",
+      "istat": "013256"
+    },
+    "latitude": 45.8233745,
+    "longitude": 8.9610407
+  },
+  {
+    "street": "Via Roma",
+    "number": "26",
+    "city": {
+      "name": "Uggiate con Ronago",
+      "istat": "013256"
+    },
+    "latitude": 45.8257842,
+    "longitude": 8.957197
+  },
+  {
+    "street": "Via Roma",
+    "number": "28/30",
+    "city": {
+      "name": "Uggiate con Ronago",
+      "istat": "013256"
+    },
+    "latitude": 45.8256293,
+    "longitude": 8.9566
+  },
+  {
+    "street": "Via Ugo Foscolo",
+    "number": "35",
+    "city": {
+      "name": "Uggiate con Ronago",
+      "istat": "013256"
+    },
+    "latitude": 45.8234454,
+    "longitude": 8.9502063
+  },
+  {
+    "street": "Via Monte Rosa",
+    "number": "8",
+    "city": {
+      "name": "Uggiate con Ronago",
+      "istat": "013256"
+    },
+    "latitude": 45.8251432,
+    "longitude": 8.9535417
+  }
+]
