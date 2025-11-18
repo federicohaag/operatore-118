@@ -1,6 +1,21 @@
 import type { Address, City } from '../model/location';
 
 /**
+ * Weight range definition for city tier assignment.
+ * 
+ * Defines a percentage range and its associated weight. Ranges are applied
+ * sequentially from lowest to highest address count cities.
+ * 
+ * Example: { percentage: 20, weight: 2 } means "the lowest 20% of cities get weight 2"
+ */
+export interface WeightRange {
+  /** Percentage of cities in this tier (0-100) */
+  percentage: number;
+  /** Weight to assign to cities in this tier */
+  weight: number;
+}
+
+/**
  * Configuration options for AddressGenerator.
  */
 export interface AddressGeneratorConfig {
@@ -14,6 +29,21 @@ export interface AddressGeneratorConfig {
   refillThreshold?: number;
   /** Number of addresses to add when refilling (default: 10) */
   refillAmount?: number;
+  /**
+   * Weight ranges for city tier assignment (default: 20%=1, 60%=2, 20%=4).
+   * 
+   * Defines how to assign weights based on city address counts.
+   * Ranges are applied sequentially from lowest to highest address count.
+   * The sum of all percentages should equal 100.
+   * 
+   * Examples:
+   * - [{ percentage: 20, weight: 2 }, { percentage: 30, weight: 5 }, { percentage: 50, weight: 4 }]
+   *   means: lowest 20% get weight 2, next 30% get weight 5, remaining 50% get weight 4
+   * 
+   * - [{ percentage: 50, weight: 1 }, { percentage: 50, weight: 3 }]
+   *   means: lowest 50% get weight 1, highest 50% get weight 3
+   */
+  weightRanges?: WeightRange[];
 }
 
 /**
@@ -139,33 +169,47 @@ export class AddressGenerator {
       addressCount: count
     }));
     
-    // Sort cities by address count to determine weight tiers
-    const sortedByCount = [...cityWeightsWithCounts].sort((a, b) => b.addressCount - a.addressCount);
+    // Sort cities by address count (ascending: lowest to highest)
+    const sortedByCount = [...cityWeightsWithCounts].sort((a, b) => a.addressCount - b.addressCount);
     
-    // Calculate tier thresholds (20% top, 20% bottom, 60% middle)
-    const topTierCount = Math.ceil(sortedByCount.length * 0.2);
-    const bottomTierCount = Math.ceil(sortedByCount.length * 0.2);
+    // Get weight ranges configuration (default: 20%=1, 60%=2, 20%=4)
+    const weightRanges = this.config.weightRanges ?? [
+      { percentage: 8, weight: 1 },
+      { percentage: 90, weight: 10 },
+      { percentage: 2, weight: 1000 }
+    ];
     
-    // Determine tier boundaries
-    const topTierMinCount = sortedByCount[topTierCount - 1]?.addressCount ?? Infinity;
-    const bottomTierMaxCount = sortedByCount[sortedByCount.length - bottomTierCount]?.addressCount ?? 0;
+    // Validate weight ranges sum to 100%
+    const totalPercentage = weightRanges.reduce((sum, range) => sum + range.percentage, 0);
+    if (Math.abs(totalPercentage - 100) > 0.01) {
+      throw new Error(
+        `Weight ranges must sum to 100%, got ${totalPercentage}%. ` +
+        `Ranges: ${weightRanges.map(r => `${r.percentage}%=${r.weight}`).join(', ')}`
+      );
+    }
     
-    // Assign weights based on tier
-    this.cityWeights = cityWeightsWithCounts.map(({ city, addressCount }) => {
-      let weight: number;
+    // Assign weights based on configured ranges
+    this.cityWeights = sortedByCount.map((cityInfo, index) => {
+      // Find which range this city falls into
+      let cumulativePercentage = 0;
+      let assignedWeight = weightRanges[weightRanges.length - 1].weight; // fallback to last range
       
-      if (addressCount >= topTierMinCount) {
-        // Top 20%: weight 4
-        weight = 4;
-      } else if (addressCount <= bottomTierMaxCount) {
-        // Bottom 20%: weight 1
-        weight = 1;
-      } else {
-        // Middle 60%: weight 2
-        weight = 2;
+      for (const range of weightRanges) {
+        const rangeEndIndex = Math.ceil(sortedByCount.length * (cumulativePercentage + range.percentage) / 100);
+        
+        if (index < rangeEndIndex) {
+          assignedWeight = range.weight;
+          break;
+        }
+        
+        cumulativePercentage += range.percentage;
       }
       
-      return { city, addressCount, weight };
+      return {
+        city: cityInfo.city,
+        addressCount: cityInfo.addressCount,
+        weight: assignedWeight
+      };
     });
     
     // Calculate total weight
