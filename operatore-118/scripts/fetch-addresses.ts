@@ -4,18 +4,21 @@
  * CLI tool to fetch addresses from OpenStreetMap Overpass API
  * and save them to JSON files for offline use.
  * 
- * Uses ISTAT codes to identify cities.
- * 
  * Usage:
- *   npm run fetch-addresses -- 013075 012133
- *   (013075 = Como, 012133 = Varese)
+ *   npm run fetch-addresses -- <dispatch-center-path>
+ *   npm run fetch-addresses -- Lombardia/SRL
+ *   npm run fetch-addresses -- Veneto/Padova
+ * 
+ * Features:
+ * - Skips cities that already have address files
+ * - 5-second delay between API calls to respect rate limits
+ * - Can be stopped and resumed without losing progress
  */
 
-import { writeFile, mkdir } from 'fs/promises';
+import { writeFile, mkdir, access } from 'fs/promises';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import type { Address, City } from '../src/model/location';
-import * as CITIES from '../src/data/dispatch-centers/Lombardia/SRL/cities';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -26,8 +29,78 @@ const OVERPASS_ENDPOINT = 'https://overpass-api.de/api/interpreter';
 /** Timeout for API requests (30 seconds) */
 const TIMEOUT_MS = 30000;
 
-/** Output directory for address JSON files */
-const OUTPUT_DIR = join(__dirname, '..', 'src', 'data', 'dispatch-centers', 'Lombardia', 'SRL', 'addresses');
+/** Delay between API calls (5 seconds) */
+const API_DELAY_MS = 5000;
+
+/** Base directory for dispatch centers */
+const DISPATCH_CENTERS_DIR = join(__dirname, '..', 'src', 'data', 'dispatch-centers');
+
+/**
+ * Validates that the dispatch center path exists and has cities
+ * 
+ * @param dcPath - Relative path to dispatch center (e.g., "Lombardia/SRL")
+ * @returns Object with dispatch center info
+ * @throws Error if path doesn't exist or has no cities
+ */
+async function validateAndLoadDispatchCenter(dcPath: string): Promise<{
+  fullPath: string;
+  addressesDir: string;
+  cities: City[];
+}> {
+  const fullPath = join(DISPATCH_CENTERS_DIR, dcPath);
+  
+  try {
+    await access(fullPath);
+  } catch {
+    throw new Error(`Dispatch center path not found: ${dcPath}\nPath checked: ${fullPath}`);
+  }
+  
+  // Check that cities.tsx exists
+  const citiesFilePath = join(fullPath, 'cities.tsx');
+  try {
+    await access(citiesFilePath);
+  } catch {
+    throw new Error(`cities.tsx not found in dispatch center: ${dcPath}`);
+  }
+  
+  // Dynamically import cities
+  const citiesModule = await import(citiesFilePath);
+  
+  // Find the cities array export
+  const citiesArrayKey = Object.keys(citiesModule).find(key => key.endsWith('_CITIES'));
+  if (!citiesArrayKey) {
+    throw new Error(`No cities array found in ${dcPath}/cities.tsx`);
+  }
+  
+  const cities: City[] = citiesModule[citiesArrayKey];
+  
+  if (!Array.isArray(cities) || cities.length === 0) {
+    throw new Error(`No cities found in ${dcPath}/cities.tsx`);
+  }
+  
+  // Addresses directory
+  const addressesDir = join(fullPath, 'addresses');
+  await mkdir(addressesDir, { recursive: true });
+  
+  return { fullPath, addressesDir, cities };
+}
+
+/**
+ * Checks if address file already exists for a city
+ * 
+ * @param addressesDir - Path to addresses directory
+ * @param istatCode - ISTAT code of the city
+ * @returns True if file exists, false otherwise
+ */
+async function addressFileExists(addressesDir: string, istatCode: string): Promise<boolean> {
+  const filepath = join(addressesDir, `${istatCode}.json`);
+  try {
+    await access(filepath);
+    return true;
+  } catch {
+    return false;
+  }
+}
 
 /**
  * Builds an Overpass QL query to fetch addresses for a city by ISTAT code.
@@ -238,21 +311,19 @@ function deduplicateAddresses(addresses: Address[]): Address[] {
 /**
  * Saves addresses to a JSON file using ISTAT code as filename.
  * 
+ * @param addressesDir - Directory to save addresses in
  * @param istatCode - ISTAT code for the city
  * @param addresses - Array of addresses to save
  */
-async function saveAddressesToFile(istatCode: string, addresses: Address[]): Promise<void> {
+async function saveAddressesToFile(addressesDir: string, istatCode: string, addresses: Address[]): Promise<void> {
   // Use ISTAT code as filename
   const filename = `${istatCode}.json`;
-  const filepath = join(OUTPUT_DIR, filename);
-  
-  // Ensure output directory exists
-  await mkdir(OUTPUT_DIR, { recursive: true });
+  const filepath = join(addressesDir, filename);
   
   // Write JSON file with nice formatting
   await writeFile(filepath, JSON.stringify(addresses, null, 2), 'utf-8');
   
-  console.log(`  Saved to ${filename}`);
+  console.log(`  💾 Saved to ${filename}`);
 }
 
 /**
@@ -261,50 +332,94 @@ async function saveAddressesToFile(istatCode: string, addresses: Address[]): Pro
 async function main() {
   const args = process.argv.slice(2);
   
-  if (args.length === 0) {
-    console.error('Usage: npm run fetch-addresses -- <istat1> <istat2> ...');
-    console.error('Example: npm run fetch-addresses -- 013075 012133');
-    console.error('         (013075 = Como, 012133 = Varese)');
+  if (args.length !== 1) {
+    console.error('Usage: npm run fetch-addresses -- <dispatch-center-path>');
+    console.error('');
+    console.error('Examples:');
+    console.error('  npm run fetch-addresses -- Lombardia/SRL');
+    console.error('  npm run fetch-addresses -- Veneto/Padova');
+    console.error('');
+    console.error('The script will:');
+    console.error('  - Fetch addresses for all cities in the dispatch center');
+    console.error('  - Skip cities that already have address files');
+    console.error('  - Wait 5 seconds between API calls');
+    console.error('  - Can be stopped and resumed without losing progress');
     process.exit(1);
   }
   
-  const istatCodes = args;
+  const dcPath = args[0];
   
-  console.log(`Fetching addresses for ${istatCodes.length} cities: ${istatCodes.join(', ')}\n`);
-  
-  for (const istat of istatCodes) {
-    try {
-      // Find city by ISTAT code
-      const city = Object.values(CITIES).find(c => c.istat === istat);
-      if (!city) {
-        throw new Error(
-          `No city configured for ISTAT code: ${istat}. ` +
-          `Please add it to src/data/cities.tsx`
-        );
+  try {
+    console.log(`🔍 Loading dispatch center: ${dcPath}\n`);
+    
+    const { addressesDir, cities } = await validateAndLoadDispatchCenter(dcPath);
+    
+    console.log(`📋 Found ${cities.length} cities\n`);
+    console.log(`📂 Addresses will be saved to: ${addressesDir}\n`);
+    
+    let processed = 0;
+    let skipped = 0;
+    let failed = 0;
+    let successful = 0;
+    
+    for (let i = 0; i < cities.length; i++) {
+      const city = cities[i];
+      const progress = `[${i + 1}/${cities.length}]`;
+      
+      console.log(`${progress} ${city.name} (ISTAT: ${city.istat})`);
+      
+      // Check if file already exists
+      const exists = await addressFileExists(addressesDir, city.istat);
+      if (exists) {
+        console.log(`  ⏭️  Skipped - address file already exists\n`);
+        skipped++;
+        continue;
       }
       
-      const addresses = await fetchAddressesForCity(city);
-      
-      if (addresses.length === 0) {
-        console.error(`  ⚠️  No addresses found for ISTAT ${istat}`);
-      } else {
-        await saveAddressesToFile(city.istat, addresses);
-        console.log(`  ✓ Successfully fetched ${addresses.length} addresses for ISTAT ${istat}`);
+      try {
+        const addresses = await fetchAddressesForCity(city);
+        
+        if (addresses.length === 0) {
+          console.log(`  ⚠️  No addresses found\n`);
+          // Still save empty array to mark as processed
+          await saveAddressesToFile(addressesDir, city.istat, addresses);
+        } else {
+          await saveAddressesToFile(addressesDir, city.istat, addresses);
+          console.log(`  ✅ Successfully fetched ${addresses.length} addresses\n`);
+          successful++;
+        }
+        
+        processed++;
+        
+        // Add delay between requests (except for last city)
+        if (i < cities.length - 1) {
+          console.log(`  ⏱️  Waiting ${API_DELAY_MS / 1000} seconds before next request...\n`);
+          await new Promise(resolve => setTimeout(resolve, API_DELAY_MS));
+        }
+      } catch (error) {
+        console.error(`  ❌ Error:`, error instanceof Error ? error.message : error);
+        console.log('');
+        failed++;
       }
-    } catch (error) {
-      console.error(`  ✗ Error fetching ISTAT ${istat}:`, error instanceof Error ? error.message : error);
     }
     
-    console.log('');
+    console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
+    console.log('📊 Summary:');
+    console.log(`   Total cities: ${cities.length}`);
+    console.log(`   ✅ Successful: ${successful}`);
+    console.log(`   ⏭️  Skipped (already exists): ${skipped}`);
+    console.log(`   ❌ Failed: ${failed}`);
+    console.log(`   📝 Processed this run: ${processed}`);
+    console.log('━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━');
     
-    // Add delay between requests to be respectful to the API
-    if (istatCodes.indexOf(istat) < istatCodes.length - 1) {
-      console.log('  Waiting 2 seconds before next request...\n');
-      await new Promise(resolve => setTimeout(resolve, 2000));
+    if (failed > 0) {
+      console.log('\n💡 Tip: You can re-run the script to retry failed cities.');
     }
+    
+  } catch (error) {
+    console.error('❌ Fatal error:', error instanceof Error ? error.message : error);
+    process.exit(1);
   }
-  
-  console.log('Done!');
 }
 
 main().catch(error => {

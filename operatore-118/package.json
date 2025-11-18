@@ -10,11 +10,13 @@
     "preview": "vite preview",
     "test": "vitest",
     "test:ui": "vitest --ui",
-    "fetch-addresses": "tsx scripts/fetch-addresses.ts"
+    "fetch-addresses": "tsx scripts/fetch-addresses.ts",
+    "import-cities": "tsx scripts/import-cities.ts"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^2.9.0",
     "@types/react-redux": "^7.1.34",
+    "csv-parse": "^6.1.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "react-redux": "^9.2.0"
