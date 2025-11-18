@@ -148,7 +148,7 @@ export class CallGenerator {
       ...call,
       receivedAt: ctx.now()
     };
-    console.log(`Generated call: ${call.id}`);
+    console.log(`Generated call: ${call.id} - ${call.location.address.city.name}, ${call.location.address.street} ${call.location.address.number}`);
     if (ctx?.dispatch) {
       ctx.dispatch(addCall(callWithTimestamp));
     } else {

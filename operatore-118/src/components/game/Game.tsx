@@ -29,6 +29,8 @@ export default function Game() {
     const events = useAppSelector(selectEvents);
     const ttsEnabled = useAppSelector(selectTtsEnabled);
     const callEmissionEnabled = useAppSelector(selectCallEmissionEnabled);
+    const selectedRegionId = useAppSelector(selectRegion);
+    const selectedDispatchCenterId = useAppSelector(selectDispatchCenter);
     
     // Text-to-speech functionality (only the speak function, state is in Redux)
     const { speak } = useTextToSpeech();
@@ -88,9 +90,11 @@ export default function Game() {
     
     // Track if component is truly mounted to prevent disposal during Strict Mode
     const isMountedRef = useRef(false);
+    const isInitializedRef = useRef(false);
     
-    // Create simulation infrastructure using useMemo to recreate when cities change
-    const infrastructure = useMemo(() => {
+    // Create simulation infrastructure using useState to survive React Strict Mode double-mounting
+    // This ensures the same instances persist across the unmount/remount cycle in development
+    const [infrastructure] = useState(() => {
         const virtualClock = new VirtualClock(1.0, true, 0);
         
         const simContext: SimContext = {
@@ -99,7 +103,24 @@ export default function Game() {
         };
         
         const scheduler = new Scheduler(virtualClock, simContext);
-        const addressGenerator = new AddressGenerator({ cities: cities });
+        
+        // Find selected region and dispatch center
+        const selectedRegion = REGIONS.find(r => r.id === selectedRegionId);
+        const selectedDispatchCenter = selectedRegion?.dispatchCenters?.find(dc => dc.id === selectedDispatchCenterId);
+        
+        if (!selectedRegion || !selectedDispatchCenter) {
+            throw new Error('Region and dispatch center must be selected before creating AddressGenerator');
+        }
+        
+        // Construct addressesPath based on region and dispatch center
+        // Note: paths must be relative to AddressGenerator.ts (src/core/) for Vite's dynamic import
+        // Use dispatch center ID (not label) as it matches the directory structure
+        const addressesPath = `../data/dispatch-centers/${selectedRegion.label}/${selectedDispatchCenter.id}/addresses`;
+        
+        const addressGenerator = new AddressGenerator({ 
+            cities: cities,
+            addressesPath: addressesPath
+        });
         const callGenerator = new CallGenerator(scheduler, CALL_GENERATOR_CONFIG, addressGenerator);
         
         return {
@@ -109,7 +130,7 @@ export default function Game() {
             addressGenerator,
             callGenerator
         };
-    }, [cities]);
+    });
     
     const { virtualClock, simContext, scheduler, callGenerator, addressGenerator } = infrastructure;
     
@@ -142,7 +163,9 @@ export default function Game() {
         // Use queueMicrotask to delay start until after React Strict Mode's double-mount
         // This ensures we only start once, not during the first mount that gets immediately unmounted
         queueMicrotask(async () => {
-            if (isMountedRef.current) {
+            if (isMountedRef.current && !isInitializedRef.current) {
+                isInitializedRef.current = true;
+                
                 // Only start call generator if cities are configured
                 if (cities.length > 0) {
                     try {
@@ -176,9 +199,6 @@ export default function Game() {
             });
         };
     }, [callGenerator, scheduler, cities]);
-    
-    const selectedRegionId = useAppSelector(selectRegion);
-    const selectedDispatchCenterId = useAppSelector(selectDispatchCenter);
 
     const selectedRegion = REGIONS.find(r => r.id === selectedRegionId);
     const selectedDispatchCenter = selectedRegion?.dispatchCenters?.find(dc => dc.id === selectedDispatchCenterId);

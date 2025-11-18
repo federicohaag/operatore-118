@@ -6,42 +6,75 @@ import type { Address, City } from '../model/location';
 export interface AddressGeneratorConfig {
   /** List of cities (with ISTAT codes) to load addresses for */
   cities: City[];
+  /** Path to the dispatch center's addresses directory */
+  addressesPath: string;
+  /** Initial buffer size (default: 10) */
+  initialBufferSize?: number;
+  /** Refill threshold - refill when buffer drops below this (default: 5) */
+  refillThreshold?: number;
+  /** Number of addresses to add when refilling (default: 10) */
+  refillAmount?: number;
 }
 
 /**
- * Generates random addresses from pre-loaded address data files.
+ * City weight information for weighted random selection.
+ */
+interface CityWeight {
+  /** The city information */
+  city: City;
+  /** Number of addresses available for this city */
+  addressCount: number;
+  /** Computed weight for random selection (1, 2, or 4) */
+  weight: number;
+}
+
+/**
+ * Generates random addresses from address data files using weighted random selection.
  * 
- * AddressGenerator loads real street addresses from JSON files in the
- * data/addresses directory. Each city has its own JSON file containing
- * addresses fetched from OpenStreetMap.
+ * AddressGenerator uses a memory-efficient buffering approach:
+ * 1. Pre-loads a buffer of addresses (default: 10) during initialization
+ * 2. Returns addresses from the buffer (instant, no file I/O)
+ * 3. Automatically refills buffer in background when it drops below threshold (default: 5)
+ * 
+ * This provides:
+ * - Fast synchronous address access (no await needed after initialization)
+ * - Weighted random selection (cities with more addresses picked more often)
+ * - Automatic background refilling for continuous operation
  * 
  * Usage:
  * ```typescript
  * const generator = new AddressGenerator({ 
- *   cities: ['Como', 'Varese'] 
+ *   cities: [COMO, VARESE],
+ *   addressesPath: '../data/dispatch-centers/Lombardia/SRL/addresses'
  * });
  * 
  * await generator.initialize();
- * const address = generator.getRandomAddress();
+ * const address = generator.getRandomAddress(); // synchronous!
  * ```
  * 
  * Address files are generated using the fetch-addresses CLI tool:
  * ```bash
- * npm run fetch-addresses -- Como Varese
+ * npm run fetch-addresses -- Lombardia/SRL
  * ```
- * 
- * The generator provides random selection from the loaded addresses,
- * with addresses distributed across all configured cities.
  */
 export class AddressGenerator {
   /** Configuration for address generation */
   private config: AddressGeneratorConfig;
   
-  /** Cache of addresses by ISTAT code */
-  private addressCache: Map<string, Address[]> = new Map();
+  /** Weighted city information for random selection */
+  private cityWeights: CityWeight[] = [];
+  
+  /** Total sum of all weights */
+  private totalWeight: number = 0;
   
   /** Whether the generator has been initialized */
   private initialized: boolean = false;
+
+  /** Buffer of pre-loaded addresses */
+  private addressBuffer: Address[] = [];
+
+  /** Whether a refill operation is currently in progress */
+  private isRefilling: boolean = false;
 
   /**
    * Creates a new AddressGenerator instance.
@@ -54,161 +87,301 @@ export class AddressGenerator {
     if (!this.config.cities || this.config.cities.length === 0) {
       throw new Error('AddressGenerator requires at least one city');
     }
+    
+    if (!this.config.addressesPath) {
+      throw new Error('AddressGenerator requires addressesPath');
+    }
   }
 
   /**
-   * Initializes the generator by loading address data files.
+   * Initializes the generator by computing city weights and pre-loading address buffer.
    * 
-   * Must be called before getRandomAddress(). Loads JSON files for each
-   * configured city from the data/addresses directory.
+   * Must be called before getRandomAddress(). Reads each city's address file
+   * to count addresses, compute weights, and pre-load initial buffer.
    * 
-   * @throws Error if any address file fails to load
+   * @throws Error if any address file fails to load or has no addresses
    */
   async initialize(): Promise<void> {
     if (this.initialized) {
       return;
     }
 
-    console.log(`AddressGenerator: Loading addresses for cities: ${this.config.cities.map(c => `${c.name} (${c.istat})`).join(', ')}`);
+    console.log(`AddressGenerator: Computing weights for ${this.config.cities.length} cities...`);
     
-    await Promise.all(
-      this.config.cities.map(city => this.loadAddressesForCity(city))
+    // Load address counts for all cities
+    const cityInfos = await Promise.all(
+      this.config.cities.map(async (city) => {
+        const count = await this.getAddressCountForCity(city);
+        return { city, count };
+      })
     );
     
-    const totalLoaded = this.getTotalCachedAddressCount();
-    console.log(`AddressGenerator: Loaded ${totalLoaded} addresses from ${this.config.cities.length} cities`);
+    // Filter out cities with no addresses
+    const citiesWithAddresses = cityInfos.filter(info => info.count > 0);
+    const citiesWithNoAddresses = cityInfos.filter(info => info.count === 0);
+    
+    if (citiesWithNoAddresses.length > 0) {
+      console.warn(
+        `AddressGenerator: Skipped ${citiesWithNoAddresses.length} cities with no addresses: ${citiesWithNoAddresses.map(c => `${c.city.name} (${c.city.istat})`).join(', ')}`
+      );
+    }
+    
+    if (citiesWithAddresses.length === 0) {
+      throw new Error(
+        `No addresses available. All ${cityInfos.length} cities have empty or missing address files. ` +
+        `Run "npm run fetch-addresses -- <dispatch-center-path>" to fetch addresses.`
+      );
+    }
+    
+    // Build city weights with address counts
+    const cityWeightsWithCounts = citiesWithAddresses.map(({ city, count }) => ({
+      city,
+      addressCount: count
+    }));
+    
+    // Sort cities by address count to determine weight tiers
+    const sortedByCount = [...cityWeightsWithCounts].sort((a, b) => b.addressCount - a.addressCount);
+    
+    // Calculate tier thresholds (20% top, 20% bottom, 60% middle)
+    const topTierCount = Math.ceil(sortedByCount.length * 0.2);
+    const bottomTierCount = Math.ceil(sortedByCount.length * 0.2);
+    
+    // Determine tier boundaries
+    const topTierMinCount = sortedByCount[topTierCount - 1]?.addressCount ?? Infinity;
+    const bottomTierMaxCount = sortedByCount[sortedByCount.length - bottomTierCount]?.addressCount ?? 0;
+    
+    // Assign weights based on tier
+    this.cityWeights = cityWeightsWithCounts.map(({ city, addressCount }) => {
+      let weight: number;
+      
+      if (addressCount >= topTierMinCount) {
+        // Top 20%: weight 4
+        weight = 4;
+      } else if (addressCount <= bottomTierMaxCount) {
+        // Bottom 20%: weight 1
+        weight = 1;
+      } else {
+        // Middle 60%: weight 2
+        weight = 2;
+      }
+      
+      return { city, addressCount, weight };
+    });
+    
+    // Calculate total weight
+    this.totalWeight = this.cityWeights.reduce((sum, w) => sum + w.weight, 0);
+    
+    console.log(`AddressGenerator: Initialized with ${this.cityWeights.length} cities, ${this.totalWeight} total weight`);
+    console.log(`  Weights: ${this.cityWeights.map(w => `${w.city.name}=${w.weight} (${w.addressCount} addrs)`).join(', ')}`);
+    
+    // Pre-load initial buffer
+    const bufferSize = this.config.initialBufferSize ?? 10;
+    console.log(`AddressGenerator: Pre-loading ${bufferSize} addresses...`);
+    await this.refillBuffer(bufferSize);
     
     this.initialized = true;
+    console.log(`AddressGenerator: Ready with ${this.addressBuffer.length} addresses in buffer`);
   }
 
   /**
-   * Loads addresses from JSON file for a specific city.
+   * Gets the number of addresses available for a city by reading its JSON file.
    * 
-   * @param city The city to load addresses for
-   * @returns Array of addresses for the city
-   * @throws Error if the JSON file cannot be loaded or parsed
+   * @param city The city to count addresses for
+   * @returns Number of addresses in the city's JSON file, or 0 if file cannot be loaded
    */
-  private async loadAddressesForCity(city: City): Promise<Address[]> {
+  private async getAddressCountForCity(city: City): Promise<number> {
     const fileName = `${city.istat}.json`;
-    const filePath = `/src/data/dispatch-centers/Lombardia/SRL/addresses/${fileName}`;
+    const filePath = `${this.config.addressesPath}/${fileName}`;
+    
+    try {
+      // Dynamically import the JSON file to get the count
+      const module = await import(/* @vite-ignore */ filePath);
+      const addresses = module.default as Address[];
+      return addresses.length;
+    } catch (error) {
+      // Silently return 0 - summary warning will be logged during initialization
+      return 0;
+    }
+  }
+  
+  /**
+   * Loads a specific address from a city's JSON file.
+   * 
+   * @param city The city to load the address from
+   * @param index The index of the address to load
+   * @returns The address at the specified index
+   * @throws Error if the JSON file cannot be loaded or index is out of bounds
+   */
+  private async loadAddressAtIndex(city: City, index: number): Promise<Address> {
+    const fileName = `${city.istat}.json`;
+    const filePath = `${this.config.addressesPath}/${fileName}`;
     
     try {
       // Dynamically import the JSON file
       const module = await import(/* @vite-ignore */ filePath);
       const addresses = module.default as Address[];
       
-      // Cache the loaded addresses by ISTAT code
-      this.addressCache.set(city.istat, addresses);
+      if (index < 0 || index >= addresses.length) {
+        throw new Error(`Index ${index} out of bounds for ${addresses.length} addresses`);
+      }
       
-      return addresses;
+      return addresses[index];
     } catch (error) {
       throw new Error(
-        `Failed to load addresses for city ${city.name} (ISTAT: ${city.istat}) from ${filePath}: ${error}`
+        `Failed to load address at index ${index} for city ${city.name} (ISTAT: ${city.istat}) from ${filePath}: ${error}`
       );
     }
   }
 
   /**
-   * Gets a random address from the configured cities.
+   * Generates a random address using weighted selection and loads it.
    * 
-   * Randomly selects a city first (with equal weight), then randomly selects
-   * an address from that city. This ensures equal probability for each city
-   * regardless of how many addresses they have.
+   * Uses the assigned weight (1, 2, or 4) for weighted random selection,
+   * then randomly picks an address from the selected city.
+   * 
+   * @returns A randomly selected address
+   */
+  private async generateRandomAddress(): Promise<Address> {
+    // Pick a random weight value across all cities
+    const randomWeight = Math.random() * this.totalWeight;
+    
+    // Find which city this weight value belongs to
+    let currentWeight = 0;
+    let selectedCity: CityWeight | null = null;
+    
+    for (const cityWeight of this.cityWeights) {
+      if (randomWeight < currentWeight + cityWeight.weight) {
+        selectedCity = cityWeight;
+        break;
+      }
+      currentWeight += cityWeight.weight;
+    }
+    
+    // Fallback to last city (should never happen, but ensures type safety)
+    if (!selectedCity) {
+      selectedCity = this.cityWeights[this.cityWeights.length - 1];
+    }
+    
+    // Randomly pick an address index from the selected city
+    const addressIndexInCity = Math.floor(Math.random() * selectedCity.addressCount);
+    
+    // Load only the specific address from the JSON file
+    return await this.loadAddressAtIndex(selectedCity.city, addressIndexInCity);
+  }
+
+  /**
+   * Refills the address buffer with random addresses.
+   * 
+   * @param count Number of addresses to add to the buffer
+   */
+  private async refillBuffer(count: number): Promise<void> {
+    const addresses = await Promise.all(
+      Array.from({ length: count }, () => this.generateRandomAddress())
+    );
+    this.addressBuffer.push(...addresses);
+  }
+
+  /**
+   * Checks if buffer needs refilling and triggers background refill if needed.
+   */
+  private checkAndRefillBuffer(): void {
+    const threshold = this.config.refillThreshold ?? 5;
+    const refillAmount = this.config.refillAmount ?? 10;
+    
+    if (!this.isRefilling && this.addressBuffer.length < threshold) {
+      this.isRefilling = true;
+      console.log(`AddressGenerator: Buffer low (${this.addressBuffer.length}), refilling with ${refillAmount} addresses...`);
+      
+      this.refillBuffer(refillAmount)
+        .then(() => {
+          this.isRefilling = false;
+          console.log(`AddressGenerator: Buffer refilled, now has ${this.addressBuffer.length} addresses`);
+        })
+        .catch(error => {
+          this.isRefilling = false;
+          console.error('AddressGenerator: Failed to refill buffer:', error);
+        });
+    }
+  }
+
+  /**
+   * Gets a random address from the buffer.
+   * 
+   * Returns an address instantly from the pre-loaded buffer. Automatically
+   * triggers background refill when buffer drops below threshold.
    * 
    * You must call initialize() before using this method.
    * 
-   * @returns A randomly selected Address
-   * @throws Error if generator is not initialized or no addresses are available
+   * @returns A randomly selected Address from the buffer
+   * @throws Error if generator is not initialized or buffer is empty
    */
   getRandomAddress(): Address {
     if (!this.initialized) {
       throw new Error('AddressGenerator must be initialized before use. Call initialize() first.');
     }
 
-    // Filter cities that have addresses
-    const citiesWithAddresses = this.config.cities.filter(
-      city => {
-        const addresses = this.addressCache.get(city.istat);
-        return addresses && addresses.length > 0;
-      }
-    );
-    
-    if (citiesWithAddresses.length === 0) {
-      const citiesWithNoAddresses = this.config.cities.filter(
-        city => this.addressCache.has(city.istat) && this.addressCache.get(city.istat)!.length === 0
-      );
-      
-      if (citiesWithNoAddresses.length > 0) {
-        throw new Error(
-          `No addresses available. The following cities have empty address files: ${citiesWithNoAddresses.map(c => `${c.name} (${c.istat})`).join(', ')}. ` +
-          `Run "npm run fetch-addresses -- ${citiesWithNoAddresses.map(c => c.istat).join(' ')}" to fetch addresses.`
-        );
-      }
-      
-      throw new Error('No addresses available in cache');
+    if (this.addressBuffer.length === 0) {
+      throw new Error('Address buffer is empty. This should not happen after initialization.');
     }
     
-    // Step 1: Randomly select a city (equal weight for each city)
-    const randomCityIndex = Math.floor(Math.random() * citiesWithAddresses.length);
-    const selectedCity = citiesWithAddresses[randomCityIndex];
+    // Pop address from buffer (FIFO)
+    const address = this.addressBuffer.shift()!;
     
-    // Step 2: Randomly select an address from that city
-    const cityAddresses = this.addressCache.get(selectedCity.istat)!;
-    const randomAddressIndex = Math.floor(Math.random() * cityAddresses.length);
+    // Check if we need to refill (async, non-blocking)
+    this.checkAndRefillBuffer();
     
-    return cityAddresses[randomAddressIndex];
+    return address;
   }
 
   /**
-   * Clears the address cache.
+   * Resets the generator state.
    * 
-   * Removes all loaded addresses. After calling this, you'll need to call
-   * initialize() again to reload the data. Useful for testing.
+   * Clears all weights, buffer, and initialization state. After calling this,
+   * you'll need to call initialize() again. Useful for testing.
    */
-  clearCache(): void {
-    this.addressCache.clear();
+  reset(): void {
+    this.cityWeights = [];
+    this.totalWeight = 0;
+    this.addressBuffer = [];
+    this.isRefilling = false;
     this.initialized = false;
   }
 
   /**
-   * Gets the number of loaded addresses for a specific city.
+   * Gets the current buffer size.
+   * 
+   * @returns Number of addresses currently in the buffer
+   */
+  getBufferSize(): number {
+    return this.addressBuffer.length;
+  }
+
+  /**
+   * Gets the number of addresses for a specific city.
    * 
    * @param istatCode - ISTAT code of the city to check
-   * @returns Number of loaded addresses, or 0 if city not loaded
+   * @returns Number of addresses, or 0 if city not found
    */
-  getCachedAddressCount(istatCode: string): number {
-    return this.addressCache.get(istatCode)?.length || 0;
+  getAddressCount(istatCode: string): number {
+    const weight = this.cityWeights.find(w => w.city.istat === istatCode);
+    return weight?.addressCount || 0;
   }
 
   /**
-   * Gets the total number of loaded addresses across all cities.
+   * Gets the total number of addresses across all cities.
    * 
-   * @returns Total number of loaded addresses
+   * @returns Total number of addresses
    */
-  getTotalCachedAddressCount(): number {
-    let total = 0;
-    for (const addresses of this.addressCache.values()) {
-      total += addresses.length;
-    }
-    return total;
+  getTotalAddressCount(): number {
+    return this.totalWeight;
   }
 
   /**
-   * Gets all loaded addresses for a specific city.
+   * Gets the list of cities with their address counts.
    * 
-   * @param istatCode - ISTAT code of the city to retrieve addresses for
-   * @returns Array of loaded addresses, or empty array if city not loaded
+   * @returns Array of city weights
    */
-  getCachedAddresses(istatCode: string): Address[] {
-    return this.addressCache.get(istatCode) || [];
-  }
-
-  /**
-   * Gets all loaded addresses across all cities.
-   * 
-   * @returns Map of ISTAT codes to their loaded addresses
-   */
-  getAllCachedAddresses(): Map<string, Address[]> {
-    return new Map(this.addressCache);
+  getCityWeights(): ReadonlyArray<Readonly<CityWeight>> {
+    return this.cityWeights;
   }
 }
