@@ -15,7 +15,7 @@ import { writeFile, mkdir } from 'fs/promises';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import type { Address, City } from '../src/model/location';
-import * as CITIES from '../src/data/cities';
+import * as CITIES from '../src/data/dispatch-centers/Lombardia/SRL/cities';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -27,7 +27,7 @@ const OVERPASS_ENDPOINT = 'https://overpass-api.de/api/interpreter';
 const TIMEOUT_MS = 30000;
 
 /** Output directory for address JSON files */
-const OUTPUT_DIR = join(__dirname, '..', 'src', 'data', 'addresses');
+const OUTPUT_DIR = join(__dirname, '..', 'src', 'data', 'dispatch-centers', 'Lombardia', 'SRL', 'addresses');
 
 /**
  * Builds an Overpass QL query to fetch addresses for a city by ISTAT code.

@@ -1,7 +1,14 @@
 
 import {type Region, RegionStatus} from '../model/region';
 import * as hospitals from './hospitals';
-import * as cities from './cities';
+import * as calabria from './dispatch-centers/Calabria/dispatch-centers';
+import * as emiliaRomagna from './dispatch-centers/Emilia-Romagna/dispatch-centers';
+import * as lazio from './dispatch-centers/Lazio/dispatch-centers';
+import * as liguria from './dispatch-centers/Liguria/dispatch-centers';
+import * as lombardia from './dispatch-centers/Lombardia/dispatch-centers';
+import * as puglia from './dispatch-centers/Puglia/dispatch-centers';
+import * as sardegna from './dispatch-centers/Sardegna/dispatch-centers';
+import * as veneto from './dispatch-centers/Veneto/dispatch-centers';
 // TODO: dispatch centers coordinates are random, should be put correctly
 export const ABRUZZO: Region = { 
     id: 'abruzzo', 
@@ -21,10 +28,7 @@ export const CALABRIA: Region = {
     id: 'calabria',
     label: 'Calabria', 
     status: RegionStatus.Available, 
-    dispatchCenters: [
-        { id: 'NORD', label: 'SUEM 118 Nord', latitude: 38.9097, longitude: 16.5967, cities: [] },
-        { id: 'SUD', label: 'SUEM 118 Sud', latitude: 38.9097, longitude: 16.5967, cities: [] }
-    ],
+    dispatchCenters: calabria.CALABRIA_DISPATCH_CENTERS,
     hospitals: []
 };
 export const CAMPANIA: Region = { 
@@ -38,11 +42,7 @@ export const EMILIA_ROMAGNA: Region = {
     id: 'emilia-romagna',
     label: 'Emilia-Romagna', 
     status: RegionStatus.Available,
-    dispatchCenters: [
-        { id: '118 Emilia Ovest', label: '118 Emilia Ovest', latitude: 44.4949, longitude: 11.3426, cities: [] },
-        { id: '118 Emilia Est', label: '118 Emilia Est', latitude: 44.4949, longitude: 11.3426, cities: [] },
-        { id: '118 Romagna', label: '118 Romagna', latitude: 44.4949, longitude: 11.3426, cities: [] }
-    ],
+    dispatchCenters: emiliaRomagna.EMILIA_ROMAGNA_DISPATCH_CENTERS,
     hospitals: []
 };
 
@@ -56,11 +56,7 @@ export const LAZIO: Region = {
     id: 'lazio',
     label: 'Lazio', 
     status: RegionStatus.Available,
-    dispatchCenters: [
-        { id: 'NORD', label: 'CORES NORD', latitude: 41.9028, longitude: 12.4964, cities: [] },
-        { id: 'METRO', label: 'CORES METROPOLITANA', latitude: 41.9028, longitude: 12.4964, cities: [] },
-        { id: 'SUD', label: 'CORES SUD', latitude: 41.9028, longitude: 12.4964, cities: [] }
-    ],
+    dispatchCenters: lazio.LAZIO_DISPATCH_CENTERS,
     hospitals: []
 };
 
@@ -68,13 +64,7 @@ export const LIGURIA: Region = {
     id: 'liguria',
     label: 'Liguria', 
     status: RegionStatus.Available,
-    dispatchCenters: [
-        { id: 'ASL1', label: '118 Imperia Soccorso', latitude: 44.4056, longitude: 8.9463, cities: [] },
-        { id: 'ASL2', label: '118 Savona Soccorso', latitude: 44.4056, longitude: 8.9463, cities: [] },
-        { id: 'ASL3', label: '118 Genova Soccorso', latitude: 44.4056, longitude: 8.9463, cities: [] },
-        { id: 'ASL4', label: '118 Tigullio Soccorso', latitude: 44.4056, longitude: 8.9463, cities: [] },
-        { id: 'ASL5', label: '118 La Spezia Soccorso', latitude: 44.4056, longitude: 8.9463, cities: [] }
-    ],
+    dispatchCenters: liguria.LIGURIA_DISPATCH_CENTERS,
     hospitals: []
 };
 
@@ -82,12 +72,7 @@ export const LOMBARDIA: Region = {
     id: 'lombardia',
     label: 'Lombardia', 
     status: RegionStatus.Available,
-    dispatchCenters: [
-        { id: 'SRA', label: 'SOREU Alpina', latitude: 45.4642, longitude: 9.1900, cities: [] },
-        { id: 'SRL', label: 'SOREU Laghi', latitude: 45.4642, longitude: 9.1900, cities: [cities.COMO, cities.VARESE] },
-        { id: 'SRM', label: 'SOREU Metropolitana', latitude: 45.4642, longitude: 9.1900, cities: [] },
-        { id: 'SRP', label: 'SOREU Pianura', latitude: 45.4642, longitude: 9.1900, cities: [] }
-    ],
+    dispatchCenters: lombardia.LOMBARDIA_DISPATCH_CENTERS,
     hospitals: [
         hospitals.H_LECCO, hospitals.H_VALDUCE, hospitals.H_CANTU, hospitals.H_S_GERARDO
     ]
@@ -116,12 +101,7 @@ export const PUGLIA: Region = {
     id: 'puglia',
     label: 'Puglia', 
     status: RegionStatus.Available,
-    dispatchCenters: [
-        { id: 'FG', label: '118 Foggia', latitude: 41.1171, longitude: 16.8719, cities: [] },
-        { id: 'BA', label: '118 Bari', latitude: 41.1171, longitude: 16.8719, cities: [] },
-        { id: 'BR', label: '118 Brindisi', latitude: 41.1171, longitude: 16.8719, cities: [] },
-        { id: 'LE', label: '118 Lecce', latitude: 41.1171, longitude: 16.8719, cities: [] }
-    ],
+    dispatchCenters: puglia.PUGLIA_DISPATCH_CENTERS,
     hospitals: []
 };
 
@@ -129,10 +109,7 @@ export const SARDEGNA: Region = {
     id: 'sardegna',
     label: 'Sardegna', 
     status: RegionStatus.Available,
-    dispatchCenters: [
-        { id: 'NORD', label: '118 Nord - Sassari', latitude: 39.2238, longitude: 9.1217, cities: [] },
-        { id: 'SUD', label: '118 Sud - Cagliari', latitude: 39.2238, longitude: 9.1217, cities: [] }
-    ],
+    dispatchCenters: sardegna.SARDEGNA_DISPATCH_CENTERS,
     hospitals: []
 };
 export const SICILIA: Region = { 
@@ -174,14 +151,6 @@ export const VENETO: Region = {
     id: 'veneto',
     label: 'Veneto', 
     status: RegionStatus.Available,
-    dispatchCenters: [
-        { id: 'Belluno Emergenza', label: '118 Belluno Emergenza', latitude: 45.4408, longitude: 12.3155, cities: [] },
-        { id: 'Padova Emergenza', label: '118 Padova Emergenza', latitude: 45.4408, longitude: 12.3155, cities: [] },
-        { id: 'Rovigo Emergenza', label: '118 Rovigo Emergenza', latitude: 45.4408, longitude: 12.3155, cities: [] },
-        { id: 'Treviso Emergenza', label: '118 Treviso Emergenza', latitude: 45.4408, longitude: 12.3155, cities: [] },
-        { id: 'Venezia Emergenza', label: '118 Venezia Emergenza', latitude: 45.4408, longitude: 12.3155, cities: [] },
-        { id: 'Vicenza Emergenza', label: '118 Vicenza Emergenza', latitude: 45.4408, longitude: 12.3155, cities: [] },
-        { id: 'Verona Emergenza', label: '118 Verona Emergenza', latitude: 45.4408, longitude: 12.3155, cities: [] }
-    ],
+    dispatchCenters: veneto.VENETO_DISPATCH_CENTERS,
     hospitals: []
 };

@@ -90,7 +90,7 @@ export class AddressGenerator {
    */
   private async loadAddressesForCity(city: City): Promise<Address[]> {
     const fileName = `${city.istat}.json`;
-    const filePath = `/src/data/addresses/${fileName}`;
+    const filePath = `/src/data/dispatch-centers/Lombardia/SRL/addresses/${fileName}`;
     
     try {
       // Dynamically import the JSON file
