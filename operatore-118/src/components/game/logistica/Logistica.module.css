@@ -308,18 +308,18 @@
     justify-content: flex-start;
     gap: 4px;
     padding: 2px 8px;
-    background-color: #eff6ff;
-    border: 2px solid #3b82f6;
+    background-color: #f3f4f6;
+    border: 2px solid #d1d5db;
     font-weight: 600;
     font-size: 0.85em;
-    color: #1e40af;
+    color: #374151;
     cursor: pointer;
     transition: all 0.2s;
 }
 
 .vehicle-station:hover {
-    background-color: #dbeafe;
-    border-color: #2563eb;
+    background-color: #e5e7eb;
+    border-color: #9ca3af;
 }
 
 .vehicle-type {
