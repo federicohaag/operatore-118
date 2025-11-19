@@ -1,19 +1,16 @@
 #!/usr/bin/env node
 /// <reference types="node" />
 /**
- * CLI tool to import cities from a CSV file into a dispatch center's cities.tsx file
+ * CLI tool to import cities from popolazione.csv into a dispatch center's cities.tsx file
  * 
  * Usage:
- *   npm run import-cities -- <dispatch-center-path> <csv-file>
+ *   npm run import-cities -- <dispatch-center-path> <province1> [province2] [province3] ...
  *   
  * Example:
- *   npm run import-cities -- Lombardia/SRL cities.csv
- *   npm run import-cities -- Veneto/Padova cities.csv
+ *   npm run import-cities -- Lombardia/SRL COMO VARESE
+ *   npm run import-cities -- Veneto/Padova PADOVA
  * 
- * CSV Format:
- *   name,istat
- *   Como,013075
- *   Varese,012133
+ * The script loads popolazione.csv and filters cities by the specified province names.
  */
 
 import { readFile, writeFile, access } from 'fs/promises';
@@ -27,9 +24,13 @@ const __dirname = dirname(__filename);
 /** Base directory for dispatch centers */
 const DISPATCH_CENTERS_DIR = join(__dirname, '..', 'src', 'data', 'dispatch-centers');
 
+/** Path to popolazione.csv */
+const POPOLAZIONE_CSV_PATH = join(__dirname, '..', 'popolazione.csv');
+
 interface CityRow {
   name: string;
   istat: string;
+  population: number;
 }
 
 /**
@@ -60,88 +61,97 @@ async function validateDispatchCenterPath(dcPath: string): Promise<string> {
 }
 
 /**
- * Reads and parses CSV file
+ * Reads and parses popolazione.csv file, filtering by provinces
  * 
- * @param csvPath - Path to CSV file
- * @returns Array of city rows
- * @throws Error if file cannot be read or parsed
+ * @param provinces - Array of province names to filter by (case-insensitive)
+ * @returns Array of city rows matching the provinces
+ * @throws Error if file cannot be read or parsed or if provinces don't exist
  */
-async function readCsvFile(csvPath: string): Promise<CityRow[]> {
+async function readCitiesFromPopolazione(provinces: string[]): Promise<CityRow[]> {
   try {
-    const content = await readFile(csvPath, 'utf-8');
+    const content = await readFile(POPOLAZIONE_CSV_PATH, 'utf-8');
     const records = parse(content, {
       columns: true,
       skip_empty_lines: true,
       trim: true
     });
     
-    // Validate required columns and normalize ISTAT codes
+    // Normalize province names for comparison
+    const normalizedProvinces = provinces.map(p => p.toUpperCase());
+    
+    // First pass: collect all provinces in the CSV to validate requested provinces
+    const availableProvinces = new Set<string>();
     for (const record of records) {
       const row = record as any;
-      // Handle potential BOM or whitespace in column names
-      const nameKey = Object.keys(row).find(k => k.trim().toLowerCase().includes('name'));
-      const istatKey = Object.keys(row).find(k => k.trim().toLowerCase() === 'istat');
-      
-      if (!nameKey || !istatKey || !row[nameKey] || !row[istatKey]) {
-        throw new Error('CSV must have "name" and "istat" columns');
+      const provincia = row.PROVINCIA?.toUpperCase();
+      if (provincia) {
+        availableProvinces.add(provincia);
       }
-      
-      // Normalize the keys if needed
-      if (nameKey !== 'name') {
-        row.name = row[nameKey];
-        delete row[nameKey];
-      }
-      if (istatKey !== 'istat') {
-        row.istat = row[istatKey];
-        delete row[istatKey];
-      }
-      
-      if (!/^\d+$/.test(row.istat)) {
-        throw new Error(`Invalid ISTAT code: ${row.istat} (must contain only digits)`);
-      }
-      if (row.istat.length > 6) {
-        throw new Error(`Invalid ISTAT code: ${row.istat} (must be 6 digits or less)`);
-      }
-      // Pad ISTAT code with leading zeros to make it 6 digits
-      row.istat = row.istat.padStart(6, '0');
     }
     
-    return records as CityRow[];
+    // Validate that all requested provinces exist
+    const missingProvinces = normalizedProvinces.filter(p => !availableProvinces.has(p));
+    if (missingProvinces.length > 0) {
+      throw new Error(
+        `Province(s) not found in popolazione.csv: ${missingProvinces.join(', ')}\n` +
+        `Available provinces: ${Array.from(availableProvinces).sort().join(', ')}`
+      );
+    }
+    
+    const cities: CityRow[] = [];
+    
+    for (const record of records) {
+      const row = record as any;
+      
+      // The CSV has: DATA_ELABORAZIONE,REGIONE,PROVINCIA,COD_ISTAT_COMUNE,COMUNE,RESIDENTI
+      const provincia = row.PROVINCIA?.toUpperCase();
+      const comune = row.COMUNE;
+      const codIstat = row.COD_ISTAT_COMUNE;
+      const residenti = row.RESIDENTI;
+      
+      if (!provincia || !comune || !codIstat || !residenti) {
+        continue; // Skip malformed rows
+      }
+      
+      // Filter by province
+      if (!normalizedProvinces.includes(provincia)) {
+        continue;
+      }
+      
+      // Validate ISTAT code
+      if (!/^\d+$/.test(codIstat)) {
+        console.warn(`⚠️  Skipping ${comune}: Invalid ISTAT code ${codIstat}`);
+        continue;
+      }
+      
+      // Pad ISTAT code to 6 digits
+      const istat = codIstat.padStart(6, '0');
+      
+      // Parse population
+      const population = parseInt(residenti, 10);
+      if (isNaN(population) || population < 0) {
+        console.warn(`⚠️  Skipping ${comune}: Invalid population ${residenti}`);
+        continue;
+      }
+      
+      cities.push({
+        name: comune,
+        istat,
+        population
+      });
+    }
+    
+    if (cities.length === 0) {
+      throw new Error(`No cities found for provinces: ${provinces.join(', ')}`);
+    }
+    
+    return cities;
   } catch (error) {
     if (error instanceof Error) {
-      throw new Error(`Failed to read CSV file: ${error.message}`);
+      throw new Error(`Failed to read popolazione.csv: ${error.message}`);
     }
     throw error;
   }
-}
-
-/**
- * Extracts dispatch center ID from path
- * 
- * @param dcPath - Dispatch center path (e.g., "Lombardia/SRL")
- * @returns Dispatch center ID (e.g., "SRL")
- */
-function getDispatchCenterId(dcPath: string): string {
-  const parts = dcPath.split('/');
-  return parts[parts.length - 1];
-}
-
-/**
- * Generates city constant name from city name and dispatch center ID
- * 
- * @param cityName - Name of the city
- * @param dcId - Dispatch center ID
- * @returns Constant name (e.g., "SRL_COMO")
- */
-function generateCityConstantName(cityName: string, dcId: string): string {
-  // Convert city name to uppercase and replace spaces/special chars with underscore
-  const sanitizedName = cityName
-    .toUpperCase()
-    .replace(/[^A-Z0-9]/g, '_')
-    .replace(/_+/g, '_')
-    .replace(/^_|_$/g, '');
-  
-  return `${dcId}_${sanitizedName}`;
 }
 
 /**
@@ -182,7 +192,7 @@ async function readExistingCitiesFile(citiesFilePath: string): Promise<{
  * 
  * @param existing - Existing file info
  * @param cities - Cities to import
- * @param dcId - Dispatch center ID
+ * @param dcId - Dispatch center ID (not used, kept for compatibility)
  * @returns New file content
  */
 function generateNewCitiesFileContent(
@@ -190,9 +200,6 @@ function generateNewCitiesFileContent(
   cities: CityRow[],
   dcId: string
 ): string {
-  const newCities: string[] = [];
-  const cityConstants: string[] = [];
-  
   // Filter out cities that already exist
   const citiesToAdd = cities.filter(city => !existing.existingIstats.has(city.istat));
   
@@ -201,53 +208,48 @@ function generateNewCitiesFileContent(
     return existing.content;
   }
   
-  // Generate city constant definitions
-  for (const city of citiesToAdd) {
-    const constName = generateCityConstantName(city.name, dcId);
-    cityConstants.push(constName);
-    // Use double quotes and escape any double quotes in the city name
-    const escapedName = city.name.replace(/"/g, '\\"');
-    newCities.push(
-      `export const ${constName}: City = { name: "${escapedName}", istat: "${city.istat}" };`
-    );
-  }
-  
-  // Find where to insert new city definitions (before the cities array export)
-  const arrayExportMatch = existing.content.match(new RegExp(`export const ${existing.exportArrayName}:`));
-  if (!arrayExportMatch || arrayExportMatch.index === undefined) {
-    throw new Error('Could not find cities array export location');
-  }
-  
-  // Split content at the array export
-  const beforeArray = existing.content.substring(0, arrayExportMatch.index);
-  const arrayAndAfter = existing.content.substring(arrayExportMatch.index);
-  
-  // Insert new city definitions
-  let newContent = beforeArray.trimEnd() + '\n';
-  if (newCities.length > 0) {
-    newContent += '\n' + newCities.join('\n') + '\n';
-  }
-  
-  // Update the cities array to include new cities
-  // Find the array content
-  const arrayMatch = arrayAndAfter.match(/export const \w+_CITIES: City\[\] = \[([\s\S]*?)\];/);
+  // Find the cities array in the existing content
+  const arrayMatch = existing.content.match(/export const (\w+_CITIES): City\[\] = \[([\s\S]*?)\];/);
   if (!arrayMatch) {
     throw new Error('Could not parse cities array');
   }
   
-  const existingArrayContent = arrayMatch[1].trim();
-  const existingCityRefs = existingArrayContent
-    ? existingArrayContent.split(',').map(s => s.trim()).filter(s => s)
-    : [];
+  const arrayName = arrayMatch[1];
+  const existingArrayContent = arrayMatch[2].trim();
   
-  const allCityRefs = [...existingCityRefs, ...cityConstants];
+  // Parse existing city objects from the array
+  const existingCities: string[] = [];
+  if (existingArrayContent) {
+    // Match city objects in the array
+    const cityObjectRegex = /\{\s*name:\s*"[^"]*"\s*,\s*istat:\s*"\d{6}"(?:\s*,\s*population:\s*\d+)?\s*\}/g;
+    const matches = existingArrayContent.matchAll(cityObjectRegex);
+    for (const match of matches) {
+      existingCities.push(match[0]);
+    }
+  }
   
-  // Generate new array
-  const newArray = allCityRefs.length > 0
-    ? `export const ${existing.exportArrayName}: City[] = [\n  ${allCityRefs.join(',\n  ')}\n];`
-    : `export const ${existing.exportArrayName}: City[] = [];`;
+  // Generate new city objects
+  const newCityObjects: string[] = [];
+  for (const city of citiesToAdd) {
+    const escapedName = city.name.replace(/"/g, '\\"');
+    newCityObjects.push(
+      `{ name: "${escapedName}", istat: "${city.istat}", population: ${city.population} }`
+    );
+  }
   
-  newContent += '\n' + newArray + '\n';
+  // Combine all cities
+  const allCities = [...existingCities, ...newCityObjects];
+  
+  // Generate new array content
+  const newArrayContent = allCities.length > 0
+    ? `export const ${arrayName}: City[] = [\n  ${allCities.join(',\n  ')}\n];`
+    : `export const ${arrayName}: City[] = [];`;
+  
+  // Replace the array in the content
+  const newContent = existing.content.replace(
+    /export const \w+_CITIES: City\[\] = \[[\s\S]*?\];/,
+    newArrayContent
+  );
   
   return newContent;
 }
@@ -259,24 +261,36 @@ async function main() {
   const args = process.argv.slice(2);
   
   if (args.length !== 2) {
-    console.error('Usage: npm run import-cities -- <dispatch-center-path> <csv-file>');
+    console.error('Usage: npm run import-cities -- <dispatch-center-path> <comma-separated-provinces>');
     console.error('');
-    console.error('Example:');
-    console.error('  npm run import-cities -- Lombardia/SRL cities.csv');
-    console.error('  npm run import-cities -- Veneto/Padova cities.csv');
+    console.error('Provinces must be comma-separated to support names with spaces.');
+    console.error('');
+    console.error('Examples:');
+    console.error('  npm run import-cities -- Lombardia/SRL "COMO,VARESE,LECCO,MONZA E DELLA BRIANZA"');
+    console.error('  npm run import-cities -- Veneto/Padova "PADOVA"');
+    console.error('  npm run import-cities -- Lazio/Roma "ROMA"');
+    console.error('');
+    console.error('The script loads popolazione.csv and filters by province names.');
     process.exit(1);
   }
   
-  const [dcPath, csvPath] = args;
+  const [dcPath, provincesArg] = args;
+  
+  // Parse comma-separated provinces
+  const provinces = provincesArg.split(',').map(p => p.trim()).filter(p => p);
+  
+  if (provinces.length === 0) {
+    console.error('❌ Error: No provinces specified');
+    process.exit(1);
+  }
   
   try {
     console.log(`🔍 Validating dispatch center: ${dcPath}`);
     const dcFullPath = await validateDispatchCenterPath(dcPath);
-    const dcId = getDispatchCenterId(dcPath);
     
-    console.log(`📖 Reading CSV file: ${csvPath}`);
-    const cities = await readCsvFile(csvPath);
-    console.log(`   Found ${cities.length} cities in CSV`);
+    console.log(`📖 Reading popolazione.csv for provinces: ${provinces.join(', ')}`);
+    const cities = await readCitiesFromPopolazione(provinces);
+    console.log(`   Found ${cities.length} cities in specified provinces`);
     
     const citiesFilePath = join(dcFullPath, 'cities.tsx');
     console.log(`📝 Reading existing cities file: ${citiesFilePath}`);
@@ -284,7 +298,7 @@ async function main() {
     console.log(`   Found ${existing.existingIstats.size} existing cities`);
     
     console.log(`✏️  Generating new cities file content`);
-    const newContent = generateNewCitiesFileContent(existing, cities, dcId);
+    const newContent = generateNewCitiesFileContent(existing, cities, dcPath);
     
     if (newContent === existing.content) {
       console.log('✅ No changes needed');
@@ -294,7 +308,7 @@ async function main() {
     console.log(`💾 Writing updated cities file`);
     await writeFile(citiesFilePath, newContent, 'utf-8');
     
-    const newCitiesCount = cities.filter(c => !existing.existingIstats.has(c.istat)).length;
+    const newCitiesCount = cities.filter((c: CityRow) => !existing.existingIstats.has(c.istat)).length;
     console.log(`✅ Successfully imported ${newCitiesCount} new cities to ${dcPath}/cities.tsx`);
     
   } catch (error) {

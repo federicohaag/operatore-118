@@ -19,6 +19,8 @@ export type City = {
     name: string;
     /** ISTAT code (Italian National Institute of Statistics) */
     istat: string;
+    /** Population of the city */
+    population: number;
 }
 
 export type Address = {

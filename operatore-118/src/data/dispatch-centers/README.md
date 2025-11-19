@@ -10,16 +10,16 @@ dispatch-centers/
 │   ├── Catanzaro/
 │   │   ├── dispatch-center.tsx
 │   │   ├── cities.tsx
-│   │   └── addresses/
+│   │   └── [moved: see src/data/addresses/]
 │   └── Cosenza/
 │       ├── dispatch-center.tsx
 │       ├── cities.tsx
-│       └── addresses/
+│       └── [moved: see src/data/addresses/]
 ├── Lombardia/
 │   ├── SRL/
 │   │   ├── dispatch-center.tsx
 │   │   ├── cities.tsx
-│   │   └── addresses/
+│   │   └── [moved: see src/data/addresses/]
 │   │       ├── 012001.json
 │   │       ├── 012002.json
 │   │       └── ...
@@ -30,7 +30,7 @@ dispatch-centers/
 Each dispatch center folder contains:
 - **`dispatch-center.tsx`** - Dispatch center configuration (name, coordinates, etc.)
 - **`cities.tsx`** - List of cities served by this dispatch center
-- **`addresses/`** - Address data for each city (JSON files named by ISTAT code)
+- **`addresses/`** - Address data for each city (JSON files named by ISTAT code) now located at `src/data/addresses/`
 
 ## Adding/Updating Cities
 
@@ -87,7 +87,7 @@ npm run fetch-addresses -- <RegionName>/<DispatchCenterName>
 The script will:
 1. Load all cities from the dispatch center's `cities.tsx` file
 2. For each city, query the Overpass API for street addresses
-3. Save addresses to `addresses/<istat-code>.json`
+3. Save addresses to `src/data/addresses/<istat-code>.json`
 4. Skip cities that already have address files
 5. Wait 5 seconds between API calls to avoid overwhelming the API
 
@@ -98,8 +98,8 @@ npm run fetch-addresses -- Lombardia/SRL
 ```
 
 This will fetch addresses for all 422 cities in the SRL dispatch center, creating JSON files like:
-- `addresses/012001.json` - Addresses for ISTAT code 012001
-- `addresses/012002.json` - Addresses for ISTAT code 012002
+- `src/data/addresses/012001.json` - Addresses for ISTAT code 012001
+- `src/data/addresses/012002.json` - Addresses for ISTAT code 012002
 - etc.
 
 ### Features

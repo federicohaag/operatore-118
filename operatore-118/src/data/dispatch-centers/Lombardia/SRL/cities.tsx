@@ -4,850 +4,427 @@ import type { City } from '../../../../model/location';
  * Cities covered by SOREU Laghi dispatch center
  */
 
-export const SRL_AGRA: City = { name: "Agra", istat: "012001" };
-export const SRL_ALBIZZATE: City = { name: "Albizzate", istat: "012002" };
-export const SRL_ANGERA: City = { name: "Angera", istat: "012003" };
-export const SRL_ARCISATE: City = { name: "Arcisate", istat: "012004" };
-export const SRL_ARSAGO_SEPRIO: City = { name: "Arsago Seprio", istat: "012005" };
-export const SRL_AZZATE: City = { name: "Azzate", istat: "012006" };
-export const SRL_AZZIO: City = { name: "Azzio", istat: "012007" };
-export const SRL_BARASSO: City = { name: "Barasso", istat: "012008" };
-export const SRL_BEDERO_VALCUVIA: City = { name: "Bedero Valcuvia", istat: "012010" };
-export const SRL_BESANO: City = { name: "Besano", istat: "012011" };
-export const SRL_BESNATE: City = { name: "Besnate", istat: "012012" };
-export const SRL_BESOZZO: City = { name: "Besozzo", istat: "012013" };
-export const SRL_BIANDRONNO: City = { name: "Biandronno", istat: "012014" };
-export const SRL_BISUSCHIO: City = { name: "Bisuschio", istat: "012015" };
-export const SRL_BODIO_LOMNAGO: City = { name: "Bodio Lomnago", istat: "012016" };
-export const SRL_BREBBIA: City = { name: "Brebbia", istat: "012017" };
-export const SRL_BRENTA: City = { name: "Brenta", istat: "012019" };
-export const SRL_BREZZO_DI_BEDERO: City = { name: "Brezzo di Bedero", istat: "012020" };
-export const SRL_BRINZIO: City = { name: "Brinzio", istat: "012021" };
-export const SRL_BRISSAGO_VALTRAVAGLIA: City = { name: "Brissago-Valtravaglia", istat: "012022" };
-export const SRL_BRUNELLO: City = { name: "Brunello", istat: "012023" };
-export const SRL_BRUSIMPIANO: City = { name: "Brusimpiano", istat: "012024" };
-export const SRL_BUGUGGIATE: City = { name: "Buguggiate", istat: "012025" };
-export const SRL_BUSTO_ARSIZIO: City = { name: "Busto Arsizio", istat: "012026" };
-export const SRL_CADEGLIANO_VICONAGO: City = { name: "Cadegliano-Viconago", istat: "012027" };
-export const SRL_CAIRATE: City = { name: "Cairate", istat: "012029" };
-export const SRL_CANTELLO: City = { name: "Cantello", istat: "012030" };
-export const SRL_CARAVATE: City = { name: "Caravate", istat: "012031" };
-export const SRL_CARDANO_AL_CAMPO: City = { name: "Cardano al Campo", istat: "012032" };
-export const SRL_CARNAGO: City = { name: "Carnago", istat: "012033" };
-export const SRL_CARONNO_PERTUSELLA: City = { name: "Caronno Pertusella", istat: "012034" };
-export const SRL_CARONNO_VARESINO: City = { name: "Caronno Varesino", istat: "012035" };
-export const SRL_CASALE_LITTA: City = { name: "Casale Litta", istat: "012036" };
-export const SRL_CASALZUIGNO: City = { name: "Casalzuigno", istat: "012037" };
-export const SRL_CASCIAGO: City = { name: "Casciago", istat: "012038" };
-export const SRL_CASORATE_SEMPIONE: City = { name: "Casorate Sempione", istat: "012039" };
-export const SRL_CASSANO_MAGNAGO: City = { name: "Cassano Magnago", istat: "012040" };
-export const SRL_CASSANO_VALCUVIA: City = { name: "Cassano Valcuvia", istat: "012041" };
-export const SRL_CASTELLANZA: City = { name: "Castellanza", istat: "012042" };
-export const SRL_CASTELLO_CABIAGLIO: City = { name: "Castello Cabiaglio", istat: "012043" };
-export const SRL_CASTELSEPRIO: City = { name: "Castelseprio", istat: "012044" };
-export const SRL_CASTELVECCANA: City = { name: "Castelveccana", istat: "012045" };
-export const SRL_CASTIGLIONE_OLONA: City = { name: "Castiglione Olona", istat: "012046" };
-export const SRL_CASTRONNO: City = { name: "Castronno", istat: "012047" };
-export const SRL_CAVARIA_CON_PREMEZZO: City = { name: "Cavaria con Premezzo", istat: "012048" };
-export const SRL_CAZZAGO_BRABBIA: City = { name: "Cazzago Brabbia", istat: "012049" };
-export const SRL_CISLAGO: City = { name: "Cislago", istat: "012050" };
-export const SRL_CITTIGLIO: City = { name: "Cittiglio", istat: "012051" };
-export const SRL_CLIVIO: City = { name: "Clivio", istat: "012052" };
-export const SRL_COCQUIO_TREVISAGO: City = { name: "Cocquio-Trevisago", istat: "012053" };
-export const SRL_COMABBIO: City = { name: "Comabbio", istat: "012054" };
-export const SRL_COMERIO: City = { name: "Comerio", istat: "012055" };
-export const SRL_CREMENAGA: City = { name: "Cremenaga", istat: "012056" };
-export const SRL_CROSIO_DELLA_VALLE: City = { name: "Crosio della Valle", istat: "012057" };
-export const SRL_CUASSO_AL_MONTE: City = { name: "Cuasso al Monte", istat: "012058" };
-export const SRL_CUGLIATE_FABIASCO: City = { name: "Cugliate-Fabiasco", istat: "012059" };
-export const SRL_CUNARDO: City = { name: "Cunardo", istat: "012060" };
-export const SRL_CURIGLIA_CON_MONTEVIASCO: City = { name: "Curiglia con Monteviasco", istat: "012061" };
-export const SRL_CUVEGLIO: City = { name: "Cuveglio", istat: "012062" };
-export const SRL_CUVIO: City = { name: "Cuvio", istat: "012063" };
-export const SRL_DAVERIO: City = { name: "Daverio", istat: "012064" };
-export const SRL_DUMENZA: City = { name: "Dumenza", istat: "012065" };
-export const SRL_DUNO: City = { name: "Duno", istat: "012066" };
-export const SRL_FAGNANO_OLONA: City = { name: "Fagnano Olona", istat: "012067" };
-export const SRL_FERNO: City = { name: "Ferno", istat: "012068" };
-export const SRL_FERRERA_DI_VARESE: City = { name: "Ferrera di Varese", istat: "012069" };
-export const SRL_GALLARATE: City = { name: "Gallarate", istat: "012070" };
-export const SRL_GALLIATE_LOMBARDO: City = { name: "Galliate Lombardo", istat: "012071" };
-export const SRL_GAVIRATE: City = { name: "Gavirate", istat: "012072" };
-export const SRL_GAZZADA_SCHIANNO: City = { name: "Gazzada Schianno", istat: "012073" };
-export const SRL_GEMONIO: City = { name: "Gemonio", istat: "012074" };
-export const SRL_GERENZANO: City = { name: "Gerenzano", istat: "012075" };
-export const SRL_GERMIGNAGA: City = { name: "Germignaga", istat: "012076" };
-export const SRL_GOLASECCA: City = { name: "Golasecca", istat: "012077" };
-export const SRL_GORLA_MAGGIORE: City = { name: "Gorla Maggiore", istat: "012078" };
-export const SRL_GORLA_MINORE: City = { name: "Gorla Minore", istat: "012079" };
-export const SRL_GORNATE_OLONA: City = { name: "Gornate Olona", istat: "012080" };
-export const SRL_GRANTOLA: City = { name: "Grantola", istat: "012081" };
-export const SRL_INARZO: City = { name: "Inarzo", istat: "012082" };
-export const SRL_INDUNO_OLONA: City = { name: "Induno Olona", istat: "012083" };
-export const SRL_ISPRA: City = { name: "Ispra", istat: "012084" };
-export const SRL_JERAGO_CON_ORAGO: City = { name: "Jerago con Orago", istat: "012085" };
-export const SRL_LAVENA_PONTE_TRESA: City = { name: "Lavena Ponte Tresa", istat: "012086" };
-export const SRL_LAVENO_MOMBELLO: City = { name: "Laveno-Mombello", istat: "012087" };
-export const SRL_LEGGIUNO: City = { name: "Leggiuno", istat: "012088" };
-export const SRL_LONATE_CEPPINO: City = { name: "Lonate Ceppino", istat: "012089" };
-export const SRL_LONATE_POZZOLO: City = { name: "Lonate Pozzolo", istat: "012090" };
-export const SRL_LOZZA: City = { name: "Lozza", istat: "012091" };
-export const SRL_LUINO: City = { name: "Luino", istat: "012092" };
-export const SRL_LUVINATE: City = { name: "Luvinate", istat: "012093" };
-export const SRL_MALNATE: City = { name: "Malnate", istat: "012096" };
-export const SRL_MARCHIROLO: City = { name: "Marchirolo", istat: "012097" };
-export const SRL_MARNATE: City = { name: "Marnate", istat: "012098" };
-export const SRL_MARZIO: City = { name: "Marzio", istat: "012099" };
-export const SRL_MASCIAGO_PRIMO: City = { name: "Masciago Primo", istat: "012100" };
-export const SRL_MERCALLO: City = { name: "Mercallo", istat: "012101" };
-export const SRL_MESENZANA: City = { name: "Mesenzana", istat: "012102" };
-export const SRL_MONTEGRINO_VALTRAVAGLIA: City = { name: "Montegrino Valtravaglia", istat: "012103" };
-export const SRL_MONVALLE: City = { name: "Monvalle", istat: "012104" };
-export const SRL_MORAZZONE: City = { name: "Morazzone", istat: "012105" };
-export const SRL_MORNAGO: City = { name: "Mornago", istat: "012106" };
-export const SRL_OGGIONA_CON_SANTO_STEFANO: City = { name: "Oggiona con Santo Stefano", istat: "012107" };
-export const SRL_OLGIATE_OLONA: City = { name: "Olgiate Olona", istat: "012108" };
-export const SRL_ORIGGIO: City = { name: "Origgio", istat: "012109" };
-export const SRL_ORINO: City = { name: "Orino", istat: "012110" };
-export const SRL_PORTO_CERESIO: City = { name: "Porto Ceresio", istat: "012113" };
-export const SRL_PORTO_VALTRAVAGLIA: City = { name: "Porto Valtravaglia", istat: "012114" };
-export const SRL_RANCIO_VALCUVIA: City = { name: "Rancio Valcuvia", istat: "012115" };
-export const SRL_RANCO: City = { name: "Ranco", istat: "012116" };
-export const SRL_SALTRIO: City = { name: "Saltrio", istat: "012117" };
-export const SRL_SAMARATE: City = { name: "Samarate", istat: "012118" };
-export const SRL_SARONNO: City = { name: "Saronno", istat: "012119" };
-export const SRL_SESTO_CALENDE: City = { name: "Sesto Calende", istat: "012120" };
-export const SRL_SOLBIATE_ARNO: City = { name: "Solbiate Arno", istat: "012121" };
-export const SRL_SOLBIATE_OLONA: City = { name: "Solbiate Olona", istat: "012122" };
-export const SRL_SOMMA_LOMBARDO: City = { name: "Somma Lombardo", istat: "012123" };
-export const SRL_SUMIRAGO: City = { name: "Sumirago", istat: "012124" };
-export const SRL_TAINO: City = { name: "Taino", istat: "012125" };
-export const SRL_TERNATE: City = { name: "Ternate", istat: "012126" };
-export const SRL_TRADATE: City = { name: "Tradate", istat: "012127" };
-export const SRL_TRAVEDONA_MONATE: City = { name: "Travedona-Monate", istat: "012128" };
-export const SRL_TRONZANO_LAGO_MAGGIORE: City = { name: "Tronzano Lago Maggiore", istat: "012129" };
-export const SRL_UBOLDO: City = { name: "Uboldo", istat: "012130" };
-export const SRL_VALGANNA: City = { name: "Valganna", istat: "012131" };
-export const SRL_VARANO_BORGHI: City = { name: "Varano Borghi", istat: "012132" };
-export const SRL_VARESE: City = { name: "Varese", istat: "012133" };
-export const SRL_VEDANO_OLONA: City = { name: "Vedano Olona", istat: "012134" };
-export const SRL_VENEGONO_INFERIORE: City = { name: "Venegono Inferiore", istat: "012136" };
-export const SRL_VENEGONO_SUPERIORE: City = { name: "Venegono Superiore", istat: "012137" };
-export const SRL_VERGIATE: City = { name: "Vergiate", istat: "012138" };
-export const SRL_VIGGI: City = { name: "Viggiù", istat: "012139" };
-export const SRL_VIZZOLA_TICINO: City = { name: "Vizzola Ticino", istat: "012140" };
-export const SRL_SANGIANO: City = { name: "Sangiano", istat: "012141" };
-export const SRL_MACCAGNO_CON_PINO_E_VEDDASCA: City = { name: "Maccagno con Pino e Veddasca", istat: "012142" };
-export const SRL_CADREZZATE_CON_OSMATE: City = { name: "Cadrezzate con Osmate", istat: "012143" };
-export const SRL_BARDELLO_CON_MALGESSO_E_BREGANO: City = { name: "Bardello con Malgesso e Bregano", istat: "012144" };
-export const SRL_ALBAVILLA: City = { name: "Albavilla", istat: "013003" };
-export const SRL_ALBESE_CON_CASSANO: City = { name: "Albese con Cassano", istat: "013004" };
-export const SRL_ALBIOLO: City = { name: "Albiolo", istat: "013005" };
-export const SRL_ALSERIO: City = { name: "Alserio", istat: "013006" };
-export const SRL_ALZATE_BRIANZA: City = { name: "Alzate Brianza", istat: "013007" };
-export const SRL_ANZANO_DEL_PARCO: City = { name: "Anzano del Parco", istat: "013009" };
-export const SRL_APPIANO_GENTILE: City = { name: "Appiano Gentile", istat: "013010" };
-export const SRL_ARGEGNO: City = { name: "Argegno", istat: "013011" };
-export const SRL_AROSIO: City = { name: "Arosio", istat: "013012" };
-export const SRL_ASSO: City = { name: "Asso", istat: "013013" };
-export const SRL_BARNI: City = { name: "Barni", istat: "013015" };
-export const SRL_BENE_LARIO: City = { name: "Bene Lario", istat: "013021" };
-export const SRL_BEREGAZZO_CON_FIGLIARO: City = { name: "Beregazzo con Figliaro", istat: "013022" };
-export const SRL_BINAGO: City = { name: "Binago", istat: "013023" };
-export const SRL_BIZZARONE: City = { name: "Bizzarone", istat: "013024" };
-export const SRL_BLESSAGNO: City = { name: "Blessagno", istat: "013025" };
-export const SRL_BLEVIO: City = { name: "Blevio", istat: "013026" };
-export const SRL_BREGNANO: City = { name: "Bregnano", istat: "013028" };
-export const SRL_BRENNA: City = { name: "Brenna", istat: "013029" };
-export const SRL_BRIENNO: City = { name: "Brienno", istat: "013030" };
-export const SRL_BRUNATE: City = { name: "Brunate", istat: "013032" };
-export const SRL_BULGAROGRASSO: City = { name: "Bulgarograsso", istat: "013034" };
-export const SRL_CABIATE: City = { name: "Cabiate", istat: "013035" };
-export const SRL_CADORAGO: City = { name: "Cadorago", istat: "013036" };
-export const SRL_CAGLIO: City = { name: "Caglio", istat: "013037" };
-export const SRL_CAMPIONE_D_ITALIA: City = { name: "Campione d'Italia", istat: "013040" };
-export const SRL_CANT: City = { name: "Cantù", istat: "013041" };
-export const SRL_CANZO: City = { name: "Canzo", istat: "013042" };
-export const SRL_CAPIAGO_INTIMIANO: City = { name: "Capiago Intimiano", istat: "013043" };
-export const SRL_CARATE_URIO: City = { name: "Carate Urio", istat: "013044" };
-export const SRL_CARBONATE: City = { name: "Carbonate", istat: "013045" };
-export const SRL_CARIMATE: City = { name: "Carimate", istat: "013046" };
-export const SRL_CARLAZZO: City = { name: "Carlazzo", istat: "013047" };
-export const SRL_CARUGO: City = { name: "Carugo", istat: "013048" };
-export const SRL_CASLINO_D_ERBA: City = { name: "Caslino d'Erba", istat: "013052" };
-export const SRL_CASNATE_CON_BERNATE: City = { name: "Casnate con Bernate", istat: "013053" };
-export const SRL_CASSINA_RIZZARDI: City = { name: "Cassina Rizzardi", istat: "013055" };
-export const SRL_CASTELMARTE: City = { name: "Castelmarte", istat: "013058" };
-export const SRL_CASTELNUOVO_BOZZENTE: City = { name: "Castelnuovo Bozzente", istat: "013059" };
-export const SRL_CAVARGNA: City = { name: "Cavargna", istat: "013062" };
-export const SRL_CERANO_D_INTELVI: City = { name: "Cerano d'Intelvi", istat: "013063" };
-export const SRL_CERMENATE: City = { name: "Cermenate", istat: "013064" };
-export const SRL_CERNOBBIO: City = { name: "Cernobbio", istat: "013065" };
-export const SRL_CIRIMIDO: City = { name: "Cirimido", istat: "013068" };
-export const SRL_CLAINO_CON_OSTENO: City = { name: "Claino con Osteno", istat: "013071" };
-export const SRL_COLONNO: City = { name: "Colonno", istat: "013074" };
-export const SRL_COMO: City = { name: "Como", istat: "013075" };
-export const SRL_CORRIDO: City = { name: "Corrido", istat: "013077" };
-export const SRL_CREMIA: City = { name: "Cremia", istat: "013083" };
-export const SRL_CUCCIAGO: City = { name: "Cucciago", istat: "013084" };
-export const SRL_CUSINO: City = { name: "Cusino", istat: "013085" };
-export const SRL_DIZZASCO: City = { name: "Dizzasco", istat: "013087" };
-export const SRL_DOMASO: City = { name: "Domaso", istat: "013089" };
-export const SRL_DONGO: City = { name: "Dongo", istat: "013090" };
-export const SRL_DOSSO_DEL_LIRO: City = { name: "Dosso del Liro", istat: "013092" };
-export const SRL_ERBA: City = { name: "Erba", istat: "013095" };
-export const SRL_EUPILIO: City = { name: "Eupilio", istat: "013097" };
-export const SRL_FAGGETO_LARIO: City = { name: "Faggeto Lario", istat: "013098" };
-export const SRL_FALOPPIO: City = { name: "Faloppio", istat: "013099" };
-export const SRL_FENEGR: City = { name: "Fenegrò", istat: "013100" };
-export const SRL_FIGINO_SERENZA: City = { name: "Figino Serenza", istat: "013101" };
-export const SRL_FINO_MORNASCO: City = { name: "Fino Mornasco", istat: "013102" };
-export const SRL_GARZENO: City = { name: "Garzeno", istat: "013106" };
-export const SRL_GERA_LARIO: City = { name: "Gera Lario", istat: "013107" };
-export const SRL_GRANDATE: City = { name: "Grandate", istat: "013110" };
-export const SRL_GRANDOLA_ED_UNITI: City = { name: "Grandola ed Uniti", istat: "013111" };
-export const SRL_GRIANTE: City = { name: "Griante", istat: "013113" };
-export const SRL_GUANZATE: City = { name: "Guanzate", istat: "013114" };
-export const SRL_INVERIGO: City = { name: "Inverigo", istat: "013118" };
-export const SRL_LAGLIO: City = { name: "Laglio", istat: "013119" };
-export const SRL_LAINO: City = { name: "Laino", istat: "013120" };
-export const SRL_LAMBRUGO: City = { name: "Lambrugo", istat: "013121" };
-export const SRL_LASNIGO: City = { name: "Lasnigo", istat: "013123" };
-export const SRL_LEZZENO: City = { name: "Lezzeno", istat: "013126" };
-export const SRL_LIMIDO_COMASCO: City = { name: "Limido Comasco", istat: "013128" };
-export const SRL_LIPOMO: City = { name: "Lipomo", istat: "013129" };
-export const SRL_LIVO: City = { name: "Livo", istat: "013130" };
-export const SRL_LOCATE_VARESINO: City = { name: "Locate Varesino", istat: "013131" };
-export const SRL_LOMAZZO: City = { name: "Lomazzo", istat: "013133" };
-export const SRL_LONGONE_AL_SEGRINO: City = { name: "Longone al Segrino", istat: "013134" };
-export const SRL_LUISAGO: City = { name: "Luisago", istat: "013135" };
-export const SRL_LURAGO_D_ERBA: City = { name: "Lurago d'Erba", istat: "013136" };
-export const SRL_LURAGO_MARINONE: City = { name: "Lurago Marinone", istat: "013137" };
-export const SRL_LURATE_CACCIVIO: City = { name: "Lurate Caccivio", istat: "013138" };
-export const SRL_MAGREGLIO: City = { name: "Magreglio", istat: "013139" };
-export const SRL_MARIANO_COMENSE: City = { name: "Mariano Comense", istat: "013143" };
-export const SRL_MASLIANICO: City = { name: "Maslianico", istat: "013144" };
-export const SRL_MENAGGIO: City = { name: "Menaggio", istat: "013145" };
-export const SRL_MERONE: City = { name: "Merone", istat: "013147" };
-export const SRL_MOLTRASIO: City = { name: "Moltrasio", istat: "013152" };
-export const SRL_MONGUZZO: City = { name: "Monguzzo", istat: "013153" };
-export const SRL_MONTANO_LUCINO: City = { name: "Montano Lucino", istat: "013154" };
-export const SRL_MONTEMEZZO: City = { name: "Montemezzo", istat: "013155" };
-export const SRL_MONTORFANO: City = { name: "Montorfano", istat: "013157" };
-export const SRL_MOZZATE: City = { name: "Mozzate", istat: "013159" };
-export const SRL_MUSSO: City = { name: "Musso", istat: "013160" };
-export const SRL_NESSO: City = { name: "Nesso", istat: "013161" };
-export const SRL_NOVEDRATE: City = { name: "Novedrate", istat: "013163" };
-export const SRL_OLGIATE_COMASCO: City = { name: "Olgiate Comasco", istat: "013165" };
-export const SRL_OLTRONA_DI_SAN_MAMETTE: City = { name: "Oltrona di San Mamette", istat: "013169" };
-export const SRL_ORSENIGO: City = { name: "Orsenigo", istat: "013170" };
-export const SRL_PEGLIO: City = { name: "Peglio", istat: "013178" };
-export const SRL_PIANELLO_DEL_LARIO: City = { name: "Pianello del Lario", istat: "013183" };
-export const SRL_PIGRA: City = { name: "Pigra", istat: "013184" };
-export const SRL_PLESIO: City = { name: "Plesio", istat: "013185" };
-export const SRL_POGNANA_LARIO: City = { name: "Pognana Lario", istat: "013186" };
-export const SRL_PONNA: City = { name: "Ponna", istat: "013187" };
-export const SRL_PONTE_LAMBRO: City = { name: "Ponte Lambro", istat: "013188" };
-export const SRL_PORLEZZA: City = { name: "Porlezza", istat: "013189" };
-export const SRL_PROSERPIO: City = { name: "Proserpio", istat: "013192" };
-export const SRL_PUSIANO: City = { name: "Pusiano", istat: "013193" };
-export const SRL_REZZAGO: City = { name: "Rezzago", istat: "013195" };
-export const SRL_RODERO: City = { name: "Rodero", istat: "013197" };
-export const SRL_ROVELLASCA: City = { name: "Rovellasca", istat: "013201" };
-export const SRL_ROVELLO_PORRO: City = { name: "Rovello Porro", istat: "013202" };
-export const SRL_SALA_COMACINA: City = { name: "Sala Comacina", istat: "013203" };
-export const SRL_SAN_BARTOLOMEO_VAL_CAVARGNA: City = { name: "San Bartolomeo Val Cavargna", istat: "013204" };
-export const SRL_SAN_FERMO_DELLA_BATTAGLIA: City = { name: "San Fermo della Battaglia", istat: "013206" };
-export const SRL_SAN_NAZZARO_VAL_CAVARGNA: City = { name: "San Nazzaro Val Cavargna", istat: "013207" };
-export const SRL_SCHIGNANO: City = { name: "Schignano", istat: "013211" };
-export const SRL_SENNA_COMASCO: City = { name: "Senna Comasco", istat: "013212" };
-export const SRL_SORICO: City = { name: "Sorico", istat: "013216" };
-export const SRL_SORMANO: City = { name: "Sormano", istat: "013217" };
-export const SRL_STAZZONA: City = { name: "Stazzona", istat: "013218" };
-export const SRL_TAVERNERIO: City = { name: "Tavernerio", istat: "013222" };
-export const SRL_TORNO: City = { name: "Torno", istat: "013223" };
-export const SRL_TREZZONE: City = { name: "Trezzone", istat: "013226" };
-export const SRL_TURATE: City = { name: "Turate", istat: "013227" };
-export const SRL_VALBRONA: City = { name: "Valbrona", istat: "013229" };
-export const SRL_VALMOREA: City = { name: "Valmorea", istat: "013232" };
-export const SRL_VAL_REZZO: City = { name: "Val Rezzo", istat: "013233" };
-export const SRL_VALSOLDA: City = { name: "Valsolda", istat: "013234" };
-export const SRL_VELESO: City = { name: "Veleso", istat: "013236" };
-export const SRL_VENIANO: City = { name: "Veniano", istat: "013238" };
-export const SRL_VERCANA: City = { name: "Vercana", istat: "013239" };
-export const SRL_VERTEMATE_CON_MINOPRIO: City = { name: "Vertemate con Minoprio", istat: "013242" };
-export const SRL_VILLA_GUARDIA: City = { name: "Villa Guardia", istat: "013245" };
-export const SRL_ZELBIO: City = { name: "Zelbio", istat: "013246" };
-export const SRL_SAN_SIRO: City = { name: "San Siro", istat: "013248" };
-export const SRL_GRAVEDONA_ED_UNITI: City = { name: "Gravedona ed Uniti", istat: "013249" };
-export const SRL_BELLAGIO: City = { name: "Bellagio", istat: "013250" };
-export const SRL_COLVERDE: City = { name: "Colverde", istat: "013251" };
-export const SRL_TREMEZZINA: City = { name: "Tremezzina", istat: "013252" };
-export const SRL_ALTA_VALLE_INTELVI: City = { name: "Alta Valle Intelvi", istat: "013253" };
-export const SRL_CENTRO_VALLE_INTELVI: City = { name: "Centro Valle Intelvi", istat: "013254" };
-export const SRL_SOLBIATE_CON_CAGNO: City = { name: "Solbiate con Cagno", istat: "013255" };
-export const SRL_UGGIATE_CON_RONAGO: City = { name: "Uggiate con Ronago", istat: "013256" };
-export const SRL_ABBADIA_LARIANA: City = { name: "Abbadia Lariana", istat: "097001" };
-export const SRL_AIRUNO: City = { name: "Airuno", istat: "097002" };
-export const SRL_ANNONE_DI_BRIANZA: City = { name: "Annone di Brianza", istat: "097003" };
-export const SRL_BALLABIO: City = { name: "Ballabio", istat: "097004" };
-export const SRL_BARZAGO: City = { name: "Barzago", istat: "097005" };
-export const SRL_BARZAN: City = { name: "Barzanò", istat: "097006" };
-export const SRL_BARZIO: City = { name: "Barzio", istat: "097007" };
-export const SRL_BELLANO: City = { name: "Bellano", istat: "097008" };
-export const SRL_BOSISIO_PARINI: City = { name: "Bosisio Parini", istat: "097009" };
-export const SRL_BRIVIO: City = { name: "Brivio", istat: "097010" };
-export const SRL_BULCIAGO: City = { name: "Bulciago", istat: "097011" };
-export const SRL_CALCO: City = { name: "Calco", istat: "097012" };
-export const SRL_CALOLZIOCORTE: City = { name: "Calolziocorte", istat: "097013" };
-export const SRL_CARENNO: City = { name: "Carenno", istat: "097014" };
-export const SRL_CASARGO: City = { name: "Casargo", istat: "097015" };
-export const SRL_CASATENOVO: City = { name: "Casatenovo", istat: "097016" };
-export const SRL_CASSAGO_BRIANZA: City = { name: "Cassago Brianza", istat: "097017" };
-export const SRL_CASSINA_VALSASSINA: City = { name: "Cassina Valsassina", istat: "097018" };
-export const SRL_CASTELLO_DI_BRIANZA: City = { name: "Castello di Brianza", istat: "097019" };
-export const SRL_CERNUSCO_LOMBARDONE: City = { name: "Cernusco Lombardone", istat: "097020" };
-export const SRL_CESANA_BRIANZA: City = { name: "Cesana Brianza", istat: "097021" };
-export const SRL_CIVATE: City = { name: "Civate", istat: "097022" };
-export const SRL_COLICO: City = { name: "Colico", istat: "097023" };
-export const SRL_COLLE_BRIANZA: City = { name: "Colle Brianza", istat: "097024" };
-export const SRL_CORTENOVA: City = { name: "Cortenova", istat: "097025" };
-export const SRL_COSTA_MASNAGA: City = { name: "Costa Masnaga", istat: "097026" };
-export const SRL_CRANDOLA_VALSASSINA: City = { name: "Crandola Valsassina", istat: "097027" };
-export const SRL_CREMELLA: City = { name: "Cremella", istat: "097028" };
-export const SRL_CREMENO: City = { name: "Cremeno", istat: "097029" };
-export const SRL_DERVIO: City = { name: "Dervio", istat: "097030" };
-export const SRL_DOLZAGO: City = { name: "Dolzago", istat: "097031" };
-export const SRL_DORIO: City = { name: "Dorio", istat: "097032" };
-export const SRL_ELLO: City = { name: "Ello", istat: "097033" };
-export const SRL_ERVE: City = { name: "Erve", istat: "097034" };
-export const SRL_ESINO_LARIO: City = { name: "Esino Lario", istat: "097035" };
-export const SRL_GALBIATE: City = { name: "Galbiate", istat: "097036" };
-export const SRL_GARBAGNATE_MONASTERO: City = { name: "Garbagnate Monastero", istat: "097037" };
-export const SRL_GARLATE: City = { name: "Garlate", istat: "097038" };
-export const SRL_IMBERSAGO: City = { name: "Imbersago", istat: "097039" };
-export const SRL_INTROBIO: City = { name: "Introbio", istat: "097040" };
-export const SRL_LECCO: City = { name: "Lecco", istat: "097042" };
-export const SRL_LIERNA: City = { name: "Lierna", istat: "097043" };
-export const SRL_LOMAGNA: City = { name: "Lomagna", istat: "097044" };
-export const SRL_MALGRATE: City = { name: "Malgrate", istat: "097045" };
-export const SRL_MANDELLO_DEL_LARIO: City = { name: "Mandello del Lario", istat: "097046" };
-export const SRL_MARGNO: City = { name: "Margno", istat: "097047" };
-export const SRL_MERATE: City = { name: "Merate", istat: "097048" };
-export const SRL_MISSAGLIA: City = { name: "Missaglia", istat: "097049" };
-export const SRL_MOGGIO: City = { name: "Moggio", istat: "097050" };
-export const SRL_MOLTENO: City = { name: "Molteno", istat: "097051" };
-export const SRL_MONTE_MARENZO: City = { name: "Monte Marenzo", istat: "097052" };
-export const SRL_MONTEVECCHIA: City = { name: "Montevecchia", istat: "097053" };
-export const SRL_MONTICELLO_BRIANZA: City = { name: "Monticello Brianza", istat: "097054" };
-export const SRL_MORTERONE: City = { name: "Morterone", istat: "097055" };
-export const SRL_NIBIONNO: City = { name: "Nibionno", istat: "097056" };
-export const SRL_OGGIONO: City = { name: "Oggiono", istat: "097057" };
-export const SRL_OLGIATE_MOLGORA: City = { name: "Olgiate Molgora", istat: "097058" };
-export const SRL_OLGINATE: City = { name: "Olginate", istat: "097059" };
-export const SRL_OLIVETO_LARIO: City = { name: "Oliveto Lario", istat: "097060" };
-export const SRL_OSNAGO: City = { name: "Osnago", istat: "097061" };
-export const SRL_PADERNO_D_ADDA: City = { name: "Paderno d'Adda", istat: "097062" };
-export const SRL_PAGNONA: City = { name: "Pagnona", istat: "097063" };
-export const SRL_PARLASCO: City = { name: "Parlasco", istat: "097064" };
-export const SRL_PASTURO: City = { name: "Pasturo", istat: "097065" };
-export const SRL_PERLEDO: City = { name: "Perledo", istat: "097067" };
-export const SRL_PESCATE: City = { name: "Pescate", istat: "097068" };
-export const SRL_PREMANA: City = { name: "Premana", istat: "097069" };
-export const SRL_PRIMALUNA: City = { name: "Primaluna", istat: "097070" };
-export const SRL_ROBBIATE: City = { name: "Robbiate", istat: "097071" };
-export const SRL_ROGENO: City = { name: "Rogeno", istat: "097072" };
-export const SRL_SANTA_MARIA_HO: City = { name: "Santa Maria Hoè", istat: "097074" };
-export const SRL_SIRONE: City = { name: "Sirone", istat: "097075" };
-export const SRL_SIRTORI: City = { name: "Sirtori", istat: "097076" };
-export const SRL_SUEGLIO: City = { name: "Sueglio", istat: "097077" };
-export const SRL_SUELLO: City = { name: "Suello", istat: "097078" };
-export const SRL_TACENO: City = { name: "Taceno", istat: "097079" };
-export const SRL_VALGREGHENTINO: City = { name: "Valgreghentino", istat: "097082" };
-export const SRL_VALMADRERA: City = { name: "Valmadrera", istat: "097083" };
-export const SRL_VARENNA: City = { name: "Varenna", istat: "097084" };
-export const SRL_VERCURAGO: City = { name: "Vercurago", istat: "097086" };
-export const SRL_VIGAN: City = { name: "Viganò", istat: "097090" };
-export const SRL_VERDERIO: City = { name: "Verderio", istat: "097091" };
-export const SRL_LA_VALLETTA_BRIANZA: City = { name: "La Valletta Brianza", istat: "097092" };
-export const SRL_VALVARRONE: City = { name: "Valvarrone", istat: "097093" };
-export const SRL_AGRATE_BRIANZA: City = { name: "Agrate Brianza", istat: "108001" };
-export const SRL_AICURZIO: City = { name: "Aicurzio", istat: "108002" };
-export const SRL_ALBIATE: City = { name: "Albiate", istat: "108003" };
-export const SRL_ARCORE: City = { name: "Arcore", istat: "108004" };
-export const SRL_BARLASSINA: City = { name: "Barlassina", istat: "108005" };
-export const SRL_BELLUSCO: City = { name: "Bellusco", istat: "108006" };
-export const SRL_BERNAREGGIO: City = { name: "Bernareggio", istat: "108007" };
-export const SRL_BESANA_IN_BRIANZA: City = { name: "Besana in Brianza", istat: "108008" };
-export const SRL_BIASSONO: City = { name: "Biassono", istat: "108009" };
-export const SRL_BOVISIO_MASCIAGO: City = { name: "Bovisio-Masciago", istat: "108010" };
-export const SRL_BRIOSCO: City = { name: "Briosco", istat: "108011" };
-export const SRL_BRUGHERIO: City = { name: "Brugherio", istat: "108012" };
-export const SRL_BURAGO_DI_MOLGORA: City = { name: "Burago di Molgora", istat: "108013" };
-export const SRL_CAMPARADA: City = { name: "Camparada", istat: "108014" };
-export const SRL_CARATE_BRIANZA: City = { name: "Carate Brianza", istat: "108015" };
-export const SRL_CARNATE: City = { name: "Carnate", istat: "108016" };
-export const SRL_CAVENAGO_DI_BRIANZA: City = { name: "Cavenago di Brianza", istat: "108017" };
-export const SRL_CERIANO_LAGHETTO: City = { name: "Ceriano Laghetto", istat: "108018" };
-export const SRL_CESANO_MADERNO: City = { name: "Cesano Maderno", istat: "108019" };
-export const SRL_COGLIATE: City = { name: "Cogliate", istat: "108020" };
-export const SRL_CONCOREZZO: City = { name: "Concorezzo", istat: "108021" };
-export const SRL_CORREZZANA: City = { name: "Correzzana", istat: "108022" };
-export const SRL_DESIO: City = { name: "Desio", istat: "108023" };
-export const SRL_GIUSSANO: City = { name: "Giussano", istat: "108024" };
-export const SRL_LAZZATE: City = { name: "Lazzate", istat: "108025" };
-export const SRL_LESMO: City = { name: "Lesmo", istat: "108026" };
-export const SRL_LIMBIATE: City = { name: "Limbiate", istat: "108027" };
-export const SRL_LISSONE: City = { name: "Lissone", istat: "108028" };
-export const SRL_MACHERIO: City = { name: "Macherio", istat: "108029" };
-export const SRL_MEDA: City = { name: "Meda", istat: "108030" };
-export const SRL_MEZZAGO: City = { name: "Mezzago", istat: "108031" };
-export const SRL_MISINTO: City = { name: "Misinto", istat: "108032" };
-export const SRL_MONZA: City = { name: "Monza", istat: "108033" };
-export const SRL_MUGGI: City = { name: "Muggiò", istat: "108034" };
-export const SRL_NOVA_MILANESE: City = { name: "Nova Milanese", istat: "108035" };
-export const SRL_ORNAGO: City = { name: "Ornago", istat: "108036" };
-export const SRL_RENATE: City = { name: "Renate", istat: "108037" };
-export const SRL_RONCO_BRIANTINO: City = { name: "Ronco Briantino", istat: "108038" };
-export const SRL_SEREGNO: City = { name: "Seregno", istat: "108039" };
-export const SRL_SEVESO: City = { name: "Seveso", istat: "108040" };
-export const SRL_SOVICO: City = { name: "Sovico", istat: "108041" };
-export const SRL_SULBIATE: City = { name: "Sulbiate", istat: "108042" };
-export const SRL_TRIUGGIO: City = { name: "Triuggio", istat: "108043" };
-export const SRL_USMATE_VELATE: City = { name: "Usmate Velate", istat: "108044" };
-export const SRL_VAREDO: City = { name: "Varedo", istat: "108045" };
-export const SRL_VEDANO_AL_LAMBRO: City = { name: "Vedano al Lambro", istat: "108046" };
-export const SRL_VEDUGGIO_CON_COLZANO: City = { name: "Veduggio con Colzano", istat: "108047" };
-export const SRL_VERANO_BRIANZA: City = { name: "Verano Brianza", istat: "108048" };
-export const SRL_VILLASANTA: City = { name: "Villasanta", istat: "108049" };
-export const SRL_VIMERCATE: City = { name: "Vimercate", istat: "108050" };
-export const SRL_BUSNAGO: City = { name: "Busnago", istat: "108051" };
-export const SRL_CAPONAGO: City = { name: "Caponago", istat: "108052" };
-export const SRL_CORNATE_D_ADDA: City = { name: "Cornate d'Adda", istat: "108053" };
-export const SRL_LENTATE_SUL_SEVESO: City = { name: "Lentate sul Seveso", istat: "108054" };
-export const SRL_RONCELLO: City = { name: "Roncello", istat: "108055" };
-
 export const SRL_CITIES: City[] = [
-  SRL_AGRA,
-  SRL_ALBIZZATE,
-  SRL_ANGERA,
-  SRL_ARCISATE,
-  SRL_ARSAGO_SEPRIO,
-  SRL_AZZATE,
-  SRL_AZZIO,
-  SRL_BARASSO,
-  SRL_BEDERO_VALCUVIA,
-  SRL_BESANO,
-  SRL_BESNATE,
-  SRL_BESOZZO,
-  SRL_BIANDRONNO,
-  SRL_BISUSCHIO,
-  SRL_BODIO_LOMNAGO,
-  SRL_BREBBIA,
-  SRL_BRENTA,
-  SRL_BREZZO_DI_BEDERO,
-  SRL_BRINZIO,
-  SRL_BRISSAGO_VALTRAVAGLIA,
-  SRL_BRUNELLO,
-  SRL_BRUSIMPIANO,
-  SRL_BUGUGGIATE,
-  SRL_BUSTO_ARSIZIO,
-  SRL_CADEGLIANO_VICONAGO,
-  SRL_CAIRATE,
-  SRL_CANTELLO,
-  SRL_CARAVATE,
-  SRL_CARDANO_AL_CAMPO,
-  SRL_CARNAGO,
-  SRL_CARONNO_PERTUSELLA,
-  SRL_CARONNO_VARESINO,
-  SRL_CASALE_LITTA,
-  SRL_CASALZUIGNO,
-  SRL_CASCIAGO,
-  SRL_CASORATE_SEMPIONE,
-  SRL_CASSANO_MAGNAGO,
-  SRL_CASSANO_VALCUVIA,
-  SRL_CASTELLANZA,
-  SRL_CASTELLO_CABIAGLIO,
-  SRL_CASTELSEPRIO,
-  SRL_CASTELVECCANA,
-  SRL_CASTIGLIONE_OLONA,
-  SRL_CASTRONNO,
-  SRL_CAVARIA_CON_PREMEZZO,
-  SRL_CAZZAGO_BRABBIA,
-  SRL_CISLAGO,
-  SRL_CITTIGLIO,
-  SRL_CLIVIO,
-  SRL_COCQUIO_TREVISAGO,
-  SRL_COMABBIO,
-  SRL_COMERIO,
-  SRL_CREMENAGA,
-  SRL_CROSIO_DELLA_VALLE,
-  SRL_CUASSO_AL_MONTE,
-  SRL_CUGLIATE_FABIASCO,
-  SRL_CUNARDO,
-  SRL_CURIGLIA_CON_MONTEVIASCO,
-  SRL_CUVEGLIO,
-  SRL_CUVIO,
-  SRL_DAVERIO,
-  SRL_DUMENZA,
-  SRL_DUNO,
-  SRL_FAGNANO_OLONA,
-  SRL_FERNO,
-  SRL_FERRERA_DI_VARESE,
-  SRL_GALLARATE,
-  SRL_GALLIATE_LOMBARDO,
-  SRL_GAVIRATE,
-  SRL_GAZZADA_SCHIANNO,
-  SRL_GEMONIO,
-  SRL_GERENZANO,
-  SRL_GERMIGNAGA,
-  SRL_GOLASECCA,
-  SRL_GORLA_MAGGIORE,
-  SRL_GORLA_MINORE,
-  SRL_GORNATE_OLONA,
-  SRL_GRANTOLA,
-  SRL_INARZO,
-  SRL_INDUNO_OLONA,
-  SRL_ISPRA,
-  SRL_JERAGO_CON_ORAGO,
-  SRL_LAVENA_PONTE_TRESA,
-  SRL_LAVENO_MOMBELLO,
-  SRL_LEGGIUNO,
-  SRL_LONATE_CEPPINO,
-  SRL_LONATE_POZZOLO,
-  SRL_LOZZA,
-  SRL_LUINO,
-  SRL_LUVINATE,
-  SRL_MALNATE,
-  SRL_MARCHIROLO,
-  SRL_MARNATE,
-  SRL_MARZIO,
-  SRL_MASCIAGO_PRIMO,
-  SRL_MERCALLO,
-  SRL_MESENZANA,
-  SRL_MONTEGRINO_VALTRAVAGLIA,
-  SRL_MONVALLE,
-  SRL_MORAZZONE,
-  SRL_MORNAGO,
-  SRL_OGGIONA_CON_SANTO_STEFANO,
-  SRL_OLGIATE_OLONA,
-  SRL_ORIGGIO,
-  SRL_ORINO,
-  SRL_PORTO_CERESIO,
-  SRL_PORTO_VALTRAVAGLIA,
-  SRL_RANCIO_VALCUVIA,
-  SRL_RANCO,
-  SRL_SALTRIO,
-  SRL_SAMARATE,
-  SRL_SARONNO,
-  SRL_SESTO_CALENDE,
-  SRL_SOLBIATE_ARNO,
-  SRL_SOLBIATE_OLONA,
-  SRL_SOMMA_LOMBARDO,
-  SRL_SUMIRAGO,
-  SRL_TAINO,
-  SRL_TERNATE,
-  SRL_TRADATE,
-  SRL_TRAVEDONA_MONATE,
-  SRL_TRONZANO_LAGO_MAGGIORE,
-  SRL_UBOLDO,
-  SRL_VALGANNA,
-  SRL_VARANO_BORGHI,
-  SRL_VARESE,
-  SRL_VEDANO_OLONA,
-  SRL_VENEGONO_INFERIORE,
-  SRL_VENEGONO_SUPERIORE,
-  SRL_VERGIATE,
-  SRL_VIGGI,
-  SRL_VIZZOLA_TICINO,
-  SRL_SANGIANO,
-  SRL_MACCAGNO_CON_PINO_E_VEDDASCA,
-  SRL_CADREZZATE_CON_OSMATE,
-  SRL_BARDELLO_CON_MALGESSO_E_BREGANO,
-  SRL_ALBAVILLA,
-  SRL_ALBESE_CON_CASSANO,
-  SRL_ALBIOLO,
-  SRL_ALSERIO,
-  SRL_ALZATE_BRIANZA,
-  SRL_ANZANO_DEL_PARCO,
-  SRL_APPIANO_GENTILE,
-  SRL_ARGEGNO,
-  SRL_AROSIO,
-  SRL_ASSO,
-  SRL_BARNI,
-  SRL_BENE_LARIO,
-  SRL_BEREGAZZO_CON_FIGLIARO,
-  SRL_BINAGO,
-  SRL_BIZZARONE,
-  SRL_BLESSAGNO,
-  SRL_BLEVIO,
-  SRL_BREGNANO,
-  SRL_BRENNA,
-  SRL_BRIENNO,
-  SRL_BRUNATE,
-  SRL_BULGAROGRASSO,
-  SRL_CABIATE,
-  SRL_CADORAGO,
-  SRL_CAGLIO,
-  SRL_CAMPIONE_D_ITALIA,
-  SRL_CANT,
-  SRL_CANZO,
-  SRL_CAPIAGO_INTIMIANO,
-  SRL_CARATE_URIO,
-  SRL_CARBONATE,
-  SRL_CARIMATE,
-  SRL_CARLAZZO,
-  SRL_CARUGO,
-  SRL_CASLINO_D_ERBA,
-  SRL_CASNATE_CON_BERNATE,
-  SRL_CASSINA_RIZZARDI,
-  SRL_CASTELMARTE,
-  SRL_CASTELNUOVO_BOZZENTE,
-  SRL_CAVARGNA,
-  SRL_CERANO_D_INTELVI,
-  SRL_CERMENATE,
-  SRL_CERNOBBIO,
-  SRL_CIRIMIDO,
-  SRL_CLAINO_CON_OSTENO,
-  SRL_COLONNO,
-  SRL_COMO,
-  SRL_CORRIDO,
-  SRL_CREMIA,
-  SRL_CUCCIAGO,
-  SRL_CUSINO,
-  SRL_DIZZASCO,
-  SRL_DOMASO,
-  SRL_DONGO,
-  SRL_DOSSO_DEL_LIRO,
-  SRL_ERBA,
-  SRL_EUPILIO,
-  SRL_FAGGETO_LARIO,
-  SRL_FALOPPIO,
-  SRL_FENEGR,
-  SRL_FIGINO_SERENZA,
-  SRL_FINO_MORNASCO,
-  SRL_GARZENO,
-  SRL_GERA_LARIO,
-  SRL_GRANDATE,
-  SRL_GRANDOLA_ED_UNITI,
-  SRL_GRIANTE,
-  SRL_GUANZATE,
-  SRL_INVERIGO,
-  SRL_LAGLIO,
-  SRL_LAINO,
-  SRL_LAMBRUGO,
-  SRL_LASNIGO,
-  SRL_LEZZENO,
-  SRL_LIMIDO_COMASCO,
-  SRL_LIPOMO,
-  SRL_LIVO,
-  SRL_LOCATE_VARESINO,
-  SRL_LOMAZZO,
-  SRL_LONGONE_AL_SEGRINO,
-  SRL_LUISAGO,
-  SRL_LURAGO_D_ERBA,
-  SRL_LURAGO_MARINONE,
-  SRL_LURATE_CACCIVIO,
-  SRL_MAGREGLIO,
-  SRL_MARIANO_COMENSE,
-  SRL_MASLIANICO,
-  SRL_MENAGGIO,
-  SRL_MERONE,
-  SRL_MOLTRASIO,
-  SRL_MONGUZZO,
-  SRL_MONTANO_LUCINO,
-  SRL_MONTEMEZZO,
-  SRL_MONTORFANO,
-  SRL_MOZZATE,
-  SRL_MUSSO,
-  SRL_NESSO,
-  SRL_NOVEDRATE,
-  SRL_OLGIATE_COMASCO,
-  SRL_OLTRONA_DI_SAN_MAMETTE,
-  SRL_ORSENIGO,
-  SRL_PEGLIO,
-  SRL_PIANELLO_DEL_LARIO,
-  SRL_PIGRA,
-  SRL_PLESIO,
-  SRL_POGNANA_LARIO,
-  SRL_PONNA,
-  SRL_PONTE_LAMBRO,
-  SRL_PORLEZZA,
-  SRL_PROSERPIO,
-  SRL_PUSIANO,
-  SRL_REZZAGO,
-  SRL_RODERO,
-  SRL_ROVELLASCA,
-  SRL_ROVELLO_PORRO,
-  SRL_SALA_COMACINA,
-  SRL_SAN_BARTOLOMEO_VAL_CAVARGNA,
-  SRL_SAN_FERMO_DELLA_BATTAGLIA,
-  SRL_SAN_NAZZARO_VAL_CAVARGNA,
-  SRL_SCHIGNANO,
-  SRL_SENNA_COMASCO,
-  SRL_SORICO,
-  SRL_SORMANO,
-  SRL_STAZZONA,
-  SRL_TAVERNERIO,
-  SRL_TORNO,
-  SRL_TREZZONE,
-  SRL_TURATE,
-  SRL_VALBRONA,
-  SRL_VALMOREA,
-  SRL_VAL_REZZO,
-  SRL_VALSOLDA,
-  SRL_VELESO,
-  SRL_VENIANO,
-  SRL_VERCANA,
-  SRL_VERTEMATE_CON_MINOPRIO,
-  SRL_VILLA_GUARDIA,
-  SRL_ZELBIO,
-  SRL_SAN_SIRO,
-  SRL_GRAVEDONA_ED_UNITI,
-  SRL_BELLAGIO,
-  SRL_COLVERDE,
-  SRL_TREMEZZINA,
-  SRL_ALTA_VALLE_INTELVI,
-  SRL_CENTRO_VALLE_INTELVI,
-  SRL_SOLBIATE_CON_CAGNO,
-  SRL_UGGIATE_CON_RONAGO,
-  SRL_ABBADIA_LARIANA,
-  SRL_AIRUNO,
-  SRL_ANNONE_DI_BRIANZA,
-  SRL_BALLABIO,
-  SRL_BARZAGO,
-  SRL_BARZAN,
-  SRL_BARZIO,
-  SRL_BELLANO,
-  SRL_BOSISIO_PARINI,
-  SRL_BRIVIO,
-  SRL_BULCIAGO,
-  SRL_CALCO,
-  SRL_CALOLZIOCORTE,
-  SRL_CARENNO,
-  SRL_CASARGO,
-  SRL_CASATENOVO,
-  SRL_CASSAGO_BRIANZA,
-  SRL_CASSINA_VALSASSINA,
-  SRL_CASTELLO_DI_BRIANZA,
-  SRL_CERNUSCO_LOMBARDONE,
-  SRL_CESANA_BRIANZA,
-  SRL_CIVATE,
-  SRL_COLICO,
-  SRL_COLLE_BRIANZA,
-  SRL_CORTENOVA,
-  SRL_COSTA_MASNAGA,
-  SRL_CRANDOLA_VALSASSINA,
-  SRL_CREMELLA,
-  SRL_CREMENO,
-  SRL_DERVIO,
-  SRL_DOLZAGO,
-  SRL_DORIO,
-  SRL_ELLO,
-  SRL_ERVE,
-  SRL_ESINO_LARIO,
-  SRL_GALBIATE,
-  SRL_GARBAGNATE_MONASTERO,
-  SRL_GARLATE,
-  SRL_IMBERSAGO,
-  SRL_INTROBIO,
-  SRL_LECCO,
-  SRL_LIERNA,
-  SRL_LOMAGNA,
-  SRL_MALGRATE,
-  SRL_MANDELLO_DEL_LARIO,
-  SRL_MARGNO,
-  SRL_MERATE,
-  SRL_MISSAGLIA,
-  SRL_MOGGIO,
-  SRL_MOLTENO,
-  SRL_MONTE_MARENZO,
-  SRL_MONTEVECCHIA,
-  SRL_MONTICELLO_BRIANZA,
-  SRL_MORTERONE,
-  SRL_NIBIONNO,
-  SRL_OGGIONO,
-  SRL_OLGIATE_MOLGORA,
-  SRL_OLGINATE,
-  SRL_OLIVETO_LARIO,
-  SRL_OSNAGO,
-  SRL_PADERNO_D_ADDA,
-  SRL_PAGNONA,
-  SRL_PARLASCO,
-  SRL_PASTURO,
-  SRL_PERLEDO,
-  SRL_PESCATE,
-  SRL_PREMANA,
-  SRL_PRIMALUNA,
-  SRL_ROBBIATE,
-  SRL_ROGENO,
-  SRL_SANTA_MARIA_HO,
-  SRL_SIRONE,
-  SRL_SIRTORI,
-  SRL_SUEGLIO,
-  SRL_SUELLO,
-  SRL_TACENO,
-  SRL_VALGREGHENTINO,
-  SRL_VALMADRERA,
-  SRL_VARENNA,
-  SRL_VERCURAGO,
-  SRL_VIGAN,
-  SRL_VERDERIO,
-  SRL_LA_VALLETTA_BRIANZA,
-  SRL_VALVARRONE,
-  SRL_AGRATE_BRIANZA,
-  SRL_AICURZIO,
-  SRL_ALBIATE,
-  SRL_ARCORE,
-  SRL_BARLASSINA,
-  SRL_BELLUSCO,
-  SRL_BERNAREGGIO,
-  SRL_BESANA_IN_BRIANZA,
-  SRL_BIASSONO,
-  SRL_BOVISIO_MASCIAGO,
-  SRL_BRIOSCO,
-  SRL_BRUGHERIO,
-  SRL_BURAGO_DI_MOLGORA,
-  SRL_CAMPARADA,
-  SRL_CARATE_BRIANZA,
-  SRL_CARNATE,
-  SRL_CAVENAGO_DI_BRIANZA,
-  SRL_CERIANO_LAGHETTO,
-  SRL_CESANO_MADERNO,
-  SRL_COGLIATE,
-  SRL_CONCOREZZO,
-  SRL_CORREZZANA,
-  SRL_DESIO,
-  SRL_GIUSSANO,
-  SRL_LAZZATE,
-  SRL_LESMO,
-  SRL_LIMBIATE,
-  SRL_LISSONE,
-  SRL_MACHERIO,
-  SRL_MEDA,
-  SRL_MEZZAGO,
-  SRL_MISINTO,
-  SRL_MONZA,
-  SRL_MUGGI,
-  SRL_NOVA_MILANESE,
-  SRL_ORNAGO,
-  SRL_RENATE,
-  SRL_RONCO_BRIANTINO,
-  SRL_SEREGNO,
-  SRL_SEVESO,
-  SRL_SOVICO,
-  SRL_SULBIATE,
-  SRL_TRIUGGIO,
-  SRL_USMATE_VELATE,
-  SRL_VAREDO,
-  SRL_VEDANO_AL_LAMBRO,
-  SRL_VEDUGGIO_CON_COLZANO,
-  SRL_VERANO_BRIANZA,
-  SRL_VILLASANTA,
-  SRL_VIMERCATE,
-  SRL_BUSNAGO,
-  SRL_CAPONAGO,
-  SRL_CORNATE_D_ADDA,
-  SRL_LENTATE_SUL_SEVESO,
-  SRL_RONCELLO
+  { name: "ALBAVILLA", istat: "013003", population: 6373 },
+  { name: "ALBESE CON CASSANO", istat: "013004", population: 4311 },
+  { name: "ALBIOLO", istat: "013005", population: 2842 },
+  { name: "ALSERIO", istat: "013006", population: 1427 },
+  { name: "ALTA VALLE INTELVI", istat: "013253", population: 3219 },
+  { name: "ALZATE BRIANZA", istat: "013007", population: 4837 },
+  { name: "ANZANO DEL PARCO", istat: "013009", population: 1695 },
+  { name: "APPIANO GENTILE", istat: "013010", population: 7796 },
+  { name: "ARGEGNO", istat: "013011", population: 680 },
+  { name: "AROSIO", istat: "013012", population: 5225 },
+  { name: "ASSO", istat: "013013", population: 3561 },
+  { name: "BARNI", istat: "013015", population: 614 },
+  { name: "BELLAGIO", istat: "013250", population: 3547 },
+  { name: "BENE LARIO", istat: "013021", population: 351 },
+  { name: "BEREGAZZO CON FIGLIARO", istat: "013022", population: 2844 },
+  { name: "BINAGO", istat: "013023", population: 4816 },
+  { name: "BIZZARONE", istat: "013024", population: 1801 },
+  { name: "BLESSAGNO", istat: "013025", population: 315 },
+  { name: "BLEVIO", istat: "013026", population: 1031 },
+  { name: "BREGNANO", istat: "013028", population: 6473 },
+  { name: "BRENNA", istat: "013029", population: 2198 },
+  { name: "BRIENNO", istat: "013030", population: 313 },
+  { name: "BRUNATE", istat: "013032", population: 1572 },
+  { name: "BULGAROGRASSO", istat: "013034", population: 3987 },
+  { name: "CABIATE", istat: "013035", population: 7441 },
+  { name: "CADORAGO", istat: "013036", population: 8091 },
+  { name: "CAGLIO", istat: "013037", population: 480 },
+  { name: "CAMPIONE D'ITALIA", istat: "013040", population: 1913 },
+  { name: "CANTÙ", istat: "013041", population: 40619 },
+  { name: "CANZO", istat: "013042", population: 5251 },
+  { name: "CAPIAGO INTIMIANO", istat: "013043", population: 5455 },
+  { name: "CARATE URIO", istat: "013044", population: 1102 },
+  { name: "CARBONATE", istat: "013045", population: 2978 },
+  { name: "CARIMATE", istat: "013046", population: 4384 },
+  { name: "CARLAZZO", istat: "013047", population: 3193 },
+  { name: "CARUGO", istat: "013048", population: 6669 },
+  { name: "CASLINO D'ERBA", istat: "013052", population: 1706 },
+  { name: "CASNATE CON BERNATE", istat: "013053", population: 5051 },
+  { name: "CASSINA RIZZARDI", istat: "013055", population: 3281 },
+  { name: "CASTELMARTE", istat: "013058", population: 1253 },
+  { name: "CASTELNUOVO BOZZENTE", istat: "013059", population: 920 },
+  { name: "CAVARGNA", istat: "013062", population: 173 },
+  { name: "CENTRO VALLE INTELVI", istat: "013254", population: 3800 },
+  { name: "CERANO D'INTELVI", istat: "013063", population: 595 },
+  { name: "CERMENATE", istat: "013064", population: 9478 },
+  { name: "CERNOBBIO", istat: "013065", population: 6204 },
+  { name: "CIRIMIDO", istat: "013068", population: 2203 },
+  { name: "CLAINO CON OSTENO", istat: "013071", population: 545 },
+  { name: "COLONNO", istat: "013074", population: 435 },
+  { name: "COLVERDE", istat: "013251", population: 5583 },
+  { name: "COMO", istat: "013075", population: 84413 },
+  { name: "CORRIDO", istat: "013077", population: 845 },
+  { name: "CREMIA", istat: "013083", population: 684 },
+  { name: "CUCCIAGO", istat: "013084", population: 3461 },
+  { name: "CUSINO", istat: "013085", population: 248 },
+  { name: "DIZZASCO", istat: "013087", population: 640 },
+  { name: "DOMASO", istat: "013089", population: 1401 },
+  { name: "DONGO", istat: "013090", population: 3153 },
+  { name: "DOSSO DEL LIRO", istat: "013092", population: 236 },
+  { name: "ERBA", istat: "013095", population: 16337 },
+  { name: "EUPILIO", istat: "013097", population: 2541 },
+  { name: "FAGGETO LARIO", istat: "013098", population: 1073 },
+  { name: "FALOPPIO", istat: "013099", population: 4906 },
+  { name: "FENEGRÒ", istat: "013100", population: 3334 },
+  { name: "FIGINO SERENZA", istat: "013101", population: 4966 },
+  { name: "FINO MORNASCO", istat: "013102", population: 10140 },
+  { name: "GARZENO", istat: "013106", population: 662 },
+  { name: "GERA LARIO", istat: "013107", population: 1073 },
+  { name: "GRANDATE", istat: "013110", population: 2810 },
+  { name: "GRANDOLA ED UNITI", istat: "013111", population: 1281 },
+  { name: "GRAVEDONA ED UNITI", istat: "013249", population: 4066 },
+  { name: "GRIANTE", istat: "013113", population: 558 },
+  { name: "GUANZATE", istat: "013114", population: 5806 },
+  { name: "INVERIGO", istat: "013118", population: 9174 },
+  { name: "LAGLIO", istat: "013119", population: 821 },
+  { name: "LAINO", istat: "013120", population: 572 },
+  { name: "LAMBRUGO", istat: "013121", population: 2556 },
+  { name: "LASNIGO", istat: "013123", population: 439 },
+  { name: "LEZZENO", istat: "013126", population: 1866 },
+  { name: "LIMIDO COMASCO", istat: "013128", population: 3947 },
+  { name: "LIPOMO", istat: "013129", population: 5880 },
+  { name: "LIVO", istat: "013130", population: 158 },
+  { name: "LOCATE VARESINO", istat: "013131", population: 4328 },
+  { name: "LOMAZZO", istat: "013133", population: 10147 },
+  { name: "LONGONE AL SEGRINO", istat: "013134", population: 1990 },
+  { name: "LUISAGO", istat: "013135", population: 2846 },
+  { name: "LURAGO D'ERBA", istat: "013136", population: 5599 },
+  { name: "LURAGO MARINONE", istat: "013137", population: 2593 },
+  { name: "LURATE CACCIVIO", istat: "013138", population: 9766 },
+  { name: "MAGREGLIO", istat: "013139", population: 673 },
+  { name: "MARIANO COMENSE", istat: "013143", population: 25558 },
+  { name: "MASLIANICO", istat: "013144", population: 3168 },
+  { name: "MENAGGIO", istat: "013145", population: 3012 },
+  { name: "MERONE", istat: "013147", population: 4011 },
+  { name: "MOLTRASIO", istat: "013152", population: 1491 },
+  { name: "MONGUZZO", istat: "013153", population: 2383 },
+  { name: "MONTANO LUCINO", istat: "013154", population: 5508 },
+  { name: "MONTEMEZZO", istat: "013155", population: 205 },
+  { name: "MONTORFANO", istat: "013157", population: 2501 },
+  { name: "MOZZATE", istat: "013159", population: 8805 },
+  { name: "MUSSO", istat: "013160", population: 937 },
+  { name: "NESSO", istat: "013161", population: 1087 },
+  { name: "NOVEDRATE", istat: "013163", population: 2882 },
+  { name: "OLGIATE COMASCO", istat: "013165", population: 12214 },
+  { name: "OLTRONA DI SAN MAMETTE", istat: "013169", population: 2349 },
+  { name: "ORSENIGO", istat: "013170", population: 2646 },
+  { name: "PEGLIO", istat: "013178", population: 194 },
+  { name: "PIANELLO DEL LARIO", istat: "013183", population: 1086 },
+  { name: "PIGRA", istat: "013184", population: 231 },
+  { name: "PLESIO", istat: "013185", population: 813 },
+  { name: "POGNANA LARIO", istat: "013186", population: 666 },
+  { name: "PONNA", istat: "013187", population: 223 },
+  { name: "PONTE LAMBRO", istat: "013188", population: 4275 },
+  { name: "PORLEZZA", istat: "013189", population: 4981 },
+  { name: "PROSERPIO", istat: "013192", population: 956 },
+  { name: "PUSIANO", istat: "013193", population: 1324 },
+  { name: "REZZAGO", istat: "013195", population: 310 },
+  { name: "RODERO", istat: "013197", population: 1285 },
+  { name: "ROVELLASCA", istat: "013201", population: 8068 },
+  { name: "ROVELLO PORRO", istat: "013202", population: 6446 },
+  { name: "SALA COMACINA", istat: "013203", population: 467 },
+  { name: "SAN BARTOLOMEO VAL CAVARGNA", istat: "013204", population: 927 },
+  { name: "SAN FERMO DELLA BATTAGLIA", istat: "013206", population: 7810 },
+  { name: "SAN NAZZARO VAL CAVARGNA", istat: "013207", population: 255 },
+  { name: "SAN SIRO", istat: "013248", population: 1683 },
+  { name: "SCHIGNANO", istat: "013211", population: 875 },
+  { name: "SENNA COMASCO", istat: "013212", population: 3184 },
+  { name: "SOLBIATE CON CAGNO", istat: "013255", population: 4666 },
+  { name: "SORICO", istat: "013216", population: 1258 },
+  { name: "SORMANO", istat: "013217", population: 698 },
+  { name: "STAZZONA", istat: "013218", population: 595 },
+  { name: "TAVERNERIO", istat: "013222", population: 5592 },
+  { name: "TORNO", istat: "013223", population: 1039 },
+  { name: "TREMEZZINA", istat: "013252", population: 4977 },
+  { name: "TREZZONE", istat: "013226", population: 234 },
+  { name: "TURATE", istat: "013227", population: 9974 },
+  { name: "UGGIATE CON RONAGO", istat: "013256", population: 6910 },
+  { name: "VAL REZZO", istat: "013233", population: 172 },
+  { name: "VALBRONA", istat: "013229", population: 2636 },
+  { name: "VALMOREA", istat: "013232", population: 2625 },
+  { name: "VALSOLDA", istat: "013234", population: 1453 },
+  { name: "VELESO", istat: "013236", population: 198 },
+  { name: "VENIANO", istat: "013238", population: 3160 },
+  { name: "VERCANA", istat: "013239", population: 730 },
+  { name: "VERTEMATE CON MINOPRIO", istat: "013242", population: 4197 },
+  { name: "VILLA GUARDIA", istat: "013245", population: 7882 },
+  { name: "ZELBIO", istat: "013246", population: 183 },
+  { name: "ABBADIA LARIANA", istat: "097001", population: 3135 },
+  { name: "AIRUNO", istat: "097002", population: 2914 },
+  { name: "ANNONE DI BRIANZA", istat: "097003", population: 2295 },
+  { name: "BALLABIO", istat: "097004", population: 4175 },
+  { name: "BARZAGO", istat: "097005", population: 2415 },
+  { name: "BARZANÒ", istat: "097006", population: 5052 },
+  { name: "BARZIO", istat: "097007", population: 1272 },
+  { name: "BELLANO", istat: "097008", population: 3398 },
+  { name: "BOSISIO PARINI", istat: "097009", population: 3239 },
+  { name: "BRIVIO", istat: "097010", population: 4370 },
+  { name: "BULCIAGO", istat: "097011", population: 2927 },
+  { name: "CALCO", istat: "097012", population: 5499 },
+  { name: "CALOLZIOCORTE", istat: "097013", population: 13706 },
+  { name: "CARENNO", istat: "097014", population: 1392 },
+  { name: "CASARGO", istat: "097015", population: 830 },
+  { name: "CASATENOVO", istat: "097016", population: 13274 },
+  { name: "CASSAGO BRIANZA", istat: "097017", population: 4421 },
+  { name: "CASSINA VALSASSINA", istat: "097018", population: 547 },
+  { name: "CASTELLO DI BRIANZA", istat: "097019", population: 2639 },
+  { name: "CERNUSCO LOMBARDONE", istat: "097020", population: 3842 },
+  { name: "CESANA BRIANZA", istat: "097021", population: 2325 },
+  { name: "CIVATE", istat: "097022", population: 3716 },
+  { name: "COLICO", istat: "097023", population: 8217 },
+  { name: "COLLE BRIANZA", istat: "097024", population: 1859 },
+  { name: "CORTENOVA", istat: "097025", population: 1170 },
+  { name: "COSTA MASNAGA", istat: "097026", population: 4766 },
+  { name: "CRANDOLA VALSASSINA", istat: "097027", population: 261 },
+  { name: "CREMELLA", istat: "097028", population: 1692 },
+  { name: "CREMENO", istat: "097029", population: 1766 },
+  { name: "DERVIO", istat: "097030", population: 2526 },
+  { name: "DOLZAGO", istat: "097031", population: 2539 },
+  { name: "DORIO", istat: "097032", population: 329 },
+  { name: "ELLO", istat: "097033", population: 1192 },
+  { name: "ERVE", istat: "097034", population: 651 },
+  { name: "ESINO LARIO", istat: "097035", population: 746 },
+  { name: "GALBIATE", istat: "097036", population: 8412 },
+  { name: "GARBAGNATE MONASTERO", istat: "097037", population: 2505 },
+  { name: "GARLATE", istat: "097038", population: 2683 },
+  { name: "IMBERSAGO", istat: "097039", population: 2566 },
+  { name: "INTROBIO", istat: "097040", population: 1958 },
+  { name: "LA VALLETTA BRIANZA", istat: "097092", population: 4645 },
+  { name: "LECCO", istat: "097042", population: 47728 },
+  { name: "LIERNA", istat: "097043", population: 2114 },
+  { name: "LOMAGNA", istat: "097044", population: 5121 },
+  { name: "MALGRATE", istat: "097045", population: 4174 },
+  { name: "MANDELLO DEL LARIO", istat: "097046", population: 9868 },
+  { name: "MARGNO", istat: "097047", population: 426 },
+  { name: "MERATE", istat: "097048", population: 15058 },
+  { name: "MISSAGLIA", istat: "097049", population: 8993 },
+  { name: "MOGGIO", istat: "097050", population: 490 },
+  { name: "MOLTENO", istat: "097051", population: 3531 },
+  { name: "MONTE MARENZO", istat: "097052", population: 1798 },
+  { name: "MONTEVECCHIA", istat: "097053", population: 2710 },
+  { name: "MONTICELLO BRIANZA", istat: "097054", population: 4211 },
+  { name: "MORTERONE", istat: "097055", population: 31 },
+  { name: "NIBIONNO", istat: "097056", population: 3600 },
+  { name: "OGGIONO", istat: "097057", population: 9296 },
+  { name: "OLGIATE MOLGORA", istat: "097058", population: 6421 },
+  { name: "OLGINATE", istat: "097059", population: 6958 },
+  { name: "OLIVETO LARIO", istat: "097060", population: 1155 },
+  { name: "OSNAGO", istat: "097061", population: 4832 },
+  { name: "PADERNO D'ADDA", istat: "097062", population: 3888 },
+  { name: "PAGNONA", istat: "097063", population: 308 },
+  { name: "PARLASCO", istat: "097064", population: 135 },
+  { name: "PASTURO", istat: "097065", population: 1969 },
+  { name: "PERLEDO", istat: "097067", population: 834 },
+  { name: "PESCATE", istat: "097068", population: 2120 },
+  { name: "PREMANA", istat: "097069", population: 2153 },
+  { name: "PRIMALUNA", istat: "097070", population: 2269 },
+  { name: "ROBBIATE", istat: "097071", population: 6460 },
+  { name: "ROGENO", istat: "097072", population: 3065 },
+  { name: "SANTA MARIA HOÈ", istat: "097074", population: 2099 },
+  { name: "SIRONE", istat: "097075", population: 2340 },
+  { name: "SIRTORI", istat: "097076", population: 2778 },
+  { name: "SUEGLIO", istat: "097077", population: 156 },
+  { name: "SUELLO", istat: "097078", population: 1711 },
+  { name: "TACENO", istat: "097079", population: 597 },
+  { name: "VALGREGHENTINO", istat: "097082", population: 3363 },
+  { name: "VALMADRERA", istat: "097083", population: 11253 },
+  { name: "VALVARRONE", istat: "097093", population: 504 },
+  { name: "VARENNA", istat: "097084", population: 653 },
+  { name: "VERCURAGO", istat: "097086", population: 2675 },
+  { name: "VERDERIO", istat: "097091", population: 5504 },
+  { name: "VIGANÒ", istat: "097090", population: 2126 },
+  { name: "AGRATE BRIANZA", istat: "108001", population: 15994 },
+  { name: "AICURZIO", istat: "108002", population: 2093 },
+  { name: "ALBIATE", istat: "108003", population: 6731 },
+  { name: "ARCORE", istat: "108004", population: 17956 },
+  { name: "BARLASSINA", istat: "108005", population: 7030 },
+  { name: "BELLUSCO", istat: "108006", population: 7512 },
+  { name: "BERNAREGGIO", istat: "108007", population: 11684 },
+  { name: "BESANA IN BRIANZA", istat: "108008", population: 15494 },
+  { name: "BIASSONO", istat: "108009", population: 12463 },
+  { name: "BOVISIO-MASCIAGO", istat: "108010", population: 16999 },
+  { name: "BRIOSCO", istat: "108011", population: 6141 },
+  { name: "BRUGHERIO", istat: "108012", population: 35679 },
+  { name: "BURAGO DI MOLGORA", istat: "108013", population: 4362 },
+  { name: "BUSNAGO", istat: "108051", population: 6917 },
+  { name: "CAMPARADA", istat: "108014", population: 2260 },
+  { name: "CAPONAGO", istat: "108052", population: 5066 },
+  { name: "CARATE BRIANZA", istat: "108015", population: 18119 },
+  { name: "CARNATE", istat: "108016", population: 7946 },
+  { name: "CAVENAGO DI BRIANZA", istat: "108017", population: 7577 },
+  { name: "CERIANO LAGHETTO", istat: "108018", population: 6711 },
+  { name: "CESANO MADERNO", istat: "108019", population: 40565 },
+  { name: "COGLIATE", istat: "108020", population: 8494 },
+  { name: "CONCOREZZO", istat: "108021", population: 16182 },
+  { name: "CORNATE D'ADDA", istat: "108053", population: 11167 },
+  { name: "CORREZZANA", istat: "108022", population: 3294 },
+  { name: "DESIO", istat: "108023", population: 42071 },
+  { name: "GIUSSANO", istat: "108024", population: 26669 },
+  { name: "LAZZATE", istat: "108025", population: 7721 },
+  { name: "LENTATE SUL SEVESO", istat: "108054", population: 16145 },
+  { name: "LESMO", istat: "108026", population: 8423 },
+  { name: "LIMBIATE", istat: "108027", population: 35891 },
+  { name: "LISSONE", istat: "108028", population: 47075 },
+  { name: "MACHERIO", istat: "108029", population: 7610 },
+  { name: "MEDA", istat: "108030", population: 23840 },
+  { name: "MEZZAGO", istat: "108031", population: 4499 },
+  { name: "MISINTO", istat: "108032", population: 5777 },
+  { name: "MONZA", istat: "108033", population: 124284 },
+  { name: "MUGGIÒ", istat: "108034", population: 23684 },
+  { name: "NOVA MILANESE", istat: "108035", population: 23271 },
+  { name: "ORNAGO", istat: "108036", population: 5480 },
+  { name: "RENATE", istat: "108037", population: 3985 },
+  { name: "RONCELLO", istat: "108055", population: 4784 },
+  { name: "RONCO BRIANTINO", istat: "108038", population: 3788 },
+  { name: "SEREGNO", istat: "108039", population: 45320 },
+  { name: "SEVESO", istat: "108040", population: 24051 },
+  { name: "SOVICO", istat: "108041", population: 8310 },
+  { name: "SULBIATE", istat: "108042", population: 4530 },
+  { name: "TRIUGGIO", istat: "108043", population: 8809 },
+  { name: "USMATE VELATE", istat: "108044", population: 10773 },
+  { name: "VAREDO", istat: "108045", population: 14053 },
+  { name: "VEDANO AL LAMBRO", istat: "108046", population: 7417 },
+  { name: "VEDUGGIO CON COLZANO", istat: "108047", population: 4186 },
+  { name: "VERANO BRIANZA", istat: "108048", population: 9147 },
+  { name: "VILLASANTA", istat: "108049", population: 14368 },
+  { name: "VIMERCATE", istat: "108050", population: 26497 },
+  { name: "AGRA", istat: "012001", population: 383 },
+  { name: "ALBIZZATE", istat: "012002", population: 5201 },
+  { name: "ANGERA", istat: "012003", population: 5363 },
+  { name: "ARCISATE", istat: "012004", population: 9942 },
+  { name: "ARSAGO SEPRIO", istat: "012005", population: 4752 },
+  { name: "AZZATE", istat: "012006", population: 4682 },
+  { name: "AZZIO", istat: "012007", population: 753 },
+  { name: "BARASSO", istat: "012008", population: 1695 },
+  { name: "BARDELLO CON MALGESSO E BREGANO", istat: "012144", population: 3647 },
+  { name: "BEDERO VALCUVIA", istat: "012010", population: 665 },
+  { name: "BESANO", istat: "012011", population: 2551 },
+  { name: "BESNATE", istat: "012012", population: 5478 },
+  { name: "BESOZZO", istat: "012013", population: 8773 },
+  { name: "BIANDRONNO", istat: "012014", population: 3196 },
+  { name: "BISUSCHIO", istat: "012015", population: 4298 },
+  { name: "BODIO LOMNAGO", istat: "012016", population: 2254 },
+  { name: "BREBBIA", istat: "012017", population: 3173 },
+  { name: "BRENTA", istat: "012019", population: 1707 },
+  { name: "BREZZO DI BEDERO", istat: "012020", population: 1222 },
+  { name: "BRINZIO", istat: "012021", population: 767 },
+  { name: "BRISSAGO-VALTRAVAGLIA", istat: "012022", population: 1324 },
+  { name: "BRUNELLO", istat: "012023", population: 908 },
+  { name: "BRUSIMPIANO", istat: "012024", population: 1185 },
+  { name: "BUGUGGIATE", istat: "012025", population: 3131 },
+  { name: "BUSTO ARSIZIO", istat: "012026", population: 84952 },
+  { name: "CADEGLIANO-VICONAGO", istat: "012027", population: 2163 },
+  { name: "CADREZZATE CON OSMATE", istat: "012143", population: 2781 },
+  { name: "CAIRATE", istat: "012029", population: 7918 },
+  { name: "CANTELLO", istat: "012030", population: 4911 },
+  { name: "CARAVATE", istat: "012031", population: 2543 },
+  { name: "CARDANO AL CAMPO", istat: "012032", population: 14747 },
+  { name: "CARNAGO", istat: "012033", population: 6615 },
+  { name: "CARONNO PERTUSELLA", istat: "012034", population: 18599 },
+  { name: "CARONNO VARESINO", istat: "012035", population: 4808 },
+  { name: "CASALE LITTA", istat: "012036", population: 2798 },
+  { name: "CASALZUIGNO", istat: "012037", population: 1420 },
+  { name: "CASCIAGO", istat: "012038", population: 3569 },
+  { name: "CASORATE SEMPIONE", istat: "012039", population: 5670 },
+  { name: "CASSANO MAGNAGO", istat: "012040", population: 21478 },
+  { name: "CASSANO VALCUVIA", istat: "012041", population: 645 },
+  { name: "CASTELLANZA", istat: "012042", population: 13965 },
+  { name: "CASTELLO CABIAGLIO", istat: "012043", population: 557 },
+  { name: "CASTELSEPRIO", istat: "012044", population: 1333 },
+  { name: "CASTELVECCANA", istat: "012045", population: 1878 },
+  { name: "CASTIGLIONE OLONA", istat: "012046", population: 7514 },
+  { name: "CASTRONNO", istat: "012047", population: 5063 },
+  { name: "CAVARIA CON PREMEZZO", istat: "012048", population: 5772 },
+  { name: "CAZZAGO BRABBIA", istat: "012049", population: 781 },
+  { name: "CISLAGO", istat: "012050", population: 10587 },
+  { name: "CITTIGLIO", istat: "012051", population: 3824 },
+  { name: "CLIVIO", istat: "012052", population: 2003 },
+  { name: "COCQUIO-TREVISAGO", istat: "012053", population: 4672 },
+  { name: "COMABBIO", istat: "012054", population: 1195 },
+  { name: "COMERIO", istat: "012055", population: 2828 },
+  { name: "CREMENAGA", istat: "012056", population: 774 },
+  { name: "CROSIO DELLA VALLE", istat: "012057", population: 628 },
+  { name: "CUASSO AL MONTE", istat: "012058", population: 3542 },
+  { name: "CUGLIATE-FABIASCO", istat: "012059", population: 3169 },
+  { name: "CUNARDO", istat: "012060", population: 2948 },
+  { name: "CURIGLIA CON MONTEVIASCO", istat: "012061", population: 140 },
+  { name: "CUVEGLIO", istat: "012062", population: 3393 },
+  { name: "CUVIO", istat: "012063", population: 1762 },
+  { name: "DAVERIO", istat: "012064", population: 3027 },
+  { name: "DUMENZA", istat: "012065", population: 1473 },
+  { name: "DUNO", istat: "012066", population: 155 },
+  { name: "FAGNANO OLONA", istat: "012067", population: 12422 },
+  { name: "FERNO", istat: "012068", population: 6719 },
+  { name: "FERRERA DI VARESE", istat: "012069", population: 694 },
+  { name: "GALLARATE", istat: "012070", population: 53903 },
+  { name: "GALLIATE LOMBARDO", istat: "012071", population: 1036 },
+  { name: "GAVIRATE", istat: "012072", population: 9183 },
+  { name: "GAZZADA SCHIANNO", istat: "012073", population: 4663 },
+  { name: "GEMONIO", istat: "012074", population: 2873 },
+  { name: "GERENZANO", istat: "012075", population: 11106 },
+  { name: "GERMIGNAGA", istat: "012076", population: 3830 },
+  { name: "GOLASECCA", istat: "012077", population: 2654 },
+  { name: "GORLA MAGGIORE", istat: "012078", population: 4788 },
+  { name: "GORLA MINORE", istat: "012079", population: 8254 },
+  { name: "GORNATE OLONA", istat: "012080", population: 2210 },
+  { name: "GRANTOLA", istat: "012081", population: 1243 },
+  { name: "INARZO", istat: "012082", population: 1073 },
+  { name: "INDUNO OLONA", istat: "012083", population: 10456 },
+  { name: "ISPRA", istat: "012084", population: 5435 },
+  { name: "JERAGO CON ORAGO", istat: "012085", population: 5214 },
+  { name: "LAVENA PONTE TRESA", istat: "012086", population: 5775 },
+  { name: "LAVENO-MOMBELLO", istat: "012087", population: 8443 },
+  { name: "LEGGIUNO", istat: "012088", population: 3655 },
+  { name: "LONATE CEPPINO", istat: "012089", population: 5200 },
+  { name: "LONATE POZZOLO", istat: "012090", population: 11388 },
+  { name: "LOZZA", istat: "012091", population: 1211 },
+  { name: "LUINO", istat: "012092", population: 14181 },
+  { name: "LUVINATE", istat: "012093", population: 1362 },
+  { name: "MACCAGNO CON PINO E VEDDASCA", istat: "012142", population: 2327 },
+  { name: "MALNATE", istat: "012096", population: 16785 },
+  { name: "MARCHIROLO", istat: "012097", population: 3642 },
+  { name: "MARNATE", istat: "012098", population: 8177 },
+  { name: "MARZIO", istat: "012099", population: 308 },
+  { name: "MASCIAGO PRIMO", istat: "012100", population: 277 },
+  { name: "MERCALLO", istat: "012101", population: 1795 },
+  { name: "MESENZANA", istat: "012102", population: 1817 },
+  { name: "MONTEGRINO VALTRAVAGLIA", istat: "012103", population: 1527 },
+  { name: "MONVALLE", istat: "012104", population: 1884 },
+  { name: "MORAZZONE", istat: "012105", population: 4331 },
+  { name: "MORNAGO", istat: "012106", population: 4866 },
+  { name: "OGGIONA CON SANTO STEFANO", istat: "012107", population: 4395 },
+  { name: "OLGIATE OLONA", istat: "012108", population: 12950 },
+  { name: "ORIGGIO", istat: "012109", population: 8077 },
+  { name: "ORINO", istat: "012110", population: 845 },
+  { name: "PORTO CERESIO", istat: "012113", population: 2826 },
+  { name: "PORTO VALTRAVAGLIA", istat: "012114", population: 2306 },
+  { name: "RANCIO VALCUVIA", istat: "012115", population: 923 },
+  { name: "RANCO", istat: "012116", population: 1235 },
+  { name: "SALTRIO", istat: "012117", population: 3042 },
+  { name: "SAMARATE", istat: "012118", population: 16284 },
+  { name: "SANGIANO", istat: "012141", population: 1441 },
+  { name: "SARONNO", istat: "012119", population: 39198 },
+  { name: "SESTO CALENDE", istat: "012120", population: 11097 },
+  { name: "SOLBIATE ARNO", istat: "012121", population: 4061 },
+  { name: "SOLBIATE OLONA", istat: "012122", population: 5417 },
+  { name: "SOMMA LOMBARDO", istat: "012123", population: 17943 },
+  { name: "SUMIRAGO", istat: "012124", population: 6001 },
+  { name: "TAINO", istat: "012125", population: 3579 },
+  { name: "TERNATE", istat: "012126", population: 2549 },
+  { name: "TRADATE", istat: "012127", population: 19228 },
+  { name: "TRAVEDONA-MONATE", istat: "012128", population: 3900 },
+  { name: "TRONZANO LAGO MAGGIORE", istat: "012129", population: 224 },
+  { name: "UBOLDO", istat: "012130", population: 11178 },
+  { name: "VALGANNA", istat: "012131", population: 1609 },
+  { name: "VARANO BORGHI", istat: "012132", population: 2521 },
+  { name: "VARESE", istat: "012133", population: 79799 },
+  { name: "VEDANO OLONA", istat: "012134", population: 7495 },
+  { name: "VENEGONO INFERIORE", istat: "012136", population: 5938 },
+  { name: "VENEGONO SUPERIORE", istat: "012137", population: 7530 },
+  { name: "VERGIATE", istat: "012138", population: 8665 },
+  { name: "VIGGIÙ", istat: "012139", population: 5204 },
+  { name: "VIZZOLA TICINO", istat: "012140", population: 595 }
 ];

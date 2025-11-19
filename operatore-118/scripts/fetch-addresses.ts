@@ -35,6 +35,9 @@ const API_DELAY_MS = 5000;
 /** Base directory for dispatch centers */
 const DISPATCH_CENTERS_DIR = join(__dirname, '..', 'src', 'data', 'dispatch-centers');
 
+/** Directory for addresses (now global, not per dispatch center) */
+const ADDRESSES_DIR = join(__dirname, '..', 'src', 'data', 'addresses');
+
 /**
  * Validates that the dispatch center path exists and has cities
  * 
@@ -44,17 +47,14 @@ const DISPATCH_CENTERS_DIR = join(__dirname, '..', 'src', 'data', 'dispatch-cent
  */
 async function validateAndLoadDispatchCenter(dcPath: string): Promise<{
   fullPath: string;
-  addressesDir: string;
   cities: City[];
 }> {
   const fullPath = join(DISPATCH_CENTERS_DIR, dcPath);
-  
   try {
     await access(fullPath);
   } catch {
     throw new Error(`Dispatch center path not found: ${dcPath}\nPath checked: ${fullPath}`);
   }
-  
   // Check that cities.tsx exists
   const citiesFilePath = join(fullPath, 'cities.tsx');
   try {
@@ -62,27 +62,20 @@ async function validateAndLoadDispatchCenter(dcPath: string): Promise<{
   } catch {
     throw new Error(`cities.tsx not found in dispatch center: ${dcPath}`);
   }
-  
   // Dynamically import cities
   const citiesModule = await import(citiesFilePath);
-  
   // Find the cities array export
   const citiesArrayKey = Object.keys(citiesModule).find(key => key.endsWith('_CITIES'));
   if (!citiesArrayKey) {
     throw new Error(`No cities array found in ${dcPath}/cities.tsx`);
   }
-  
   const cities: City[] = citiesModule[citiesArrayKey];
-  
   if (!Array.isArray(cities) || cities.length === 0) {
     throw new Error(`No cities found in ${dcPath}/cities.tsx`);
   }
-  
-  // Addresses directory
-  const addressesDir = join(fullPath, 'addresses');
-  await mkdir(addressesDir, { recursive: true });
-  
-  return { fullPath, addressesDir, cities };
+  // Ensure addresses directory exists
+  await mkdir(ADDRESSES_DIR, { recursive: true });
+  return { fullPath, cities };
 }
 
 /**
@@ -92,8 +85,8 @@ async function validateAndLoadDispatchCenter(dcPath: string): Promise<{
  * @param istatCode - ISTAT code of the city
  * @returns True if file exists, false otherwise
  */
-async function addressFileExists(addressesDir: string, istatCode: string): Promise<boolean> {
-  const filepath = join(addressesDir, `${istatCode}.json`);
+async function addressFileExists(istatCode: string): Promise<boolean> {
+  const filepath = join(ADDRESSES_DIR, `${istatCode}.json`);
   try {
     await access(filepath);
     return true;
@@ -315,10 +308,10 @@ function deduplicateAddresses(addresses: Address[]): Address[] {
  * @param istatCode - ISTAT code for the city
  * @param addresses - Array of addresses to save
  */
-async function saveAddressesToFile(addressesDir: string, istatCode: string, addresses: Address[]): Promise<void> {
+async function saveAddressesToFile(istatCode: string, addresses: Address[]): Promise<void> {
   // Use ISTAT code as filename
   const filename = `${istatCode}.json`;
-  const filepath = join(addressesDir, filename);
+  const filepath = join(ADDRESSES_DIR, filename);
   
   // Write JSON file with nice formatting
   await writeFile(filepath, JSON.stringify(addresses, null, 2), 'utf-8');
@@ -352,10 +345,10 @@ async function main() {
   try {
     console.log(`🔍 Loading dispatch center: ${dcPath}\n`);
     
-    const { addressesDir, cities } = await validateAndLoadDispatchCenter(dcPath);
+    const { cities } = await validateAndLoadDispatchCenter(dcPath);
     
     console.log(`📋 Found ${cities.length} cities\n`);
-    console.log(`📂 Addresses will be saved to: ${addressesDir}\n`);
+    console.log(`📂 Addresses will be saved to: ${ADDRESSES_DIR}\n`);
     
     let processed = 0;
     let skipped = 0;
@@ -369,7 +362,7 @@ async function main() {
       console.log(`${progress} ${city.name} (ISTAT: ${city.istat})`);
       
       // Check if file already exists
-      const exists = await addressFileExists(addressesDir, city.istat);
+      const exists = await addressFileExists(city.istat);
       if (exists) {
         console.log(`  ⏭️  Skipped - address file already exists\n`);
         skipped++;
@@ -382,9 +375,9 @@ async function main() {
         if (addresses.length === 0) {
           console.log(`  ⚠️  No addresses found\n`);
           // Still save empty array to mark as processed
-          await saveAddressesToFile(addressesDir, city.istat, addresses);
+          await saveAddressesToFile(city.istat, addresses);
         } else {
-          await saveAddressesToFile(addressesDir, city.istat, addresses);
+          await saveAddressesToFile(city.istat, addresses);
           console.log(`  ✅ Successfully fetched ${addresses.length} addresses\n`);
           successful++;
         }
