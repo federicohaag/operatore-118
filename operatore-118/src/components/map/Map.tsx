@@ -60,75 +60,56 @@ export default function Map({ initCenter, initZoom = 10, center, zoom, stations 
                 window.L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
                     attribution: '© OpenStreetMap contributors'
                 }).addTo(mapInstanceRef.current);
+                
+                // Add station markers after map is initialized
+                addStationMarkers();
             }
+        };
+        
+        // Function to add station markers
+        const addStationMarkers = () => {
+            if (!mapInstanceRef.current || !window.L || stations.length === 0) return;
+            
+            console.log('✅ Adding', stations.length, 'station markers to map');
+            
+            // Remove existing station markers
+            stationMarkersRef.current.forEach(marker => marker.remove());
+            stationMarkersRef.current = [];
+            
+            // Create custom icon for stations (smaller blue marker)
+            const stationIcon = window.L.icon({
+                iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-blue.png',
+                shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/images/marker-shadow.png',
+                iconSize: [20, 33],
+                iconAnchor: [10, 33],
+                popupAnchor: [1, -34],
+                shadowSize: [33, 33]
+            });
+            
+            // Add markers for each station
+            stations.forEach(station => {
+                const marker = window.L.marker(station.coordinates, { icon: stationIcon })
+                    .bindPopup(station.name)
+                    .addTo(mapInstanceRef.current);
+                stationMarkersRef.current.push(marker);
+            });
+            
+            console.log('✅ Added', stationMarkersRef.current.length, 'station markers');
         };
 
         initializeMap();
 
         // Cleanup function
         return () => {
+            stationMarkersRef.current.forEach(marker => marker.remove());
+            stationMarkersRef.current = [];
+            
             if (mapInstanceRef.current) {
                 mapInstanceRef.current.remove();
                 mapInstanceRef.current = null;
             }
         };
-    }, [initCenter, initZoom]);
-
-    // Update station markers when stations prop changes or map becomes ready
-    useEffect(() => {
-        console.log('🗺️ Map stations effect triggered. Stations:', stations.length, 'Map:', !!mapInstanceRef.current, 'Leaflet:', !!window.L);
-        
-        // Function to add station markers
-        const addStationMarkers = () => {
-            if (mapInstanceRef.current && window.L && stations.length > 0) {
-                console.log('✅ Adding station markers to map');
-                // Remove existing station markers
-                stationMarkersRef.current.forEach(marker => marker.remove());
-                stationMarkersRef.current = [];
-                
-                // Create custom icon for stations (smaller blue marker)
-                const stationIcon = window.L.icon({
-                    iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-blue.png',
-                    shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/images/marker-shadow.png',
-                    iconSize: [20, 33],
-                    iconAnchor: [10, 33],
-                    popupAnchor: [1, -34],
-                    shadowSize: [33, 33]
-                });
-                
-                // Add markers for each station
-                stations.forEach(station => {
-                    const marker = window.L.marker(station.coordinates, { icon: stationIcon })
-                        .bindPopup(station.name)
-                        .addTo(mapInstanceRef.current);
-                    stationMarkersRef.current.push(marker);
-                });
-                console.log('✅ Added', stationMarkersRef.current.length, 'station markers');
-            }
-        };
-        
-        // Try immediately
-        addStationMarkers();
-        
-        // If map wasn't ready, retry after a short delay
-        if (!mapInstanceRef.current && stations.length > 0) {
-            const timeout = setTimeout(() => {
-                addStationMarkers();
-            }, 500);
-            
-            return () => {
-                clearTimeout(timeout);
-                stationMarkersRef.current.forEach(marker => marker.remove());
-                stationMarkersRef.current = [];
-            };
-        }
-        
-        // Cleanup on unmount
-        return () => {
-            stationMarkersRef.current.forEach(marker => marker.remove());
-            stationMarkersRef.current = [];
-        };
-    }, [stations]);
+    }, [initCenter, initZoom, stations]);
 
     // Update map center and marker when center prop changes
     useEffect(() => {
