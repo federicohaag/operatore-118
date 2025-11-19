@@ -154,7 +154,7 @@ export default function CallTakerForm({ callId: _callId, onEventCreated, onCallA
             const options = getNoteEvento2Options(noteEvento);
             setTimeout(() => {
                 if (options.length > 0) openSelect(noteEvento2Ref.current);
-                else openSelect(altroRef.current);
+                else openSelect(codiceRef.current);
             }, 0);
         }
     }, [noteEvento]);
@@ -162,21 +162,21 @@ export default function CallTakerForm({ callId: _callId, onEventCreated, onCallA
     useEffect(() => {
         const options = getNoteEvento2Options(noteEvento);
         if (noteEvento2 !== '' || (noteEvento !== '' && options.length === 0)) {
-            setTimeout(() => openSelect(altroRef.current), 0);
+            setTimeout(() => openSelect(codiceRef.current), 0);
         }
     }, [noteEvento2, noteEvento]);
 
     useEffect(() => {
-        if (altroEvento !== '' && codiceRef.current) {
-            setTimeout(() => openSelect(codiceRef.current), 0);
-        }
-    }, [altroEvento]);
-
-    useEffect(() => {
-        if (codice !== '' && submitButtonRef.current) {
-            setTimeout(() => submitButtonRef.current?.focus(), 0);
+        if (codice !== '' && altroRef.current) {
+            setTimeout(() => openSelect(altroRef.current), 0);
         }
     }, [codice]);
+
+    useEffect(() => {
+        if (altroEvento !== '' && submitButtonRef.current) {
+            setTimeout(() => submitButtonRef.current?.focus(), 0);
+        }
+    }, [altroEvento]);
 
     const handleSubmit = (e: React.FormEvent) => {
         e.preventDefault();
@@ -353,38 +353,38 @@ export default function CallTakerForm({ callId: _callId, onEventCreated, onCallA
                         </div>
                     )}
 
-                    {/* show Codice and Altro evento after Note evento 2 selected or if previous had no details */}
+                    {/* Codice always visible */}
+                    <div className={styles['form-group']}>
+                        <select
+                            id="codice"
+                            aria-label="Codice"
+                            ref={codiceRef}
+                            value={codice}
+                            onChange={(e) => setCodice(e.target.value as Codice | '')}
+                            className={styles['form-select']}
+                            style={{ borderLeft: `4px solid ${getColoreCodice(codice)}` }}
+                        >
+                            <option value="">-- Codice --</option>
+                            {Object.values(Codice).map(value => (
+                                <option key={value} value={value}>{value}</option>
+                            ))}
+                        </select>
+                    </div>
+
+                    {/* show Altro evento after Note evento 2 selected or if previous had no details */}
                     {(noteEvento2 !== '' || (noteEvento !== '' && getNoteEvento2Options(noteEvento).length === 0)) && (
-                        <>
-                            <div className={styles['form-group']}>
-                                <input
-                                    id="altro-evento"
-                                    aria-label="Altro evento"
-                                    type="text"
-                                    ref={altroRef}
-                                    value={altroEvento}
-                                    onChange={(e) => setAltroEvento(e.target.value)}
-                                    className={styles['form-input']}
-                                    placeholder="-- Altro --"
-                                />
-                            </div>
-                            <div className={styles['form-group']}>
-                                <select
-                                    id="codice"
-                                    aria-label="Codice"
-                                    ref={codiceRef}
-                                    value={codice}
-                                    onChange={(e) => setCodice(e.target.value as Codice | '')}
-                                    className={styles['form-select']}
-                                    style={{ borderLeft: `4px solid ${getColoreCodice(codice)}` }}
-                                >
-                                    <option value="">-- Codice --</option>
-                                    {Object.values(Codice).map(value => (
-                                        <option key={value} value={value}>{value}</option>
-                                    ))}
-                                </select>
-                            </div>
-                        </>
+                        <div className={styles['form-group']}>
+                            <input
+                                id="altro-evento"
+                                aria-label="Altro evento"
+                                type="text"
+                                ref={altroRef}
+                                value={altroEvento}
+                                onChange={(e) => setAltroEvento(e.target.value)}
+                                className={styles['form-input']}
+                                placeholder="-- Altro --"
+                            />
+                        </div>
                     )}
                 </div>
 
