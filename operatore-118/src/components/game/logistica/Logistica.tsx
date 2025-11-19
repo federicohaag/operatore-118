@@ -158,15 +158,17 @@ export default function Logistica({ onStationSelect }: LogisticaProps) {
                                 />
                                 <label htmlFor={`vehicle-${vehicle.radioName}-${index}`} className={styles['vehicle-label']}>
                                     <span className={styles['vehicle-radio-name']}>{vehicle.radioName}</span>
-                                    <span 
-                                        className={styles['vehicle-station']} 
-                                        onClick={(e) => {
-                                            e.preventDefault();
-                                            handleStationClick(vehicle);
-                                        }}
-                                        title="Clicca per centrare sulla mappa"
-                                    >
-                                        {vehicle.station.name}
+                                    <span className={styles['vehicle-station-container']}>
+                                        <span 
+                                            className={styles['vehicle-station']} 
+                                            onClick={(e) => {
+                                                e.preventDefault();
+                                                handleStationClick(vehicle);
+                                            }}
+                                            title="Clicca per centrare sulla mappa"
+                                        >
+                                            📍 {vehicle.station.name}
+                                        </span>
                                     </span>
                                     <span className={styles['vehicle-type']}>{vehicle.vehicleType}</span>
                                 </label>
