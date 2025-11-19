@@ -124,20 +124,8 @@ export default function Map({ initCenter, initZoom = 10, center, zoom, stations 
                 // Remove existing marker if any
                 if (markerRef.current) {
                     markerRef.current.remove();
+                    markerRef.current = null;
                 }
-                
-                // Create custom icon for call location (red marker)
-                const redIcon = window.L.icon({
-                    iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-red.png',
-                    shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/images/marker-shadow.png',
-                    iconSize: [25, 41],
-                    iconAnchor: [12, 41],
-                    popupAnchor: [1, -34],
-                    shadowSize: [41, 41]
-                });
-                
-                // Add new marker at the center position
-                markerRef.current = window.L.marker(center, { icon: redIcon }).addTo(mapInstanceRef.current);
             } else {
                 // Remove marker if center is null/undefined
                 if (markerRef.current) {

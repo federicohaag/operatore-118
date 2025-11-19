@@ -3,11 +3,46 @@ import styles from './Logistica.module.css';
 import { useAppSelector } from '../../../core/redux/hooks';
 import { selectEvents } from '../../../core/redux/slices/events';
 import { selectCallById } from '../../../core/redux/slices/calls';
+import { selectVehicles } from '../../../core/redux/slices/settings';
 import { Luogo, LUOGO_ICON_MAP, Motivo, MOTIVO_ICON_MAP } from '../../../model/eventDetails';
+import type { Vehicle } from '../../../model/vehicle';
 
-export default function Logistica() {
+type LogisticaProps = {
+    onStationSelect?: (coordinates: [number, number]) => void;
+};
+
+export default function Logistica({ onStationSelect }: LogisticaProps) {
     const events = useAppSelector(selectEvents);
+    const vehicles = useAppSelector(selectVehicles);
     const [expandedEventId, setExpandedEventId] = useState<string | null>(null);
+    const [selectedVehicles, setSelectedVehicles] = useState<Set<string>>(new Set());
+    const [vehicleTypeFilter, setVehicleTypeFilter] = useState<string>('all');
+
+    const filteredVehicles = vehicleTypeFilter === 'all' 
+        ? vehicles 
+        : vehicles.filter(v => v.vehicleType === vehicleTypeFilter);
+
+    const handleVehicleCheckbox = (radioName: string) => {
+        setSelectedVehicles(prev => {
+            const newSet = new Set(prev);
+            if (newSet.has(radioName)) {
+                newSet.delete(radioName);
+            } else {
+                newSet.add(radioName);
+            }
+            return newSet;
+        });
+    };
+
+    const handleStationClick = (vehicle: Vehicle) => {
+        if (onStationSelect) {
+            const coords: [number, number] = [
+                vehicle.station.coordinates.latitude,
+                vehicle.station.coordinates.longitude
+            ];
+            onStationSelect(coords);
+        }
+    };
 
     return (
         <div className={styles['logistica-container']}>
@@ -75,6 +110,71 @@ export default function Logistica() {
                     })}
                 </div>
             )}
+
+            <div className={styles['vehicles-section']}>
+                <div className={styles['vehicles-header']}>
+                    <h3 className={styles['section-title']}>Mezzi</h3>
+                    <div className={styles['vehicle-filter']}>
+                        <button 
+                            className={`${styles['filter-button']} ${vehicleTypeFilter === 'all' ? styles['filter-active'] : ''}`}
+                            onClick={() => setVehicleTypeFilter('all')}
+                        >
+                            Tutti
+                        </button>
+                        <button 
+                            className={`${styles['filter-button']} ${vehicleTypeFilter === 'MSB' ? styles['filter-active'] : ''}`}
+                            onClick={() => setVehicleTypeFilter('MSB')}
+                        >
+                            MSB
+                        </button>
+                        <button 
+                            className={`${styles['filter-button']} ${vehicleTypeFilter === 'MSA1' ? styles['filter-active'] : ''}`}
+                            onClick={() => setVehicleTypeFilter('MSA1')}
+                        >
+                            MSA1
+                        </button>
+                        <button 
+                            className={`${styles['filter-button']} ${vehicleTypeFilter === 'MSA2' ? styles['filter-active'] : ''}`}
+                            onClick={() => setVehicleTypeFilter('MSA2')}
+                        >
+                            MSA2
+                        </button>
+                    </div>
+                </div>
+                {vehicles.length === 0 ? (
+                    <p className={styles['empty-message']}>Nessun mezzo disponibile</p>
+                ) : filteredVehicles.length === 0 ? (
+                    <p className={styles['empty-message']}>Nessun mezzo di questo tipo</p>
+                ) : (
+                    <div className={styles['vehicles-list']}>
+                        {filteredVehicles.map((vehicle, index) => (
+                            <div key={`${vehicle.radioName}-${index}`} className={styles['vehicle-item']}>
+                                <input
+                                    type="checkbox"
+                                    id={`vehicle-${vehicle.radioName}-${index}`}
+                                    checked={selectedVehicles.has(vehicle.radioName)}
+                                    onChange={() => handleVehicleCheckbox(vehicle.radioName)}
+                                    className={styles['vehicle-checkbox']}
+                                />
+                                <label htmlFor={`vehicle-${vehicle.radioName}-${index}`} className={styles['vehicle-label']}>
+                                    <span className={styles['vehicle-radio-name']}>{vehicle.radioName}</span>
+                                    <span 
+                                        className={styles['vehicle-station']} 
+                                        onClick={(e) => {
+                                            e.preventDefault();
+                                            handleStationClick(vehicle);
+                                        }}
+                                        title="Clicca per centrare sulla mappa"
+                                    >
+                                        {vehicle.station.name}
+                                    </span>
+                                    <span className={styles['vehicle-type']}>{vehicle.vehicleType}</span>
+                                </label>
+                            </div>
+                        ))}
+                    </div>
+                )}
+            </div>
         </div>
     );
 }

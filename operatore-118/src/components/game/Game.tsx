@@ -283,7 +283,7 @@ export default function Game() {
                 <div className={styles['tab-content']}>
                     {activeTab === 'chiamate' && <CallTaker clock={virtualClock} onCallSelect={setMapCenter} onSpeak={ttsEnabled ? speak : undefined} />}
                     {activeTab === 'sanitario' && <Sanitario />}
-                    {activeTab === 'logistica' && <Logistica />}
+                    {activeTab === 'logistica' && <Logistica onStationSelect={setMapCenter} />}
                 </div>
                 </div>
             </div>
