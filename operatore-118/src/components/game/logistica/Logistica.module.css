@@ -283,13 +283,25 @@
 
 .vehicle-label {
     display: grid;
-    grid-template-columns: 120px 1fr 60px;
+    grid-template-columns: 60px 120px 1fr;
     align-items: center;
     gap: 12px;
     margin-left: 10px;
     cursor: pointer;
     flex: 1;
     font-size: 0.85em;
+}
+
+.vehicle-type {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2px 8px;
+    background-color: #f3f4f6;
+    border: 2px solid #d1d5db;
+    font-weight: 700;
+    font-size: 0.85em;
+    color: #111827;
 }
 
 .vehicle-radio-name {
@@ -300,6 +312,7 @@
 .vehicle-station-container {
     display: flex;
     align-items: center;
+    justify-content: flex-end;
 }
 
 .vehicle-station {
@@ -320,16 +333,4 @@
 .vehicle-station:hover {
     background-color: #e5e7eb;
     border-color: #9ca3af;
-}
-
-.vehicle-type {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    padding: 2px 8px;
-    background-color: #f3f4f6;
-    border: 2px solid #d1d5db;
-    font-weight: 700;
-    font-size: 0.85em;
-    color: #111827;
 }

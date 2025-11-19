@@ -157,6 +157,7 @@ export default function Logistica({ onStationSelect }: LogisticaProps) {
                                     className={styles['vehicle-checkbox']}
                                 />
                                 <label htmlFor={`vehicle-${vehicle.radioName}-${index}`} className={styles['vehicle-label']}>
+                                    <span className={styles['vehicle-type']}>{vehicle.vehicleType}</span>
                                     <span className={styles['vehicle-radio-name']}>{vehicle.radioName}</span>
                                     <span className={styles['vehicle-station-container']}>
                                         <span 
@@ -170,7 +171,6 @@ export default function Logistica({ onStationSelect }: LogisticaProps) {
                                             📍 {vehicle.station.name}
                                         </span>
                                     </span>
-                                    <span className={styles['vehicle-type']}>{vehicle.vehicleType}</span>
                                 </label>
                             </div>
                         ))}
