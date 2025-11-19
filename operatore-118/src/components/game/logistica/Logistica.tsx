@@ -113,7 +113,6 @@ export default function Logistica({ onStationSelect }: LogisticaProps) {
 
             <div className={styles['vehicles-section']}>
                 <div className={styles['vehicles-header']}>
-                    <h3 className={styles['section-title']}>Mezzi</h3>
                     <div className={styles['vehicle-filter']}>
                         <button 
                             className={`${styles['filter-button']} ${vehicleTypeFilter === 'all' ? styles['filter-active'] : ''}`}
