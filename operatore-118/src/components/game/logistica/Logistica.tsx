@@ -22,6 +22,19 @@ export default function Logistica({ onStationSelect }: LogisticaProps) {
         ? vehicles 
         : vehicles.filter(v => v.vehicleType === vehicleTypeFilter);
 
+    // Sort events by color priority (ROSSO > GIALLO > VERDE) and then by timestamp (oldest first)
+    const sortedEvents = [...events].sort((a, b) => {
+        const colorPriority = { 'ROSSO': 0, 'GIALLO': 1, 'VERDE': 2 };
+        const priorityA = colorPriority[a.details.codice as keyof typeof colorPriority] ?? 999;
+        const priorityB = colorPriority[b.details.codice as keyof typeof colorPriority] ?? 999;
+        
+        if (priorityA !== priorityB) {
+            return priorityA - priorityB;
+        }
+        
+        return a.createdAt - b.createdAt;
+    });
+
     const handleVehicleCheckbox = (radioName: string) => {
         setSelectedVehicles(prev => {
             const newSet = new Set(prev);
@@ -50,7 +63,7 @@ export default function Logistica({ onStationSelect }: LogisticaProps) {
                 <p className={styles['empty-message']}>Nessun evento creato</p>
             ) : (
                 <div className={styles['events-list']}>
-                    {events.map((event) => {
+                    {sortedEvents.map((event) => {
                         const isExpanded = expandedEventId === event.id;
                         const toggleExpand = () => {
                             if (!isExpanded) {

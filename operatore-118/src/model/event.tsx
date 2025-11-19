@@ -21,4 +21,7 @@ export type Event = {
     
     /** Missions assigned to this event */
     missions: Mission[];
+    
+    /** Timestamp when the event was created (milliseconds since epoch) */
+    createdAt: number;
 };
