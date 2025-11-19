@@ -8,10 +8,9 @@ export interface AddressGeneratorConfig {
   refillAmount?: number; // default: 10
 }
 
-interface CityWeight {
+interface CityWithWeight {
   city: City;
-  addressCount: number;
-  weight: number; // Based on population ratio
+  weight: number;
 }
 
 /**
@@ -25,7 +24,7 @@ interface CityWeight {
  */
 export class AddressGenerator {
   private config: AddressGeneratorConfig;
-  private cityWeights: CityWeight[] = [];
+  private cityWeights: CityWithWeight[] = [];
   private totalWeight = 0;
   private initialized = false;
   private addressBuffer: Address[] = [];
@@ -58,9 +57,8 @@ export class AddressGenerator {
     if (!totalPop) throw new Error('Cities must have population data');
     
     const minPop = Math.min(...valid.map(i => i.city.population));
-    this.cityWeights = valid.map(({ city, count }) => ({
+    this.cityWeights = valid.map(({ city }) => ({
       city,
-      addressCount: count,
       weight: Math.max(1, Math.round(city.population / minPop))
     }));
     
@@ -100,7 +98,8 @@ export class AddressGenerator {
       random -= cw.weight;
     }
     
-    const index = Math.floor(Math.random() * selected.addressCount);
+    const count = await this.getAddressCountForCity(selected.city);
+    const index = Math.floor(Math.random() * count);
     return this.loadAddressAtIndex(selected.city, index);
   }
 
@@ -141,15 +140,16 @@ export class AddressGenerator {
     return this.addressBuffer.length;
   }
 
-  getAddressCount(istatCode: string): number {
-    return this.cityWeights.find(w => w.city.istat === istatCode)?.addressCount ?? 0;
+  async getAddressCount(istatCode: string): Promise<number> {
+    const city = this.cityWeights.find(w => w.city.istat === istatCode)?.city;
+    return city ? this.getAddressCountForCity(city) : 0;
   }
 
   getTotalAddressCount(): number {
     return this.totalWeight;
   }
 
-  getCityWeights(): ReadonlyArray<Readonly<CityWeight>> {
+  getCityWeights(): ReadonlyArray<Readonly<CityWithWeight>> {
     return this.cityWeights;
   }
 }
