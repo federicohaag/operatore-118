@@ -11,7 +11,8 @@
     "test": "vitest",
     "test:ui": "vitest --ui",
     "fetch-addresses": "tsx scripts/fetch-addresses.ts",
-    "import-cities": "tsx scripts/import-cities.ts"
+    "import-cities": "tsx scripts/import-cities.ts",
+    "import-vehicles": "tsx scripts/import-vehicles.ts"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^2.9.0",

@@ -1,5 +1,6 @@
 import type { Hospital } from './hospital';
 import type { City } from './location';
+import type { Vehicle } from './vehicle';
 
 /**
  * Status of a region's implementation in the simulation
@@ -72,4 +73,7 @@ export type DispatchCenter = {
     
     /** List of cities covered by this dispatch center */
     cities: City[];
+    
+    /** List of emergency vehicles assigned to this dispatch center */
+    vehicles: Vehicle[];
 }

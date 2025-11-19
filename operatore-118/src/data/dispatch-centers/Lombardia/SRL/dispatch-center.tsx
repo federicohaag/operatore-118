@@ -1,5 +1,6 @@
 import type { DispatchCenter } from '../../../../model/region';
 import { SRL_CITIES } from './cities';
+import { SRL_VEHICLES } from './vehicles';
 
 /**
  * SOREU Laghi dispatch center
@@ -9,5 +10,6 @@ export const DC_SOREU_LAGHI: DispatchCenter = {
     label: 'SOREU Laghi',
     latitude: 45.4642,
     longitude: 9.1900,
-    cities: SRL_CITIES
+    cities: SRL_CITIES,
+    vehicles: SRL_VEHICLES
 };

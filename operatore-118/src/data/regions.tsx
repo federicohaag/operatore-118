@@ -1,15 +1,8 @@
 
 import {type Region, RegionStatus} from '../model/region';
 import * as hospitals from './hospitals';
-import * as calabria from './dispatch-centers/Calabria/dispatch-centers';
-import * as emiliaRomagna from './dispatch-centers/Emilia-Romagna/dispatch-centers';
-import * as lazio from './dispatch-centers/Lazio/dispatch-centers';
-import * as liguria from './dispatch-centers/Liguria/dispatch-centers';
 import * as lombardia from './dispatch-centers/Lombardia/dispatch-centers';
-import * as puglia from './dispatch-centers/Puglia/dispatch-centers';
-import * as sardegna from './dispatch-centers/Sardegna/dispatch-centers';
-import * as veneto from './dispatch-centers/Veneto/dispatch-centers';
-// TODO: dispatch centers coordinates are random, should be put correctly
+
 export const ABRUZZO: Region = { 
     id: 'abruzzo', 
     label: 'Abruzzo', 
@@ -27,8 +20,7 @@ export const BASILICATA: Region = {
 export const CALABRIA: Region = { 
     id: 'calabria',
     label: 'Calabria', 
-    status: RegionStatus.Available, 
-    dispatchCenters: calabria.CALABRIA_DISPATCH_CENTERS,
+    status: RegionStatus.WorkInProgress, 
     hospitals: []
 };
 export const CAMPANIA: Region = { 
@@ -41,8 +33,7 @@ export const CAMPANIA: Region = {
 export const EMILIA_ROMAGNA: Region = { 
     id: 'emilia-romagna',
     label: 'Emilia-Romagna', 
-    status: RegionStatus.Available,
-    dispatchCenters: emiliaRomagna.EMILIA_ROMAGNA_DISPATCH_CENTERS,
+    status: RegionStatus.WorkInProgress,
     hospitals: []
 };
 
@@ -55,16 +46,14 @@ export const FRIULI_VENEZIA_GIULIA: Region = {
 export const LAZIO: Region = { 
     id: 'lazio',
     label: 'Lazio', 
-    status: RegionStatus.Available,
-    dispatchCenters: lazio.LAZIO_DISPATCH_CENTERS,
+    status: RegionStatus.WorkInProgress,
     hospitals: []
 };
 
 export const LIGURIA: Region = { 
     id: 'liguria',
     label: 'Liguria', 
-    status: RegionStatus.Available,
-    dispatchCenters: liguria.LIGURIA_DISPATCH_CENTERS,
+    status: RegionStatus.WorkInProgress,
     hospitals: []
 };
 
@@ -100,16 +89,14 @@ export const PIEMONTE: Region = {
 export const PUGLIA: Region = { 
     id: 'puglia',
     label: 'Puglia', 
-    status: RegionStatus.Available,
-    dispatchCenters: puglia.PUGLIA_DISPATCH_CENTERS,
+    status: RegionStatus.WorkInProgress,
     hospitals: []
 };
 
 export const SARDEGNA: Region = { 
     id: 'sardegna',
     label: 'Sardegna', 
-    status: RegionStatus.Available,
-    dispatchCenters: sardegna.SARDEGNA_DISPATCH_CENTERS,
+    status: RegionStatus.WorkInProgress,
     hospitals: []
 };
 export const SICILIA: Region = { 
@@ -150,7 +137,6 @@ export const VALLE_D_AOSTA: Region = {
 export const VENETO: Region = { 
     id: 'veneto',
     label: 'Veneto', 
-    status: RegionStatus.Available,
-    dispatchCenters: veneto.VENETO_DISPATCH_CENTERS,
+    status: RegionStatus.WorkInProgress,
     hospitals: []
 };
