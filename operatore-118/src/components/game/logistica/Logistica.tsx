@@ -83,18 +83,16 @@ export default function Logistica({ onStationSelect }: LogisticaProps) {
                                             </>
                                         );
                                     })()}
-                                    {isExpanded && (
-                                        <button 
-                                            className={styles['close-button']} 
-                                            onClick={(e) => {
-                                                e.stopPropagation();
-                                                toggleExpand();
-                                            }}
-                                            title="Chiudi"
-                                        >
-                                            ✕
-                                        </button>
-                                    )}
+                                    <button 
+                                        className={`${styles['toggle-button']} ${isExpanded ? styles['expanded'] : ''}`}
+                                        onClick={(e) => {
+                                            e.stopPropagation();
+                                            toggleExpand();
+                                        }}
+                                        title={isExpanded ? "Chiudi" : "Espandi"}
+                                    >
+                                        ►
+                                    </button>
                                 </div>
                                 {isExpanded && (
                                     <div className={styles['event-body']}>

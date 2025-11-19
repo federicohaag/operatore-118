@@ -61,20 +61,30 @@
     cursor: pointer;
 }
 
-.close-button {
+.toggle-button {
     margin-left: auto;
     background: none;
     border: none;
-    font-size: 20px;
+    font-size: 16px;
     color: #374151;
     cursor: pointer;
     padding: 4px 8px;
     line-height: 1;
-    transition: color 0.2s;
+    transition: transform 0.3s ease, color 0.2s;
+    outline: none;
+    transform: rotate(0deg);
 }
 
-.close-button:hover {
-    color: #dc2626;
+.toggle-button:hover {
+    color: #3b82f6;
+}
+
+.toggle-button:focus {
+    outline: none;
+}
+
+.toggle-button.expanded {
+    transform: rotate(90deg);
 }
 
 .expand-icon {
