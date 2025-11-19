@@ -1,21 +1,6 @@
 import type { Address, City } from '../model/location';
 
 /**
- * Weight range definition for city tier assignment.
- * 
- * Defines a percentage range and its associated weight. Ranges are applied
- * sequentially from lowest to highest address count cities.
- * 
- * Example: { percentage: 20, weight: 2 } means "the lowest 20% of cities get weight 2"
- */
-export interface WeightRange {
-  /** Percentage of cities in this tier (0-100) */
-  percentage: number;
-  /** Weight to assign to cities in this tier */
-  weight: number;
-}
-
-/**
  * Configuration options for AddressGenerator.
  */
 export interface AddressGeneratorConfig {
@@ -29,21 +14,6 @@ export interface AddressGeneratorConfig {
   refillThreshold?: number;
   /** Number of addresses to add when refilling (default: 10) */
   refillAmount?: number;
-  /**
-   * Weight ranges for city tier assignment (default: 20%=1, 60%=2, 20%=4).
-   * 
-   * Defines how to assign weights based on city address counts.
-   * Ranges are applied sequentially from lowest to highest address count.
-   * The sum of all percentages should equal 100.
-   * 
-   * Examples:
-   * - [{ percentage: 20, weight: 2 }, { percentage: 30, weight: 5 }, { percentage: 50, weight: 4 }]
-   *   means: lowest 20% get weight 2, next 30% get weight 5, remaining 50% get weight 4
-   * 
-   * - [{ percentage: 50, weight: 1 }, { percentage: 50, weight: 3 }]
-   *   means: lowest 50% get weight 1, highest 50% get weight 3
-   */
-  weightRanges?: WeightRange[];
 }
 
 /**
@@ -169,46 +139,26 @@ export class AddressGenerator {
       addressCount: count
     }));
     
-    // Sort cities by address count (ascending: lowest to highest)
-    const sortedByCount = [...cityWeightsWithCounts].sort((a, b) => a.addressCount - b.addressCount);
+    // Calculate total population
+    const totalPopulation = cityWeightsWithCounts.reduce((sum, cityInfo) => sum + cityInfo.city.population, 0);
     
-    // Get weight ranges configuration (default: 20%=1, 60%=2, 20%=4)
-    const weightRanges = this.config.weightRanges ?? [
-      { percentage: 8, weight: 1 },
-      { percentage: 90, weight: 10 },
-      { percentage: 2, weight: 1000 }
-    ];
-    
-    // Validate weight ranges sum to 100%
-    const totalPercentage = weightRanges.reduce((sum, range) => sum + range.percentage, 0);
-    if (Math.abs(totalPercentage - 100) > 0.01) {
-      throw new Error(
-        `Weight ranges must sum to 100%, got ${totalPercentage}%. ` +
-        `Ranges: ${weightRanges.map(r => `${r.percentage}%=${r.weight}`).join(', ')}`
-      );
+    if (totalPopulation === 0) {
+      throw new Error('Total population is 0. Cities must have population data.');
     }
     
-    // Assign weights based on configured ranges
-    this.cityWeights = sortedByCount.map((cityInfo, index) => {
-      // Find which range this city falls into
-      let cumulativePercentage = 0;
-      let assignedWeight = weightRanges[weightRanges.length - 1].weight; // fallback to last range
-      
-      for (const range of weightRanges) {
-        const rangeEndIndex = Math.ceil(sortedByCount.length * (cumulativePercentage + range.percentage) / 100);
-        
-        if (index < rangeEndIndex) {
-          assignedWeight = range.weight;
-          break;
-        }
-        
-        cumulativePercentage += range.percentage;
-      }
+    // Assign weights based on population ratio
+    // Weight is proportional to population, normalized so smallest city has weight ~1
+    const minPopulation = Math.min(...cityWeightsWithCounts.map(c => c.city.population));
+    
+    this.cityWeights = cityWeightsWithCounts.map((cityInfo) => {
+      // Calculate weight as population ratio relative to minimum population
+      // This ensures smallest city gets weight ~1 and others are proportionally higher
+      const weight = Math.max(1, Math.round(cityInfo.city.population / minPopulation));
       
       return {
         city: cityInfo.city,
         addressCount: cityInfo.addressCount,
-        weight: assignedWeight
+        weight
       };
     });
     
@@ -216,7 +166,8 @@ export class AddressGenerator {
     this.totalWeight = this.cityWeights.reduce((sum, w) => sum + w.weight, 0);
     
     console.log(`AddressGenerator: Initialized with ${this.cityWeights.length} cities, ${this.totalWeight} total weight`);
-    console.log(`  Weights: ${this.cityWeights.map(w => `${w.city.name}=${w.weight} (${w.addressCount} addrs)`).join(', ')}`);
+    console.log(`  Total population: ${totalPopulation.toLocaleString()}`);
+    console.log(`  Weights by population: ${this.cityWeights.map(w => `${w.city.name}=${w.weight} (pop: ${w.city.population.toLocaleString()}, ${w.addressCount} addrs)`).join(', ')}`);
     
     // Pre-load initial buffer
     const bufferSize = this.config.initialBufferSize ?? 10;
