@@ -13,11 +13,13 @@ import { AddressGenerator } from '../../core/AddressGenerator';
 import { CALL_GENERATOR_CONFIG } from '../../core/config';
 import type { SimContext } from '../../core/EventQueue';
 import { useAppSelector, useAppDispatch } from '../../core/redux/hooks';
-import { selectRegion, selectDispatchCenter, selectCities, clearSettings, selectTtsEnabled, setTtsEnabled, selectCallEmissionEnabled, setCallEmissionEnabled } from '../../core/redux/slices/settings';
+import { selectRegion, selectDispatchCenter, selectCities, selectVehicles, clearSettings, selectTtsEnabled, setTtsEnabled, selectCallEmissionEnabled, setCallEmissionEnabled } from '../../core/redux/slices/settings';
 import { clearCalls, selectCalls } from '../../core/redux/slices/calls';
 import { selectEvents, clearEvents } from '../../core/redux/slices/events';
 import { STORAGE_STATE_KEY } from '../../core/redux/constants';
 import { REGIONS } from '../../model/aggregates';
+import { extractStations } from '../../model/vehicle';
+import type { Station } from '../map/Map';
 import phoneRingSound from '../../assets/phone_ring.mp3';
 
 export default function Game() {
@@ -25,6 +27,7 @@ export default function Game() {
     const [mapCenter, setMapCenter] = useState<[number, number] | undefined>(undefined);
     const dispatch = useAppDispatch();
     const cities = useAppSelector(selectCities);
+    const vehicles = useAppSelector(selectVehicles);
     const unprocessedCalls = useAppSelector(selectCalls);
     const events = useAppSelector(selectEvents);
     const ttsEnabled = useAppSelector(selectTtsEnabled);
@@ -112,11 +115,14 @@ export default function Game() {
             throw new Error('Region and dispatch center must be selected before creating AddressGenerator');
         }
         
+        // Get cities from dispatch center (not from Redux state which may not be loaded yet)
+        const dispatchCenterCities = selectedDispatchCenter.cities || [];
+        
         // Address files are now in a global addresses folder
         const addressesPath = '../data/addresses';
         
         const addressGenerator = new AddressGenerator({ 
-            cities: cities,
+            cities: dispatchCenterCities,
             addressesPath: addressesPath
         });
         const callGenerator = new CallGenerator(scheduler, CALL_GENERATOR_CONFIG, addressGenerator);
@@ -210,6 +216,17 @@ export default function Game() {
         return [41.8719, 12.5674];
     }, [selectedDispatchCenter?.latitude, selectedDispatchCenter?.longitude]);
 
+    // Extract unique stations from vehicles for map display
+    const stations = useMemo((): Station[] => {
+        console.log('🚑 Vehicles count:', vehicles.length);
+        const extractedStations = extractStations(vehicles).map(station => ({
+            name: station.name,
+            coordinates: [station.coordinates.latitude, station.coordinates.longitude] as [number, number]
+        }));
+        console.log('📍 Stations extracted:', extractedStations.length);
+        return extractedStations;
+    }, [vehicles]);
+
     const handleReset = () => {
         // Clear localStorage completely
         localStorage.removeItem(STORAGE_STATE_KEY);
@@ -241,7 +258,7 @@ export default function Game() {
             </div>
                         <div className={styles['content-row']}>
                 <div className={styles['left-column']}>
-                    <Map initCenter={initCenter} center={mapCenter} />
+                    <Map initCenter={initCenter} center={mapCenter} stations={stations} />
                 </div>
                 <div className={styles['right-column']}>
                 <div className={styles['tabs-header']}>

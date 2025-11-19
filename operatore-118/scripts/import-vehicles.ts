@@ -33,8 +33,10 @@ interface VehicleJson {
 }
 
 interface VehicleData {
-  stationName: string;
-  stationCoordinatesString: string;
+  station: {
+    name: string;
+    coordinates: { latitude: number; longitude: number };
+  };
   vehicleType: string;
   radioName: string;
   convention: string;
@@ -110,9 +112,24 @@ async function readVehiclesFromJson(jsonFilePath: string): Promise<VehicleData[]
         continue;
       }
       
+      // Parse coordinates
+      const coordParts = record["Coordinate Postazione"].trim().split(',');
+      if (coordParts.length !== 2) {
+        console.warn(`⚠️  Skipping vehicle with invalid coordinates: ${record["Coordinate Postazione"]}`);
+        continue;
+      }
+      const latitude = parseFloat(coordParts[0].trim());
+      const longitude = parseFloat(coordParts[1].trim());
+      if (isNaN(latitude) || isNaN(longitude)) {
+        console.warn(`⚠️  Skipping vehicle with invalid coordinate values: ${record["Coordinate Postazione"]}`);
+        continue;
+      }
+      
       vehicles.push({
-        stationName: record["Nome Postazione"].trim(),
-        stationCoordinatesString: record["Coordinate Postazione"].trim(),
+        station: {
+          name: record["Nome Postazione"].trim(),
+          coordinates: { latitude, longitude }
+        },
         vehicleType,
         radioName: record["Nome radio"].trim(),
         convention,
@@ -209,20 +226,19 @@ function generateNewVehiclesFileContent(
   // Generate new vehicle objects
   const newVehicleObjects: string[] = [];
   for (const vehicle of vehiclesToAdd) {
-    const escapedStationName = vehicle.stationName.replace(/"/g, '\\"');
+    const escapedStationName = vehicle.station.name.replace(/"/g, '\\"');
     const escapedRadioName = vehicle.radioName.replace(/"/g, '\\"');
     const escapedWorkingHours = vehicle.workingHours.replace(/"/g, '\\"');
     const escapedDays = vehicle.days.replace(/"/g, '\\"');
     
-    // Parse coordinates
-    const [lat, lon] = vehicle.stationCoordinatesString.split(',').map(s => s.trim());
-    
     const vehicleObj = `{
-    stationName: "${escapedStationName}",
-    stationCoordinates: { latitude: ${lat}, longitude: ${lon} },
-    vehicleType: "${vehicle.vehicleType}" as const,
+    station: {
+      name: "${escapedStationName}",
+      coordinates: { latitude: ${vehicle.station.coordinates.latitude}, longitude: ${vehicle.station.coordinates.longitude} }
+    },
+    vehicleType: VehicleType.${vehicle.vehicleType},
     radioName: "${escapedRadioName}",
-    convention: "${vehicle.convention}" as const,
+    convention: ConventionType.${vehicle.convention},
     schedule: {
       workingHours: "${escapedWorkingHours}",
       days: "${escapedDays}"
@@ -241,10 +257,18 @@ function generateNewVehiclesFileContent(
     : `export const ${arrayName}: Vehicle[] = [];`;
   
   // Replace the array in the content
-  const newContent = existing.content.replace(
+  let newContent = existing.content.replace(
     /export const \w+_VEHICLES: Vehicle\[\] = \[[\s\S]*?\];/,
     newArrayContent
   );
+  
+  // Ensure imports include VehicleType and ConventionType if there are vehicles
+  if (allVehicles.length > 0 && !existing.content.includes('VehicleType')) {
+    newContent = newContent.replace(
+      /import type { Vehicle } from ['"]..\/..\/..\/..\/model\/vehicle['"];/,
+      `import type { Vehicle } from '../../../../model/vehicle';\nimport { VehicleType, ConventionType } from '../../../../model/vehicle';`
+    );
+  }
   
   return newContent;
 }

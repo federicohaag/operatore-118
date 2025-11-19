@@ -84,6 +84,17 @@ export type Coordinates = {
 };
 
 /**
+ * Represents a vehicle station location
+ */
+export type Station = {
+    /** Name of the station */
+    name: string;
+    
+    /** Geographic coordinates of the station */
+    coordinates: Coordinates;
+};
+
+/**
  * Represents an emergency vehicle stationed at a specific location
  * 
  * Vehicles are the primary response resources in the 118 system. Each vehicle
@@ -92,11 +103,8 @@ export type Coordinates = {
  * based on its type (MSB, MSA1, MSA2).
  */
 export type Vehicle = {
-    /** Name of the station where the vehicle is based */
-    stationName: string;
-    
-    /** Geographic coordinates of the station */
-    stationCoordinates: Coordinates;
+    /** Station where the vehicle is based */
+    station: Station;
     
     /** Type of vehicle indicating medical capabilities */
     vehicleType: VehicleType;
@@ -142,4 +150,25 @@ export function parseCoordinates(coordinateString: string): Coordinates {
  */
 export function formatCoordinates(coordinates: Coordinates): string {
     return `${coordinates.latitude},${coordinates.longitude}`;
+}
+
+/**
+ * Extracts unique stations from a list of vehicles
+ * 
+ * Multiple vehicles can be stationed at the same location. This function
+ * deduplicates stations by name and returns a unique list.
+ * 
+ * @param vehicles Array of vehicles to extract stations from
+ * @returns Array of unique stations with their coordinates
+ */
+export function extractStations(vehicles: Vehicle[]): Station[] {
+    const stationsMap = new Map<string, Station>();
+    
+    vehicles.forEach(vehicle => {
+        if (!stationsMap.has(vehicle.station.name)) {
+            stationsMap.set(vehicle.station.name, vehicle.station);
+        }
+    });
+    
+    return Array.from(stationsMap.values());
 }
