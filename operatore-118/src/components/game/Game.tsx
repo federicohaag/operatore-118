@@ -112,10 +112,8 @@ export default function Game() {
             throw new Error('Region and dispatch center must be selected before creating AddressGenerator');
         }
         
-        // Construct addressesPath based on region and dispatch center
-        // Note: paths must be relative to AddressGenerator.ts (src/core/) for Vite's dynamic import
-        // Use dispatch center ID (not label) as it matches the directory structure
-        const addressesPath = `../data/dispatch-centers/${selectedRegion.label}/${selectedDispatchCenter.id}/addresses`;
+        // Address files are now in a global addresses folder
+        const addressesPath = '../data/addresses';
         
         const addressGenerator = new AddressGenerator({ 
             cities: cities,
