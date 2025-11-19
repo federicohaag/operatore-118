@@ -218,12 +218,10 @@ export default function Game() {
 
     // Extract unique stations from vehicles for map display
     const stations = useMemo((): Station[] => {
-        console.log('🚑 Vehicles count:', vehicles.length);
         const extractedStations = extractStations(vehicles).map(station => ({
             name: station.name,
             coordinates: [station.coordinates.latitude, station.coordinates.longitude] as [number, number]
         }));
-        console.log('📍 Stations extracted:', extractedStations.length);
         return extractedStations;
     }, [vehicles]);
 
