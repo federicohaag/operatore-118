@@ -53,12 +53,16 @@ export default function Logistica({ onStationSelect }: LogisticaProps) {
                     {events.map((event) => {
                         const isExpanded = expandedEventId === event.id;
                         const toggleExpand = () => {
+                            if (!isExpanded) {
+                                // Reset checkboxes when expanding
+                                setSelectedVehicles(new Set());
+                            }
                             setExpandedEventId(isExpanded ? null : event.id);
                         };
 
                         return (
-                            <div key={event.id} className={`${styles['event-card']} ${event.missions.length === 0 ? styles['no-missions'] : ''}`} onClick={toggleExpand}>
-                                <div className={styles['event-header']}>
+                            <div key={event.id} className={`${styles['event-card']} ${event.missions.length === 0 ? styles['no-missions'] : ''}`}>
+                                <div className={styles['event-header']} onClick={toggleExpand}>
                                     <span className={styles['event-code']} style={{ 
                                         backgroundColor: getColoreCodice(event.details.codice),
                                         color: 'white'
@@ -79,6 +83,18 @@ export default function Logistica({ onStationSelect }: LogisticaProps) {
                                             </>
                                         );
                                     })()}
+                                    {isExpanded && (
+                                        <button 
+                                            className={styles['close-button']} 
+                                            onClick={(e) => {
+                                                e.stopPropagation();
+                                                toggleExpand();
+                                            }}
+                                            title="Chiudi"
+                                        >
+                                            ✕
+                                        </button>
+                                    )}
                                 </div>
                                 {isExpanded && (
                                     <div className={styles['event-body']}>
@@ -103,6 +119,72 @@ export default function Logistica({ onStationSelect }: LogisticaProps) {
                                                 </div>
                                             );
                                         })}
+
+                                        <div className={styles['vehicles-section']}>
+                                            <div className={styles['vehicles-header']}>
+                                                <div className={styles['vehicle-filter']}>
+                                                    <button 
+                                                        className={`${styles['filter-button']} ${vehicleTypeFilter === 'all' ? styles['filter-active'] : ''}`}
+                                                        onClick={() => setVehicleTypeFilter('all')}
+                                                    >
+                                                        Tutti
+                                                    </button>
+                                                    <button 
+                                                        className={`${styles['filter-button']} ${vehicleTypeFilter === 'MSB' ? styles['filter-active'] : ''}`}
+                                                        onClick={() => setVehicleTypeFilter('MSB')}
+                                                    >
+                                                        MSB
+                                                    </button>
+                                                    <button 
+                                                        className={`${styles['filter-button']} ${vehicleTypeFilter === 'MSA1' ? styles['filter-active'] : ''}`}
+                                                        onClick={() => setVehicleTypeFilter('MSA1')}
+                                                    >
+                                                        MSA1
+                                                    </button>
+                                                    <button 
+                                                        className={`${styles['filter-button']} ${vehicleTypeFilter === 'MSA2' ? styles['filter-active'] : ''}`}
+                                                        onClick={() => setVehicleTypeFilter('MSA2')}
+                                                    >
+                                                        MSA2
+                                                    </button>
+                                                </div>
+                                            </div>
+                                            {vehicles.length === 0 ? (
+                                                <p className={styles['empty-message']}>Nessun mezzo disponibile</p>
+                                            ) : filteredVehicles.length === 0 ? (
+                                                <p className={styles['empty-message']}>Nessun mezzo di questo tipo</p>
+                                            ) : (
+                                                <div className={styles['vehicles-list']}>
+                                                    {filteredVehicles.map((vehicle, index) => (
+                                                        <div key={`${vehicle.radioName}-${index}`} className={styles['vehicle-item']}>
+                                                            <input
+                                                                type="checkbox"
+                                                                id={`vehicle-${vehicle.radioName}-${index}`}
+                                                                checked={selectedVehicles.has(vehicle.radioName)}
+                                                                onChange={() => handleVehicleCheckbox(vehicle.radioName)}
+                                                                className={styles['vehicle-checkbox']}
+                                                            />
+                                                            <label htmlFor={`vehicle-${vehicle.radioName}-${index}`} className={styles['vehicle-label']}>
+                                                                <span className={styles['vehicle-type']}>{vehicle.vehicleType}</span>
+                                                                <span className={styles['vehicle-radio-name']}>{vehicle.radioName}</span>
+                                                                <span className={styles['vehicle-station-container']}>
+                                                                    <span 
+                                                                        className={styles['vehicle-station']} 
+                                                                        onClick={(e) => {
+                                                                            e.preventDefault();
+                                                                            handleStationClick(vehicle);
+                                                                        }}
+                                                                        title="Clicca per centrare sulla mappa"
+                                                                    >
+                                                                        📍 {vehicle.station.name}
+                                                                    </span>
+                                                                </span>
+                                                            </label>
+                                                        </div>
+                                                    ))}
+                                                </div>
+                                            )}
+                                        </div>
                                     </div>
                                 )}
                             </div>
@@ -110,72 +192,6 @@ export default function Logistica({ onStationSelect }: LogisticaProps) {
                     })}
                 </div>
             )}
-
-            <div className={styles['vehicles-section']}>
-                <div className={styles['vehicles-header']}>
-                    <div className={styles['vehicle-filter']}>
-                        <button 
-                            className={`${styles['filter-button']} ${vehicleTypeFilter === 'all' ? styles['filter-active'] : ''}`}
-                            onClick={() => setVehicleTypeFilter('all')}
-                        >
-                            Tutti
-                        </button>
-                        <button 
-                            className={`${styles['filter-button']} ${vehicleTypeFilter === 'MSB' ? styles['filter-active'] : ''}`}
-                            onClick={() => setVehicleTypeFilter('MSB')}
-                        >
-                            MSB
-                        </button>
-                        <button 
-                            className={`${styles['filter-button']} ${vehicleTypeFilter === 'MSA1' ? styles['filter-active'] : ''}`}
-                            onClick={() => setVehicleTypeFilter('MSA1')}
-                        >
-                            MSA1
-                        </button>
-                        <button 
-                            className={`${styles['filter-button']} ${vehicleTypeFilter === 'MSA2' ? styles['filter-active'] : ''}`}
-                            onClick={() => setVehicleTypeFilter('MSA2')}
-                        >
-                            MSA2
-                        </button>
-                    </div>
-                </div>
-                {vehicles.length === 0 ? (
-                    <p className={styles['empty-message']}>Nessun mezzo disponibile</p>
-                ) : filteredVehicles.length === 0 ? (
-                    <p className={styles['empty-message']}>Nessun mezzo di questo tipo</p>
-                ) : (
-                    <div className={styles['vehicles-list']}>
-                        {filteredVehicles.map((vehicle, index) => (
-                            <div key={`${vehicle.radioName}-${index}`} className={styles['vehicle-item']}>
-                                <input
-                                    type="checkbox"
-                                    id={`vehicle-${vehicle.radioName}-${index}`}
-                                    checked={selectedVehicles.has(vehicle.radioName)}
-                                    onChange={() => handleVehicleCheckbox(vehicle.radioName)}
-                                    className={styles['vehicle-checkbox']}
-                                />
-                                <label htmlFor={`vehicle-${vehicle.radioName}-${index}`} className={styles['vehicle-label']}>
-                                    <span className={styles['vehicle-type']}>{vehicle.vehicleType}</span>
-                                    <span className={styles['vehicle-radio-name']}>{vehicle.radioName}</span>
-                                    <span className={styles['vehicle-station-container']}>
-                                        <span 
-                                            className={styles['vehicle-station']} 
-                                            onClick={(e) => {
-                                                e.preventDefault();
-                                                handleStationClick(vehicle);
-                                            }}
-                                            title="Clicca per centrare sulla mappa"
-                                        >
-                                            📍 {vehicle.station.name}
-                                        </span>
-                                    </span>
-                                </label>
-                            </div>
-                        ))}
-                    </div>
-                )}
-            </div>
         </div>
     );
 }

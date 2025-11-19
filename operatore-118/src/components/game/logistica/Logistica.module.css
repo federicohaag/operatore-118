@@ -32,7 +32,6 @@
     border: 2px solid #d1d5db;
     border-radius: 0;
     padding: 8px 10px;
-    cursor: pointer;
     transition: border-color 0.2s;
 }
 
@@ -58,6 +57,24 @@
     display: flex;
     align-items: center;
     gap: 8px;
+    position: relative;
+    cursor: pointer;
+}
+
+.close-button {
+    margin-left: auto;
+    background: none;
+    border: none;
+    font-size: 20px;
+    color: #374151;
+    cursor: pointer;
+    padding: 4px 8px;
+    line-height: 1;
+    transition: color 0.2s;
+}
+
+.close-button:hover {
+    color: #dc2626;
 }
 
 .expand-icon {
@@ -187,8 +204,8 @@
 
 /* Vehicles Section */
 .vehicles-section {
-    margin-top: 20px;
-    padding-top: 20px;
+    margin-top: 16px;
+    padding-top: 16px;
     border-top: 2px solid #d1d5db;
 }
 
