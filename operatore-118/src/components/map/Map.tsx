@@ -1,6 +1,7 @@
 import { useEffect, useRef } from 'react';
 import styles from './Map.module.css';
-import type { Event } from '../../model/event';
+import type { Call } from '../../model/call';
+import type { EventDetails } from '../../model/eventDetails';
 
 // Import Leaflet types
 declare global {
@@ -14,13 +15,19 @@ export type Station = {
     coordinates: [number, number];
 };
 
+export type EventLocation = {
+    id: string;
+    call: Call;
+    details: EventDetails;
+};
+
 type MapProps = {
     initCenter: [number, number];
     initZoom?: number;
     center?: [number, number];
     zoom?: number;
     stations?: Station[];
-    events?: Event[];
+    events?: EventLocation[];
 }
 
 export default function Map({ initCenter, initZoom = 10, center, zoom, stations = [], events = [] }: MapProps) {

@@ -276,17 +276,19 @@ function VehiclesList({
                                         <span className={styles['vehicle-radio-name']}>
                                             {vehicle.radioName} <span className={styles['vehicle-distance']}>({distance.toFixed(1)} km)</span>
                                         </span>
-                                        <div 
-                                            className={styles['vehicle-station-area']} 
-                                            onClick={(e) => {
-                                                e.preventDefault();
-                                                handleStationClick(vehicle);
-                                            }}
-                                        >
-                                            <span className={styles['vehicle-station']}>⌖</span>
-                                        </div>
                                     </div>
                                 </label>
+                                <div 
+                                    className={styles['vehicle-station-area']} 
+                                    onClick={(e) => {
+                                        e.preventDefault();
+                                        e.stopPropagation();
+                                        handleStationClick(vehicle);
+                                    }}
+                                    title={vehicle.station.name}
+                                >
+                                    <span className={styles['vehicle-station']}>⌖</span>
+                                </div>
                             </div>
                         );
                     })}

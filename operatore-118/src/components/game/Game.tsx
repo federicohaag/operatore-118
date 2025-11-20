@@ -35,6 +35,16 @@ export default function Game() {
     const selectedRegionId = useAppSelector(selectRegion);
     const selectedDispatchCenterId = useAppSelector(selectDispatchCenter);
     
+    // Memoize event locations to prevent Map re-render when missions change
+    const eventLocations = useMemo(() => 
+        events.map(e => ({
+            id: e.id,
+            call: e.call,
+            details: e.details
+        })),
+        [events.map(e => `${e.id}-${e.call.location.address.latitude}-${e.call.location.address.longitude}`).join(',')]
+    );
+    
     // Text-to-speech functionality (only the speak function, state is in Redux)
     const { speak } = useTextToSpeech();
     
@@ -256,7 +266,7 @@ export default function Game() {
             </div>
                         <div className={styles['content-row']}>
                 <div className={styles['left-column']}>
-                    <Map initCenter={initCenter} center={mapCenter} stations={stations} events={events} />
+                    <Map initCenter={initCenter} center={mapCenter} stations={stations} events={eventLocations} />
                 </div>
                 <div className={styles['right-column']}>
                 <div className={styles['tabs-header']}>
