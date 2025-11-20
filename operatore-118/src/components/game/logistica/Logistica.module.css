@@ -290,6 +290,20 @@
     border-color: #3b82f6;
 }
 
+.vehicle-item.vehicle-disabled {
+    opacity: 0.5;
+    background-color: #f3f4f6;
+    cursor: not-allowed;
+}
+
+.vehicle-item.vehicle-disabled:hover {
+    border-color: #d1d5db;
+}
+
+.vehicle-item.vehicle-disabled .vehicle-label {
+    cursor: not-allowed;
+}
+
 .vehicle-checkbox {
     margin: 0;
     cursor: pointer;

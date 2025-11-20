@@ -122,8 +122,9 @@ export default function Logistica({ clock, onStationSelect }: LogisticaProps) {
                         const isExpanded = expandedEventId === event.id;
                         const toggleExpand = () => {
                             if (!isExpanded) {
-                                // Reset checkboxes when expanding
-                                setSelectedVehicles(new Set());
+                                // Pre-populate selected vehicles from event's missions
+                                const missionVehicles = new Set(event.missions.map(m => m.vehicle.radioName));
+                                setSelectedVehicles(missionVehicles);
                             }
                             setExpandedEventId(isExpanded ? null : event.id);
                         };
@@ -157,24 +158,34 @@ export default function Logistica({ clock, onStationSelect }: LogisticaProps) {
                                         ►
                                     </button>
                                 </div>
-                                {isExpanded && (
-                                    <EventBody 
-                                        event={event}
-                                        eventLocation={{
-                                            lat: event.call.location.address.latitude,
-                                            lon: event.call.location.address.longitude
-                                        }}
-                                        vehicleTypeFilter={vehicleTypeFilter}
-                                        setVehicleTypeFilter={setVehicleTypeFilter}
-                                        vehicles={vehicles}
-                                        filteredVehicles={filteredVehicles}
-                                        selectedVehicles={selectedVehicles}
-                                        handleVehicleCheckbox={handleVehicleCheckbox}
-                                        eventId={event.id}
-                                        handleStationClick={handleStationClick}
-                                        getSortedVehicles={getSortedVehicles}
-                                    />
-                                )}
+                                {isExpanded && (() => {
+                                    // Get vehicles assigned to other events
+                                    const vehiclesInOtherEvents = new Set(
+                                        events
+                                            .filter(e => e.id !== event.id)
+                                            .flatMap(e => e.missions.map(m => m.vehicle.radioName))
+                                    );
+                                    
+                                    return (
+                                        <EventBody 
+                                            event={event}
+                                            eventLocation={{
+                                                lat: event.call.location.address.latitude,
+                                                lon: event.call.location.address.longitude
+                                            }}
+                                            vehicleTypeFilter={vehicleTypeFilter}
+                                            setVehicleTypeFilter={setVehicleTypeFilter}
+                                            vehicles={vehicles}
+                                            filteredVehicles={filteredVehicles}
+                                            selectedVehicles={selectedVehicles}
+                                            handleVehicleCheckbox={handleVehicleCheckbox}
+                                            eventId={event.id}
+                                            handleStationClick={handleStationClick}
+                                            getSortedVehicles={getSortedVehicles}
+                                            vehiclesInOtherEvents={vehiclesInOtherEvents}
+                                        />
+                                    );
+                                })()}
                             </div>
                         );
                     })}
@@ -196,6 +207,7 @@ type EventBodyProps = {
     eventId: string;
     handleStationClick: (vehicle: Vehicle) => void;
     getSortedVehicles: (lat: number, lon: number) => Vehicle[];
+    vehiclesInOtherEvents: Set<string>;
 };
 
 function EventBody({ 
@@ -209,7 +221,8 @@ function EventBody({
     handleVehicleCheckbox,
     eventId,
     handleStationClick,
-    getSortedVehicles 
+    getSortedVehicles,
+    vehiclesInOtherEvents
 }: EventBodyProps) {
     return (
         <div className={styles['event-body']}>
@@ -270,33 +283,40 @@ function EventBody({
                     <p className={styles['empty-message']}>Nessun mezzo di questo tipo</p>
                 ) : (
                     <div className={styles['vehicles-list']}>
-                        {getSortedVehicles(eventLocation.lat, eventLocation.lon).map((vehicle, index) => (
-                            <div key={`${vehicle.radioName}-${index}`} className={styles['vehicle-item']}>
-                                <input
-                                    type="checkbox"
-                                    id={`vehicle-${vehicle.radioName}-${index}`}
-                                    checked={selectedVehicles.has(vehicle.radioName)}
-                                    onChange={() => handleVehicleCheckbox(vehicle.radioName, eventId)}
-                                    className={styles['vehicle-checkbox']}
-                                />
-                                <label htmlFor={`vehicle-${vehicle.radioName}-${index}`} className={styles['vehicle-label']}>
-                                    <span className={styles['vehicle-type']}>{vehicle.vehicleType}</span>
-                                    <span className={styles['vehicle-radio-name']}>{vehicle.radioName}</span>
-                                    <span className={styles['vehicle-station-container']}>
-                                        <span 
-                                            className={styles['vehicle-station']} 
-                                            onClick={(e) => {
-                                                e.preventDefault();
-                                                handleStationClick(vehicle);
-                                            }}
-                                            title="Clicca per centrare sulla mappa"
-                                        >
-                                            📍 {vehicle.station.name}
+                        {getSortedVehicles(eventLocation.lat, eventLocation.lon).map((vehicle, index) => {
+                            const isInOtherEvent = vehiclesInOtherEvents.has(vehicle.radioName);
+                            return (
+                                <div 
+                                    key={`${vehicle.radioName}-${index}`} 
+                                    className={`${styles['vehicle-item']} ${isInOtherEvent ? styles['vehicle-disabled'] : ''}`}
+                                >
+                                    <input
+                                        type="checkbox"
+                                        id={`vehicle-${vehicle.radioName}-${index}`}
+                                        checked={selectedVehicles.has(vehicle.radioName)}
+                                        onChange={() => handleVehicleCheckbox(vehicle.radioName, eventId)}
+                                        className={styles['vehicle-checkbox']}
+                                        disabled={isInOtherEvent}
+                                    />
+                                    <label htmlFor={`vehicle-${vehicle.radioName}-${index}`} className={styles['vehicle-label']}>
+                                        <span className={styles['vehicle-type']}>{vehicle.vehicleType}</span>
+                                        <span className={styles['vehicle-radio-name']}>{vehicle.radioName}</span>
+                                        <span className={styles['vehicle-station-container']}>
+                                            <span 
+                                                className={styles['vehicle-station']} 
+                                                onClick={(e) => {
+                                                    e.preventDefault();
+                                                    handleStationClick(vehicle);
+                                                }}
+                                                title="Clicca per centrare sulla mappa"
+                                            >
+                                                📍 {vehicle.station.name}
+                                            </span>
                                         </span>
-                                    </span>
-                                </label>
-                            </div>
-                        ))}
+                                    </label>
+                                </div>
+                            );
+                        })}
                     </div>
                 )}
             </div>
