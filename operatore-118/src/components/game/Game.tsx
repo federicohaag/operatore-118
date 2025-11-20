@@ -256,7 +256,7 @@ export default function Game() {
             </div>
                         <div className={styles['content-row']}>
                 <div className={styles['left-column']}>
-                    <Map initCenter={initCenter} center={mapCenter} stations={stations} />
+                    <Map initCenter={initCenter} center={mapCenter} stations={stations} events={events} />
                 </div>
                 <div className={styles['right-column']}>
                 <div className={styles['tabs-header']}>

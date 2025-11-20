@@ -1,5 +1,6 @@
 import { useEffect, useRef } from 'react';
 import styles from './Map.module.css';
+import type { Event } from '../../model/event';
 
 // Import Leaflet types
 declare global {
@@ -19,13 +20,15 @@ type MapProps = {
     center?: [number, number];
     zoom?: number;
     stations?: Station[];
+    events?: Event[];
 }
 
-export default function Map({ initCenter, initZoom = 10, center, zoom, stations = [] }: MapProps) {
+export default function Map({ initCenter, initZoom = 10, center, zoom, stations = [], events = [] }: MapProps) {
     const mapRef = useRef<HTMLDivElement>(null);
     const mapInstanceRef = useRef<any>(null);
     const markerRef = useRef<any>(null);
     const stationMarkersRef = useRef<any[]>([]);
+    const eventMarkersRef = useRef<any[]>([]);
 
     useEffect(() => {
         // Load Leaflet CSS and JS
@@ -63,6 +66,7 @@ export default function Map({ initCenter, initZoom = 10, center, zoom, stations 
                 
                 // Add station markers after map is initialized
                 addStationMarkers();
+                addEventMarkers();
             }
         };
         
@@ -97,19 +101,56 @@ export default function Map({ initCenter, initZoom = 10, center, zoom, stations 
             console.log('✅ Added', stationMarkersRef.current.length, 'station markers');
         };
 
+        // Function to add event markers
+        const addEventMarkers = () => {
+            if (!mapInstanceRef.current || !window.L || events.length === 0) return;
+            
+            console.log('✅ Adding', events.length, 'event markers to map');
+            
+            // Remove existing event markers
+            eventMarkersRef.current.forEach(marker => marker.remove());
+            eventMarkersRef.current = [];
+            
+            // Create custom icon for events (red marker)
+            const eventIcon = window.L.icon({
+                iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-red.png',
+                shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/images/marker-shadow.png',
+                iconSize: [25, 41],
+                iconAnchor: [12, 41],
+                popupAnchor: [1, -34],
+                shadowSize: [41, 41]
+            });
+            
+            // Add markers for each event
+            events.forEach(event => {
+                const coordinates: [number, number] = [
+                    event.call.location.address.latitude,
+                    event.call.location.address.longitude
+                ];
+                const marker = window.L.marker(coordinates, { icon: eventIcon })
+                    .bindPopup(`<b>Event ${event.details.codice}</b><br>${event.call.location.address.street} ${event.call.location.address.number}, ${event.call.location.address.city.name}`)
+                    .addTo(mapInstanceRef.current);
+                eventMarkersRef.current.push(marker);
+            });
+            
+            console.log('✅ Added', eventMarkersRef.current.length, 'event markers');
+        };
+
         initializeMap();
 
         // Cleanup function
         return () => {
             stationMarkersRef.current.forEach(marker => marker.remove());
             stationMarkersRef.current = [];
+            eventMarkersRef.current.forEach(marker => marker.remove());
+            eventMarkersRef.current = [];
             
             if (mapInstanceRef.current) {
                 mapInstanceRef.current.remove();
                 mapInstanceRef.current = null;
             }
         };
-    }, [initCenter, initZoom, stations]);
+    }, [initCenter, initZoom, stations, events]);
 
     // Update map center and marker when center prop changes
     useEffect(() => {
