@@ -93,23 +93,17 @@ export default function Logistica({ clock, onStationSelect }: LogisticaProps) {
         return R * c;
     };
 
-    // Sort vehicles by distance to event location
-    const getSortedVehicles = (eventLat: number, eventLon: number): Vehicle[] => {
-        return [...filteredVehicles].sort((a, b) => {
-            const distA = calculateDistance(
-                eventLat, 
-                eventLon,
-                a.station.coordinates.latitude,
-                a.station.coordinates.longitude
-            );
-            const distB = calculateDistance(
+    // Sort vehicles by distance to event location and return with computed distances
+    const getSortedVehiclesWithDistance = (eventLat: number, eventLon: number): Array<{ vehicle: Vehicle; distance: number }> => {
+        return filteredVehicles.map(vehicle => ({
+            vehicle,
+            distance: calculateDistance(
                 eventLat,
                 eventLon,
-                b.station.coordinates.latitude,
-                b.station.coordinates.longitude
-            );
-            return distA - distB;
-        });
+                vehicle.station.coordinates.latitude,
+                vehicle.station.coordinates.longitude
+            )
+        })).sort((a, b) => a.distance - b.distance);
     };
 
     return (
@@ -181,7 +175,7 @@ export default function Logistica({ clock, onStationSelect }: LogisticaProps) {
                                             handleVehicleCheckbox={handleVehicleCheckbox}
                                             eventId={event.id}
                                             handleStationClick={handleStationClick}
-                                            getSortedVehicles={getSortedVehicles}
+                                            getSortedVehiclesWithDistance={getSortedVehiclesWithDistance}
                                             vehiclesInOtherEvents={vehiclesInOtherEvents}
                                         />
                                     );
@@ -206,7 +200,7 @@ type EventBodyProps = {
     handleVehicleCheckbox: (radioName: string, eventId: string) => void;
     eventId: string;
     handleStationClick: (vehicle: Vehicle) => void;
-    getSortedVehicles: (lat: number, lon: number) => Vehicle[];
+    getSortedVehiclesWithDistance: (lat: number, lon: number) => Array<{ vehicle: Vehicle; distance: number }>;
     vehiclesInOtherEvents: Set<string>;
 };
 
@@ -221,7 +215,7 @@ function EventBody({
     handleVehicleCheckbox,
     eventId,
     handleStationClick,
-    getSortedVehicles,
+    getSortedVehiclesWithDistance,
     vehiclesInOtherEvents
 }: EventBodyProps) {
     return (
@@ -283,7 +277,7 @@ function EventBody({
                     <p className={styles['empty-message']}>Nessun mezzo di questo tipo</p>
                 ) : (
                     <div className={styles['vehicles-list']}>
-                        {getSortedVehicles(eventLocation.lat, eventLocation.lon).map((vehicle, index) => {
+                        {getSortedVehiclesWithDistance(eventLocation.lat, eventLocation.lon).map(({ vehicle, distance }, index) => {
                             const isInOtherEvent = vehiclesInOtherEvents.has(vehicle.radioName);
                             return (
                                 <div 
@@ -300,7 +294,9 @@ function EventBody({
                                     />
                                     <label htmlFor={`vehicle-${vehicle.radioName}-${index}`} className={styles['vehicle-label']}>
                                         <span className={styles['vehicle-type']}>{vehicle.vehicleType}</span>
-                                        <span className={styles['vehicle-radio-name']}>{vehicle.radioName}</span>
+                                        <span className={styles['vehicle-radio-name']}>
+                                            {vehicle.radioName} <span className={styles['vehicle-distance']}>({distance.toFixed(1)} km)</span>
+                                        </span>
                                         <span className={styles['vehicle-station-container']}>
                                             <span 
                                                 className={styles['vehicle-station']} 

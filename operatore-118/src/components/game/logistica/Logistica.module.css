@@ -338,6 +338,12 @@
 .vehicle-radio-name {
     font-weight: 700;
     color: #111827;
+    white-space: nowrap;
+}
+
+.vehicle-distance {
+    font-weight: 400;
+    color: #6b7280;
 }
 
 .vehicle-station-container {
