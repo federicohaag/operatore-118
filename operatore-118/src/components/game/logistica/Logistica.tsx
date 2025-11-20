@@ -17,7 +17,7 @@ export default function Logistica({ clock, onStationSelect }: LogisticaProps) {
     const events = useAppSelector(selectEvents);
     const vehicles = useAppSelector(selectVehicles);
     const dispatch = useAppDispatch();
-    const [expandedEventId, setExpandedEventId] = useState<string | null>(null);
+    const [selectedEventId, setSelectedEventId] = useState<string | null>(null);
     const [selectedVehicles, setSelectedVehicles] = useState<Set<string>>(new Set());
     const [vehicleTypeFilter, setVehicleTypeFilter] = useState<string>('all');
 
@@ -106,216 +106,192 @@ export default function Logistica({ clock, onStationSelect }: LogisticaProps) {
         })).sort((a, b) => a.distance - b.distance);
     };
 
+    const handleEventClick = (eventId: string) => {
+        // If clicking the same event, deselect it
+        if (selectedEventId === eventId) {
+            setSelectedEventId(null);
+            setSelectedVehicles(new Set());
+            setVehicleTypeFilter('all');
+        } else {
+            // Select new event and pre-populate vehicles from missions
+            const event = events.find(e => e.id === eventId);
+            if (event) {
+                setSelectedEventId(eventId);
+                const missionVehicles = new Set(event.missions.map(m => m.vehicle.radioName));
+                setSelectedVehicles(missionVehicles);
+                setVehicleTypeFilter('all');
+            }
+        }
+    };
+
+    const selectedEvent = selectedEventId ? events.find(e => e.id === selectedEventId) : null;
+
+    // Get vehicles assigned to other events (not the selected one)
+    const vehiclesInOtherEvents = new Set(
+        events
+            .filter(e => e.id !== selectedEventId)
+            .flatMap(e => e.missions.map(m => m.vehicle.radioName))
+    );
+
     return (
         <div className={styles['logistica-container']}>
-            {events.length === 0 ? (
-                <p className={styles['empty-message']}>Nessun evento creato</p>
-            ) : (
-                <div className={styles['events-list']}>
-                    {sortedEvents.map((event) => {
-                        const isExpanded = expandedEventId === event.id;
-                        const toggleExpand = () => {
-                            if (!isExpanded) {
-                                // Pre-populate selected vehicles from event's missions
-                                const missionVehicles = new Set(event.missions.map(m => m.vehicle.radioName));
-                                setSelectedVehicles(missionVehicles);
-                            }
-                            setExpandedEventId(isExpanded ? null : event.id);
-                        };
-
-                        return (
-                            <div key={event.id} className={`${styles['event-card']} ${event.missions.length === 0 ? styles['no-missions'] : ''}`}>
-                                <div className={styles['event-header']} onClick={toggleExpand}>
-                                    <span className={styles['event-code']} style={{ 
-                                        backgroundColor: getColoreCodice(event.details.codice),
-                                        color: 'white'
-                                    }}>
-                                        {getCodiceInitial(event.details.codice)}
-                                    </span>
-                                    <span className={styles['location-icon']} title="Luogo">{getLuogoIcon(event.details.luogo)}</span>
-                                    <span className={styles['motivo-icon']} title="Motivo">{getMotivoIcon(event.details.motivo)}</span>
-                                    <span className={styles['event-city']}>{event.call.location.address.city.name.toUpperCase()}</span>
-                                    <span className={styles['event-address']} title={`${event.call.location.address.street} ${event.call.location.address.number}`.toUpperCase()}>
-                                        {(() => {
-                                            const fullAddress = `${event.call.location.address.street} ${event.call.location.address.number}`.toUpperCase();
-                                            return fullAddress.length > 50 ? fullAddress.substring(0, 50) + '...' : fullAddress;
-                                        })()}
-                                    </span>
-                                    <button 
-                                        className={`${styles['toggle-button']} ${isExpanded ? styles['expanded'] : ''}`}
-                                        onClick={(e) => {
-                                            e.stopPropagation();
-                                            toggleExpand();
-                                        }}
-                                        title={isExpanded ? "Chiudi" : "Espandi"}
-                                    >
-                                        ►
-                                    </button>
+            <div className={styles['two-column-layout']}>
+                <div className={styles['left-column']}>
+                    {events.length === 0 ? (
+                        <p className={styles['empty-message']}>Nessun evento creato</p>
+                    ) : (
+                        <div className={styles['events-list']}>
+                            {sortedEvents.map((event) => (
+                                <div 
+                                    key={event.id} 
+                                    className={`${styles['event-card']} ${event.missions.length === 0 ? styles['no-missions'] : ''} ${selectedEventId === event.id ? styles['event-selected'] : ''}`}
+                                    onClick={() => handleEventClick(event.id)}
+                                >
+                                    <div className={styles['event-header']}>
+                                        <span className={styles['event-code']} style={{ 
+                                            backgroundColor: getColoreCodice(event.details.codice),
+                                            color: 'white'
+                                        }}>
+                                            {getCodiceInitial(event.details.codice)}
+                                        </span>
+                                        <span className={styles['location-icon']} title="Luogo">{getLuogoIcon(event.details.luogo)}</span>
+                                        <span className={styles['motivo-icon']} title="Motivo">{getMotivoIcon(event.details.motivo)}</span>
+                                        <span className={styles['event-city']}>{event.call.location.address.city.name.toUpperCase()}</span>
+                                        <span className={styles['event-address']} title={`${event.call.location.address.street} ${event.call.location.address.number}`.toUpperCase()}>
+                                            {(() => {
+                                                const fullAddress = `${event.call.location.address.street} ${event.call.location.address.number}`.toUpperCase();
+                                                return fullAddress.length > 50 ? fullAddress.substring(0, 50) + '...' : fullAddress;
+                                            })()}
+                                        </span>
+                                    </div>
                                 </div>
-                                {isExpanded && (() => {
-                                    // Get vehicles assigned to other events
-                                    const vehiclesInOtherEvents = new Set(
-                                        events
-                                            .filter(e => e.id !== event.id)
-                                            .flatMap(e => e.missions.map(m => m.vehicle.radioName))
-                                    );
-                                    
-                                    return (
-                                        <EventBody 
-                                            event={event}
-                                            eventLocation={{
-                                                lat: event.call.location.address.latitude,
-                                                lon: event.call.location.address.longitude
-                                            }}
-                                            vehicleTypeFilter={vehicleTypeFilter}
-                                            setVehicleTypeFilter={setVehicleTypeFilter}
-                                            vehicles={vehicles}
-                                            filteredVehicles={filteredVehicles}
-                                            selectedVehicles={selectedVehicles}
-                                            handleVehicleCheckbox={handleVehicleCheckbox}
-                                            eventId={event.id}
-                                            handleStationClick={handleStationClick}
-                                            getSortedVehiclesWithDistance={getSortedVehiclesWithDistance}
-                                            vehiclesInOtherEvents={vehiclesInOtherEvents}
-                                        />
-                                    );
-                                })()}
-                            </div>
-                        );
-                    })}
+                            ))}
+                        </div>
+                    )}
                 </div>
-            )}
+                <div className={styles['right-column']}>
+                    {selectedEvent ? (
+                        <VehiclesList
+                            event={selectedEvent}
+                            vehicleTypeFilter={vehicleTypeFilter}
+                            setVehicleTypeFilter={setVehicleTypeFilter}
+                            filteredVehicles={filteredVehicles}
+                            selectedVehicles={selectedVehicles}
+                            handleVehicleCheckbox={handleVehicleCheckbox}
+                            handleStationClick={handleStationClick}
+                            getSortedVehiclesWithDistance={getSortedVehiclesWithDistance}
+                            vehiclesInOtherEvents={vehiclesInOtherEvents}
+                        />
+                    ) : (
+                        <div className={styles['empty-state']}>
+                            <p className={styles['empty-message']}>Seleziona un evento per assegnare mezzi</p>
+                        </div>
+                    )}
+                </div>
+            </div>
         </div>
     );
 }
 
-type EventBodyProps = {
+type VehiclesListProps = {
     event: Event;
-    eventLocation: { lat: number; lon: number };
     vehicleTypeFilter: string;
     setVehicleTypeFilter: (filter: string) => void;
-    vehicles: Vehicle[];
     filteredVehicles: Vehicle[];
     selectedVehicles: Set<string>;
     handleVehicleCheckbox: (radioName: string, eventId: string) => void;
-    eventId: string;
     handleStationClick: (vehicle: Vehicle) => void;
     getSortedVehiclesWithDistance: (lat: number, lon: number) => Array<{ vehicle: Vehicle; distance: number }>;
     vehiclesInOtherEvents: Set<string>;
 };
 
-function EventBody({ 
-    event, 
-    eventLocation,
+function VehiclesList({ 
+    event,
     vehicleTypeFilter, 
     setVehicleTypeFilter, 
-    vehicles, 
     filteredVehicles,
     selectedVehicles, 
     handleVehicleCheckbox,
-    eventId,
     handleStationClick,
     getSortedVehiclesWithDistance,
     vehiclesInOtherEvents
-}: EventBodyProps) {
-    return (
-        <div className={styles['event-body']}>
-            {Object.entries(event.details).map(([key, value]) => {
-                if (value === undefined || value === null || value === "") return null;
-                if (key === "vvf" || key === "ffo") return null;
-                // Label mapping for better display
-                const labels: Record<string, string> = {
-                    codice: "Codice",
-                    luogo: "Luogo",
-                    dettLuogo: "Dettaglio Luogo",
-                    motivo: "Motivo",
-                    dettMotivo: "Dettaglio Motivo",
-                    coscienza: "Coscienza",
-                    noteEvento: "Note",
-                    noteEvento2: "Note aggiuntive",
-                    altroEvento: "Altro"
-                };
-                return (
-                    <div key={key} className={styles['event-row']}>
-                        <strong>{labels[key] || key}:</strong> {value}
-                    </div>
-                );
-            })}
+}: VehiclesListProps) {
+    const eventLocation = {
+        lat: event.call.location.address.latitude,
+        lon: event.call.location.address.longitude
+    };
 
-            <div className={styles['vehicles-section']}>
-                <div className={styles['vehicles-header']}>
-                    <div className={styles['vehicle-filter']}>
-                        <button 
-                            className={`${styles['filter-button']} ${vehicleTypeFilter === 'all' ? styles['filter-active'] : ''}`}
-                            onClick={() => setVehicleTypeFilter('all')}
-                        >
-                            Tutti
-                        </button>
-                        <button 
-                            className={`${styles['filter-button']} ${vehicleTypeFilter === 'MSB' ? styles['filter-active'] : ''}`}
-                            onClick={() => setVehicleTypeFilter('MSB')}
-                        >
-                            MSB
-                        </button>
-                        <button 
-                            className={`${styles['filter-button']} ${vehicleTypeFilter === 'MSA1' ? styles['filter-active'] : ''}`}
-                            onClick={() => setVehicleTypeFilter('MSA1')}
-                        >
-                            MSA1
-                        </button>
-                        <button 
-                            className={`${styles['filter-button']} ${vehicleTypeFilter === 'MSA2' ? styles['filter-active'] : ''}`}
-                            onClick={() => setVehicleTypeFilter('MSA2')}
-                        >
-                            MSA2
-                        </button>
-                    </div>
+    return (
+        <div className={styles['vehicles-section']}>
+            <div className={styles['filter-section']}>
+                <div className={styles['filter-buttons']}>
+                    <button 
+                        className={`${styles['filter-button']} ${vehicleTypeFilter === 'all' ? styles['filter-active'] : ''}`}
+                        onClick={() => setVehicleTypeFilter('all')}
+                    >
+                        Tutti
+                    </button>
+                    <button 
+                        className={`${styles['filter-button']} ${vehicleTypeFilter === 'MSB' ? styles['filter-active'] : ''}`}
+                        onClick={() => setVehicleTypeFilter('MSB')}
+                    >
+                        MSB
+                    </button>
+                    <button 
+                        className={`${styles['filter-button']} ${vehicleTypeFilter === 'MSA1' ? styles['filter-active'] : ''}`}
+                        onClick={() => setVehicleTypeFilter('MSA1')}
+                    >
+                        MSA1
+                    </button>
+                    <button 
+                        className={`${styles['filter-button']} ${vehicleTypeFilter === 'MSA2' ? styles['filter-active'] : ''}`}
+                        onClick={() => setVehicleTypeFilter('MSA2')}
+                    >
+                        MSA2
+                    </button>
                 </div>
-                {vehicles.length === 0 ? (
-                    <p className={styles['empty-message']}>Nessun mezzo disponibile</p>
-                ) : filteredVehicles.length === 0 ? (
-                    <p className={styles['empty-message']}>Nessun mezzo di questo tipo</p>
-                ) : (
-                    <div className={styles['vehicles-list']}>
-                        {getSortedVehiclesWithDistance(eventLocation.lat, eventLocation.lon).map(({ vehicle, distance }, index) => {
-                            const isInOtherEvent = vehiclesInOtherEvents.has(vehicle.radioName);
-                            return (
-                                <div 
-                                    key={`${vehicle.radioName}-${index}`} 
-                                    className={`${styles['vehicle-item']} ${isInOtherEvent ? styles['vehicle-disabled'] : ''}`}
-                                >
-                                    <input
-                                        type="checkbox"
-                                        id={`vehicle-${vehicle.radioName}-${index}`}
-                                        checked={selectedVehicles.has(vehicle.radioName)}
-                                        onChange={() => handleVehicleCheckbox(vehicle.radioName, eventId)}
-                                        className={styles['vehicle-checkbox']}
-                                        disabled={isInOtherEvent}
-                                    />
-                                    <label htmlFor={`vehicle-${vehicle.radioName}-${index}`} className={styles['vehicle-label']}>
+            </div>
+            {filteredVehicles.length === 0 ? (
+                <p className={styles['empty-message']}>Nessun mezzo di questo tipo</p>
+            ) : (
+                <div className={styles['vehicles-list']}>
+                    {getSortedVehiclesWithDistance(eventLocation.lat, eventLocation.lon).map(({ vehicle, distance }, index) => {
+                        const isInOtherEvent = vehiclesInOtherEvents.has(vehicle.radioName);
+                        return (
+                            <div 
+                                key={`${vehicle.radioName}-${index}`} 
+                                className={`${styles['vehicle-item']} ${isInOtherEvent ? styles['vehicle-disabled'] : ''}`}
+                            >
+                                <input
+                                    type="checkbox"
+                                    id={`vehicle-${vehicle.radioName}-${index}`}
+                                    checked={selectedVehicles.has(vehicle.radioName)}
+                                    onChange={() => handleVehicleCheckbox(vehicle.radioName, event.id)}
+                                    className={styles['vehicle-checkbox']}
+                                    disabled={isInOtherEvent}
+                                />
+                                <label htmlFor={`vehicle-${vehicle.radioName}-${index}`} className={styles['vehicle-label']}>
+                                    <div className={styles['vehicle-info']}>
                                         <span className={styles['vehicle-type']}>{vehicle.vehicleType}</span>
                                         <span className={styles['vehicle-radio-name']}>
                                             {vehicle.radioName} <span className={styles['vehicle-distance']}>({distance.toFixed(1)} km)</span>
                                         </span>
-                                        <span className={styles['vehicle-station-container']}>
-                                            <span 
-                                                className={styles['vehicle-station']} 
-                                                onClick={(e) => {
-                                                    e.preventDefault();
-                                                    handleStationClick(vehicle);
-                                                }}
-                                                title="Clicca per centrare sulla mappa"
-                                            >
-                                                📍 {vehicle.station.name}
-                                            </span>
-                                        </span>
-                                    </label>
-                                </div>
-                            );
-                        })}
-                    </div>
-                )}
-            </div>
+                                        <div 
+                                            className={styles['vehicle-station-area']} 
+                                            onClick={(e) => {
+                                                e.preventDefault();
+                                                handleStationClick(vehicle);
+                                            }}
+                                        >
+                                            <span className={styles['vehicle-station']}>⌖</span>
+                                        </div>
+                                    </div>
+                                </label>
+                            </div>
+                        );
+                    })}
+                </div>
+            )}
         </div>
     );
 }

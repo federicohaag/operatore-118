@@ -1,15 +1,52 @@
 .logistica-container {
-    padding: 20px;
+    padding: 16px;
     width: 100%;
     height: 100%;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.two-column-layout {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    gap: 16px;
+}
+
+.left-column {
+    flex: 1;
+    min-width: 0;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid #d1d5db;
+    border-radius: 0;
+    background-color: #ffffff;
+    padding: 0;
     box-sizing: border-box;
     overflow-y: auto;
 }
 
-.logistica-container h3 {
-    margin: 0 0 15px 0;
-    color: #2c3e50;
-    font-size: 1.2em;
+.right-column {
+    flex: 1;
+    min-width: 0;
+    height: 100%;
+    border: 2px solid #d1d5db;
+    border-radius: 0;
+    background-color: #ffffff;
+    box-sizing: border-box;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.empty-state {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    padding: 20px;
+    background-color: #f9fafb;
 }
 
 .empty-message {
@@ -29,14 +66,20 @@
 
 .event-card {
     background-color: #ffffff;
-    border: 2px solid #d1d5db;
+    border: none;
+    border-bottom: 1px solid #e5e7eb;
     border-radius: 0;
     padding: 8px 10px;
-    transition: border-color 0.2s;
+    transition: background-color 0.2s;
+    cursor: pointer;
 }
 
 .event-card:hover {
-    border-color: #3b82f6;
+    background-color: #f3f4f6;
+}
+
+.event-card.event-selected {
+    background-color: #eff6ff;
 }
 
 .event-card.no-missions {
@@ -204,27 +247,28 @@
 
 /* Vehicles Section */
 .vehicles-section {
-    margin-top: 16px;
-    padding-top: 16px;
-    border-top: 2px solid #d1d5db;
-}
-
-.vehicles-header {
+    padding: 16px;
+    flex: 1;
     display: flex;
-    justify-content: flex-start;
-    align-items: center;
-    margin-bottom: 12px;
-    gap: 12px;
+    flex-direction: column;
+    overflow: hidden;
 }
 
-.section-title {
-    margin: 0;
-    color: #2c3e50;
-    font-size: 1.1em;
-    font-weight: 700;
+.filter-section {
+    margin-bottom: 16px;
+    padding-bottom: 12px;
+    border-bottom: 2px solid #d1d5db;
+    flex-shrink: 0;
 }
 
-.vehicle-filter {
+.filter-label {
+    font-size: 0.9em;
+    font-weight: 600;
+    color: #4b5563;
+    margin-bottom: 8px;
+}
+
+.filter-buttons {
     display: flex;
     gap: 4px;
 }
@@ -255,7 +299,7 @@
     display: flex;
     flex-direction: column;
     gap: 2px;
-    max-height: 250px;
+    flex: 1;
     overflow-y: auto;
     padding-right: 4px;
 }
@@ -313,14 +357,20 @@
 }
 
 .vehicle-label {
-    display: grid;
-    grid-template-columns: 60px 120px 1fr;
-    align-items: center;
-    gap: 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
     margin-left: 10px;
     cursor: pointer;
     flex: 1;
     font-size: 0.85em;
+}
+
+.vehicle-info {
+    display: grid;
+    grid-template-columns: 60px 1fr auto;
+    align-items: center;
+    gap: 12px;
 }
 
 .vehicle-type {
@@ -346,28 +396,31 @@
     color: #6b7280;
 }
 
-.vehicle-station-container {
+.vehicle-station-area {
     display: flex;
     align-items: center;
-    justify-content: flex-end;
+    justify-content: center;
+    padding: 0 8px;
+    border-left: 1px solid #d1d5db;
+    cursor: pointer;
+    min-width: 32px;
+    align-self: stretch;
+}
+
+.vehicle-station-area:hover {
+    background-color: #f3f4f6;
 }
 
 .vehicle-station {
     display: inline-flex;
     align-items: center;
-    justify-content: flex-start;
-    gap: 4px;
-    padding: 2px 8px;
-    background-color: #f3f4f6;
-    border: 2px solid #d1d5db;
-    font-weight: 600;
-    font-size: 0.85em;
-    color: #374151;
-    cursor: pointer;
-    transition: all 0.2s;
-}
-
-.vehicle-station:hover {
-    background-color: #e5e7eb;
-    border-color: #9ca3af;
+    justify-content: center;
+    padding: 0;
+    background: none;
+    border: none;
+    font-weight: 900;
+    font-size: 1.2em;
+    color: #000000;
+    line-height: 1;
+    pointer-events: none;
 }
