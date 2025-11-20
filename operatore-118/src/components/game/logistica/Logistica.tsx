@@ -1,19 +1,22 @@
 import { useState } from 'react';
 import styles from './Logistica.module.css';
-import { useAppSelector } from '../../../core/redux/hooks';
-import { selectEvents } from '../../../core/redux/slices/events';
+import { useAppSelector, useAppDispatch } from '../../../core/redux/hooks';
+import { selectEvents, addMissionToEvent, removeMissionFromEvent } from '../../../core/redux/slices/events';
 import { selectVehicles } from '../../../core/redux/slices/settings';
 import { Luogo, LUOGO_ICON_MAP, Motivo, MOTIVO_ICON_MAP } from '../../../model/eventDetails';
 import type { Vehicle } from '../../../model/vehicle';
 import type { Event } from '../../../model/event';
+import type { VirtualClock } from '../../../core/VirtualClock';
 
 type LogisticaProps = {
+    clock: VirtualClock;
     onStationSelect?: (coordinates: [number, number]) => void;
 };
 
-export default function Logistica({ onStationSelect }: LogisticaProps) {
+export default function Logistica({ clock, onStationSelect }: LogisticaProps) {
     const events = useAppSelector(selectEvents);
     const vehicles = useAppSelector(selectVehicles);
+    const dispatch = useAppDispatch();
     const [expandedEventId, setExpandedEventId] = useState<string | null>(null);
     const [selectedVehicles, setSelectedVehicles] = useState<Set<string>>(new Set());
     const [vehicleTypeFilter, setVehicleTypeFilter] = useState<string>('all');
@@ -35,7 +38,13 @@ export default function Logistica({ onStationSelect }: LogisticaProps) {
         return a.createdAt - b.createdAt;
     });
 
-    const handleVehicleCheckbox = (radioName: string) => {
+    const handleVehicleCheckbox = (radioName: string, eventId: string) => {
+        const vehicle = vehicles.find(v => v.radioName === radioName);
+        if (!vehicle) return;
+
+        // Check if vehicle is already selected
+        const wasSelected = selectedVehicles.has(radioName);
+        
         setSelectedVehicles(prev => {
             const newSet = new Set(prev);
             if (newSet.has(radioName)) {
@@ -45,6 +54,20 @@ export default function Logistica({ onStationSelect }: LogisticaProps) {
             }
             return newSet;
         });
+
+        if (!wasSelected) {
+            // Create mission when selecting
+            const mission = {
+                id: crypto.randomUUID(),
+                vehicle: vehicle,
+                createdAt: clock.now()
+            };
+            
+            dispatch(addMissionToEvent({ eventId, mission }));
+        } else {
+            // Remove mission when deselecting
+            dispatch(removeMissionFromEvent({ eventId, vehicleRadioName: radioName }));
+        }
     };
 
     const handleStationClick = (vehicle: Vehicle) => {
@@ -147,6 +170,7 @@ export default function Logistica({ onStationSelect }: LogisticaProps) {
                                         filteredVehicles={filteredVehicles}
                                         selectedVehicles={selectedVehicles}
                                         handleVehicleCheckbox={handleVehicleCheckbox}
+                                        eventId={event.id}
                                         handleStationClick={handleStationClick}
                                         getSortedVehicles={getSortedVehicles}
                                     />
@@ -168,7 +192,8 @@ type EventBodyProps = {
     vehicles: Vehicle[];
     filteredVehicles: Vehicle[];
     selectedVehicles: Set<string>;
-    handleVehicleCheckbox: (radioName: string) => void;
+    handleVehicleCheckbox: (radioName: string, eventId: string) => void;
+    eventId: string;
     handleStationClick: (vehicle: Vehicle) => void;
     getSortedVehicles: (lat: number, lon: number) => Vehicle[];
 };
@@ -181,7 +206,8 @@ function EventBody({
     vehicles, 
     filteredVehicles,
     selectedVehicles, 
-    handleVehicleCheckbox, 
+    handleVehicleCheckbox,
+    eventId,
     handleStationClick,
     getSortedVehicles 
 }: EventBodyProps) {
@@ -250,7 +276,7 @@ function EventBody({
                                     type="checkbox"
                                     id={`vehicle-${vehicle.radioName}-${index}`}
                                     checked={selectedVehicles.has(vehicle.radioName)}
-                                    onChange={() => handleVehicleCheckbox(vehicle.radioName)}
+                                    onChange={() => handleVehicleCheckbox(vehicle.radioName, eventId)}
                                     className={styles['vehicle-checkbox']}
                                 />
                                 <label htmlFor={`vehicle-${vehicle.radioName}-${index}`} className={styles['vehicle-label']}>

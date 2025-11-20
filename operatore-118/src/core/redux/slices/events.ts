@@ -2,6 +2,7 @@ import { createSlice, type PayloadAction } from '@reduxjs/toolkit';
 import type { RootState } from '../store';
 import { initStateFromStorage, syncStateFromOtherWindow } from '../middlewares/localStorage';
 import type { Event } from '../../../model/event';
+import type { Mission } from '../../../model/mission';
 
 export interface EventsSlice {
   events: Event[];
@@ -24,6 +25,18 @@ export const eventsSlice = createSlice({
     clearEvents: (state) => {
       state.events = [];
     },
+    addMissionToEvent: (state: EventsSlice, action: PayloadAction<{ eventId: string; mission: Mission }>) => {
+      const event = state.events.find(e => e.id === action.payload.eventId);
+      if (event) {
+        event.missions.push(action.payload.mission);
+      }
+    },
+    removeMissionFromEvent: (state: EventsSlice, action: PayloadAction<{ eventId: string; vehicleRadioName: string }>) => {
+      const event = state.events.find(e => e.id === action.payload.eventId);
+      if (event) {
+        event.missions = event.missions.filter(m => m.vehicle.radioName !== action.payload.vehicleRadioName);
+      }
+    },
   },
   extraReducers: (builder) => {
     builder.addCase(initStateFromStorage, (state, action) => {
@@ -43,7 +56,7 @@ export const eventsSlice = createSlice({
   },
 });
 
-export const { addEvent, removeEvent, clearEvents } = eventsSlice.actions;
+export const { addEvent, removeEvent, clearEvents, addMissionToEvent, removeMissionFromEvent } = eventsSlice.actions;
 
 export const eventsReducer = eventsSlice.reducer;
 

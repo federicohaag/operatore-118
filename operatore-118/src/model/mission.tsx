@@ -1,9 +1,23 @@
+import type { Vehicle } from './vehicle';
+
 /**
  * Represents an emergency mission with assigned resources and operational status
  * 
  * A Mission is created from an Event and tracks the operational response,
- * including assigned vehicles, personnel, and mission lifecycle status.
+ * including assigned vehicle, personnel, and mission lifecycle status.
  */
 export type Mission = {
-    // Mission properties will be defined here
+    /** Unique identifier for the mission */
+    id: string;
+    
+    /** Assigned vehicle responding to the emergency */
+    vehicle: Vehicle;
+    
+    /** 
+     * Creation timestamp of the mission in milliseconds
+     * 
+     * Represents the simulation time when the mission was created,
+     * typically when a vehicle is dispatched to respond to a call.
+     */
+    createdAt: number;
 };
