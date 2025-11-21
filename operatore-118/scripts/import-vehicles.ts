@@ -240,6 +240,7 @@ function generateNewVehiclesFileContent(
       name: "${escapedStationName}",
       coordinates: { latitude: ${vehicle.station.coordinates.latitude}, longitude: ${vehicle.station.coordinates.longitude} }
     },
+    currentLocation: { latitude: ${vehicle.station.coordinates.latitude}, longitude: ${vehicle.station.coordinates.longitude} },
     vehicleType: VehicleType.${vehicle.vehicleType},
     radioName: "${escapedRadioName}",
     convention: ConventionType.${vehicle.convention},

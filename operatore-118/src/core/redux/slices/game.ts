@@ -42,6 +42,12 @@ export const gameSlice = createSlice({
     setVehicles: (state: GameSlice, action: PayloadAction<Vehicle[]>) => {
       state.vehicles = action.payload;
     },
+    updateVehicleLocation: (state: GameSlice, action: PayloadAction<{ vehicleId: string; location: { latitude: number; longitude: number } }>) => {
+      const vehicle = state.vehicles.find(v => v.id === action.payload.vehicleId);
+      if (vehicle) {
+        vehicle.currentLocation = action.payload.location;
+      }
+    },
     // Event actions
     addEvent: (state: GameSlice, action: PayloadAction<Event>) => {
       state.events.push(action.payload);
@@ -93,6 +99,7 @@ export const {
   markCallAsProcessed, 
   clearCalls,
   setVehicles,
+  updateVehicleLocation,
   addEvent,
   removeEvent,
   clearEvents,

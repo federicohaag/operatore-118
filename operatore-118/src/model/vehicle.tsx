@@ -106,8 +106,11 @@ export type Vehicle = {
     /** Unique identifier for the vehicle */
     id: string;
     
-    /** Station where the vehicle is based */
+    /** Station where the vehicle is based (immutable) */
     station: Station;
+    
+    /** Current location of the vehicle (can be updated during missions) */
+    currentLocation: Coordinates;
     
     /** Type of vehicle indicating medical capabilities */
     vehicleType: VehicleType;
