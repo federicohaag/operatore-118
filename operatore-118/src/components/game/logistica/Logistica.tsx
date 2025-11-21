@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import styles from './Logistica.module.css';
 import { useAppSelector, useAppDispatch } from '../../../core/redux/hooks';
-import { selectEvents, addMissionToEvent, removeMissionFromEvent } from '../../../core/redux/slices/events';
+import { selectEvents, addMissionToEvent, removeMissionFromEvent } from '../../../core/redux/slices/game';
 import { selectVehicles } from '../../../core/redux/slices/settings';
 import { Luogo, LUOGO_ICON_MAP, Motivo, MOTIVO_ICON_MAP } from '../../../model/eventDetails';
 import type { Vehicle } from '../../../model/vehicle';
@@ -67,16 +67,6 @@ export default function Logistica({ clock, onStationSelect }: LogisticaProps) {
         } else {
             // Remove mission when deselecting
             dispatch(removeMissionFromEvent({ eventId, vehicleRadioName: radioName }));
-        }
-    };
-
-    const handleStationClick = (vehicle: Vehicle) => {
-        if (onStationSelect) {
-            const coords: [number, number] = [
-                vehicle.station.coordinates.latitude,
-                vehicle.station.coordinates.longitude
-            ];
-            onStationSelect(coords);
         }
     };
 

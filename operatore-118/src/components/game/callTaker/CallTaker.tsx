@@ -1,8 +1,7 @@
-import { useState, useEffect, useRef } from 'react';
+import { useState, useEffect } from 'react';
 import styles from './CallTaker.module.css';
 import { useAppSelector, useAppDispatch } from '../../../core/redux/hooks';
-import { selectCalls, removeCall, markCallAsProcessed } from '../../../core/redux/slices/calls';
-import { addEvent } from '../../../core/redux/slices/events';
+import { selectCalls, removeCall, markCallAsProcessed, addEvent } from '../../../core/redux/slices/game';
 import { generateUuid } from '../../../core/utils';
 import type { Event } from '../../../model/event';
 import type { EventDetails } from '../../../model/eventDetails';
@@ -102,13 +101,6 @@ export default function CallTaker({ clock, onCallSelect: onCallSelect, onSpeak }
 
     const currentCall = selectedCall ? calls.find(call => call.id === selectedCall) : null;
 
-    const formatSimulationTime = (ms: number): string => {
-        const totalSeconds = Math.floor(ms / 1000);
-        const hours = Math.floor(totalSeconds / 3600);
-        const minutes = Math.floor((totalSeconds % 3600) / 60);
-        return `${hours.toString().padStart(2, '0')}:${minutes.toString().padStart(2, '0')}`;
-    };
-
     return (
         <div className={styles['call-taker-container']}>
             <div className={styles['two-column-layout']}>
@@ -126,7 +118,6 @@ export default function CallTaker({ clock, onCallSelect: onCallSelect, onSpeak }
                                         const elapsedSeconds = Math.floor(elapsedMs / 1000);
                                         const minutes = Math.floor(elapsedSeconds / 60);
                                         const seconds = elapsedSeconds % 60;
-                                        const receivedTime = formatSimulationTime(call.receivedAt);
                                         
                                         // Determine elapsed time styling
                                         const isBold = elapsedSeconds >= 5;

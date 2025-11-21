@@ -1,8 +1,7 @@
 import { configureStore } from '@reduxjs/toolkit';
 import { createLocalStorageSyncMiddleware, loadInitialState } from './middlewares/localStorage';
 import { settingsReducer } from './slices/settings';
-import { callsReducer } from './slices/calls';
-import { eventsReducer } from './slices/events';
+import { gameReducer } from './slices/game';
 
 /**
  * Redux Store
@@ -13,6 +12,7 @@ import { eventsReducer } from './slices/events';
  * 
  * This store is configured with:
  * - settingsReducer: Manages the application's localization state (regional settings)
+ * - gameReducer: Manages calls and events state
  * - localizationSyncMiddleware: Handles state synchronization across browser tabs/windows via localStorage
  * 
  * @see https://redux.js.org/tutorials/fundamentals/part-2-concepts-data-flow#store
@@ -20,8 +20,7 @@ import { eventsReducer } from './slices/events';
 export const store = configureStore({
   reducer: {
     localization: settingsReducer,
-    calls: callsReducer,
-    events: eventsReducer,
+    game: gameReducer,
   },
   middleware: (getDefaultMiddleware) => 
     getDefaultMiddleware().concat(createLocalStorageSyncMiddleware())
