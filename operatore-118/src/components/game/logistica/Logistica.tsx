@@ -133,6 +133,26 @@ export default function Logistica({ clock, onStationSelect }: LogisticaProps) {
             .flatMap(e => e.missions.map(m => m.vehicle.radioName))
     );
 
+    // Get all vehicles currently on any mission
+    const vehiclesOnMissions = new Set(
+        events.flatMap(e => e.missions.map(m => m.vehicle.radioName))
+    );
+
+    // Sort vehicles alphabetically, with those on missions first
+    const getSortedVehiclesAlphabetically = (): Vehicle[] => {
+        return [...filteredVehicles].sort((a, b) => {
+            const aOnMission = vehiclesOnMissions.has(a.radioName);
+            const bOnMission = vehiclesOnMissions.has(b.radioName);
+            
+            // Vehicles on missions come first
+            if (aOnMission && !bOnMission) return -1;
+            if (!aOnMission && bOnMission) return 1;
+            
+            // Otherwise, sort alphabetically by radio name
+            return a.radioName.localeCompare(b.radioName);
+        });
+    };
+
     return (
         <div className={styles['logistica-container']}>
             <div className={styles['two-column-layout']}>
@@ -170,23 +190,19 @@ export default function Logistica({ clock, onStationSelect }: LogisticaProps) {
                     )}
                 </div>
                 <div className={styles['right-column']}>
-                    {selectedEvent ? (
-                        <VehiclesList
-                            event={selectedEvent}
-                            vehicleTypeFilter={vehicleTypeFilter}
-                            setVehicleTypeFilter={setVehicleTypeFilter}
-                            filteredVehicles={filteredVehicles}
-                            selectedVehicles={selectedVehicles}
-                            handleVehicleCheckbox={handleVehicleCheckbox}
-                            handleStationClick={handleStationClick}
-                            getSortedVehiclesWithDistance={getSortedVehiclesWithDistance}
-                            vehiclesInOtherEvents={vehiclesInOtherEvents}
-                        />
-                    ) : (
-                        <div className={styles['empty-state']}>
-                            <p className={styles['empty-message']}>Seleziona un evento per assegnare mezzi</p>
-                        </div>
-                    )}
+                    <VehiclesList
+                        event={selectedEvent ?? null}
+                        vehicleTypeFilter={vehicleTypeFilter}
+                        setVehicleTypeFilter={setVehicleTypeFilter}
+                        filteredVehicles={filteredVehicles}
+                        selectedVehicles={selectedVehicles}
+                        handleVehicleCheckbox={handleVehicleCheckbox}
+                        handleStationClick={handleStationClick}
+                        getSortedVehiclesWithDistance={getSortedVehiclesWithDistance}
+                        getSortedVehiclesAlphabetically={getSortedVehiclesAlphabetically}
+                        vehiclesInOtherEvents={vehiclesInOtherEvents}
+                        vehiclesOnMissions={vehiclesOnMissions}
+                    />
                 </div>
             </div>
         </div>
@@ -194,7 +210,7 @@ export default function Logistica({ clock, onStationSelect }: LogisticaProps) {
 }
 
 type VehiclesListProps = {
-    event: Event;
+    event: Event | null;
     vehicleTypeFilter: string;
     setVehicleTypeFilter: (filter: string) => void;
     filteredVehicles: Vehicle[];
@@ -202,7 +218,9 @@ type VehiclesListProps = {
     handleVehicleCheckbox: (radioName: string, eventId: string) => void;
     handleStationClick: (vehicle: Vehicle) => void;
     getSortedVehiclesWithDistance: (lat: number, lon: number) => Array<{ vehicle: Vehicle; distance: number }>;
+    getSortedVehiclesAlphabetically: () => Vehicle[];
     vehiclesInOtherEvents: Set<string>;
+    vehiclesOnMissions: Set<string>;
 };
 
 function VehiclesList({ 
@@ -214,12 +232,14 @@ function VehiclesList({
     handleVehicleCheckbox,
     handleStationClick,
     getSortedVehiclesWithDistance,
-    vehiclesInOtherEvents
+    getSortedVehiclesAlphabetically,
+    vehiclesInOtherEvents,
+    vehiclesOnMissions
 }: VehiclesListProps) {
-    const eventLocation = {
+    const eventLocation = event ? {
         lat: event.call.location.address.latitude,
         lon: event.call.location.address.longitude
-    };
+    } : null;
 
     return (
         <div className={styles['vehicles-section']}>
@@ -255,26 +275,32 @@ function VehiclesList({
                 <p className={styles['empty-message']}>Nessun mezzo di questo tipo</p>
             ) : (
                 <div className={styles['vehicles-list']}>
-                    {getSortedVehiclesWithDistance(eventLocation.lat, eventLocation.lon).map(({ vehicle, distance }, index) => {
+                    {(event 
+                        ? getSortedVehiclesWithDistance(eventLocation!.lat, eventLocation!.lon).map(({ vehicle, distance }) => ({ vehicle, distance }))
+                        : getSortedVehiclesAlphabetically().map(vehicle => ({ vehicle, distance: null }))
+                    ).map(({ vehicle, distance }, index) => {
                         const isInOtherEvent = vehiclesInOtherEvents.has(vehicle.radioName);
+                        const isOnMission = vehiclesOnMissions.has(vehicle.radioName);
                         return (
                             <div 
                                 key={`${vehicle.radioName}-${index}`} 
-                                className={`${styles['vehicle-item']} ${isInOtherEvent ? styles['vehicle-disabled'] : ''}`}
+                                className={`${styles['vehicle-item']} ${isInOtherEvent ? styles['vehicle-disabled'] : ''} ${!event && isOnMission ? styles['vehicle-on-mission'] : ''}`}
                             >
-                                <input
-                                    type="checkbox"
-                                    id={`vehicle-${vehicle.radioName}-${index}`}
-                                    checked={selectedVehicles.has(vehicle.radioName)}
-                                    onChange={() => handleVehicleCheckbox(vehicle.radioName, event.id)}
-                                    className={styles['vehicle-checkbox']}
-                                    disabled={isInOtherEvent}
-                                />
-                                <label htmlFor={`vehicle-${vehicle.radioName}-${index}`} className={styles['vehicle-label']}>
+                                {event && (
+                                    <input
+                                        type="checkbox"
+                                        id={`vehicle-${vehicle.radioName}-${index}`}
+                                        checked={selectedVehicles.has(vehicle.radioName)}
+                                        onChange={() => handleVehicleCheckbox(vehicle.radioName, event.id)}
+                                        className={styles['vehicle-checkbox']}
+                                        disabled={isInOtherEvent}
+                                    />
+                                )}
+                                <label htmlFor={event ? `vehicle-${vehicle.radioName}-${index}` : undefined} className={styles['vehicle-label']}>
                                     <div className={styles['vehicle-info']}>
                                         <span className={styles['vehicle-type']}>{vehicle.vehicleType}</span>
                                         <span className={styles['vehicle-radio-name']}>
-                                            {vehicle.radioName} <span className={styles['vehicle-distance']}>({distance.toFixed(1)} km)</span>
+                                            {vehicle.radioName} {distance !== null && <span className={styles['vehicle-distance']}>({distance.toFixed(1)} km)</span>}
                                         </span>
                                     </div>
                                 </label>

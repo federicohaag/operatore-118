@@ -425,3 +425,7 @@
     line-height: 1;
     pointer-events: none;
 }
+
+.vehicle-on-mission {
+    border-color: #f59e0b;
+}
