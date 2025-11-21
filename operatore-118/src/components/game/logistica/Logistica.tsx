@@ -197,7 +197,6 @@ export default function Logistica({ clock, onStationSelect }: LogisticaProps) {
                         filteredVehicles={filteredVehicles}
                         selectedVehicles={selectedVehicles}
                         handleVehicleCheckbox={handleVehicleCheckbox}
-                        handleStationClick={handleStationClick}
                         getSortedVehiclesWithDistance={getSortedVehiclesWithDistance}
                         getSortedVehiclesAlphabetically={getSortedVehiclesAlphabetically}
                         vehiclesInOtherEvents={vehiclesInOtherEvents}
@@ -216,7 +215,6 @@ type VehiclesListProps = {
     filteredVehicles: Vehicle[];
     selectedVehicles: Set<string>;
     handleVehicleCheckbox: (radioName: string, eventId: string) => void;
-    handleStationClick: (vehicle: Vehicle) => void;
     getSortedVehiclesWithDistance: (lat: number, lon: number) => Array<{ vehicle: Vehicle; distance: number }>;
     getSortedVehiclesAlphabetically: () => Vehicle[];
     vehiclesInOtherEvents: Set<string>;
@@ -230,7 +228,6 @@ function VehiclesList({
     filteredVehicles,
     selectedVehicles, 
     handleVehicleCheckbox,
-    handleStationClick,
     getSortedVehiclesWithDistance,
     getSortedVehiclesAlphabetically,
     vehiclesInOtherEvents,
@@ -304,17 +301,6 @@ function VehiclesList({
                                         </span>
                                     </div>
                                 </label>
-                                <div 
-                                    className={styles['vehicle-station-area']} 
-                                    onClick={(e) => {
-                                        e.preventDefault();
-                                        e.stopPropagation();
-                                        handleStationClick(vehicle);
-                                    }}
-                                    title={vehicle.station.name}
-                                >
-                                    <span className={styles['vehicle-station']}>⌖</span>
-                                </div>
                             </div>
                         );
                     })}
