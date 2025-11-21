@@ -115,11 +115,18 @@ export default function Logistica({ clock, onStationSelect }: LogisticaProps) {
         } else {
             // Select new event and pre-populate vehicles from missions
             const event = events.find(e => e.id === eventId);
-            if (event) {
+            if (event && onStationSelect) {
                 setSelectedEventId(eventId);
                 const missionVehicles = new Set(event.missions.map(m => m.vehicle.radioName));
                 setSelectedVehicles(missionVehicles);
                 setVehicleTypeFilter('all');
+                
+                // Center map on event location
+                const coords: [number, number] = [
+                    event.call.location.address.latitude,
+                    event.call.location.address.longitude
+                ];
+                onStationSelect(coords);
             }
         }
     };

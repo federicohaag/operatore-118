@@ -28,3 +28,21 @@
     border: 1px solid #d1d5db !important;
     color: #111827 !important;
 }
+
+/* Bounce animation for event markers */
+:global(.bounce) {
+    animation: bounce 1s ease;
+    position: relative !important;
+}
+
+@keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+        top: 0;
+    }
+    40% {
+        top: -30px;
+    }
+    60% {
+        top: -15px;
+    }
+}

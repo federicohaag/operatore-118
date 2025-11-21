@@ -35,7 +35,7 @@ export default function Map({ initCenter, initZoom = 10, center, zoom, stations 
     const mapInstanceRef = useRef<any>(null);
     const markerRef = useRef<any>(null);
     const stationMarkersRef = useRef<any[]>([]);
-    const eventMarkersRef = useRef<any[]>([]);
+    const eventMarkersRef = useRef<Record<string, any>>({});
 
     useEffect(() => {
         // Load Leaflet CSS and JS
@@ -115,8 +115,8 @@ export default function Map({ initCenter, initZoom = 10, center, zoom, stations 
             console.log('✅ Adding', events.length, 'event markers to map');
             
             // Remove existing event markers
-            eventMarkersRef.current.forEach(marker => marker.remove());
-            eventMarkersRef.current = [];
+            Object.values(eventMarkersRef.current).forEach((marker: any) => marker.remove());
+            eventMarkersRef.current = {};
             
             // Create custom icon for events (red marker)
             const eventIcon = window.L.icon({
@@ -137,10 +137,10 @@ export default function Map({ initCenter, initZoom = 10, center, zoom, stations 
                 const marker = window.L.marker(coordinates, { icon: eventIcon })
                     .bindPopup(`<b>Event ${event.details.codice}</b><br>${event.call.location.address.street} ${event.call.location.address.number}, ${event.call.location.address.city.name}`)
                     .addTo(mapInstanceRef.current);
-                eventMarkersRef.current.push(marker);
+                eventMarkersRef.current[event.id] = marker;
             });
             
-            console.log('✅ Added', eventMarkersRef.current.length, 'event markers');
+            console.log('✅ Added', Object.keys(eventMarkersRef.current).length, 'event markers');
         };
 
         initializeMap();
@@ -149,8 +149,8 @@ export default function Map({ initCenter, initZoom = 10, center, zoom, stations 
         return () => {
             stationMarkersRef.current.forEach(marker => marker.remove());
             stationMarkersRef.current = [];
-            eventMarkersRef.current.forEach(marker => marker.remove());
-            eventMarkersRef.current = [];
+            Object.values(eventMarkersRef.current).forEach((marker: any) => marker.remove());
+            eventMarkersRef.current = {};
             
             if (mapInstanceRef.current) {
                 mapInstanceRef.current.remove();
@@ -167,6 +167,25 @@ export default function Map({ initCenter, initZoom = 10, center, zoom, stations 
                 mapInstanceRef.current.panTo(center, {
                     animate: true,
                     duration: 0.5
+                });
+                
+                // Find and bounce the event marker at this location
+                Object.values(eventMarkersRef.current).forEach((marker: any) => {
+                    const markerLatLng = marker.getLatLng();
+                    if (Math.abs(markerLatLng.lat - center[0]) < 0.00001 && 
+                        Math.abs(markerLatLng.lng - center[1]) < 0.00001) {
+                        // Found the marker, make it bounce
+                        setTimeout(() => {
+                            if (marker._icon) {
+                                marker._icon.classList.add('bounce');
+                                setTimeout(() => {
+                                    if (marker._icon) {
+                                        marker._icon.classList.remove('bounce');
+                                    }
+                                }, 1000);
+                            }
+                        }, 500);
+                    }
                 });
                 
                 // Remove existing marker if any
