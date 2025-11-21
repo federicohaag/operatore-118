@@ -278,7 +278,7 @@ export default function Game() {
             </div>
                         <div className={styles['content-row']}>
                 <div className={styles['left-column']}>
-                    <Map initCenter={initCenter} center={mapCenter} stations={stations} events={eventLocations} />
+                    <Map initCenter={initCenter} center={mapCenter} stations={stations} calls={unprocessedCalls} events={eventLocations} />
                 </div>
                 <div className={styles['right-column']}>
                 <div className={styles['tabs-header']}>

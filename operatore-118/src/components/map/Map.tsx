@@ -2,6 +2,7 @@ import { useEffect, useRef } from 'react';
 import styles from './Map.module.css';
 import type { Call } from '../../model/call';
 import type { EventDetails } from '../../model/eventDetails';
+import { Codice } from '../../model/eventDetails';
 
 // Import Leaflet types
 declare global {
@@ -27,14 +28,16 @@ type MapProps = {
     center?: [number, number];
     zoom?: number;
     stations?: Station[];
+    calls?: Call[];
     events?: EventLocation[];
 }
 
-export default function Map({ initCenter, initZoom = 10, center, zoom, stations = [], events = [] }: MapProps) {
+export default function Map({ initCenter, initZoom = 10, center, zoom, stations = [], calls = [], events = [] }: MapProps) {
     const mapRef = useRef<HTMLDivElement>(null);
     const mapInstanceRef = useRef<any>(null);
     const markerRef = useRef<any>(null);
     const stationMarkersRef = useRef<any[]>([]);
+    const callMarkersRef = useRef<Record<string, any>>({});
     const eventMarkersRef = useRef<Record<string, any>>({});
 
     useEffect(() => {
@@ -113,6 +116,8 @@ export default function Map({ initCenter, initZoom = 10, center, zoom, stations 
         return () => {
             stationMarkersRef.current.forEach(marker => marker.remove());
             stationMarkersRef.current = [];
+            Object.values(callMarkersRef.current).forEach((marker: any) => marker.remove());
+            callMarkersRef.current = {};
             Object.values(eventMarkersRef.current).forEach((marker: any) => marker.remove());
             eventMarkersRef.current = {};
             
@@ -123,19 +128,20 @@ export default function Map({ initCenter, initZoom = 10, center, zoom, stations 
         };
     }, [initCenter, initZoom, stations]);
     
-    // Separate effect for event markers to avoid re-initializing the entire map
+    // Separate effect for call markers (gray pins for unprocessed calls)
     useEffect(() => {
         if (!mapInstanceRef.current || !window.L) return;
+                
+        // Get call IDs that are already events
+        const eventCallIds = new Set(events.map(e => e.call.id));
         
-        console.log('✅ Updating', events.length, 'event markers');
+        // Remove existing call markers
+        Object.values(callMarkersRef.current).forEach((marker: any) => marker.remove());
+        callMarkersRef.current = {};
         
-        // Remove existing event markers
-        Object.values(eventMarkersRef.current).forEach((marker: any) => marker.remove());
-        eventMarkersRef.current = {};
-        
-        // Create custom icon for events (red marker)
-        const eventIcon = window.L.icon({
-            iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-red.png',
+        // Create custom icon for calls (gray marker)
+        const callIcon = window.L.icon({
+            iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-grey.png',
             shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/images/marker-shadow.png',
             iconSize: [25, 41],
             iconAnchor: [12, 41],
@@ -143,12 +149,62 @@ export default function Map({ initCenter, initZoom = 10, center, zoom, stations 
             shadowSize: [41, 41]
         });
         
-        // Add markers for each event
+        // Add markers only for calls that haven't been processed into events
+        calls.forEach(call => {
+            if (!eventCallIds.has(call.id) && !call.processed) {
+                const coordinates: [number, number] = [
+                    call.location.address.latitude,
+                    call.location.address.longitude
+                ];
+                const marker = window.L.marker(coordinates, { icon: callIcon })
+                    .bindPopup(`<b>New Call</b><br>${call.location.address.street} ${call.location.address.number}, ${call.location.address.city.name}`)
+                    .addTo(mapInstanceRef.current);
+                callMarkersRef.current[call.id] = marker;
+            }
+        });
+        
+        console.log('✅ Updated call markers, now have', Object.keys(callMarkersRef.current).length);
+    }, [calls, events]);
+    
+    // Separate effect for event markers to avoid re-initializing the entire map
+    useEffect(() => {
+        if (!mapInstanceRef.current || !window.L) return;
+                
+        // Remove existing event markers
+        Object.values(eventMarkersRef.current).forEach((marker: any) => marker.remove());
+        eventMarkersRef.current = {};
+        
+        // Helper to get marker color based on triage code
+        const getMarkerColor = (codice: string): string => {
+            switch (codice) {
+                case Codice.ROSSO:
+                    return 'red';
+                case Codice.GIALLO:
+                    return 'yellow';
+                case Codice.VERDE:
+                    return 'green';
+                default:
+                    return 'red'; // fallback
+            }
+        };
+        
+        // Add markers for each event with color based on triage code
         events.forEach(event => {
             const coordinates: [number, number] = [
                 event.call.location.address.latitude,
                 event.call.location.address.longitude
             ];
+            
+            const color = getMarkerColor(event.details.codice);
+            const eventIcon = window.L.icon({
+                iconUrl: `https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-${color}.png`,
+                shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/images/marker-shadow.png',
+                iconSize: [25, 41],
+                iconAnchor: [12, 41],
+                popupAnchor: [1, -34],
+                shadowSize: [41, 41]
+            });
+            
             const marker = window.L.marker(coordinates, { icon: eventIcon })
                 .bindPopup(`<b>Event ${event.details.codice}</b><br>${event.call.location.address.street} ${event.call.location.address.number}, ${event.call.location.address.city.name}`)
                 .addTo(mapInstanceRef.current);
