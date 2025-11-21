@@ -174,17 +174,15 @@ export default function Map({ initCenter, initZoom = 10, center, zoom, stations 
                     const markerLatLng = marker.getLatLng();
                     if (Math.abs(markerLatLng.lat - center[0]) < 0.00001 && 
                         Math.abs(markerLatLng.lng - center[1]) < 0.00001) {
-                        // Found the marker, make it bounce
-                        setTimeout(() => {
-                            if (marker._icon) {
-                                marker._icon.classList.add('bounce');
-                                setTimeout(() => {
-                                    if (marker._icon) {
-                                        marker._icon.classList.remove('bounce');
-                                    }
-                                }, 1000);
-                            }
-                        }, 500);
+                        // Found the marker, make it bounce immediately
+                        if (marker._icon) {
+                            marker._icon.classList.add('bounce');
+                            setTimeout(() => {
+                                if (marker._icon) {
+                                    marker._icon.classList.remove('bounce');
+                                }
+                            }, 1000);
+                        }
                     }
                 });
                 
