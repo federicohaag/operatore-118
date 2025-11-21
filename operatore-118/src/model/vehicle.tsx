@@ -103,6 +103,9 @@ export type Station = {
  * based on its type (MSB, MSA1, MSA2).
  */
 export type Vehicle = {
+    /** Unique identifier for the vehicle */
+    id: string;
+    
     /** Station where the vehicle is based */
     station: Station;
     

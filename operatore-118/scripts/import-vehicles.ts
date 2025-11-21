@@ -15,6 +15,7 @@
 import { readFile, writeFile, access } from 'fs/promises';
 import { join, dirname, resolve } from 'path';
 import { fileURLToPath } from 'url';
+import { randomUUID } from 'crypto';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -33,6 +34,7 @@ interface VehicleJson {
 }
 
 interface VehicleData {
+  id: string;
   station: {
     name: string;
     coordinates: { latitude: number; longitude: number };
@@ -126,6 +128,7 @@ async function readVehiclesFromJson(jsonFilePath: string): Promise<VehicleData[]
       }
       
       vehicles.push({
+        id: randomUUID(),
         station: {
           name: record["Nome Postazione"].trim(),
           coordinates: { latitude, longitude }
@@ -232,6 +235,7 @@ function generateNewVehiclesFileContent(
     const escapedDays = vehicle.days.replace(/"/g, '\\"');
     
     const vehicleObj = `{
+    id: "${vehicle.id}",
     station: {
       name: "${escapedStationName}",
       coordinates: { latitude: ${vehicle.station.coordinates.latitude}, longitude: ${vehicle.station.coordinates.longitude} }

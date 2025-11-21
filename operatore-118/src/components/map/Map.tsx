@@ -162,8 +162,6 @@ export default function Map({ initCenter, initZoom = 10, center, zoom, stations 
                 callMarkersRef.current[call.id] = marker;
             }
         });
-        
-        console.log('✅ Updated call markers, now have', Object.keys(callMarkersRef.current).length);
     }, [calls, events]);
     
     // Separate effect for event markers to avoid re-initializing the entire map

@@ -194,20 +194,6 @@
     font-weight: 600;
 }
 
-.location-icon,
-.motivo-icon {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    padding: 4px 8px;
-    background-color: #f3f4f6;
-    border: 2px solid #d1d5db;
-    border-radius: 0;
-    font-size: 14px;
-    min-width: 24px;
-    height: 24px;
-}
-
 .event-body {
     display: flex;
     flex-direction: column;

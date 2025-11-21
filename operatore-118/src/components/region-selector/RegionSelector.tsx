@@ -4,7 +4,8 @@ import styles from './RegionSelector.module.css';
 import DispatchCenterSelectionOverlay from './DispatchCenterSelectionOverlay';
 import { RegionStatus, type Region } from '../../model/region';
 import { useAppDispatch, useAppSelector } from '../../core/redux/hooks';
-import { selectRegion, setRegion, setDispatchCenter, setCities, setVehicles } from '../../core/redux/slices/settings';
+import { selectRegion, setRegion, setDispatchCenter, setCities } from '../../core/redux/slices/settings';
+import { setVehicles } from '../../core/redux/slices/game';
 import { REGIONS } from '../../model/aggregates';
 
 const StatusMessages: Record<RegionStatus, string> = {

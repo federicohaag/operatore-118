@@ -4,15 +4,18 @@ import { initStateFromStorage, syncStateFromOtherWindow } from '../middlewares/l
 import type { Call } from '../../../model/call';
 import type { Event } from '../../../model/event';
 import type { Mission } from '../../../model/mission';
+import type { Vehicle } from '../../../model/vehicle';
 
 export interface GameSlice {
   calls: Call[];
   events: Event[];
+  vehicles: Vehicle[];
 }
 
 const initialState: GameSlice = {
   calls: [],
   events: [],
+  vehicles: [],
 };
 
 export const gameSlice = createSlice({
@@ -35,6 +38,10 @@ export const gameSlice = createSlice({
     clearCalls: (state) => {
       state.calls = [];
     },
+    // Vehicle actions
+    setVehicles: (state: GameSlice, action: PayloadAction<Vehicle[]>) => {
+      state.vehicles = action.payload;
+    },
     // Event actions
     addEvent: (state: GameSlice, action: PayloadAction<Event>) => {
       state.events.push(action.payload);
@@ -51,10 +58,10 @@ export const gameSlice = createSlice({
         event.missions.push(action.payload.mission);
       }
     },
-    removeMissionFromEvent: (state: GameSlice, action: PayloadAction<{ eventId: string; vehicleRadioName: string }>) => {
+    removeMissionFromEvent: (state: GameSlice, action: PayloadAction<{ eventId: string; vehicleId: string }>) => {
       const event = state.events.find(e => e.id === action.payload.eventId);
       if (event) {
-        event.missions = event.missions.filter(m => m.vehicle.radioName !== action.payload.vehicleRadioName);
+        event.missions = event.missions.filter(m => m.vehicleId !== action.payload.vehicleId);
       }
     },
   },
@@ -66,6 +73,7 @@ export const gameSlice = createSlice({
         ...event,
         missions: event.missions || []
       }));
+      state.vehicles = action.payload.game.vehicles || [];
     });
     builder.addCase(syncStateFromOtherWindow, (state, action) => {
       // When syncing from other windows, update the game state
@@ -74,6 +82,7 @@ export const gameSlice = createSlice({
         ...event,
         missions: event.missions || []
       }));
+      state.vehicles = action.payload.game.vehicles || [];
     });
   },
 });
@@ -83,6 +92,7 @@ export const {
   removeCall, 
   markCallAsProcessed, 
   clearCalls,
+  setVehicles,
   addEvent,
   removeEvent,
   clearEvents,
@@ -104,3 +114,8 @@ export const selectCallById = (callId: string) => (state: RootState) =>
   state.game.calls.find(call => call.id === callId);
 
 export const selectEvents = (state: RootState) => state.game.events;
+
+export const selectVehicles = (state: RootState) => state.game.vehicles;
+
+export const selectVehicleById = (vehicleId: string) => (state: RootState) =>
+  state.game.vehicles.find(vehicle => vehicle.id === vehicleId);

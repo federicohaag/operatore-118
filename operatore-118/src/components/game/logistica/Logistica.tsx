@@ -1,9 +1,7 @@
 import { useState } from 'react';
 import styles from './Logistica.module.css';
 import { useAppSelector, useAppDispatch } from '../../../core/redux/hooks';
-import { selectEvents, addMissionToEvent, removeMissionFromEvent, selectAllCalls } from '../../../core/redux/slices/game';
-import { selectVehicles } from '../../../core/redux/slices/settings';
-import { Luogo, LUOGO_ICON_MAP, Motivo, MOTIVO_ICON_MAP } from '../../../model/eventDetails';
+import { selectEvents, addMissionToEvent, removeMissionFromEvent, selectAllCalls, selectVehicles } from '../../../core/redux/slices/game';
 import type { Vehicle } from '../../../model/vehicle';
 import type { Event } from '../../../model/event';
 import type { VirtualClock } from '../../../core/VirtualClock';
@@ -65,14 +63,14 @@ export default function Logistica({ clock, onStationSelect }: LogisticaProps) {
             // Create mission when selecting
             const mission = {
                 id: crypto.randomUUID(),
-                vehicle: vehicle,
+                vehicleId: vehicle.id,
                 createdAt: clock.now()
             };
             
             dispatch(addMissionToEvent({ eventId, mission }));
         } else {
             // Remove mission when deselecting
-            dispatch(removeMissionFromEvent({ eventId, vehicleRadioName: radioName }));
+            dispatch(removeMissionFromEvent({ eventId, vehicleId: vehicle.id }));
         }
     };
 
@@ -113,8 +111,14 @@ export default function Logistica({ clock, onStationSelect }: LogisticaProps) {
             const event = events.find(e => e.id === eventId);
             if (event && onStationSelect) {
                 setSelectedEventId(eventId);
-                const missionVehicles = new Set(event.missions.map(m => m.vehicle.radioName));
-                setSelectedVehicles(missionVehicles);
+                // Get vehicle radio names from mission vehicleIds
+                const missionVehicleRadioNames = new Set(
+                    event.missions
+                        .map(m => vehicles.find(v => v.id === m.vehicleId))
+                        .filter((v): v is Vehicle => v !== undefined)
+                        .map(v => v.radioName)
+                );
+                setSelectedVehicles(missionVehicleRadioNames);
                 setVehicleTypeFilter('all');
                 
                 // Center map on event location
@@ -136,12 +140,20 @@ export default function Logistica({ clock, onStationSelect }: LogisticaProps) {
     const vehiclesInOtherEvents = new Set(
         events
             .filter(e => e.id !== selectedEventId)
-            .flatMap(e => e.missions.map(m => m.vehicle.radioName))
+            .flatMap(e => e.missions
+                .map(m => vehicles.find(v => v.id === m.vehicleId))
+                .filter((v): v is Vehicle => v !== undefined)
+                .map(v => v.radioName)
+            )
     );
 
     // Get all vehicles currently on any mission
     const vehiclesOnMissions = new Set(
-        events.flatMap(e => e.missions.map(m => m.vehicle.radioName))
+        events.flatMap(e => e.missions
+            .map(m => vehicles.find(v => v.id === m.vehicleId))
+            .filter((v): v is Vehicle => v !== undefined)
+            .map(v => v.radioName)
+        )
     );
 
     // Sort vehicles alphabetically, with those on missions first
@@ -184,8 +196,6 @@ export default function Logistica({ clock, onStationSelect }: LogisticaProps) {
                                             }}>
                                                 {getCodiceInitial(event.details.codice)}
                                             </span>
-                                            <span className={styles['location-icon']} title="Luogo">{getLuogoIcon(event.details.luogo)}</span>
-                                            <span className={styles['motivo-icon']} title="Motivo">{getMotivoIcon(event.details.motivo)}</span>
                                             <span className={styles['event-city']}>{call.location.address.city.name.toUpperCase()}</span>
                                             <span className={styles['event-address']} title={`${call.location.address.street} ${call.location.address.number}`.toUpperCase()}>
                                                 {(() => {
@@ -341,12 +351,4 @@ function getCodiceInitial(codice: string): string {
         case 'VERDE': return 'V';
         default: return '?';
     }
-}
-
-function getLuogoIcon(luogo: Luogo): string {
-    return LUOGO_ICON_MAP[luogo];
-}
-
-function getMotivoIcon(motivo: Motivo): string {
-    return MOTIVO_ICON_MAP[motivo];
 }

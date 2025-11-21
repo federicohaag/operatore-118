@@ -1,5 +1,3 @@
-import type { Vehicle } from './vehicle';
-
 /**
  * Represents an emergency mission with assigned resources and operational status
  * 
@@ -10,8 +8,8 @@ export type Mission = {
     /** Unique identifier for the mission */
     id: string;
     
-    /** Assigned vehicle responding to the emergency */
-    vehicle: Vehicle;
+    /** ID of the assigned vehicle responding to the emergency */
+    vehicleId: string;
     
     /** 
      * Creation timestamp of the mission in milliseconds
