@@ -1,6 +1,5 @@
 import type { EventDetails } from './eventDetails';
 import type { Mission } from './mission';
-import type { Call } from './call';
 
 /**
  * Represents a complete emergency call event with all associated details
@@ -14,8 +13,8 @@ export type Event = {
     /** Unique identifier for the emergency event */
     id: string;
     
-    /** The call that originated this event */
-    call: Call;
+    /** ID of the call that originated this event */
+    callId: string;
     
     /** Complete mission details including triage, location, symptoms, and coordination */
     details: EventDetails;

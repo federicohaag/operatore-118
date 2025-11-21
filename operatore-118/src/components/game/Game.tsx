@@ -14,7 +14,7 @@ import { CALL_GENERATOR_CONFIG } from '../../core/config';
 import type { SimContext } from '../../core/EventQueue';
 import { useAppSelector, useAppDispatch } from '../../core/redux/hooks';
 import { selectRegion, selectDispatchCenter, selectCities, selectVehicles, clearSettings, selectTtsEnabled, setTtsEnabled, selectCallEmissionEnabled, setCallEmissionEnabled } from '../../core/redux/slices/settings';
-import { clearCalls, selectCalls, selectEvents, clearEvents } from '../../core/redux/slices/game';
+import { clearCalls, selectCalls, selectEvents, clearEvents, selectAllCalls } from '../../core/redux/slices/game';
 import { STORAGE_STATE_KEY } from '../../core/redux/constants';
 import { REGIONS } from '../../model/aggregates';
 import { extractStations } from '../../model/vehicle';
@@ -28,6 +28,7 @@ export default function Game() {
     const cities = useAppSelector(selectCities);
     const vehicles = useAppSelector(selectVehicles);
     const unprocessedCalls = useAppSelector(selectCalls);
+    const allCalls = useAppSelector(selectAllCalls);
     const events = useAppSelector(selectEvents);
     const ttsEnabled = useAppSelector(selectTtsEnabled);
     const callEmissionEnabled = useAppSelector(selectCallEmissionEnabled);
@@ -36,12 +37,15 @@ export default function Game() {
     
     // Memoize event locations to prevent Map re-render when missions change
     const eventLocations = useMemo(() => 
-        events.map(e => ({
-            id: e.id,
-            call: e.call,
-            details: e.details
-        })),
-        [events.map(e => `${e.id}-${e.call.location.address.latitude}-${e.call.location.address.longitude}`).join(',')]
+        events.map(e => {
+            const call = allCalls.find(c => c.id === e.callId);
+            return call ? {
+                id: e.id,
+                call: call,
+                details: e.details
+            } : null;
+        }).filter((loc): loc is NonNullable<typeof loc> => loc !== null),
+        [events.map(e => `${e.id}-${e.callId}`).join(','), allCalls.length]
     );
     
     // Text-to-speech functionality (only the speak function, state is in Redux)

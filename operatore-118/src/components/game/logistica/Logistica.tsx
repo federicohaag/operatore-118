@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import styles from './Logistica.module.css';
 import { useAppSelector, useAppDispatch } from '../../../core/redux/hooks';
-import { selectEvents, addMissionToEvent, removeMissionFromEvent } from '../../../core/redux/slices/game';
+import { selectEvents, addMissionToEvent, removeMissionFromEvent, selectAllCalls } from '../../../core/redux/slices/game';
 import { selectVehicles } from '../../../core/redux/slices/settings';
 import { Luogo, LUOGO_ICON_MAP, Motivo, MOTIVO_ICON_MAP } from '../../../model/eventDetails';
 import type { Vehicle } from '../../../model/vehicle';
@@ -15,11 +15,17 @@ type LogisticaProps = {
 
 export default function Logistica({ clock, onStationSelect }: LogisticaProps) {
     const events = useAppSelector(selectEvents);
+    const calls = useAppSelector(selectAllCalls);
     const vehicles = useAppSelector(selectVehicles);
     const dispatch = useAppDispatch();
     const [selectedEventId, setSelectedEventId] = useState<string | null>(null);
     const [selectedVehicles, setSelectedVehicles] = useState<Set<string>>(new Set());
     const [vehicleTypeFilter, setVehicleTypeFilter] = useState<string>('all');
+
+    // Helper function to get call from event
+    const getCallForEvent = (event: Event) => {
+        return calls.find(c => c.id === event.callId);
+    };
 
     const filteredVehicles = vehicleTypeFilter === 'all' 
         ? vehicles 
@@ -112,11 +118,14 @@ export default function Logistica({ clock, onStationSelect }: LogisticaProps) {
                 setVehicleTypeFilter('all');
                 
                 // Center map on event location
-                const coords: [number, number] = [
-                    event.call.location.address.latitude,
-                    event.call.location.address.longitude
-                ];
-                onStationSelect(coords);
+                const call = getCallForEvent(event);
+                if (call) {
+                    const coords: [number, number] = [
+                        call.location.address.latitude,
+                        call.location.address.longitude
+                    ];
+                    onStationSelect(coords);
+                }
             }
         }
     };
@@ -158,31 +167,36 @@ export default function Logistica({ clock, onStationSelect }: LogisticaProps) {
                         <p className={styles['empty-message']}>Nessun evento creato</p>
                     ) : (
                         <div className={styles['events-list']}>
-                            {sortedEvents.map((event) => (
-                                <div 
-                                    key={event.id} 
-                                    className={`${styles['event-card']} ${event.missions.length === 0 ? styles['no-missions'] : ''} ${selectedEventId === event.id ? styles['event-selected'] : ''}`}
-                                    onClick={() => handleEventClick(event.id)}
-                                >
-                                    <div className={styles['event-header']}>
-                                        <span className={styles['event-code']} style={{ 
-                                            backgroundColor: getColoreCodice(event.details.codice),
-                                            color: 'white'
-                                        }}>
-                                            {getCodiceInitial(event.details.codice)}
-                                        </span>
-                                        <span className={styles['location-icon']} title="Luogo">{getLuogoIcon(event.details.luogo)}</span>
-                                        <span className={styles['motivo-icon']} title="Motivo">{getMotivoIcon(event.details.motivo)}</span>
-                                        <span className={styles['event-city']}>{event.call.location.address.city.name.toUpperCase()}</span>
-                                        <span className={styles['event-address']} title={`${event.call.location.address.street} ${event.call.location.address.number}`.toUpperCase()}>
-                                            {(() => {
-                                                const fullAddress = `${event.call.location.address.street} ${event.call.location.address.number}`.toUpperCase();
-                                                return fullAddress.length > 50 ? fullAddress.substring(0, 50) + '...' : fullAddress;
-                                            })()}
-                                        </span>
+                            {sortedEvents.map((event) => {
+                                const call = getCallForEvent(event);
+                                if (!call) return null;
+                                
+                                return (
+                                    <div 
+                                        key={event.id} 
+                                        className={`${styles['event-card']} ${event.missions.length === 0 ? styles['no-missions'] : ''} ${selectedEventId === event.id ? styles['event-selected'] : ''}`}
+                                        onClick={() => handleEventClick(event.id)}
+                                    >
+                                        <div className={styles['event-header']}>
+                                            <span className={styles['event-code']} style={{ 
+                                                backgroundColor: getColoreCodice(event.details.codice),
+                                                color: 'white'
+                                            }}>
+                                                {getCodiceInitial(event.details.codice)}
+                                            </span>
+                                            <span className={styles['location-icon']} title="Luogo">{getLuogoIcon(event.details.luogo)}</span>
+                                            <span className={styles['motivo-icon']} title="Motivo">{getMotivoIcon(event.details.motivo)}</span>
+                                            <span className={styles['event-city']}>{call.location.address.city.name.toUpperCase()}</span>
+                                            <span className={styles['event-address']} title={`${call.location.address.street} ${call.location.address.number}`.toUpperCase()}>
+                                                {(() => {
+                                                    const fullAddress = `${call.location.address.street} ${call.location.address.number}`.toUpperCase();
+                                                    return fullAddress.length > 50 ? fullAddress.substring(0, 50) + '...' : fullAddress;
+                                                })()}
+                                            </span>
+                                        </div>
                                     </div>
-                                </div>
-                            ))}
+                                );
+                            })}
                         </div>
                     )}
                 </div>
@@ -198,6 +212,7 @@ export default function Logistica({ clock, onStationSelect }: LogisticaProps) {
                         getSortedVehiclesAlphabetically={getSortedVehiclesAlphabetically}
                         vehiclesInOtherEvents={vehiclesInOtherEvents}
                         vehiclesOnMissions={vehiclesOnMissions}
+                        getCallForEvent={getCallForEvent}
                     />
                 </div>
             </div>
@@ -216,6 +231,7 @@ type VehiclesListProps = {
     getSortedVehiclesAlphabetically: () => Vehicle[];
     vehiclesInOtherEvents: Set<string>;
     vehiclesOnMissions: Set<string>;
+    getCallForEvent: (event: Event) => any;
 };
 
 function VehiclesList({ 
@@ -228,11 +244,13 @@ function VehiclesList({
     getSortedVehiclesWithDistance,
     getSortedVehiclesAlphabetically,
     vehiclesInOtherEvents,
-    vehiclesOnMissions
+    vehiclesOnMissions,
+    getCallForEvent
 }: VehiclesListProps) {
-    const eventLocation = event ? {
-        lat: event.call.location.address.latitude,
-        lon: event.call.location.address.longitude
+    const call = event ? getCallForEvent(event) : null;
+    const eventLocation = call ? {
+        lat: call.location.address.latitude,
+        lon: call.location.address.longitude
     } : null;
 
     return (

@@ -64,10 +64,10 @@ export default function CallTaker({ clock, onCallSelect: onCallSelect, onSpeak }
         const call = calls.find(c => c.id === selectedCall);
         if (!call) return;
         
-        // Create event with generated UUID and full call object
+        // Create event with generated UUID and call ID reference
         const newEvent: Event = {
             id: generateUuid(),
-            call: call,
+            callId: call.id,
             details: eventDetails,
             missions: [],
             createdAt: clock.now(),
