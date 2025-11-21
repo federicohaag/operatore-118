@@ -73,7 +73,6 @@ export default function Map({ initCenter, initZoom = 10, center, zoom, stations 
                 
                 // Add station markers after map is initialized
                 addStationMarkers();
-                addEventMarkers();
             }
         };
         
@@ -108,41 +107,6 @@ export default function Map({ initCenter, initZoom = 10, center, zoom, stations 
             console.log('✅ Added', stationMarkersRef.current.length, 'station markers');
         };
 
-        // Function to add event markers
-        const addEventMarkers = () => {
-            if (!mapInstanceRef.current || !window.L || events.length === 0) return;
-            
-            console.log('✅ Adding', events.length, 'event markers to map');
-            
-            // Remove existing event markers
-            Object.values(eventMarkersRef.current).forEach((marker: any) => marker.remove());
-            eventMarkersRef.current = {};
-            
-            // Create custom icon for events (red marker)
-            const eventIcon = window.L.icon({
-                iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-red.png',
-                shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/images/marker-shadow.png',
-                iconSize: [25, 41],
-                iconAnchor: [12, 41],
-                popupAnchor: [1, -34],
-                shadowSize: [41, 41]
-            });
-            
-            // Add markers for each event
-            events.forEach(event => {
-                const coordinates: [number, number] = [
-                    event.call.location.address.latitude,
-                    event.call.location.address.longitude
-                ];
-                const marker = window.L.marker(coordinates, { icon: eventIcon })
-                    .bindPopup(`<b>Event ${event.details.codice}</b><br>${event.call.location.address.street} ${event.call.location.address.number}, ${event.call.location.address.city.name}`)
-                    .addTo(mapInstanceRef.current);
-                eventMarkersRef.current[event.id] = marker;
-            });
-            
-            console.log('✅ Added', Object.keys(eventMarkersRef.current).length, 'event markers');
-        };
-
         initializeMap();
 
         // Cleanup function
@@ -157,7 +121,42 @@ export default function Map({ initCenter, initZoom = 10, center, zoom, stations 
                 mapInstanceRef.current = null;
             }
         };
-    }, [initCenter, initZoom, stations, events]);
+    }, [initCenter, initZoom, stations]);
+    
+    // Separate effect for event markers to avoid re-initializing the entire map
+    useEffect(() => {
+        if (!mapInstanceRef.current || !window.L) return;
+        
+        console.log('✅ Updating', events.length, 'event markers');
+        
+        // Remove existing event markers
+        Object.values(eventMarkersRef.current).forEach((marker: any) => marker.remove());
+        eventMarkersRef.current = {};
+        
+        // Create custom icon for events (red marker)
+        const eventIcon = window.L.icon({
+            iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-red.png',
+            shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/images/marker-shadow.png',
+            iconSize: [25, 41],
+            iconAnchor: [12, 41],
+            popupAnchor: [1, -34],
+            shadowSize: [41, 41]
+        });
+        
+        // Add markers for each event
+        events.forEach(event => {
+            const coordinates: [number, number] = [
+                event.call.location.address.latitude,
+                event.call.location.address.longitude
+            ];
+            const marker = window.L.marker(coordinates, { icon: eventIcon })
+                .bindPopup(`<b>Event ${event.details.codice}</b><br>${event.call.location.address.street} ${event.call.location.address.number}, ${event.call.location.address.city.name}`)
+                .addTo(mapInstanceRef.current);
+            eventMarkersRef.current[event.id] = marker;
+        });
+        
+        console.log('✅ Updated event markers, now have', Object.keys(eventMarkersRef.current).length);
+    }, [events]);
 
     // Update map center and marker when center prop changes
     useEffect(() => {

@@ -35,7 +35,16 @@ export default function Game() {
     const selectedRegionId = useAppSelector(selectRegion);
     const selectedDispatchCenterId = useAppSelector(selectDispatchCenter);
     
+    // Create stable dependency key for event locations
+    const eventLocationKey = useMemo(() => {
+        return events.map(e => {
+            const call = allCalls.find(c => c.id === e.callId);
+            return call ? `${e.id}:${call.location.address.latitude},${call.location.address.longitude}` : `${e.id}:null`;
+        }).join('|');
+    }, [events, allCalls]);
+    
     // Memoize event locations to prevent Map re-render when missions change
+    // Only recompute when event IDs or their call coordinates change
     const eventLocations = useMemo(() => 
         events.map(e => {
             const call = allCalls.find(c => c.id === e.callId);
@@ -45,7 +54,7 @@ export default function Game() {
                 details: e.details
             } : null;
         }).filter((loc): loc is NonNullable<typeof loc> => loc !== null),
-        [events.map(e => `${e.id}-${e.callId}`).join(','), allCalls.length]
+        [eventLocationKey]
     );
     
     // Text-to-speech functionality (only the speak function, state is in Redux)
