@@ -1,4 +1,9 @@
-import type { EventType } from '../model/scheduledEvent';
+export const EventType = {
+  CALL_RECEIVED: "CALL_RECEIVED",
+  MISSION_CREATION: "MISSION_CREATION"
+} as const;
+
+export type EventType = typeof EventType[keyof typeof EventType];
 
 /**
  * Discrete simulation event with handler

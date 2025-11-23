@@ -2,13 +2,13 @@ import { useState } from 'react';
 import styles from './Logistica.module.css';
 import { useAppSelector, useAppDispatch } from '../../../core/redux/hooks';
 import { selectEvents, addMissionToEvent, removeMissionFromEvent, selectAllCalls, selectVehicles, updateMissionStatus, addScheduledEvent, removeScheduledEvent } from '../../../core/redux/slices/game';
-import { EventType } from '../../../model/scheduledEvent';
 import type { Vehicle } from '../../../model/vehicle';
 import type { Event } from '../../../model/event';
 import { MissionStatus, calculateMissionSpeed } from '../../../model/mission';
 import { fetchRoute } from '../../../core/MissionRouting';
 import type { VirtualClock } from '../../../core/VirtualClock';
 import type { Scheduler } from '../../../core/Scheduler';
+import { EventType } from '../../../core/EventQueue';
 
 type LogisticaProps = {
     clock: VirtualClock;
@@ -95,12 +95,12 @@ export default function Logistica({ clock, scheduler, onStationSelect }: Logisti
             dispatch(addScheduledEvent({
                 id: scheduledEventId,
                 scheduledTime,
-                type: EventType.MISSION_DISPATCH,
+                type: EventType.MISSION_CREATION,
                 payload: { eventId, missionId: mission.id, vehicleId: vehicle.id, callId: call.id }
             }));
             
             scheduler.scheduleIn(20000, {
-                type: EventType.MISSION_DISPATCH,
+                type: EventType.MISSION_CREATION,
                 payload: { eventId, missionId: mission.id, vehicleId: vehicle.id, callId: call.id, scheduledEventId },
                 handler: async (ctx, ev) => {
                     if (!ev.payload) return;

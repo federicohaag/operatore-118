@@ -1,10 +1,10 @@
 import type { Scheduler } from './Scheduler';
-import { EventType } from '../model/scheduledEvent';
 import { addCall } from './redux/slices/game';
 import { CALL_TEMPLATES } from '../data/calls';
 import type { Call } from '../model/call';
 import { generateUuid } from './utils';
 import { AddressGenerator } from './AddressGenerator';
+import { EventType } from './EventQueue';
 
 /**
  * Configuration options for CallGenerator.

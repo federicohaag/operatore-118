@@ -5,7 +5,20 @@ import type { Call } from '../../../model/call';
 import type { Event } from '../../../model/event';
 import type { Mission } from '../../../model/mission';
 import type { Vehicle } from '../../../model/vehicle';
-import type { PersistedSimEvent } from '../../../model/scheduledEvent';
+import type { EventType } from '../../../core/EventQueue';
+
+/**
+ * Persisted scheduled event for page reload recovery
+ * 
+ * Stores minimal data needed to recreate a SimEvent after page reload.
+ * The handler function is not persisted - it's recreated based on type.
+ */
+export interface ScheduledEvent {
+  id: string;
+  scheduledTime: number;
+  type: EventType;
+  payload: any;
+}
 
 export interface GameSlice {
   calls: Call[];
@@ -14,7 +27,7 @@ export interface GameSlice {
   /** Current simulation time in milliseconds (updated periodically, not every frame) */
   simulationTime: number;
   /** Scheduled events that need to be restored on page reload */
-  scheduledEvents: PersistedSimEvent[];
+  scheduledEvents: ScheduledEvent[];
 }
 
 const initialState: GameSlice = {
@@ -117,7 +130,7 @@ export const gameSlice = createSlice({
       }
     },
     // Scheduled events management
-    addScheduledEvent: (state: GameSlice, action: PayloadAction<PersistedSimEvent>) => {
+    addScheduledEvent: (state: GameSlice, action: PayloadAction<ScheduledEvent>) => {
       state.scheduledEvents.push(action.payload);
     },
     removeScheduledEvent: (state: GameSlice, action: PayloadAction<string>) => {

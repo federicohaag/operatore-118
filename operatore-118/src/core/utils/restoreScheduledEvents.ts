@@ -1,10 +1,9 @@
 import type { Scheduler } from '../Scheduler';
-import type { PersistedSimEvent } from '../../model/scheduledEvent';
-import { removeScheduledEvent, updateMissionStatus } from '../redux/slices/game';
-import { EventType } from '../../model/scheduledEvent';
+import { removeScheduledEvent, updateMissionStatus, type ScheduledEvent } from '../redux/slices/game';
 import { MissionStatus } from '../../model/mission';
 import { fetchRoute } from '../MissionRouting';
 import type { AppDispatch } from '../redux/store';
+import { EventType } from '../EventQueue';
 
 /**
  * Restores scheduled events from Redux state to the scheduler after page reload
@@ -18,7 +17,7 @@ import type { AppDispatch } from '../redux/store';
  */
 export function restoreScheduledEvents(
     scheduler: Scheduler,
-    scheduledEvents: PersistedSimEvent[],
+    scheduledEvents: ScheduledEvent[],
     currentSimulationTime: number,
     dispatch: AppDispatch,
     vehicles: any,
@@ -29,9 +28,9 @@ export function restoreScheduledEvents(
         
         // Only restore events that haven't happened yet
         if (delay > 0) {
-            if (event.type === EventType.MISSION_DISPATCH) {
+            if (event.type === EventType.MISSION_CREATION) {
                 scheduler.scheduleIn(delay, {
-                    type: 'MISSION_DISPATCH' as any,
+                    type: EventType.MISSION_CREATION,
                     payload: { ...event.payload, scheduledEventId: event.id },
                     handler: async (ctx, ev) => {
                         if (!ev.payload) return;
