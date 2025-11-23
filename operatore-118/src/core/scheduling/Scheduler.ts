@@ -1,6 +1,6 @@
-import { VirtualClock } from './VirtualClock';
-import { EventQueue } from './EventQueue';
-import type { SimEvent, SimContext } from './EventQueue';
+import { VirtualClock } from '../simulation/VirtualClock';
+import { EventQueue } from '../simulation/EventQueue';
+import type { SimEvent, SimContext } from '../simulation/EventQueue';
 
 /**
  * Scheduler - discrete-event scheduler

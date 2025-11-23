@@ -4,8 +4,8 @@ import { useAppSelector, useAppDispatch } from '../../../core/redux/hooks';
 import { selectEvents, removeMissionFromEvent, selectAllCalls, selectVehicles } from '../../../core/redux/slices/game';
 import type { Vehicle } from '../../../model/vehicle';
 import type { Event } from '../../../model/event';
-import type { VirtualClock } from '../../../core/VirtualClock';
-import type { Scheduler } from '../../../core/Scheduler';
+import type { VirtualClock } from '../../../core/simulation/VirtualClock';
+import type { Scheduler } from '../../../core/scheduling/Scheduler';
 import { createMission } from '../../../core/actions/missionActions';
 
 type LogisticaProps = {

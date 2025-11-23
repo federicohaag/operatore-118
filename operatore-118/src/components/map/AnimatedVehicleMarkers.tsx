@@ -23,12 +23,9 @@ type AnimatedVehicleMarkersProps = {
     simulationTime: number;
 };
 
-/**
- * Component that renders and animates vehicle markers on the map
- * 
- * Uses requestAnimationFrame for smooth 60fps animations.
- * Calculates positions from mission data using useVehiclePosition hook,
- * avoiding continuous Redux updates.
+/** Renders and animates vehicle markers with requestAnimationFrame.
+ * Positions are derived deterministically from `mission.route` and
+ * `simulationTime` (no continuous Redux writes).
  */
 export default function AnimatedVehicleMarkers({
     mapInstance,
@@ -83,12 +80,7 @@ export default function AnimatedVehicleMarkers({
             activeMissions: activeMissions.length
         });
         
-        /**
-         * Gets the appropriate icon URL based on vehicle type
-         * 
-         * @param vehicleType - Type of vehicle (MSB, MSA1, MSA2)
-         * @returns Icon URL for the marker
-         */
+        /** Return icon URL for a given `vehicleType`. */
         const getVehicleIconUrl = (vehicleType: string): string => {
             switch (vehicleType) {
                 case VehicleType.MSB:
@@ -227,15 +219,9 @@ export default function AnimatedVehicleMarkers({
     return null;
 }
 
-/**
- * Calculates vehicle position along route (extracted from useVehiclePosition hook)
- * 
- * @param mission Mission with route
- * @param currentSimTime Current simulation time in milliseconds
- * @returns Current position coordinates or null
- */
+/** Return interpolated vehicle coordinates for `mission` at `currentSimTime`. */
 function calculateVehiclePosition(
-    mission: Mission, 
+    mission: Mission,
     currentSimTime: number
 ): { latitude: number; longitude: number } | null {
     if (!mission.route || !mission.route.waypoints.length) return null;
@@ -282,13 +268,7 @@ function calculateVehiclePosition(
     return { latitude: lastWaypoint.latitude, longitude: lastWaypoint.longitude };
 }
 
-/**
- * Calculates great-circle distance between two points using Haversine formula
- * 
- * @param from Starting waypoint
- * @param to Ending waypoint
- * @returns Distance in kilometers
- */
+/** Compute great-circle distance (km) between `from` and `to`. */
 function haversineDistance(
     from: { latitude: number; longitude: number },
     to: { latitude: number; longitude: number }
@@ -306,9 +286,7 @@ function haversineDistance(
     return R * c;
 }
 
-/**
- * Converts degrees to radians
- */
+/** Convert degrees to radians. */
 function toRadians(degrees: number): number {
     return degrees * (Math.PI / 180);
 }

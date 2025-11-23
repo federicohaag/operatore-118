@@ -1,13 +1,13 @@
 import type { AppDispatch } from '../redux/store';
-import type { Scheduler } from '../Scheduler';
-import type { VirtualClock } from '../VirtualClock';
+import type { Scheduler } from '../scheduling/Scheduler';
+import type { VirtualClock } from '../simulation/VirtualClock';
 import type { Vehicle } from '../../model/vehicle';
 import type { Call } from '../../model/call';
 import type { Codice } from '../../model/eventDetails';
 import { MissionStatus, calculateMissionSpeed } from '../../model/mission';
 import { addMissionToEvent } from '../redux/slices/game';
-import { EventType } from '../EventQueue';
-import { createMissionDispatchHandler } from '../eventHandlers/missionHandlers';
+import { EventType } from '../simulation/EventQueue';
+import { createMissionDispatchHandler } from '../scheduling/handlers/missionHandlers';
 import { scheduleEvent } from '../scheduling/scheduleEvent';
 
 /**

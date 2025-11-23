@@ -2,12 +2,11 @@ import { useState, useEffect } from 'react';
 import styles from './CallTaker.module.css';
 import { useAppSelector, useAppDispatch } from '../../../core/redux/hooks';
 import { selectCalls, removeCall, markCallAsProcessed, addEvent } from '../../../core/redux/slices/game';
-import { generateUuid } from '../../../core/utils';
 import type { Event } from '../../../model/event';
 import type { EventDetails } from '../../../model/eventDetails';
 import LiveCall from './LiveCall';
 import CallTakerForm from './CallTakerForm';
-import type { VirtualClock } from '../../../core/VirtualClock';
+import type { VirtualClock } from '../../../core/simulation/VirtualClock';
 
 interface CallTakerProps {
     clock: VirtualClock;
@@ -66,7 +65,7 @@ export default function CallTaker({ clock, onCallSelect: onCallSelect, onSpeak }
         
         // Create event with generated UUID and call ID reference
         const newEvent: Event = {
-            id: generateUuid(),
+            id: crypto.randomUUID(),
             callId: call.id,
             details: eventDetails,
             missions: [],

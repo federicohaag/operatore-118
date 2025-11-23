@@ -5,7 +5,7 @@ import type { Call } from '../../../model/call';
 import type { Event } from '../../../model/event';
 import type { Mission } from '../../../model/mission';
 import type { Vehicle } from '../../../model/vehicle';
-import type { EventType } from '../../../core/EventQueue';
+import type { EventType } from '../../simulation/EventQueue';
 
 /**
  * Persisted scheduled event for page reload recovery

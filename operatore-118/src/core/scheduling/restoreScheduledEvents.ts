@@ -1,8 +1,8 @@
-import type { Scheduler } from '../Scheduler';
+import type { Scheduler } from './Scheduler';
 import { removeScheduledEvent, type ScheduledEvent } from '../redux/slices/game';
 import type { AppDispatch } from '../redux/store';
-import { EventType } from '../EventQueue';
-import { createMissionDispatchHandler } from '../eventHandlers/missionHandlers';
+import { EventType } from '../simulation/EventQueue';
+import { createMissionDispatchHandler } from './handlers/missionHandlers';
 
 /**
  * Restores scheduled events from Redux state to the scheduler after page reload

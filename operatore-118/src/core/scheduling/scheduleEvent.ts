@@ -1,9 +1,9 @@
 import type { AppDispatch } from '../redux/store';
-import type { Scheduler } from '../Scheduler';
-import type { VirtualClock } from '../VirtualClock';
-import type { SimEvent, SimContext } from '../EventQueue';
+import type { Scheduler } from './Scheduler';
+import type { VirtualClock } from '../simulation/VirtualClock';
+import type { SimEvent, SimContext } from '../simulation/EventQueue';
 import { addScheduledEvent, removeScheduledEvent } from '../redux/slices/game';
-import type { EventType } from '../EventQueue';
+import type { EventType } from '../simulation/EventQueue';
 
 /**
  * Wraps a handler to automatically cleanup persisted scheduled events.

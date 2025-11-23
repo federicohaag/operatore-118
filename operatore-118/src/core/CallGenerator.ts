@@ -1,10 +1,9 @@
-import type { Scheduler } from './Scheduler';
+import type { Scheduler } from './scheduling/Scheduler';
 import { addCall } from './redux/slices/game';
 import { CALL_TEMPLATES } from '../data/calls';
 import type { Call } from '../model/call';
-import { generateUuid } from './utils';
 import { AddressGenerator } from './AddressGenerator';
-import { EventType } from './EventQueue';
+import { EventType } from './simulation/EventQueue';
 
 /**
  * Configuration options for CallGenerator.
@@ -104,7 +103,7 @@ export class CallGenerator {
 
   /** Return a new unique call id. */
   private generateCallId(): string {
-    return generateUuid();
+    return crypto.randomUUID();
   }
 
   /** Create a new Call sampled from templates and weighted severities. */
