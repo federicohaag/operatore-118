@@ -1,27 +1,12 @@
 import type { Waypoint, Route } from '../model/mission';
 
 /**
- * Fetches a route between two points using OSRM routing service
- * 
- * Uses the public OSRM demo server to calculate routes along real streets.
- * The route follows actual road networks and includes all waypoints along the path.
- * 
- * @param from - Starting waypoint (latitude, longitude)
- * @param to - Destination waypoint (latitude, longitude)
- * @param startedAt - Simulation time when the route starts
- * @returns Route with waypoints along real streets and total distance
- * @throws Error if the routing request fails
- * 
- * @example
- * ```typescript
- * const route = await fetchRoute(
- *   { latitude: 41.9028, longitude: 12.4964 },
- *   { latitude: 41.8919, longitude: 12.5113 },
- *   clock.now()
- * );
- * // route.waypoints contains all points along actual streets
- * // route.totalDistance is in meters
- * ```
+ * Fetch a route between two waypoints using OSRM (fallbacks to straight line).
+ *
+ * @param from Starting waypoint {latitude, longitude}
+ * @param to Destination waypoint {latitude, longitude}
+ * @param startedAt Simulation time when the route starts
+ * @returns Route with `waypoints[]`, `totalDistance` (meters) and `startedAt`
  */
 export async function fetchRoute(
     from: Waypoint,

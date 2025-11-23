@@ -21,38 +21,12 @@ export interface CallGeneratorConfig {
   };
 }
 
-/**
- * Generates emergency calls at regular intervals and dispatches them to the Redux store.
- * 
- * CallGenerator uses a Scheduler to create periodic CALL_RECEIVED events. Each call is
- * randomly generated from templates with configurable severity distribution. The generator 
- * supports start/stop control and automatically cancels pending events when stopped.
- * 
- * Integration with simulation:
- * - Schedules events through the provided Scheduler instance
- * - Uses simulation time (not real time) via the scheduler's clock
- * - Dispatches calls to Redux store through scheduler context
- * 
- * Lifecycle:
- * - Create with a Scheduler instance and required configuration
- * - Call start() to begin generation
- * - Call stop() to halt generation and cancel pending events
- * - Handles scheduler disposal gracefully by stopping generation
- */
+/** Generates periodic CALL_RECEIVED events and dispatches them to Redux. */
 export class CallGenerator {
-  /** Scheduler instance used for timing and event management */
   private scheduler: Scheduler;
-  
-  /** Configuration for call generation behavior */
   private config: CallGeneratorConfig;
-  
-  /** Tracks whether the generator is actively scheduling calls */
   private isStarted = false;
-  
-  /** Cancel function for the currently pending call event, if any */
   private currentEventCancel?: () => boolean;
-  
-  /** Address generator for creating realistic addresses */
   private addressGenerator: AddressGenerator;
 
   /**
@@ -68,12 +42,7 @@ export class CallGenerator {
     this.addressGenerator = addressGenerator;
   }
 
-  /**
-   * Starts generating calls at regular intervals.
-   * 
-   * Schedules the first call immediately. Subsequent calls are automatically
-   * scheduled after each call is generated. Does nothing if already started.
-   */
+  /** Start generating calls (no-op if already started). */
   start(): void {
     if (this.isStarted) return;
     
@@ -81,12 +50,7 @@ export class CallGenerator {
     this.scheduleNextCall();
   }
 
-  /**
-   * Stops call generation and cancels any pending call event.
-   * 
-   * Sets the started flag to false to prevent rescheduling, then cancels
-   * the currently pending event if one exists. Safe to call multiple times.
-   */
+  /** Stop generation and cancel pending event. */
   stop(): void {
     this.isStarted = false;
     // Cancel any pending event
@@ -96,17 +60,7 @@ export class CallGenerator {
     }
   }
 
-  /**
-   * Schedules the next call generation event.
-   * 
-   * Creates a CALL_RECEIVED event scheduled after the configured interval.
-   * The event handler dispatches the call to Redux and schedules the next call
-   * to create a continuous generation loop. Stores the cancel function for
-   * cleanup on stop().
-   * 
-   * If scheduling fails (e.g., scheduler disposed), logs a warning and stops
-   * generation automatically.
-   */
+  /** Schedule the next CALL_RECEIVED event; stores cancel() for cleanup. */
   private scheduleNextCall(): void {
     if (!this.isStarted) return;
 
@@ -132,15 +86,7 @@ export class CallGenerator {
     }
   }
 
-  /**
-   * Handles a generated call event by dispatching it to the Redux store.
-   * 
-   * @param ctx - Scheduler execution context containing dispatch function and clock
-   * @param event - Event object containing the generated call in payload
-   * 
-   * Logs a warning if the dispatch function is unavailable (shouldn't happen in
-   * normal operation but helps with debugging).
-   */
+  /** Dispatch generated call to Redux; stamps `receivedAt` from sim time. */
   private handleCall(ctx: any, event: any): void {
     const call = event.payload;
     // Add receivedAt timestamp from simulation time
@@ -156,33 +102,12 @@ export class CallGenerator {
     }
   }
 
-  /**
-   * Generates a unique identifier for a call.
-   * 
-   * @returns Random alphanumeric string suitable for use as a call ID
-   * 
-   * Uses base-36 encoding of a random number to create short, readable IDs.
-   * Not cryptographically secure but sufficient for simulation purposes.
-   */
+  /** Return a new unique call id. */
   private generateCallId(): string {
     return generateUuid();
   }
 
-  /**
-   * Generates a random emergency call from templates with weighted severity.
-   * 
-   * @returns Promise resolving to new Call object with randomly selected template and severity-matched feedback
-   * 
-   * Selection process:
-   * 1. Randomly picks a call template from CALL_TEMPLATES
-   * 2. Randomly selects severity using configured weighted distribution
-   * 3. Matches appropriate feedback from template based on selected severity
-   * 4. Generates realistic address using AddressGenerator (or placeholder if no cities configured)
-   * 5. Generates unique ID for the call
-   * 
-   * The weighted distribution ensures realistic emergency frequency patterns
-   * where critical cases are typically less common than stable ones.
-   */
+  /** Create a new Call sampled from templates and weighted severities. */
   private generateCall(): Call {
     // Pick a random template
     const template = CALL_TEMPLATES[Math.floor(Math.random() * CALL_TEMPLATES.length)];

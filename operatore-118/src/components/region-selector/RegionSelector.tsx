@@ -6,7 +6,7 @@ import { RegionStatus, type Region } from '../../model/region';
 import { useAppDispatch, useAppSelector } from '../../core/redux/hooks';
 import { selectRegion, setRegion, setDispatchCenter, setCities } from '../../core/redux/slices/settings';
 import { setVehicles } from '../../core/redux/slices/game';
-import { REGIONS } from '../../model/aggregates';
+import { REGIONS } from '../../data/aggregates';
 
 const StatusMessages: Record<RegionStatus, string> = {
     [RegionStatus.Available]: '',

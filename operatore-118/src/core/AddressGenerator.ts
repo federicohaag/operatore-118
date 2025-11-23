@@ -13,15 +13,7 @@ interface CityWithWeight {
   weight: number;
 }
 
-/**
- * Generates random addresses using population-weighted selection with buffering.
- * 
- * - Weights cities by population (higher population = higher selection probability)
- * - Pre-loads buffer for fast synchronous access
- * - Auto-refills buffer in background
- * 
- * Usage: await generator.initialize(); const addr = generator.getRandomAddress();
- */
+/** Generates population-weighted addresses with an async buffered cache. */
 export class AddressGenerator {
   private config: AddressGeneratorConfig;
   private cityWeights: CityWithWeight[] = [];
@@ -36,6 +28,7 @@ export class AddressGenerator {
     if (!config.addressesPath) throw new Error('addressesPath required');
   }
 
+  /** Initialize generator and warm the address buffer. */
   async initialize(): Promise<void> {
     if (this.initialized) return;
 
@@ -86,6 +79,7 @@ export class AddressGenerator {
     return addresses[index];
   }
 
+  /** Sample one random address (async) according to city weights. */
   private async generateRandomAddress(): Promise<Address> {
     let random = Math.random() * this.totalWeight;
     let selected = this.cityWeights[this.cityWeights.length - 1];
@@ -103,15 +97,17 @@ export class AddressGenerator {
     return this.loadAddressAtIndex(selected.city, index);
   }
 
+  /** Fill buffer with `count` generated addresses. */
   private async refillBuffer(count: number): Promise<void> {
     const addresses = await Promise.all(Array(count).fill(0).map(() => this.generateRandomAddress()));
     this.addressBuffer.push(...addresses);
   }
 
+  /** Trigger background refill when buffer falls below threshold. */
   private checkAndRefillBuffer(): void {
     const threshold = this.config.refillThreshold ?? 5;
     const amount = this.config.refillAmount ?? 10;
-    
+
     if (!this.isRefilling && this.addressBuffer.length < threshold) {
       this.isRefilling = true;
       this.refillBuffer(amount)
@@ -123,32 +119,38 @@ export class AddressGenerator {
     }
   }
 
+  /** Synchronously return a buffered address (caller must have initialized). */
   getRandomAddress(): Address {
     if (!this.initialized) throw new Error('Call initialize() first');
     if (!this.addressBuffer.length) throw new Error('Buffer empty');
-    
+
     const address = this.addressBuffer.shift()!;
     this.checkAndRefillBuffer();
     return address;
   }
 
+  /** Reset internal state (clears buffer and weights). */
   reset(): void {
     Object.assign(this, { cityWeights: [], totalWeight: 0, addressBuffer: [], isRefilling: false, initialized: false });
   }
 
+  /** Number of addresses currently buffered. */
   getBufferSize(): number {
     return this.addressBuffer.length;
   }
 
+  /** Return the address count for a given city `istat` code. */
   async getAddressCount(istatCode: string): Promise<number> {
     const city = this.cityWeights.find(w => w.city.istat === istatCode)?.city;
     return city ? this.getAddressCountForCity(city) : 0;
   }
 
+  /** Returns the aggregated city weight (not absolute address count). */
   getTotalAddressCount(): number {
     return this.totalWeight;
   }
 
+  /** Read-only view of computed city weights. */
   getCityWeights(): ReadonlyArray<Readonly<CityWithWeight>> {
     return this.cityWeights;
   }

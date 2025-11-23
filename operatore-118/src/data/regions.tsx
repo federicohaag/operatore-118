@@ -1,6 +1,6 @@
 
 import {type Region, RegionStatus} from '../model/region';
-import * as hospitals from './hospitals';
+import * as hospitals from './dispatch-centers/Lombardia/hospitals';
 import * as lombardia from './dispatch-centers/Lombardia/dispatch-centers';
 
 export const ABRUZZO: Region = { 

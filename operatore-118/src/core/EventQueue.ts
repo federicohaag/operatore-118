@@ -5,14 +5,7 @@ export const EventType = {
 
 export type EventType = typeof EventType[keyof typeof EventType];
 
-/**
- * Discrete simulation event with handler
- * 
- * @property time - Simulation time in milliseconds when event fires
- * @property type - Event type identifier
- * @property payload - Optional event-specific data
- * @property handler - Function executed when event fires
- */
+/** Simulation event with handler. */
 export type SimEvent<Payload = any> = {
   time: number;
   type: EventType;
@@ -20,48 +13,27 @@ export type SimEvent<Payload = any> = {
   handler: (ctx: SimContext, ev: SimEvent<Payload>) => void;
 };
 
-/**
- * Simulation context passed to event handlers
- * 
- * @property now - Returns current simulation time in milliseconds
- * @property dispatch - Optional Redux dispatch function for state updates
- */
+/** Context passed to event handlers. */
 export type SimContext = {
   now: () => number;
   dispatch?: (action: any) => void;
 };
 
-/**
- * Internal event node with metadata for heap operations
- * 
- * @property _seq - Sequence number for deterministic ordering
- * @property _id - Unique identifier for cancellation
- * @property _canceled - Cancellation flag
- */
+/** Internal node stored in the heap (adds metadata). */
 interface EventNode<Payload = any> extends SimEvent<Payload> {
   _seq: number;
   _id: number;
   _canceled: boolean;
 }
 
-/**
- * Min-heap priority queue for simulation events
- * 
- * Orders events by (time, sequence) for deterministic execution. Supports O(log N)
- * insertion/extraction and O(1) cancellation marking.
- */
+/** Min-heap priority queue for simulation events. */
 export class EventQueue {
   private heap: EventNode[] = [];
   private nextSeq = 0;
   private nextId = 1;
   private canceledIds = new Set<number>();
 
-  /**
-   * Adds event to queue
-   * 
-   * @param event - Event to schedule
-   * @returns Object with event id and cancel function
-   */
+  /** Add event to queue. Returns id and cancel(). */
   push<Payload>(event: SimEvent<Payload>): { id: number; cancel: () => boolean } {
     const node: EventNode<Payload> = {
       ...event,
@@ -85,21 +57,13 @@ export class EventQueue {
     return { id: node._id, cancel };
   }
 
-  /**
-   * Returns next event without removing it
-   * 
-   * @returns Next active event, or undefined if queue is empty
-   */
+  /** Peek next active event (does not remove). */
   peek(): SimEvent | undefined {
     this.skipCanceled();
     return this.heap.length > 0 ? this.heap[0] : undefined;
   }
 
-  /**
-   * Removes and returns next event
-   * 
-   * @returns Next active event, or undefined if queue is empty
-   */
+  /** Pop next active event. */
   pop(): SimEvent | undefined {
     this.skipCanceled();
     
@@ -118,12 +82,7 @@ export class EventQueue {
     return result;
   }
 
-  /**
-   * Cancels event by ID
-   * 
-   * @param id - Event identifier from push()
-   * @returns true if canceled, false if already canceled or not found
-   */
+  /** Cancel event by id. */
   cancel(id: number): boolean {
     if (!this.canceledIds.has(id)) {
       this.canceledIds.add(id);
@@ -138,18 +97,12 @@ export class EventQueue {
     return false;
   }
 
-  /**
-   * Returns number of active events
-   * 
-   * @returns Count of non-canceled events
-   */
+  /** Return number of active (non-canceled) events. */
   size(): number {
     return this.heap.filter(node => !node._canceled).length;
   }
 
-  /**
-   * Removes all events and resets queue
-   */
+  /** Clear queue and reset internal counters. */
   clear(): void {
     this.heap = [];
     this.canceledIds.clear();
@@ -157,9 +110,7 @@ export class EventQueue {
     this.nextId = 1;
   }
 
-  /**
-   * Removes canceled events from heap top
-   */
+  /** Remove canceled events from heap top. */
   private skipCanceled(): void {
     while (this.heap.length > 0 && this.heap[0]._canceled) {
       const last = this.heap.pop()!;
@@ -170,11 +121,7 @@ export class EventQueue {
     }
   }
 
-  /**
-   * Restores heap property by bubbling element up
-   * 
-   * @param index - Index of element to bubble up
-   */
+  /** Bubble element up to restore heap property. */
   private bubbleUp(index: number): void {
     while (index > 0) {
       const parentIndex = Math.floor((index - 1) / 2);
@@ -188,11 +135,7 @@ export class EventQueue {
     }
   }
 
-  /**
-   * Restores heap property by bubbling element down
-   * 
-   * @param index - Index of element to bubble down
-   */
+  /** Bubble element down to restore heap property. */
   private bubbleDown(index: number): void {
     while (true) {
       let smallest = index;
@@ -218,13 +161,7 @@ export class EventQueue {
     }
   }
 
-  /**
-   * Compares events by (time, sequence) for ordering
-   * 
-   * @param a - First event node
-   * @param b - Second event node
-   * @returns Negative if a < b, positive if a > b
-   */
+  /** Compare events by (time, sequence). */
   private compare(a: EventNode, b: EventNode): number {
     // Primary sort: time ascending
     if (a.time !== b.time) {
@@ -234,12 +171,7 @@ export class EventQueue {
     return a._seq - b._seq;
   }
 
-  /**
-   * Swaps two heap elements
-   * 
-   * @param i - First index
-   * @param j - Second index
-   */
+  /** Swap two heap elements. */
   private swap(i: number, j: number): void {
     [this.heap[i], this.heap[j]] = [this.heap[j], this.heap[i]];
   }

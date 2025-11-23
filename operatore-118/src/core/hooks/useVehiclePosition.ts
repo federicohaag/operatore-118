@@ -111,40 +111,13 @@ function haversineDistance(a: Waypoint, b: Waypoint): number {
 }
 
 /**
- * Calculates current vehicle position based on mission route and simulation time
- * 
- * This hook derives the vehicle's current position without requiring continuous
- * Redux updates. The position is calculated on each render based on:
- * - Mission route waypoints (persisted in Redux)
- * - Route start time (persisted in Redux)
- * - Current simulation time (updated periodically in Redux)
- * - Vehicle speed (persisted in Redux)
- * 
- * The calculation uses the formula:
- * distanceTraveled = (currentSimTime - routeStartedAt) * (speed / 3.6)
- * 
- * Where speed is converted from km/h to m/s by dividing by 3.6.
- * 
- * @param mission - Mission object containing route and timing information
- * @param currentSimTime - Current simulation time in milliseconds
- * @returns Current vehicle position, progress, and arrival status.
- *          Returns undefined if mission has no active route.
- * 
- * @example
- * ```tsx
- * function VehicleMarker({ mission }: { mission: Mission }) {
- *   const simTime = useAppSelector(selectSimulationTime);
- *   const position = useVehiclePosition(mission, simTime);
- *   
- *   if (!position) return null;
- *   
- *   return (
- *     <Marker position={[position.latitude, position.longitude]}>
- *       <Popup>Progress: {(position.progress * 100).toFixed(0)}%</Popup>
- *     </Marker>
- *   );
- * }
- * ```
+ * Compute a mission vehicle's interpolated position at `currentSimTime`.
+ *
+ * Returns `{ latitude, longitude, progress, arrived }` or `undefined` when
+ * the mission has no active route. The result is memoized with `useMemo`.
+ *
+ * Inputs that affect the result: route waypoints, `route.startedAt`,
+ * `route.totalDistance`, `mission.speed`, `mission.status`, and `currentSimTime`.
  */
 export function useVehiclePosition(
   mission: Mission,
@@ -198,57 +171,5 @@ export function useVehiclePosition(
       progress,
       arrived
     };
-  }, [mission, currentSimTime]);
-}
-
-/**
- * Estimates arrival time for a mission in progress
- * 
- * Calculates the estimated simulation time when the vehicle will reach
- * its destination based on remaining distance and current speed.
- * 
- * @param mission - Mission with active route
- * @param currentSimTime - Current simulation time in milliseconds
- * @returns Estimated arrival time in milliseconds, or undefined if no active route
- * 
- * @example
- * ```tsx
- * const eta = useEstimatedArrival(mission, simTime);
- * if (eta) {
- *   const remainingMs = eta - simTime;
- *   const remainingMinutes = Math.ceil(remainingMs / 60000);
- *   return <span>ETA: {remainingMinutes} min</span>;
- * }
- * ```
- */
-export function useEstimatedArrival(
-  mission: Mission,
-  currentSimTime: number
-): number | undefined {
-  return useMemo(() => {
-    if (!mission.route || 
-        mission.status === MissionStatus.ON_SCENE ||
-        mission.status === MissionStatus.ON_HOSPITAL ||
-        mission.status === MissionStatus.FREE_ON_HOSPITAL ||
-        mission.status === MissionStatus.COMPLETED) {
-      return undefined;
-    }
-    
-    // Calculate elapsed time
-    const elapsedMs = currentSimTime - mission.route.startedAt;
-    const elapsedSeconds = elapsedMs / 1000;
-    
-    // Calculate distance traveled
-    const speedMps = mission.speed / 3.6;
-    const distanceTraveled = speedMps * elapsedSeconds;
-    
-    // Calculate remaining distance
-    const remainingDistance = Math.max(0, mission.route.totalDistance - distanceTraveled);
-    
-    // Calculate remaining time
-    const remainingSeconds = speedMps > 0 ? remainingDistance / speedMps : 0;
-    const remainingMs = remainingSeconds * 1000;
-    
-    return currentSimTime + remainingMs;
   }, [mission, currentSimTime]);
 }

@@ -19,7 +19,7 @@ import { useAppSelector, useAppDispatch } from '../../core/redux/hooks';
 import { selectRegion, selectDispatchCenter, selectCities, clearSettings, selectTtsEnabled, setTtsEnabled, selectCallEmissionEnabled, setCallEmissionEnabled } from '../../core/redux/slices/settings';
 import { clearCalls, selectCalls, selectEvents, clearEvents, selectAllCalls, selectVehicles, selectAllMissions, selectSimulationTime, setSimulationTime, selectScheduledEvents, clearScheduledEvents } from '../../core/redux/slices/game';
 import { STORAGE_STATE_KEY } from '../../core/redux/constants';
-import { REGIONS } from '../../model/aggregates';
+import { REGIONS } from '../../data/aggregates';
 import { extractStations } from '../../model/vehicle';
 import type { Station } from '../map/Map';
 import phoneRingSound from '../../assets/phone_ring.mp3';
