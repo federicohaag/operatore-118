@@ -27,6 +27,7 @@ import phoneRingSound from '../../assets/phone_ring.mp3';
 export default function Game() {
     const [activeTab, setActiveTab] = useState<'chiamate' | 'sanitario' | 'logistica'>('chiamate');
     const [mapCenter, setMapCenter] = useState<[number, number] | undefined>(undefined);
+    const [externalCallSelection, setExternalCallSelection] = useState<string | null>(null);
     const [isReady, setIsReady] = useState(false);
     const [isGameInitialized, setIsGameInitialized] = useState(false);
     const dispatch = useAppDispatch();
@@ -105,6 +106,19 @@ export default function Game() {
         // Update the previous call IDs
         previousCallIdsRef.current = currentCallIds;
     }, [unprocessedCalls]);
+    
+    // Handle external call selection from map markers
+    // If a call marker is clicked and we're not in the "chiamate" tab, switch to it
+    useEffect(() => {
+        if (externalCallSelection) {
+            if (activeTab !== 'chiamate') {
+                setActiveTab('chiamate');
+            }
+            // Reset after processing
+            // Use a timeout to ensure CallTaker has processed the selection
+            setTimeout(() => setExternalCallSelection(null), 100);
+        }
+    }, [externalCallSelection, activeTab]);
     
     const handleTtsToggle = (enabled: boolean) => {
         dispatch(setTtsEnabled(enabled));
@@ -356,6 +370,7 @@ export default function Game() {
                         missions={missions}
                         vehicles={vehicles}
                         simulationTime={simulationTime}
+                        onCallMarkerClick={setExternalCallSelection}
                     />
                 </div>
                 <div className={styles['right-column']}>
@@ -381,7 +396,7 @@ export default function Game() {
                 </div>
 
                 <div className={styles['tab-content']}>
-                    {activeTab === 'chiamate' && <CallTaker clock={virtualClock} onCallSelect={setMapCenter} onSpeak={ttsEnabled ? speak : undefined} />}
+                    {activeTab === 'chiamate' && <CallTaker clock={virtualClock} onCallSelect={setMapCenter} onSpeak={ttsEnabled ? speak : undefined} externalCallSelection={externalCallSelection} />}
                     {activeTab === 'sanitario' && <Sanitario />}
                     {activeTab === 'logistica' && <Logistica clock={virtualClock} scheduler={scheduler} onStationSelect={setMapCenter} />}
                 </div>

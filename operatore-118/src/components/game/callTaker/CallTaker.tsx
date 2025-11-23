@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import styles from './CallTaker.module.css';
 import { useAppSelector, useAppDispatch } from '../../../core/redux/hooks';
 import { selectCalls, removeCall, markCallAsProcessed, addEvent } from '../../../core/redux/slices/game';
@@ -12,9 +12,11 @@ interface CallTakerProps {
     clock: VirtualClock;
     onCallSelect?: (location: [number, number]) => void;
     onSpeak?: (text: string) => void;
+    /** External trigger for call selection (e.g., from map marker clicks) */
+    externalCallSelection?: string | null;
 }
 
-export default function CallTaker({ clock, onCallSelect: onCallSelect, onSpeak }: CallTakerProps) {
+export default function CallTaker({ clock, onCallSelect: onCallSelect, onSpeak, externalCallSelection }: CallTakerProps) {
     const dispatch = useAppDispatch();
     const calls = useAppSelector(selectCalls);
     const [selectedCall, setSelectedCall] = useState<string | null>(null);
@@ -39,8 +41,8 @@ export default function CallTaker({ clock, onCallSelect: onCallSelect, onSpeak }
             clearInterval(interval);
         };
     }, [clock]);
-
-    const handleCallClick = (callId: string) => {
+    
+    const handleCallClick = useCallback((callId: string) => {
         setSelectedCall(callId);
         
         // Center map on call location
@@ -55,7 +57,14 @@ export default function CallTaker({ clock, onCallSelect: onCallSelect, onSpeak }
                 onSpeak(call.text);
             }
         }
-    };
+    }, [calls, onCallSelect, onSpeak]);
+    
+    // Handle external call selection (e.g., from map marker clicks)
+    useEffect(() => {
+        if (externalCallSelection) {
+            handleCallClick(externalCallSelection);
+        }
+    }, [externalCallSelection, handleCallClick]);
 
     const handleEventCreated = (eventDetails: EventDetails) => {
         if (!selectedCall) return;

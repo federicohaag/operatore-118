@@ -37,6 +37,8 @@ type MapProps = {
     vehicles?: Vehicle[];
     /** Current simulation time in milliseconds */
     simulationTime?: number;
+    /** Callback when a call marker is clicked */
+    onCallMarkerClick?: (callId: string) => void;
 }
 
 export default function Map({ 
@@ -49,7 +51,8 @@ export default function Map({
     events = [],
     missions = [],
     vehicles = [],
-    simulationTime = 0
+    simulationTime = 0,
+    onCallMarkerClick
 }: MapProps) {
     const mapRef = useRef<HTMLDivElement>(null);
     const mapInstanceRef = useRef<any>(null);
@@ -155,10 +158,18 @@ export default function Map({
                 const marker = window.L.marker(coordinates, { icon: callIcon })
                     .bindPopup(`<b>Chiamata</b><br>${call.location.address.street} ${call.location.address.number}, ${call.location.address.city.name}`)
                     .addTo(mapInstanceRef.current);
+                
+                // Add click handler to open the live call
+                if (onCallMarkerClick) {
+                    marker.on('click', () => {
+                        onCallMarkerClick(call.id);
+                    });
+                }
+                
                 callMarkersRef.current[call.id] = marker;
             }
         });
-    }, [calls, events]);
+    }, [calls, events, onCallMarkerClick]);
     
     // Separate effect for event markers to avoid re-initializing the entire map
     useEffect(() => {
