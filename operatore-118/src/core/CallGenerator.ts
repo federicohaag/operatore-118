@@ -1,5 +1,5 @@
 import type { Scheduler } from './Scheduler';
-import { EventType } from './EventQueue';
+import { EventType } from '../model/scheduledEvent';
 import { addCall } from './redux/slices/game';
 import { CALL_TEMPLATES } from '../data/calls';
 import type { Call } from '../model/call';

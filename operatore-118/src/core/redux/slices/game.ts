@@ -5,17 +5,24 @@ import type { Call } from '../../../model/call';
 import type { Event } from '../../../model/event';
 import type { Mission } from '../../../model/mission';
 import type { Vehicle } from '../../../model/vehicle';
+import type { PersistedSimEvent } from '../../../model/scheduledEvent';
 
 export interface GameSlice {
   calls: Call[];
   events: Event[];
   vehicles: Vehicle[];
+  /** Current simulation time in milliseconds (updated periodically, not every frame) */
+  simulationTime: number;
+  /** Scheduled events that need to be restored on page reload */
+  scheduledEvents: PersistedSimEvent[];
 }
 
 const initialState: GameSlice = {
   calls: [],
   events: [],
   vehicles: [],
+  simulationTime: 0,
+  scheduledEvents: [],
 };
 
 export const gameSlice = createSlice({
@@ -62,6 +69,13 @@ export const gameSlice = createSlice({
       const event = state.events.find(e => e.id === action.payload.eventId);
       if (event) {
         event.missions.push(action.payload.mission);
+        console.log('🚑 Mission assigned:', {
+          eventId: action.payload.eventId,
+          missionId: action.payload.mission.id,
+          vehicleId: action.payload.mission.vehicleId,
+          status: action.payload.mission.status,
+          createdAt: action.payload.mission.createdAt
+        });
       }
     },
     removeMissionFromEvent: (state: GameSlice, action: PayloadAction<{ eventId: string; vehicleId: string }>) => {
@@ -70,6 +84,48 @@ export const gameSlice = createSlice({
         event.missions = event.missions.filter(m => m.vehicleId !== action.payload.vehicleId);
       }
     },
+    // Simulation time action
+    setSimulationTime: (state: GameSlice, action: PayloadAction<number>) => {
+      state.simulationTime = action.payload;
+    },
+    // Mission lifecycle action - updates mission as it progresses (traveling → arrived → transporting → completed)
+    updateMissionStatus: (state: GameSlice, action: PayloadAction<{
+      eventId: string;
+      missionId: string;
+      status: Mission['status'];
+      route?: Mission['route'];
+    }>) => {
+      const event = state.events.find(e => e.id === action.payload.eventId);
+      if (event) {
+        const mission = event.missions.find(m => m.id === action.payload.missionId);
+        if (mission) {
+          const oldStatus = mission.status;
+          mission.status = action.payload.status;
+          if (action.payload.route !== undefined) {
+            mission.route = action.payload.route;
+          }
+          console.log('🔄 Mission status updated:', {
+            eventId: action.payload.eventId,
+            missionId: action.payload.missionId,
+            vehicleId: mission.vehicleId,
+            oldStatus,
+            newStatus: action.payload.status,
+            hasRoute: !!action.payload.route,
+            routeWaypoints: action.payload.route?.waypoints.length || 0
+          });
+        }
+      }
+    },
+    // Scheduled events management
+    addScheduledEvent: (state: GameSlice, action: PayloadAction<PersistedSimEvent>) => {
+      state.scheduledEvents.push(action.payload);
+    },
+    removeScheduledEvent: (state: GameSlice, action: PayloadAction<string>) => {
+      state.scheduledEvents = state.scheduledEvents.filter(e => e.id !== action.payload);
+    },
+    clearScheduledEvents: (state: GameSlice) => {
+      state.scheduledEvents = [];
+    }
   },
   extraReducers: (builder) => {
     builder.addCase(initStateFromStorage, (state, action) => {
@@ -80,6 +136,8 @@ export const gameSlice = createSlice({
         missions: event.missions || []
       }));
       state.vehicles = action.payload.game.vehicles || [];
+      state.simulationTime = action.payload.game.simulationTime || 0;
+      state.scheduledEvents = action.payload.game.scheduledEvents || [];
     });
     builder.addCase(syncStateFromOtherWindow, (state, action) => {
       // When syncing from other windows, update the game state
@@ -89,6 +147,8 @@ export const gameSlice = createSlice({
         missions: event.missions || []
       }));
       state.vehicles = action.payload.game.vehicles || [];
+      state.simulationTime = action.payload.game.simulationTime || 0;
+      state.scheduledEvents = action.payload.game.scheduledEvents || [];
     });
   },
 });
@@ -104,7 +164,12 @@ export const {
   removeEvent,
   clearEvents,
   addMissionToEvent,
-  removeMissionFromEvent
+  removeMissionFromEvent,
+  setSimulationTime,
+  updateMissionStatus,
+  addScheduledEvent,
+  removeScheduledEvent,
+  clearScheduledEvents
 } = gameSlice.actions;
 
 export const gameReducer = gameSlice.reducer;
@@ -126,3 +191,17 @@ export const selectVehicles = (state: RootState) => state.game.vehicles;
 
 export const selectVehicleById = (vehicleId: string) => (state: RootState) =>
   state.game.vehicles.find(vehicle => vehicle.id === vehicleId);
+
+export const selectSimulationTime = (state: RootState) => state.game.simulationTime;
+
+export const selectScheduledEvents = (state: RootState) => state.game.scheduledEvents;
+
+/**
+ * Selects all missions from all events
+ * 
+ * @returns Flattened array of all missions across all events
+ */
+export const selectAllMissions = createSelector(
+  [selectEvents],
+  (events) => events.flatMap(event => event.missions)
+);

@@ -6,15 +6,18 @@ import Sanitario from './sanitario/Sanitario';
 import Logistica from './logistica/Logistica';
 import GameClock from './gameClock/GameClock';
 import TextToSpeech, { useTextToSpeech } from '../textToSpeech/TextToSpeech';
+import LoadingScreen from '../LoadingScreen';
 import { VirtualClock } from '../../core/VirtualClock';
 import { Scheduler } from '../../core/Scheduler';
 import { CallGenerator } from '../../core/CallGenerator';
 import { AddressGenerator } from '../../core/AddressGenerator';
 import { CALL_GENERATOR_CONFIG } from '../../core/config';
+import { startSimulationTimeUpdates } from '../../core/utils/simulationTimeUpdater';
+import { restoreScheduledEvents } from '../../core/utils/restoreScheduledEvents';
 import type { SimContext } from '../../core/EventQueue';
 import { useAppSelector, useAppDispatch } from '../../core/redux/hooks';
 import { selectRegion, selectDispatchCenter, selectCities, clearSettings, selectTtsEnabled, setTtsEnabled, selectCallEmissionEnabled, setCallEmissionEnabled } from '../../core/redux/slices/settings';
-import { clearCalls, selectCalls, selectEvents, clearEvents, selectAllCalls, selectVehicles } from '../../core/redux/slices/game';
+import { clearCalls, selectCalls, selectEvents, clearEvents, selectAllCalls, selectVehicles, selectAllMissions, selectSimulationTime, setSimulationTime, selectScheduledEvents, clearScheduledEvents } from '../../core/redux/slices/game';
 import { STORAGE_STATE_KEY } from '../../core/redux/constants';
 import { REGIONS } from '../../model/aggregates';
 import { extractStations } from '../../model/vehicle';
@@ -24,9 +27,14 @@ import phoneRingSound from '../../assets/phone_ring.mp3';
 export default function Game() {
     const [activeTab, setActiveTab] = useState<'chiamate' | 'sanitario' | 'logistica'>('chiamate');
     const [mapCenter, setMapCenter] = useState<[number, number] | undefined>(undefined);
+    const [isReady, setIsReady] = useState(false);
+    const [isGameInitialized, setIsGameInitialized] = useState(false);
     const dispatch = useAppDispatch();
     const cities = useAppSelector(selectCities);
     const vehicles = useAppSelector(selectVehicles);
+    const missions = useAppSelector(selectAllMissions);
+    const simulationTime = useAppSelector(selectSimulationTime);
+    const scheduledEvents = useAppSelector(selectScheduledEvents);
     const unprocessedCalls = useAppSelector(selectCalls);
     const allCalls = useAppSelector(selectAllCalls);
     const events = useAppSelector(selectEvents);
@@ -120,7 +128,20 @@ export default function Game() {
     // Create simulation infrastructure using useState to survive React Strict Mode double-mounting
     // This ensures the same instances persist across the unmount/remount cycle in development
     const [infrastructure] = useState(() => {
-        const virtualClock = new VirtualClock(1.0, true, 0);
+        // Get persisted simulation time from localStorage directly (before Redux hydration)
+        let initialSimulationTime = 0;
+        try {
+            const savedState = localStorage.getItem('operatore-118-state');
+            if (savedState) {
+                const parsed = JSON.parse(savedState);
+                initialSimulationTime = parsed.game?.simulationTime || 0;
+                console.log('🕐 Restoring simulation time from localStorage:', initialSimulationTime);
+            }
+        } catch (error) {
+            console.error('Failed to read simulation time from localStorage:', error);
+        }
+        
+        const virtualClock = new VirtualClock(1.0, true, initialSimulationTime);
         
         const simContext: SimContext = {
             now: () => virtualClock.now(),
@@ -192,23 +213,56 @@ export default function Game() {
             if (isMountedRef.current && !isInitializedRef.current) {
                 isInitializedRef.current = true;
                 
+                // Start simulation time updates (updates Redux every sim-second)
+                const cancelTimeUpdates = startSimulationTimeUpdates(scheduler, dispatch, {
+                    updateInterval: 1000 // Update every 1 sim-second
+                });
+                
+                // Store cancel function for cleanup
+                (window as any).__cancelTimeUpdates = cancelTimeUpdates;
+                
                 // Only start call generator if cities are configured
                 if (cities.length > 0) {
                     try {
-                        // Initialize address generator before starting call generator
+                        console.log('🔄 Initializing AddressGenerator...');
                         await addressGenerator.initialize();
+                        console.log('✅ AddressGenerator initialized');
+                        console.log('🔄 Starting CallGenerator...');
                         callGenerator.start();
+                        console.log('✅ CallGenerator started');
+                        
+                        // Restore scheduled events after initialization
+                        console.log('🔄 Restoring scheduled events...');
+                        restoreScheduledEvents(
+                            scheduler,
+                            scheduledEvents,
+                            simulationTime,
+                            dispatch,
+                            vehicles.reduce((acc, v) => ({ ...acc, [v.id]: v }), {}),
+                            allCalls.reduce((acc, c) => ({ ...acc, [c.id]: c }), {})
+                        );
+                        console.log('✅ Scheduled events restored');
+                        
+                        setIsGameInitialized(true);
                     } catch (error) {
                         console.error('Failed to initialize AddressGenerator:', error);
+                        setIsGameInitialized(true); // Still mark as initialized to avoid blocking
                     }
                 } else {
                     console.warn('CallGenerator not started: no cities configured.');
+                    setIsGameInitialized(true);
                 }
             }
         });
         
         // Cleanup function
         return () => {
+            // Stop simulation time updates
+            if ((window as any).__cancelTimeUpdates) {
+                (window as any).__cancelTimeUpdates();
+                delete (window as any).__cancelTimeUpdates;
+            }
+            
             // Stop call generator
             callGenerator.stop();
             
@@ -255,7 +309,22 @@ export default function Game() {
         dispatch(clearSettings());
         dispatch(clearCalls());
         dispatch(clearEvents());
+        dispatch(clearScheduledEvents());
+        dispatch(setSimulationTime(0));
+        
+        // Reload the page to fully reset the VirtualClock and all simulation state
+        window.location.reload();
     };
+
+    // Show loading screen until Leaflet is ready AND game is initialized
+    if (!isReady || !isGameInitialized) {
+        return (
+            <LoadingScreen 
+                onReady={() => setIsReady(true)}
+                isGameInitialized={isGameInitialized}
+            />
+        );
+    }
 
     return (
         <div className={styles['game-container']}>
@@ -278,7 +347,16 @@ export default function Game() {
             </div>
                         <div className={styles['content-row']}>
                 <div className={styles['left-column']}>
-                    <Map initCenter={initCenter} center={mapCenter} stations={stations} calls={unprocessedCalls} events={eventLocations} />
+                    <Map 
+                        initCenter={initCenter} 
+                        center={mapCenter} 
+                        stations={stations} 
+                        calls={unprocessedCalls} 
+                        events={eventLocations}
+                        missions={missions}
+                        vehicles={vehicles}
+                        simulationTime={simulationTime}
+                    />
                 </div>
                 <div className={styles['right-column']}>
                 <div className={styles['tabs-header']}>
@@ -305,7 +383,7 @@ export default function Game() {
                 <div className={styles['tab-content']}>
                     {activeTab === 'chiamate' && <CallTaker clock={virtualClock} onCallSelect={setMapCenter} onSpeak={ttsEnabled ? speak : undefined} />}
                     {activeTab === 'sanitario' && <Sanitario />}
-                    {activeTab === 'logistica' && <Logistica clock={virtualClock} onStationSelect={setMapCenter} />}
+                    {activeTab === 'logistica' && <Logistica clock={virtualClock} scheduler={scheduler} onStationSelect={setMapCenter} />}
                 </div>
                 </div>
             </div>

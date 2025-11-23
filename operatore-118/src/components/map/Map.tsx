@@ -1,8 +1,11 @@
-import { useEffect, useRef } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import styles from './Map.module.css';
 import type { Call } from '../../model/call';
 import type { EventDetails } from '../../model/eventDetails';
 import { Codice } from '../../model/eventDetails';
+import type { Mission } from '../../model/mission';
+import type { Vehicle } from '../../model/vehicle';
+import AnimatedVehicleMarkers from './AnimatedVehicleMarkers';
 
 // Import Leaflet types
 declare global {
@@ -30,41 +33,35 @@ type MapProps = {
     stations?: Station[];
     calls?: Call[];
     events?: EventLocation[];
+    missions?: Mission[];
+    vehicles?: Vehicle[];
+    /** Current simulation time in milliseconds */
+    simulationTime?: number;
 }
 
-export default function Map({ initCenter, initZoom = 10, center, zoom, stations = [], calls = [], events = [] }: MapProps) {
+export default function Map({ 
+    initCenter, 
+    initZoom = 10, 
+    center, 
+    zoom, 
+    stations = [], 
+    calls = [], 
+    events = [],
+    missions = [],
+    vehicles = [],
+    simulationTime = 0
+}: MapProps) {
     const mapRef = useRef<HTMLDivElement>(null);
     const mapInstanceRef = useRef<any>(null);
+    const [mapReady, setMapReady] = useState(false);
     const markerRef = useRef<any>(null);
     const stationMarkersRef = useRef<any[]>([]);
     const callMarkersRef = useRef<Record<string, any>>({});
     const eventMarkersRef = useRef<Record<string, any>>({});
 
     useEffect(() => {
-        // Load Leaflet CSS and JS
-        const loadLeaflet = async () => {
-            // Load CSS
-            if (!document.querySelector('link[href*="leaflet"]')) {
-                const link = document.createElement('link');
-                link.rel = 'stylesheet';
-                link.href = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css';
-                document.head.appendChild(link);
-            }
-
-            // Load JS
-            if (!window.L) {
-                return new Promise<void>((resolve) => {
-                    const script = document.createElement('script');
-                    script.src = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js';
-                    script.onload = () => resolve();
-                    document.head.appendChild(script);
-                });
-            }
-        };
-
         const initializeMap = async () => {
-            await loadLeaflet();
-            
+            // Leaflet is already loaded by LoadingScreen, just initialize the map
             if (mapRef.current && window.L && !mapInstanceRef.current) {
                 // Initialize the map
                 mapInstanceRef.current = window.L.map(mapRef.current).setView(initCenter, initZoom);
@@ -74,6 +71,9 @@ export default function Map({ initCenter, initZoom = 10, center, zoom, stations 
                     attribution: '© OpenStreetMap contributors'
                 }).addTo(mapInstanceRef.current);
                 
+                // Mark map as ready to trigger re-render
+                setMapReady(true);
+                
                 // Add station markers after map is initialized
                 addStationMarkers();
             }
@@ -82,9 +82,7 @@ export default function Map({ initCenter, initZoom = 10, center, zoom, stations 
         // Function to add station markers
         const addStationMarkers = () => {
             if (!mapInstanceRef.current || !window.L || stations.length === 0) return;
-            
-            console.log('✅ Adding', stations.length, 'station markers to map');
-            
+                        
             // Remove existing station markers
             stationMarkersRef.current.forEach(marker => marker.remove());
             stationMarkersRef.current = [];
@@ -106,8 +104,6 @@ export default function Map({ initCenter, initZoom = 10, center, zoom, stations 
                     .addTo(mapInstanceRef.current);
                 stationMarkersRef.current.push(marker);
             });
-            
-            console.log('✅ Added', stationMarkersRef.current.length, 'station markers');
         };
 
         initializeMap();
@@ -157,7 +153,7 @@ export default function Map({ initCenter, initZoom = 10, center, zoom, stations 
                     call.location.address.longitude
                 ];
                 const marker = window.L.marker(coordinates, { icon: callIcon })
-                    .bindPopup(`<b>New Call</b><br>${call.location.address.street} ${call.location.address.number}, ${call.location.address.city.name}`)
+                    .bindPopup(`<b>Chiamata</b><br>${call.location.address.street} ${call.location.address.number}, ${call.location.address.city.name}`)
                     .addTo(mapInstanceRef.current);
                 callMarkersRef.current[call.id] = marker;
             }
@@ -208,8 +204,6 @@ export default function Map({ initCenter, initZoom = 10, center, zoom, stations 
                 .addTo(mapInstanceRef.current);
             eventMarkersRef.current[event.id] = marker;
         });
-        
-        console.log('✅ Updated event markers, now have', Object.keys(eventMarkersRef.current).length);
     }, [events]);
 
     // Update map center and marker when center prop changes
@@ -261,6 +255,14 @@ export default function Map({ initCenter, initZoom = 10, center, zoom, stations 
                 className={styles['leaflet-map']}
                 style={{ width: '100%', height: '100%' }}
             />
+            {mapReady && (
+                <AnimatedVehicleMarkers 
+                    mapInstance={mapInstanceRef.current}
+                    missions={missions}
+                    vehicles={vehicles}
+                    simulationTime={simulationTime}
+                />
+            )}
         </div>
     );
 }

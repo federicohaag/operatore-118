@@ -76,8 +76,6 @@ export default function CallTaker({ clock, onCallSelect: onCallSelect, onSpeak }
         // Dispatch to Redux store (persisted to localStorage and synced across tabs)
         dispatch(addEvent(newEvent));
         
-        console.log('New event created and dispatched:', newEvent);
-        
         // Mark the call as processed (will be filtered out from active calls)
         dispatch(markCallAsProcessed(selectedCall));
         setSelectedCall(null);

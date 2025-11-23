@@ -111,7 +111,7 @@ now(): number { ... }
 - Type imports with `import type` when only importing types
 - Export type definitions alongside their constant objects:
   ```typescript
-  export const EventType = { CALL_RECEIVED: "callReceived" } as const;
+  export const EventType = { CALL_RECEIVED: "CALL_RECEIVED" } as const;
   export type EventType = typeof EventType[keyof typeof EventType];
   ```
 - Prefer interfaces for public APIs, types for internal structures

@@ -1,17 +1,22 @@
 import { useState } from 'react';
 import styles from './Logistica.module.css';
 import { useAppSelector, useAppDispatch } from '../../../core/redux/hooks';
-import { selectEvents, addMissionToEvent, removeMissionFromEvent, selectAllCalls, selectVehicles } from '../../../core/redux/slices/game';
+import { selectEvents, addMissionToEvent, removeMissionFromEvent, selectAllCalls, selectVehicles, updateMissionStatus, addScheduledEvent, removeScheduledEvent } from '../../../core/redux/slices/game';
+import { EventType } from '../../../model/scheduledEvent';
 import type { Vehicle } from '../../../model/vehicle';
 import type { Event } from '../../../model/event';
+import { MissionStatus, calculateMissionSpeed } from '../../../model/mission';
+import { fetchRoute } from '../../../core/MissionRouting';
 import type { VirtualClock } from '../../../core/VirtualClock';
+import type { Scheduler } from '../../../core/Scheduler';
 
 type LogisticaProps = {
     clock: VirtualClock;
+    scheduler: Scheduler;
     onStationSelect?: (coordinates: [number, number]) => void;
 };
 
-export default function Logistica({ clock, onStationSelect }: LogisticaProps) {
+export default function Logistica({ clock, scheduler, onStationSelect }: LogisticaProps) {
     const events = useAppSelector(selectEvents);
     const calls = useAppSelector(selectAllCalls);
     const vehicles = useAppSelector(selectVehicles);
@@ -60,14 +65,79 @@ export default function Logistica({ clock, onStationSelect }: LogisticaProps) {
         });
 
         if (!wasSelected) {
+            // Find the event to get its priority code
+            const event = events.find(e => e.id === eventId);
+            if (!event) return;
+            
+            // Get the call associated with this event to access location
+            const call = getCallForEvent(event);
+            if (!call) return;
+            
+            // Calculate speed based on event priority (red=50, yellow=40, green=30)
+            const speed = calculateMissionSpeed(event.details.codice);
+            
             // Create mission when selecting
             const mission = {
                 id: crypto.randomUUID(),
                 vehicleId: vehicle.id,
-                createdAt: clock.now()
+                createdAt: clock.now(),
+                status: MissionStatus.MISSION_RECEIVED,
+                speed
             };
             
             dispatch(addMissionToEvent({ eventId, mission }));
+            
+            // Schedule automatic dispatch after 20 simulation seconds
+            const scheduledEventId = crypto.randomUUID();
+            const scheduledTime = clock.now() + 20000;
+            
+            // Persist scheduled event to Redux
+            dispatch(addScheduledEvent({
+                id: scheduledEventId,
+                scheduledTime,
+                type: EventType.MISSION_DISPATCH,
+                payload: { eventId, missionId: mission.id, vehicleId: vehicle.id, callId: call.id }
+            }));
+            
+            scheduler.scheduleIn(20000, {
+                type: EventType.MISSION_DISPATCH,
+                payload: { eventId, missionId: mission.id, vehicleId: vehicle.id, callId: call.id, scheduledEventId },
+                handler: async (ctx, ev) => {
+                    if (!ev.payload) return;
+                    
+                    // Remove from persisted scheduled events
+                    if (ctx.dispatch && ev.payload.scheduledEventId) {
+                        ctx.dispatch(removeScheduledEvent(ev.payload.scheduledEventId));
+                    }
+                    
+                    try {
+                        // Fetch real route from vehicle current location to event location using OSRM
+                        const route = await fetchRoute(
+                            {
+                                latitude: vehicle.currentLocation.latitude,
+                                longitude: vehicle.currentLocation.longitude
+                            },
+                            {
+                                latitude: call.location.address.latitude,
+                                longitude: call.location.address.longitude
+                            },
+                            ctx.now()
+                        );
+                        
+                        // Update mission status to traveling with real route
+                        if (ctx.dispatch) {
+                            ctx.dispatch(updateMissionStatus({
+                                eventId: ev.payload.eventId,
+                                missionId: ev.payload.missionId,
+                                status: MissionStatus.TRAVELING_TO_SCENE,
+                                route
+                            }));
+                        }
+                    } catch (error) {
+                        console.error('Failed to calculate route for mission dispatch:', error);
+                    }
+                }
+            });
         } else {
             // Remove mission when deselecting
             dispatch(removeMissionFromEvent({ eventId, vehicleId: vehicle.id }));
