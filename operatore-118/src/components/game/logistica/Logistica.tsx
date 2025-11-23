@@ -1,14 +1,12 @@
 import { useState } from 'react';
 import styles from './Logistica.module.css';
 import { useAppSelector, useAppDispatch } from '../../../core/redux/hooks';
-import { selectEvents, addMissionToEvent, removeMissionFromEvent, selectAllCalls, selectVehicles, updateMissionStatus, addScheduledEvent, removeScheduledEvent } from '../../../core/redux/slices/game';
+import { selectEvents, removeMissionFromEvent, selectAllCalls, selectVehicles } from '../../../core/redux/slices/game';
 import type { Vehicle } from '../../../model/vehicle';
 import type { Event } from '../../../model/event';
-import { MissionStatus, calculateMissionSpeed } from '../../../model/mission';
-import { fetchRoute } from '../../../core/MissionRouting';
 import type { VirtualClock } from '../../../core/VirtualClock';
 import type { Scheduler } from '../../../core/Scheduler';
-import { EventType } from '../../../core/EventQueue';
+import { createMission } from '../../../core/actions/missionActions';
 
 type LogisticaProps = {
     clock: VirtualClock;
@@ -73,70 +71,17 @@ export default function Logistica({ clock, scheduler, onStationSelect }: Logisti
             const call = getCallForEvent(event);
             if (!call) return;
             
-            // Calculate speed based on event priority (red=50, yellow=40, green=30)
-            const speed = calculateMissionSpeed(event.details.codice);
-            
-            // Create mission when selecting
-            const mission = {
-                id: crypto.randomUUID(),
-                vehicleId: vehicle.id,
-                createdAt: clock.now(),
-                status: MissionStatus.MISSION_RECEIVED,
-                speed
-            };
-            
-            dispatch(addMissionToEvent({ eventId, mission }));
-            
-            // Schedule automatic dispatch after 20 simulation seconds
-            const scheduledEventId = crypto.randomUUID();
-            const scheduledTime = clock.now() + 20000;
-            
-            // Persist scheduled event to Redux
-            dispatch(addScheduledEvent({
-                id: scheduledEventId,
-                scheduledTime,
-                type: EventType.MISSION_CREATION,
-                payload: { eventId, missionId: mission.id, vehicleId: vehicle.id, callId: call.id }
-            }));
-            
-            scheduler.scheduleIn(20000, {
-                type: EventType.MISSION_CREATION,
-                payload: { eventId, missionId: mission.id, vehicleId: vehicle.id, callId: call.id, scheduledEventId },
-                handler: async (ctx, ev) => {
-                    if (!ev.payload) return;
-                    
-                    // Remove from persisted scheduled events
-                    if (ctx.dispatch && ev.payload.scheduledEventId) {
-                        ctx.dispatch(removeScheduledEvent(ev.payload.scheduledEventId));
-                    }
-                    
-                    try {
-                        // Fetch real route from vehicle current location to event location using OSRM
-                        const route = await fetchRoute(
-                            {
-                                latitude: vehicle.currentLocation.latitude,
-                                longitude: vehicle.currentLocation.longitude
-                            },
-                            {
-                                latitude: call.location.address.latitude,
-                                longitude: call.location.address.longitude
-                            },
-                            ctx.now()
-                        );
-                        
-                        // Update mission status to traveling with real route
-                        if (ctx.dispatch) {
-                            ctx.dispatch(updateMissionStatus({
-                                eventId: ev.payload.eventId,
-                                missionId: ev.payload.missionId,
-                                status: MissionStatus.TRAVELING_TO_SCENE,
-                                route
-                            }));
-                        }
-                    } catch (error) {
-                        console.error('Failed to calculate route for mission dispatch:', error);
-                    }
-                }
+            // Create mission using core game action
+            createMission({
+                eventId,
+                vehicle,
+                call,
+                priorityCode: event.details.codice,
+                clock,
+                scheduler,
+                dispatch,
+                getVehicle: (id) => vehicles.find(v => v.id === id),
+                getCall: (id) => calls.find(c => c.id === id)
             });
         } else {
             // Remove mission when deselecting

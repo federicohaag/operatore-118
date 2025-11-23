@@ -1,9 +1,8 @@
 import type { Scheduler } from '../Scheduler';
-import { removeScheduledEvent, updateMissionStatus, type ScheduledEvent } from '../redux/slices/game';
-import { MissionStatus } from '../../model/mission';
-import { fetchRoute } from '../MissionRouting';
+import { removeScheduledEvent, type ScheduledEvent } from '../redux/slices/game';
 import type { AppDispatch } from '../redux/store';
 import { EventType } from '../EventQueue';
+import { createMissionDispatchHandler } from '../eventHandlers/missionHandlers';
 
 /**
  * Restores scheduled events from Redux state to the scheduler after page reload
@@ -28,53 +27,17 @@ export function restoreScheduledEvents(
         
         // Only restore events that haven't happened yet
         if (delay > 0) {
-            if (event.type === EventType.MISSION_CREATION) {
+            if (event.type === EventType.MISSION_DISPATCH) {
+                // Create handler using centralized factory
+                const handler = createMissionDispatchHandler(
+                    (id) => vehicles[id],
+                    (id) => calls[id]
+                );
+                
                 scheduler.scheduleIn(delay, {
-                    type: EventType.MISSION_CREATION,
+                    type: EventType.MISSION_DISPATCH,
                     payload: { ...event.payload, scheduledEventId: event.id },
-                    handler: async (ctx, ev) => {
-                        if (!ev.payload) return;
-                        
-                        // Remove from persisted scheduled events
-                        if (ctx.dispatch && ev.payload.scheduledEventId) {
-                            ctx.dispatch(removeScheduledEvent(ev.payload.scheduledEventId));
-                        }
-                        
-                        try {
-                            const vehicle = vehicles[ev.payload.vehicleId];
-                            const call = calls[ev.payload.callId];
-                            
-                            if (!vehicle || !call) {
-                                console.error('Vehicle or call not found for mission dispatch', ev.payload);
-                                return;
-                            }
-                            
-                            // Fetch real route from vehicle current location to event location using OSRM
-                            const route = await fetchRoute(
-                                {
-                                    latitude: vehicle.currentLocation.latitude,
-                                    longitude: vehicle.currentLocation.longitude
-                                },
-                                {
-                                    latitude: call.location.address.latitude,
-                                    longitude: call.location.address.longitude
-                                },
-                                ctx.now()
-                            );
-                            
-                            // Update mission status to traveling with real route
-                            if (ctx.dispatch) {
-                                ctx.dispatch(updateMissionStatus({
-                                    eventId: ev.payload.eventId,
-                                    missionId: ev.payload.missionId,
-                                    status: MissionStatus.TRAVELING_TO_SCENE,
-                                    route
-                                }));
-                            }
-                        } catch (error) {
-                            console.error('Error dispatching mission', error);
-                        }
-                    }
+                    handler: handler as any
                 });
             }
         } else {

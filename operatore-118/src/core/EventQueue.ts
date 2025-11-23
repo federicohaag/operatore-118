@@ -1,6 +1,6 @@
 export const EventType = {
   CALL_RECEIVED: "CALL_RECEIVED",
-  MISSION_CREATION: "MISSION_CREATION"
+  MISSION_DISPATCH: "MISSION_DISPATCH"
 } as const;
 
 export type EventType = typeof EventType[keyof typeof EventType];
