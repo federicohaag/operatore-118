@@ -1,5 +1,5 @@
 import type { SimEvent, SimContext } from '../../simulation/EventQueue';
-import { updateMissionStatus, incrementVehiclesOnScene } from '../../redux/slices/game';
+import { updateMissionStatus, incrementVehiclesOnScene, updateVehicleLocation } from '../../redux/slices/game';
 import { MissionStatus, type Route, type Waypoint } from '../../../model/mission';
 import type { Vehicle } from '../../../model/vehicle';
 import type { Call } from '../../../model/call';
@@ -27,11 +27,13 @@ export interface MissionDispatchPayload {
  * 
  * @param getVehicle - Function to retrieve vehicle by id
  * @param getCall - Function to retrieve call by id
+ * @param getMission - Function to retrieve mission and event data
  * @returns Handler function for the scheduler
  */
 export function createMissionDispatchHandler(
   getVehicle: (id: string) => Vehicle | undefined,
-  getCall: (id: string) => Call | undefined
+  getCall: (id: string) => Call | undefined,
+  getMission?: (eventId: string, missionId: string) => { mission: any; event: any } | null
 ) {
   return async (ctx: SimContext, event: SimEvent<MissionDispatchPayload>) => {
     if (!event.payload) return;
@@ -102,7 +104,7 @@ export function createMissionDispatchHandler(
             delayMs: travelTimeMs,
             eventType: EventType.VEHICLE_ARRIVED,
             payload: { eventId, missionId },
-            handler: createVehicleArrivedHandler()
+            handler: createVehicleArrivedHandler(getMission)
           });
           
           console.log('✅ Vehicle arrival event scheduled');
@@ -134,9 +136,12 @@ export interface VehicleArrivedPayload {
  * Note: Cleanup of persisted scheduled events is handled automatically by
  * the scheduling infrastructure (see scheduleEvent wrapper).
  * 
+ * @param getMission - Function to retrieve mission and event data
  * @returns Handler function for the scheduler
  */
-export function createVehicleArrivedHandler() {
+export function createVehicleArrivedHandler(
+  getMission?: (eventId: string, missionId: string) => { mission: any; event: any } | null
+) {
   return async (ctx: SimContext, event: SimEvent<VehicleArrivedPayload>) => {
     console.log('🎯 VEHICLE_ARRIVED event fired:', event.payload);
     
@@ -148,6 +153,26 @@ export function createVehicleArrivedHandler() {
       // Update mission status to ON_SCENE and clear route
       if (ctx.dispatch) {
         console.log('📍 Updating mission to ON_SCENE:', { eventId, missionId });
+        
+        // Get mission data to find the final destination
+        if (getMission) {
+          const missionData = getMission(eventId, missionId);
+          if (missionData?.mission?.route) {
+            const { waypoints } = missionData.mission.route;
+            if (waypoints && waypoints.length > 0) {
+              // Update vehicle location to the destination (last waypoint)
+              const destination = waypoints[waypoints.length - 1];
+              console.log('📌 Updating vehicle location to scene:', destination);
+              ctx.dispatch(updateVehicleLocation({
+                vehicleId: missionData.mission.vehicleId,
+                location: {
+                  latitude: destination.latitude,
+                  longitude: destination.longitude
+                }
+              }));
+            }
+          }
+        }
         
         ctx.dispatch(updateMissionStatus({
           eventId,

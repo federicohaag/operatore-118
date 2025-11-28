@@ -34,6 +34,7 @@ const MISSION_DISPATCH_DELAY_MS = 20000; // 20 simulation seconds
  * @param params.dispatch - Redux dispatch function
  * @param params.getVehicle - Function to retrieve vehicle by ID (for handler)
  * @param params.getCall - Function to retrieve call by ID (for handler)
+ * @param params.getMission - Function to retrieve mission and event data (for arrival handler)
  */
 export function createMission(params: {
   eventId: string;
@@ -45,8 +46,9 @@ export function createMission(params: {
   dispatch: AppDispatch;
   getVehicle: (id: string) => Vehicle | undefined;
   getCall: (id: string) => Call | undefined;
+  getMission?: (eventId: string, missionId: string) => { mission: any; event: any } | null;
 }): void {
-  const { eventId, vehicle, call, priorityCode, clock, scheduler, dispatch, getVehicle, getCall } = params;
+  const { eventId, vehicle, call, priorityCode, clock, scheduler, dispatch, getVehicle, getCall, getMission } = params;
   
   // Calculate speed based on event priority
   const speed = calculateMissionSpeed(priorityCode);
@@ -64,7 +66,7 @@ export function createMission(params: {
   dispatch(addMissionToEvent({ eventId, mission }));
   
   // Create handler using centralized factory
-  const handler = createMissionDispatchHandler(getVehicle, getCall);
+  const handler = createMissionDispatchHandler(getVehicle, getCall, getMission);
   
   // Schedule automatic dispatch (persisted + scheduler)
   scheduleEvent({

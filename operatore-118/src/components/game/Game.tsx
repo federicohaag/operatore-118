@@ -254,7 +254,8 @@ export default function Game() {
                             simulationTime,
                             dispatch,
                             vehicles.reduce((acc, v) => ({ ...acc, [v.id]: v }), {}),
-                            allCalls.reduce((acc, c) => ({ ...acc, [c.id]: c }), {})
+                            allCalls.reduce((acc, c) => ({ ...acc, [c.id]: c }), {}),
+                            events
                         );
                         console.log('✅ Scheduled events restored');
                         

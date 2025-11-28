@@ -13,6 +13,7 @@ import { createMissionDispatchHandler, createVehicleArrivedHandler } from './han
  * @param dispatch Redux dispatch function
  * @param vehicles Map of vehicle data for route calculation
  * @param calls Map of call data for route calculation
+ * @param events Array of events containing missions
  */
 export function restoreScheduledEvents(
     scheduler: Scheduler,
@@ -20,7 +21,8 @@ export function restoreScheduledEvents(
     currentSimulationTime: number,
     dispatch: AppDispatch,
     vehicles: any,
-    calls: any
+    calls: any,
+    events: any[]
 ) {
     scheduledEvents.forEach(event => {
         const delay = event.scheduledTime - currentSimulationTime;
@@ -31,7 +33,13 @@ export function restoreScheduledEvents(
                 // Create handler using centralized factory
                 const handler = createMissionDispatchHandler(
                     (id) => vehicles[id],
-                    (id) => calls[id]
+                    (id) => calls[id],
+                    (eventId, missionId) => {
+                        const evt = events.find(e => e.id === eventId);
+                        if (!evt) return null;
+                        const mission = evt.missions.find((m: any) => m.id === missionId);
+                        return mission ? { mission, event: evt } : null;
+                    }
                 );
                 
                 scheduler.scheduleIn(delay, {
@@ -41,7 +49,12 @@ export function restoreScheduledEvents(
                 });
             } else if (event.type === EventType.VEHICLE_ARRIVED) {
                 // Create handler for vehicle arrival
-                const handler = createVehicleArrivedHandler();
+                const handler = createVehicleArrivedHandler((eventId, missionId) => {
+                    const evt = events.find(e => e.id === eventId);
+                    if (!evt) return null;
+                    const mission = evt.missions.find((m: any) => m.id === missionId);
+                    return mission ? { mission, event: evt } : null;
+                });
                 
                 scheduler.scheduleIn(delay, {
                     type: EventType.VEHICLE_ARRIVED,

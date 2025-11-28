@@ -74,7 +74,13 @@ export default function Logistica({ clock, scheduler, onStationSelect }: Logisti
                 scheduler,
                 dispatch,
                 getVehicle: (id) => vehicles.find(v => v.id === id),
-                getCall: (id) => calls.find(c => c.id === id)
+                getCall: (id) => calls.find(c => c.id === id),
+                getMission: (evtId, msnId) => {
+                    const evt = events.find(e => e.id === evtId);
+                    if (!evt) return null;
+                    const mission = evt.missions.find(m => m.id === msnId);
+                    return mission ? { mission, event: evt } : null;
+                }
             });
         } else {
             // Remove mission when deselecting
