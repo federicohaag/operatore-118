@@ -109,8 +109,8 @@ export default function Logistica({ clock, scheduler, onStationSelect }: Logisti
             distance: calculateDistance(
                 eventLat,
                 eventLon,
-                vehicle.station.coordinates.latitude,
-                vehicle.station.coordinates.longitude
+                vehicle.currentLocation.latitude,
+                vehicle.currentLocation.longitude
             )
         })).sort((a, b) => a.distance - b.distance);
     };
