@@ -335,6 +335,21 @@
     cursor: not-allowed;
 }
 
+.vehicle-item.vehicle-unavailable {
+    opacity: 0.5;
+    background-color: #eff6ff;
+    cursor: not-allowed;
+    border-color: #3b82f6;
+}
+
+.vehicle-item.vehicle-unavailable:hover {
+    border-color: #3b82f6;
+}
+
+.vehicle-item.vehicle-unavailable .vehicle-label {
+    cursor: not-allowed;
+}
+
 .vehicle-checkbox {
     margin: 0;
     cursor: pointer;
@@ -355,7 +370,7 @@
 
 .vehicle-info {
     display: grid;
-    grid-template-columns: 60px 1fr;
+    grid-template-columns: 60px 1fr auto;
     align-items: center;
     gap: 12px;
 }
@@ -414,4 +429,19 @@
 
 .vehicle-on-mission {
     border-color: #f59e0b;
+}
+
+.mission-status-badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    background-color: #3b82f6;
+    color: white;
+    font-weight: 700;
+    font-size: 0.75em;
+    border: 2px solid #2563eb;
+    flex-shrink: 0;
 }

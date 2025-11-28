@@ -228,6 +228,7 @@ export default function Logistica({ clock, scheduler, onStationSelect }: Logisti
                 <div className={styles['right-column']}>
                     <VehiclesList
                         event={selectedEvent ?? null}
+                        allEvents={events}
                         vehicleTypeFilter={vehicleTypeFilter}
                         setVehicleTypeFilter={setVehicleTypeFilter}
                         filteredVehicles={filteredVehicles}
@@ -247,6 +248,7 @@ export default function Logistica({ clock, scheduler, onStationSelect }: Logisti
 
 type VehiclesListProps = {
     event: Event | null;
+    allEvents: Event[];
     vehicleTypeFilter: string;
     setVehicleTypeFilter: (filter: string) => void;
     filteredVehicles: Vehicle[];
@@ -261,6 +263,7 @@ type VehiclesListProps = {
 
 function VehiclesList({ 
     event,
+    allEvents,
     vehicleTypeFilter, 
     setVehicleTypeFilter, 
     filteredVehicles,
@@ -277,6 +280,18 @@ function VehiclesList({
         lat: call.location.address.latitude,
         lon: call.location.address.longitude
     } : null;
+
+    // Helper function to get mission status for a vehicle
+    const getMissionStatus = (vehicleId: string): { status: string; statusNumber: number } | null => {
+        for (const evt of allEvents) {
+            const mission = evt.missions.find(m => m.vehicleId === vehicleId);
+            if (mission) {
+                const statusNumber = getStatusNumber(mission.status);
+                return { status: mission.status, statusNumber };
+            }
+        }
+        return null;
+    };
 
     return (
         <div className={styles['vehicles-section']}>
@@ -318,10 +333,19 @@ function VehiclesList({
                     ).map(({ vehicle, distance }, index) => {
                         const isInOtherEvent = vehiclesInOtherEvents.has(vehicle.radioName);
                         const isOnMission = vehiclesOnMissions.has(vehicle.radioName);
+                        const missionInfo = getMissionStatus(vehicle.id);
+                        
+                        // Disable vehicle if it's on a mission with status other than traveling_to_scene or returning_to_station
+                        const isUnavailable = event && missionInfo && 
+                            missionInfo.status !== 'traveling_to_scene' && 
+                            missionInfo.status !== 'returning_to_station';
+                        
+                        const isDisabled = isInOtherEvent || isUnavailable;
+                        
                         return (
                             <div 
                                 key={`${vehicle.radioName}-${index}`} 
-                                className={`${styles['vehicle-item']} ${isInOtherEvent ? styles['vehicle-disabled'] : ''} ${!event && isOnMission ? styles['vehicle-on-mission'] : ''}`}
+                                className={`${styles['vehicle-item']} ${isInOtherEvent ? styles['vehicle-disabled'] : ''} ${isUnavailable ? styles['vehicle-unavailable'] : ''} ${!event && isOnMission ? styles['vehicle-on-mission'] : ''}`}
                             >
                                 {event && (
                                     <input
@@ -330,7 +354,7 @@ function VehiclesList({
                                         checked={selectedVehicles.has(vehicle.radioName)}
                                         onChange={() => handleVehicleCheckbox(vehicle.radioName, event.id)}
                                         className={styles['vehicle-checkbox']}
-                                        disabled={isInOtherEvent}
+                                        disabled={isDisabled}
                                     />
                                 )}
                                 <label htmlFor={event ? `vehicle-${vehicle.radioName}-${index}` : undefined} className={styles['vehicle-label']}>
@@ -339,6 +363,11 @@ function VehiclesList({
                                         <span className={styles['vehicle-radio-name']}>
                                             {vehicle.radioName} {distance !== null && <span className={styles['vehicle-distance']}>({distance.toFixed(1)} km)</span>}
                                         </span>
+                                        {missionInfo && (
+                                            <div className={styles['mission-status-badge']} title={getStatusLabel(missionInfo.status)}>
+                                                {missionInfo.statusNumber}
+                                            </div>
+                                        )}
                                     </div>
                                 </label>
                             </div>
@@ -365,5 +394,33 @@ function getCodiceInitial(codice: string): string {
         case 'GIALLO': return 'G';
         case 'VERDE': return 'V';
         default: return '?';
+    }
+}
+
+function getStatusNumber(status: string): number {
+    switch (status) {
+        case 'mission_received': return 0;
+        case 'traveling_to_scene': return 1;
+        case 'on_scene': return 2;
+        case 'traveling_to_hospital': return 3;
+        case 'on_hospital': return 4;
+        case 'free_on_hospital': return 5;
+        case 'returning_to_station': return 6;
+        case 'completed': return 7;
+        default: return 0;
+    }
+}
+
+function getStatusLabel(status: string): string {
+    switch (status) {
+        case 'mission_received': return '0: Missione ricevuta';
+        case 'traveling_to_scene': return '1: In viaggio verso il luogo';
+        case 'on_scene': return '2: Sul luogo';
+        case 'traveling_to_hospital': return '3: In viaggio verso ospedale';
+        case 'on_hospital': return '4: In ospedale';
+        case 'free_on_hospital': return '5: Libero in ospedale';
+        case 'returning_to_station': return '6: Ritorno alla base';
+        case 'completed': return '7: Completata';
+        default: return 'Sconosciuto';
     }
 }
