@@ -6,6 +6,7 @@ import type { Event } from '../../../model/event';
 import type { Mission } from '../../../model/mission';
 import type { Vehicle } from '../../../model/vehicle';
 import type { EventType } from '../../simulation/EventQueue';
+import { calculateVehicleCurrentLocation } from '../../../utils/vehiclePosition';
 
 /**
  * Persisted scheduled event for page reload recovery
@@ -18,6 +19,47 @@ export interface ScheduledEvent {
   scheduledTime: number;
   type: EventType;
   payload: any;
+}
+
+/**
+ * Recomputes vehicle current locations based on their mission progress
+ * 
+ * Called when loading state from storage to update vehicle positions
+ * based on how much time has elapsed in their missions.
+ * 
+ * @param vehicles Array of vehicles to update
+ * @param events Array of events containing missions
+ * @param currentSimTime Current simulation time in milliseconds
+ * @returns Array of vehicles with updated currentLocation fields
+ */
+function recomputeVehiclePositions(
+  vehicles: Vehicle[],
+  events: Event[],
+  currentSimTime: number
+): Vehicle[] {
+  return vehicles.map(vehicle => {
+    // Find vehicle's current mission across all events
+    let vehicleMission: Mission | undefined;
+    for (const event of events) {
+      const mission = event.missions.find(m => m.vehicleId === vehicle.id);
+      if (mission) {
+        vehicleMission = mission;
+        break;
+      }
+    }
+    
+    // Calculate vehicle's current position based on mission progress
+    const currentLocation = calculateVehicleCurrentLocation(
+      vehicle,
+      vehicleMission,
+      currentSimTime
+    );
+    
+    return {
+      ...vehicle,
+      currentLocation
+    };
+  });
 }
 
 export interface GameSlice {
@@ -159,9 +201,16 @@ export const gameSlice = createSlice({
         missions: event.missions || [],
         vehiclesOnScene: event.vehiclesOnScene || 0
       }));
-      state.vehicles = action.payload.game.vehicles || [];
       state.simulationTime = action.payload.game.simulationTime || 0;
       state.scheduledEvents = action.payload.game.scheduledEvents || [];
+      
+      // Recompute vehicle positions based on mission progress
+      const loadedVehicles = action.payload.game.vehicles || [];
+      state.vehicles = recomputeVehiclePositions(
+        loadedVehicles,
+        state.events,
+        state.simulationTime
+      );
     });
     builder.addCase(syncStateFromOtherWindow, (state, action) => {
       // When syncing from other windows, update the game state
@@ -171,9 +220,16 @@ export const gameSlice = createSlice({
         missions: event.missions || [],
         vehiclesOnScene: event.vehiclesOnScene || 0
       }));
-      state.vehicles = action.payload.game.vehicles || [];
       state.simulationTime = action.payload.game.simulationTime || 0;
       state.scheduledEvents = action.payload.game.scheduledEvents || [];
+      
+      // Recompute vehicle positions based on mission progress
+      const syncedVehicles = action.payload.game.vehicles || [];
+      state.vehicles = recomputeVehiclePositions(
+        syncedVehicles,
+        state.events,
+        state.simulationTime
+      );
     });
   },
 });
