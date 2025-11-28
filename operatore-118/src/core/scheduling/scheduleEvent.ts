@@ -60,6 +60,15 @@ export function scheduleEvent<TPayload = any>(params: {
   const scheduledEventId = crypto.randomUUID();
   const scheduledTime = clock.now() + delayMs;
   
+  console.log('📅 Scheduling event:', {
+    type: eventType,
+    scheduledEventId,
+    currentTime: clock.now(),
+    delayMs,
+    scheduledTime,
+    payload
+  });
+  
   // Persist to Redux (for reload persistence)
   dispatch(addScheduledEvent({
     id: scheduledEventId,

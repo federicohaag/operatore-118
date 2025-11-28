@@ -8,7 +8,8 @@
 
 import type { Scheduler } from '../scheduling/Scheduler';
 import type { AppDispatch } from '../redux/store';
-import { setSimulationTime } from '../redux/slices/game';
+import { EventType } from './EventQueue';
+import { createSimulationTimeUpdateHandler } from '../scheduling/handlers/simulationTimeHandler';
 
 /**
  * Configuration for simulation time updates
@@ -39,16 +40,8 @@ export function startSimulationTimeUpdates(
   
   const scheduleNext = () => {
     const { cancel } = scheduler.scheduleIn(finalConfig.updateInterval, {
-      type: 'UPDATE_SIMULATION_TIME' as any, // Custom event type for time updates
-      handler: (ctx) => {
-        // Update Redux with current simulation time
-        if (ctx.dispatch) {
-          ctx.dispatch(setSimulationTime(ctx.now()));
-        }
-        
-        // Schedule the next update
-        scheduleNext();
-      }
+      type: EventType.UPDATE_SIMULATION_TIME,
+      handler: createSimulationTimeUpdateHandler(scheduleNext)
     });
     
     currentCancelFn = cancel;

@@ -2,7 +2,7 @@ import type { Scheduler } from './Scheduler';
 import { removeScheduledEvent, type ScheduledEvent } from '../redux/slices/game';
 import type { AppDispatch } from '../redux/store';
 import { EventType } from '../simulation/EventQueue';
-import { createMissionDispatchHandler } from './handlers/missionHandlers';
+import { createMissionDispatchHandler, createVehicleArrivedHandler } from './handlers/missionHandlers';
 
 /**
  * Restores scheduled events from Redux state to the scheduler after page reload
@@ -36,6 +36,15 @@ export function restoreScheduledEvents(
                 
                 scheduler.scheduleIn(delay, {
                     type: EventType.MISSION_DISPATCH,
+                    payload: { ...event.payload, scheduledEventId: event.id },
+                    handler: handler as any
+                });
+            } else if (event.type === EventType.VEHICLE_ARRIVED) {
+                // Create handler for vehicle arrival
+                const handler = createVehicleArrivedHandler();
+                
+                scheduler.scheduleIn(delay, {
+                    type: EventType.VEHICLE_ARRIVED,
                     payload: { ...event.payload, scheduledEventId: event.id },
                     handler: handler as any
                 });

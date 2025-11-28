@@ -24,4 +24,7 @@ export type Event = {
     
     /** Timestamp when the event was created (milliseconds since epoch) */
     createdAt: number;
+    
+    /** Number of vehicles currently on scene for this event */
+    vehiclesOnScene: number;
 };

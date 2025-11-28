@@ -23,6 +23,7 @@ export type EventLocation = {
     id: string;
     call: Call;
     details: EventDetails;
+    vehiclesOnScene?: number;
 };
 
 type MapProps = {
@@ -201,16 +202,55 @@ export default function Map({
             ];
             
             const color = getMarkerColor(event.details.codice);
-            const eventIcon = window.L.icon({
-                iconUrl: `https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-${color}.png`,
-                shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/images/marker-shadow.png',
-                iconSize: [25, 41],
-                iconAnchor: [12, 41],
-                popupAnchor: [1, -34],
-                shadowSize: [41, 41]
-            });
+            const vehiclesOnScene = event.vehiclesOnScene || 0;
             
-            const marker = window.L.marker(coordinates, { icon: eventIcon })
+            // Create marker with badge if vehicles are on scene
+            let icon;
+            if (vehiclesOnScene > 0) {
+                // Custom HTML icon with badge
+                icon = window.L.divIcon({
+                    html: `
+                        <div style="position: relative;">
+                            <img src="https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-${color}.png" 
+                                 style="width: 25px; height: 41px;" />
+                            <div style="
+                                position: absolute;
+                                top: -8px;
+                                right: -8px;
+                                background: #ff4444;
+                                color: white;
+                                border-radius: 50%;
+                                width: 20px;
+                                height: 20px;
+                                display: flex;
+                                align-items: center;
+                                justify-content: center;
+                                font-weight: bold;
+                                font-size: 12px;
+                                border: 2px solid white;
+                                box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+                            ">${vehiclesOnScene}</div>
+                        </div>
+                    `,
+                    className: 'custom-event-marker',
+                    iconSize: [25, 41],
+                    iconAnchor: [12, 41],
+                    popupAnchor: [1, -34]
+                });
+            } else {
+                // Standard marker without badge
+                icon = window.L.icon({
+                    iconUrl: `https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-${color}.png`,
+                    shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/images/marker-shadow.png',
+                    iconSize: [25, 41],
+                    iconAnchor: [12, 41],
+                    popupAnchor: [1, -34],
+                    shadowSize: [41, 41]
+                });
+            }
+            
+            
+            const marker = window.L.marker(coordinates, { icon })
                 .bindPopup(`<b>Event ${event.details.codice}</b><br>${event.call.location.address.street} ${event.call.location.address.number}, ${event.call.location.address.city.name}`)
                 .addTo(mapInstanceRef.current);
             eventMarkersRef.current[event.id] = marker;

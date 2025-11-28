@@ -73,7 +73,7 @@ export function createMission(params: {
     dispatch,
     delayMs: MISSION_DISPATCH_DELAY_MS,
     eventType: EventType.MISSION_DISPATCH,
-    payload: { eventId, missionId: mission.id, vehicleId: vehicle.id, callId: call.id },
+    payload: { eventId, missionId: mission.id, vehicleId: vehicle.id, callId: call.id, missionSpeed: speed },
     handler: handler as any
   });
 }

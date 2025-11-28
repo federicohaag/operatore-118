@@ -1,5 +1,5 @@
 import { VirtualClock } from '../simulation/VirtualClock';
-import { EventQueue } from '../simulation/EventQueue';
+import { EventQueue, EventType } from '../simulation/EventQueue';
 import type { SimEvent, SimContext } from '../simulation/EventQueue';
 
 /**
@@ -20,7 +20,12 @@ export class Scheduler {
   /** Create scheduler and subscribe to clock changes. */
   constructor(clock: VirtualClock, context: SimContext) {
     this.clock = clock;
-    this.context = context;
+    // Augment context with scheduler and clock for nested scheduling
+    this.context = {
+      ...context,
+      scheduler: this,
+      clock: clock
+    };
     
     // Subscribe to clock changes to re-arm timers
     this.clockUnsubscribe = clock.onChange(() => {
@@ -198,6 +203,15 @@ export class Scheduler {
     
     for (const event of eventsToProcess) {
       try {
+        // Avoid logging high-frequency simulation time updates
+        if (event.type !== EventType.UPDATE_SIMULATION_TIME) {
+          console.log('⚡ Executing event:', {
+            type: event.type,
+            time: event.time,
+            currentTime: this.clock.now(),
+            payload: event.payload
+          });
+        }
         event.handler(this.context, event);
       } catch (error) {
         console.error(`Error in event handler (type: ${event.type}, time: ${event.time}):`, error);
@@ -216,6 +230,14 @@ export class Scheduler {
             const remaining = eventsToProcess.slice(maxBurstSize);
             for (const remainingEvent of remaining) {
               try {
+                if (remainingEvent.type !== EventType.UPDATE_SIMULATION_TIME) {
+                  console.log('⚡ Executing event (after yield):', {
+                    type: remainingEvent.type,
+                    time: remainingEvent.time,
+                    currentTime: this.clock.now(),
+                    payload: remainingEvent.payload
+                  });
+                }
                 remainingEvent.handler(this.context, remainingEvent);
               } catch (error) {
                 console.error(`Error in event handler (type: ${remainingEvent.type}, time: ${remainingEvent.time}):`, error);
@@ -238,6 +260,14 @@ export class Scheduler {
         // Process newly scheduled events that are also due
         const event = this.queue.pop()!;
         try {
+          if (event.type !== EventType.UPDATE_SIMULATION_TIME) {
+            console.log('⚡ Executing newly scheduled event:', {
+              type: event.type,
+              time: event.time,
+              currentTime: this.clock.now(),
+              payload: event.payload
+            });
+          }
           event.handler(this.context, event);
         } catch (error) {
           console.error(`Error in event handler (type: ${event.type}, time: ${event.time}):`, error);

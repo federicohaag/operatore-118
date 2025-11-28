@@ -1,5 +1,5 @@
 import type { SimEvent, SimContext } from '../../simulation/EventQueue';
-import { updateMissionStatus } from '../../redux/slices/game';
+import { updateMissionStatus, incrementVehiclesOnScene } from '../../redux/slices/game';
 import { MissionStatus, type Route, type Waypoint } from '../../../model/mission';
 import type { Vehicle } from '../../../model/vehicle';
 import type { Call } from '../../../model/call';
@@ -12,6 +12,7 @@ export interface MissionDispatchPayload {
   missionId: string;
   vehicleId: string;
   callId: string;
+  missionSpeed: number;
   scheduledEventId?: string;
 }
 
@@ -35,7 +36,7 @@ export function createMissionDispatchHandler(
   return async (ctx: SimContext, event: SimEvent<MissionDispatchPayload>) => {
     if (!event.payload) return;
     
-    const { eventId, missionId, vehicleId, callId } = event.payload;
+    const { eventId, missionId, vehicleId, callId, missionSpeed } = event.payload;
     
     try {
       const vehicle = getVehicle(vehicleId);
@@ -45,6 +46,12 @@ export function createMissionDispatchHandler(
         console.error('Vehicle or call not found for mission dispatch', event.payload);
         return;
       }
+      
+      console.log('📦 Dispatching mission:', {
+        missionId,
+        vehicleId,
+        speed: missionSpeed
+      });
       
       // Fetch real route from vehicle current location to call location using OSRM
       const route = await fetchRoute(
@@ -67,9 +74,96 @@ export function createMissionDispatchHandler(
           status: MissionStatus.TRAVELING_TO_SCENE,
           route
         }));
+        
+        // Schedule vehicle arrival event
+        // Calculate arrival time: totalDistance (m) / speed (km/h) = time (hours)
+        // Convert to milliseconds
+        if (ctx.scheduler && ctx.clock) {
+          const distanceKm = route.totalDistance / 1000; // meters to km
+          const travelTimeHours = distanceKm / missionSpeed; // Use mission speed from payload
+          const travelTimeMs = travelTimeHours * 60 * 60 * 1000;
+          
+          console.log('⏱️ Calculated arrival time:', {
+            distanceKm,
+            speedKmh: missionSpeed,
+            travelTimeHours,
+            travelTimeMs,
+            arrivalAt: ctx.clock.now() + travelTimeMs
+          });
+          
+          // Import scheduleEvent dynamically to avoid circular dependency
+          const { scheduleEvent } = await import('../scheduleEvent');
+          const { EventType } = await import('../../simulation/EventQueue');
+          
+          scheduleEvent({
+            scheduler: ctx.scheduler,
+            clock: ctx.clock,
+            dispatch: ctx.dispatch as any,
+            delayMs: travelTimeMs,
+            eventType: EventType.VEHICLE_ARRIVED,
+            payload: { eventId, missionId },
+            handler: createVehicleArrivedHandler()
+          });
+          
+          console.log('✅ Vehicle arrival event scheduled');
+        } else {
+          console.warn('⚠️ Could not schedule vehicle arrival - missing scheduler or clock');
+        }
       }
     } catch (error) {
       console.error('Failed to calculate route for mission dispatch:', error);
+    }
+  };
+}
+
+/**
+ * Payload for VEHICLE_ARRIVED event handler.
+ */
+export interface VehicleArrivedPayload {
+  eventId: string;
+  missionId: string;
+  scheduledEventId?: string;
+}
+
+/**
+ * Creates a VEHICLE_ARRIVED event handler.
+ * 
+ * Handles vehicle arrival at the scene: updates mission status to ON_SCENE
+ * and clears the route since the vehicle is no longer traveling.
+ * 
+ * Note: Cleanup of persisted scheduled events is handled automatically by
+ * the scheduling infrastructure (see scheduleEvent wrapper).
+ * 
+ * @returns Handler function for the scheduler
+ */
+export function createVehicleArrivedHandler() {
+  return async (ctx: SimContext, event: SimEvent<VehicleArrivedPayload>) => {
+    console.log('🎯 VEHICLE_ARRIVED event fired:', event.payload);
+    
+    if (!event.payload) return;
+    
+    const { eventId, missionId } = event.payload;
+    
+    try {
+      // Update mission status to ON_SCENE and clear route
+      if (ctx.dispatch) {
+        console.log('📍 Updating mission to ON_SCENE:', { eventId, missionId });
+        
+        ctx.dispatch(updateMissionStatus({
+          eventId,
+          missionId,
+          status: MissionStatus.ON_SCENE,
+          route: undefined
+        }));
+        
+        // Increment vehicles on scene counter
+        console.log('➕ Incrementing vehicles on scene for event:', eventId);
+        ctx.dispatch(incrementVehiclesOnScene(eventId));
+        
+        console.log('✅ Vehicle arrival processed successfully');
+      }
+    } catch (error) {
+      console.error('Failed to update mission status to ON_SCENE:', error);
     }
   };
 }

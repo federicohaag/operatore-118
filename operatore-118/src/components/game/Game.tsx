@@ -48,7 +48,7 @@ export default function Game() {
     const eventLocationKey = useMemo(() => {
         return events.map(e => {
             const call = allCalls.find(c => c.id === e.callId);
-            return call ? `${e.id}:${call.location.address.latitude},${call.location.address.longitude}` : `${e.id}:null`;
+            return call ? `${e.id}:${call.location.address.latitude},${call.location.address.longitude}:${e.vehiclesOnScene || 0}` : `${e.id}:null:0`;
         }).join('|');
     }, [events, allCalls]);
     
@@ -60,7 +60,8 @@ export default function Game() {
             return call ? {
                 id: e.id,
                 call: call,
-                details: e.details
+                details: e.details,
+                vehiclesOnScene: e.vehiclesOnScene
             } : null;
         }).filter((loc): loc is NonNullable<typeof loc> => loc !== null),
         [eventLocationKey]

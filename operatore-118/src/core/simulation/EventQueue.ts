@@ -1,6 +1,8 @@
 export const EventType = {
   CALL_RECEIVED: "CALL_RECEIVED",
-  MISSION_DISPATCH: "MISSION_DISPATCH"
+  MISSION_DISPATCH: "MISSION_DISPATCH",
+  VEHICLE_ARRIVED: "VEHICLE_ARRIVED",
+  UPDATE_SIMULATION_TIME: "UPDATE_SIMULATION_TIME"
 } as const;
 
 export type EventType = typeof EventType[keyof typeof EventType];
@@ -17,6 +19,8 @@ export type SimEvent<Payload = any> = {
 export type SimContext = {
   now: () => number;
   dispatch?: (action: any) => void;
+  scheduler?: any; // Scheduler instance for scheduling follow-up events
+  clock?: any; // VirtualClock instance for time calculations
 };
 
 /** Internal node stored in the heap (adds metadata). */

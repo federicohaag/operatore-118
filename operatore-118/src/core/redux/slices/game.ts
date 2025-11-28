@@ -129,6 +129,16 @@ export const gameSlice = createSlice({
         }
       }
     },
+    incrementVehiclesOnScene: (state: GameSlice, action: PayloadAction<string>) => {
+      const event = state.events.find(e => e.id === action.payload);
+      if (event) {
+        event.vehiclesOnScene = (event.vehiclesOnScene || 0) + 1;
+        console.log('🚑 Vehicle arrived on scene:', {
+          eventId: action.payload,
+          vehiclesOnScene: event.vehiclesOnScene
+        });
+      }
+    },
     // Scheduled events management
     addScheduledEvent: (state: GameSlice, action: PayloadAction<ScheduledEvent>) => {
       state.scheduledEvents.push(action.payload);
@@ -146,7 +156,8 @@ export const gameSlice = createSlice({
       state.calls = action.payload.game.calls;
       state.events = action.payload.game.events.map(event => ({
         ...event,
-        missions: event.missions || []
+        missions: event.missions || [],
+        vehiclesOnScene: event.vehiclesOnScene || 0
       }));
       state.vehicles = action.payload.game.vehicles || [];
       state.simulationTime = action.payload.game.simulationTime || 0;
@@ -157,7 +168,8 @@ export const gameSlice = createSlice({
       state.calls = action.payload.game.calls;
       state.events = action.payload.game.events.map(event => ({
         ...event,
-        missions: event.missions || []
+        missions: event.missions || [],
+        vehiclesOnScene: event.vehiclesOnScene || 0
       }));
       state.vehicles = action.payload.game.vehicles || [];
       state.simulationTime = action.payload.game.simulationTime || 0;
@@ -180,6 +192,7 @@ export const {
   removeMissionFromEvent,
   setSimulationTime,
   updateMissionStatus,
+  incrementVehiclesOnScene,
   addScheduledEvent,
   removeScheduledEvent,
   clearScheduledEvents
